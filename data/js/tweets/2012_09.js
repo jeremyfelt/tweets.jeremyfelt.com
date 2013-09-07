@@ -13,12 +13,11 @@ Grailbird.data.tweets_2012_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252642805401395201",
   "text" : "Hmm. @rdio embeds appear to not work in mobile Safari? Weirdish.",
   "id" : 252642805401395201,
-  "created_at" : "Mon Oct 01 05:35:13 +0000 2012",
+  "created_at" : "2012-10-01 05:35:13 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -44,12 +43,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "jeremyfelt.com/music/2012/09/\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252641385520459777",
   "text" : "A Steve Earle Listening Day http://t.co/pszS28fb #11albums!",
   "id" : 252641385520459777,
-  "created_at" : "Mon Oct 01 05:29:34 +0000 2012",
+  "created_at" : "2012-10-01 05:29:34 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -67,12 +65,11 @@ Grailbird.data.tweets_2012_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252627135141928960",
   "text" : "Oooh, Apple released a carrier update for Verizon and my LTE started working. Sweet!",
   "id" : 252627135141928960,
-  "created_at" : "Mon Oct 01 04:32:57 +0000 2012",
+  "created_at" : "2012-10-01 04:32:57 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -95,12 +92,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "instagr.am/p/QOWjgupHjj/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252607903154978816",
   "text" : "Even Guinness from a can should be enjoyed with the right glassware. http://t.co/8i3opVQb",
   "id" : 252607903154978816,
-  "created_at" : "Mon Oct 01 03:16:31 +0000 2012",
+  "created_at" : "2012-10-01 03:16:31 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -132,8 +128,7 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "yfrog.com/od3uxop"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252589007551217664",
   "text" : "RT @tcarmody: This is life on the internet in 2012: http://t.co/Hr8BsiLc #RomneyStyle",
   "retweeted_status" : {
@@ -152,24 +147,23 @@ Grailbird.data.tweets_2012_09 =
         "display_url" : "yfrog.com/od3uxop"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "252588219726712832",
     "text" : "This is life on the internet in 2012: http://t.co/Hr8BsiLc #RomneyStyle",
     "id" : 252588219726712832,
-    "created_at" : "Mon Oct 01 01:58:19 +0000 2012",
+    "created_at" : "2012-10-01 01:58:19 +0000",
     "user" : {
       "name" : "Tim Carmody",
       "screen_name" : "tcarmody",
       "protected" : false,
       "id_str" : "14439168",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3752924868/36c143bdc8efb32521d50729d3864d09_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000393145478/e1a2562f96263eb58b2261d1aaf72fbf_normal.png",
       "id" : 14439168,
       "verified" : true
     }
   },
   "id" : 252589007551217664,
-  "created_at" : "Mon Oct 01 02:01:26 +0000 2012",
+  "created_at" : "2012-10-01 02:01:26 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -194,14 +188,13 @@ Grailbird.data.tweets_2012_09 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "252581862160093184",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252585147914915840",
   "in_reply_to_user_id" : 335110427,
   "text" : "@tollmanz I can imagine something involving scheduled posts in WordPress. Though that's inconvenient if you're talking personal mail.",
   "id" : 252585147914915840,
   "in_reply_to_status_id" : 252581862160093184,
-  "created_at" : "Mon Oct 01 01:46:06 +0000 2012",
+  "created_at" : "2012-10-01 01:46:06 +0000",
   "in_reply_to_screen_name" : "tollmanz",
   "in_reply_to_user_id_str" : "335110427",
   "user" : {
@@ -226,12 +219,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "steveearle.net/biblio/america\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252569821017960448",
   "text" : "\"I'll come down from the mountain and make a record as loud as New York City and as lonesome as the Cumberland Gap.\" http://t.co/MK2Js2We",
   "id" : 252569821017960448,
-  "created_at" : "Mon Oct 01 00:45:12 +0000 2012",
+  "created_at" : "2012-10-01 00:45:12 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -255,12 +247,11 @@ Grailbird.data.tweets_2012_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252533000921825283",
   "text" : "What do you have against the world, @united?",
   "id" : 252533000921825283,
-  "created_at" : "Sun Sep 30 22:18:53 +0000 2012",
+  "created_at" : "2012-09-30 22:18:53 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -289,8 +280,7 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "blog.appfog.com/could-portland\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252514376546938881",
   "text" : "RT @danielbachhuber: Could Portland be the best city in the country for developers right now? http://t.co/CReGXW5C",
   "retweeted_status" : {
@@ -306,12 +296,11 @@ Grailbird.data.tweets_2012_09 =
         "display_url" : "blog.appfog.com/could-portland\u2026"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "252512794199601152",
     "text" : "Could Portland be the best city in the country for developers right now? http://t.co/CReGXW5C",
     "id" : 252512794199601152,
-    "created_at" : "Sun Sep 30 20:58:36 +0000 2012",
+    "created_at" : "2012-09-30 20:58:36 +0000",
     "user" : {
       "name" : "Daniel Bachhuber",
       "screen_name" : "danielbachhuber",
@@ -323,7 +312,7 @@ Grailbird.data.tweets_2012_09 =
     }
   },
   "id" : 252514376546938881,
-  "created_at" : "Sun Sep 30 21:04:53 +0000 2012",
+  "created_at" : "2012-09-30 21:04:53 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -341,12 +330,11 @@ Grailbird.data.tweets_2012_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252471502329503744",
   "text" : "It is now a Steve Earle day.",
   "id" : 252471502329503744,
-  "created_at" : "Sun Sep 30 18:14:31 +0000 2012",
+  "created_at" : "2012-09-30 18:14:31 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -369,12 +357,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "youtube.com/watch?feature=\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252468610931490816",
   "text" : "Last night's rock celebration with Neil Young. I love how happy everyone on the stage is to be there. http://t.co/cwi3GbxR",
   "id" : 252468610931490816,
-  "created_at" : "Sun Sep 30 18:03:02 +0000 2012",
+  "created_at" : "2012-09-30 18:03:02 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -403,8 +390,7 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "nyti.ms/OwdWPX"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252439767281713152",
   "text" : "RT @nytjim: Think your last flight was bad? Read this: A Trans-Atlantic Trip Turns Kafkaesque http://t.co/6COCcTv9",
   "retweeted_status" : {
@@ -420,12 +406,11 @@ Grailbird.data.tweets_2012_09 =
         "display_url" : "nyti.ms/OwdWPX"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "252420595600478210",
     "text" : "Think your last flight was bad? Read this: A Trans-Atlantic Trip Turns Kafkaesque http://t.co/6COCcTv9",
     "id" : 252420595600478210,
-    "created_at" : "Sun Sep 30 14:52:14 +0000 2012",
+    "created_at" : "2012-09-30 14:52:14 +0000",
     "user" : {
       "name" : "Jim Roberts",
       "screen_name" : "nycjim",
@@ -437,7 +422,7 @@ Grailbird.data.tweets_2012_09 =
     }
   },
   "id" : 252439767281713152,
-  "created_at" : "Sun Sep 30 16:08:25 +0000 2012",
+  "created_at" : "2012-09-30 16:08:25 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -460,12 +445,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "setlist.fm/setlist/local-\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252117444414566400",
   "text" : "Setlist.fm is the coolest thing I hadn't heard of until now. Auto linked videos for each song! http://t.co/SEAGKR9k",
   "id" : 252117444414566400,
-  "created_at" : "Sat Sep 29 18:47:37 +0000 2012",
+  "created_at" : "2012-09-29 18:47:37 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -490,14 +474,13 @@ Grailbird.data.tweets_2012_09 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "252100712962600960",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252101578708881408",
   "in_reply_to_user_id" : 335110427,
   "text" : "@tollmanz Indeed!",
   "id" : 252101578708881408,
   "in_reply_to_status_id" : 252100712962600960,
-  "created_at" : "Sat Sep 29 17:44:34 +0000 2012",
+  "created_at" : "2012-09-29 17:44:34 +0000",
   "in_reply_to_screen_name" : "tollmanz",
   "in_reply_to_user_id_str" : "335110427",
   "user" : {
@@ -517,12 +500,11 @@ Grailbird.data.tweets_2012_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "251991025889976320",
   "text" : "So quiet outside.",
   "id" : 251991025889976320,
-  "created_at" : "Sat Sep 29 10:25:16 +0000 2012",
+  "created_at" : "2012-09-29 10:25:16 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -545,12 +527,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "instagr.am/p/QJnLwOpHtx/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "251940627170856960",
   "text" : "H is so awesome. http://t.co/4eAnw1QT",
   "id" : 251940627170856960,
-  "created_at" : "Sat Sep 29 07:05:01 +0000 2012",
+  "created_at" : "2012-09-29 07:05:01 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -573,12 +554,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "instagr.am/p/QJixKKJHrv/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "251930913045372929",
   "text" : "Rock! http://t.co/7tNySd2R",
   "id" : 251930913045372929,
-  "created_at" : "Sat Sep 29 06:26:24 +0000 2012",
+  "created_at" : "2012-09-29 06:26:24 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -601,12 +581,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "instagr.am/p/QJd7OBpHpT/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "251920250273148928",
   "text" : "Almost time for H! http://t.co/35T4KceT",
   "id" : 251920250273148928,
-  "created_at" : "Sat Sep 29 05:44:02 +0000 2012",
+  "created_at" : "2012-09-29 05:44:02 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -636,7 +615,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "251902959569489920",
   "text" : "I'm at Dante's for Local H (Portland, OR) w/ 3 others http://t.co/eHYEoF8C",
   "id" : 251902959569489920,
-  "created_at" : "Sat Sep 29 04:35:20 +0000 2012",
+  "created_at" : "2012-09-29 04:35:20 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -661,14 +640,13 @@ Grailbird.data.tweets_2012_09 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "251887648917053440",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "251888227932327936",
   "in_reply_to_user_id" : 12916912,
   "text" : "@curtismchale only once every couple weeks. :)",
   "id" : 251888227932327936,
   "in_reply_to_status_id" : 251887648917053440,
-  "created_at" : "Sat Sep 29 03:36:48 +0000 2012",
+  "created_at" : "2012-09-29 03:36:48 +0000",
   "in_reply_to_screen_name" : "curtismchale",
   "in_reply_to_user_id_str" : "12916912",
   "user" : {
@@ -688,12 +666,11 @@ Grailbird.data.tweets_2012_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "251886453691383808",
   "text" : "Haircut with beer. Portland wins.",
   "id" : 251886453691383808,
-  "created_at" : "Sat Sep 29 03:29:45 +0000 2012",
+  "created_at" : "2012-09-29 03:29:45 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -718,14 +695,13 @@ Grailbird.data.tweets_2012_09 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "251874737234513920",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "251875039446704129",
   "in_reply_to_user_id" : 335110427,
   "text" : "@tollmanz nice! That was quick.",
   "id" : 251875039446704129,
   "in_reply_to_status_id" : 251874737234513920,
-  "created_at" : "Sat Sep 29 02:44:23 +0000 2012",
+  "created_at" : "2012-09-29 02:44:23 +0000",
   "in_reply_to_screen_name" : "tollmanz",
   "in_reply_to_user_id_str" : "335110427",
   "user" : {
@@ -750,12 +726,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "archive.org/details/localh\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "251869297209659392",
   "text" : "Polluting Twitter with how stoked I am for tonight. :) More live H from 2002. http://t.co/UReLnSsa",
   "id" : 251869297209659392,
-  "created_at" : "Sat Sep 29 02:21:34 +0000 2012",
+  "created_at" : "2012-09-29 02:21:34 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -778,12 +753,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "archive.org/details/LocalH\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "251867289736081408",
   "text" : "All the fights about sneaking recording equipment into venues and now I can look up 9 year old Local H shows on a whim. http://t.co/batG1Mm8",
   "id" : 251867289736081408,
-  "created_at" : "Sat Sep 29 02:13:35 +0000 2012",
+  "created_at" : "2012-09-29 02:13:35 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -808,14 +782,13 @@ Grailbird.data.tweets_2012_09 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "251845520056799232",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "251862030426972160",
   "in_reply_to_user_id" : 19574066,
   "text" : "@trepmal Ha! This just reminded me that I had turned off security to test something the other day and forgot to turn it back on. Thanks! :)",
   "id" : 251862030426972160,
   "in_reply_to_status_id" : 251845520056799232,
-  "created_at" : "Sat Sep 29 01:52:42 +0000 2012",
+  "created_at" : "2012-09-29 01:52:42 +0000",
   "in_reply_to_screen_name" : "trepmal",
   "in_reply_to_user_id_str" : "19574066",
   "user" : {
@@ -850,8 +823,7 @@ Grailbird.data.tweets_2012_09 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "251530203157913600",
   "text" : "RT @helenhousandi: 8 out of 14 @10up dev-types on the WordPress 3.5 credits screen, and it\u2019s only beta 1! #team10up FTW! http://t.co/pnt ...",
   "retweeted_status" : {
@@ -876,12 +848,11 @@ Grailbird.data.tweets_2012_09 =
         "display_url" : "s.hyhs.me/Jn4F"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "251529079545806848",
     "text" : "8 out of 14 @10up dev-types on the WordPress 3.5 credits screen, and it\u2019s only beta 1! #team10up FTW! http://t.co/pntyz86K",
     "id" : 251529079545806848,
-    "created_at" : "Fri Sep 28 03:49:40 +0000 2012",
+    "created_at" : "2012-09-28 03:49:40 +0000",
     "user" : {
       "name" : "Helen Hou-Sand\u00ED",
       "screen_name" : "helenhousandi",
@@ -893,7 +864,7 @@ Grailbird.data.tweets_2012_09 =
     }
   },
   "id" : 251530203157913600,
-  "created_at" : "Fri Sep 28 03:54:08 +0000 2012",
+  "created_at" : "2012-09-28 03:54:08 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -918,14 +889,13 @@ Grailbird.data.tweets_2012_09 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "251520258198884352",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "251521039484473344",
   "in_reply_to_user_id" : 19277037,
   "text" : "@bluelimemedia Sweet, thanks! Now aiming for an Airbnb spot somewhere in the 'Gastown, but far enough west to not get in trouble area'. :)",
   "id" : 251521039484473344,
   "in_reply_to_status_id" : 251520258198884352,
-  "created_at" : "Fri Sep 28 03:17:43 +0000 2012",
+  "created_at" : "2012-09-28 03:17:43 +0000",
   "in_reply_to_screen_name" : "bluelimemedia",
   "in_reply_to_user_id_str" : "19277037",
   "user" : {
@@ -952,14 +922,13 @@ Grailbird.data.tweets_2012_09 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "251517957795102720",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "251518793183031296",
   "in_reply_to_user_id" : 19277037,
   "text" : "@bluelimemedia Awesome, that aligns with my first assumption. :)\n\nDowntown proper? (Labeled by Google as near W Georgia &amp; Berrard)",
   "id" : 251518793183031296,
   "in_reply_to_status_id" : 251517957795102720,
-  "created_at" : "Fri Sep 28 03:08:47 +0000 2012",
+  "created_at" : "2012-09-28 03:08:47 +0000",
   "in_reply_to_screen_name" : "bluelimemedia",
   "in_reply_to_user_id_str" : "19277037",
   "user" : {
@@ -985,12 +954,11 @@ Grailbird.data.tweets_2012_09 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "251517686612365312",
   "text" : "What part of town is everyone staying in for #wcyvr and #buddycamp?",
   "id" : 251517686612365312,
-  "created_at" : "Fri Sep 28 03:04:24 +0000 2012",
+  "created_at" : "2012-09-28 03:04:24 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1015,14 +983,13 @@ Grailbird.data.tweets_2012_09 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "251428277992947712",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "251428652443631617",
   "in_reply_to_user_id" : 14132756,
   "text" : "@EricMann nope, just got my first one. It feels like paper compared to IL.",
   "id" : 251428652443631617,
   "in_reply_to_status_id" : 251428277992947712,
-  "created_at" : "Thu Sep 27 21:10:36 +0000 2012",
+  "created_at" : "2012-09-27 21:10:36 +0000",
   "in_reply_to_screen_name" : "EricMann",
   "in_reply_to_user_id_str" : "14132756",
   "user" : {
@@ -1042,12 +1009,11 @@ Grailbird.data.tweets_2012_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "251427197619929089",
   "text" : "Oregon, your driver licenses are so flimsy.",
   "id" : 251427197619929089,
-  "created_at" : "Thu Sep 27 21:04:49 +0000 2012",
+  "created_at" : "2012-09-27 21:04:49 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1074,8 +1040,7 @@ Grailbird.data.tweets_2012_09 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "251424012989784064",
   "text" : "RT @jkudish: Lots of confirmed speakers/sessions for WordCamp Vancouver, check 'em out and get your ticket if you haven't yet #wcyvr htt ...",
   "retweeted_status" : {
@@ -1094,12 +1059,11 @@ Grailbird.data.tweets_2012_09 =
         "display_url" : "2012.vancouver.wordcamp.org/sessions/"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "251422584862801921",
     "text" : "Lots of confirmed speakers/sessions for WordCamp Vancouver, check 'em out and get your ticket if you haven't yet #wcyvr http://t.co/aAGg8ivO",
     "id" : 251422584862801921,
-    "created_at" : "Thu Sep 27 20:46:30 +0000 2012",
+    "created_at" : "2012-09-27 20:46:30 +0000",
     "user" : {
       "name" : "Joey Kudish",
       "screen_name" : "jkudish",
@@ -1111,7 +1075,7 @@ Grailbird.data.tweets_2012_09 =
     }
   },
   "id" : 251424012989784064,
-  "created_at" : "Thu Sep 27 20:52:10 +0000 2012",
+  "created_at" : "2012-09-27 20:52:10 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1145,7 +1109,7 @@ Grailbird.data.tweets_2012_09 =
   "text" : "@curtismchale most definitely!",
   "id" : 251138542502289409,
   "in_reply_to_status_id" : 251113608250019840,
-  "created_at" : "Thu Sep 27 01:57:49 +0000 2012",
+  "created_at" : "2012-09-27 01:57:49 +0000",
   "in_reply_to_screen_name" : "curtismchale",
   "in_reply_to_user_id_str" : "12916912",
   "user" : {
@@ -1177,7 +1141,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "251137130825400321",
   "text" : "Home! (@ Portland International Airport (PDX) w/ 21 others) http://t.co/GYNLlsxu",
   "id" : 251137130825400321,
-  "created_at" : "Thu Sep 27 01:52:12 +0000 2012",
+  "created_at" : "2012-09-27 01:52:12 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1200,12 +1164,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "instagr.am/p/QDu5LqJHks/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "251113263390134273",
   "text" : "I dig your mountains, YVR. http://t.co/1cerwY1Y",
   "id" : 251113263390134273,
-  "created_at" : "Thu Sep 27 00:17:22 +0000 2012",
+  "created_at" : "2012-09-27 00:17:22 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1228,12 +1191,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "instagr.am/p/QCYsdhpHoS/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "250923836403503104",
   "text" : "Homeward bound @ YYZ http://t.co/SXQQhCiU",
   "id" : 250923836403503104,
-  "created_at" : "Wed Sep 26 11:44:39 +0000 2012",
+  "created_at" : "2012-09-26 11:44:39 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1259,12 +1221,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "youtube.com/watch?v=Ad0Sc3\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "250707894620786688",
   "text" : "It's the bubbles of nothing that make it really something. http://t.co/m14bFFE9 #nomaero",
   "id" : 250707894620786688,
-  "created_at" : "Tue Sep 25 21:26:34 +0000 2012",
+  "created_at" : "2012-09-25 21:26:34 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1293,12 +1254,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "nytimes.com/2012/09/23/tec\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "249876223835140097",
   "text" : "Data Centers Waste Vast Amounts of Energy, Belying Industry Image http://t.co/M7UMl3is via @jayrosen_nyu",
   "id" : 249876223835140097,
-  "created_at" : "Sun Sep 23 14:21:48 +0000 2012",
+  "created_at" : "2012-09-23 14:21:48 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1321,12 +1281,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "wiki.answers.com/Q/How_do_large\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "249679785872216064",
   "text" : "How do large flocks of seagulls get to newly ploughed fields so quickly? http://t.co/v2iQCWpp",
   "id" : 249679785872216064,
-  "created_at" : "Sun Sep 23 01:21:14 +0000 2012",
+  "created_at" : "2012-09-23 01:21:14 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1351,14 +1310,13 @@ Grailbird.data.tweets_2012_09 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "248982345988841472",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "248983328647176193",
   "in_reply_to_user_id" : 335110427,
   "text" : "@tollmanz You now have the power. Use it wisely.",
   "id" : 248983328647176193,
   "in_reply_to_status_id" : 248982345988841472,
-  "created_at" : "Fri Sep 21 03:13:46 +0000 2012",
+  "created_at" : "2012-09-21 03:13:46 +0000",
   "in_reply_to_screen_name" : "tollmanz",
   "in_reply_to_user_id_str" : "335110427",
   "user" : {
@@ -1392,12 +1350,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "wp.me/p2236g-2Jt"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "248936992405065728",
   "text" : "What Lies Beneath: Caving and Craft Beer http://t.co/7qILWMjC via @twoOregonians #hoppiness!",
   "id" : 248936992405065728,
-  "created_at" : "Fri Sep 21 00:09:38 +0000 2012",
+  "created_at" : "2012-09-21 00:09:38 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1415,12 +1372,11 @@ Grailbird.data.tweets_2012_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "248812215245864960",
   "text" : "\"For the next three to six months keep your eyes open for both. 47 will show up more. If you find out otherwise, please let us know!\"",
   "id" : 248812215245864960,
-  "created_at" : "Thu Sep 20 15:53:49 +0000 2012",
+  "created_at" : "2012-09-20 15:53:49 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1443,12 +1399,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "brucebyfield.com/2012/02/25/an-\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "248802749251215360",
   "text" : "An Afternoon's Tour of the Vancouver Airport's First Nation Art Collection http://t.co/ODtUaQA8",
   "id" : 248802749251215360,
-  "created_at" : "Thu Sep 20 15:16:12 +0000 2012",
+  "created_at" : "2012-09-20 15:16:12 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1471,12 +1426,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "instagr.am/p/PxHa3OpHus/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "248493259322703872",
   "text" : "And we have a vacation on our hands. :) http://t.co/eEWPCASn",
   "id" : 248493259322703872,
-  "created_at" : "Wed Sep 19 18:46:24 +0000 2012",
+  "created_at" : "2012-09-19 18:46:24 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1506,7 +1460,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "248471807202578432",
   "text" : "Good afternoon, Charlottetown! (@ YYG Charlottetown Airport) http://t.co/ua7t2nJU",
   "id" : 248471807202578432,
-  "created_at" : "Wed Sep 19 17:21:09 +0000 2012",
+  "created_at" : "2012-09-19 17:21:09 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1536,7 +1490,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "248376711954198530",
   "text" : "Good morning, Toronto! (@ Toronto Pearson International Airport (YYZ) w/ 8 others) http://t.co/8AmOuo4k",
   "id" : 248376711954198530,
-  "created_at" : "Wed Sep 19 11:03:17 +0000 2012",
+  "created_at" : "2012-09-19 11:03:17 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1561,14 +1515,13 @@ Grailbird.data.tweets_2012_09 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "248292972112797696",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "248294965518667776",
   "in_reply_to_user_id" : 15436236,
   "text" : "@TheLastCicada The way he sings 'elegantly' is actually very elegant.",
   "id" : 248294965518667776,
   "in_reply_to_status_id" : 248292972112797696,
-  "created_at" : "Wed Sep 19 05:38:27 +0000 2012",
+  "created_at" : "2012-09-19 05:38:27 +0000",
   "in_reply_to_screen_name" : "TheLastCicada",
   "in_reply_to_user_id_str" : "15436236",
   "user" : {
@@ -1607,14 +1560,13 @@ Grailbird.data.tweets_2012_09 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "248289007870562304",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "248289918969843712",
   "in_reply_to_user_id" : 19277037,
   "text" : "@bluelimemedia @jkudish @thoronas Absolutely! I may avoid it entirely this trip in anticipation. :)",
   "id" : 248289918969843712,
   "in_reply_to_status_id" : 248289007870562304,
-  "created_at" : "Wed Sep 19 05:18:24 +0000 2012",
+  "created_at" : "2012-09-19 05:18:24 +0000",
   "in_reply_to_screen_name" : "bluelimemedia",
   "in_reply_to_user_id_str" : "19277037",
   "user" : {
@@ -1634,12 +1586,11 @@ Grailbird.data.tweets_2012_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "248283177376960512",
   "text" : "This tweet was not elegantly stated.",
   "id" : 248283177376960512,
-  "created_at" : "Wed Sep 19 04:51:37 +0000 2012",
+  "created_at" : "2012-09-19 04:51:37 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1673,7 +1624,7 @@ Grailbird.data.tweets_2012_09 =
   "text" : "@thoronas Thanks! Not tonight though, onward to PEI. I'll be back to try your beer (and poutine) in a few weeks!",
   "id" : 248278114684243969,
   "in_reply_to_status_id" : 248274625853812736,
-  "created_at" : "Wed Sep 19 04:31:29 +0000 2012",
+  "created_at" : "2012-09-19 04:31:29 +0000",
   "in_reply_to_screen_name" : "thoronas",
   "in_reply_to_user_id_str" : "22232652",
   "user" : {
@@ -1705,7 +1656,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "248273650220949504",
   "text" : "Good evening, Vancouver. (@ Vancouver International Airport (YVR) w/ 4 others) http://t.co/u22jtzyL",
   "id" : 248273650220949504,
-  "created_at" : "Wed Sep 19 04:13:45 +0000 2012",
+  "created_at" : "2012-09-19 04:13:45 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1730,7 +1681,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "248227181312999424",
   "text" : "Venus In Furs at Coffee Time last week. Sweet Jane at PDX today. Somebody wants me to listen to more Velvet Underground.",
   "id" : 248227181312999424,
-  "created_at" : "Wed Sep 19 01:09:06 +0000 2012",
+  "created_at" : "2012-09-19 01:09:06 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1760,7 +1711,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "248221287237943296",
   "text" : "4 boarding passes in hand. :) (@ Portland International Airport (PDX) w/ 30 others) http://t.co/G4ELx7Ze",
   "id" : 248221287237943296,
-  "created_at" : "Wed Sep 19 00:45:41 +0000 2012",
+  "created_at" : "2012-09-19 00:45:41 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1778,12 +1729,11 @@ Grailbird.data.tweets_2012_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "248167000411619329",
   "text" : "Has passport, will now GTFO.",
   "id" : 248167000411619329,
-  "created_at" : "Tue Sep 18 21:09:58 +0000 2012",
+  "created_at" : "2012-09-18 21:09:58 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1807,8 +1757,7 @@ Grailbird.data.tweets_2012_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "247990927010959361",
   "text" : "RT @OneTweetPete: Everyone talks about \"going green\" lately. The only time I go green is on a long sea voyage! Well, this has been alot  ...",
   "retweeted_status" : {
@@ -1819,12 +1768,11 @@ Grailbird.data.tweets_2012_09 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "57573409625874432",
     "text" : "Everyone talks about \"going green\" lately. The only time I go green is on a long sea voyage! Well, this has been alot of fun. Bye Twitter.",
     "id" : 57573409625874432,
-    "created_at" : "Mon Apr 11 22:39:05 +0000 2011",
+    "created_at" : "2011-04-11 22:39:05 +0000",
     "user" : {
       "name" : "OneTweetPete",
       "screen_name" : "OneTweetPete",
@@ -1836,7 +1784,7 @@ Grailbird.data.tweets_2012_09 =
     }
   },
   "id" : 247990927010959361,
-  "created_at" : "Tue Sep 18 09:30:19 +0000 2012",
+  "created_at" : "2012-09-18 09:30:19 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1871,12 +1819,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "rd.io/x/QU-g8SJDo1I"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "247960073945616385",
   "text" : "New @localh! And only 11 days till a Rock show at @danteslive! http://t.co/vGQqEp85",
   "id" : 247960073945616385,
-  "created_at" : "Tue Sep 18 07:27:43 +0000 2012",
+  "created_at" : "2012-09-18 07:27:43 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1906,7 +1853,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "247912339217715200",
   "text" : "I'm at Bailey's Taproom (Portland, OR) http://t.co/4jce9XMo",
   "id" : 247912339217715200,
-  "created_at" : "Tue Sep 18 04:18:02 +0000 2012",
+  "created_at" : "2012-09-18 04:18:02 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1941,12 +1888,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "mattrogish.com/blog/2012/08/1\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "247879874147139584",
   "text" : "Current favorite article on software estimation: http://t.co/2MHL7sea /cc @pdxwp @danblaker",
   "id" : 247879874147139584,
-  "created_at" : "Tue Sep 18 02:09:02 +0000 2012",
+  "created_at" : "2012-09-18 02:09:02 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1976,7 +1922,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "247869578946957312",
   "text" : "PDX WordPress Dev Meetup! (@ US Bancorp Tower) http://t.co/AlNsubrG",
   "id" : 247869578946957312,
-  "created_at" : "Tue Sep 18 01:28:07 +0000 2012",
+  "created_at" : "2012-09-18 01:28:07 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2004,12 +1950,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "businessinsider.com/newspaper-adve\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "247431705034633217",
   "text" : "This comment - http://t.co/WlNvVG7P - on the Business Insider newspaper ad revenue article (http://t.co/XM5Dmc5X) made me smile.",
   "id" : 247431705034633217,
-  "created_at" : "Sun Sep 16 20:28:10 +0000 2012",
+  "created_at" : "2012-09-16 20:28:10 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2023,7 +1968,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@sweden / Cristopher",
+      "name" : "@sweden / Sophia",
       "screen_name" : "sweden",
       "indices" : [ 3, 10 ],
       "id_str" : "19663706",
@@ -2033,8 +1978,7 @@ Grailbird.data.tweets_2012_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "247410819392995328",
   "text" : "RT @sweden: And The Tallest Man on Earth is super. Over &amp; out.",
   "retweeted_status" : {
@@ -2045,24 +1989,23 @@ Grailbird.data.tweets_2012_09 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "247404378800140288",
     "text" : "And The Tallest Man on Earth is super. Over &amp; out.",
     "id" : 247404378800140288,
-    "created_at" : "Sun Sep 16 18:39:35 +0000 2012",
+    "created_at" : "2012-09-16 18:39:35 +0000",
     "user" : {
-      "name" : "@sweden / Cristopher",
+      "name" : "@sweden / Sophia",
       "screen_name" : "sweden",
       "protected" : false,
       "id_str" : "19663706",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000206988544/a12beb1fc2fb726045c8851c4198d79f_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000399275256/498183425adc6ba06c064c4087ec3750_normal.png",
       "id" : 19663706,
       "verified" : false
     }
   },
   "id" : 247410819392995328,
-  "created_at" : "Sun Sep 16 19:05:10 +0000 2012",
+  "created_at" : "2012-09-16 19:05:10 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2085,12 +2028,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "rd.io/x/QU-g8Tdp7sU"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "246873514353758208",
   "text" : "The way Johnny says - \"It ain't me you're look. In. For. Babe.\" - in the chorus. Fantastic. http://t.co/Y41SEkGc",
   "id" : 246873514353758208,
-  "created_at" : "Sat Sep 15 07:30:07 +0000 2012",
+  "created_at" : "2012-09-15 07:30:07 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2124,8 +2066,7 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "kwls.in/UUZP5D"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "246819881096450048",
   "text" : "RT @kchrist: More good info on iPhone 5 and international use: 1) http://t.co/GHiT99qo 2) http://t.co/Tl2whfNS Verizon still coming out  ...",
   "retweeted_status" : {
@@ -2146,12 +2087,11 @@ Grailbird.data.tweets_2012_09 =
         "display_url" : "kwls.in/UUZP5D"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "246815352066043904",
     "text" : "More good info on iPhone 5 and international use: 1) http://t.co/GHiT99qo 2) http://t.co/Tl2whfNS Verizon still coming out ahead.",
     "id" : 246815352066043904,
-    "created_at" : "Sat Sep 15 03:39:00 +0000 2012",
+    "created_at" : "2012-09-15 03:39:00 +0000",
     "user" : {
       "name" : "Kenn Wilson",
       "screen_name" : "kchrist",
@@ -2163,7 +2103,7 @@ Grailbird.data.tweets_2012_09 =
     }
   },
   "id" : 246819881096450048,
-  "created_at" : "Sat Sep 15 03:57:00 +0000 2012",
+  "created_at" : "2012-09-15 03:57:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2199,14 +2139,13 @@ Grailbird.data.tweets_2012_09 =
     } ]
   },
   "in_reply_to_status_id_str" : "246802395408003074",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "246803601077448704",
   "in_reply_to_user_id" : 7016582,
   "text" : "@Otto42 @tammyhart Entertainment indeed! Those rolls were amazing. Also, this made me smile earlier - http://t.co/tsZtZSVr - he's so happy!",
   "id" : 246803601077448704,
   "in_reply_to_status_id" : 246802395408003074,
-  "created_at" : "Sat Sep 15 02:52:18 +0000 2012",
+  "created_at" : "2012-09-15 02:52:18 +0000",
   "in_reply_to_screen_name" : "Otto42",
   "in_reply_to_user_id_str" : "7016582",
   "user" : {
@@ -2231,12 +2170,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "youtube.com/watch?v=ItZyaO\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "246754213986721793",
   "text" : "I am all of a sudden lost in the world of drummer videos on YouTube. https://t.co/6TpDxLMu",
   "id" : 246754213986721793,
-  "created_at" : "Fri Sep 14 23:36:03 +0000 2012",
+  "created_at" : "2012-09-14 23:36:03 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2261,7 +2199,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "246674189304606720",
   "text" : "OH at the DMV: everything awesome ever",
   "id" : 246674189304606720,
-  "created_at" : "Fri Sep 14 18:18:04 +0000 2012",
+  "created_at" : "2012-09-14 18:18:04 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2286,7 +2224,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "246523331350769664",
   "text" : "Too easy to troll.",
   "id" : 246523331350769664,
-  "created_at" : "Fri Sep 14 08:18:37 +0000 2012",
+  "created_at" : "2012-09-14 08:18:37 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2322,7 +2260,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "246470822791876608",
   "text" : "Happy Anniversary, @meeshfelt! (@ Papa Haydn) http://t.co/BpxMIyGr",
   "id" : 246470822791876608,
-  "created_at" : "Fri Sep 14 04:49:58 +0000 2012",
+  "created_at" : "2012-09-14 04:49:58 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2347,14 +2285,13 @@ Grailbird.data.tweets_2012_09 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "246257386812227584",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "246281590957821952",
   "in_reply_to_user_id" : 272166936,
   "text" : "@danielbachhuber NW 23rd &amp; Overton - I think it's been there a few years, but I'm newer than that, so... :)",
   "id" : 246281590957821952,
   "in_reply_to_status_id" : 246257386812227584,
-  "created_at" : "Thu Sep 13 16:18:01 +0000 2012",
+  "created_at" : "2012-09-13 16:18:01 +0000",
   "in_reply_to_screen_name" : "danielbachhuber",
   "in_reply_to_user_id_str" : "272166936",
   "user" : {
@@ -2379,12 +2316,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "google.com/search?q=bacon\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "246277801823580160",
   "text" : "You can now search Google for somebody's Bacon number. The Internet has won. https://t.co/aKQdDnZx",
   "id" : 246277801823580160,
-  "created_at" : "Thu Sep 13 16:02:58 +0000 2012",
+  "created_at" : "2012-09-13 16:02:58 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2409,14 +2345,13 @@ Grailbird.data.tweets_2012_09 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "246090596786253824",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "246134765932118016",
   "in_reply_to_user_id" : 272166936,
   "text" : "@danielbachhuber We tried Mayura instead tonight. Turned out better than Swagat, IMO. But yes to any Indian food excursion.",
   "id" : 246134765932118016,
   "in_reply_to_status_id" : 246090596786253824,
-  "created_at" : "Thu Sep 13 06:34:35 +0000 2012",
+  "created_at" : "2012-09-13 06:34:35 +0000",
   "in_reply_to_screen_name" : "danielbachhuber",
   "in_reply_to_user_id_str" : "272166936",
   "user" : {
@@ -2442,12 +2377,11 @@ Grailbird.data.tweets_2012_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "246133084213362688",
   "text" : "Totally fell for this @twitterads promo. Thought I could buy a fun ad really quick, but they took my info and left me hanging instead. Meh.",
   "id" : 246133084213362688,
-  "created_at" : "Thu Sep 13 06:27:54 +0000 2012",
+  "created_at" : "2012-09-13 06:27:54 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2482,8 +2416,7 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "instagr.am/p/PgFfbqFDRT/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "246096974837846017",
   "text" : "RT @meeshfelt: Celebrating @jeremyfelt's 33rd bday!!! \uD83C\uDF89\uD83C\uDF89\uD83C\uDF89 http://t.co/9s1B6JVz",
   "retweeted_status" : {
@@ -2505,12 +2438,11 @@ Grailbird.data.tweets_2012_09 =
         "display_url" : "instagr.am/p/PgFfbqFDRT/"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "246096442442272768",
     "text" : "Celebrating @jeremyfelt's 33rd bday!!! \uD83C\uDF89\uD83C\uDF89\uD83C\uDF89 http://t.co/9s1B6JVz",
     "id" : 246096442442272768,
-    "created_at" : "Thu Sep 13 04:02:18 +0000 2012",
+    "created_at" : "2012-09-13 04:02:18 +0000",
     "user" : {
       "name" : "Michelle Felt",
       "screen_name" : "meeshfelt",
@@ -2522,7 +2454,7 @@ Grailbird.data.tweets_2012_09 =
     }
   },
   "id" : 246096974837846017,
-  "created_at" : "Thu Sep 13 04:04:25 +0000 2012",
+  "created_at" : "2012-09-13 04:04:25 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2552,7 +2484,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "246072752476405760",
   "text" : "Dinner! (@ Mayura) http://t.co/EiLUeMej",
   "id" : 246072752476405760,
-  "created_at" : "Thu Sep 13 02:28:10 +0000 2012",
+  "created_at" : "2012-09-13 02:28:10 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2586,7 +2518,7 @@ Grailbird.data.tweets_2012_09 =
   "text" : "@danielbachhuber I do!",
   "id" : 246068957474328577,
   "in_reply_to_status_id" : 246060474985242624,
-  "created_at" : "Thu Sep 13 02:13:05 +0000 2012",
+  "created_at" : "2012-09-13 02:13:05 +0000",
   "in_reply_to_screen_name" : "danielbachhuber",
   "in_reply_to_user_id_str" : "272166936",
   "user" : {
@@ -2614,12 +2546,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "rd.io/x/QU-g8Tdp7gQ"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "245786321728184321",
   "text" : "\"Nobody knows, nobody sees. Nobody knows but me.\" http://t.co/12WgigBd #CASH",
   "id" : 245786321728184321,
-  "created_at" : "Wed Sep 12 07:30:00 +0000 2012",
+  "created_at" : "2012-09-12 07:30:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2642,12 +2573,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "rd.io/x/QU-g8TdAmnc"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "245784419137384449",
   "text" : "\"The sun is out and up and down again\" http://t.co/M873IpwR #33",
   "id" : 245784419137384449,
-  "created_at" : "Wed Sep 12 07:22:26 +0000 2012",
+  "created_at" : "2012-09-12 07:22:26 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2665,12 +2595,11 @@ Grailbird.data.tweets_2012_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "245780415250579457",
   "text" : "Ouch. My bad.",
   "id" : 245780415250579457,
-  "created_at" : "Wed Sep 12 07:06:32 +0000 2012",
+  "created_at" : "2012-09-12 07:06:32 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2696,12 +2625,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "rd.io/x/QU-g8TdeYDY2"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "245750102331887617",
   "text" : "Puerto http://t.co/L04nqPWx\n\n#exclamationpoint",
   "id" : 245750102331887617,
-  "created_at" : "Wed Sep 12 05:06:04 +0000 2012",
+  "created_at" : "2012-09-12 05:06:04 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2719,12 +2647,11 @@ Grailbird.data.tweets_2012_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "245749148723314688",
   "text" : "Today was a fantastic day for new music.",
   "id" : 245749148723314688,
-  "created_at" : "Wed Sep 12 05:02:17 +0000 2012",
+  "created_at" : "2012-09-12 05:02:17 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2750,12 +2677,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "rd.io/x/QU-g8TdeYJ7t"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "245570158486224896",
   "text" : "Paul Newman Vs. The Demons by The Avett Brothers http://t.co/uM7IRpUE #digit",
   "id" : 245570158486224896,
-  "created_at" : "Tue Sep 11 17:11:02 +0000 2012",
+  "created_at" : "2012-09-11 17:11:02 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2780,14 +2706,13 @@ Grailbird.data.tweets_2012_09 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "245549399927836673",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "245556099732881409",
   "in_reply_to_user_id" : 21204689,
   "text" : "@helenhousandi NEEDS MORE GRADIENT! \n\n...and &lt;blink&gt;",
   "id" : 245556099732881409,
   "in_reply_to_status_id" : 245549399927836673,
-  "created_at" : "Tue Sep 11 16:15:11 +0000 2012",
+  "created_at" : "2012-09-11 16:15:11 +0000",
   "in_reply_to_screen_name" : "helenhousandi",
   "in_reply_to_user_id_str" : "21204689",
   "user" : {
@@ -2830,8 +2755,7 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "tollmanz.com/pretty-cacheab\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "245555232958984193",
   "text" : "RT @carldanley: @github is down. perfect plug for @tollmanz's \"Pretty Cacheable Gists\" http://t.co/3HGxUSfw",
   "retweeted_status" : {
@@ -2859,13 +2783,12 @@ Grailbird.data.tweets_2012_09 =
         "display_url" : "tollmanz.com/pretty-cacheab\u2026"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "245553736968192000",
     "in_reply_to_user_id" : 13334762,
     "text" : "@github is down. perfect plug for @tollmanz's \"Pretty Cacheable Gists\" http://t.co/3HGxUSfw",
     "id" : 245553736968192000,
-    "created_at" : "Tue Sep 11 16:05:47 +0000 2012",
+    "created_at" : "2012-09-11 16:05:47 +0000",
     "in_reply_to_screen_name" : "github",
     "in_reply_to_user_id_str" : "13334762",
     "user" : {
@@ -2873,13 +2796,13 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "carldanley",
       "protected" : false,
       "id_str" : "37747812",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2599697257/o9wzxd32qzv2n88r8ddz_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000251492352/bbcb7564b209711953cebbfbeb3a641a_normal.jpeg",
       "id" : 37747812,
       "verified" : false
     }
   },
   "id" : 245555232958984193,
-  "created_at" : "Tue Sep 11 16:11:44 +0000 2012",
+  "created_at" : "2012-09-11 16:11:44 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2902,12 +2825,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "rd.io/x/QU-g8TdeZI_O"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "245407023250956289",
   "text" : "I Am An Ape http://t.co/ChbqdEpM",
   "id" : 245407023250956289,
-  "created_at" : "Tue Sep 11 06:22:48 +0000 2012",
+  "created_at" : "2012-09-11 06:22:48 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2932,14 +2854,13 @@ Grailbird.data.tweets_2012_09 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "245349657708986368",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "245353067925610496",
   "in_reply_to_user_id" : 21204689,
   "text" : "@helenhousandi Very much worth it. Well said. And sisters are awesome!",
   "id" : 245353067925610496,
   "in_reply_to_status_id" : 245349657708986368,
-  "created_at" : "Tue Sep 11 02:48:24 +0000 2012",
+  "created_at" : "2012-09-11 02:48:24 +0000",
   "in_reply_to_screen_name" : "helenhousandi",
   "in_reply_to_user_id_str" : "21204689",
   "user" : {
@@ -2969,12 +2890,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "rssjs.org"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "245299208205262849",
   "text" : "RSS in JSON, for real? http://t.co/Qxx7BbiY - For Real - http://t.co/g4JhWvet",
   "id" : 245299208205262849,
-  "created_at" : "Mon Sep 10 23:14:23 +0000 2012",
+  "created_at" : "2012-09-10 23:14:23 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2992,12 +2912,11 @@ Grailbird.data.tweets_2012_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "245284908526870529",
   "text" : "Venus in Furs on the stereo at Coffee Time makes me want to listen to Velvet Underground for the next week straight.",
   "id" : 245284908526870529,
-  "created_at" : "Mon Sep 10 22:17:34 +0000 2012",
+  "created_at" : "2012-09-10 22:17:34 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3032,8 +2951,7 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "yfrog.com/od4kjqcj"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "245267834731638787",
   "text" : "RT @DDOTDC: Congratulations if you competed in the Nation's Triathlon Sunday... on @Bikeshare! http://t.co/nSPKc8H0",
   "retweeted_status" : {
@@ -3055,12 +2973,11 @@ Grailbird.data.tweets_2012_09 =
         "display_url" : "yfrog.com/od4kjqcj"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "245179179438587904",
     "text" : "Congratulations if you competed in the Nation's Triathlon Sunday... on @Bikeshare! http://t.co/nSPKc8H0",
     "id" : 245179179438587904,
-    "created_at" : "Mon Sep 10 15:17:26 +0000 2012",
+    "created_at" : "2012-09-10 15:17:26 +0000",
     "user" : {
       "name" : "DDOT DC",
       "screen_name" : "DDOTDC",
@@ -3072,7 +2989,7 @@ Grailbird.data.tweets_2012_09 =
     }
   },
   "id" : 245267834731638787,
-  "created_at" : "Mon Sep 10 21:09:43 +0000 2012",
+  "created_at" : "2012-09-10 21:09:43 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3104,8 +3021,7 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "instagr.am/p/PYOZPimQZy/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "244990827728867328",
   "text" : "RT @atlasgenius: You were amazing Portland! Tag yourself! #MFNW  @ Pioneer Courthouse Square http://t.co/ArC8uk3c",
   "retweeted_status" : {
@@ -3131,19 +3047,19 @@ Grailbird.data.tweets_2012_09 =
     "id_str" : "244990238924087296",
     "text" : "You were amazing Portland! Tag yourself! #MFNW  @ Pioneer Courthouse Square http://t.co/ArC8uk3c",
     "id" : 244990238924087296,
-    "created_at" : "Mon Sep 10 02:46:39 +0000 2012",
+    "created_at" : "2012-09-10 02:46:39 +0000",
     "user" : {
       "name" : "Atlas Genius",
       "screen_name" : "atlasgenius",
       "protected" : false,
       "id_str" : "222336549",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3668567738/13a3776411248c4d1d2f1c1187e2b9a7_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000402197830/ea6feef5865bbc6c5feacfa9941f6ee2_normal.jpeg",
       "id" : 222336549,
       "verified" : true
     }
   },
   "id" : 244990827728867328,
-  "created_at" : "Mon Sep 10 02:48:59 +0000 2012",
+  "created_at" : "2012-09-10 02:48:59 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3166,12 +3082,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "instagr.am/p/PYMU6ypHs4/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "244985533456056320",
   "text" : "Portland's living room is the best living room. http://t.co/4YOBn6pO",
   "id" : 244985533456056320,
-  "created_at" : "Mon Sep 10 02:27:57 +0000 2012",
+  "created_at" : "2012-09-10 02:27:57 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3197,12 +3112,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "instagr.am/p/PYGpHHJHoA/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "244973110439333888",
   "text" : "This guy is rocking the square! #mfnw http://t.co/DfpOHgsr",
   "id" : 244973110439333888,
-  "created_at" : "Mon Sep 10 01:38:35 +0000 2012",
+  "created_at" : "2012-09-10 01:38:35 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3225,12 +3139,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "instagr.am/p/PYGHzupHng/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "244971905126375424",
   "text" : "School of Seven Bells http://t.co/sJzdtvKZ",
   "id" : 244971905126375424,
-  "created_at" : "Mon Sep 10 01:33:48 +0000 2012",
+  "created_at" : "2012-09-10 01:33:48 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3263,8 +3176,7 @@ Grailbird.data.tweets_2012_09 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "244966289314037760",
   "text" : "RT @kimberlypdx: Some dude just busted out with the best moves at @thesquarepdx the crowd went wild. #mfnw",
   "retweeted_status" : {
@@ -3284,12 +3196,11 @@ Grailbird.data.tweets_2012_09 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "244960216679059456",
     "text" : "Some dude just busted out with the best moves at @thesquarepdx the crowd went wild. #mfnw",
     "id" : 244960216679059456,
-    "created_at" : "Mon Sep 10 00:47:21 +0000 2012",
+    "created_at" : "2012-09-10 00:47:21 +0000",
     "user" : {
       "name" : "kimberly",
       "screen_name" : "kimberlypdx",
@@ -3301,7 +3212,7 @@ Grailbird.data.tweets_2012_09 =
     }
   },
   "id" : 244966289314037760,
-  "created_at" : "Mon Sep 10 01:11:29 +0000 2012",
+  "created_at" : "2012-09-10 01:11:29 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3331,7 +3242,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "244962991605432321",
   "text" : "More rock! (@ Pioneer Courthouse Square for Silversun Pickups w/ 19 others) http://t.co/Imo9EMsS",
   "id" : 244962991605432321,
-  "created_at" : "Mon Sep 10 00:58:23 +0000 2012",
+  "created_at" : "2012-09-10 00:58:23 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3354,12 +3265,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "instagr.am/p/PYB_0eJHjG/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "244962748360966144",
   "text" : "Atlaa Genius http://t.co/LSJjUGpG",
   "id" : 244962748360966144,
-  "created_at" : "Mon Sep 10 00:57:25 +0000 2012",
+  "created_at" : "2012-09-10 00:57:25 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3394,12 +3304,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "absolutelysuperlist.avocado.io"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "244945288979165184",
   "text" : "AbsolutelySuperList from @taylorhughes and @avocado looks pretty slick. http://t.co/c0cFKS2A",
   "id" : 244945288979165184,
-  "created_at" : "Sun Sep 09 23:48:02 +0000 2012",
+  "created_at" : "2012-09-09 23:48:02 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3427,14 +3336,13 @@ Grailbird.data.tweets_2012_09 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "244938334856695809",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "244939833930301441",
   "in_reply_to_user_id" : 21618405,
   "text" : "@jessjurick Yeah, his 333 yards and 2 TDs sucked for us today. How's that down by 15 thing going for you? ;) #team10upgobears",
   "id" : 244939833930301441,
   "in_reply_to_status_id" : 244938334856695809,
-  "created_at" : "Sun Sep 09 23:26:21 +0000 2012",
+  "created_at" : "2012-09-09 23:26:21 +0000",
   "in_reply_to_screen_name" : "jessjurick",
   "in_reply_to_user_id_str" : "21618405",
   "user" : {
@@ -3454,12 +3362,11 @@ Grailbird.data.tweets_2012_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "244938399625117697",
   "text" : "So much music in the last 4 days. My brain is on overload right now.",
   "id" : 244938399625117697,
-  "created_at" : "Sun Sep 09 23:20:39 +0000 2012",
+  "created_at" : "2012-09-09 23:20:39 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3488,12 +3395,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "youtube.com/watch?v=5VNg3i\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "244936469515472897",
   "text" : "The 63 yard field goal from Akers against @jessjurick's Packers for those who missed it live. http://t.co/zbCJq8A0",
   "id" : 244936469515472897,
-  "created_at" : "Sun Sep 09 23:12:59 +0000 2012",
+  "created_at" : "2012-09-09 23:12:59 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3523,14 +3429,13 @@ Grailbird.data.tweets_2012_09 =
     } ]
   },
   "in_reply_to_status_id_str" : "244899266328403968",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "244908422384975872",
   "in_reply_to_user_id" : 365895600,
   "text" : "@PepinosPDX Close, the next one on the list. She Bangs. http://t.co/Rj2IoqKw",
   "id" : 244908422384975872,
   "in_reply_to_status_id" : 244899266328403968,
-  "created_at" : "Sun Sep 09 21:21:32 +0000 2012",
+  "created_at" : "2012-09-09 21:21:32 +0000",
   "in_reply_to_screen_name" : "PepinosPDX",
   "in_reply_to_user_id_str" : "365895600",
   "user" : {
@@ -3550,12 +3455,11 @@ Grailbird.data.tweets_2012_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "244907404599369728",
   "text" : "This Sky Sports stream has UK adverts. Such a weird contrast.",
   "id" : 244907404599369728,
-  "created_at" : "Sun Sep 09 21:17:30 +0000 2012",
+  "created_at" : "2012-09-09 21:17:30 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3578,12 +3482,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "niemanlab.org/2012/09/brian-\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "244906807506649090",
   "text" : "Brian Boyer: Welcome to Hacker Journalism 101, take your seats http://t.co/tMEy3Pgk Great looking syllabus. I have reading to do. :)",
   "id" : 244906807506649090,
-  "created_at" : "Sun Sep 09 21:15:07 +0000 2012",
+  "created_at" : "2012-09-09 21:15:07 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3614,14 +3517,13 @@ Grailbird.data.tweets_2012_09 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "244902509536227329",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "244904333643239427",
   "in_reply_to_user_id" : 21618405,
   "text" : "@jessjurick @tollmanz Thursday's going to be a fun IRC day. :)",
   "id" : 244904333643239427,
   "in_reply_to_status_id" : 244902509536227329,
-  "created_at" : "Sun Sep 09 21:05:17 +0000 2012",
+  "created_at" : "2012-09-09 21:05:17 +0000",
   "in_reply_to_screen_name" : "jessjurick",
   "in_reply_to_user_id_str" : "21618405",
   "user" : {
@@ -3646,12 +3548,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "thecaucus.blogs.nytimes.com/2012/09/08/oba\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "244872866280112128",
   "text" : "\u201CYou were born in Hawaii?\u201D Mr. Obama asked, then broke out into a smile. \u201CYou have a birth certificate?\u201D http://t.co/cj0xYdHd Nice.",
   "id" : 244872866280112128,
-  "created_at" : "Sun Sep 09 19:00:15 +0000 2012",
+  "created_at" : "2012-09-09 19:00:15 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3672,8 +3573,7 @@ Grailbird.data.tweets_2012_09 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "244727863708880896",
   "text" : "RT @mrui_pdx: \"I'm just a little Swedish guy. I can't do this forever, I'll wear myself out.\" - Kristian Matsson. #mfnw",
   "retweeted_status" : {
@@ -3687,12 +3587,11 @@ Grailbird.data.tweets_2012_09 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "244726014578671616",
     "text" : "\"I'm just a little Swedish guy. I can't do this forever, I'll wear myself out.\" - Kristian Matsson. #mfnw",
     "id" : 244726014578671616,
-    "created_at" : "Sun Sep 09 09:16:43 +0000 2012",
+    "created_at" : "2012-09-09 09:16:43 +0000",
     "user" : {
       "name" : "mary! ",
       "screen_name" : "mrui_",
@@ -3704,7 +3603,7 @@ Grailbird.data.tweets_2012_09 =
     }
   },
   "id" : 244727863708880896,
-  "created_at" : "Sun Sep 09 09:24:04 +0000 2012",
+  "created_at" : "2012-09-09 09:24:04 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3729,7 +3628,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "244713570938535937",
   "text" : "Two cab companies hours apart, both cabs playing Hotel California. Wow.",
   "id" : 244713570938535937,
-  "created_at" : "Sun Sep 09 08:27:16 +0000 2012",
+  "created_at" : "2012-09-09 08:27:16 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3754,7 +3653,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "244709142667882496",
   "text" : "I would like the ability to favorite the  retweet of my tweet by the drummer who that tweet was about.",
   "id" : 244709142667882496,
-  "created_at" : "Sun Sep 09 08:09:40 +0000 2012",
+  "created_at" : "2012-09-09 08:09:40 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3784,7 +3683,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "244693376560148480",
   "text" : "More rock! (@ Holocene for MusicFest NW) http://t.co/ByQhWHs5",
   "id" : 244693376560148480,
-  "created_at" : "Sun Sep 09 07:07:01 +0000 2012",
+  "created_at" : "2012-09-09 07:07:01 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3841,8 +3740,7 @@ Grailbird.data.tweets_2012_09 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "244663813771780096",
   "text" : "RT @tollmanz: Nice warm up strand of oaks. #MFNW http://t.co/9jn6tZMJ",
   "retweeted_status" : {
@@ -3886,12 +3784,11 @@ Grailbird.data.tweets_2012_09 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "244661817039785984",
     "text" : "Nice warm up strand of oaks. #MFNW http://t.co/9jn6tZMJ",
     "id" : 244661817039785984,
-    "created_at" : "Sun Sep 09 05:01:38 +0000 2012",
+    "created_at" : "2012-09-09 05:01:38 +0000",
     "user" : {
       "name" : "Zack Tollman",
       "screen_name" : "tollmanz",
@@ -3903,7 +3800,7 @@ Grailbird.data.tweets_2012_09 =
     }
   },
   "id" : 244663813771780096,
-  "created_at" : "Sun Sep 09 05:09:33 +0000 2012",
+  "created_at" : "2012-09-09 05:09:33 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3931,7 +3828,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "244662091208880129",
   "text" : "Fantastic Strand of Oaks. Drummer was great, didn't waste a hit at all. #mfnw",
   "id" : 244662091208880129,
-  "created_at" : "Sun Sep 09 05:02:42 +0000 2012",
+  "created_at" : "2012-09-09 05:02:42 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3961,7 +3858,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "244631694278287360",
   "text" : "The Tallest Man On Earth! (@ Crystal Ballroom for MusicFest NW) [pic]: http://t.co/9Sle4hAh",
   "id" : 244631694278287360,
-  "created_at" : "Sun Sep 09 03:01:55 +0000 2012",
+  "created_at" : "2012-09-09 03:01:55 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3986,7 +3883,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "244605787610157056",
   "text" : "Damn your eyes!",
   "id" : 244605787610157056,
-  "created_at" : "Sun Sep 09 01:18:58 +0000 2012",
+  "created_at" : "2012-09-09 01:18:58 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4011,7 +3908,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "244587672818024448",
   "text" : "Elijah Wood does Bushmills ads?",
   "id" : 244587672818024448,
-  "created_at" : "Sun Sep 09 00:07:00 +0000 2012",
+  "created_at" : "2012-09-09 00:07:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4051,7 +3948,7 @@ Grailbird.data.tweets_2012_09 =
   "text" : "@mattepp Glad I could help. Thank @schmizzapg21 for the info.",
   "id" : 244583784442392576,
   "in_reply_to_status_id" : 244582149594939392,
-  "created_at" : "Sat Sep 08 23:51:33 +0000 2012",
+  "created_at" : "2012-09-08 23:51:33 +0000",
   "in_reply_to_screen_name" : "mattepp",
   "in_reply_to_user_id_str" : "14871770",
   "user" : {
@@ -4083,8 +3980,7 @@ Grailbird.data.tweets_2012_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "244576552245923840",
   "text" : "RT @carldanley: @jeremyfelt bot army?! on it!",
   "retweeted_status" : {
@@ -4102,14 +3998,13 @@ Grailbird.data.tweets_2012_09 =
       "urls" : [ ]
     },
     "in_reply_to_status_id_str" : "244573543038337024",
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "244576447652585474",
     "in_reply_to_user_id" : 1741681,
     "text" : "@jeremyfelt bot army?! on it!",
     "id" : 244576447652585474,
     "in_reply_to_status_id" : 244573543038337024,
-    "created_at" : "Sat Sep 08 23:22:23 +0000 2012",
+    "created_at" : "2012-09-08 23:22:23 +0000",
     "in_reply_to_screen_name" : "jeremyfelt",
     "in_reply_to_user_id_str" : "1741681",
     "user" : {
@@ -4117,13 +4012,13 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "carldanley",
       "protected" : false,
       "id_str" : "37747812",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2599697257/o9wzxd32qzv2n88r8ddz_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000251492352/bbcb7564b209711953cebbfbeb3a641a_normal.jpeg",
       "id" : 37747812,
       "verified" : false
     }
   },
   "id" : 244576552245923840,
-  "created_at" : "Sat Sep 08 23:22:48 +0000 2012",
+  "created_at" : "2012-09-08 23:22:48 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4141,12 +4036,11 @@ Grailbird.data.tweets_2012_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "244573543038337024",
   "text" : "Have successfully identified 14 of my random test Twitter accounts thanks to Twitter's emails. \n\nNow, to delete or create a bot army...",
   "id" : 244573543038337024,
-  "created_at" : "Sat Sep 08 23:10:51 +0000 2012",
+  "created_at" : "2012-09-08 23:10:51 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4169,12 +4063,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "tdpri.com/forum/attachme\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "244539835325485056",
   "text" : "Now I've got it. 1962 Telecaster Custom, black finish, white double binding, white pick guard. Bam. http://t.co/avfkjHJL",
   "id" : 244539835325485056,
-  "created_at" : "Sat Sep 08 20:56:54 +0000 2012",
+  "created_at" : "2012-09-08 20:56:54 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4197,12 +4090,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "thewho.net/whotabs/gear/g\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "244538071952015360",
   "text" : "The hunt is on... :) \"Double-bound black Giffin with white pickguard\" http://t.co/fn7Jzdvv",
   "id" : 244538071952015360,
-  "created_at" : "Sat Sep 08 20:49:54 +0000 2012",
+  "created_at" : "2012-09-08 20:49:54 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4232,7 +4124,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "244529596517711873",
   "text" : "I'm at Coffee Time (Portland, OR) http://t.co/jjlpHoUv",
   "id" : 244529596517711873,
-  "created_at" : "Sat Sep 08 20:16:13 +0000 2012",
+  "created_at" : "2012-09-08 20:16:13 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4257,7 +4149,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "244339293823303680",
   "text" : "3 SGs on one stage. Win.",
   "id" : 244339293823303680,
-  "created_at" : "Sat Sep 08 07:40:01 +0000 2012",
+  "created_at" : "2012-09-08 07:40:01 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4287,7 +4179,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "244331451271749632",
   "text" : "More rock! (@ Dante's w/ 4 others) http://t.co/HCAz1RMR",
   "id" : 244331451271749632,
-  "created_at" : "Sat Sep 08 07:08:52 +0000 2012",
+  "created_at" : "2012-09-08 07:08:52 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4312,7 +4204,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "244321582040875008",
   "text" : "Seriously. Black Telecaster with white trim is looking so slick!",
   "id" : 244321582040875008,
-  "created_at" : "Sat Sep 08 06:29:39 +0000 2012",
+  "created_at" : "2012-09-08 06:29:39 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4337,7 +4229,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "244320117146652672",
   "text" : "Guitar jealousy right now.",
   "id" : 244320117146652672,
-  "created_at" : "Sat Sep 08 06:23:49 +0000 2012",
+  "created_at" : "2012-09-08 06:23:49 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4360,12 +4252,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "instagr.am/p/PTdHWCpHhB/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "244318657788915712",
   "text" : "Much more excellent.  http://t.co/gqSbrxXK",
   "id" : 244318657788915712,
-  "created_at" : "Sat Sep 08 06:18:01 +0000 2012",
+  "created_at" : "2012-09-08 06:18:01 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4398,8 +4289,7 @@ Grailbird.data.tweets_2012_09 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "244318237549031425",
   "text" : "RT @tollmanz: Rock show at last #mfnw /cc @jeremyfelt",
   "retweeted_status" : {
@@ -4419,12 +4309,11 @@ Grailbird.data.tweets_2012_09 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "244315996117143554",
     "text" : "Rock show at last #mfnw /cc @jeremyfelt",
     "id" : 244315996117143554,
-    "created_at" : "Sat Sep 08 06:07:27 +0000 2012",
+    "created_at" : "2012-09-08 06:07:27 +0000",
     "user" : {
       "name" : "Zack Tollman",
       "screen_name" : "tollmanz",
@@ -4436,7 +4325,7 @@ Grailbird.data.tweets_2012_09 =
     }
   },
   "id" : 244318237549031425,
-  "created_at" : "Sat Sep 08 06:16:21 +0000 2012",
+  "created_at" : "2012-09-08 06:16:21 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4459,12 +4348,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "instagr.am/p/PTYmkupHuz/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "244308926613573632",
   "text" : "There be feedback and stuff and things. So weird.  http://t.co/Tmoq5x9N",
   "id" : 244308926613573632,
-  "created_at" : "Sat Sep 08 05:39:21 +0000 2012",
+  "created_at" : "2012-09-08 05:39:21 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4498,7 +4386,7 @@ Grailbird.data.tweets_2012_09 =
   "text" : "@tollmanz Awesome! In the balcony still.",
   "id" : 244291744789831680,
   "in_reply_to_status_id" : 244289410131173376,
-  "created_at" : "Sat Sep 08 04:31:05 +0000 2012",
+  "created_at" : "2012-09-08 04:31:05 +0000",
   "in_reply_to_screen_name" : "tollmanz",
   "in_reply_to_user_id_str" : "335110427",
   "user" : {
@@ -4523,12 +4411,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "instagr.am/p/PTMBlYpHmG/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "244281057652903936",
   "text" : "Rockin from the balcony tonight.  http://t.co/5mDWSTd2",
   "id" : 244281057652903936,
-  "created_at" : "Sat Sep 08 03:48:37 +0000 2012",
+  "created_at" : "2012-09-08 03:48:37 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4558,7 +4445,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "244272797902307329",
   "text" : "Great view of Beirut from the street! (@ Pioneer Courthouse Square for MusicFest NW w/ 54 others) http://t.co/OFj6yepj",
   "id" : 244272797902307329,
-  "created_at" : "Sat Sep 08 03:15:48 +0000 2012",
+  "created_at" : "2012-09-08 03:15:48 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4582,8 +4469,7 @@ Grailbird.data.tweets_2012_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "244223894314164224",
   "text" : "RT @Sherman_Alexie: Dude at my airport gate is eating a whole head of lettuce. I kind of love him.",
   "retweeted_status" : {
@@ -4594,12 +4480,11 @@ Grailbird.data.tweets_2012_09 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "244223472748875776",
     "text" : "Dude at my airport gate is eating a whole head of lettuce. I kind of love him.",
     "id" : 244223472748875776,
-    "created_at" : "Fri Sep 07 23:59:48 +0000 2012",
+    "created_at" : "2012-09-07 23:59:48 +0000",
     "user" : {
       "name" : "Sherman Alexie",
       "screen_name" : "Sherman_Alexie",
@@ -4611,7 +4496,7 @@ Grailbird.data.tweets_2012_09 =
     }
   },
   "id" : 244223894314164224,
-  "created_at" : "Sat Sep 08 00:01:28 +0000 2012",
+  "created_at" : "2012-09-08 00:01:28 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4645,7 +4530,7 @@ Grailbird.data.tweets_2012_09 =
   "text" : "@scan_boy so much to choose from! And for 5 nights.",
   "id" : 244216339386998784,
   "in_reply_to_status_id" : 244052503782621184,
-  "created_at" : "Fri Sep 07 23:31:27 +0000 2012",
+  "created_at" : "2012-09-07 23:31:27 +0000",
   "in_reply_to_screen_name" : "scan_boy",
   "in_reply_to_user_id_str" : "260360173",
   "user" : {
@@ -4670,12 +4555,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "youtube.com/watch?v=uXi8QK\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "244145960408739840",
   "text" : "Heard it from a friend who heard it from a friend who heard that a 64bit OS on a small VPS instance was bad. http://t.co/2NmsC4pu",
   "id" : 244145960408739840,
-  "created_at" : "Fri Sep 07 18:51:47 +0000 2012",
+  "created_at" : "2012-09-07 18:51:47 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4698,12 +4582,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "youtube.com/watch?v=sMZwZi\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "244117013478400001",
   "text" : "You can go with this or you can go with that. http://t.co/ti99H5T0",
   "id" : 244117013478400001,
-  "created_at" : "Fri Sep 07 16:56:46 +0000 2012",
+  "created_at" : "2012-09-07 16:56:46 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4724,12 +4607,11 @@ Grailbird.data.tweets_2012_09 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "243992031536504832",
   "text" : "It should be noted that one of my replies earlier was a Twoosh. That is all. #ithasbeennotedgoodnight",
   "id" : 243992031536504832,
-  "created_at" : "Fri Sep 07 08:40:08 +0000 2012",
+  "created_at" : "2012-09-07 08:40:08 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4750,12 +4632,11 @@ Grailbird.data.tweets_2012_09 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "243991656007880704",
   "text" : "Magic ball says that tomorrow the Markdown For P2 plugin will start working with check lists in P2. #otherwiseIshallperformthemagic",
   "id" : 243991656007880704,
-  "created_at" : "Fri Sep 07 08:38:38 +0000 2012",
+  "created_at" : "2012-09-07 08:38:38 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4800,8 +4681,7 @@ Grailbird.data.tweets_2012_09 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "243989880798052352",
   "text" : "RT @jakemgold: For the record, @craigchevrier, @ryelle &amp; @ericmann are the end of my new #team10up employee announcements this week :-)",
   "retweeted_status" : {
@@ -4833,12 +4713,11 @@ Grailbird.data.tweets_2012_09 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "243924275592044544",
     "text" : "For the record, @craigchevrier, @ryelle &amp; @ericmann are the end of my new #team10up employee announcements this week :-)",
     "id" : 243924275592044544,
-    "created_at" : "Fri Sep 07 04:10:53 +0000 2012",
+    "created_at" : "2012-09-07 04:10:53 +0000",
     "user" : {
       "name" : "Jake Goldman",
       "screen_name" : "jakemgold",
@@ -4850,7 +4729,7 @@ Grailbird.data.tweets_2012_09 =
     }
   },
   "id" : 243989880798052352,
-  "created_at" : "Fri Sep 07 08:31:35 +0000 2012",
+  "created_at" : "2012-09-07 08:31:35 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4879,12 +4758,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "youtube.com/watch?v=a1Y73s\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "243984792000004097",
   "text" : "In #team10up when you quit the channel seconds after anything else is said. http://t.co/6M0VGDNl #theresabotforthat",
   "id" : 243984792000004097,
-  "created_at" : "Fri Sep 07 08:11:22 +0000 2012",
+  "created_at" : "2012-09-07 08:11:22 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4939,7 +4817,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "243974990125469696",
   "text" : "Gluten Free Beer FYI http://t.co/npXZMMU5",
   "id" : 243974990125469696,
-  "created_at" : "Fri Sep 07 07:32:26 +0000 2012",
+  "created_at" : "2012-09-07 07:32:26 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4973,7 +4851,7 @@ Grailbird.data.tweets_2012_09 =
   "text" : "@mathowie I think my brain will hurt forever on innocent until proven guilty. Everyone should just tell them truth and get on with it.",
   "id" : 243973448416755712,
   "in_reply_to_status_id" : 243967975487578112,
-  "created_at" : "Fri Sep 07 07:26:17 +0000 2012",
+  "created_at" : "2012-09-07 07:26:17 +0000",
   "in_reply_to_screen_name" : "mathowie",
   "in_reply_to_user_id_str" : "761975",
   "user" : {
@@ -5000,7 +4878,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "243967534263586816",
   "text" : "And then you are deaf. Carry on.",
   "id" : 243967534263586816,
-  "created_at" : "Fri Sep 07 07:02:47 +0000 2012",
+  "created_at" : "2012-09-07 07:02:47 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5034,7 +4912,7 @@ Grailbird.data.tweets_2012_09 =
   "text" : "@mathowie Intrigued. Do you trust Tyler or Lance more. So difficult.",
   "id" : 243967144423997440,
   "in_reply_to_status_id" : 243966339990036480,
-  "created_at" : "Fri Sep 07 07:01:14 +0000 2012",
+  "created_at" : "2012-09-07 07:01:14 +0000",
   "in_reply_to_screen_name" : "mathowie",
   "in_reply_to_user_id_str" : "761975",
   "user" : {
@@ -5061,7 +4939,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "243962090858106880",
   "text" : "I am so rock and roll happy right now.",
   "id" : 243962090858106880,
-  "created_at" : "Fri Sep 07 06:41:09 +0000 2012",
+  "created_at" : "2012-09-07 06:41:09 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5089,7 +4967,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "243960642770464768",
   "text" : "Kick out the jams indeed. F'ing rock and roll show. #mfnw",
   "id" : 243960642770464768,
-  "created_at" : "Fri Sep 07 06:35:24 +0000 2012",
+  "created_at" : "2012-09-07 06:35:24 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5120,7 +4998,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "243959810863796224",
   "text" : "Appreciation for the use of J in the last tweet from @jessjurick",
   "id" : 243959810863796224,
-  "created_at" : "Fri Sep 07 06:32:06 +0000 2012",
+  "created_at" : "2012-09-07 06:32:06 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5154,7 +5032,7 @@ Grailbird.data.tweets_2012_09 =
   "text" : "@berkun damn. ;)",
   "id" : 243958774757470208,
   "in_reply_to_status_id" : 243958374574747649,
-  "created_at" : "Fri Sep 07 06:27:59 +0000 2012",
+  "created_at" : "2012-09-07 06:27:59 +0000",
   "in_reply_to_screen_name" : "berkun",
   "in_reply_to_user_id_str" : "30495974",
   "user" : {
@@ -5190,7 +5068,7 @@ Grailbird.data.tweets_2012_09 =
   "text" : "@berkun before you can seek truth, you must learn to stop telling lies.",
   "id" : 243957881161015296,
   "in_reply_to_status_id" : 243957052081311744,
-  "created_at" : "Fri Sep 07 06:24:26 +0000 2012",
+  "created_at" : "2012-09-07 06:24:26 +0000",
   "in_reply_to_screen_name" : "berkun",
   "in_reply_to_user_id_str" : "30495974",
   "user" : {
@@ -5220,7 +5098,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "243955005634248704",
   "text" : "Holy Shit, The Men pack a lot of sound on such a small stage.  #mfnw",
   "id" : 243955005634248704,
-  "created_at" : "Fri Sep 07 06:13:00 +0000 2012",
+  "created_at" : "2012-09-07 06:13:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5260,7 +5138,7 @@ Grailbird.data.tweets_2012_09 =
   "text" : "@jessjurick all rock fan. :) rock star will depend on @tollmanz wanting to start a band.",
   "id" : 243954751463628801,
   "in_reply_to_status_id" : 243954405190291456,
-  "created_at" : "Fri Sep 07 06:11:59 +0000 2012",
+  "created_at" : "2012-09-07 06:11:59 +0000",
   "in_reply_to_screen_name" : "jessjurick",
   "in_reply_to_user_id_str" : "21618405",
   "user" : {
@@ -5282,7 +5160,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "783214",
       "id" : 783214
     }, {
-      "name" : "@sweden / Cristopher",
+      "name" : "@sweden / Sophia",
       "screen_name" : "sweden",
       "indices" : [ 42, 49 ],
       "id_str" : "19663706",
@@ -5299,7 +5177,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "243950980415225856",
   "text" : "My favorite use of @twitter these days is @sweden. Every country should copy that model. So much fun.",
   "id" : 243950980415225856,
-  "created_at" : "Fri Sep 07 05:57:00 +0000 2012",
+  "created_at" : "2012-09-07 05:57:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5356,8 +5234,7 @@ Grailbird.data.tweets_2012_09 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "243950193270222849",
   "text" : "RT @auteurian: Nothing like good punk music Mean Jeans #MFNW http://t.co/tpsh632D",
   "retweeted_status" : {
@@ -5401,24 +5278,23 @@ Grailbird.data.tweets_2012_09 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "243948496930095106",
     "text" : "Nothing like good punk music Mean Jeans #MFNW http://t.co/tpsh632D",
     "id" : 243948496930095106,
-    "created_at" : "Fri Sep 07 05:47:09 +0000 2012",
+    "created_at" : "2012-09-07 05:47:09 +0000",
     "user" : {
       "name" : "Autumn A",
       "screen_name" : "auteurian",
       "protected" : false,
       "id_str" : "38790060",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000211623465/ac1d6fb22ec93512ec1fb5ef6c78d246_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000400927802/ef59013cb2f6d86713dbcedb6643b97e_normal.jpeg",
       "id" : 38790060,
       "verified" : false
     }
   },
   "id" : 243950193270222849,
-  "created_at" : "Fri Sep 07 05:53:53 +0000 2012",
+  "created_at" : "2012-09-07 05:53:53 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5446,7 +5322,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "243945579133149185",
   "text" : "Also,  beer and rock and roll. #seethatwasatweet",
   "id" : 243945579133149185,
-  "created_at" : "Fri Sep 07 05:35:33 +0000 2012",
+  "created_at" : "2012-09-07 05:35:33 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5471,7 +5347,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "243945226576744448",
   "text" : "Too easy to tweet. Reserve the power of words.",
   "id" : 243945226576744448,
-  "created_at" : "Fri Sep 07 05:34:08 +0000 2012",
+  "created_at" : "2012-09-07 05:34:08 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5499,7 +5375,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "243944619245711360",
   "text" : "Mean Jeans killed that stage pretty much. Showed the hidden SP fandom at the end. ;) #mfnw",
   "id" : 243944619245711360,
-  "created_at" : "Fri Sep 07 05:31:44 +0000 2012",
+  "created_at" : "2012-09-07 05:31:44 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5530,7 +5406,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "243937569505685504",
   "text" : "90 second punk songs on Thursday night, FTW. #mfnw #meanjeans",
   "id" : 243937569505685504,
-  "created_at" : "Fri Sep 07 05:03:43 +0000 2012",
+  "created_at" : "2012-09-07 05:03:43 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5554,8 +5430,7 @@ Grailbird.data.tweets_2012_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "243934544133230592",
   "text" : "RT @deejayChilly: I just watched a lumberjack spanking a grown woman in a cocktail dress while singing Metallica. It's only 9:30. Damn,  ...",
   "retweeted_status" : {
@@ -5569,12 +5444,11 @@ Grailbird.data.tweets_2012_09 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "243933754056376320",
     "text" : "I just watched a lumberjack spanking a grown woman in a cocktail dress while singing Metallica. It's only 9:30. Damn, Portland, yeah. #MFNW",
     "id" : 243933754056376320,
-    "created_at" : "Fri Sep 07 04:48:33 +0000 2012",
+    "created_at" : "2012-09-07 04:48:33 +0000",
     "user" : {
       "name" : "Chilly",
       "screen_name" : "deejayChilly",
@@ -5586,7 +5460,7 @@ Grailbird.data.tweets_2012_09 =
     }
   },
   "id" : 243934544133230592,
-  "created_at" : "Fri Sep 07 04:51:42 +0000 2012",
+  "created_at" : "2012-09-07 04:51:42 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5618,7 +5492,7 @@ Grailbird.data.tweets_2012_09 =
   "in_reply_to_user_id" : 260360173,
   "text" : "@scan_boy plan PDX trip next September. I do believe MFNW would suit you.  :)",
   "id" : 243934267451781121,
-  "created_at" : "Fri Sep 07 04:50:36 +0000 2012",
+  "created_at" : "2012-09-07 04:50:36 +0000",
   "in_reply_to_screen_name" : "scan_boy",
   "in_reply_to_user_id_str" : "260360173",
   "user" : {
@@ -5660,7 +5534,7 @@ Grailbird.data.tweets_2012_09 =
   "text" : "@jakemgold @danielbachhuber I'll argue that devs benefit from collaboration more than plugins and that leads to improved quality all around.",
   "id" : 243932442359107584,
   "in_reply_to_status_id" : 243923680520966145,
-  "created_at" : "Fri Sep 07 04:43:20 +0000 2012",
+  "created_at" : "2012-09-07 04:43:20 +0000",
   "in_reply_to_screen_name" : "jakemgold",
   "in_reply_to_user_id_str" : "10672622",
   "user" : {
@@ -5696,7 +5570,7 @@ Grailbird.data.tweets_2012_09 =
   "text" : "@danielbachhuber git clone github + fairy dust? :) My real guess is bigger than 140, so blog post after rock show.",
   "id" : 243931713267433472,
   "in_reply_to_status_id" : 243921992657563648,
-  "created_at" : "Fri Sep 07 04:40:27 +0000 2012",
+  "created_at" : "2012-09-07 04:40:27 +0000",
   "in_reply_to_screen_name" : "danielbachhuber",
   "in_reply_to_user_id_str" : "272166936",
   "user" : {
@@ -5723,7 +5597,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "243930881721520128",
   "text" : "The People's Temple were so much better than their Myspace Page let on. Nicely done!",
   "id" : 243930881721520128,
-  "created_at" : "Fri Sep 07 04:37:08 +0000 2012",
+  "created_at" : "2012-09-07 04:37:08 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5748,7 +5622,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "243918210020282368",
   "text" : "So stoked to see a rock show for the first time in....  I miss live music.",
   "id" : 243918210020282368,
-  "created_at" : "Fri Sep 07 03:46:47 +0000 2012",
+  "created_at" : "2012-09-07 03:46:47 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5782,7 +5656,7 @@ Grailbird.data.tweets_2012_09 =
   "text" : "@danielbachhuber Place to discuss collaboration before development. Submission now requires a completed product rather than an idea.",
   "id" : 243917885351804928,
   "in_reply_to_status_id" : 243904962717970432,
-  "created_at" : "Fri Sep 07 03:45:30 +0000 2012",
+  "created_at" : "2012-09-07 03:45:30 +0000",
   "in_reply_to_screen_name" : "danielbachhuber",
   "in_reply_to_user_id_str" : "272166936",
   "user" : {
@@ -5811,8 +5685,7 @@ Grailbird.data.tweets_2012_09 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "243914660892516353",
   "text" : "RT @Mean_Jeans: Mean Jeans play Star Theater tonight with The Men and People's Temple #MFNW",
   "retweeted_status" : {
@@ -5826,12 +5699,11 @@ Grailbird.data.tweets_2012_09 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "243796503561396224",
     "text" : "Mean Jeans play Star Theater tonight with The Men and People's Temple #MFNW",
     "id" : 243796503561396224,
-    "created_at" : "Thu Sep 06 19:43:10 +0000 2012",
+    "created_at" : "2012-09-06 19:43:10 +0000",
     "user" : {
       "name" : "Mean Jeans",
       "screen_name" : "Mean_Jeans",
@@ -5843,7 +5715,7 @@ Grailbird.data.tweets_2012_09 =
     }
   },
   "id" : 243914660892516353,
-  "created_at" : "Fri Sep 07 03:32:41 +0000 2012",
+  "created_at" : "2012-09-07 03:32:41 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5873,7 +5745,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "243912991358189568",
   "text" : "First at the rock show! (@ Star Theater for MusicFest NW w/ 2 others) [pic]: http://t.co/393nPlyZ",
   "id" : 243912991358189568,
-  "created_at" : "Fri Sep 07 03:26:03 +0000 2012",
+  "created_at" : "2012-09-07 03:26:03 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5903,7 +5775,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "243827930113908738",
   "text" : "I'm at Coffee Time (Portland, OR) http://t.co/pc6CPBb9",
   "id" : 243827930113908738,
-  "created_at" : "Thu Sep 06 21:48:03 +0000 2012",
+  "created_at" : "2012-09-06 21:48:03 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5927,8 +5799,7 @@ Grailbird.data.tweets_2012_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "243797291784343552",
   "text" : "RT @Krogsgard: I wish there was a \u201Cdisplay: inline-fill\u201D method so inline items can fill the width of the parent container, whatever tha ...",
   "retweeted_status" : {
@@ -5939,12 +5810,11 @@ Grailbird.data.tweets_2012_09 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "243796308463329280",
     "text" : "I wish there was a \u201Cdisplay: inline-fill\u201D method so inline items can fill the width of the parent container, whatever that is.",
     "id" : 243796308463329280,
-    "created_at" : "Thu Sep 06 19:42:24 +0000 2012",
+    "created_at" : "2012-09-06 19:42:24 +0000",
     "user" : {
       "name" : "Brian Krogsgard",
       "screen_name" : "Krogsgard",
@@ -5956,7 +5826,7 @@ Grailbird.data.tweets_2012_09 =
     }
   },
   "id" : 243797291784343552,
-  "created_at" : "Thu Sep 06 19:46:18 +0000 2012",
+  "created_at" : "2012-09-06 19:46:18 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5993,14 +5863,13 @@ Grailbird.data.tweets_2012_09 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "243681547088191489",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "243783108070096897",
   "in_reply_to_user_id" : 310342631,
   "text" : "@twoOregonians @andiamo I am not a designer, even when I try. :) We do fantastic stuff at @10up though if you\u2019re looking.",
   "id" : 243783108070096897,
   "in_reply_to_status_id" : 243681547088191489,
-  "created_at" : "Thu Sep 06 18:49:56 +0000 2012",
+  "created_at" : "2012-09-06 18:49:56 +0000",
   "in_reply_to_screen_name" : "twoOregonians",
   "in_reply_to_user_id_str" : "310342631",
   "user" : {
@@ -6027,14 +5896,13 @@ Grailbird.data.tweets_2012_09 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "243735321810980864",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "243737456875294720",
   "in_reply_to_user_id" : 260360173,
   "text" : "@scan_boy I\u2019m paying the price of living life at the limit.",
   "id" : 243737456875294720,
   "in_reply_to_status_id" : 243735321810980864,
-  "created_at" : "Thu Sep 06 15:48:32 +0000 2012",
+  "created_at" : "2012-09-06 15:48:32 +0000",
   "in_reply_to_screen_name" : "scan_boy",
   "in_reply_to_user_id_str" : "260360173",
   "user" : {
@@ -6057,12 +5925,11 @@ Grailbird.data.tweets_2012_09 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "243737172912525313",
   "text" : "OH: \u201CMy syntax in English is worse than my syntax anywhere else\u201D #team10up",
   "id" : 243737172912525313,
-  "created_at" : "Thu Sep 06 15:47:25 +0000 2012",
+  "created_at" : "2012-09-06 15:47:25 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -6099,7 +5966,7 @@ Grailbird.data.tweets_2012_09 =
   "text" : "@EricMann Welcome to #team10up!",
   "id" : 243695747931971585,
   "in_reply_to_status_id" : 243572148034232320,
-  "created_at" : "Thu Sep 06 13:02:48 +0000 2012",
+  "created_at" : "2012-09-06 13:02:48 +0000",
   "in_reply_to_screen_name" : "EricMann",
   "in_reply_to_user_id_str" : "14132756",
   "user" : {
@@ -6130,8 +5997,7 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "10up.com/blog/2012/09/e\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "243695529270337538",
   "text" : "RT @EricMann: Eric Mann Joins 10up http://t.co/Lo7vFANW",
   "retweeted_status" : {
@@ -6147,12 +6013,11 @@ Grailbird.data.tweets_2012_09 =
         "display_url" : "10up.com/blog/2012/09/e\u2026"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "243572148034232320",
     "text" : "Eric Mann Joins 10up http://t.co/Lo7vFANW",
     "id" : 243572148034232320,
-    "created_at" : "Thu Sep 06 04:51:40 +0000 2012",
+    "created_at" : "2012-09-06 04:51:40 +0000",
     "user" : {
       "name" : "Eric Mann",
       "screen_name" : "EricMann",
@@ -6164,7 +6029,7 @@ Grailbird.data.tweets_2012_09 =
     }
   },
   "id" : 243695529270337538,
-  "created_at" : "Thu Sep 06 13:01:56 +0000 2012",
+  "created_at" : "2012-09-06 13:01:56 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -6194,7 +6059,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "243520671089565697",
   "text" : "Ricky Martin pumpin' on the stereo. (@ Pepino's Mexican Grill) http://t.co/wpNmYg72",
   "id" : 243520671089565697,
-  "created_at" : "Thu Sep 06 01:27:07 +0000 2012",
+  "created_at" : "2012-09-06 01:27:07 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -6217,12 +6082,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "grist.org/list/stop-what\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "243515213859676162",
   "text" : "Stop what you\u2019re doing and look at this disco dancing polar bear http://t.co/x1DdEdji",
   "id" : 243515213859676162,
-  "created_at" : "Thu Sep 06 01:05:25 +0000 2012",
+  "created_at" : "2012-09-06 01:05:25 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -6245,12 +6109,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "rd.io/x/QU-g8SJc5t0"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "243419439125655552",
   "text" : "About to go buy a car so that I can drive around and listen to tracks 4,5,6 on repeat. Loudly. http://t.co/PzPWBmoB",
   "id" : 243419439125655552,
-  "created_at" : "Wed Sep 05 18:44:51 +0000 2012",
+  "created_at" : "2012-09-05 18:44:51 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -6275,7 +6138,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "243209416613195776",
   "text" : "The very impressive TechCrunch Disrupt lineup is very impressive. Also interesting - the big tech companies not represented.",
   "id" : 243209416613195776,
-  "created_at" : "Wed Sep 05 04:50:18 +0000 2012",
+  "created_at" : "2012-09-05 04:50:18 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -6299,8 +6162,7 @@ Grailbird.data.tweets_2012_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "243204479162388480",
   "text" : "RT @tcarmody: Only two living political figures have favorable ratings in the 60s right now: Bill Clinton &amp; Michelle Obama. http://t ...",
   "retweeted_status" : {
@@ -6316,24 +6178,23 @@ Grailbird.data.tweets_2012_09 =
         "display_url" : "newyorker.com/reporting/2012\u2026"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "243198331315187713",
     "text" : "Only two living political figures have favorable ratings in the 60s right now: Bill Clinton &amp; Michelle Obama. http://t.co/Zmn6qyfT",
     "id" : 243198331315187713,
-    "created_at" : "Wed Sep 05 04:06:15 +0000 2012",
+    "created_at" : "2012-09-05 04:06:15 +0000",
     "user" : {
       "name" : "Tim Carmody",
       "screen_name" : "tcarmody",
       "protected" : false,
       "id_str" : "14439168",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3752924868/36c143bdc8efb32521d50729d3864d09_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000393145478/e1a2562f96263eb58b2261d1aaf72fbf_normal.png",
       "id" : 14439168,
       "verified" : true
     }
   },
   "id" : 243204479162388480,
-  "created_at" : "Wed Sep 05 04:30:41 +0000 2012",
+  "created_at" : "2012-09-05 04:30:41 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -6367,7 +6228,7 @@ Grailbird.data.tweets_2012_09 =
   "text" : "@tollmanz yup! Delicious.",
   "id" : 242131830705377280,
   "in_reply_to_status_id" : 242131678800265216,
-  "created_at" : "Sun Sep 02 05:28:21 +0000 2012",
+  "created_at" : "2012-09-02 05:28:21 +0000",
   "in_reply_to_screen_name" : "tollmanz",
   "in_reply_to_user_id_str" : "335110427",
   "user" : {
@@ -6392,12 +6253,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "instagr.am/p/PD6KkYpHsF/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "242130794330611713",
   "text" : "Chocolate http://t.co/ItGF1JJc",
   "id" : 242130794330611713,
-  "created_at" : "Sun Sep 02 05:24:14 +0000 2012",
+  "created_at" : "2012-09-02 05:24:14 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -6427,7 +6287,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "242065278236766208",
   "text" : "Always With the Sunny Meier &amp; Frank Pictures http://t.co/2eE40oMp",
   "id" : 242065278236766208,
-  "created_at" : "Sun Sep 02 01:03:54 +0000 2012",
+  "created_at" : "2012-09-02 01:03:54 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -6450,12 +6310,11 @@ Grailbird.data.tweets_2012_09 =
       "display_url" : "curekids.org.nz/make-a-donatio\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "242000555621367808",
   "text" : "I just helpa helpa helpa'd the kids. http://t.co/QlfxFeav",
   "id" : 242000555621367808,
-  "created_at" : "Sat Sep 01 20:46:43 +0000 2012",
+  "created_at" : "2012-09-01 20:46:43 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -6473,12 +6332,11 @@ Grailbird.data.tweets_2012_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "241998321965731841",
   "text" : "And stuff like that.",
   "id" : 241998321965731841,
-  "created_at" : "Sat Sep 01 20:37:50 +0000 2012",
+  "created_at" : "2012-09-01 20:37:50 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

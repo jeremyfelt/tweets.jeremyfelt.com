@@ -19,7 +19,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "263852486039851009",
   "text" : "Goriest movie EVER! And free tonight. :) (@ Cinema 21 Theatre for Dead Alive w/ 4 others) http://t.co/zLNCSsFm",
   "id" : 263852486039851009,
-  "created_at" : "Thu Nov 01 03:58:29 +0000 2012",
+  "created_at" : "2012-11-01 03:58:29 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -43,12 +43,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "263741746276597761",
   "text" : "Is there some kind of protected secret to getting @united to pay for cab fares after a cancelled flight?",
   "id" : 263741746276597761,
-  "created_at" : "Wed Oct 31 20:38:27 +0000 2012",
+  "created_at" : "2012-10-31 20:38:27 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -66,12 +65,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "263522420231643136",
   "text" : "document.write all the document.wrongs",
   "id" : 263522420231643136,
-  "created_at" : "Wed Oct 31 06:06:55 +0000 2012",
+  "created_at" : "2012-10-31 06:06:55 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -106,12 +104,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "instagr.am/p/RbCOzvFDUS/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "263400750716178432",
   "text" : "So. F. Ing. Good. RT @meeshfelt: A first look at salsa sauerkraut with @jeremyfelt as my hand model\u2026.. http://t.co/1x1YSSyR",
   "id" : 263400750716178432,
-  "created_at" : "Tue Oct 30 22:03:27 +0000 2012",
+  "created_at" : "2012-10-30 22:03:27 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -149,8 +146,7 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "lockerz.com/s/257386435"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "263172705828892672",
   "text" : "RT @kellyoxford: I love that Canada is the ocean in this CNN graphic. #cnn @piersmorgan  http://t.co/VR1RkdVL",
   "retweeted_status" : {
@@ -175,24 +171,23 @@ Grailbird.data.tweets_2012_10 =
         "display_url" : "lockerz.com/s/257386435"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "263145514839711744",
     "text" : "I love that Canada is the ocean in this CNN graphic. #cnn @piersmorgan  http://t.co/VR1RkdVL",
     "id" : 263145514839711744,
-    "created_at" : "Tue Oct 30 05:09:14 +0000 2012",
+    "created_at" : "2012-10-30 05:09:14 +0000",
     "user" : {
       "name" : "kelly oxford",
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000040295278/a5c39481880901d46a5d31e88694ec1f_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000373250347/89b405ba14fd70fbf0bb3fc4cd54fb41_normal.jpeg",
       "id" : 22872643,
       "verified" : true
     }
   },
   "id" : 263172705828892672,
-  "created_at" : "Tue Oct 30 06:57:17 +0000 2012",
+  "created_at" : "2012-10-30 06:57:17 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -216,13 +211,12 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "263133825050234880",
   "in_reply_to_user_id" : 335110427,
   "text" : "@tollmanz lies!",
   "id" : 263133825050234880,
-  "created_at" : "Tue Oct 30 04:22:47 +0000 2012",
+  "created_at" : "2012-10-30 04:22:47 +0000",
   "in_reply_to_screen_name" : "tollmanz",
   "in_reply_to_user_id_str" : "335110427",
   "user" : {
@@ -254,7 +248,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "263091815379521536",
   "text" : "PDX WP Meetup! (@ US Bancorp Tower) http://t.co/IcHAr5ga",
   "id" : 263091815379521536,
-  "created_at" : "Tue Oct 30 01:35:51 +0000 2012",
+  "created_at" : "2012-10-30 01:35:51 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -290,7 +284,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "263076651640954881",
   "text" : "Pre @pdxwp meetup meetupping. (@ Bailey's Taproom w/ 3 others) http://t.co/b96h2pQi",
   "id" : 263076651640954881,
-  "created_at" : "Tue Oct 30 00:35:36 +0000 2012",
+  "created_at" : "2012-10-30 00:35:36 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -314,12 +308,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "262450985950126080",
   "text" : "Halloween. @TheLastCicada as Daniel Boone in a crowd dancing to Gangham Style.",
   "id" : 262450985950126080,
-  "created_at" : "Sun Oct 28 07:09:25 +0000 2012",
+  "created_at" : "2012-10-28 07:09:25 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -348,12 +341,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "instagr.am/p/RUQWW-JHur/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "262445864042237953",
   "text" : "Ditka and Cookie Monster. It's a small world. /cc @tollmanz http://t.co/SMxXjcdH",
   "id" : 262445864042237953,
-  "created_at" : "Sun Oct 28 06:49:04 +0000 2012",
+  "created_at" : "2012-10-28 06:49:04 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -383,7 +375,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "262440669556137984",
   "text" : "Halloween! (Almost) (@ Blitz Pearl w/ 3 others) http://t.co/1hRkveht",
   "id" : 262440669556137984,
-  "created_at" : "Sun Oct 28 06:28:26 +0000 2012",
+  "created_at" : "2012-10-28 06:28:26 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -415,8 +407,7 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "instagr.am/p/RUHGXfFDW0/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "262429027904659457",
   "text" : "RT @meeshfelt: Our friend doing #chicago proud :-) http://t.co/1nMSvxRP",
   "retweeted_status" : {
@@ -435,12 +426,11 @@ Grailbird.data.tweets_2012_10 =
         "display_url" : "instagr.am/p/RUHGXfFDW0/"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "262425433923018752",
     "text" : "Our friend doing #chicago proud :-) http://t.co/1nMSvxRP",
     "id" : 262425433923018752,
-    "created_at" : "Sun Oct 28 05:27:53 +0000 2012",
+    "created_at" : "2012-10-28 05:27:53 +0000",
     "user" : {
       "name" : "Michelle Felt",
       "screen_name" : "meeshfelt",
@@ -452,7 +442,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 262429027904659457,
-  "created_at" : "Sun Oct 28 05:42:10 +0000 2012",
+  "created_at" : "2012-10-28 05:42:10 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -475,12 +465,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "instagr.am/p/RUF761JHnu/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "262422852542791680",
   "text" : "Tired frog. http://t.co/Vtphiehu",
   "id" : 262422852542791680,
-  "created_at" : "Sun Oct 28 05:17:38 +0000 2012",
+  "created_at" : "2012-10-28 05:17:38 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -503,12 +492,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "instagr.am/p/RT7EbQpHt7/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "262398951964168193",
   "text" : "This. http://t.co/IpGUyvCw",
   "id" : 262398951964168193,
-  "created_at" : "Sun Oct 28 03:42:39 +0000 2012",
+  "created_at" : "2012-10-28 03:42:39 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -531,12 +519,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "instagr.am/p/RTJtqRJHjv/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "262290415577874432",
   "text" : "So strange. http://t.co/5O7jN4Vo",
   "id" : 262290415577874432,
-  "created_at" : "Sat Oct 27 20:31:22 +0000 2012",
+  "created_at" : "2012-10-27 20:31:22 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -562,12 +549,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "cl.ly/image/332F0X0w\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "262038840326385664",
   "text" : "Critically-acclaimed Violent Foreign Thrillers http://t.co/q1x7FZJE #specificity",
   "id" : 262038840326385664,
-  "created_at" : "Sat Oct 27 03:51:42 +0000 2012",
+  "created_at" : "2012-10-27 03:51:42 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -585,12 +571,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "262002647614234624",
   "text" : "Where in the world is ZipCarmen San Diego?",
   "id" : 262002647614234624,
-  "created_at" : "Sat Oct 27 01:27:53 +0000 2012",
+  "created_at" : "2012-10-27 01:27:53 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -608,12 +593,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "262000578031394816",
   "text" : "Car sharing is awesome until the car isn\u2019t there.",
   "id" : 262000578031394816,
-  "created_at" : "Sat Oct 27 01:19:40 +0000 2012",
+  "created_at" : "2012-10-27 01:19:40 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -638,14 +622,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "261991284489728000",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "261993616283684864",
   "in_reply_to_user_id" : 260360173,
   "text" : "@scan_boy I misstated. Next week it\u2019s a block away from us in PDX. :)",
   "id" : 261993616283684864,
   "in_reply_to_status_id" : 261991284489728000,
-  "created_at" : "Sat Oct 27 00:52:00 +0000 2012",
+  "created_at" : "2012-10-27 00:52:00 +0000",
   "in_reply_to_screen_name" : "scan_boy",
   "in_reply_to_user_id_str" : "260360173",
   "user" : {
@@ -678,14 +661,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "261986809184141312",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "261989761059794944",
   "in_reply_to_user_id" : 260360173,
   "text" : "@scan_boy @ebertchicago at a theater a block away on Halloween!",
   "id" : 261989761059794944,
   "in_reply_to_status_id" : 261986809184141312,
-  "created_at" : "Sat Oct 27 00:36:41 +0000 2012",
+  "created_at" : "2012-10-27 00:36:41 +0000",
   "in_reply_to_screen_name" : "scan_boy",
   "in_reply_to_user_id_str" : "260360173",
   "user" : {
@@ -735,12 +717,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "261851077148827648",
   "text" : "Argo http://t.co/UT1pz2L3",
   "id" : 261851077148827648,
-  "created_at" : "Fri Oct 26 15:25:37 +0000 2012",
+  "created_at" : "2012-10-26 15:25:37 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -765,14 +746,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "261711362001092608",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "261712152468008961",
   "in_reply_to_user_id" : 1335391,
   "text" : "@kiersi I would have also accepted fishfish.",
   "id" : 261712152468008961,
   "in_reply_to_status_id" : 261711362001092608,
-  "created_at" : "Fri Oct 26 06:13:34 +0000 2012",
+  "created_at" : "2012-10-26 06:13:34 +0000",
   "in_reply_to_screen_name" : "kiersi",
   "in_reply_to_user_id_str" : "1335391",
   "user" : {
@@ -799,14 +779,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "261710447219208192",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "261710925059485696",
   "in_reply_to_user_id" : 1335391,
   "text" : "@kiersi Ha! Yes I did. No starfish, no extra 's' available.",
   "id" : 261710925059485696,
   "in_reply_to_status_id" : 261710447219208192,
-  "created_at" : "Fri Oct 26 06:08:41 +0000 2012",
+  "created_at" : "2012-10-26 06:08:41 +0000",
   "in_reply_to_screen_name" : "kiersi",
   "in_reply_to_user_id_str" : "1335391",
   "user" : {
@@ -832,12 +811,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "261700246176935936",
   "text" : "Ha! Just took codfish too. WTH? RT @jeremyfelt: Dogfish. Catfish. Lionfish. All in one Letterpress board.",
   "id" : 261700246176935936,
-  "created_at" : "Fri Oct 26 05:26:15 +0000 2012",
+  "created_at" : "2012-10-26 05:26:15 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -855,12 +833,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "261699683695611904",
   "text" : "Dogfish. Catfish. Lionfish. All in one Letterpress board.",
   "id" : 261699683695611904,
-  "created_at" : "Fri Oct 26 05:24:01 +0000 2012",
+  "created_at" : "2012-10-26 05:24:01 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -896,7 +873,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "261648126123855872",
   "text" : "Almost all of @10up PDX! (@ Fire On The Mountain w/ 3 others) http://t.co/5BboTSmk",
   "id" : 261648126123855872,
-  "created_at" : "Fri Oct 26 01:59:09 +0000 2012",
+  "created_at" : "2012-10-26 01:59:09 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -914,12 +891,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "261591898228129792",
   "text" : "The awesomeness of Letterpress is slightly overshadowed by the crap that is Game Center.",
   "id" : 261591898228129792,
-  "created_at" : "Thu Oct 25 22:15:43 +0000 2012",
+  "created_at" : "2012-10-25 22:15:43 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -942,12 +918,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "instagr.am/p/RMT5JQJHq_/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "261327664156135424",
   "text" : "Porter's got legs. http://t.co/dTgOLBgl",
   "id" : 261327664156135424,
-  "created_at" : "Thu Oct 25 04:45:45 +0000 2012",
+  "created_at" : "2012-10-25 04:45:45 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -983,7 +958,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "261276789450620928",
   "text" : "Hi @sherman_alexie! (@ Bagdad Theater &amp; Pub) http://t.co/ezOrmC7l",
   "id" : 261276789450620928,
-  "created_at" : "Thu Oct 25 01:23:35 +0000 2012",
+  "created_at" : "2012-10-25 01:23:35 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1006,12 +981,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "instagr.am/p/RLxp6tpHt3/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "261252424948391936",
   "text" : "Oh ooh? Weird ad is weird. http://t.co/XP96gHVZ",
   "id" : 261252424948391936,
-  "created_at" : "Wed Oct 24 23:46:46 +0000 2012",
+  "created_at" : "2012-10-24 23:46:46 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1036,14 +1010,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "260970890953641985",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "261226030243643393",
   "in_reply_to_user_id" : 10931152,
   "text" : "@mcbuzz Thanks!",
   "id" : 261226030243643393,
   "in_reply_to_status_id" : 260970890953641985,
-  "created_at" : "Wed Oct 24 22:01:53 +0000 2012",
+  "created_at" : "2012-10-24 22:01:53 +0000",
   "in_reply_to_screen_name" : "mcbuzz",
   "in_reply_to_user_id_str" : "10931152",
   "user" : {
@@ -1063,12 +1036,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "261225962325286913",
   "text" : "Letterpress is pretty cool so far.",
   "id" : 261225962325286913,
-  "created_at" : "Wed Oct 24 22:01:37 +0000 2012",
+  "created_at" : "2012-10-24 22:01:37 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1097,12 +1069,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "wordpress.tv/nowaythispagee\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "261212554033000448",
   "text" : "The 404 at WordPress.tv made my day. Nicely captured, @markjaquith  http://t.co/IgIWe7nt",
   "id" : 261212554033000448,
-  "created_at" : "Wed Oct 24 21:08:20 +0000 2012",
+  "created_at" : "2012-10-24 21:08:20 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1123,12 +1094,11 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260964019731591168",
   "text" : "\u201CIs it possible to hack a tablet to run a Power Point presentation?\u201D \u201CJust send me the IP address.\u201D #revenge",
   "id" : 260964019731591168,
-  "created_at" : "Wed Oct 24 04:40:45 +0000 2012",
+  "created_at" : "2012-10-24 04:40:45 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1197,8 +1167,7 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260958816168968192",
   "text" : "RT @joshelman: #winning \u201C@trammell: High five to the kid in the back row. RT @BarackObama: Photo of the day: http://t.co/bvb1jrji\u201D",
   "retweeted_status" : {
@@ -1254,12 +1223,11 @@ Grailbird.data.tweets_2012_10 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "260949851439771649",
     "text" : "#winning \u201C@trammell: High five to the kid in the back row. RT @BarackObama: Photo of the day: http://t.co/bvb1jrji\u201D",
     "id" : 260949851439771649,
-    "created_at" : "Wed Oct 24 03:44:27 +0000 2012",
+    "created_at" : "2012-10-24 03:44:27 +0000",
     "user" : {
       "name" : "Josh Elman",
       "screen_name" : "joshelman",
@@ -1271,7 +1239,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 260958816168968192,
-  "created_at" : "Wed Oct 24 04:20:04 +0000 2012",
+  "created_at" : "2012-10-24 04:20:04 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1296,14 +1264,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "260948027794153472",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260948595199602689",
   "in_reply_to_user_id" : 21618405,
   "text" : "@jessjurick Head. Stubble. Hubble.",
   "id" : 260948595199602689,
   "in_reply_to_status_id" : 260948027794153472,
-  "created_at" : "Wed Oct 24 03:39:27 +0000 2012",
+  "created_at" : "2012-10-24 03:39:27 +0000",
   "in_reply_to_screen_name" : "jessjurick",
   "in_reply_to_user_id_str" : "21618405",
   "user" : {
@@ -1330,14 +1297,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "260936138846515200",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260947675631988736",
   "in_reply_to_user_id" : 21618405,
   "text" : "@jessjurick Yes.",
   "id" : 260947675631988736,
   "in_reply_to_status_id" : 260936138846515200,
-  "created_at" : "Wed Oct 24 03:35:48 +0000 2012",
+  "created_at" : "2012-10-24 03:35:48 +0000",
   "in_reply_to_screen_name" : "jessjurick",
   "in_reply_to_user_id_str" : "21618405",
   "user" : {
@@ -1387,12 +1353,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260944499180703744",
   "text" : "Our Hamilton Beach toaster came with cancel, bagel &amp; cancel buttons. http://t.co/9muZgafL",
   "id" : 260944499180703744,
-  "created_at" : "Wed Oct 24 03:23:11 +0000 2012",
+  "created_at" : "2012-10-24 03:23:11 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1415,12 +1380,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "techcrunch.com/2012/10/23/get\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260798720742940674",
   "text" : "\"I\u2019m sure this move will go smoothly and will never come back to bite me.\" http://t.co/6smtaAr2",
   "id" : 260798720742940674,
-  "created_at" : "Tue Oct 23 17:43:55 +0000 2012",
+  "created_at" : "2012-10-23 17:43:55 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1445,14 +1409,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "260602600867635200",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260605570606825473",
   "in_reply_to_user_id" : 1335391,
   "text" : "@kiersi Woah. I thought that was Karl Rove in the middle for a second and my mind exploded.",
   "id" : 260605570606825473,
   "in_reply_to_status_id" : 260602600867635200,
-  "created_at" : "Tue Oct 23 04:56:24 +0000 2012",
+  "created_at" : "2012-10-23 04:56:24 +0000",
   "in_reply_to_screen_name" : "kiersi",
   "in_reply_to_user_id_str" : "1335391",
   "user" : {
@@ -1515,14 +1478,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "260586125834465280",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260604730152189952",
   "in_reply_to_user_id" : 326255267,
   "text" : "Needs a Howard Dean scream. via @thoronas RT @BuzzFeedAndrew Whoa, Mitt Romney's post-debate thumbs up. via Getty http://t.co/7mkxHJRu",
   "id" : 260604730152189952,
   "in_reply_to_status_id" : 260586125834465280,
-  "created_at" : "Tue Oct 23 04:53:04 +0000 2012",
+  "created_at" : "2012-10-23 04:53:04 +0000",
   "in_reply_to_screen_name" : "BuzzFeedAndrew",
   "in_reply_to_user_id_str" : "326255267",
   "user" : {
@@ -1578,8 +1540,7 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260587423388557312",
   "text" : "RT @amandakaschube: WIN. RT @panger2012: The Bears/Detroit game summed up in one picture: http://t.co/gXXh45ss",
   "retweeted_status" : {
@@ -1620,12 +1581,11 @@ Grailbird.data.tweets_2012_10 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "260586469247295489",
     "text" : "WIN. RT @panger2012: The Bears/Detroit game summed up in one picture: http://t.co/gXXh45ss",
     "id" : 260586469247295489,
-    "created_at" : "Tue Oct 23 03:40:30 +0000 2012",
+    "created_at" : "2012-10-23 03:40:30 +0000",
     "user" : {
       "name" : "Amanda Kaschube",
       "screen_name" : "amandakaschube",
@@ -1637,7 +1597,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 260587423388557312,
-  "created_at" : "Tue Oct 23 03:44:17 +0000 2012",
+  "created_at" : "2012-10-23 03:44:17 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1668,14 +1628,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "260578934985486336",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260579518765477888",
   "in_reply_to_user_id" : 37978965,
   "text" : "@maryslosson I only know him via Smoke Signals so far, but @meeshfelt has long been a fan. Can't wait.",
   "id" : 260579518765477888,
   "in_reply_to_status_id" : 260578934985486336,
-  "created_at" : "Tue Oct 23 03:12:53 +0000 2012",
+  "created_at" : "2012-10-23 03:12:53 +0000",
   "in_reply_to_screen_name" : "maryslosson",
   "in_reply_to_user_id_str" : "37978965",
   "user" : {
@@ -1700,12 +1659,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "jillstein.org/issues"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260578848532488192",
   "text" : "I wonder if there are other political parties out there with different views on foreign policy? http://t.co/MP3NDi4N",
   "id" : 260578848532488192,
-  "created_at" : "Tue Oct 23 03:10:13 +0000 2012",
+  "created_at" : "2012-10-23 03:10:13 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1730,14 +1688,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "260578003304714240",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260578532307128320",
   "in_reply_to_user_id" : 37978965,
   "text" : "@maryslosson We're going to see him on Wednesday in Portland!",
   "id" : 260578532307128320,
   "in_reply_to_status_id" : 260578003304714240,
-  "created_at" : "Tue Oct 23 03:08:58 +0000 2012",
+  "created_at" : "2012-10-23 03:08:58 +0000",
   "in_reply_to_screen_name" : "maryslosson",
   "in_reply_to_user_id_str" : "37978965",
   "user" : {
@@ -1762,12 +1719,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "newyorker.com/online/blogs/b\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260573780726923264",
   "text" : "Debate Ends Abruptly as Obama Punches Romney in Face http://t.co/ww0glgIU",
   "id" : 260573780726923264,
-  "created_at" : "Tue Oct 23 02:50:05 +0000 2012",
+  "created_at" : "2012-10-23 02:50:05 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1785,12 +1741,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260569068925493248",
   "text" : "Can't we postpone the closing statements until after the foreign policy part of the debate?",
   "id" : 260569068925493248,
-  "created_at" : "Tue Oct 23 02:31:21 +0000 2012",
+  "created_at" : "2012-10-23 02:31:21 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1808,12 +1763,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260568600811823105",
   "text" : "I think we all love teachers.",
   "id" : 260568600811823105,
-  "created_at" : "Tue Oct 23 02:29:30 +0000 2012",
+  "created_at" : "2012-10-23 02:29:30 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1837,8 +1791,7 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260566337154342914",
   "text" : "RT @howardweaver: You know, *I* am now four years closer to a nuclear bomb than I was four years ago.",
   "retweeted_status" : {
@@ -1849,12 +1802,11 @@ Grailbird.data.tweets_2012_10 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "260566264542531586",
     "text" : "You know, *I* am now four years closer to a nuclear bomb than I was four years ago.",
     "id" : 260566264542531586,
-    "created_at" : "Tue Oct 23 02:20:13 +0000 2012",
+    "created_at" : "2012-10-23 02:20:13 +0000",
     "user" : {
       "name" : "Howard Weaver",
       "screen_name" : "howardweaver",
@@ -1866,7 +1818,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 260566337154342914,
-  "created_at" : "Tue Oct 23 02:20:30 +0000 2012",
+  "created_at" : "2012-10-23 02:20:30 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1884,12 +1836,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260566071784914944",
   "text" : "I LABEL YOU A CURRENCY MANIPULATOR!",
   "id" : 260566071784914944,
-  "created_at" : "Tue Oct 23 02:19:27 +0000 2012",
+  "created_at" : "2012-10-23 02:19:27 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1907,12 +1858,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260557163766874113",
   "text" : "SNAP!",
   "id" : 260557163766874113,
-  "created_at" : "Tue Oct 23 01:44:03 +0000 2012",
+  "created_at" : "2012-10-23 01:44:03 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1937,14 +1887,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "260555987512074241",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260556145436028928",
   "in_reply_to_user_id" : 260360173,
   "text" : "@scan_boy I guess it is our route to the sea...",
   "id" : 260556145436028928,
   "in_reply_to_status_id" : 260555987512074241,
-  "created_at" : "Tue Oct 23 01:40:00 +0000 2012",
+  "created_at" : "2012-10-23 01:40:00 +0000",
   "in_reply_to_screen_name" : "scan_boy",
   "in_reply_to_user_id_str" : "260360173",
   "user" : {
@@ -1964,12 +1913,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260555683022376961",
   "text" : "I was promised a foreign policy debate. What.",
   "id" : 260555683022376961,
-  "created_at" : "Tue Oct 23 01:38:10 +0000 2012",
+  "created_at" : "2012-10-23 01:38:10 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1994,14 +1942,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "260534679428554752",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260538253826994176",
   "in_reply_to_user_id" : 260360173,
   "text" : "@scan_boy Bah! Where do they go? I've now lost 2 hand-knit wool hats from Ireland.",
   "id" : 260538253826994176,
   "in_reply_to_status_id" : 260534679428554752,
-  "created_at" : "Tue Oct 23 00:28:54 +0000 2012",
+  "created_at" : "2012-10-23 00:28:54 +0000",
   "in_reply_to_screen_name" : "scan_boy",
   "in_reply_to_user_id_str" : "260360173",
   "user" : {
@@ -2027,12 +1974,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260537550622580736",
   "text" : "6 PDXers at @10up now. Win!",
   "id" : 260537550622580736,
-  "created_at" : "Tue Oct 23 00:26:07 +0000 2012",
+  "created_at" : "2012-10-23 00:26:07 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2073,8 +2019,7 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "10up.com/about/#employe\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260537333189857282",
   "text" : "RT @jakemgold: And this week, we welcome employee 18 and Portlander 6, @Lkwdwrd as a Web Engineer to team @10up! http://t.co/TbuBl2m4",
   "retweeted_status" : {
@@ -2102,12 +2047,11 @@ Grailbird.data.tweets_2012_10 =
         "display_url" : "10up.com/about/#employe\u2026"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "260534704565014528",
     "text" : "And this week, we welcome employee 18 and Portlander 6, @Lkwdwrd as a Web Engineer to team @10up! http://t.co/TbuBl2m4",
     "id" : 260534704565014528,
-    "created_at" : "Tue Oct 23 00:14:48 +0000 2012",
+    "created_at" : "2012-10-23 00:14:48 +0000",
     "user" : {
       "name" : "Jake Goldman",
       "screen_name" : "jakemgold",
@@ -2119,7 +2063,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 260537333189857282,
-  "created_at" : "Tue Oct 23 00:25:15 +0000 2012",
+  "created_at" : "2012-10-23 00:25:15 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2155,8 +2099,7 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260534624965517313",
   "text" : "RT @jakemgold: Last week, we welcomed @TheLastCicada to team @10up as a full time Systems Engineer (infrastructure guy!) http://t.co/CFT ...",
   "retweeted_status" : {
@@ -2184,12 +2127,11 @@ Grailbird.data.tweets_2012_10 =
         "display_url" : "10up.com/about/#employe\u2026"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "260533594706022401",
     "text" : "Last week, we welcomed @TheLastCicada to team @10up as a full time Systems Engineer (infrastructure guy!) http://t.co/CFTHVhIY",
     "id" : 260533594706022401,
-    "created_at" : "Tue Oct 23 00:10:24 +0000 2012",
+    "created_at" : "2012-10-23 00:10:24 +0000",
     "user" : {
       "name" : "Jake Goldman",
       "screen_name" : "jakemgold",
@@ -2201,7 +2143,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 260534624965517313,
-  "created_at" : "Tue Oct 23 00:14:29 +0000 2012",
+  "created_at" : "2012-10-23 00:14:29 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2219,12 +2161,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260533136352485377",
   "text" : "Hat loss sucks.",
   "id" : 260533136352485377,
-  "created_at" : "Tue Oct 23 00:08:34 +0000 2012",
+  "created_at" : "2012-10-23 00:08:34 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2278,8 +2219,7 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260245663340716032",
   "text" : "RT @technosailor: Best Halloween lawn decoration ever http://t.co/TN4UGf9x",
   "retweeted_status" : {
@@ -2320,14 +2260,11 @@ Grailbird.data.tweets_2012_10 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-      "type" : "Point",
-      "coordinates" : [ 30.2585842503, -97.7781323759 ]
-    },
+    "geo" : { },
     "id_str" : "260233158295953409",
     "text" : "Best Halloween lawn decoration ever http://t.co/TN4UGf9x",
     "id" : 260233158295953409,
-    "created_at" : "Mon Oct 22 04:16:34 +0000 2012",
+    "created_at" : "2012-10-22 04:16:34 +0000",
     "user" : {
       "name" : "Aaron Brazell",
       "screen_name" : "technosailor",
@@ -2339,7 +2276,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 260245663340716032,
-  "created_at" : "Mon Oct 22 05:06:15 +0000 2012",
+  "created_at" : "2012-10-22 05:06:15 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2357,12 +2294,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260165594844905472",
   "text" : "Benefit of being car-free #274: You know the alarm that won\u2019t stop outside isn\u2019t yours.",
   "id" : 260165594844905472,
-  "created_at" : "Sun Oct 21 23:48:06 +0000 2012",
+  "created_at" : "2012-10-21 23:48:06 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2385,12 +2321,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "economist.com/news/europe/21\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260164077861621760",
   "text" : "\"So a train carrying Volvo cars from Sweden to Italy must change locomotives and crews three or four times.\" http://t.co/RGUS5qZ6",
   "id" : 260164077861621760,
-  "created_at" : "Sun Oct 21 23:42:04 +0000 2012",
+  "created_at" : "2012-10-21 23:42:04 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2413,12 +2348,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "defollower.com"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260125814228668417",
   "text" : "This Is Defollower http://t.co/zZM8pi4h",
   "id" : 260125814228668417,
-  "created_at" : "Sun Oct 21 21:10:01 +0000 2012",
+  "created_at" : "2012-10-21 21:10:01 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2443,14 +2377,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "260119141241978880",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260119611981307904",
   "in_reply_to_user_id" : 19277037,
   "text" : "@bluelimemedia Raw sauerkraut! This time it's salsa flavored. One more week. :)",
   "id" : 260119611981307904,
   "in_reply_to_status_id" : 260119141241978880,
-  "created_at" : "Sun Oct 21 20:45:22 +0000 2012",
+  "created_at" : "2012-10-21 20:45:22 +0000",
   "in_reply_to_screen_name" : "bluelimemedia",
   "in_reply_to_user_id_str" : "19277037",
   "user" : {
@@ -2500,12 +2433,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260118181102891010",
   "text" : "The crock! It\u2019s bubbling! http://t.co/1otlzqrb",
   "id" : 260118181102891010,
-  "created_at" : "Sun Oct 21 20:39:43 +0000 2012",
+  "created_at" : "2012-10-21 20:39:43 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2534,12 +2466,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "bit.ly/WBgtue"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "260068115633827842",
   "text" : "Fascinating RT @ebertchicago: He ejected from his jet airplane at nine miles above sea level--without a pressure suit. http://t.co/ULYO3NUi",
   "id" : 260068115633827842,
-  "created_at" : "Sun Oct 21 17:20:45 +0000 2012",
+  "created_at" : "2012-10-21 17:20:45 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2564,14 +2495,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "259894374459133953",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "259894968389357568",
   "in_reply_to_user_id" : 819797,
   "text" : "@episod so many un-constructive yet witty replies just flashed through my head.",
   "id" : 259894968389357568,
   "in_reply_to_status_id" : 259894374459133953,
-  "created_at" : "Sun Oct 21 05:52:43 +0000 2012",
+  "created_at" : "2012-10-21 05:52:43 +0000",
   "in_reply_to_screen_name" : "episod",
   "in_reply_to_user_id_str" : "819797",
   "user" : {
@@ -2602,8 +2532,7 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "danielbachhuber.com/2012/10/20/ave\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "259894534807367680",
   "text" : "RT @danielbachhuber: Avery Durable View Binder, 1 Inch Rings, White, 1 Binder (17012) by Avery \n http://t.co/oT1A6WR3",
   "retweeted_status" : {
@@ -2626,7 +2555,7 @@ Grailbird.data.tweets_2012_10 =
     "id_str" : "259890425823899648",
     "text" : "Avery Durable View Binder, 1 Inch Rings, White, 1 Binder (17012) by Avery \n http://t.co/oT1A6WR3",
     "id" : 259890425823899648,
-    "created_at" : "Sun Oct 21 05:34:40 +0000 2012",
+    "created_at" : "2012-10-21 05:34:40 +0000",
     "user" : {
       "name" : "Daniel Bachhuber",
       "screen_name" : "danielbachhuber",
@@ -2638,7 +2567,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 259894534807367680,
-  "created_at" : "Sun Oct 21 05:51:00 +0000 2012",
+  "created_at" : "2012-10-21 05:51:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2663,14 +2592,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "259871058952351744",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "259871599359049730",
   "in_reply_to_user_id" : 335110427,
   "text" : "@tollmanz I always forget. It\u2019s not so horrible though.",
   "id" : 259871599359049730,
   "in_reply_to_status_id" : 259871058952351744,
-  "created_at" : "Sun Oct 21 04:19:52 +0000 2012",
+  "created_at" : "2012-10-21 04:19:52 +0000",
   "in_reply_to_screen_name" : "tollmanz",
   "in_reply_to_user_id_str" : "335110427",
   "user" : {
@@ -2690,12 +2618,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "259871037485883392",
   "text" : "Every movie ever should have Bill Nighy in it.",
   "id" : 259871037485883392,
-  "created_at" : "Sun Oct 21 04:17:38 +0000 2012",
+  "created_at" : "2012-10-21 04:17:38 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2743,12 +2670,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "259852037196488706",
   "text" : "Ninjas I as the auto correct of Ninkasi. Nice. http://t.co/l2pq3wJr",
   "id" : 259852037196488706,
-  "created_at" : "Sun Oct 21 03:02:09 +0000 2012",
+  "created_at" : "2012-10-21 03:02:09 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2771,12 +2697,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "instagr.am/p/RBl0M7pHhG/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "259818962991316992",
   "text" : "Double rainbow action in PDX. http://t.co/N9zgw5Ko",
   "id" : 259818962991316992,
-  "created_at" : "Sun Oct 21 00:50:42 +0000 2012",
+  "created_at" : "2012-10-21 00:50:42 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2794,12 +2719,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "259778091356925952",
   "text" : "Re-explore the Twitter API day. Because why? Because why.",
   "id" : 259778091356925952,
-  "created_at" : "Sat Oct 20 22:08:18 +0000 2012",
+  "created_at" : "2012-10-20 22:08:18 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2835,8 +2759,7 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "259777435992719360",
   "text" : "RT @rupertmurdoch: .@RfRobby @robertfeder haven't you heard of the Internet?  No one controls the media or will ever again.",
   "retweeted_status" : {
@@ -2860,14 +2783,13 @@ Grailbird.data.tweets_2012_10 =
       "urls" : [ ]
     },
     "in_reply_to_status_id_str" : "259646675826638848",
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "259775587596517376",
     "in_reply_to_user_id" : 796002337,
     "text" : ".@RfRobby @robertfeder haven't you heard of the Internet?  No one controls the media or will ever again.",
     "id" : 259775587596517376,
     "in_reply_to_status_id" : 259646675826638848,
-    "created_at" : "Sat Oct 20 21:58:21 +0000 2012",
+    "created_at" : "2012-10-20 21:58:21 +0000",
     "in_reply_to_screen_name" : "RfRobby",
     "in_reply_to_user_id_str" : "796002337",
     "user" : {
@@ -2881,7 +2803,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 259777435992719360,
-  "created_at" : "Sat Oct 20 22:05:41 +0000 2012",
+  "created_at" : "2012-10-20 22:05:41 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2906,14 +2828,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "259535186981691392",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "259744807323312129",
   "in_reply_to_user_id" : 14871770,
   "text" : "@mattepp Awesome! Glad you found it.",
   "id" : 259744807323312129,
   "in_reply_to_status_id" : 259535186981691392,
-  "created_at" : "Sat Oct 20 19:56:02 +0000 2012",
+  "created_at" : "2012-10-20 19:56:02 +0000",
   "in_reply_to_screen_name" : "mattepp",
   "in_reply_to_user_id_str" : "14871770",
   "user" : {
@@ -2963,12 +2884,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "259494381650866176",
   "text" : "Love! How easy it is to vote in Oregon. Vote the crap out of this election! http://t.co/U8mOm8e6",
   "id" : 259494381650866176,
-  "created_at" : "Sat Oct 20 03:20:57 +0000 2012",
+  "created_at" : "2012-10-20 03:20:57 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3025,8 +2945,7 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "259493356541997056",
   "text" : "RT @geekcode: Oregon ballots are here! #vote http://t.co/0D3UOl48",
   "retweeted_status" : {
@@ -3070,12 +2989,11 @@ Grailbird.data.tweets_2012_10 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "259480927284121600",
     "text" : "Oregon ballots are here! #vote http://t.co/0D3UOl48",
     "id" : 259480927284121600,
-    "created_at" : "Sat Oct 20 02:27:30 +0000 2012",
+    "created_at" : "2012-10-20 02:27:30 +0000",
     "user" : {
       "name" : "Mike Bijon",
       "screen_name" : "geekcode",
@@ -3087,7 +3005,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 259493356541997056,
-  "created_at" : "Sat Oct 20 03:16:52 +0000 2012",
+  "created_at" : "2012-10-20 03:16:52 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3116,12 +3034,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "youtube.com/watch?feature=\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "259462839331323906",
   "text" : "Bullying is Bullshit. Well said, @harto! https://t.co/t36Gkz2H",
   "id" : 259462839331323906,
-  "created_at" : "Sat Oct 20 01:15:36 +0000 2012",
+  "created_at" : "2012-10-20 01:15:36 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3180,8 +3097,7 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "10up.com/blog/2012/10/n\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "259426061534785537",
   "text" : "RT @10up: 10up gets a new logo! http://t.co/0LEzTv1Z http://t.co/bOzxA5pX",
   "retweeted_status" : {
@@ -3227,12 +3143,11 @@ Grailbird.data.tweets_2012_10 =
         "display_url" : "10up.com/blog/2012/10/n\u2026"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "259422365417607168",
     "text" : "10up gets a new logo! http://t.co/0LEzTv1Z http://t.co/bOzxA5pX",
     "id" : 259422365417607168,
-    "created_at" : "Fri Oct 19 22:34:46 +0000 2012",
+    "created_at" : "2012-10-19 22:34:46 +0000",
     "user" : {
       "name" : "10up",
       "screen_name" : "10up",
@@ -3244,7 +3159,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 259426061534785537,
-  "created_at" : "Fri Oct 19 22:49:27 +0000 2012",
+  "created_at" : "2012-10-19 22:49:27 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3286,14 +3201,13 @@ Grailbird.data.tweets_2012_10 =
     } ]
   },
   "in_reply_to_status_id_str" : "259342883449094146",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "259343509226651648",
   "in_reply_to_user_id" : 61380376,
   "text" : "YES! RT @10up Our own @carldanley goes to #jqdevsummit - comes back a core #jQuery contributor! http://t.co/QrGLMMCM",
   "id" : 259343509226651648,
   "in_reply_to_status_id" : 259342883449094146,
-  "created_at" : "Fri Oct 19 17:21:25 +0000 2012",
+  "created_at" : "2012-10-19 17:21:25 +0000",
   "in_reply_to_screen_name" : "10up",
   "in_reply_to_user_id_str" : "61380376",
   "user" : {
@@ -3318,12 +3232,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "wordpress.org/extend/plugins\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "259192934736490496",
   "text" : "Plugin update day! Custom Posts Per Page 1.6, now accounting for total page counts that don't suck! http://t.co/5csU75Ki",
   "id" : 259192934736490496,
-  "created_at" : "Fri Oct 19 07:23:05 +0000 2012",
+  "created_at" : "2012-10-19 07:23:05 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3346,12 +3259,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "bjerkas.info/orienteering1.\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "259154918047350784",
   "text" : "Current Status: http://t.co/KY6NmQF9",
   "id" : 259154918047350784,
-  "created_at" : "Fri Oct 19 04:52:01 +0000 2012",
+  "created_at" : "2012-10-19 04:52:01 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3374,12 +3286,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "rd.io/x/QU-g8SJe3RY"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "259083457249030144",
   "text" : "There aren't many better albums than Rum Sodomy &amp; The Lash http://t.co/BjQxIGxL",
   "id" : 259083457249030144,
-  "created_at" : "Fri Oct 19 00:08:04 +0000 2012",
+  "created_at" : "2012-10-19 00:08:04 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3412,14 +3323,13 @@ Grailbird.data.tweets_2012_10 =
     } ]
   },
   "in_reply_to_status_id_str" : "258992123225985027",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258993135764520961",
   "in_reply_to_user_id" : 34347535,
   "text" : "Mind blown. RT @StanCarey Have you seen Scott Kim's symmetrical alphabet? It's amazing: http://t.co/cJ7oKGFe #ambigram",
   "id" : 258993135764520961,
   "in_reply_to_status_id" : 258992123225985027,
-  "created_at" : "Thu Oct 18 18:09:10 +0000 2012",
+  "created_at" : "2012-10-18 18:09:10 +0000",
   "in_reply_to_screen_name" : "StanCarey",
   "in_reply_to_user_id_str" : "34347535",
   "user" : {
@@ -3439,12 +3349,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258803421166051329",
   "text" : "That damn rabbit hole again.",
   "id" : 258803421166051329,
-  "created_at" : "Thu Oct 18 05:35:18 +0000 2012",
+  "created_at" : "2012-10-18 05:35:18 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3469,14 +3378,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "258794685630394369",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258799588914368513",
   "in_reply_to_user_id" : 11146602,
   "text" : "@tddewey All joking aside, I do love reading when the text is formatted well.",
   "id" : 258799588914368513,
   "in_reply_to_status_id" : 258794685630394369,
-  "created_at" : "Thu Oct 18 05:20:04 +0000 2012",
+  "created_at" : "2012-10-18 05:20:04 +0000",
   "in_reply_to_screen_name" : "tddewey",
   "in_reply_to_user_id_str" : "11146602",
   "user" : {
@@ -3508,14 +3416,13 @@ Grailbird.data.tweets_2012_10 =
     } ]
   },
   "in_reply_to_status_id_str" : "258794685630394369",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258797420736040960",
   "in_reply_to_user_id" : 11146602,
   "text" : "@tddewey Am I doing it right? http://t.co/nBliq8Kz",
   "id" : 258797420736040960,
   "in_reply_to_status_id" : 258794685630394369,
-  "created_at" : "Thu Oct 18 05:11:27 +0000 2012",
+  "created_at" : "2012-10-18 05:11:27 +0000",
   "in_reply_to_screen_name" : "tddewey",
   "in_reply_to_user_id_str" : "11146602",
   "user" : {
@@ -3546,8 +3453,7 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "is.gd/YfTTeW"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258752126598144001",
   "text" : "RT @nickbilton: Having a rough day? Watch this and you'll feel much better. I promise: http://t.co/E0Rv9zKU",
   "retweeted_status" : {
@@ -3563,12 +3469,11 @@ Grailbird.data.tweets_2012_10 =
         "display_url" : "is.gd/YfTTeW"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "258681439816671233",
     "text" : "Having a rough day? Watch this and you'll feel much better. I promise: http://t.co/E0Rv9zKU",
     "id" : 258681439816671233,
-    "created_at" : "Wed Oct 17 21:30:35 +0000 2012",
+    "created_at" : "2012-10-17 21:30:35 +0000",
     "user" : {
       "name" : "Nick Bilton",
       "screen_name" : "nickbilton",
@@ -3580,7 +3485,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 258752126598144001,
-  "created_at" : "Thu Oct 18 02:11:29 +0000 2012",
+  "created_at" : "2012-10-18 02:11:29 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3611,14 +3516,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "258721922924306432",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258722098590121984",
   "in_reply_to_user_id" : 21545434,
   "text" : "@k_payne @helenhousandi true until false",
   "id" : 258722098590121984,
   "in_reply_to_status_id" : 258721922924306432,
-  "created_at" : "Thu Oct 18 00:12:09 +0000 2012",
+  "created_at" : "2012-10-18 00:12:09 +0000",
   "in_reply_to_screen_name" : "k_payne",
   "in_reply_to_user_id_str" : "21545434",
   "user" : {
@@ -3651,14 +3555,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "258720027816099840",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258720337070542848",
   "in_reply_to_user_id" : 157135704,
   "text" : "@benlobaugh @tollmanz Actually might be worth reporting that to plugins@wordpress.org - altering the posts table feels ugly inside.",
   "id" : 258720337070542848,
   "in_reply_to_status_id" : 258720027816099840,
-  "created_at" : "Thu Oct 18 00:05:09 +0000 2012",
+  "created_at" : "2012-10-18 00:05:09 +0000",
   "in_reply_to_screen_name" : "benlobaugh",
   "in_reply_to_user_id_str" : "157135704",
   "user" : {
@@ -3691,14 +3594,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "258719496427155457",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258719661959553026",
   "in_reply_to_user_id" : 157135704,
   "text" : "@benlobaugh @tollmanz Write an excellent commit message explaining the errors of his ways.",
   "id" : 258719661959553026,
   "in_reply_to_status_id" : 258719496427155457,
-  "created_at" : "Thu Oct 18 00:02:28 +0000 2012",
+  "created_at" : "2012-10-18 00:02:28 +0000",
   "in_reply_to_screen_name" : "benlobaugh",
   "in_reply_to_user_id_str" : "157135704",
   "user" : {
@@ -3737,14 +3639,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "258718058808504320",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258718391047688192",
   "in_reply_to_user_id" : 21545434,
   "text" : "@tddewey and I will be locked in eternal battle. /cc @k_payne @helenhousandi",
   "id" : 258718391047688192,
   "in_reply_to_status_id" : 258718058808504320,
-  "created_at" : "Wed Oct 17 23:57:25 +0000 2012",
+  "created_at" : "2012-10-17 23:57:25 +0000",
   "in_reply_to_screen_name" : "k_payne",
   "in_reply_to_user_id_str" : "21545434",
   "user" : {
@@ -3772,12 +3673,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "cl.ly/image/1n1q2z39\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258682500480647168",
   "text" : "The #team10up IRC channel should be a live blog. http://t.co/CxUP1vcH",
   "id" : 258682500480647168,
-  "created_at" : "Wed Oct 17 21:34:48 +0000 2012",
+  "created_at" : "2012-10-17 21:34:48 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3807,14 +3707,13 @@ Grailbird.data.tweets_2012_10 =
     } ]
   },
   "in_reply_to_status_id_str" : "258669232391344128",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258677546311376896",
   "in_reply_to_user_id" : 90022172,
   "text" : "@robertdall We use Beanstalk for all our SVN stuff - http://t.co/jf06rhDv",
   "id" : 258677546311376896,
   "in_reply_to_status_id" : 258669232391344128,
-  "created_at" : "Wed Oct 17 21:15:07 +0000 2012",
+  "created_at" : "2012-10-17 21:15:07 +0000",
   "in_reply_to_screen_name" : "robertdall",
   "in_reply_to_user_id_str" : "90022172",
   "user" : {
@@ -3834,12 +3733,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258666773279297536",
   "text" : "The benefit of SVN is that when your repo host goes down, you can eat lunch!",
   "id" : 258666773279297536,
-  "created_at" : "Wed Oct 17 20:32:19 +0000 2012",
+  "created_at" : "2012-10-17 20:32:19 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3868,8 +3766,7 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "i.imgur.com/E00nl.gif"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258607108356980736",
   "text" : "RT @andymboyle: This is the only cat gif you need to see today, people: http://t.co/6N5aCnpf",
   "retweeted_status" : {
@@ -3885,12 +3782,11 @@ Grailbird.data.tweets_2012_10 =
         "display_url" : "i.imgur.com/E00nl.gif"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "258605467004174336",
     "text" : "This is the only cat gif you need to see today, people: http://t.co/6N5aCnpf",
     "id" : 258605467004174336,
-    "created_at" : "Wed Oct 17 16:28:42 +0000 2012",
+    "created_at" : "2012-10-17 16:28:42 +0000",
     "user" : {
       "name" : "Andy Boyle",
       "screen_name" : "andymboyle",
@@ -3902,7 +3798,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 258607108356980736,
-  "created_at" : "Wed Oct 17 16:35:13 +0000 2012",
+  "created_at" : "2012-10-17 16:35:13 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3941,8 +3837,7 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258425681594179584",
   "text" : "RT @tollmanz: @todo This is ghetto ghetto because so so brittle. Base64 the description instead? @danielbachhuber #editflow",
   "retweeted_status" : {
@@ -3968,13 +3863,12 @@ Grailbird.data.tweets_2012_10 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "258411414786547712",
     "in_reply_to_user_id" : 53863,
     "text" : "@todo This is ghetto ghetto because so so brittle. Base64 the description instead? @danielbachhuber #editflow",
     "id" : 258411414786547712,
-    "created_at" : "Wed Oct 17 03:37:36 +0000 2012",
+    "created_at" : "2012-10-17 03:37:36 +0000",
     "in_reply_to_screen_name" : "todo",
     "in_reply_to_user_id_str" : "53863",
     "user" : {
@@ -3988,7 +3882,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 258425681594179584,
-  "created_at" : "Wed Oct 17 04:34:18 +0000 2012",
+  "created_at" : "2012-10-17 04:34:18 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4020,12 +3914,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "gist.github.com/2023628"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258390594492198915",
   "text" : "WP: Query $args https://t.co/AZYjh9Km #pdxwpdev /cc @pdxwp",
   "id" : 258390594492198915,
-  "created_at" : "Wed Oct 17 02:14:53 +0000 2012",
+  "created_at" : "2012-10-17 02:14:53 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4058,7 +3951,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "258386504416641024",
   "text" : "Pizza. Beer. Code. #pdxwpdev (@ US Bancorp Tower) [pic]: http://t.co/qLM3vw3y",
   "id" : 258386504416641024,
-  "created_at" : "Wed Oct 17 01:58:37 +0000 2012",
+  "created_at" : "2012-10-17 01:58:37 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4088,14 +3981,13 @@ Grailbird.data.tweets_2012_10 =
     } ]
   },
   "in_reply_to_status_id_str" : "258364418373595136",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258366601454309376",
   "in_reply_to_user_id" : 15436236,
   "text" : "@TheLastCicada Just for you - http://t.co/o3DXmUd7",
   "id" : 258366601454309376,
   "in_reply_to_status_id" : 258364418373595136,
-  "created_at" : "Wed Oct 17 00:39:32 +0000 2012",
+  "created_at" : "2012-10-17 00:39:32 +0000",
   "in_reply_to_screen_name" : "TheLastCicada",
   "in_reply_to_user_id_str" : "15436236",
   "user" : {
@@ -4122,14 +4014,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "258363073545527296",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258364242363822080",
   "in_reply_to_user_id" : 14871770,
   "text" : "@mattepp PhpStorm for almost all code. Sublime for some quicker things. Randomly vim.",
   "id" : 258364242363822080,
   "in_reply_to_status_id" : 258363073545527296,
-  "created_at" : "Wed Oct 17 00:30:10 +0000 2012",
+  "created_at" : "2012-10-17 00:30:10 +0000",
   "in_reply_to_screen_name" : "mattepp",
   "in_reply_to_user_id_str" : "14871770",
   "user" : {
@@ -4151,11 +4042,11 @@ Grailbird.data.tweets_2012_10 =
       "id_str" : "61380376",
       "id" : 61380376
     }, {
-      "name" : "Car",
-      "screen_name" : "Car",
+      "name" : "car",
+      "screen_name" : "car",
       "indices" : [ 132, 136 ],
-      "id_str" : "428533112",
-      "id" : 428533112
+      "id_str" : "1676357544",
+      "id" : 1676357544
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -4172,8 +4063,7 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "bugs.jquery.com/ticket/12519"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258363830793564160",
   "text" : "RT @10up: Team 10up has 8 #WordPress core contribs on full time staff... and now 1 #jQuery core contrib! http://t.co/4cQRrJWx kudos @car ...",
   "retweeted_status" : {
@@ -4201,12 +4091,11 @@ Grailbird.data.tweets_2012_10 =
         "display_url" : "bugs.jquery.com/ticket/12519"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "258361690402463744",
     "text" : "Team 10up has 8 #WordPress core contribs on full time staff... and now 1 #jQuery core contrib! http://t.co/4cQRrJWx kudos @carldanley",
     "id" : 258361690402463744,
-    "created_at" : "Wed Oct 17 00:20:01 +0000 2012",
+    "created_at" : "2012-10-17 00:20:01 +0000",
     "user" : {
       "name" : "10up",
       "screen_name" : "10up",
@@ -4218,7 +4107,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 258363830793564160,
-  "created_at" : "Wed Oct 17 00:28:32 +0000 2012",
+  "created_at" : "2012-10-17 00:28:32 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4243,14 +4132,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "258357671000936448",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258357963595587584",
   "in_reply_to_user_id" : 21204689,
   "text" : "@helenhousandi I still can't tell if it's real, let alone it's purpose.",
   "id" : 258357963595587584,
   "in_reply_to_status_id" : 258357671000936448,
-  "created_at" : "Wed Oct 17 00:05:13 +0000 2012",
+  "created_at" : "2012-10-17 00:05:13 +0000",
   "in_reply_to_screen_name" : "helenhousandi",
   "in_reply_to_user_id_str" : "21204689",
   "user" : {
@@ -4277,14 +4165,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "258356615554674688",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258357471356276737",
   "in_reply_to_user_id" : 21204689,
   "text" : "@helenhousandi I am so confused. Make it stop!",
   "id" : 258357471356276737,
   "in_reply_to_status_id" : 258356615554674688,
-  "created_at" : "Wed Oct 17 00:03:15 +0000 2012",
+  "created_at" : "2012-10-17 00:03:15 +0000",
   "in_reply_to_screen_name" : "helenhousandi",
   "in_reply_to_user_id_str" : "21204689",
   "user" : {
@@ -4304,12 +4191,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258330905783980032",
   "text" : "A wp_handle_sideload_without_moving_original() would be nice right now.",
   "id" : 258330905783980032,
-  "created_at" : "Tue Oct 16 22:17:42 +0000 2012",
+  "created_at" : "2012-10-16 22:17:42 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4332,12 +4218,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "meetup.com/pdx-wp/events/\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258314595394019328",
   "text" : "Peer Code Review is the best code review. Come and get it tonight in PDX! http://t.co/OLVMlvJF",
   "id" : 258314595394019328,
-  "created_at" : "Tue Oct 16 21:12:53 +0000 2012",
+  "created_at" : "2012-10-16 21:12:53 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4370,8 +4255,7 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258311313741201408",
   "text" : "RT @meeshfelt: Making homemade sauerkraut, listening to @amandapalmer, and it's sunny in #pdx. Kind of a perfect day.",
   "retweeted_status" : {
@@ -4391,12 +4275,11 @@ Grailbird.data.tweets_2012_10 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "258311151815892993",
     "text" : "Making homemade sauerkraut, listening to @amandapalmer, and it's sunny in #pdx. Kind of a perfect day.",
     "id" : 258311151815892993,
-    "created_at" : "Tue Oct 16 20:59:12 +0000 2012",
+    "created_at" : "2012-10-16 20:59:12 +0000",
     "user" : {
       "name" : "Michelle Felt",
       "screen_name" : "meeshfelt",
@@ -4408,7 +4291,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 258311313741201408,
-  "created_at" : "Tue Oct 16 20:59:51 +0000 2012",
+  "created_at" : "2012-10-16 20:59:51 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4440,12 +4323,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "github.com/jquery/jquery/\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258272589150031872",
   "text" : "So stoked that @carldanley is a jQuery contributor now. Freaking awesome. https://t.co/vLTWjXEZ #team10up",
   "id" : 258272589150031872,
-  "created_at" : "Tue Oct 16 18:25:58 +0000 2012",
+  "created_at" : "2012-10-16 18:25:58 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4470,14 +4352,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "258236980058546176",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258249857788149762",
   "in_reply_to_user_id" : 27740025,
   "text" : "@JS_Zao Ha, ditto, thanks. I'll pass that on. I used to program the crap out of that Apple IIe.",
   "id" : 258249857788149762,
   "in_reply_to_status_id" : 258236980058546176,
-  "created_at" : "Tue Oct 16 16:55:38 +0000 2012",
+  "created_at" : "2012-10-16 16:55:38 +0000",
   "in_reply_to_screen_name" : "JS_Zao",
   "in_reply_to_user_id_str" : "27740025",
   "user" : {
@@ -4502,12 +4383,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "jeremyfelt.com/wordpress/2012\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258088226118582272",
   "text" : "My First WordCamp Talk http://t.co/ukzSDClc",
   "id" : 258088226118582272,
-  "created_at" : "Tue Oct 16 06:13:22 +0000 2012",
+  "created_at" : "2012-10-16 06:13:22 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4546,8 +4426,7 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258073156969984001",
   "text" : "RT @carldanley: awesome first day at #jqdevsummit ! Can't wait for tomorrow! @10up #jquery #rocks",
   "retweeted_status" : {
@@ -4573,24 +4452,23 @@ Grailbird.data.tweets_2012_10 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "258072797522296832",
     "text" : "awesome first day at #jqdevsummit ! Can't wait for tomorrow! @10up #jquery #rocks",
     "id" : 258072797522296832,
-    "created_at" : "Tue Oct 16 05:12:04 +0000 2012",
+    "created_at" : "2012-10-16 05:12:04 +0000",
     "user" : {
       "name" : "Carl Danley",
       "screen_name" : "carldanley",
       "protected" : false,
       "id_str" : "37747812",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2599697257/o9wzxd32qzv2n88r8ddz_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000251492352/bbcb7564b209711953cebbfbeb3a641a_normal.jpeg",
       "id" : 37747812,
       "verified" : false
     }
   },
   "id" : 258073156969984001,
-  "created_at" : "Tue Oct 16 05:13:30 +0000 2012",
+  "created_at" : "2012-10-16 05:13:30 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4620,14 +4498,13 @@ Grailbird.data.tweets_2012_10 =
     } ]
   },
   "in_reply_to_status_id_str" : "258057637160181760",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258058639586238465",
   "in_reply_to_user_id" : 335110427,
   "text" : "@tollmanz WIN! Well, to be fair, your blog post is a similarly awesome model. http://t.co/9W9B27VI",
   "id" : 258058639586238465,
   "in_reply_to_status_id" : 258057637160181760,
-  "created_at" : "Tue Oct 16 04:15:48 +0000 2012",
+  "created_at" : "2012-10-16 04:15:48 +0000",
   "in_reply_to_screen_name" : "tollmanz",
   "in_reply_to_user_id_str" : "335110427",
   "user" : {
@@ -4654,14 +4531,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "258056377023483905",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258057397707354112",
   "in_reply_to_user_id" : 335110427,
   "text" : "@tollmanz Thanks! I think it will also help when I need to go back and disagree with myself one day. Narrate your work. :)",
   "id" : 258057397707354112,
   "in_reply_to_status_id" : 258056377023483905,
-  "created_at" : "Tue Oct 16 04:10:52 +0000 2012",
+  "created_at" : "2012-10-16 04:10:52 +0000",
   "in_reply_to_screen_name" : "tollmanz",
   "in_reply_to_user_id_str" : "335110427",
   "user" : {
@@ -4688,14 +4564,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "258046865667395585",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258051570657267713",
   "in_reply_to_user_id" : 203250119,
   "text" : "@MrDWright Absolutely! Thanks so much.",
   "id" : 258051570657267713,
   "in_reply_to_status_id" : 258046865667395585,
-  "created_at" : "Tue Oct 16 03:47:43 +0000 2012",
+  "created_at" : "2012-10-16 03:47:43 +0000",
   "in_reply_to_screen_name" : "MrDWright",
   "in_reply_to_user_id_str" : "203250119",
   "user" : {
@@ -4728,14 +4603,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "257160107299844100",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258047355960561665",
   "in_reply_to_user_id" : 335110427,
   "text" : "@tollmanz @JS_Zao I'm late to the party. But if extract() should be barf(), then I'm not sure I want to know what compact() should be... :)",
   "id" : 258047355960561665,
   "in_reply_to_status_id" : 257160107299844100,
-  "created_at" : "Tue Oct 16 03:30:58 +0000 2012",
+  "created_at" : "2012-10-16 03:30:58 +0000",
   "in_reply_to_screen_name" : "tollmanz",
   "in_reply_to_user_id_str" : "335110427",
   "user" : {
@@ -4762,14 +4636,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "257203793899433986",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258046880540409856",
   "in_reply_to_user_id" : 2065601,
   "text" : "@jeffrose Most definitely. I just posted my notes as well, so that should help with context if you're looking for it.",
   "id" : 258046880540409856,
   "in_reply_to_status_id" : 257203793899433986,
-  "created_at" : "Tue Oct 16 03:29:05 +0000 2012",
+  "created_at" : "2012-10-16 03:29:05 +0000",
   "in_reply_to_screen_name" : "jeffrose",
   "in_reply_to_user_id_str" : "2065601",
   "user" : {
@@ -4797,12 +4670,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "jeremyfelt.com/wordpress/2012\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258045398525042688",
   "text" : "My 'Calm and Simple Code With Purpose' slides from WordCamp Vancouver now updated with 3100 words of context. http://t.co/3saVs2qb #wcyvr",
   "id" : 258045398525042688,
-  "created_at" : "Tue Oct 16 03:23:11 +0000 2012",
+  "created_at" : "2012-10-16 03:23:11 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4825,12 +4697,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "blogs.ajc.com/jeff-schultz-b\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "258034325503737857",
   "text" : "Singletary Design Pattern http://t.co/0LEsyHWV",
   "id" : 258034325503737857,
-  "created_at" : "Tue Oct 16 02:39:11 +0000 2012",
+  "created_at" : "2012-10-16 02:39:11 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4851,12 +4722,11 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "257909574206623745",
   "text" : "#traincommits",
   "id" : 257909574206623745,
-  "created_at" : "Mon Oct 15 18:23:28 +0000 2012",
+  "created_at" : "2012-10-15 18:23:28 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4889,8 +4759,7 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "257909172350353409",
   "text" : "RT @carldanley: learning how kickbutt grunt.js with @cowboy at #jqdevsummit",
   "retweeted_status" : {
@@ -4910,24 +4779,23 @@ Grailbird.data.tweets_2012_10 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "257852105442865152",
     "text" : "learning how kickbutt grunt.js with @cowboy at #jqdevsummit",
     "id" : 257852105442865152,
-    "created_at" : "Mon Oct 15 14:35:07 +0000 2012",
+    "created_at" : "2012-10-15 14:35:07 +0000",
     "user" : {
       "name" : "Carl Danley",
       "screen_name" : "carldanley",
       "protected" : false,
       "id_str" : "37747812",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2599697257/o9wzxd32qzv2n88r8ddz_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000251492352/bbcb7564b209711953cebbfbeb3a641a_normal.jpeg",
       "id" : 37747812,
       "verified" : false
     }
   },
   "id" : 257909172350353409,
-  "created_at" : "Mon Oct 15 18:21:53 +0000 2012",
+  "created_at" : "2012-10-15 18:21:53 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4956,8 +4824,7 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "github.com/stevenklise/i-\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "257892627280715776",
   "text" : "RT @waxpancake: I Like What I See, a Chrome add-on that automatically clicks every \"Like\" button on Facebook. https://t.co/UtCrSuVP",
   "retweeted_status" : {
@@ -4973,12 +4840,11 @@ Grailbird.data.tweets_2012_10 =
         "display_url" : "github.com/stevenklise/i-\u2026"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "257891081725820929",
     "text" : "I Like What I See, a Chrome add-on that automatically clicks every \"Like\" button on Facebook. https://t.co/UtCrSuVP",
     "id" : 257891081725820929,
-    "created_at" : "Mon Oct 15 17:09:59 +0000 2012",
+    "created_at" : "2012-10-15 17:09:59 +0000",
     "user" : {
       "name" : "Andy Baio",
       "screen_name" : "waxpancake",
@@ -4990,7 +4856,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 257892627280715776,
-  "created_at" : "Mon Oct 15 17:16:08 +0000 2012",
+  "created_at" : "2012-10-15 17:16:08 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5033,14 +4899,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "257692445633024000",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "257696908498309120",
   "in_reply_to_user_id" : 22232652,
   "text" : "@thoronas Same! I can't wait for round next. @tddewey @TheLastCicada @tollmanz",
   "id" : 257696908498309120,
   "in_reply_to_status_id" : 257692445633024000,
-  "created_at" : "Mon Oct 15 04:18:25 +0000 2012",
+  "created_at" : "2012-10-15 04:18:25 +0000",
   "in_reply_to_screen_name" : "thoronas",
   "in_reply_to_user_id_str" : "22232652",
   "user" : {
@@ -5066,12 +4931,11 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "257689523234951168",
   "text" : "Vancouver, you were wonderful. Thanks for a fantastic #wcyvr and #buddycamp. Such a great community!",
   "id" : 257689523234951168,
-  "created_at" : "Mon Oct 15 03:49:04 +0000 2012",
+  "created_at" : "2012-10-15 03:49:04 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5109,12 +4973,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "liberal.ca"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "257540911507058689",
   "text" : "Great look at what @liberal_party is doing with WordPress and BuddyPress by @stephBoisvert at #buddycamp. Slick! http://t.co/afiZp2z5",
   "id" : 257540911507058689,
-  "created_at" : "Sun Oct 14 17:58:32 +0000 2012",
+  "created_at" : "2012-10-14 17:58:32 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5157,14 +5020,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "257392808627953666",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "257393171976294401",
   "in_reply_to_user_id" : 11146602,
   "text" : "@tddewey, sorry but your opinion is invalid on this matter. Poutine wins. @TheLastCicada @bluelimemedia @thoronas",
   "id" : 257393171976294401,
   "in_reply_to_status_id" : 257392808627953666,
-  "created_at" : "Sun Oct 14 08:11:28 +0000 2012",
+  "created_at" : "2012-10-14 08:11:28 +0000",
   "in_reply_to_screen_name" : "tddewey",
   "in_reply_to_user_id_str" : "11146602",
   "user" : {
@@ -5191,14 +5053,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "257391335106035713",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "257392734149693441",
   "in_reply_to_user_id" : 335110427,
   "text" : "@tollmanz obviously Poutine. Aero is a product of the UK.",
   "id" : 257392734149693441,
   "in_reply_to_status_id" : 257391335106035713,
-  "created_at" : "Sun Oct 14 08:09:44 +0000 2012",
+  "created_at" : "2012-10-14 08:09:44 +0000",
   "in_reply_to_screen_name" : "tollmanz",
   "in_reply_to_user_id_str" : "335110427",
   "user" : {
@@ -5260,12 +5121,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "257387258167033856",
   "text" : "Fantastic recommendation, @bluelimemedia with confirmation by @thoronas Poutine! http://t.co/mS3yZ6mN",
   "id" : 257387258167033856,
-  "created_at" : "Sun Oct 14 07:48:00 +0000 2012",
+  "created_at" : "2012-10-14 07:48:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5295,7 +5155,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "257386460901154816",
   "text" : "Yes! (@ Fritz European Fry House) [pic]: http://t.co/Tx0q6SFW",
   "id" : 257386460901154816,
-  "created_at" : "Sun Oct 14 07:44:48 +0000 2012",
+  "created_at" : "2012-10-14 07:44:48 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5318,12 +5178,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "instagr.am/p/QvoT3nJHho/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "257291260455444480",
   "text" : "If I have a weakness, it's for Aero anything. Orange! http://t.co/4vdK4rfl",
   "id" : 257291260455444480,
-  "created_at" : "Sun Oct 14 01:26:31 +0000 2012",
+  "created_at" : "2012-10-14 01:26:31 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5353,12 +5212,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "257256626371850240",
   "text" : "Me three! RT Me too :-) RT @tollmanz: Thoroughly excited about BuddyPress now after seeing @boone\u2019s list of examples.",
   "id" : 257256626371850240,
-  "created_at" : "Sat Oct 13 23:08:53 +0000 2012",
+  "created_at" : "2012-10-13 23:08:53 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5388,8 +5246,7 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "257232845779660802",
   "text" : "RT @jb510: @Tollmanz talk on WordPress caching the best I've seen.  Blowing my mind with manual cache invalidation and cache grouping. # ...",
   "retweeted_status" : {
@@ -5409,13 +5266,12 @@ Grailbird.data.tweets_2012_10 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "257232652673896448",
     "in_reply_to_user_id" : 335110427,
     "text" : "@Tollmanz talk on WordPress caching the best I've seen.  Blowing my mind with manual cache invalidation and cache grouping. #wcyvr",
     "id" : 257232652673896448,
-    "created_at" : "Sat Oct 13 21:33:38 +0000 2012",
+    "created_at" : "2012-10-13 21:33:38 +0000",
     "in_reply_to_screen_name" : "tollmanz",
     "in_reply_to_user_id_str" : "335110427",
     "user" : {
@@ -5429,7 +5285,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 257232845779660802,
-  "created_at" : "Sat Oct 13 21:34:24 +0000 2012",
+  "created_at" : "2012-10-13 21:34:24 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5462,8 +5318,7 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "257231344332075008",
   "text" : "RT @brandonlabbe: Mo' money (cache), mo' problems... @tollmanz talk is awesome! #wcyvr Cashing in WordPress.",
   "retweeted_status" : {
@@ -5483,12 +5338,11 @@ Grailbird.data.tweets_2012_10 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "257230897496088577",
     "text" : "Mo' money (cache), mo' problems... @tollmanz talk is awesome! #wcyvr Cashing in WordPress.",
     "id" : 257230897496088577,
-    "created_at" : "Sat Oct 13 21:26:39 +0000 2012",
+    "created_at" : "2012-10-13 21:26:39 +0000",
     "user" : {
       "name" : "Brandon Labb\u00E9",
       "screen_name" : "brandonlabbe",
@@ -5500,7 +5354,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 257231344332075008,
-  "created_at" : "Sat Oct 13 21:28:26 +0000 2012",
+  "created_at" : "2012-10-13 21:28:26 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5533,8 +5387,7 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "257226173002682369",
   "text" : "RT @jkudish: @tollmanz is a great crowd energizer! way to make caching exciting #wcyvr",
   "retweeted_status" : {
@@ -5554,13 +5407,12 @@ Grailbird.data.tweets_2012_10 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "257224953538150400",
     "in_reply_to_user_id" : 335110427,
     "text" : "@tollmanz is a great crowd energizer! way to make caching exciting #wcyvr",
     "id" : 257224953538150400,
-    "created_at" : "Sat Oct 13 21:03:02 +0000 2012",
+    "created_at" : "2012-10-13 21:03:02 +0000",
     "in_reply_to_screen_name" : "tollmanz",
     "in_reply_to_user_id_str" : "335110427",
     "user" : {
@@ -5574,7 +5426,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 257226173002682369,
-  "created_at" : "Sat Oct 13 21:07:53 +0000 2012",
+  "created_at" : "2012-10-13 21:07:53 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5600,12 +5452,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "jeremyfelt.com/wordpress/2012\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "257201140427542528",
   "text" : "Slides for 'Calm and Simple Code With Purpose' at WordCamp Vancouver are up here: http://t.co/3saVs2qb More of a writeup to follow. #wcyvr",
   "id" : 257201140427542528,
-  "created_at" : "Sat Oct 13 19:28:25 +0000 2012",
+  "created_at" : "2012-10-13 19:28:25 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5632,8 +5483,7 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "257009170639888385",
   "text" : "RT @jkudish: WordCamp Vancouver in the morning, see you there! #wcyvr",
   "retweeted_status" : {
@@ -5647,12 +5497,11 @@ Grailbird.data.tweets_2012_10 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "256999451502202881",
     "text" : "WordCamp Vancouver in the morning, see you there! #wcyvr",
     "id" : 256999451502202881,
-    "created_at" : "Sat Oct 13 06:06:58 +0000 2012",
+    "created_at" : "2012-10-13 06:06:58 +0000",
     "user" : {
       "name" : "Joey Kudish",
       "screen_name" : "jkudish",
@@ -5664,7 +5513,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 257009170639888385,
-  "created_at" : "Sat Oct 13 06:45:35 +0000 2012",
+  "created_at" : "2012-10-13 06:45:35 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5682,12 +5531,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "256985558339973120",
   "text" : "This India Pale Ale is not an IPA. Disappoint.",
   "id" : 256985558339973120,
-  "created_at" : "Sat Oct 13 05:11:46 +0000 2012",
+  "created_at" : "2012-10-13 05:11:46 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5718,14 +5566,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "256930448712798208",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "256982737251082240",
   "in_reply_to_user_id" : 272166936,
   "text" : "@danielbachhuber @tollmanz no international data. :) we're near Burrard and Nelson if you want a beer.",
   "id" : 256982737251082240,
   "in_reply_to_status_id" : 256930448712798208,
-  "created_at" : "Sat Oct 13 05:00:33 +0000 2012",
+  "created_at" : "2012-10-13 05:00:33 +0000",
   "in_reply_to_screen_name" : "danielbachhuber",
   "in_reply_to_user_id_str" : "272166936",
   "user" : {
@@ -5745,12 +5592,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "256650899550785536",
   "text" : "The Vancouver SkyTrain is now a favorite.",
   "id" : 256650899550785536,
-  "created_at" : "Fri Oct 12 07:01:57 +0000 2012",
+  "created_at" : "2012-10-12 07:01:57 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5768,12 +5614,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "256638849046958080",
   "text" : "Customs has stolen one of us. And then there were 3.",
   "id" : 256638849046958080,
-  "created_at" : "Fri Oct 12 06:14:04 +0000 2012",
+  "created_at" : "2012-10-12 06:14:04 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5797,12 +5642,11 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "256625830850097152",
   "text" : "Vancouver, we are in you. #team10up #wcyvr",
   "id" : 256625830850097152,
-  "created_at" : "Fri Oct 12 05:22:20 +0000 2012",
+  "created_at" : "2012-10-12 05:22:20 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5831,8 +5675,7 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "25.media.tumblr.com/tumblr_m6rv5si\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "256524247260884992",
   "text" : "RT @andymboyle: I mean, like, whatever: http://t.co/Mfaxoegy",
   "retweeted_status" : {
@@ -5848,12 +5691,11 @@ Grailbird.data.tweets_2012_10 =
         "display_url" : "25.media.tumblr.com/tumblr_m6rv5si\u2026"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "256521906138783744",
     "text" : "I mean, like, whatever: http://t.co/Mfaxoegy",
     "id" : 256521906138783744,
-    "created_at" : "Thu Oct 11 22:29:23 +0000 2012",
+    "created_at" : "2012-10-11 22:29:23 +0000",
     "user" : {
       "name" : "Andy Boyle",
       "screen_name" : "andymboyle",
@@ -5865,7 +5707,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 256524247260884992,
-  "created_at" : "Thu Oct 11 22:38:41 +0000 2012",
+  "created_at" : "2012-10-11 22:38:41 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5895,7 +5737,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "256502179140075520",
   "text" : "Go By Train! (@ Union Station Amtrak (PDX)) http://t.co/pgqpWFFv",
   "id" : 256502179140075520,
-  "created_at" : "Thu Oct 11 21:10:59 +0000 2012",
+  "created_at" : "2012-10-11 21:10:59 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5919,12 +5761,11 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "256493089068302336",
   "text" : "Vancouver, we're coming for you. #team10up #wcyvr",
   "id" : 256493089068302336,
-  "created_at" : "Thu Oct 11 20:34:52 +0000 2012",
+  "created_at" : "2012-10-11 20:34:52 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5978,8 +5819,7 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "256438753986494464",
   "text" : "RT @FrankOnABike: In the land between the lakes, the stones don't move, but the sticks have eyes! http://t.co/265IScMV",
   "retweeted_status" : {
@@ -6020,12 +5860,11 @@ Grailbird.data.tweets_2012_10 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "256430739430707200",
     "text" : "In the land between the lakes, the stones don't move, but the sticks have eyes! http://t.co/265IScMV",
     "id" : 256430739430707200,
-    "created_at" : "Thu Oct 11 16:27:07 +0000 2012",
+    "created_at" : "2012-10-11 16:27:07 +0000",
     "user" : {
       "name" : "Frank Hassler",
       "screen_name" : "FrankOnABike",
@@ -6037,7 +5876,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 256438753986494464,
-  "created_at" : "Thu Oct 11 16:58:58 +0000 2012",
+  "created_at" : "2012-10-11 16:58:58 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -6067,13 +5906,12 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "256438689184485376",
   "in_reply_to_user_id" : 132978921,
   "text" : "@geekcode @EricMann I think I avoid exploring LinkedIn more for that reason. Maybe I should get over it and go view crazy. :)",
   "id" : 256438689184485376,
-  "created_at" : "Thu Oct 11 16:58:42 +0000 2012",
+  "created_at" : "2012-10-11 16:58:42 +0000",
   "in_reply_to_screen_name" : "geekcode",
   "in_reply_to_user_id_str" : "132978921",
   "user" : {
@@ -6106,14 +5944,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "256436937160802306",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "256438478248759296",
   "in_reply_to_user_id" : 132978921,
   "text" : "@geekcode @EricMann Actually, I think it's the inverse (?) that weirds me out. Not every profile view has the same intent.",
   "id" : 256438478248759296,
   "in_reply_to_status_id" : 256436937160802306,
-  "created_at" : "Thu Oct 11 16:57:52 +0000 2012",
+  "created_at" : "2012-10-11 16:57:52 +0000",
   "in_reply_to_screen_name" : "geekcode",
   "in_reply_to_user_id_str" : "132978921",
   "user" : {
@@ -6133,12 +5970,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "256424999693471746",
   "text" : "The 'viewed your profile' emails from LinkedIn creep me out.",
   "id" : 256424999693471746,
-  "created_at" : "Thu Oct 11 16:04:18 +0000 2012",
+  "created_at" : "2012-10-11 16:04:18 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -6156,12 +5992,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "256420058706882560",
   "text" : "Magic has been performed. Version control, level up.",
   "id" : 256420058706882560,
-  "created_at" : "Thu Oct 11 15:44:40 +0000 2012",
+  "created_at" : "2012-10-11 15:44:40 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -6190,8 +6025,7 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "meetup.com/pdx-wp/events/\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "256395870470303745",
   "text" : "RT @_mfields: Got some WordPress code that needs reviewing? Are you in Portland, Oregon? Send it in :) http://t.co/W9mCT9YJ",
   "retweeted_status" : {
@@ -6207,12 +6041,11 @@ Grailbird.data.tweets_2012_10 =
         "display_url" : "meetup.com/pdx-wp/events/\u2026"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "256187616905539584",
     "text" : "Got some WordPress code that needs reviewing? Are you in Portland, Oregon? Send it in :) http://t.co/W9mCT9YJ",
     "id" : 256187616905539584,
-    "created_at" : "Thu Oct 11 00:21:02 +0000 2012",
+    "created_at" : "2012-10-11 00:21:02 +0000",
     "user" : {
       "name" : "Michael Fields",
       "screen_name" : "_mfields",
@@ -6224,7 +6057,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 256395870470303745,
-  "created_at" : "Thu Oct 11 14:08:33 +0000 2012",
+  "created_at" : "2012-10-11 14:08:33 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -6250,12 +6083,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "channel9.msdn.com/achievements/v\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "256259491941715968",
   "text" : "Today I learned that Visual Studio has Achievements badges. #gamifyallthethings http://t.co/GN4BBpBN",
   "id" : 256259491941715968,
-  "created_at" : "Thu Oct 11 05:06:38 +0000 2012",
+  "created_at" : "2012-10-11 05:06:38 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -6280,14 +6112,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "256250919765831680",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "256252235741265920",
   "in_reply_to_user_id" : 15436236,
   "text" : "@TheLastCicada Ooph. I did not. Very well said.",
   "id" : 256252235741265920,
   "in_reply_to_status_id" : 256250919765831680,
-  "created_at" : "Thu Oct 11 04:37:48 +0000 2012",
+  "created_at" : "2012-10-11 04:37:48 +0000",
   "in_reply_to_screen_name" : "TheLastCicada",
   "in_reply_to_user_id_str" : "15436236",
   "user" : {
@@ -6314,14 +6145,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "256249050691670016",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "256249234947461120",
   "in_reply_to_user_id" : 15436236,
   "text" : "@TheLastCicada Yeah, it sucks reading through theirs and realizing the pressure that was on them from the beginning.",
   "id" : 256249234947461120,
   "in_reply_to_status_id" : 256249050691670016,
-  "created_at" : "Thu Oct 11 04:25:53 +0000 2012",
+  "created_at" : "2012-10-11 04:25:53 +0000",
   "in_reply_to_screen_name" : "TheLastCicada",
   "in_reply_to_user_id_str" : "15436236",
   "user" : {
@@ -6348,14 +6178,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "256239752028774400",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "256242518679777280",
   "in_reply_to_user_id" : 15436236,
   "text" : "@TheLastCicada Almost everyone. :) I do appreciate Hincapie's attitude about it.",
   "id" : 256242518679777280,
   "in_reply_to_status_id" : 256239752028774400,
-  "created_at" : "Thu Oct 11 03:59:11 +0000 2012",
+  "created_at" : "2012-10-11 03:59:11 +0000",
   "in_reply_to_screen_name" : "TheLastCicada",
   "in_reply_to_user_id_str" : "15436236",
   "user" : {
@@ -6380,12 +6209,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "cyclinginvestigation.usada.org"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "256226406734901248",
   "text" : "Ugh, Hincapie affidavit. http://t.co/xFgFFBcJ",
   "id" : 256226406734901248,
-  "created_at" : "Thu Oct 11 02:55:10 +0000 2012",
+  "created_at" : "2012-10-11 02:55:10 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -6403,12 +6231,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "256109308578775041",
   "text" : "HyperDB.",
   "id" : 256109308578775041,
-  "created_at" : "Wed Oct 10 19:09:52 +0000 2012",
+  "created_at" : "2012-10-10 19:09:52 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -6438,8 +6265,7 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "256108701419724800",
   "text" : "RT @danielbachhuber: I would love for @wordpressdotcom to have a public plugins repo, if only to show how much awesome community code we ...",
   "retweeted_status" : {
@@ -6456,12 +6282,11 @@ Grailbird.data.tweets_2012_10 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "256107279600979969",
     "text" : "I would love for @wordpressdotcom to have a public plugins repo, if only to show how much awesome community code we're running",
     "id" : 256107279600979969,
-    "created_at" : "Wed Oct 10 19:01:48 +0000 2012",
+    "created_at" : "2012-10-10 19:01:48 +0000",
     "user" : {
       "name" : "Daniel Bachhuber",
       "screen_name" : "danielbachhuber",
@@ -6473,7 +6298,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 256108701419724800,
-  "created_at" : "Wed Oct 10 19:07:27 +0000 2012",
+  "created_at" : "2012-10-10 19:07:27 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -6498,14 +6323,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "255858427434258432",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "255863028388618240",
   "in_reply_to_user_id" : 32633517,
   "text" : "@onyxfish Woot!",
   "id" : 255863028388618240,
   "in_reply_to_status_id" : 255858427434258432,
-  "created_at" : "Wed Oct 10 02:51:14 +0000 2012",
+  "created_at" : "2012-10-10 02:51:14 +0000",
   "in_reply_to_screen_name" : "onyxfish",
   "in_reply_to_user_id_str" : "32633517",
   "user" : {
@@ -6525,12 +6349,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "255850906745200640",
   "text" : "This new Beth Orton album is nice.",
   "id" : 255850906745200640,
-  "created_at" : "Wed Oct 10 02:03:04 +0000 2012",
+  "created_at" : "2012-10-10 02:03:04 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -6560,14 +6383,13 @@ Grailbird.data.tweets_2012_10 =
     } ]
   },
   "in_reply_to_status_id_str" : "255812401168015360",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "255813216108675074",
   "in_reply_to_user_id" : 3839,
   "text" : "This is really cool. RT @davewiner Outline: A transcript of our Microliner conversation. http://t.co/yQog0zAi",
   "id" : 255813216108675074,
   "in_reply_to_status_id" : 255812401168015360,
-  "created_at" : "Tue Oct 09 23:33:18 +0000 2012",
+  "created_at" : "2012-10-09 23:33:18 +0000",
   "in_reply_to_screen_name" : "davewiner",
   "in_reply_to_user_id_str" : "3839",
   "user" : {
@@ -6598,8 +6420,7 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "0ku.r2.ly"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "255809820094001152",
   "text" : "RT @davewiner: Here's a screen shot of what my conversation looks like in the outliner.  http://t.co/Dxkvrwaj",
   "retweeted_status" : {
@@ -6615,12 +6436,11 @@ Grailbird.data.tweets_2012_10 =
         "display_url" : "0ku.r2.ly"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "255808617654149120",
     "text" : "Here's a screen shot of what my conversation looks like in the outliner.  http://t.co/Dxkvrwaj",
     "id" : 255808617654149120,
-    "created_at" : "Tue Oct 09 23:15:01 +0000 2012",
+    "created_at" : "2012-10-09 23:15:01 +0000",
     "user" : {
       "name" : "Dave Winer \u262E",
       "screen_name" : "davewiner",
@@ -6632,7 +6452,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 255809820094001152,
-  "created_at" : "Tue Oct 09 23:19:48 +0000 2012",
+  "created_at" : "2012-10-09 23:19:48 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -6657,14 +6477,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "255806838350680066",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "255806944839884801",
   "in_reply_to_user_id" : 3839,
   "text" : "@davewiner Hi, Dave!",
   "id" : 255806944839884801,
   "in_reply_to_status_id" : 255806838350680066,
-  "created_at" : "Tue Oct 09 23:08:22 +0000 2012",
+  "created_at" : "2012-10-09 23:08:22 +0000",
   "in_reply_to_screen_name" : "davewiner",
   "in_reply_to_user_id_str" : "3839",
   "user" : {
@@ -6691,14 +6510,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "255546796116430850",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "255548444813438976",
   "in_reply_to_user_id" : 272166936,
   "text" : "@danielbachhuber Hmm. Now I am being tempted by the much lower annual cost of car2go. Hertz wins for the 2+ day trip anyway.",
   "id" : 255548444813438976,
   "in_reply_to_status_id" : 255546796116430850,
-  "created_at" : "Tue Oct 09 06:01:11 +0000 2012",
+  "created_at" : "2012-10-09 06:01:11 +0000",
   "in_reply_to_screen_name" : "danielbachhuber",
   "in_reply_to_user_id_str" : "272166936",
   "user" : {
@@ -6725,14 +6543,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "255544430650613761",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "255545204751343616",
   "in_reply_to_user_id" : 272166936,
   "text" : "@danielbachhuber That said, I get an A3 for $12.75/hr vs that blue/white thing. :)",
   "id" : 255545204751343616,
   "in_reply_to_status_id" : 255544430650613761,
-  "created_at" : "Tue Oct 09 05:48:19 +0000 2012",
+  "created_at" : "2012-10-09 05:48:19 +0000",
   "in_reply_to_screen_name" : "danielbachhuber",
   "in_reply_to_user_id_str" : "272166936",
   "user" : {
@@ -6759,14 +6576,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "255544430650613761",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "255545107464466432",
   "in_reply_to_user_id" : 272166936,
   "text" : "@danielbachhuber Good point. car2go wins for sure on the 1ish car household. Zipcar has a minimum of an hour.",
   "id" : 255545107464466432,
   "in_reply_to_status_id" : 255544430650613761,
-  "created_at" : "Tue Oct 09 05:47:56 +0000 2012",
+  "created_at" : "2012-10-09 05:47:56 +0000",
   "in_reply_to_screen_name" : "danielbachhuber",
   "in_reply_to_user_id_str" : "272166936",
   "user" : {
@@ -6793,14 +6609,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "255537871816114176",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "255539158217523201",
   "in_reply_to_user_id" : 272166936,
   "text" : "@danielbachhuber car2go looks perfect for in town trips. Zipcar wins for the day trip to the coast though.",
   "id" : 255539158217523201,
   "in_reply_to_status_id" : 255537871816114176,
-  "created_at" : "Tue Oct 09 05:24:17 +0000 2012",
+  "created_at" : "2012-10-09 05:24:17 +0000",
   "in_reply_to_screen_name" : "danielbachhuber",
   "in_reply_to_user_id_str" : "272166936",
   "user" : {
@@ -6827,14 +6642,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "255467785977737216",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "255467956132261889",
   "in_reply_to_user_id" : 335110427,
   "text" : "@tollmanz I believe they are much less likely to be contaminated. Unless, of course, you uhh, contaminate them.",
   "id" : 255467956132261889,
   "in_reply_to_status_id" : 255467785977737216,
-  "created_at" : "Tue Oct 09 00:41:21 +0000 2012",
+  "created_at" : "2012-10-09 00:41:21 +0000",
   "in_reply_to_screen_name" : "tollmanz",
   "in_reply_to_user_id_str" : "335110427",
   "user" : {
@@ -6861,14 +6675,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "255467427691909120",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "255467749403422721",
   "in_reply_to_user_id" : 17112549,
   "text" : "@_mfields It lost the dinner game. :)",
   "id" : 255467749403422721,
   "in_reply_to_status_id" : 255467427691909120,
-  "created_at" : "Tue Oct 09 00:40:32 +0000 2012",
+  "created_at" : "2012-10-09 00:40:32 +0000",
   "in_reply_to_screen_name" : "_mfields",
   "in_reply_to_user_id_str" : "17112549",
   "user" : {
@@ -6893,12 +6706,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "instagr.am/p/QiqrGfJHna/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "255467054306574337",
   "text" : "If you've ever paid for sprouts at a store, you should be aware of how cheap, easy, and tasty they are to gr http://t.co/l3SmvZMO",
   "id" : 255467054306574337,
-  "created_at" : "Tue Oct 09 00:37:46 +0000 2012",
+  "created_at" : "2012-10-09 00:37:46 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -6916,12 +6728,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "255186829102444544",
   "text" : "Hey, adding 199.59.148.12 for t.co to your hosts file makes the Internet work again.",
   "id" : 255186829102444544,
-  "created_at" : "Mon Oct 08 06:04:15 +0000 2012",
+  "created_at" : "2012-10-08 06:04:15 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -6939,12 +6750,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "255182266576289792",
   "text" : "Twitter should break t.co on a regular basis so that we all go do something else for a while.",
   "id" : 255182266576289792,
-  "created_at" : "Mon Oct 08 05:46:08 +0000 2012",
+  "created_at" : "2012-10-08 05:46:08 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -6998,8 +6808,7 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "255057719562752000",
   "text" : "RT @BarackObama: Photo of the day: http://t.co/Hm7yxbCK",
   "retweeted_status" : {
@@ -7040,12 +6849,11 @@ Grailbird.data.tweets_2012_10 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "255036161897144320",
     "text" : "Photo of the day: http://t.co/Hm7yxbCK",
     "id" : 255036161897144320,
-    "created_at" : "Sun Oct 07 20:05:34 +0000 2012",
+    "created_at" : "2012-10-07 20:05:34 +0000",
     "user" : {
       "name" : "Barack Obama",
       "screen_name" : "BarackObama",
@@ -7057,7 +6865,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 255057719562752000,
-  "created_at" : "Sun Oct 07 21:31:13 +0000 2012",
+  "created_at" : "2012-10-07 21:31:13 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -7081,12 +6889,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "255043782217703424",
   "text" : "Oh Green Bay! You let @jessjurick down!",
   "id" : 255043782217703424,
-  "created_at" : "Sun Oct 07 20:35:50 +0000 2012",
+  "created_at" : "2012-10-07 20:35:50 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -7109,12 +6916,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "instagr.am/p/QeDTf_pHhj/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "254817282138710016",
   "text" : "Baja tacos with presentation? http://t.co/tUAblRhv",
   "id" : 254817282138710016,
-  "created_at" : "Sun Oct 07 05:35:48 +0000 2012",
+  "created_at" : "2012-10-07 05:35:48 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -7132,12 +6938,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "254810356294246400",
   "text" : "Wailing away on the wall on the strand as you danced to the Turkish song of the damned.",
   "id" : 254810356294246400,
-  "created_at" : "Sun Oct 07 05:08:17 +0000 2012",
+  "created_at" : "2012-10-07 05:08:17 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -7161,8 +6966,7 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "254793246872580096",
   "text" : "RT @dreamysusan: Local H was amazing, you guys.",
   "retweeted_status" : {
@@ -7173,24 +6977,23 @@ Grailbird.data.tweets_2012_10 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "254791705134510080",
     "text" : "Local H was amazing, you guys.",
     "id" : 254791705134510080,
-    "created_at" : "Sun Oct 07 03:54:10 +0000 2012",
+    "created_at" : "2012-10-07 03:54:10 +0000",
     "user" : {
       "name" : "Carol Hassler",
       "screen_name" : "dreamysusan",
       "protected" : false,
       "id_str" : "94655792",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1014246723/other_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000335978378/05c42f60b919a1aea3f6ce892dd15b93_normal.jpeg",
       "id" : 94655792,
       "verified" : false
     }
   },
   "id" : 254793246872580096,
-  "created_at" : "Sun Oct 07 04:00:18 +0000 2012",
+  "created_at" : "2012-10-07 04:00:18 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -7213,12 +7016,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "mobile.nytimes.com/2012/10/07/bus\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "254783213510197248",
   "text" : "Measure Results, Not Hours, to Improve Work Efficiency http://t.co/eCnxJ4th",
   "id" : 254783213510197248,
-  "created_at" : "Sun Oct 07 03:20:26 +0000 2012",
+  "created_at" : "2012-10-07 03:20:26 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -7272,8 +7074,7 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "254782667617345536",
   "text" : "RT @TheRyanAdams: Abandoned Wig/ Sunset Blvd.... It's an LA thing http://t.co/3dX6MsVV",
   "retweeted_status" : {
@@ -7314,24 +7115,23 @@ Grailbird.data.tweets_2012_10 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "254782491418832896",
     "text" : "Abandoned Wig/ Sunset Blvd.... It's an LA thing http://t.co/3dX6MsVV",
     "id" : 254782491418832896,
-    "created_at" : "Sun Oct 07 03:17:34 +0000 2012",
+    "created_at" : "2012-10-07 03:17:34 +0000",
     "user" : {
       "name" : "Ryan Adams",
       "screen_name" : "TheRyanAdams",
       "protected" : false,
       "id_str" : "318531174",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000141411057/7e25f6e9afdf716c56e54b63a99115a8_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000421790350/028ca9318f120a63e4a971f2f7238c2a_normal.jpeg",
       "id" : 318531174,
       "verified" : true
     }
   },
   "id" : 254782667617345536,
-  "created_at" : "Sun Oct 07 03:18:16 +0000 2012",
+  "created_at" : "2012-10-07 03:18:16 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -7349,12 +7149,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "254759645984460800",
   "text" : "Wrong to stop someone in the street and ask to take a picture of them in their large print \u2018High As Fuck\u2019 shirt?",
   "id" : 254759645984460800,
-  "created_at" : "Sun Oct 07 01:46:47 +0000 2012",
+  "created_at" : "2012-10-07 01:46:47 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -7380,12 +7179,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "instagr.am/p/QdkVrXpHlw/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "254749095414091777",
   "text" : "The writing and the beer. #wcyvr is coming... http://t.co/zlJ5b1KK",
   "id" : 254749095414091777,
-  "created_at" : "Sun Oct 07 01:04:52 +0000 2012",
+  "created_at" : "2012-10-07 01:04:52 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -7408,12 +7206,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "instagr.am/p/QddlijpHug/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "254734303165038592",
   "text" : "Oh wow, this bread. http://t.co/Zxr9b6wn",
   "id" : 254734303165038592,
-  "created_at" : "Sun Oct 07 00:06:05 +0000 2012",
+  "created_at" : "2012-10-07 00:06:05 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -7442,8 +7239,7 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "0iz.r2.ly"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "254663076702453761",
   "text" : "RT @davewiner: Jack Baty is \"tinkering with distributed outlines in World Outline.\"  http://t.co/ElV1zWzu",
   "retweeted_status" : {
@@ -7459,12 +7255,11 @@ Grailbird.data.tweets_2012_10 =
         "display_url" : "0iz.r2.ly"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "254662602171482112",
     "text" : "Jack Baty is \"tinkering with distributed outlines in World Outline.\"  http://t.co/ElV1zWzu",
     "id" : 254662602171482112,
-    "created_at" : "Sat Oct 06 19:21:10 +0000 2012",
+    "created_at" : "2012-10-06 19:21:10 +0000",
     "user" : {
       "name" : "Dave Winer \u262E",
       "screen_name" : "davewiner",
@@ -7476,7 +7271,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 254663076702453761,
-  "created_at" : "Sat Oct 06 19:23:03 +0000 2012",
+  "created_at" : "2012-10-06 19:23:03 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -7501,14 +7296,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "254627003637043201",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "254662217214091264",
   "in_reply_to_user_id" : 11146602,
   "text" : "@tddewey It\u2019s really nice out, I recommend that.",
   "id" : 254662217214091264,
   "in_reply_to_status_id" : 254627003637043201,
-  "created_at" : "Sat Oct 06 19:19:38 +0000 2012",
+  "created_at" : "2012-10-06 19:19:38 +0000",
   "in_reply_to_screen_name" : "tddewey",
   "in_reply_to_user_id_str" : "11146602",
   "user" : {
@@ -7541,14 +7335,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "254428528374861824",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "254432549517000705",
   "in_reply_to_user_id" : 1373171,
   "text" : "@lgedeon @tollmanz it\u2019s an open ticket, could happen!",
   "id" : 254432549517000705,
   "in_reply_to_status_id" : 254428528374861824,
-  "created_at" : "Sat Oct 06 04:07:01 +0000 2012",
+  "created_at" : "2012-10-06 04:07:01 +0000",
   "in_reply_to_screen_name" : "lgedeon",
   "in_reply_to_user_id_str" : "1373171",
   "user" : {
@@ -7580,7 +7373,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "254413817235255296",
   "text" : "The Pizza is here. (@ Mellow Mushroom Portland w/ 4 others) http://t.co/8YczwtOl",
   "id" : 254413817235255296,
-  "created_at" : "Sat Oct 06 02:52:35 +0000 2012",
+  "created_at" : "2012-10-06 02:52:35 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -7598,12 +7391,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "254405235131432960",
   "text" : "Having pizza for lunch is a good indication that you should have pizza for dinner.",
   "id" : 254405235131432960,
-  "created_at" : "Sat Oct 06 02:18:29 +0000 2012",
+  "created_at" : "2012-10-06 02:18:29 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -7630,12 +7422,11 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "254399041025232896",
   "text" : "Hey y'all. @tollmanz and I have a combined 16 hours of coding time on a train Thursday to #wcyvr. Feed us plugin ideas for the journey. Go!",
   "id" : 254399041025232896,
-  "created_at" : "Sat Oct 06 01:53:52 +0000 2012",
+  "created_at" : "2012-10-06 01:53:52 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -7658,12 +7449,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "instagr.am/p/Qa8uQzpHhW/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "254380556484231168",
   "text" : "All the reds!  http://t.co/kOBX44ec",
   "id" : 254380556484231168,
-  "created_at" : "Sat Oct 06 00:40:25 +0000 2012",
+  "created_at" : "2012-10-06 00:40:25 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -7723,8 +7513,7 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "254341484701167618",
   "text" : "RT @TheLastCicada: @Otto42 Just looking at some plates and.... http://t.co/sIJGpgK6",
   "retweeted_status" : {
@@ -7771,13 +7560,12 @@ Grailbird.data.tweets_2012_10 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "254338811847380992",
     "in_reply_to_user_id" : 7016582,
     "text" : "@Otto42 Just looking at some plates and.... http://t.co/sIJGpgK6",
     "id" : 254338811847380992,
-    "created_at" : "Fri Oct 05 21:54:34 +0000 2012",
+    "created_at" : "2012-10-05 21:54:34 +0000",
     "in_reply_to_screen_name" : "Otto42",
     "in_reply_to_user_id_str" : "7016582",
     "user" : {
@@ -7791,7 +7579,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 254341484701167618,
-  "created_at" : "Fri Oct 05 22:05:10 +0000 2012",
+  "created_at" : "2012-10-05 22:05:10 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -7809,12 +7597,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "254310896409665536",
   "text" : "It's so awesome how much GoToMeeting has advanced as a communication tool over the years.",
   "id" : 254310896409665536,
-  "created_at" : "Fri Oct 05 20:03:37 +0000 2012",
+  "created_at" : "2012-10-05 20:03:37 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -7838,8 +7625,7 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "254064878787117056",
   "text" : "RT @StephenAtHome: I wish Jim Lehrer moderated Twitter so we could all ignore the character limit.",
   "retweeted_status" : {
@@ -7850,12 +7636,11 @@ Grailbird.data.tweets_2012_10 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "254063505089654784",
     "text" : "I wish Jim Lehrer moderated Twitter so we could all ignore the character limit.",
     "id" : 254063505089654784,
-    "created_at" : "Fri Oct 05 03:40:34 +0000 2012",
+    "created_at" : "2012-10-05 03:40:34 +0000",
     "user" : {
       "name" : "Stephen Colbert",
       "screen_name" : "StephenAtHome",
@@ -7867,7 +7652,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 254064878787117056,
-  "created_at" : "Fri Oct 05 03:46:02 +0000 2012",
+  "created_at" : "2012-10-05 03:46:02 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -7896,12 +7681,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "igvita.com/slides/2012/de\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "254058616879984640",
   "text" : "I haven't even started grokking this yet and it's ultra cool - \"Wait, DevTools could do THAT?\" http://t.co/FEiMDJkN Thanks @igrigorik!",
   "id" : 254058616879984640,
-  "created_at" : "Fri Oct 05 03:21:09 +0000 2012",
+  "created_at" : "2012-10-05 03:21:09 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -7919,12 +7703,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "254040424598089730",
   "text" : "This Guinness is good for me.",
   "id" : 254040424598089730,
-  "created_at" : "Fri Oct 05 02:08:51 +0000 2012",
+  "created_at" : "2012-10-05 02:08:51 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -7947,12 +7730,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "instagr.am/p/QYEkw6JHkV/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "253975700141395968",
   "text" : "Don't ever let anyone tell you that Portland doesn't have unicorns.  http://t.co/bbiGeiPg",
   "id" : 253975700141395968,
-  "created_at" : "Thu Oct 04 21:51:40 +0000 2012",
+  "created_at" : "2012-10-04 21:51:40 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -7976,8 +7758,7 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "253695031385407488",
   "text" : "RT @dloehr: You heard him, gang.  Mitt wants to cut off your access to Downton Abbey.\n\nYou know what to do.",
   "retweeted_status" : {
@@ -7988,12 +7769,11 @@ Grailbird.data.tweets_2012_10 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "253669355114618881",
     "text" : "You heard him, gang.  Mitt wants to cut off your access to Downton Abbey.\n\nYou know what to do.",
     "id" : 253669355114618881,
-    "created_at" : "Thu Oct 04 01:34:21 +0000 2012",
+    "created_at" : "2012-10-04 01:34:21 +0000",
     "user" : {
       "name" : "David J. Loehr",
       "screen_name" : "dloehr",
@@ -8005,7 +7785,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 253695031385407488,
-  "created_at" : "Thu Oct 04 03:16:23 +0000 2012",
+  "created_at" : "2012-10-04 03:16:23 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -8028,12 +7808,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "cl.ly/image/3A1e3v3w\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "253681698833833984",
   "text" : "Apparently Romney does not like all the things he says he likes. http://t.co/Y5b93ba6",
   "id" : 253681698833833984,
-  "created_at" : "Thu Oct 04 02:23:24 +0000 2012",
+  "created_at" : "2012-10-04 02:23:24 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -8062,8 +7841,7 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "twitpic.com/b0syqt"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "253676199577022466",
   "text" : "RT @FiredBigBird: Look what Mitt Romney has done to me... \n\nhttp://t.co/dhDFNLvV",
   "retweeted_status" : {
@@ -8079,24 +7857,23 @@ Grailbird.data.tweets_2012_10 =
         "display_url" : "twitpic.com/b0syqt"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "253673106097451008",
     "text" : "Look what Mitt Romney has done to me... \n\nhttp://t.co/dhDFNLvV",
     "id" : 253673106097451008,
-    "created_at" : "Thu Oct 04 01:49:16 +0000 2012",
+    "created_at" : "2012-10-04 01:49:16 +0000",
     "user" : {
       "name" : "Political Line",
       "screen_name" : "PoliticaILine",
       "protected" : false,
       "id_str" : "858646280",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000116972713/22ac878f8e922ca707f9b6af1e1214c2_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000410173036/68b602d294a085ef50df5298515e5655_normal.png",
       "id" : 858646280,
       "verified" : false
     }
   },
   "id" : 253676199577022466,
-  "created_at" : "Thu Oct 04 02:01:33 +0000 2012",
+  "created_at" : "2012-10-04 02:01:33 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -8119,12 +7896,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "debates.aol.com"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "253655782200066048",
   "text" : "While YouTube's debate site looks slick, AOL's is actually providing good quality streaming video. http://t.co/8qw2q0hI",
   "id" : 253655782200066048,
-  "created_at" : "Thu Oct 04 00:40:25 +0000 2012",
+  "created_at" : "2012-10-04 00:40:25 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -8147,12 +7923,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "youtube.com/politics?featu\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "253653878678114304",
   "text" : "YouTube's debate site is pretty slick looking. http://t.co/kBk7pWiT",
   "id" : 253653878678114304,
-  "created_at" : "Thu Oct 04 00:32:51 +0000 2012",
+  "created_at" : "2012-10-04 00:32:51 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -8170,12 +7945,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "253584208306528256",
   "text" : "I hate it when I'm stupid.",
   "id" : 253584208306528256,
-  "created_at" : "Wed Oct 03 19:56:01 +0000 2012",
+  "created_at" : "2012-10-03 19:56:01 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -8200,14 +7974,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "253564764779843584",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "253565535114121216",
   "in_reply_to_user_id" : 1335391,
   "text" : "@kiersi It's fantastic!",
   "id" : 253565535114121216,
   "in_reply_to_status_id" : 253564764779843584,
-  "created_at" : "Wed Oct 03 18:41:49 +0000 2012",
+  "created_at" : "2012-10-03 18:41:49 +0000",
   "in_reply_to_screen_name" : "kiersi",
   "in_reply_to_user_id_str" : "1335391",
   "user" : {
@@ -8227,12 +8000,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "253373796923371520",
   "text" : "Workflowy is really awesome.",
   "id" : 253373796923371520,
-  "created_at" : "Wed Oct 03 05:59:55 +0000 2012",
+  "created_at" : "2012-10-03 05:59:55 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -8255,12 +8027,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "wheningit.tumblr.com/post/306903919\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "253365129452851200",
   "text" : "I must learn how to use git rebase. http://t.co/7gq9nYEK",
   "id" : 253365129452851200,
-  "created_at" : "Wed Oct 03 05:25:28 +0000 2012",
+  "created_at" : "2012-10-03 05:25:28 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -8289,8 +8060,7 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "ow.ly/eaYer"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "253365018094084097",
   "text" : "RT @GrantLandram: git users: http://t.co/TAIHRsKL",
   "retweeted_status" : {
@@ -8306,24 +8076,23 @@ Grailbird.data.tweets_2012_10 =
         "display_url" : "ow.ly/eaYer"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "253362519777873920",
     "text" : "git users: http://t.co/TAIHRsKL",
     "id" : 253362519777873920,
-    "created_at" : "Wed Oct 03 05:15:06 +0000 2012",
+    "created_at" : "2012-10-03 05:15:06 +0000",
     "user" : {
       "name" : "Grant Landram",
       "screen_name" : "GrantLandram",
       "protected" : false,
       "id_str" : "20131645",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2268331259/d5xd27sbtoqhgr5yivpp_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000316324918/e330ecced0b836f8eea51ad449533e8f_normal.jpeg",
       "id" : 20131645,
       "verified" : false
     }
   },
   "id" : 253365018094084097,
-  "created_at" : "Wed Oct 03 05:25:02 +0000 2012",
+  "created_at" : "2012-10-03 05:25:02 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -8346,12 +8115,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "instagr.am/p/QTVvuSpHut/"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "253309666589831168",
   "text" : "Bad bread! http://t.co/xwOd1nBP",
   "id" : 253309666589831168,
-  "created_at" : "Wed Oct 03 01:45:05 +0000 2012",
+  "created_at" : "2012-10-03 01:45:05 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -8374,12 +8142,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "beta.musicradar.com/news/guitars/v\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "253168174881722370",
   "text" : "Local H's Scott Lucas on his unique guitar/bass setup http://t.co/94s47zy5",
   "id" : 253168174881722370,
-  "created_at" : "Tue Oct 02 16:22:51 +0000 2012",
+  "created_at" : "2012-10-02 16:22:51 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -8403,8 +8170,7 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "253005909532491777",
   "text" : "RT @brentsdevdiary: Feeling clever. Which makes alarm bells go off \u2014 that feeling is right only half the time. Slow down. Think.",
   "retweeted_status" : {
@@ -8415,12 +8181,11 @@ Grailbird.data.tweets_2012_10 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "14745534994",
     "text" : "Feeling clever. Which makes alarm bells go off \u2014 that feeling is right only half the time. Slow down. Think.",
     "id" : 14745534994,
-    "created_at" : "Wed May 26 06:07:19 +0000 2010",
+    "created_at" : "2010-05-26 06:07:19 +0000",
     "user" : {
       "name" : "BrentsDevDiary",
       "screen_name" : "brentsdevdiary",
@@ -8432,7 +8197,7 @@ Grailbird.data.tweets_2012_10 =
     }
   },
   "id" : 253005909532491777,
-  "created_at" : "Tue Oct 02 05:38:04 +0000 2012",
+  "created_at" : "2012-10-02 05:38:04 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -8463,14 +8228,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "252992265520291840",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252992763442900992",
   "in_reply_to_user_id" : 12916912,
   "text" : "@curtismchale @bluelimemedia True. Once you have to start following data through the code, your time can increase quick.",
   "id" : 252992763442900992,
   "in_reply_to_status_id" : 252992265520291840,
-  "created_at" : "Tue Oct 02 04:45:49 +0000 2012",
+  "created_at" : "2012-10-02 04:45:49 +0000",
   "in_reply_to_screen_name" : "curtismchale",
   "in_reply_to_user_id_str" : "12916912",
   "user" : {
@@ -8503,14 +8267,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "252985080774017024",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252986208353931264",
   "in_reply_to_user_id" : 19277037,
   "text" : "@bluelimemedia @curtismchale For sure. 1-2 hours could be a good start as long as there are no out of the ordinary approaches.",
   "id" : 252986208353931264,
   "in_reply_to_status_id" : 252985080774017024,
-  "created_at" : "Tue Oct 02 04:19:46 +0000 2012",
+  "created_at" : "2012-10-02 04:19:46 +0000",
   "in_reply_to_screen_name" : "bluelimemedia",
   "in_reply_to_user_id_str" : "19277037",
   "user" : {
@@ -8537,14 +8300,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "252973048968409088",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252979576689549313",
   "in_reply_to_user_id" : 19277037,
   "text" : "@bluelimemedia Totally. It'd be interesting to see how much a service like that would be worth to devs.",
   "id" : 252979576689549313,
   "in_reply_to_status_id" : 252973048968409088,
-  "created_at" : "Tue Oct 02 03:53:25 +0000 2012",
+  "created_at" : "2012-10-02 03:53:25 +0000",
   "in_reply_to_screen_name" : "bluelimemedia",
   "in_reply_to_user_id_str" : "19277037",
   "user" : {
@@ -8571,14 +8333,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "252967034651041793",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252972626308382721",
   "in_reply_to_user_id" : 19277037,
   "text" : "@bluelimemedia I totally think there's a market for that somewhere. I sometimes wonder if a site oriented around trading reviews would work.",
   "id" : 252972626308382721,
   "in_reply_to_status_id" : 252967034651041793,
-  "created_at" : "Tue Oct 02 03:25:48 +0000 2012",
+  "created_at" : "2012-10-02 03:25:48 +0000",
   "in_reply_to_screen_name" : "bluelimemedia",
   "in_reply_to_user_id_str" : "19277037",
   "user" : {
@@ -8605,14 +8366,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "252966906225627136",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252972126036975616",
   "in_reply_to_user_id" : 19277037,
   "text" : "@bluelimemedia We'll solicit code from the community, assign that to a dev, then have that dev present the review at the October meetup.",
   "id" : 252972126036975616,
   "in_reply_to_status_id" : 252966906225627136,
-  "created_at" : "Tue Oct 02 03:23:49 +0000 2012",
+  "created_at" : "2012-10-02 03:23:49 +0000",
   "in_reply_to_screen_name" : "bluelimemedia",
   "in_reply_to_user_id_str" : "19277037",
   "user" : {
@@ -8639,14 +8399,13 @@ Grailbird.data.tweets_2012_10 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "252966906225627136",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252971996240048128",
   "in_reply_to_user_id" : 19277037,
   "text" : "@bluelimemedia Yup, our first dev oriented spin-off meetup was earlier this month and code review appealed to a bunch of people.",
   "id" : 252971996240048128,
   "in_reply_to_status_id" : 252966906225627136,
-  "created_at" : "Tue Oct 02 03:23:18 +0000 2012",
+  "created_at" : "2012-10-02 03:23:18 +0000",
   "in_reply_to_screen_name" : "bluelimemedia",
   "in_reply_to_user_id_str" : "19277037",
   "user" : {
@@ -8666,12 +8425,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252963657351299073",
   "text" : "The limit of Twitter search results to the last ? days is a let down sometimes.",
   "id" : 252963657351299073,
-  "created_at" : "Tue Oct 02 02:50:10 +0000 2012",
+  "created_at" : "2012-10-02 02:50:10 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -8689,12 +8447,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252850480865222658",
   "text" : "\"Would it be unethical for me to just close this chat window and continue on with my free internet service then?\" - Analyst is typing....",
   "id" : 252850480865222658,
-  "created_at" : "Mon Oct 01 19:20:27 +0000 2012",
+  "created_at" : "2012-10-01 19:20:27 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -8712,12 +8469,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252839837151932417",
   "text" : "\"Upon checking on your account, I can see here that you don't have any active service with Comcast.\" - Sweet! I should just be quiet...",
   "id" : 252839837151932417,
-  "created_at" : "Mon Oct 01 18:38:09 +0000 2012",
+  "created_at" : "2012-10-01 18:38:09 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -8735,12 +8491,11 @@ Grailbird.data.tweets_2012_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252830637168402432",
   "text" : "I think my username being null probably has something to do with me getting 'free' Internet access for 2 months.",
   "id" : 252830637168402432,
-  "created_at" : "Mon Oct 01 18:01:35 +0000 2012",
+  "created_at" : "2012-10-01 18:01:35 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -8769,12 +8524,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "cl.ly/image/1X1h3Z1o\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252830284813324289",
   "text" : "I love you, @comcast! http://t.co/HMAav47W",
   "id" : 252830284813324289,
-  "created_at" : "Mon Oct 01 18:00:11 +0000 2012",
+  "created_at" : "2012-10-01 18:00:11 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -8797,12 +8551,11 @@ Grailbird.data.tweets_2012_10 =
       "display_url" : "postforking.wordpress.com/2012/10/01/int\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "252794710215774210",
   "text" : "Introducing Post Forking for WordPress http://t.co/A8FB1HQo",
   "id" : 252794710215774210,
-  "created_at" : "Mon Oct 01 15:38:50 +0000 2012",
+  "created_at" : "2012-10-01 15:38:50 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

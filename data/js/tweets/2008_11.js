@@ -14,14 +14,13 @@ Grailbird.data.tweets_2008_11 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "1004529999",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "1004534358",
   "in_reply_to_user_id" : 721853,
   "text" : "@neilgorman I loved The Road, although after finishing I couldn't understand why.  Only took a few hours too, worth it imo",
   "id" : 1004534358,
   "in_reply_to_status_id" : 1004529999,
-  "created_at" : "Thu Nov 13 22:39:46 +0000 2008",
+  "created_at" : "2008-11-13 00:00:00 +0000",
   "in_reply_to_screen_name" : "neilgorman",
   "in_reply_to_user_id_str" : "721853",
   "user" : {

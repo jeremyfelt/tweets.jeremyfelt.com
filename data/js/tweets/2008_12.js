@@ -7,12 +7,11 @@ Grailbird.data.tweets_2008_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "1087299091",
   "text" : "when in doubt, http://www.colourlovers.com/",
   "id" : 1087299091,
-  "created_at" : "Wed Dec 31 04:00:57 +0000 2008",
+  "created_at" : "2008-12-31 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -30,12 +29,11 @@ Grailbird.data.tweets_2008_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "1070064144",
   "text" : "Wicked cool text movement w/ cursor - http://www.rolyn.co.uk/wub.htm",
   "id" : 1070064144,
-  "created_at" : "Sun Dec 21 04:37:41 +0000 2008",
+  "created_at" : "2008-12-21 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -60,14 +58,13 @@ Grailbird.data.tweets_2008_12 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "1068284243",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "1068350591",
   "in_reply_to_user_id" : 721853,
   "text" : "@neilgorman how's the new Asus?",
   "id" : 1068350591,
   "in_reply_to_status_id" : 1068284243,
-  "created_at" : "Sat Dec 20 02:32:14 +0000 2008",
+  "created_at" : "2008-12-20 00:00:00 +0000",
   "in_reply_to_screen_name" : "neilgorman",
   "in_reply_to_user_id_str" : "721853",
   "user" : {
@@ -87,12 +84,11 @@ Grailbird.data.tweets_2008_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "1053488412",
   "text" : "Checking out TwitterGadget for Gmail... nice!",
   "id" : 1053488412,
-  "created_at" : "Fri Dec 12 15:00:57 +0000 2008",
+  "created_at" : "2008-12-12 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

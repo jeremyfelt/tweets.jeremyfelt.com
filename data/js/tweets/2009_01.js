@@ -7,12 +7,11 @@ Grailbird.data.tweets_2009_01 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "1093822042",
   "text" : "Before bashing your head in over your async ajax being too async, search for \"out of beer\" http://tinyurl.com/97hhcz",
   "id" : 1093822042,
-  "created_at" : "Sat Jan 03 19:10:41 +0000 2009",
+  "created_at" : "2009-01-03 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

@@ -1,18 +1,17 @@
 Grailbird.data.tweets_2008_01 = 
  [ {
-  "source" : "<a href=\"http://www.flock.com/\" rel=\"nofollow\">Flock</a>",
+  "source" : "web",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "626360452",
-  "text" : "there's the twitter bar...",
-  "id" : 626360452,
-  "created_at" : "Tue Jan 22 03:34:21 +0000 2008",
+  "geo" : { },
+  "id_str" : "626358742",
+  "text" : "trying out flock 1.0 before 1.1 is released",
+  "id" : 626358742,
+  "created_at" : "2008-01-22 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -23,19 +22,18 @@ Grailbird.data.tweets_2008_01 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "<a href=\"http://www.flock.com/\" rel=\"nofollow\">Flock</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
-  "id_str" : "626358742",
-  "text" : "trying out flock 1.0 before 1.1 is released",
-  "id" : 626358742,
-  "created_at" : "Tue Jan 22 03:33:42 +0000 2008",
+  "geo" : { },
+  "id_str" : "626360452",
+  "text" : "there's the twitter bar...",
+  "id" : 626360452,
+  "created_at" : "2008-01-22 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

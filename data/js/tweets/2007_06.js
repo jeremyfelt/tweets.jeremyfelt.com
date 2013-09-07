@@ -7,12 +7,11 @@ Grailbird.data.tweets_2007_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "113040372",
   "text" : "found mass upload... zooomr RULES",
   "id" : 113040372,
-  "created_at" : "Wed Jun 20 14:01:23 +0000 2007",
+  "created_at" : "2007-06-20 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -30,12 +29,11 @@ Grailbird.data.tweets_2007_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "107684592",
   "text" : "loving zooomr, but want mass upload!",
   "id" : 107684592,
-  "created_at" : "Sat Jun 16 22:09:36 +0000 2007",
+  "created_at" : "2007-06-16 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -53,12 +51,11 @@ Grailbird.data.tweets_2007_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "92208532",
   "text" : "trying out twitbin in firefox. pretty cool",
   "id" : 92208532,
-  "created_at" : "Tue Jun 05 17:47:54 +0000 2007",
+  "created_at" : "2007-06-05 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
