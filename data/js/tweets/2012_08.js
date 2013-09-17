@@ -5060,13 +5060,7 @@ Grailbird.data.tweets_2012_08 =
 }, {
   "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Leah Bachhuber",
-      "screen_name" : "LeahROlson",
-      "indices" : [ 3, 14 ],
-      "id_str" : "78693792",
-      "id" : 78693792
-    } ],
+    "user_mentions" : [ ],
     "media" : [ {
       "expanded_url" : "http://twitter.com/LeahROlson/status/236984252883955712/photo/1",
       "indices" : [ 57, 77 ],
@@ -5112,7 +5106,7 @@ Grailbird.data.tweets_2012_08 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http://twitter.com/LeahROlson/status/236984252883955712/photo/1",
+        "expanded_url" : "http://twitter.com/LeahBachhuber/status/236984252883955712/photo/1",
         "indices" : [ 41, 61 ],
         "url" : "http://t.co/F5Ni9NR3",
         "media_url" : "http://pbs.twimg.com/media/A0nv7CLCcAEzgb4.jpg",
@@ -5155,7 +5149,7 @@ Grailbird.data.tweets_2012_08 =
     "created_at" : "2012-08-19 00:33:44 +0000",
     "user" : {
       "name" : "Leah Bachhuber",
-      "screen_name" : "LeahROlson",
+      "screen_name" : "LeahBachhuber",
       "protected" : false,
       "id_str" : "78693792",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/2219126852/Screen_shot_2012-05-14_at_4.21.41_PM_normal.png",
@@ -6168,7 +6162,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "yuetsu",
       "protected" : false,
       "id_str" : "7930732",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000387134182/7ba67529d10d7d3da9c0c47d4d0d4bf4_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000444654579/f0943304a3bfeca516d9cc7d5e9de273_normal.jpeg",
       "id" : 7930732,
       "verified" : false
     }
@@ -6858,13 +6852,7 @@ Grailbird.data.tweets_2012_08 =
 }, {
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Leah Bachhuber",
-      "screen_name" : "LeahROlson",
-      "indices" : [ 3, 14 ],
-      "id_str" : "78693792",
-      "id" : 78693792
-    } ],
+    "user_mentions" : [ ],
     "media" : [ {
       "expanded_url" : "http://twitter.com/LeahROlson/status/236861852594884608/photo/1",
       "indices" : [ 59, 79 ],
@@ -6910,7 +6898,7 @@ Grailbird.data.tweets_2012_08 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http://twitter.com/LeahROlson/status/236861852594884608/photo/1",
+        "expanded_url" : "http://twitter.com/LeahBachhuber/status/236861852594884608/photo/1",
         "indices" : [ 43, 63 ],
         "url" : "http://t.co/87vzr3m3",
         "media_url" : "http://pbs.twimg.com/media/A0mAmZ0CUAAADbe.jpg",
@@ -6956,7 +6944,7 @@ Grailbird.data.tweets_2012_08 =
     "created_at" : "2012-08-18 16:27:21 +0000",
     "user" : {
       "name" : "Leah Bachhuber",
-      "screen_name" : "LeahROlson",
+      "screen_name" : "LeahBachhuber",
       "protected" : false,
       "id_str" : "78693792",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/2219126852/Screen_shot_2012-05-14_at_4.21.41_PM_normal.png",

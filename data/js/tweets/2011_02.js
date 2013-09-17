@@ -156,7 +156,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "andyellwood",
       "protected" : false,
       "id_str" : "38269159",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1768737489/bw.headshot.sq_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000434646535/378c476f83672362882c344f985beea4_normal.png",
       "id" : 38269159,
       "verified" : true
     }

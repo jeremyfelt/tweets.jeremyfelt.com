@@ -3909,7 +3909,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "kimerachetty",
       "protected" : false,
       "id_str" : "262647783",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000363899589/5d806b34326dc9ab465dee1e3f03e6ad_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000457160259/507a233cea21a26ca0f6b4763629776b_normal.jpeg",
       "id" : 262647783,
       "verified" : false
     }

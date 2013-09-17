@@ -3877,7 +3877,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "evansolomon",
       "protected" : false,
       "id_str" : "9569062",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3031453319/da4bdedd79dd18917af37779d6d6a052_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000463443854/90ab2a036f62840e3447ae3cc549d35a_normal.jpeg",
       "id" : 9569062,
       "verified" : false
     }
@@ -4237,7 +4237,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@sweden / Sophia",
+      "name" : "@sweden / Matti",
       "screen_name" : "sweden",
       "indices" : [ 3, 10 ],
       "id_str" : "19663706",
@@ -4264,11 +4264,11 @@ Grailbird.data.tweets_2012_07 =
     "id" : 221571629128499200,
     "created_at" : "2012-07-07 11:49:27 +0000",
     "user" : {
-      "name" : "@sweden / Sophia",
+      "name" : "@sweden / Matti",
       "screen_name" : "sweden",
       "protected" : false,
       "id_str" : "19663706",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000399275256/498183425adc6ba06c064c4087ec3750_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000465392728/da13f108aecae3eec2841659722e6657_normal.png",
       "id" : 19663706,
       "verified" : false
     }

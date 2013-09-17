@@ -5416,7 +5416,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "evansolomon",
       "protected" : false,
       "id_str" : "9569062",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3031453319/da4bdedd79dd18917af37779d6d6a052_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000463443854/90ab2a036f62840e3447ae3cc549d35a_normal.jpeg",
       "id" : 9569062,
       "verified" : false
     }
@@ -5722,7 +5722,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Paul",
+      "name" : "\u24DF\u24D0\u24E4\u24DB \u270C",
       "screen_name" : "paul_wp",
       "indices" : [ 10, 18 ],
       "id_str" : "15728818",
@@ -6750,7 +6750,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "benlobaugh",
       "protected" : false,
       "id_str" : "157135704",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2244559762/ben_lobaugh_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000432925525/b64233cf7ecb860ce787f6e5c08d29b0_normal.jpeg",
       "id" : 157135704,
       "verified" : false
     }
@@ -11580,7 +11580,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "jayrosen_nyu",
       "protected" : false,
       "id_str" : "14834340",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2521689129/eunfazjd0ij9g1wlg8gz_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000429664408/76b619d630cbec506eef8327c9a794c2_normal.jpeg",
       "id" : 14834340,
       "verified" : true
     }
@@ -13005,7 +13005,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "jayrosen_nyu",
       "protected" : false,
       "id_str" : "14834340",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2521689129/eunfazjd0ij9g1wlg8gz_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000429664408/76b619d630cbec506eef8327c9a794c2_normal.jpeg",
       "id" : 14834340,
       "verified" : true
     }

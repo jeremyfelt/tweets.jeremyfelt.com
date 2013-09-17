@@ -3865,7 +3865,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "DaveGorman",
       "protected" : false,
       "id_str" : "19095849",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000409160192/4c07acb834f38f53a04de7d8b6f74f7d_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000443512089/4c07acb834f38f53a04de7d8b6f74f7d_normal.jpeg",
       "id" : 19095849,
       "verified" : true
     }

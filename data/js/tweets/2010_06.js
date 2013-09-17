@@ -801,7 +801,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick LaForge, NYT",
+      "name" : "Patrick LaForge",
       "screen_name" : "palafo",
       "indices" : [ 3, 10 ],
       "id_str" : "2020351",
@@ -840,11 +840,11 @@ Grailbird.data.tweets_2010_06 =
     "id" : 17169239818,
     "created_at" : "2010-06-27 14:42:17 +0000",
     "user" : {
-      "name" : "Patrick LaForge, NYT",
+      "name" : "Patrick LaForge",
       "screen_name" : "palafo",
       "protected" : false,
       "id_str" : "2020351",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3070606190/a30cfa6e29786e4bd848f887b87def72_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000464145613/d3512ff769d1e526f9e19ca879fbafa2_normal.jpeg",
       "id" : 2020351,
       "verified" : true
     }
@@ -3578,7 +3578,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "neilgorman",
       "protected" : false,
       "id_str" : "721853",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1711897957/05300A98-B18D-4C38-B811-39BBEF91F325_normal",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000426766190/a50c1703b24bc17a4ef8c3eeff3047d8_normal.jpeg",
       "id" : 721853,
       "verified" : false
     }
@@ -3651,7 +3651,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "textfiles",
       "protected" : false,
       "id_str" : "1465481",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000325447281/0044f499cd4890da84a20f0a65122135_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000465883977/bee9595814a40486484dce8ec936069f_normal.jpeg",
       "id" : 1465481,
       "verified" : false
     }
@@ -4315,7 +4315,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "cubanalaf",
       "protected" : false,
       "id_str" : "15377897",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416373738/f4c2bde151f2614f83fc6d40e26b0dc9_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000442822280/449d04ece50a0c5c9d4a56b4f5cfa3a8_normal.jpeg",
       "id" : 15377897,
       "verified" : false
     }

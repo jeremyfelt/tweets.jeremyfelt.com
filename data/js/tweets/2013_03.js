@@ -5898,7 +5898,7 @@ Grailbird.data.tweets_2013_03 =
       "screen_name" : "benlobaugh",
       "protected" : false,
       "id_str" : "157135704",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2244559762/ben_lobaugh_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000432925525/b64233cf7ecb860ce787f6e5c08d29b0_normal.jpeg",
       "id" : 157135704,
       "verified" : false
     }
@@ -7546,7 +7546,7 @@ Grailbird.data.tweets_2013_03 =
       "screen_name" : "evansolomon",
       "protected" : false,
       "id_str" : "9569062",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3031453319/da4bdedd79dd18917af37779d6d6a052_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000463443854/90ab2a036f62840e3447ae3cc549d35a_normal.jpeg",
       "id" : 9569062,
       "verified" : false
     }
@@ -7645,7 +7645,7 @@ Grailbird.data.tweets_2013_03 =
     "entities" : {
       "user_mentions" : [ {
         "name" : "The White House",
-        "screen_name" : "whitehouse",
+        "screen_name" : "WhiteHouse",
         "indices" : [ 1, 12 ],
         "id_str" : "30313925",
         "id" : 30313925
@@ -8333,7 +8333,7 @@ Grailbird.data.tweets_2013_03 =
       "screen_name" : "Lahlahlindsey",
       "protected" : false,
       "id_str" : "356752859",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000037391821/6bd6a218545b81fbfc92b22115a4a718_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000429829547/7499ce4b863abc3476d3fb4c4f47274c_normal.jpeg",
       "id" : 356752859,
       "verified" : false
     }

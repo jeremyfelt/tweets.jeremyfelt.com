@@ -103,7 +103,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "jayrosen_nyu",
       "protected" : false,
       "id_str" : "14834340",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2521689129/eunfazjd0ij9g1wlg8gz_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000429664408/76b619d630cbec506eef8327c9a794c2_normal.jpeg",
       "id" : 14834340,
       "verified" : true
     }
@@ -1707,7 +1707,7 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "818340",
       "id" : 818340
     }, {
-      "name" : "Patrick LaForge, NYT",
+      "name" : "Patrick LaForge",
       "screen_name" : "palafo",
       "indices" : [ 42, 49 ],
       "id_str" : "2020351",

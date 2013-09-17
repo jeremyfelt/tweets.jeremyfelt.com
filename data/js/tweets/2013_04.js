@@ -6557,7 +6557,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "yurivictor",
       "protected" : false,
       "id_str" : "5511932",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000419925891/3fc8891e3250ba736c38f0cda8004188_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000431068359/5e556572cfc62e11706216c3cfc9156c_normal.jpeg",
       "id" : 5511932,
       "verified" : false
     }
@@ -9414,7 +9414,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ireland / Claire",
+      "name" : "Ireland / Padraic",
       "screen_name" : "ireland",
       "indices" : [ 3, 11 ],
       "id_str" : "1143551",
@@ -9501,11 +9501,11 @@ Grailbird.data.tweets_2013_04 =
     "id" : 318863079725228033,
     "created_at" : "2013-04-01 23:10:57 +0000",
     "user" : {
-      "name" : "Ireland / Claire",
+      "name" : "Ireland / Padraic",
       "screen_name" : "ireland",
       "protected" : false,
       "id_str" : "1143551",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000396994049/ced259d231a38b4e5217b94e9c939e33_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000465187308/7afa9f7feef0ff2e3e6f03a818d8d508_normal.jpeg",
       "id" : 1143551,
       "verified" : false
     }
@@ -9525,7 +9525,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ireland / Claire",
+      "name" : "Ireland / Padraic",
       "screen_name" : "ireland",
       "indices" : [ 0, 8 ],
       "id_str" : "1143551",

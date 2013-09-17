@@ -1685,12 +1685,6 @@ Grailbird.data.tweets_2013_05 =
       "indices" : [ 0, 16 ],
       "id_str" : "272166936",
       "id" : 272166936
-    }, {
-      "name" : "Leah Bachhuber",
-      "screen_name" : "LeahROlson",
-      "indices" : [ 17, 28 ],
-      "id_str" : "78693792",
-      "id" : 78693792
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6537,7 +6531,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "yurivictor",
       "protected" : false,
       "id_str" : "5511932",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000419925891/3fc8891e3250ba736c38f0cda8004188_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000431068359/5e556572cfc62e11706216c3cfc9156c_normal.jpeg",
       "id" : 5511932,
       "verified" : false
     }

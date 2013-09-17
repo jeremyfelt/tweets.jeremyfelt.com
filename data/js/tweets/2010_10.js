@@ -3906,7 +3906,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick LaForge, NYT",
+      "name" : "Patrick LaForge",
       "screen_name" : "palafo",
       "indices" : [ 3, 10 ],
       "id_str" : "2020351",
@@ -3918,7 +3918,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "15736557",
       "id" : 15736557
     }, {
-      "name" : "Patrick LaForge, NYT",
+      "name" : "Patrick LaForge",
       "screen_name" : "palafo",
       "indices" : [ 30, 37 ],
       "id_str" : "2020351",
@@ -3941,7 +3941,7 @@ Grailbird.data.tweets_2010_10 =
         "id_str" : "15736557",
         "id" : 15736557
       }, {
-        "name" : "Patrick LaForge, NYT",
+        "name" : "Patrick LaForge",
         "screen_name" : "palafo",
         "indices" : [ 18, 25 ],
         "id_str" : "2020351",
@@ -3957,11 +3957,11 @@ Grailbird.data.tweets_2010_10 =
     "id" : 26857669853,
     "created_at" : "2010-10-09 16:33:25 +0000",
     "user" : {
-      "name" : "Patrick LaForge, NYT",
+      "name" : "Patrick LaForge",
       "screen_name" : "palafo",
       "protected" : false,
       "id_str" : "2020351",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3070606190/a30cfa6e29786e4bd848f887b87def72_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000464145613/d3512ff769d1e526f9e19ca879fbafa2_normal.jpeg",
       "id" : 2020351,
       "verified" : true
     }

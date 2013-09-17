@@ -3369,7 +3369,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "jesus",
       "protected" : false,
       "id_str" : "8943",
-      "profile_image_url_https" : "https://si0.twimg.com/sticky/default_profile_images/default_profile_4_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000436609149/959a9ed0624216336e8d253aceb89e2b_normal.jpeg",
       "id" : 8943,
       "verified" : false
     }

@@ -471,7 +471,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brian Clark",
+      "name" : "Copyblogger",
       "screen_name" : "copyblogger",
       "indices" : [ 3, 15 ],
       "id_str" : "10367",
@@ -498,11 +498,11 @@ Grailbird.data.tweets_2010_12 =
     "id" : 18025788674674688,
     "created_at" : "2010-12-23 19:30:57 +0000",
     "user" : {
-      "name" : "Brian Clark",
+      "name" : "Copyblogger",
       "screen_name" : "copyblogger",
       "protected" : false,
       "id_str" : "10367",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3597451691/2d6857d0ed523ebe06023dd0d1b315fd_normal.jpeg",
+      "profile_image_url_https" : "https://abs.twimg.com/sticky/default_profile_images/default_profile_0_normal.png",
       "id" : 10367,
       "verified" : false
     }
@@ -1563,7 +1563,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick LaForge, NYT",
+      "name" : "Patrick LaForge",
       "screen_name" : "palafo",
       "indices" : [ 3, 10 ],
       "id_str" : "2020351",
@@ -1596,11 +1596,11 @@ Grailbird.data.tweets_2010_12 =
     "id" : 14888915550863360,
     "created_at" : "2010-12-15 03:46:08 +0000",
     "user" : {
-      "name" : "Patrick LaForge, NYT",
+      "name" : "Patrick LaForge",
       "screen_name" : "palafo",
       "protected" : false,
       "id_str" : "2020351",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3070606190/a30cfa6e29786e4bd848f887b87def72_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000464145613/d3512ff769d1e526f9e19ca879fbafa2_normal.jpeg",
       "id" : 2020351,
       "verified" : true
     }

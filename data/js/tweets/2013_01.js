@@ -2755,7 +2755,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scotland / April",
+      "name" : "Scotland / Emlyn",
       "screen_name" : "ScotVoices",
       "indices" : [ 3, 14 ],
       "id_str" : "1011302935",
@@ -2788,11 +2788,11 @@ Grailbird.data.tweets_2013_01 =
     "id" : 293623745178918912,
     "created_at" : "2013-01-22 07:38:50 +0000",
     "user" : {
-      "name" : "Scotland / April",
+      "name" : "Scotland / Emlyn",
       "screen_name" : "ScotVoices",
       "protected" : false,
       "id_str" : "1011302935",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000400590788/8e267febb221b1f8c8e8ff6b034cb941_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000433481166/0651d1b94a421a30fe9b6a467c44128c_normal.jpeg",
       "id" : 1011302935,
       "verified" : false
     }
@@ -5279,7 +5279,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "rickperlstein",
       "protected" : false,
       "id_str" : "20343694",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/299527013/me_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000436641826/d85fff334ca506496a96b5cc32a9cf3a_normal.jpeg",
       "id" : 20343694,
       "verified" : false
     }
@@ -7088,7 +7088,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "jayrosen_nyu",
       "protected" : false,
       "id_str" : "14834340",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2521689129/eunfazjd0ij9g1wlg8gz_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000429664408/76b619d630cbec506eef8327c9a794c2_normal.jpeg",
       "id" : 14834340,
       "verified" : true
     }

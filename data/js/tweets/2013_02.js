@@ -544,7 +544,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "benlobaugh",
       "protected" : false,
       "id_str" : "157135704",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2244559762/ben_lobaugh_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000432925525/b64233cf7ecb860ce787f6e5c08d29b0_normal.jpeg",
       "id" : 157135704,
       "verified" : false
     }
@@ -1169,7 +1169,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "benlobaugh",
       "protected" : false,
       "id_str" : "157135704",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2244559762/ben_lobaugh_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000432925525/b64233cf7ecb860ce787f6e5c08d29b0_normal.jpeg",
       "id" : 157135704,
       "verified" : false
     }
