@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2009_06 = 
  [ {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -9,7 +9,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2304943015",
-  "text" : "The BBC takes a closer look at where all those new votes came from in Iran.  http://bit.ly/PnFXI",
+  "text" : "The BBC takes a closer look at where all those new votes came from in Iran.  http:\/\/bit.ly\/PnFXI",
   "id" : 2304943015,
   "created_at" : "2009-06-24 00:00:00 +0000",
   "user" : {
@@ -17,12 +17,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -31,7 +31,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2305652641",
-  "text" : "Joe Klein gets the political response to Iran right on. http://bit.ly/Vu61r",
+  "text" : "Joe Klein gets the political response to Iran right on. http:\/\/bit.ly\/Vu61r",
   "id" : 2305652641,
   "created_at" : "2009-06-24 00:00:00 +0000",
   "user" : {
@@ -39,7 +39,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -70,12 +70,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -84,7 +84,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2260300847",
-  "text" : "Wow! Google responds and updates their sattelite imagery of Tehran to June 18th, 11:18am IRDT  http://bit.ly/14Xz7M",
+  "text" : "Wow! Google responds and updates their sattelite imagery of Tehran to June 18th, 11:18am IRDT  http:\/\/bit.ly\/14Xz7M",
   "id" : 2260300847,
   "created_at" : "2009-06-21 00:00:00 +0000",
   "user" : {
@@ -92,12 +92,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -106,7 +106,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2260944901",
-  "text" : "Picked up \"The Great War for Civilisation\" today. Robert Fisk's writing on Iran for the Independent has been brilliant.  http://bit.ly/iAMRV",
+  "text" : "Picked up \"The Great War for Civilisation\" today. Robert Fisk's writing on Iran for the Independent has been brilliant.  http:\/\/bit.ly\/iAMRV",
   "id" : 2260944901,
   "created_at" : "2009-06-21 00:00:00 +0000",
   "user" : {
@@ -114,12 +114,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -128,7 +128,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2261183711",
-  "text" : "An amazing roundup of photos from today in Tehran along with an almost minute by minute account of the events.  http://bit.ly/136MQO",
+  "text" : "An amazing roundup of photos from today in Tehran along with an almost minute by minute account of the events.  http:\/\/bit.ly\/136MQO",
   "id" : 2261183711,
   "created_at" : "2009-06-21 00:00:00 +0000",
   "user" : {
@@ -136,12 +136,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jay Rosen ",
@@ -156,7 +156,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2261202004",
-  "text" : "Iran, citizen media and media attention. (via @jayrosen_nyu)  http://bit.ly/O05MZ",
+  "text" : "Iran, citizen media and media attention. (via @jayrosen_nyu)  http:\/\/bit.ly\/O05MZ",
   "id" : 2261202004,
   "created_at" : "2009-06-21 00:00:00 +0000",
   "user" : {
@@ -164,12 +164,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -178,7 +178,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2261306269",
-  "text" : "Something very surreal about this picture. A billboard in the middle of a cloud of smoke, tear gas, and fire. http://bit.ly/HfW2j",
+  "text" : "Something very surreal about this picture. A billboard in the middle of a cloud of smoke, tear gas, and fire. http:\/\/bit.ly\/HfW2j",
   "id" : 2261306269,
   "created_at" : "2009-06-21 00:00:00 +0000",
   "user" : {
@@ -186,12 +186,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -208,12 +208,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -222,7 +222,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2262015624",
-  "text" : "Tonight in Tehran - A very chilling video.  http://bit.ly/5ytws",
+  "text" : "Tonight in Tehran - A very chilling video.  http:\/\/bit.ly\/5ytws",
   "id" : 2262015624,
   "created_at" : "2009-06-21 00:00:00 +0000",
   "user" : {
@@ -230,12 +230,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jim Sciutto",
@@ -258,12 +258,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -272,7 +272,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2271348965",
-  "text" : "Guardian Council: Over 100% voted in 50 cities  http://bit.ly/LAQib",
+  "text" : "Guardian Council: Over 100% voted in 50 cities  http:\/\/bit.ly\/LAQib",
   "id" : 2271348965,
   "created_at" : "2009-06-21 00:00:00 +0000",
   "user" : {
@@ -280,12 +280,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -294,7 +294,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2271591525",
-  "text" : "Protesters trade rocks with police, and then run them away.  http://bit.ly/kbaSa",
+  "text" : "Protesters trade rocks with police, and then run them away.  http:\/\/bit.ly\/kbaSa",
   "id" : 2271591525,
   "created_at" : "2009-06-21 00:00:00 +0000",
   "user" : {
@@ -302,7 +302,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -324,12 +324,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -338,7 +338,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2257253909",
-  "text" : "Very good Op-Ed in NY Times Roger Cohen, in Iran, filed after today's major activity it seems.  http://bit.ly/s3h2n",
+  "text" : "Very good Op-Ed in NY Times Roger Cohen, in Iran, filed after today's major activity it seems.  http:\/\/bit.ly\/s3h2n",
   "id" : 2257253909,
   "created_at" : "2009-06-20 00:00:00 +0000",
   "user" : {
@@ -346,12 +346,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Iranian Student",
@@ -374,12 +374,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -388,7 +388,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2247730590",
-  "text" : "Enghelab Square of Tehran [image]  http://bit.ly/TeANT",
+  "text" : "Enghelab Square of Tehran [image]  http:\/\/bit.ly\/TeANT",
   "id" : 2247730590,
   "created_at" : "2009-06-20 00:00:00 +0000",
   "user" : {
@@ -396,12 +396,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -410,7 +410,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2247753351",
-  "text" : "Children in the Revolution - 1979  http://bit.ly/13i92v",
+  "text" : "Children in the Revolution - 1979  http:\/\/bit.ly\/13i92v",
   "id" : 2247753351,
   "created_at" : "2009-06-20 00:00:00 +0000",
   "user" : {
@@ -418,12 +418,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -432,7 +432,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2247862166",
-  "text" : "Remembering 1979- \"All these people died for what they believed in .... We all lost because THEY WERE ALL IRANIANS.\" http://bit.ly/es8Ua",
+  "text" : "Remembering 1979- \"All these people died for what they believed in .... We all lost because THEY WERE ALL IRANIANS.\" http:\/\/bit.ly\/es8Ua",
   "id" : 2247862166,
   "created_at" : "2009-06-20 00:00:00 +0000",
   "user" : {
@@ -440,12 +440,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -462,12 +462,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -476,7 +476,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2248000205",
-  "text" : "Absolutely AMAZING photographs from 1979 Revolution and 8 Years War. Jahangir Razmi.  http://bit.ly/135ZsH",
+  "text" : "Absolutely AMAZING photographs from 1979 Revolution and 8 Years War. Jahangir Razmi.  http:\/\/bit.ly\/135ZsH",
   "id" : 2248000205,
   "created_at" : "2009-06-20 00:00:00 +0000",
   "user" : {
@@ -484,12 +484,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -498,7 +498,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2248263230",
-  "text" : "Most retweeted image today: \"First they ignore you, then they ridicule you, then they fight you, then you win.\" Ghandi http://bit.ly/Twsq8",
+  "text" : "Most retweeted image today: \"First they ignore you, then they ridicule you, then they fight you, then you win.\" Ghandi http:\/\/bit.ly\/Twsq8",
   "id" : 2248263230,
   "created_at" : "2009-06-20 00:00:00 +0000",
   "user" : {
@@ -506,12 +506,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -520,7 +520,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2248288557",
-  "text" : "Another popular image today - \"Supporters\" being bussed in by Iran govt for Friday Prayers.  http://bit.ly/By1mq",
+  "text" : "Another popular image today - \"Supporters\" being bussed in by Iran govt for Friday Prayers.  http:\/\/bit.ly\/By1mq",
   "id" : 2248288557,
   "created_at" : "2009-06-20 00:00:00 +0000",
   "user" : {
@@ -528,12 +528,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -542,7 +542,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2248510433",
-  "text" : "\"This time the religious zealots are the ones holding power.\" More 1979 vs 2009 Analysis  http://bit.ly/18yJoC",
+  "text" : "\"This time the religious zealots are the ones holding power.\" More 1979 vs 2009 Analysis  http:\/\/bit.ly\/18yJoC",
   "id" : 2248510433,
   "created_at" : "2009-06-20 00:00:00 +0000",
   "user" : {
@@ -550,12 +550,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -564,7 +564,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2248578518",
-  "text" : "The Four Iran Scenarios and \"Basiji Hunting\"  http://bit.ly/um67b",
+  "text" : "The Four Iran Scenarios and \"Basiji Hunting\"  http:\/\/bit.ly\/um67b",
   "id" : 2248578518,
   "created_at" : "2009-06-20 00:00:00 +0000",
   "user" : {
@@ -572,12 +572,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -594,12 +594,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "oxfordgirl",
@@ -622,12 +622,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -636,7 +636,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2248935366",
-  "text" : "Ha ha, part 5 is out - \"AutoTune the News 5: lettuce regulation. American blessings.\" http://bit.ly/Kli3L",
+  "text" : "Ha ha, part 5 is out - \"AutoTune the News 5: lettuce regulation. American blessings.\" http:\/\/bit.ly\/Kli3L",
   "id" : 2248935366,
   "created_at" : "2009-06-20 00:00:00 +0000",
   "user" : {
@@ -644,12 +644,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -666,12 +666,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jay Rosen ",
@@ -697,12 +697,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -722,12 +722,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Iran88",
@@ -750,7 +750,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -778,7 +778,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -792,7 +792,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2254953298",
-  "text" : "Iran-I-am \"I do not like green protest plans, they do not happen in Iran\". Cartoon http://bit.ly/QqXH4",
+  "text" : "Iran-I-am \"I do not like green protest plans, they do not happen in Iran\". Cartoon http:\/\/bit.ly\/QqXH4",
   "id" : 2254953298,
   "created_at" : "2009-06-20 00:00:00 +0000",
   "user" : {
@@ -800,7 +800,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -822,7 +822,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -836,7 +836,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2255137882",
-  "text" : "Very thorough writeup - \"Situation in Iran\", including the possibility of a group (NIR) fighting Besiji http://bit.ly/FRhKP",
+  "text" : "Very thorough writeup - \"Situation in Iran\", including the possibility of a group (NIR) fighting Besiji http:\/\/bit.ly\/FRhKP",
   "id" : 2255137882,
   "created_at" : "2009-06-20 00:00:00 +0000",
   "user" : {
@@ -844,7 +844,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -858,7 +858,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2255165680",
-  "text" : "Torrents to Iran election (protest/revolution) videos. http://bit.ly/6rm9K",
+  "text" : "Torrents to Iran election (protest\/revolution) videos. http:\/\/bit.ly\/6rm9K",
   "id" : 2255165680,
   "created_at" : "2009-06-20 00:00:00 +0000",
   "user" : {
@@ -866,7 +866,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -894,7 +894,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -916,7 +916,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -938,7 +938,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -966,7 +966,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -980,7 +980,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2255632579",
-  "text" : "I think Twitter as a tool to get info OUT of Iran has been more likely than as a tool to organize internally. http://bit.ly/vHnYh",
+  "text" : "I think Twitter as a tool to get info OUT of Iran has been more likely than as a tool to organize internally. http:\/\/bit.ly\/vHnYh",
   "id" : 2255632579,
   "created_at" : "2009-06-20 00:00:00 +0000",
   "user" : {
@@ -988,7 +988,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -1008,7 +1008,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2255745658",
-  "text" : "Amazing set of 24 images from Life (Amir Sadeghi) (via @ericloganvanman on FF) http://bit.ly/199RjM",
+  "text" : "Amazing set of 24 images from Life (Amir Sadeghi) (via @ericloganvanman on FF) http:\/\/bit.ly\/199RjM",
   "id" : 2255745658,
   "created_at" : "2009-06-20 00:00:00 +0000",
   "user" : {
@@ -1016,7 +1016,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -1030,7 +1030,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2256171759",
-  "text" : "Statement from the President on Iran http://bit.ly/z0Tbf",
+  "text" : "Statement from the President on Iran http:\/\/bit.ly\/z0Tbf",
   "id" : 2256171759,
   "created_at" : "2009-06-20 00:00:00 +0000",
   "user" : {
@@ -1038,12 +1038,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1060,12 +1060,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1082,12 +1082,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1096,7 +1096,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2232941085",
-  "text" : "NY Times on Mousavi. \u201CHe is committed to Islamic principles but has liberal aspirations.\u201D  http://bit.ly/11PTwO",
+  "text" : "NY Times on Mousavi. \u201CHe is committed to Islamic principles but has liberal aspirations.\u201D  http:\/\/bit.ly\/11PTwO",
   "id" : 2232941085,
   "created_at" : "2009-06-19 00:00:00 +0000",
   "user" : {
@@ -1104,12 +1104,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1118,7 +1118,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2232976606",
-  "text" : "Lol, asking Sec of Defense Gates and Admiral Mullen - \"Do either of you twitter yourselves.\" = priceless.  http://bit.ly/1nL3Sc",
+  "text" : "Lol, asking Sec of Defense Gates and Admiral Mullen - \"Do either of you twitter yourselves.\" = priceless.  http:\/\/bit.ly\/1nL3Sc",
   "id" : 2232976606,
   "created_at" : "2009-06-19 00:00:00 +0000",
   "user" : {
@@ -1126,12 +1126,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1140,7 +1140,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2233206329",
-  "text" : "Unconfirmed Guardian report says man who leaked real election numbers \"was killed in a suspicious car accident\". http://bit.ly/z50Ks",
+  "text" : "Unconfirmed Guardian report says man who leaked real election numbers \"was killed in a suspicious car accident\". http:\/\/bit.ly\/z50Ks",
   "id" : 2233206329,
   "created_at" : "2009-06-19 00:00:00 +0000",
   "user" : {
@@ -1148,12 +1148,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1162,7 +1162,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2233296952",
-  "text" : "Google Translate is now supporting Farsi -&gt; English translation. First phrase I tried worked out very well.  http://bit.ly/16YlMr",
+  "text" : "Google Translate is now supporting Farsi -&gt; English translation. First phrase I tried worked out very well.  http:\/\/bit.ly\/16YlMr",
   "id" : 2233296952,
   "created_at" : "2009-06-19 00:00:00 +0000",
   "user" : {
@@ -1170,12 +1170,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1192,12 +1192,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1206,7 +1206,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2233551355",
-  "text" : "\"Ayatollah Ali Khamenei, Iran\u2019s Supreme Leader, has told Mir Hossein Mousavi to stand beside him [at Friday Prayers]\"  http://bit.ly/kZBDX",
+  "text" : "\"Ayatollah Ali Khamenei, Iran\u2019s Supreme Leader, has told Mir Hossein Mousavi to stand beside him [at Friday Prayers]\"  http:\/\/bit.ly\/kZBDX",
   "id" : 2233551355,
   "created_at" : "2009-06-19 00:00:00 +0000",
   "user" : {
@@ -1214,12 +1214,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1236,12 +1236,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1258,12 +1258,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1283,12 +1283,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1308,12 +1308,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1322,7 +1322,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2234008431",
-  "text" : "\"it gets some legitimacy through Islam.  But, the government claims to get its legitimacy through the Iranian people.\"  http://bit.ly/3OvI6",
+  "text" : "\"it gets some legitimacy through Islam.  But, the government claims to get its legitimacy through the Iranian people.\"  http:\/\/bit.ly\/3OvI6",
   "id" : 2234008431,
   "created_at" : "2009-06-19 00:00:00 +0000",
   "user" : {
@@ -1330,12 +1330,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1352,12 +1352,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1366,7 +1366,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2234098621",
-  "text" : "Very interesting article- are things more organized than they seem? I've wondered about the \"where is my vote\" signs.  http://bit.ly/194rdz",
+  "text" : "Very interesting article- are things more organized than they seem? I've wondered about the \"where is my vote\" signs.  http:\/\/bit.ly\/194rdz",
   "id" : 2234098621,
   "created_at" : "2009-06-19 00:00:00 +0000",
   "user" : {
@@ -1374,12 +1374,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1388,7 +1388,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2234134007",
-  "text" : "It's easy to misread actual sentiment when we don't speak, read, feel Farsi. We have no idea what will happen.  http://bit.ly/BGOLk",
+  "text" : "It's easy to misread actual sentiment when we don't speak, read, feel Farsi. We have no idea what will happen.  http:\/\/bit.ly\/BGOLk",
   "id" : 2234134007,
   "created_at" : "2009-06-19 00:00:00 +0000",
   "user" : {
@@ -1396,12 +1396,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1410,7 +1410,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2234173429",
-  "text" : "Unfathomably Scary- \"Shadowy Iranian Vigilantes Vow Bolder Action\"  http://bit.ly/xsNbv",
+  "text" : "Unfathomably Scary- \"Shadowy Iranian Vigilantes Vow Bolder Action\"  http:\/\/bit.ly\/xsNbv",
   "id" : 2234173429,
   "created_at" : "2009-06-19 00:00:00 +0000",
   "user" : {
@@ -1418,12 +1418,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1432,7 +1432,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2234259348",
-  "text" : "RT From Iran: Turnouts of more than 100% were recorded in at least 30 Iranian towns. http://bit.ly/stXgs",
+  "text" : "RT From Iran: Turnouts of more than 100% were recorded in at least 30 Iranian towns. http:\/\/bit.ly\/stXgs",
   "id" : 2234259348,
   "created_at" : "2009-06-19 00:00:00 +0000",
   "user" : {
@@ -1440,12 +1440,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1454,7 +1454,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2234288682",
-  "text" : "Popular Iranian singer performing Ey Iran, a popular \"anthem\" of Iran before the revolution. http://bit.ly/puPs5",
+  "text" : "Popular Iranian singer performing Ey Iran, a popular \"anthem\" of Iran before the revolution. http:\/\/bit.ly\/puPs5",
   "id" : 2234288682,
   "created_at" : "2009-06-19 00:00:00 +0000",
   "user" : {
@@ -1462,7 +1462,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -1476,7 +1476,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2237975160",
-  "text" : "Transcript of Ayatollah Khamenei's Friday Speech (Translated in English) \nhttp://bit.ly/387QS",
+  "text" : "Transcript of Ayatollah Khamenei's Friday Speech (Translated in English) \nhttp:\/\/bit.ly\/387QS",
   "id" : 2237975160,
   "created_at" : "2009-06-19 00:00:00 +0000",
   "user" : {
@@ -1484,7 +1484,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -1518,7 +1518,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -1532,7 +1532,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2238111802",
-  "text" : "Ayatollah Khamenei's Speech Gives Legitimacy to Police Brutality, Charges Amnesty International http://bit.ly/uGM5F",
+  "text" : "Ayatollah Khamenei's Speech Gives Legitimacy to Police Brutality, Charges Amnesty International http:\/\/bit.ly\/uGM5F",
   "id" : 2238111802,
   "created_at" : "2009-06-19 00:00:00 +0000",
   "user" : {
@@ -1540,12 +1540,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1562,12 +1562,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Stephanie Felt",
@@ -1593,12 +1593,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Daniel Schorr",
@@ -1613,7 +1613,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2216397860",
-  "text" : "I like @danielschorr's commentary. Whether it be on Twitter in Iran or anything else.  http://bit.ly/19YuOr",
+  "text" : "I like @danielschorr's commentary. Whether it be on Twitter in Iran or anything else.  http:\/\/bit.ly\/19YuOr",
   "id" : 2216397860,
   "created_at" : "2009-06-18 00:00:00 +0000",
   "user" : {
@@ -1621,12 +1621,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -1641,7 +1641,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2216690306",
-  "text" : "How Do You Know What Tweets are True? Exactly the Same Way You Source Everything Else (via @davewiner)  http://bit.ly/LDlEq",
+  "text" : "How Do You Know What Tweets are True? Exactly the Same Way You Source Everything Else (via @davewiner)  http:\/\/bit.ly\/LDlEq",
   "id" : 2216690306,
   "created_at" : "2009-06-18 00:00:00 +0000",
   "user" : {
@@ -1649,12 +1649,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1663,7 +1663,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2216710681",
-  "text" : "I like the \"Fermi Problem\" explanation in that last one. http://bit.ly/ex88X",
+  "text" : "I like the \"Fermi Problem\" explanation in that last one. http:\/\/bit.ly\/ex88X",
   "id" : 2216710681,
   "created_at" : "2009-06-18 00:00:00 +0000",
   "user" : {
@@ -1671,12 +1671,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1685,7 +1685,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2216808560",
-  "text" : "Time approaches Twitter in Iran and provides a completely useless article. 1/2 Misses the point, 1/2 doesn't matter. http://bit.ly/140hWD",
+  "text" : "Time approaches Twitter in Iran and provides a completely useless article. 1\/2 Misses the point, 1\/2 doesn't matter. http:\/\/bit.ly\/140hWD",
   "id" : 2216808560,
   "created_at" : "2009-06-18 00:00:00 +0000",
   "user" : {
@@ -1693,12 +1693,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -1724,12 +1724,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1738,7 +1738,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2216913206",
-  "text" : "Tehran Live has some great photos from today's silent protests.  http://bit.ly/otOGp",
+  "text" : "Tehran Live has some great photos from today's silent protests.  http:\/\/bit.ly\/otOGp",
   "id" : 2216913206,
   "created_at" : "2009-06-18 00:00:00 +0000",
   "user" : {
@@ -1746,12 +1746,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1760,7 +1760,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2217044943",
-  "text" : "More from Robert Fisk in Iran. He has some wonderful stuff.  http://bit.ly/61DzX",
+  "text" : "More from Robert Fisk in Iran. He has some wonderful stuff.  http:\/\/bit.ly\/61DzX",
   "id" : 2217044943,
   "created_at" : "2009-06-18 00:00:00 +0000",
   "user" : {
@@ -1768,12 +1768,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1782,7 +1782,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2217419748",
-  "text" : "\u201CMy elementary school mate\u201D - A theme song for revolution. Good one too.  http://bit.ly/NJ2Zn",
+  "text" : "\u201CMy elementary school mate\u201D - A theme song for revolution. Good one too.  http:\/\/bit.ly\/NJ2Zn",
   "id" : 2217419748,
   "created_at" : "2009-06-18 00:00:00 +0000",
   "user" : {
@@ -1790,12 +1790,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1812,12 +1812,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1834,12 +1834,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1856,12 +1856,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1870,7 +1870,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2217828197",
-  "text" : "My 40 most recent links page. http://toptwit.com/jeremyfelt",
+  "text" : "My 40 most recent links page. http:\/\/toptwit.com\/jeremyfelt",
   "id" : 2217828197,
   "created_at" : "2009-06-18 00:00:00 +0000",
   "user" : {
@@ -1878,12 +1878,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1892,7 +1892,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2218016948",
-  "text" : "Ahmadinejad loves football. He must have been upset to see that his football team doesn't love him.  http://bit.ly/SohEM",
+  "text" : "Ahmadinejad loves football. He must have been upset to see that his football team doesn't love him.  http:\/\/bit.ly\/SohEM",
   "id" : 2218016948,
   "created_at" : "2009-06-18 00:00:00 +0000",
   "user" : {
@@ -1900,12 +1900,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1914,7 +1914,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2218035126",
-  "text" : "RT myself b/c this song has been on repeat - \u201CMy elementary school mate\u201D - A theme song for revolution. Good one too.  http://bit.ly/NJ2Zn",
+  "text" : "RT myself b\/c this song has been on repeat - \u201CMy elementary school mate\u201D - A theme song for revolution. Good one too.  http:\/\/bit.ly\/NJ2Zn",
   "id" : 2218035126,
   "created_at" : "2009-06-18 00:00:00 +0000",
   "user" : {
@@ -1922,12 +1922,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1936,7 +1936,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2218151886",
-  "text" : "Baby Racoon - The Brave One http://post.ly/sWR",
+  "text" : "Baby Racoon - The Brave One http:\/\/post.ly\/sWR",
   "id" : 2218151886,
   "created_at" : "2009-06-18 00:00:00 +0000",
   "user" : {
@@ -1944,12 +1944,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1958,7 +1958,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2218167497",
-  "text" : "Baby Racoon - The Scared One http://post.ly/sWS",
+  "text" : "Baby Racoon - The Scared One http:\/\/post.ly\/sWS",
   "id" : 2218167497,
   "created_at" : "2009-06-18 00:00:00 +0000",
   "user" : {
@@ -1966,7 +1966,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -1980,7 +1980,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2221960957",
-  "text" : "\"Iran 101: Understanding the unrest\" - Good rundown by CNN. http://bit.ly/JSA8h",
+  "text" : "\"Iran 101: Understanding the unrest\" - Good rundown by CNN. http:\/\/bit.ly\/JSA8h",
   "id" : 2221960957,
   "created_at" : "2009-06-18 00:00:00 +0000",
   "user" : {
@@ -1988,7 +1988,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -2002,7 +2002,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2226074212",
-  "text" : "One of the top pictures related to Iran today - a political cartoon starring the Twitter by John Cole. http://bit.ly/SkNnt",
+  "text" : "One of the top pictures related to Iran today - a political cartoon starring the Twitter by John Cole. http:\/\/bit.ly\/SkNnt",
   "id" : 2226074212,
   "created_at" : "2009-06-18 00:00:00 +0000",
   "user" : {
@@ -2010,7 +2010,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -2024,7 +2024,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2226104720",
-  "text" : "Another popular picture - Mehdi Karoobi, one of the reform candidates, stands on a car above the crowd today in Iran. http://bit.ly/S830K",
+  "text" : "Another popular picture - Mehdi Karoobi, one of the reform candidates, stands on a car above the crowd today in Iran. http:\/\/bit.ly\/S830K",
   "id" : 2226104720,
   "created_at" : "2009-06-18 00:00:00 +0000",
   "user" : {
@@ -2032,7 +2032,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -2046,7 +2046,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2226586002",
-  "text" : "Congressman Compares The Plight Of Iranians To GOP On Twitter, Sticks Foot In Mouth http://bit.ly/5gEiA",
+  "text" : "Congressman Compares The Plight Of Iranians To GOP On Twitter, Sticks Foot In Mouth http:\/\/bit.ly\/5gEiA",
   "id" : 2226586002,
   "created_at" : "2009-06-18 00:00:00 +0000",
   "user" : {
@@ -2054,12 +2054,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2068,7 +2068,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2200054620",
-  "text" : "The Speed Counters of Iran \u2013 40 million votes in 12 hours (More possible than I thought) http://bit.ly/VUSNY",
+  "text" : "The Speed Counters of Iran \u2013 40 million votes in 12 hours (More possible than I thought) http:\/\/bit.ly\/VUSNY",
   "id" : 2200054620,
   "created_at" : "2009-06-17 00:00:00 +0000",
   "user" : {
@@ -2076,12 +2076,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2090,7 +2090,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2200542678",
-  "text" : "The Participants In Iran \u2013 Where Do 40 Million Votes Come From? http://bit.ly/tHZVE",
+  "text" : "The Participants In Iran \u2013 Where Do 40 Million Votes Come From? http:\/\/bit.ly\/tHZVE",
   "id" : 2200542678,
   "created_at" : "2009-06-17 00:00:00 +0000",
   "user" : {
@@ -2098,12 +2098,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2112,7 +2112,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2200881051",
-  "text" : "Last episode of 24 on the treadmill. What to use for motivation now? http://post.ly/roG",
+  "text" : "Last episode of 24 on the treadmill. What to use for motivation now? http:\/\/post.ly\/roG",
   "id" : 2200881051,
   "created_at" : "2009-06-17 00:00:00 +0000",
   "user" : {
@@ -2120,12 +2120,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2142,12 +2142,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "CS Politics",
@@ -2170,12 +2170,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2184,7 +2184,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2202483356",
-  "text" : "Great essay by Iranian born in 1984 on what this means to them. http://bit.ly/TLwJD",
+  "text" : "Great essay by Iranian born in 1984 on what this means to them. http:\/\/bit.ly\/TLwJD",
   "id" : 2202483356,
   "created_at" : "2009-06-17 00:00:00 +0000",
   "user" : {
@@ -2192,12 +2192,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2206,7 +2206,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2202578356",
-  "text" : "Iran's senior ayatollah slams election, confirming split. http://bit.ly/3x6ans",
+  "text" : "Iran's senior ayatollah slams election, confirming split. http:\/\/bit.ly\/3x6ans",
   "id" : 2202578356,
   "created_at" : "2009-06-17 00:00:00 +0000",
   "user" : {
@@ -2214,12 +2214,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2228,7 +2228,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2202616807",
-  "text" : "Powerful stuff -  \"in front of the eyes of the same nation who carried the weight of a revolution and 8 years of war\" http://bit.ly/B5b9r",
+  "text" : "Powerful stuff -  \"in front of the eyes of the same nation who carried the weight of a revolution and 8 years of war\" http:\/\/bit.ly\/B5b9r",
   "id" : 2202616807,
   "created_at" : "2009-06-17 00:00:00 +0000",
   "user" : {
@@ -2236,12 +2236,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2258,7 +2258,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -2280,7 +2280,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -2294,7 +2294,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2212053532",
-  "text" : "Some great images on flickr of protests in Iran. http://bit.ly/x8iAa",
+  "text" : "Some great images on flickr of protests in Iran. http:\/\/bit.ly\/x8iAa",
   "id" : 2212053532,
   "created_at" : "2009-06-17 00:00:00 +0000",
   "user" : {
@@ -2302,7 +2302,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -2316,7 +2316,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2212441271",
-  "text" : "Stats showing number of videos, tweets, blogs related to Iran the last several days. Amazing output. http://bit.ly/184XKY",
+  "text" : "Stats showing number of videos, tweets, blogs related to Iran the last several days. Amazing output. http:\/\/bit.ly\/184XKY",
   "id" : 2212441271,
   "created_at" : "2009-06-17 00:00:00 +0000",
   "user" : {
@@ -2324,7 +2324,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -2338,7 +2338,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2212540408",
-  "text" : "One week press visas expiring, but the AP, BBC, NBC, and NY Times have resident reporters. At least it won't go dark. http://bit.ly/5ZdNI",
+  "text" : "One week press visas expiring, but the AP, BBC, NBC, and NY Times have resident reporters. At least it won't go dark. http:\/\/bit.ly\/5ZdNI",
   "id" : 2212540408,
   "created_at" : "2009-06-17 00:00:00 +0000",
   "user" : {
@@ -2346,7 +2346,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -2360,7 +2360,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2212630121",
-  "text" : "1979- \"army refused to fire on demonstrators.\" 2009- \"Fear has gone in a land that has tasted freedom.\" http://bit.ly/DlBXt",
+  "text" : "1979- \"army refused to fire on demonstrators.\" 2009- \"Fear has gone in a land that has tasted freedom.\" http:\/\/bit.ly\/DlBXt",
   "id" : 2212630121,
   "created_at" : "2009-06-17 00:00:00 +0000",
   "user" : {
@@ -2368,12 +2368,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2390,12 +2390,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jay Rosen ",
@@ -2410,7 +2410,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2196600926",
-  "text" : "NY Times Executive Editor Bill Keller in Iran: 'The Iranians Watch Us Closely'  (via @jayrosen_nyu) http://bit.ly/N1C9k",
+  "text" : "NY Times Executive Editor Bill Keller in Iran: 'The Iranians Watch Us Closely'  (via @jayrosen_nyu) http:\/\/bit.ly\/N1C9k",
   "id" : 2196600926,
   "created_at" : "2009-06-16 00:00:00 +0000",
   "user" : {
@@ -2418,12 +2418,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Loic Le Meur",
@@ -2446,12 +2446,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Neil Gorman",
@@ -2477,12 +2477,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2499,12 +2499,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2513,7 +2513,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2196831759",
-  "text" : "An apparent Basiji reaction taken Akbar Alami's house. He was applied for candidacy this year but was not approved.  http://bit.ly/aevDY",
+  "text" : "An apparent Basiji reaction taken Akbar Alami's house. He was applied for candidacy this year but was not approved.  http:\/\/bit.ly\/aevDY",
   "id" : 2196831759,
   "created_at" : "2009-06-16 00:00:00 +0000",
   "user" : {
@@ -2521,12 +2521,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2546,12 +2546,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2560,7 +2560,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2197111711",
-  "text" : "Who Controls Iran's Military And How Big Is It? [Andrew Sullivan] http://bit.ly/AjRTX",
+  "text" : "Who Controls Iran's Military And How Big Is It? [Andrew Sullivan] http:\/\/bit.ly\/AjRTX",
   "id" : 2197111711,
   "created_at" : "2009-06-16 00:00:00 +0000",
   "user" : {
@@ -2568,12 +2568,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2582,7 +2582,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2197755299",
-  "text" : "Wow, talk about a river.  Tweettabs is cool!  http://bit.ly/gKTNg",
+  "text" : "Wow, talk about a river.  Tweettabs is cool!  http:\/\/bit.ly\/gKTNg",
   "id" : 2197755299,
   "created_at" : "2009-06-16 00:00:00 +0000",
   "user" : {
@@ -2590,12 +2590,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -2624,12 +2624,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "CS Politics",
@@ -2644,7 +2644,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2197878216",
-  "text" : "Nighttime Terror in Iran  [youtube] via @iranelection09 http://bit.ly/SLK5N",
+  "text" : "Nighttime Terror in Iran  [youtube] via @iranelection09 http:\/\/bit.ly\/SLK5N",
   "id" : 2197878216,
   "created_at" : "2009-06-16 00:00:00 +0000",
   "user" : {
@@ -2652,7 +2652,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -2666,7 +2666,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2197971292",
-  "text" : "I like this quote from Senator Lugar - \"When popular revolutions occur, they come right from the people.\" http://bit.ly/dGAh9",
+  "text" : "I like this quote from Senator Lugar - \"When popular revolutions occur, they come right from the people.\" http:\/\/bit.ly\/dGAh9",
   "id" : 2197971292,
   "created_at" : "2009-06-16 00:00:00 +0000",
   "user" : {
@@ -2674,7 +2674,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -2696,7 +2696,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -2718,12 +2718,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Spam Watch",
@@ -2755,12 +2755,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2780,12 +2780,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2794,7 +2794,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2186514476",
-  "text" : "President Obama's Statement On Iranian Presidential Election (youtube) http://tr.im/oC18",
+  "text" : "President Obama's Statement On Iranian Presidential Election (youtube) http:\/\/tr.im\/oC18",
   "id" : 2186514476,
   "created_at" : "2009-06-16 00:00:00 +0000",
   "user" : {
@@ -2802,12 +2802,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -2828,7 +2828,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2186689124",
-  "text" : "Listening to @davewiner and @jayrosen_nyu as they do Reboot the News 13. Good stuff. http://tr.im/oC5f",
+  "text" : "Listening to @davewiner and @jayrosen_nyu as they do Reboot the News 13. Good stuff. http:\/\/tr.im\/oC5f",
   "id" : 2186689124,
   "created_at" : "2009-06-16 00:00:00 +0000",
   "user" : {
@@ -2836,12 +2836,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Louis Gray",
@@ -2856,7 +2856,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2186857930",
-  "text" : "Good stuff by @louisgray - We refused to use old media, but get angry when they aren't the first and best to cover? http://tr.im/oC9d",
+  "text" : "Good stuff by @louisgray - We refused to use old media, but get angry when they aren't the first and best to cover? http:\/\/tr.im\/oC9d",
   "id" : 2186857930,
   "created_at" : "2009-06-16 00:00:00 +0000",
   "user" : {
@@ -2864,12 +2864,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2878,7 +2878,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2187037041",
-  "text" : "Iranian Politics 101: The Graphic Version - http://tr.im/oCdR",
+  "text" : "Iranian Politics 101: The Graphic Version - http:\/\/tr.im\/oCdR",
   "id" : 2187037041,
   "created_at" : "2009-06-16 00:00:00 +0000",
   "user" : {
@@ -2886,7 +2886,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -2900,7 +2900,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2192233346",
-  "text" : "Iran bars foreign media from reporting on streets. http://tr.im/oF6b",
+  "text" : "Iran bars foreign media from reporting on streets. http:\/\/tr.im\/oF6b",
   "id" : 2192233346,
   "created_at" : "2009-06-16 00:00:00 +0000",
   "user" : {
@@ -2908,7 +2908,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -2939,7 +2939,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -2961,7 +2961,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -2981,7 +2981,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2194070138",
-  "text" : "Useful Info From BoingBoing for those following Iran (via @neilhimself) http://tr.im/oGj0",
+  "text" : "Useful Info From BoingBoing for those following Iran (via @neilhimself) http:\/\/tr.im\/oGj0",
   "id" : 2194070138,
   "created_at" : "2009-06-16 00:00:00 +0000",
   "user" : {
@@ -2989,7 +2989,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -3017,7 +3017,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -3048,7 +3048,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -3062,7 +3062,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2194465748",
-  "text" : "Seesmic has a new release coming! I've been waiting for something that lets me login to trim or bitly. http://tr.im/oGwI",
+  "text" : "Seesmic has a new release coming! I've been waiting for something that lets me login to trim or bitly. http:\/\/tr.im\/oGwI",
   "id" : 2194465748,
   "created_at" : "2009-06-16 00:00:00 +0000",
   "user" : {
@@ -3070,12 +3070,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Neil Gorman",
@@ -3101,12 +3101,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Neil Gorman",
@@ -3132,12 +3132,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Neil Gorman",
@@ -3163,12 +3163,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3185,12 +3185,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3199,7 +3199,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2173591508",
-  "text" : "Great stuff at the Independent by Robert Fisk - Iran erupts as voters back 'the Democrator' http://tr.im/ouYX",
+  "text" : "Great stuff at the Independent by Robert Fisk - Iran erupts as voters back 'the Democrator' http:\/\/tr.im\/ouYX",
   "id" : 2173591508,
   "created_at" : "2009-06-15 00:00:00 +0000",
   "user" : {
@@ -3207,12 +3207,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Mitch Benn",
@@ -3247,12 +3247,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Raymond Jahan",
@@ -3267,7 +3267,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2173697470",
-  "text" : "(via @stopahmadi) Opposition is using tools like BWRaeper http://tr.im/ov12 to perform mini DOS attacks on official .ir sites.",
+  "text" : "(via @stopahmadi) Opposition is using tools like BWRaeper http:\/\/tr.im\/ov12 to perform mini DOS attacks on official .ir sites.",
   "id" : 2173697470,
   "created_at" : "2009-06-15 00:00:00 +0000",
   "user" : {
@@ -3275,12 +3275,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3289,7 +3289,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2173884491",
-  "text" : "Very good BBC report from John Simpson (BBC News) in Tehran. http://tr.im/ov5l",
+  "text" : "Very good BBC report from John Simpson (BBC News) in Tehran. http:\/\/tr.im\/ov5l",
   "id" : 2173884491,
   "created_at" : "2009-06-15 00:00:00 +0000",
   "user" : {
@@ -3297,12 +3297,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3311,7 +3311,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2173924984",
-  "text" : "So what exactly is an Islamic Republic? Theocracy and a Republic, but with Theocracy just that much more important. http://tr.im/ov6b",
+  "text" : "So what exactly is an Islamic Republic? Theocracy and a Republic, but with Theocracy just that much more important. http:\/\/tr.im\/ov6b",
   "id" : 2173924984,
   "created_at" : "2009-06-15 00:00:00 +0000",
   "user" : {
@@ -3319,12 +3319,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "jadi",
@@ -3347,12 +3347,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3369,12 +3369,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3383,7 +3383,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2174117395",
-  "text" : "Message from Mousavi, under supposed \"unforced\" house arrest, stay in the streets, avoid violence. http://tr.im/ov9Z",
+  "text" : "Message from Mousavi, under supposed \"unforced\" house arrest, stay in the streets, avoid violence. http:\/\/tr.im\/ov9Z",
   "id" : 2174117395,
   "created_at" : "2009-06-15 00:00:00 +0000",
   "user" : {
@@ -3391,12 +3391,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3405,7 +3405,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2174143893",
-  "text" : "Reason for hired Hezbollah - \"Hezbollah arabs brought in to do to the citizens what a Persian cop would refuse to do.\" http://tr.im/ovaK",
+  "text" : "Reason for hired Hezbollah - \"Hezbollah arabs brought in to do to the citizens what a Persian cop would refuse to do.\" http:\/\/tr.im\/ovaK",
   "id" : 2174143893,
   "created_at" : "2009-06-15 00:00:00 +0000",
   "user" : {
@@ -3413,12 +3413,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3427,7 +3427,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2174170317",
-  "text" : "Amazing protest photographs over at The Globe And Mail. http://tr.im/ovbx",
+  "text" : "Amazing protest photographs over at The Globe And Mail. http:\/\/tr.im\/ovbx",
   "id" : 2174170317,
   "created_at" : "2009-06-15 00:00:00 +0000",
   "user" : {
@@ -3435,12 +3435,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3449,7 +3449,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2174210713",
-  "text" : "The Iranian (Islamic) Revolution of 1979. http://tr.im/ovcv",
+  "text" : "The Iranian (Islamic) Revolution of 1979. http:\/\/tr.im\/ovcv",
   "id" : 2174210713,
   "created_at" : "2009-06-15 00:00:00 +0000",
   "user" : {
@@ -3457,12 +3457,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3479,7 +3479,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -3493,7 +3493,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2179000275",
-  "text" : "NYTimes has a large Getty image of Moussavi on the car amidst the crowd. http://tr.im/oy9A",
+  "text" : "NYTimes has a large Getty image of Moussavi on the car amidst the crowd. http:\/\/tr.im\/oy9A",
   "id" : 2179000275,
   "created_at" : "2009-06-15 00:00:00 +0000",
   "user" : {
@@ -3501,7 +3501,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -3518,7 +3518,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2179327123",
-  "text" : "Wow, that's a turnout. RT @madyarhttp://twitpic.com/7gx1x - Iran / Tehran / TODAY / Ahmadinejad is not my president #IranElection",
+  "text" : "Wow, that's a turnout. RT @madyarhttp:\/\/twitpic.com\/7gx1x - Iran \/ Tehran \/ TODAY \/ Ahmadinejad is not my president #IranElection",
   "id" : 2179327123,
   "created_at" : "2009-06-15 00:00:00 +0000",
   "user" : {
@@ -3526,7 +3526,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -3540,7 +3540,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2179379480",
-  "text" : "Good writeup. Gather info, pay attention, don't assume. - \"Follow The Developments In Iran Like A CIA Analyst\" http://tr.im/oyoy",
+  "text" : "Good writeup. Gather info, pay attention, don't assume. - \"Follow The Developments In Iran Like A CIA Analyst\" http:\/\/tr.im\/oyoy",
   "id" : 2179379480,
   "created_at" : "2009-06-15 00:00:00 +0000",
   "user" : {
@@ -3548,7 +3548,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -3571,7 +3571,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2180649587",
-  "text" : "That's a cool picture. RT @StopAhmadi Today in Tehran - large pic http://twitpic.com/7h3r5/full #iranelection",
+  "text" : "That's a cool picture. RT @StopAhmadi Today in Tehran - large pic http:\/\/twitpic.com\/7h3r5\/full #iranelection",
   "id" : 2180649587,
   "created_at" : "2009-06-15 00:00:00 +0000",
   "user" : {
@@ -3579,7 +3579,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -3619,7 +3619,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -3639,7 +3639,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2181991938",
-  "text" : "Huge Rally in Support Of Mousavi, Tehran (via @iranriggedelect) http://bit.ly/t4Bpm",
+  "text" : "Huge Rally in Support Of Mousavi, Tehran (via @iranriggedelect) http:\/\/bit.ly\/t4Bpm",
   "id" : 2181991938,
   "created_at" : "2009-06-15 00:00:00 +0000",
   "user" : {
@@ -3647,7 +3647,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -3661,7 +3661,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2182098306",
-  "text" : "The Boston Globe has one of the best groupings of photos taken in Tehran so far. Amazing, terrifying stuff. http://tr.im/ozVN",
+  "text" : "The Boston Globe has one of the best groupings of photos taken in Tehran so far. Amazing, terrifying stuff. http:\/\/tr.im\/ozVN",
   "id" : 2182098306,
   "created_at" : "2009-06-15 00:00:00 +0000",
   "user" : {
@@ -3669,7 +3669,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -3683,7 +3683,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2182157751",
-  "text" : "The Basij that appear to be carrying out the worst violence are militia that get orders from the IRGC. Lots of history. http://tr.im/ozX9",
+  "text" : "The Basij that appear to be carrying out the worst violence are militia that get orders from the IRGC. Lots of history. http:\/\/tr.im\/ozX9",
   "id" : 2182157751,
   "created_at" : "2009-06-15 00:00:00 +0000",
   "user" : {
@@ -3691,7 +3691,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -3713,7 +3713,7 @@ Grailbird.data.tweets_2009_06 =
   "geo" : { },
   "id_str" : "2182357182",
   "in_reply_to_user_id" : 14515799,
-  "text" : "@brianstelter A List of News sources on Iran (mostly twitter) http://tr.im/osCm",
+  "text" : "@brianstelter A List of News sources on Iran (mostly twitter) http:\/\/tr.im\/osCm",
   "id" : 2182357182,
   "in_reply_to_status_id" : 2182306693,
   "created_at" : "2009-06-15 00:00:00 +0000",
@@ -3724,7 +3724,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -3773,7 +3773,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -3801,7 +3801,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -3829,7 +3829,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -3849,7 +3849,7 @@ Grailbird.data.tweets_2009_06 =
       "id_str" : "13",
       "id" : 13
     }, {
-      "name" : "Alex Payne",
+      "name" : "\u2620 Unending Payne \u2620",
       "screen_name" : "al3x",
       "indices" : [ 9, 14 ],
       "id_str" : "18713",
@@ -3878,7 +3878,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -3909,7 +3909,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -3934,7 +3934,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -3942,7 +3942,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne",
+      "name" : "\u2620 Unending Payne \u2620",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -3968,7 +3968,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -3990,7 +3990,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -4007,7 +4007,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2183574599",
-  "text" : "Intense video footage from Iran. #iranelection http://tr.im/oAJ2",
+  "text" : "Intense video footage from Iran. #iranelection http:\/\/tr.im\/oAJ2",
   "id" : 2183574599,
   "created_at" : "2009-06-15 00:00:00 +0000",
   "user" : {
@@ -4015,7 +4015,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -4023,7 +4023,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne",
+      "name" : "\u2620 Unending Payne \u2620",
       "screen_name" : "al3x",
       "indices" : [ 9, 14 ],
       "id_str" : "18713",
@@ -4043,7 +4043,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -4065,12 +4065,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4087,12 +4087,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Iran News Now",
@@ -4118,12 +4118,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "parinaz",
@@ -4149,12 +4149,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4163,7 +4163,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2173270402",
-  "text" : "Mousavi's people have setup a page on Google Sites to get around filtering in Iran. http://tr.im/ouSm",
+  "text" : "Mousavi's people have setup a page on Google Sites to get around filtering in Iran. http:\/\/tr.im\/ouSm",
   "id" : 2173270402,
   "created_at" : "2009-06-15 00:00:00 +0000",
   "user" : {
@@ -4171,12 +4171,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4185,7 +4185,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2173296805",
-  "text" : "It appears that Ansar (http://tr.im/ouSC) and Hezbollah may be working on behalf of the Iranian government against protesters.",
+  "text" : "It appears that Ansar (http:\/\/tr.im\/ouSC) and Hezbollah may be working on behalf of the Iranian government against protesters.",
   "id" : 2173296805,
   "created_at" : "2009-06-15 00:00:00 +0000",
   "user" : {
@@ -4193,12 +4193,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Iranian Student",
@@ -4221,12 +4221,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4235,7 +4235,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2173329788",
-  "text" : "Repeating this once more. MSM is either failing or has been sufficiently shut down by Iranian gov. Twitter News Sources. http://tr.im/osCm",
+  "text" : "Repeating this once more. MSM is either failing or has been sufficiently shut down by Iranian gov. Twitter News Sources. http:\/\/tr.im\/osCm",
   "id" : 2173329788,
   "created_at" : "2009-06-15 00:00:00 +0000",
   "user" : {
@@ -4243,12 +4243,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4257,7 +4257,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2173382269",
-  "text" : "Pictures from \"18 tir\", the 07/09/1999 protests in Iran. http://tr.im/ouUa",
+  "text" : "Pictures from \"18 tir\", the 07\/09\/1999 protests in Iran. http:\/\/tr.im\/ouUa",
   "id" : 2173382269,
   "created_at" : "2009-06-15 00:00:00 +0000",
   "user" : {
@@ -4265,12 +4265,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4287,12 +4287,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4309,12 +4309,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4323,7 +4323,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2161754260",
-  "text" : "[results], millions at a time -- poured in almost immediately from a huge turnout of about 85 percent of Iran's [voters] http://tr.im/oqmO",
+  "text" : "[results], millions at a time -- poured in almost immediately from a huge turnout of about 85 percent of Iran's [voters] http:\/\/tr.im\/oqmO",
   "id" : 2161754260,
   "created_at" : "2009-06-14 00:00:00 +0000",
   "user" : {
@@ -4331,12 +4331,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4345,7 +4345,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2161807577",
-  "text" : "\"If anyone approached the Interior Ministry ... the obvious site for a protest ..., the police had orders to shoot.\" http://tr.im/oqnC",
+  "text" : "\"If anyone approached the Interior Ministry ... the obvious site for a protest ..., the police had orders to shoot.\" http:\/\/tr.im\/oqnC",
   "id" : 2161807577,
   "created_at" : "2009-06-14 00:00:00 +0000",
   "user" : {
@@ -4353,12 +4353,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4367,7 +4367,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2161890619",
-  "text" : "Flickr Set - Iran Streets After Elections http://tr.im/oqpw",
+  "text" : "Flickr Set - Iran Streets After Elections http:\/\/tr.im\/oqpw",
   "id" : 2161890619,
   "created_at" : "2009-06-14 00:00:00 +0000",
   "user" : {
@@ -4375,12 +4375,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4389,7 +4389,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2161936800",
-  "text" : "NPR has the first Iran Election story in which I've seen reference to the possibility that Ahmadinejad really did win.  http://tr.im/oqpU",
+  "text" : "NPR has the first Iran Election story in which I've seen reference to the possibility that Ahmadinejad really did win.  http:\/\/tr.im\/oqpU",
   "id" : 2161936800,
   "created_at" : "2009-06-14 00:00:00 +0000",
   "user" : {
@@ -4397,12 +4397,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4411,7 +4411,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2161989549",
-  "text" : "Letter from Mousavi to the people of Iran. http://tr.im/oqr3",
+  "text" : "Letter from Mousavi to the people of Iran. http:\/\/tr.im\/oqr3",
   "id" : 2161989549,
   "created_at" : "2009-06-14 00:00:00 +0000",
   "user" : {
@@ -4419,12 +4419,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4441,12 +4441,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4455,7 +4455,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2162088841",
-  "text" : "Tension in Iran must be frightening. Police senselessly beating citizens changes the definition of acceptable behavior. http://tr.im/oqt5",
+  "text" : "Tension in Iran must be frightening. Police senselessly beating citizens changes the definition of acceptable behavior. http:\/\/tr.im\/oqt5",
   "id" : 2162088841,
   "created_at" : "2009-06-14 00:00:00 +0000",
   "user" : {
@@ -4463,12 +4463,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4477,7 +4477,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2162106434",
-  "text" : "At some point, the concept of considering \"should I retaliate\" ceases to exist. That's when it explodes. http://tr.im/oqtM",
+  "text" : "At some point, the concept of considering \"should I retaliate\" ceases to exist. That's when it explodes. http:\/\/tr.im\/oqtM",
   "id" : 2162106434,
   "created_at" : "2009-06-14 00:00:00 +0000",
   "user" : {
@@ -4485,12 +4485,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4499,7 +4499,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2162138366",
-  "text" : "Power in numbers. That's for sure. http://tr.im/oqul",
+  "text" : "Power in numbers. That's for sure. http:\/\/tr.im\/oqul",
   "id" : 2162138366,
   "created_at" : "2009-06-14 00:00:00 +0000",
   "user" : {
@@ -4507,12 +4507,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4529,12 +4529,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4543,7 +4543,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2162222089",
-  "text" : "niacINsight (blog) has a lot of material posted for the last few days regarding Iran. http://tr.im/oqw1",
+  "text" : "niacINsight (blog) has a lot of material posted for the last few days regarding Iran. http:\/\/tr.im\/oqw1",
   "id" : 2162222089,
   "created_at" : "2009-06-14 00:00:00 +0000",
   "user" : {
@@ -4551,12 +4551,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4565,7 +4565,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2162310009",
-  "text" : "Ahmadinejad will be celebrating at 5pm (IRDT), 7:30am CDT, in Valiasr square. [picture] http://tr.im/oqyg",
+  "text" : "Ahmadinejad will be celebrating at 5pm (IRDT), 7:30am CDT, in Valiasr square. [picture] http:\/\/tr.im\/oqyg",
   "id" : 2162310009,
   "created_at" : "2009-06-14 00:00:00 +0000",
   "user" : {
@@ -4573,12 +4573,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Iranian Student",
@@ -4606,12 +4606,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Iran",
@@ -4637,15 +4637,15 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Suntimes",
+      "name" : "Chicago Sun-Times",
       "screen_name" : "Suntimes",
       "indices" : [ 0, 9 ],
       "id_str" : "12811952",
@@ -4680,12 +4680,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4702,12 +4702,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Iranian Student",
@@ -4730,12 +4730,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4744,7 +4744,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2162621931",
-  "text" : "Isfahan University of Technology (http://tr.im/oqEj), one of the best engineering schools in Iran, was attacked. Students arrested, beaten.",
+  "text" : "Isfahan University of Technology (http:\/\/tr.im\/oqEj), one of the best engineering schools in Iran, was attacked. Students arrested, beaten.",
   "id" : 2162621931,
   "created_at" : "2009-06-14 00:00:00 +0000",
   "user" : {
@@ -4752,12 +4752,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4766,7 +4766,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2162636277",
-  "text" : "None of the videos have had gun fire until now. Amazing how calm everyone stays. http://tr.im/oqEz",
+  "text" : "None of the videos have had gun fire until now. Amazing how calm everyone stays. http:\/\/tr.im\/oqEz",
   "id" : 2162636277,
   "created_at" : "2009-06-14 00:00:00 +0000",
   "user" : {
@@ -4774,12 +4774,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4791,7 +4791,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2162671813",
-  "text" : "Rumors change? The Vali-Asr protest at 12:30pm may be a trap. Mousavi's official answer is wait for word.  #iranelection http://tr.im/oqFe",
+  "text" : "Rumors change? The Vali-Asr protest at 12:30pm may be a trap. Mousavi's official answer is wait for word.  #iranelection http:\/\/tr.im\/oqFe",
   "id" : 2162671813,
   "created_at" : "2009-06-14 00:00:00 +0000",
   "user" : {
@@ -4799,12 +4799,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4813,7 +4813,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2162701126",
-  "text" : "Not sure if I would attend any \"meeting\" here - http://tr.im/oqFY - blocks away from the Ministry of Interior and Valiye-Asr. Hmm.",
+  "text" : "Not sure if I would attend any \"meeting\" here - http:\/\/tr.im\/oqFY - blocks away from the Ministry of Interior and Valiye-Asr. Hmm.",
   "id" : 2162701126,
   "created_at" : "2009-06-14 00:00:00 +0000",
   "user" : {
@@ -4821,12 +4821,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Iranian Student",
@@ -4852,12 +4852,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jim Sciutto",
@@ -4883,12 +4883,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jim Sciutto",
@@ -4907,19 +4907,19 @@ Grailbird.data.tweets_2009_06 =
   "text" : "@jimsciuttoABC Any word on Mousavi? Supporters may think he has called a meet at his HQ. Is he in custody?",
   "id" : 2162806812,
   "created_at" : "2009-06-14 00:00:00 +0000",
-  "in_reply_to_screen_name" : "jimsciuttoCNN",
+  "in_reply_to_screen_name" : "jimsciutto",
   "in_reply_to_user_id_str" : "22129280",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4936,12 +4936,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -4971,7 +4971,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2166210797",
-  "text" : "rt @davewiner RT @ClaireInParis RT @sambrook BBC Persian streamed online for those that can get it: http://tinyurl.com/7lge59 #iranelection",
+  "text" : "rt @davewiner RT @ClaireInParis RT @sambrook BBC Persian streamed online for those that can get it: http:\/\/tinyurl.com\/7lge59 #iranelection",
   "id" : 2166210797,
   "created_at" : "2009-06-14 00:00:00 +0000",
   "user" : {
@@ -4979,12 +4979,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4993,7 +4993,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2166972700",
-  "text" : "A List of News sources on Iran (mostly twitter) http://tr.im/osCm",
+  "text" : "A List of News sources on Iran (mostly twitter) http:\/\/tr.im\/osCm",
   "id" : 2166972700,
   "created_at" : "2009-06-14 00:00:00 +0000",
   "user" : {
@@ -5001,12 +5001,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5015,7 +5015,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2167135620",
-  "text" : "This rumor has been alive since last night, but who knows what info is good info. Iranian Election numbers may be reverse. http://tr.im/osF6",
+  "text" : "This rumor has been alive since last night, but who knows what info is good info. Iranian Election numbers may be reverse. http:\/\/tr.im\/osF6",
   "id" : 2167135620,
   "created_at" : "2009-06-14 00:00:00 +0000",
   "user" : {
@@ -5023,12 +5023,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5037,7 +5037,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2167194429",
-  "text" : "\"Ahmadinejad is holding \u201CThank You Ceremonies\u201D!!! all over the country, they are giving away ice cream and cakes\" http://tr.im/osGW",
+  "text" : "\"Ahmadinejad is holding \u201CThank You Ceremonies\u201D!!! all over the country, they are giving away ice cream and cakes\" http:\/\/tr.im\/osGW",
   "id" : 2167194429,
   "created_at" : "2009-06-14 00:00:00 +0000",
   "user" : {
@@ -5045,12 +5045,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5059,7 +5059,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2167228408",
-  "text" : "Posting again because US networks have been relatively silent on this. A List of News sources on Iran (mostly twitter) http://tr.im/osCm",
+  "text" : "Posting again because US networks have been relatively silent on this. A List of News sources on Iran (mostly twitter) http:\/\/tr.im\/osCm",
   "id" : 2167228408,
   "created_at" : "2009-06-14 00:00:00 +0000",
   "user" : {
@@ -5067,12 +5067,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5081,7 +5081,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2167373619",
-  "text" : "Black motorcycles fly into a large crowd with clubs. Crowd ends up helping fallen police. http://tr.im/osKl",
+  "text" : "Black motorcycles fly into a large crowd with clubs. Crowd ends up helping fallen police. http:\/\/tr.im\/osKl",
   "id" : 2167373619,
   "created_at" : "2009-06-14 00:00:00 +0000",
   "user" : {
@@ -5089,12 +5089,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5103,7 +5103,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2169183212",
-  "text" : "Ladderball own. I'm red. :) http://post.ly/qXs",
+  "text" : "Ladderball own. I'm red. :) http:\/\/post.ly\/qXs",
   "id" : 2169183212,
   "created_at" : "2009-06-14 00:00:00 +0000",
   "user" : {
@@ -5111,12 +5111,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5125,7 +5125,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2150023861",
-  "text" : "YES!  I got facebook.com/usernames as my username.  Jeremy was taken. :)",
+  "text" : "YES!  I got facebook.com\/usernames as my username.  Jeremy was taken. :)",
   "id" : 2150023861,
   "created_at" : "2009-06-13 00:00:00 +0000",
   "user" : {
@@ -5133,12 +5133,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5147,7 +5147,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2150071885",
-  "text" : "http://www.facebook.com/usernames - I get the humor and that's all that matters.",
+  "text" : "http:\/\/www.facebook.com\/usernames - I get the humor and that's all that matters.",
   "id" : 2150071885,
   "created_at" : "2009-06-13 00:00:00 +0000",
   "user" : {
@@ -5155,12 +5155,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5177,12 +5177,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5191,7 +5191,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2153757398",
-  "text" : "OSTP: First step as a government agency that puts \"follow us on Twitter\" on their website is to use it more than once. http://tr.im/ontd",
+  "text" : "OSTP: First step as a government agency that puts \"follow us on Twitter\" on their website is to use it more than once. http:\/\/tr.im\/ontd",
   "id" : 2153757398,
   "created_at" : "2009-06-13 00:00:00 +0000",
   "user" : {
@@ -5199,12 +5199,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jay Rosen ",
@@ -5219,7 +5219,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2153766307",
-  "text" : "Other than that, this article on the OSTP makes me think that you are doing some good stuff. (via @jayrosen_nyu) http://tr.im/ontD",
+  "text" : "Other than that, this article on the OSTP makes me think that you are doing some good stuff. (via @jayrosen_nyu) http:\/\/tr.im\/ontD",
   "id" : 2153766307,
   "created_at" : "2009-06-13 00:00:00 +0000",
   "user" : {
@@ -5227,12 +5227,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Open Government",
@@ -5255,12 +5255,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "CNN Breaking News",
@@ -5283,12 +5283,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5297,7 +5297,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2155712431",
-  "text" : "The NY Times is keeping track of the \"who really won\" debate that's going on online regarding Iran. http://tr.im/ookl",
+  "text" : "The NY Times is keeping track of the \"who really won\" debate that's going on online regarding Iran. http:\/\/tr.im\/ookl",
   "id" : 2155712431,
   "created_at" : "2009-06-13 00:00:00 +0000",
   "user" : {
@@ -5305,12 +5305,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5327,12 +5327,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Scott",
@@ -5360,12 +5360,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Neil Gorman",
@@ -5393,12 +5393,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5407,7 +5407,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2149346698",
-  "text" : "One hour left and no Facebook employee and/or journalist has stolen my name. Not that I really care, it's just the principle.",
+  "text" : "One hour left and no Facebook employee and\/or journalist has stolen my name. Not that I really care, it's just the principle.",
   "id" : 2149346698,
   "created_at" : "2009-06-13 00:00:00 +0000",
   "user" : {
@@ -5415,12 +5415,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5429,7 +5429,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2149445901",
-  "text" : "I wonder if Facebook would let me register facebook.com/usernames as my username. Is it worth a shot to lose Jeremy?",
+  "text" : "I wonder if Facebook would let me register facebook.com\/usernames as my username. Is it worth a shot to lose Jeremy?",
   "id" : 2149445901,
   "created_at" : "2009-06-13 00:00:00 +0000",
   "user" : {
@@ -5437,12 +5437,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Mashable",
@@ -5465,12 +5465,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5479,7 +5479,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2149966561",
-  "text" : "Now tinychat is randomly popping up a new twitter/oauth tab.  Highly annoying.",
+  "text" : "Now tinychat is randomly popping up a new twitter\/oauth tab.  Highly annoying.",
   "id" : 2149966561,
   "created_at" : "2009-06-13 00:00:00 +0000",
   "user" : {
@@ -5487,12 +5487,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5509,12 +5509,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Robert Scoble",
@@ -5529,7 +5529,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2127139707",
-  "text" : "Some decent first interviews by @scobleizer are up over at Building43, which launched tonight. http://tr.im/oeCx",
+  "text" : "Some decent first interviews by @scobleizer are up over at Building43, which launched tonight. http:\/\/tr.im\/oeCx",
   "id" : 2127139707,
   "created_at" : "2009-06-12 00:00:00 +0000",
   "user" : {
@@ -5537,12 +5537,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5551,7 +5551,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2131729176",
-  "text" : "\"Facebook\u2019s only competitive advantage  ... was that it was more personal ... than the Internet itself.\" http://tr.im/ohfj",
+  "text" : "\"Facebook\u2019s only competitive advantage  ... was that it was more personal ... than the Internet itself.\" http:\/\/tr.im\/ohfj",
   "id" : 2131729176,
   "created_at" : "2009-06-12 00:00:00 +0000",
   "user" : {
@@ -5559,12 +5559,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5573,7 +5573,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2131766995",
-  "text" : "Facebook suggests friends who uncheck your contact when adding their email contact list into their profile. Weird to know. http://tr.im/ohgw",
+  "text" : "Facebook suggests friends who uncheck your contact when adding their email contact list into their profile. Weird to know. http:\/\/tr.im\/ohgw",
   "id" : 2131766995,
   "created_at" : "2009-06-12 00:00:00 +0000",
   "user" : {
@@ -5581,12 +5581,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5595,7 +5595,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2131896497",
-  "text" : "If I had $1300 to spend on a camera body today, I'd probably give the Pentax K-7 a shot. HDMI out! That's awesome. http://tr.im/ohkQ",
+  "text" : "If I had $1300 to spend on a camera body today, I'd probably give the Pentax K-7 a shot. HDMI out! That's awesome. http:\/\/tr.im\/ohkQ",
   "id" : 2131896497,
   "created_at" : "2009-06-12 00:00:00 +0000",
   "user" : {
@@ -5603,12 +5603,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5617,7 +5617,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2131963454",
-  "text" : "NPR.org has a bunch of great info on the elections in Iran today. Poll hours were extended because of heavy turnout. http://tr.im/ohn0",
+  "text" : "NPR.org has a bunch of great info on the elections in Iran today. Poll hours were extended because of heavy turnout. http:\/\/tr.im\/ohn0",
   "id" : 2131963454,
   "created_at" : "2009-06-12 00:00:00 +0000",
   "user" : {
@@ -5625,12 +5625,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5647,12 +5647,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Scott",
@@ -5678,12 +5678,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "David Feller",
@@ -5709,12 +5709,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5723,7 +5723,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2134890316",
-  "text" : "Twitpocalypse is being forced to come early. TopTwit is now officially compliant and prepared. :) http://tr.im/oiZv",
+  "text" : "Twitpocalypse is being forced to come early. TopTwit is now officially compliant and prepared. :) http:\/\/tr.im\/oiZv",
   "id" : 2134890316,
   "created_at" : "2009-06-12 00:00:00 +0000",
   "user" : {
@@ -5731,12 +5731,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5745,7 +5745,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2136741661",
-  "text" : "Did my application survive Twitpocalypse? http://tr.im/ojYb",
+  "text" : "Did my application survive Twitpocalypse? http:\/\/tr.im\/ojYb",
   "id" : 2136741661,
   "created_at" : "2009-06-12 00:00:00 +0000",
   "user" : {
@@ -5753,12 +5753,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter",
@@ -5773,7 +5773,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2136787073",
-  "text" : "Ha, @twitter api lied... just tweeted 10 minutes past the bell to check toptwit w/ unsigned and got a status id of 2136741661",
+  "text" : "Ha, @twitter api lied... just tweeted 10 minutes past the bell to check toptwit w\/ unsigned and got a status id of 2136741661",
   "id" : 2136787073,
   "created_at" : "2009-06-12 00:00:00 +0000",
   "user" : {
@@ -5781,12 +5781,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5803,12 +5803,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5825,12 +5825,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5847,12 +5847,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Anil Dash",
@@ -5867,7 +5867,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2112413813",
-  "text" : "Great writeup by @anildash on The Future of Facebook Usernames http://tr.im/o6T8",
+  "text" : "Great writeup by @anildash on The Future of Facebook Usernames http:\/\/tr.im\/o6T8",
   "id" : 2112413813,
   "created_at" : "2009-06-11 00:00:00 +0000",
   "user" : {
@@ -5875,12 +5875,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5889,7 +5889,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2112787635",
-  "text" : "Amazing motorcycle recovery - \"Raffaele De Rosa's Amazing Knee-Riding Save\" http://tr.im/o74b",
+  "text" : "Amazing motorcycle recovery - \"Raffaele De Rosa's Amazing Knee-Riding Save\" http:\/\/tr.im\/o74b",
   "id" : 2112787635,
   "created_at" : "2009-06-11 00:00:00 +0000",
   "user" : {
@@ -5897,12 +5897,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5919,12 +5919,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5941,12 +5941,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5963,12 +5963,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5985,12 +5985,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jay Rosen ",
@@ -6016,12 +6016,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marshall Kirkpatrick",
@@ -6044,12 +6044,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6058,7 +6058,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2099472370",
-  "text" : "Google Tables is awesome! Especially if you have your own data to play around with and are a data geek. Be warned. http://tr.im/nZgU",
+  "text" : "Google Tables is awesome! Especially if you have your own data to play around with and are a data geek. Be warned. http:\/\/tr.im\/nZgU",
   "id" : 2099472370,
   "created_at" : "2009-06-10 00:00:00 +0000",
   "user" : {
@@ -6066,12 +6066,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6088,12 +6088,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6110,12 +6110,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6124,7 +6124,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2103474777",
-  "text" : "Twitter is Not a Conversational Platform http://tr.im/o1Ws",
+  "text" : "Twitter is Not a Conversational Platform http:\/\/tr.im\/o1Ws",
   "id" : 2103474777,
   "created_at" : "2009-06-10 00:00:00 +0000",
   "user" : {
@@ -6132,15 +6132,15 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Suntimes",
+      "name" : "Chicago Sun-Times",
       "screen_name" : "Suntimes",
       "indices" : [ 68, 77 ],
       "id_str" : "12811952",
@@ -6152,7 +6152,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2103497793",
-  "text" : "Blago to take part in 'Rod Blagojevich Superstar' this weekend (via @suntimes) http://tr.im/o1Xl",
+  "text" : "Blago to take part in 'Rod Blagojevich Superstar' this weekend (via @suntimes) http:\/\/tr.im\/o1Xl",
   "id" : 2103497793,
   "created_at" : "2009-06-10 00:00:00 +0000",
   "user" : {
@@ -6160,12 +6160,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6174,7 +6174,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2105648230",
-  "text" : "Searching for the coolest site in the world via trim. This is a test. http://tr.im/o3mG",
+  "text" : "Searching for the coolest site in the world via trim. This is a test. http:\/\/tr.im\/o3mG",
   "id" : 2105648230,
   "created_at" : "2009-06-10 00:00:00 +0000",
   "user" : {
@@ -6182,12 +6182,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6196,7 +6196,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2105651651",
-  "text" : "Searching for the coolest site in the world via bit.ly. This is a test. http://bit.ly/14utkk",
+  "text" : "Searching for the coolest site in the world via bit.ly. This is a test. http:\/\/bit.ly\/14utkk",
   "id" : 2105651651,
   "created_at" : "2009-06-10 00:00:00 +0000",
   "user" : {
@@ -6204,16 +6204,16 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "bitly",
-      "screen_name" : "bitly",
+      "name" : "Bitly",
+      "screen_name" : "Bitly",
       "indices" : [ 0, 6 ],
       "id_str" : "15234886",
       "id" : 15234886
@@ -6231,22 +6231,22 @@ Grailbird.data.tweets_2009_06 =
   "geo" : { },
   "id_str" : "2106995142",
   "in_reply_to_user_id" : 15234886,
-  "text" : "@bitly Any input on the stats being seen by @jayrosen_nyu through bit.ly compared to tr.im? http://bit.ly/14hjYP",
+  "text" : "@bitly Any input on the stats being seen by @jayrosen_nyu through bit.ly compared to tr.im? http:\/\/bit.ly\/14hjYP",
   "id" : 2106995142,
   "created_at" : "2009-06-10 00:00:00 +0000",
-  "in_reply_to_screen_name" : "bitly",
+  "in_reply_to_screen_name" : "Bitly",
   "in_reply_to_user_id_str" : "15234886",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "tr.im URLs",
@@ -6268,7 +6268,7 @@ Grailbird.data.tweets_2009_06 =
   "geo" : { },
   "id_str" : "2107007864",
   "in_reply_to_user_id" : 15435089,
-  "text" : "@trimurls Any input on the stats being seen by @jayrosen_nyu through bit.ly compared to tr.im? http://bit.ly/14hjYP",
+  "text" : "@trimurls Any input on the stats being seen by @jayrosen_nyu through bit.ly compared to tr.im? http:\/\/bit.ly\/14hjYP",
   "id" : 2107007864,
   "created_at" : "2009-06-10 00:00:00 +0000",
   "in_reply_to_screen_name" : "ericwoodward",
@@ -6278,12 +6278,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jay Rosen ",
@@ -6298,7 +6298,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2108648123",
-  "text" : "The conversation started by @jayrosen_nyu on FF today has me rethinking the display on my Top40 links page. http://tr.im/o5c6",
+  "text" : "The conversation started by @jayrosen_nyu on FF today has me rethinking the display on my Top40 links page. http:\/\/tr.im\/o5c6",
   "id" : 2108648123,
   "created_at" : "2009-06-10 00:00:00 +0000",
   "user" : {
@@ -6306,12 +6306,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6328,12 +6328,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6342,7 +6342,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2109108861",
-  "text" : "Changed the display method on TopTwit Top40 app. Age shows left to right and popularity bottom to top. Trends not numbers. http://tr.im/lyAW",
+  "text" : "Changed the display method on TopTwit Top40 app. Age shows left to right and popularity bottom to top. Trends not numbers. http:\/\/tr.im\/lyAW",
   "id" : 2109108861,
   "created_at" : "2009-06-10 00:00:00 +0000",
   "user" : {
@@ -6350,12 +6350,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6364,7 +6364,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2085656629",
-  "text" : "From the Not So Great News department - \"Dennis Hastert's son to run for father's seat\" http://tr.im/nRAP",
+  "text" : "From the Not So Great News department - \"Dennis Hastert's son to run for father's seat\" http:\/\/tr.im\/nRAP",
   "id" : 2085656629,
   "created_at" : "2009-06-09 00:00:00 +0000",
   "user" : {
@@ -6372,12 +6372,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Matt Cutts",
@@ -6405,12 +6405,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6419,7 +6419,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2085821431",
-  "text" : "An easy REST API from Bing. That's fun. http://tr.im/nREA",
+  "text" : "An easy REST API from Bing. That's fun. http:\/\/tr.im\/nREA",
   "id" : 2085821431,
   "created_at" : "2009-06-09 00:00:00 +0000",
   "user" : {
@@ -6427,12 +6427,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6441,7 +6441,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2086043843",
-  "text" : "The term Hyperlocal is trademarked by Hello Metro. http://tr.im/nRK7",
+  "text" : "The term Hyperlocal is trademarked by Hello Metro. http:\/\/tr.im\/nRK7",
   "id" : 2086043843,
   "created_at" : "2009-06-09 00:00:00 +0000",
   "user" : {
@@ -6449,12 +6449,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://ubertwitter.com\" rel=\"nofollow\">UberTwitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/ubertwitter.com\" rel=\"nofollow\"\u003EUberTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6471,12 +6471,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://ubertwitter.com\" rel=\"nofollow\">UberTwitter</a>",
+  "source" : "\u003Ca href=\"http:\/\/ubertwitter.com\" rel=\"nofollow\"\u003EUberTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6493,12 +6493,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Mashable",
@@ -6513,7 +6513,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2093598124",
-  "text" : "How many Facebook users will be at home on Friday night to try and register their vanity URL? (via @mashable) http://tr.im/nWAX",
+  "text" : "How many Facebook users will be at home on Friday night to try and register their vanity URL? (via @mashable) http:\/\/tr.im\/nWAX",
   "id" : 2093598124,
   "created_at" : "2009-06-09 00:00:00 +0000",
   "user" : {
@@ -6521,12 +6521,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6535,7 +6535,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2094210619",
-  "text" : "Argh, another Jeremy already has the http://jere.my domain. Why didn't I think of that 10 years ago?",
+  "text" : "Argh, another Jeremy already has the http:\/\/jere.my domain. Why didn't I think of that 10 years ago?",
   "id" : 2094210619,
   "created_at" : "2009-06-09 00:00:00 +0000",
   "user" : {
@@ -6543,12 +6543,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6565,12 +6565,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://toptwit.com\" rel=\"nofollow\">TopTwit</a>",
+  "source" : "\u003Ca href=\"http:\/\/toptwit.com\" rel=\"nofollow\"\u003ETopTwit\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6587,12 +6587,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Neil Gorman",
@@ -6608,7 +6608,7 @@ Grailbird.data.tweets_2009_06 =
   "geo" : { },
   "id_str" : "2070199431",
   "in_reply_to_user_id" : 721853,
-  "text" : "@neilgorman Here's the beginner's guide. I haven't bothered to learn about it yet, but will have to soon. http://tr.im/nJve",
+  "text" : "@neilgorman Here's the beginner's guide. I haven't bothered to learn about it yet, but will have to soon. http:\/\/tr.im\/nJve",
   "id" : 2070199431,
   "created_at" : "2009-06-08 00:00:00 +0000",
   "in_reply_to_screen_name" : "neilgorman",
@@ -6618,12 +6618,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Neil Gorman",
@@ -6649,12 +6649,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Neil Gorman",
@@ -6670,7 +6670,7 @@ Grailbird.data.tweets_2009_06 =
   "geo" : { },
   "id_str" : "2070220729",
   "in_reply_to_user_id" : 721853,
-  "text" : "@neilgorman This probably makes more instant sense. http://oauth.net/",
+  "text" : "@neilgorman This probably makes more instant sense. http:\/\/oauth.net\/",
   "id" : 2070220729,
   "created_at" : "2009-06-08 00:00:00 +0000",
   "in_reply_to_screen_name" : "neilgorman",
@@ -6680,12 +6680,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://toptwit.com\" rel=\"nofollow\">TopTwit</a>",
+  "source" : "\u003Ca href=\"http:\/\/toptwit.com\" rel=\"nofollow\"\u003ETopTwit\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6702,12 +6702,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6716,7 +6716,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2071242542",
-  "text" : "A downfall of the real-time web is how quickly drama can escalate. Tools abound for communication, but listening stops. http://tr.im/nJMY",
+  "text" : "A downfall of the real-time web is how quickly drama can escalate. Tools abound for communication, but listening stops. http:\/\/tr.im\/nJMY",
   "id" : 2071242542,
   "created_at" : "2009-06-08 00:00:00 +0000",
   "user" : {
@@ -6724,12 +6724,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6738,7 +6738,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2071459373",
-  "text" : "Is there an obvious alternative to GoDaddy for the same price/ease or is it pretty much a crapshoot no matter what?",
+  "text" : "Is there an obvious alternative to GoDaddy for the same price\/ease or is it pretty much a crapshoot no matter what?",
   "id" : 2071459373,
   "created_at" : "2009-06-08 00:00:00 +0000",
   "user" : {
@@ -6746,12 +6746,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6760,7 +6760,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2077025666",
-  "text" : "60 years ago today, Orwell's 1984 was published. 70 years ago today, Orwell \"weeded & hoed the French and runner beans.\" http://tr.im/nMZA",
+  "text" : "60 years ago today, Orwell's 1984 was published. 70 years ago today, Orwell \"weeded & hoed the French and runner beans.\" http:\/\/tr.im\/nMZA",
   "id" : 2077025666,
   "created_at" : "2009-06-08 00:00:00 +0000",
   "user" : {
@@ -6768,12 +6768,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6782,7 +6782,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2079366475",
-  "text" : "James Madison said \"philosophy is common sense with big words.\" What could be said about Twitter Boot Camp? http://tr.im/nOvm",
+  "text" : "James Madison said \"philosophy is common sense with big words.\" What could be said about Twitter Boot Camp? http:\/\/tr.im\/nOvm",
   "id" : 2079366475,
   "created_at" : "2009-06-08 00:00:00 +0000",
   "user" : {
@@ -6790,12 +6790,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6812,12 +6812,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6834,12 +6834,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6848,7 +6848,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2061583906",
-  "text" : "Butler County Sheriff Closes Jail In Cost-Cutting Move - announces on twitter. http://post.ly/m3J",
+  "text" : "Butler County Sheriff Closes Jail In Cost-Cutting Move - announces on twitter. http:\/\/post.ly\/m3J",
   "id" : 2061583906,
   "created_at" : "2009-06-07 00:00:00 +0000",
   "user" : {
@@ -6856,12 +6856,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6878,12 +6878,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Brent Simmons",
@@ -6898,7 +6898,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2065794239",
-  "text" : "Why T.S. Eliot rejected Orwell's Animal Farm as director of Faber & Fabor (via @brentsimmons in april)  http://tr.im/nI1x",
+  "text" : "Why T.S. Eliot rejected Orwell's Animal Farm as director of Faber & Fabor (via @brentsimmons in april)  http:\/\/tr.im\/nI1x",
   "id" : 2065794239,
   "created_at" : "2009-06-07 00:00:00 +0000",
   "user" : {
@@ -6906,12 +6906,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6920,7 +6920,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2065939116",
-  "text" : "The genius of George Orwell - \"If you want to learn how to write non-fiction, Orwell is your man.\"  http://tr.im/nI61",
+  "text" : "The genius of George Orwell - \"If you want to learn how to write non-fiction, Orwell is your man.\"  http:\/\/tr.im\/nI61",
   "id" : 2065939116,
   "created_at" : "2009-06-07 00:00:00 +0000",
   "user" : {
@@ -6928,12 +6928,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6942,7 +6942,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2065964878",
-  "text" : "The Change We Need: DIY on a Civic Scale - \"Traditional communities still remember how to do a barn raising.\" http://tr.im/nI6v",
+  "text" : "The Change We Need: DIY on a Civic Scale - \"Traditional communities still remember how to do a barn raising.\" http:\/\/tr.im\/nI6v",
   "id" : 2065964878,
   "created_at" : "2009-06-07 00:00:00 +0000",
   "user" : {
@@ -6950,12 +6950,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Neil Gorman",
@@ -6981,12 +6981,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -6995,7 +6995,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2066345115",
-  "text" : "Nick Cave and The Bad Seeds - There She Goes My Beautiful World (Rock it out) http://tr.im/nIgF",
+  "text" : "Nick Cave and The Bad Seeds - There She Goes My Beautiful World (Rock it out) http:\/\/tr.im\/nIgF",
   "id" : 2066345115,
   "created_at" : "2009-06-07 00:00:00 +0000",
   "user" : {
@@ -7003,12 +7003,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7017,7 +7017,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2067596772",
-  "text" : "Wow, got a Fail Banana on Trim for the first time. When URL shortners \tgo down.... http://post.ly/mNp",
+  "text" : "Wow, got a Fail Banana on Trim for the first time. When URL shortners \tgo down.... http:\/\/post.ly\/mNp",
   "id" : 2067596772,
   "created_at" : "2009-06-07 00:00:00 +0000",
   "user" : {
@@ -7025,12 +7025,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7039,7 +7039,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2067724053",
-  "text" : "Tr.im down doesn't bode well for the Top 40 links page. A workaround is needed. Dual url shortening every link? http://bit.ly/2mqCgC",
+  "text" : "Tr.im down doesn't bode well for the Top 40 links page. A workaround is needed. Dual url shortening every link? http:\/\/bit.ly\/2mqCgC",
   "id" : 2067724053,
   "created_at" : "2009-06-07 00:00:00 +0000",
   "user" : {
@@ -7047,12 +7047,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7061,7 +7061,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2067919155",
-  "text" : "It amuses me that some posts on the msnsearch (bing) blog are in Calibri and others aren't. I wonder why. http://tr.im/nIKP",
+  "text" : "It amuses me that some posts on the msnsearch (bing) blog are in Calibri and others aren't. I wonder why. http:\/\/tr.im\/nIKP",
   "id" : 2067919155,
   "created_at" : "2009-06-07 00:00:00 +0000",
   "user" : {
@@ -7069,12 +7069,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7083,7 +7083,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2068639447",
-  "text" : "Imagination Salad http://post.ly/mRq",
+  "text" : "Imagination Salad http:\/\/post.ly\/mRq",
   "id" : 2068639447,
   "created_at" : "2009-06-07 00:00:00 +0000",
   "user" : {
@@ -7091,12 +7091,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7113,12 +7113,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7135,12 +7135,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7149,7 +7149,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2069665911",
-  "text" : "On an Orwell kick. This is great stuff with a wonderful interface. - \"George Orwell at the BBC\" http://tr.im/nJm4",
+  "text" : "On an Orwell kick. This is great stuff with a wonderful interface. - \"George Orwell at the BBC\" http:\/\/tr.im\/nJm4",
   "id" : 2069665911,
   "created_at" : "2009-06-07 00:00:00 +0000",
   "user" : {
@@ -7157,12 +7157,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7179,12 +7179,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -7207,12 +7207,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7221,7 +7221,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2069911986",
-  "text" : "Plus I still want to try \"Twitter as News\", which could fit right in.  http://tr.im/nJqg",
+  "text" : "Plus I still want to try \"Twitter as News\", which could fit right in.  http:\/\/tr.im\/nJqg",
   "id" : 2069911986,
   "created_at" : "2009-06-07 00:00:00 +0000",
   "user" : {
@@ -7229,12 +7229,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7243,7 +7243,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2070025409",
-  "text" : "TopTwit has a snowman logo and the oauth test works. http://post.ly/mVw",
+  "text" : "TopTwit has a snowman logo and the oauth test works. http:\/\/post.ly\/mVw",
   "id" : 2070025409,
   "created_at" : "2009-06-07 00:00:00 +0000",
   "user" : {
@@ -7251,12 +7251,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7265,7 +7265,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2051008534",
-  "text" : "\"New Features Relevant to Webmasters\" - Bing Whitepaper (in doc format, interesting enough) http://tr.im/nByb",
+  "text" : "\"New Features Relevant to Webmasters\" - Bing Whitepaper (in doc format, interesting enough) http:\/\/tr.im\/nByb",
   "id" : 2051008534,
   "created_at" : "2009-06-06 00:00:00 +0000",
   "user" : {
@@ -7273,12 +7273,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7290,7 +7290,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2054042212",
-  "text" : "Jay-Z opens up on Auto Tune in his new single. #video http://tr.im/nBEX",
+  "text" : "Jay-Z opens up on Auto Tune in his new single. #video http:\/\/tr.im\/nBEX",
   "id" : 2054042212,
   "created_at" : "2009-06-06 00:00:00 +0000",
   "user" : {
@@ -7298,12 +7298,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7320,12 +7320,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7334,7 +7334,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2054896375",
-  "text" : "US States as Countries of Equal Population (Map)  http://tr.im/nDBi",
+  "text" : "US States as Countries of Equal Population (Map)  http:\/\/tr.im\/nDBi",
   "id" : 2054896375,
   "created_at" : "2009-06-06 00:00:00 +0000",
   "user" : {
@@ -7342,12 +7342,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7356,7 +7356,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2054960323",
-  "text" : "I had no idea the supreme court website was that bad until I read this. Definitely, retro? http://tr.im/nDCT",
+  "text" : "I had no idea the supreme court website was that bad until I read this. Definitely, retro? http:\/\/tr.im\/nDCT",
   "id" : 2054960323,
   "created_at" : "2009-06-06 00:00:00 +0000",
   "user" : {
@@ -7364,12 +7364,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Michelle Felt",
@@ -7395,12 +7395,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7409,7 +7409,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2056628521",
-  "text" : "Ever wandered what it would look like to print Wikipedia? Take this and multiply by 1000. http://tr.im/nEiF",
+  "text" : "Ever wandered what it would look like to print Wikipedia? Take this and multiply by 1000. http:\/\/tr.im\/nEiF",
   "id" : 2056628521,
   "created_at" : "2009-06-06 00:00:00 +0000",
   "user" : {
@@ -7417,12 +7417,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7431,7 +7431,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2058155740",
-  "text" : "Strawberry Margarita http://post.ly/ltd",
+  "text" : "Strawberry Margarita http:\/\/post.ly\/ltd",
   "id" : 2058155740,
   "created_at" : "2009-06-06 00:00:00 +0000",
   "user" : {
@@ -7439,12 +7439,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter API",
@@ -7467,12 +7467,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Neil Gorman",
@@ -7498,12 +7498,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7512,7 +7512,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2037933746",
-  "text" : "Firebug might switch me back to Firefox for a while.  I never knew how useful it was.  http://tr.im/nu9b",
+  "text" : "Firebug might switch me back to Firefox for a while.  I never knew how useful it was.  http:\/\/tr.im\/nu9b",
   "id" : 2037933746,
   "created_at" : "2009-06-05 00:00:00 +0000",
   "user" : {
@@ -7520,12 +7520,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7534,7 +7534,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2038015816",
-  "text" : "Picasa Web Albums are definitely quicker now. Full screen view is amazing. Much better for browsing a set than Flickr.  http://tr.im/nuaw",
+  "text" : "Picasa Web Albums are definitely quicker now. Full screen view is amazing. Much better for browsing a set than Flickr.  http:\/\/tr.im\/nuaw",
   "id" : 2038015816,
   "created_at" : "2009-06-05 00:00:00 +0000",
   "user" : {
@@ -7542,12 +7542,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7564,12 +7564,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7578,7 +7578,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2038522127",
-  "text" : "Mac and Linux builds for Chromium are finally available. The Chromium group says \"don't download it\". :)  http://tr.im/nukY",
+  "text" : "Mac and Linux builds for Chromium are finally available. The Chromium group says \"don't download it\". :)  http:\/\/tr.im\/nukY",
   "id" : 2038522127,
   "created_at" : "2009-06-05 00:00:00 +0000",
   "user" : {
@@ -7586,12 +7586,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -7617,12 +7617,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7639,12 +7639,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7653,7 +7653,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2031984488",
-  "text" : "Apparently, thanks to \"Tweeters\", underdog Microsoft was able to crush Wolfram Alpha. http://tr.im/nr9i",
+  "text" : "Apparently, thanks to \"Tweeters\", underdog Microsoft was able to crush Wolfram Alpha. http:\/\/tr.im\/nr9i",
   "id" : 2031984488,
   "created_at" : "2009-06-04 00:00:00 +0000",
   "user" : {
@@ -7661,12 +7661,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7675,7 +7675,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2033274265",
-  "text" : "Top 40 Tweeted Links pages for all. http://tr.im/nrXv",
+  "text" : "Top 40 Tweeted Links pages for all. http:\/\/tr.im\/nrXv",
   "id" : 2033274265,
   "created_at" : "2009-06-04 00:00:00 +0000",
   "user" : {
@@ -7683,12 +7683,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7697,7 +7697,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2033285614",
-  "text" : "My Top 40 Tweeted Links. (Now With Comments and Thumbnails) http://tr.im/lyAW",
+  "text" : "My Top 40 Tweeted Links. (Now With Comments and Thumbnails) http:\/\/tr.im\/lyAW",
   "id" : 2033285614,
   "created_at" : "2009-06-04 00:00:00 +0000",
   "user" : {
@@ -7705,12 +7705,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7727,12 +7727,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7749,12 +7749,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7771,12 +7771,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7785,7 +7785,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2024733774",
-  "text" : "Google Squared has completely blown my mind after just two searches. I love it! http://tr.im/nmt7",
+  "text" : "Google Squared has completely blown my mind after just two searches. I love it! http:\/\/tr.im\/nmt7",
   "id" : 2024733774,
   "created_at" : "2009-06-04 00:00:00 +0000",
   "user" : {
@@ -7793,12 +7793,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7807,7 +7807,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2024911869",
-  "text" : "\"Why NPR is the Future of Mainstream Media\" http://tr.im/nmwZ",
+  "text" : "\"Why NPR is the Future of Mainstream Media\" http:\/\/tr.im\/nmwZ",
   "id" : 2024911869,
   "created_at" : "2009-06-04 00:00:00 +0000",
   "user" : {
@@ -7815,7 +7815,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -7837,7 +7837,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -7851,7 +7851,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "1999078917",
-  "text" : "And comments are now active on the top 40 most recent links page. http://tr.im/lyAW",
+  "text" : "And comments are now active on the top 40 most recent links page. http:\/\/tr.im\/lyAW",
   "id" : 1999078917,
   "created_at" : "2009-06-02 00:00:00 +0000",
   "user" : {
@@ -7859,7 +7859,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -7881,7 +7881,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -7895,7 +7895,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "1999310429",
-  "text" : "The Top 40 At TopTwit - What You Can Do Now (Educer) http://tr.im/n7lv",
+  "text" : "The Top 40 At TopTwit - What You Can Do Now (Educer) http:\/\/tr.im\/n7lv",
   "id" : 1999310429,
   "created_at" : "2009-06-02 00:00:00 +0000",
   "user" : {
@@ -7903,7 +7903,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -7917,7 +7917,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "1999808441",
-  "text" : "Another feature for the top 40. Any pictures posted at posterous are pulled over as thumbnails in the most recent 40 list. http://tr.im/lyAW",
+  "text" : "Another feature for the top 40. Any pictures posted at posterous are pulled over as thumbnails in the most recent 40 list. http:\/\/tr.im\/lyAW",
   "id" : 1999808441,
   "created_at" : "2009-06-02 00:00:00 +0000",
   "user" : {
@@ -7925,7 +7925,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -7939,7 +7939,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "1999822243",
-  "text" : "This picture will be a thumbnail in the top 40. http://post.ly/j0B",
+  "text" : "This picture will be a thumbnail in the top 40. http:\/\/post.ly\/j0B",
   "id" : 1999822243,
   "created_at" : "2009-06-02 00:00:00 +0000",
   "user" : {
@@ -7947,7 +7947,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -7961,7 +7961,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "1999878869",
-  "text" : "Barcode scan your books for your \"My Library\" in Google Books. http://tr.im/n7yz",
+  "text" : "Barcode scan your books for your \"My Library\" in Google Books. http:\/\/tr.im\/n7yz",
   "id" : 1999878869,
   "created_at" : "2009-06-02 00:00:00 +0000",
   "user" : {
@@ -7969,7 +7969,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -7983,7 +7983,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "1999950911",
-  "text" : "Last survivor of 'unsinkable' Titanic dies at 97. http://tr.im/n7AM",
+  "text" : "Last survivor of 'unsinkable' Titanic dies at 97. http:\/\/tr.im\/n7AM",
   "id" : 1999950911,
   "created_at" : "2009-06-02 00:00:00 +0000",
   "user" : {
@@ -7991,7 +7991,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -8013,7 +8013,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -8035,7 +8035,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -8057,7 +8057,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -8079,7 +8079,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -8093,7 +8093,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2000065072",
-  "text" : "You can buy other similar art from Jorge Colombo, the Iphone New Yorker Cover artist, over at 20x200. http://tr.im/n7DQ",
+  "text" : "You can buy other similar art from Jorge Colombo, the Iphone New Yorker Cover artist, over at 20x200. http:\/\/tr.im\/n7DQ",
   "id" : 2000065072,
   "created_at" : "2009-06-02 00:00:00 +0000",
   "user" : {
@@ -8101,7 +8101,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -8115,7 +8115,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2000120848",
-  "text" : "Steal our Ideas - \"We concept, so you don't have to.\" Funny. http://tr.im/n7Fr",
+  "text" : "Steal our Ideas - \"We concept, so you don't have to.\" Funny. http:\/\/tr.im\/n7Fr",
   "id" : 2000120848,
   "created_at" : "2009-06-02 00:00:00 +0000",
   "user" : {
@@ -8123,7 +8123,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -8154,7 +8154,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -8174,7 +8174,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2003478062",
-  "text" : "Appears @techcrunch caught up with the rest of the world and noticed the twitter application source issue. http://tr.im/n9W0",
+  "text" : "Appears @techcrunch caught up with the rest of the world and noticed the twitter application source issue. http:\/\/tr.im\/n9W0",
   "id" : 2003478062,
   "created_at" : "2009-06-02 00:00:00 +0000",
   "user" : {
@@ -8182,7 +8182,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -8196,7 +8196,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2003602476",
-  "text" : "NPR now lets you download mp3s for individual stories. http://tr.im/na2x",
+  "text" : "NPR now lets you download mp3s for individual stories. http:\/\/tr.im\/na2x",
   "id" : 2003602476,
   "created_at" : "2009-06-02 00:00:00 +0000",
   "user" : {
@@ -8204,7 +8204,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -8225,7 +8225,7 @@ Grailbird.data.tweets_2009_06 =
   "geo" : { },
   "id_str" : "2003614441",
   "in_reply_to_user_id" : 3839,
-  "text" : "@davewiner You could do you next sub project on who people from public radio follow. http://bit.ly/l3yjn",
+  "text" : "@davewiner You could do you next sub project on who people from public radio follow. http:\/\/bit.ly\/l3yjn",
   "id" : 2003614441,
   "created_at" : "2009-06-02 00:00:00 +0000",
   "in_reply_to_screen_name" : "davewiner",
@@ -8235,7 +8235,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -8266,7 +8266,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -8274,7 +8274,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Suntimes",
+      "name" : "Chicago Sun-Times",
       "screen_name" : "Suntimes",
       "indices" : [ 106, 115 ],
       "id_str" : "12811952",
@@ -8286,7 +8286,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2005843915",
-  "text" : "LuLu is promoting Leave The Office Early Day (today), hoping you then have time to self publish. :)  (via @suntimes)  http://tr.im/nbCE",
+  "text" : "LuLu is promoting Leave The Office Early Day (today), hoping you then have time to self publish. :)  (via @suntimes)  http:\/\/tr.im\/nbCE",
   "id" : 2005843915,
   "created_at" : "2009-06-02 00:00:00 +0000",
   "user" : {
@@ -8294,7 +8294,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -8316,7 +8316,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -8344,7 +8344,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -8366,7 +8366,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -8380,7 +8380,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2007659485",
-  "text" : "Not to say that flight search interface isn't smart, because it really is. http://tr.im/ncMz",
+  "text" : "Not to say that flight search interface isn't smart, because it really is. http:\/\/tr.im\/ncMz",
   "id" : 2007659485,
   "created_at" : "2009-06-02 00:00:00 +0000",
   "user" : {
@@ -8388,7 +8388,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -8410,7 +8410,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -8418,7 +8418,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u30B8\u30E7\u30F4\u30A1\u30F3\u30CB",
+      "name" : "M. Giannii Calvert",
       "screen_name" : "giannii",
       "indices" : [ 0, 8 ],
       "id_str" : "1048934948",
@@ -8430,7 +8430,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2008247611",
-  "text" : "@giannii http://toptwit.com/jeremyfelt is the main site. Try the \"0 comments\" link next to 18,19,20 - those should still be unvisited pages.",
+  "text" : "@giannii http:\/\/toptwit.com\/jeremyfelt is the main site. Try the \"0 comments\" link next to 18,19,20 - those should still be unvisited pages.",
   "id" : 2008247611,
   "created_at" : "2009-06-02 00:00:00 +0000",
   "user" : {
@@ -8438,12 +8438,12 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Disqus",
@@ -8469,7 +8469,7 @@ Grailbird.data.tweets_2009_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }

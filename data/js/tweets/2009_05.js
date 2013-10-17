@@ -9,7 +9,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1987314557",
-  "text" : "MSNBC Morning Joe is now \"Brewed By Starbucks\". http://tr.im/n038",
+  "text" : "MSNBC Morning Joe is now \"Brewed By Starbucks\". http:\/\/tr.im\/n038",
   "id" : 1987314557,
   "created_at" : "2009-06-01 00:00:00 +0000",
   "user" : {
@@ -17,7 +17,7 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -31,7 +31,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1987387945",
-  "text" : "Twitter pops up a small response to the tweet source problems finally. Will be fixed in the morning... http://tr.im/n04L",
+  "text" : "Twitter pops up a small response to the tweet source problems finally. Will be fixed in the morning... http:\/\/tr.im\/n04L",
   "id" : 1987387945,
   "created_at" : "2009-06-01 00:00:00 +0000",
   "user" : {
@@ -39,7 +39,7 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -61,7 +61,7 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -83,7 +83,7 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -97,7 +97,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1987960930",
-  "text" : "An answer to the source bug - sounds like too many new developers + engineers at home = fixed sometime tomorrow. http://tr.im/n0gF",
+  "text" : "An answer to the source bug - sounds like too many new developers + engineers at home = fixed sometime tomorrow. http:\/\/tr.im\/n0gF",
   "id" : 1987960930,
   "created_at" : "2009-06-01 00:00:00 +0000",
   "user" : {
@@ -105,7 +105,7 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -119,7 +119,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1988122461",
-  "text" : "Wow, they just announced that www.bing.com is live. Time to play! http://tr.im/n0lW",
+  "text" : "Wow, they just announced that www.bing.com is live. Time to play! http:\/\/tr.im\/n0lW",
   "id" : 1988122461,
   "created_at" : "2009-06-01 00:00:00 +0000",
   "user" : {
@@ -127,7 +127,7 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -141,7 +141,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1988160661",
-  "text" : "Keifer nails the Ben Stiller award on MTV tonight. He's awesome. http://tr.im/n0mW",
+  "text" : "Keifer nails the Ben Stiller award on MTV tonight. He's awesome. http:\/\/tr.im\/n0mW",
   "id" : 1988160661,
   "created_at" : "2009-06-01 00:00:00 +0000",
   "user" : {
@@ -149,7 +149,7 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -163,7 +163,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1983492692",
-  "text" : "Its been to long, Hendricks. http://post.ly/iBW",
+  "text" : "Its been to long, Hendricks. http:\/\/post.ly\/iBW",
   "id" : 1983492692,
   "created_at" : "2009-05-31 00:00:00 +0000",
   "user" : {
@@ -171,7 +171,7 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -185,7 +185,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1984039709",
-  "text" : "Just added a signup page to my version of the Top 40 links concept. If you'd like your own, come on over. http://tr.im/mYR3",
+  "text" : "Just added a signup page to my version of the Top 40 links concept. If you'd like your own, come on over. http:\/\/tr.im\/mYR3",
   "id" : 1984039709,
   "created_at" : "2009-05-31 00:00:00 +0000",
   "user" : {
@@ -193,7 +193,7 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -215,12 +215,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -229,7 +229,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1967254093",
-  "text" : "\"Want to upload lots of data to Amazon S3? Now you can mail them your hard drive.\" Makes sense after first thought. http://tr.im/mRjC",
+  "text" : "\"Want to upload lots of data to Amazon S3? Now you can mail them your hard drive.\" Makes sense after first thought. http:\/\/tr.im\/mRjC",
   "id" : 1967254093,
   "created_at" : "2009-05-30 00:00:00 +0000",
   "user" : {
@@ -237,12 +237,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -251,7 +251,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1967759072",
-  "text" : "Frank Lloyd Wright LEGO sets. Great idea! http://tr.im/mRuN",
+  "text" : "Frank Lloyd Wright LEGO sets. Great idea! http:\/\/tr.im\/mRuN",
   "id" : 1967759072,
   "created_at" : "2009-05-30 00:00:00 +0000",
   "user" : {
@@ -259,12 +259,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -281,12 +281,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -295,7 +295,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1968196637",
-  "text" : "\"Five Reasons to Be Terrified of Google Wave\" - Fast Company misses the point quite a bit. http://tr.im/mRCO",
+  "text" : "\"Five Reasons to Be Terrified of Google Wave\" - Fast Company misses the point quite a bit. http:\/\/tr.im\/mRCO",
   "id" : 1968196637,
   "created_at" : "2009-05-30 00:00:00 +0000",
   "user" : {
@@ -303,12 +303,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -317,7 +317,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1968361509",
-  "text" : "Google Wave - Conversation Doesn\u2019t Have To Be Chess (Educer) http://tr.im/mRGC",
+  "text" : "Google Wave - Conversation Doesn\u2019t Have To Be Chess (Educer) http:\/\/tr.im\/mRGC",
   "id" : 1968361509,
   "created_at" : "2009-05-30 00:00:00 +0000",
   "user" : {
@@ -325,12 +325,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -339,7 +339,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1970899900",
-  "text" : "Total Number of NY Times Articles Covering Countries in Africa, 1981 to 2008. http://tr.im/mSXX",
+  "text" : "Total Number of NY Times Articles Covering Countries in Africa, 1981 to 2008. http:\/\/tr.im\/mSXX",
   "id" : 1970899900,
   "created_at" : "2009-05-30 00:00:00 +0000",
   "user" : {
@@ -347,12 +347,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -361,7 +361,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1970902551",
-  "text" : "And what those NY Times articles covering Africa were about. http://tr.im/mSYv",
+  "text" : "And what those NY Times articles covering Africa were about. http:\/\/tr.im\/mSYv",
   "id" : 1970902551,
   "created_at" : "2009-05-30 00:00:00 +0000",
   "user" : {
@@ -369,12 +369,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -391,12 +391,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Brian Stelter",
@@ -411,7 +411,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1970962953",
-  "text" : "It is fascinating to watch Obama work a crowd. Especially in a burger joint. (via @brianstelter) http://tr.im/mT0m",
+  "text" : "It is fascinating to watch Obama work a crowd. Especially in a burger joint. (via @brianstelter) http:\/\/tr.im\/mT0m",
   "id" : 1970962953,
   "created_at" : "2009-05-30 00:00:00 +0000",
   "user" : {
@@ -419,12 +419,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -433,7 +433,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1974220162",
-  "text" : "Freshened up my top 40 most recent links page. http://tr.im/lyAW",
+  "text" : "Freshened up my top 40 most recent links page. http:\/\/tr.im\/lyAW",
   "id" : 1974220162,
   "created_at" : "2009-05-30 00:00:00 +0000",
   "user" : {
@@ -441,12 +441,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -455,7 +455,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1955139983",
-  "text" : "Lars said Wave will have a bigger impact on email than Maps had on maps. I don't see an email app. I see conversation. http://bit.ly/4rRjQ9",
+  "text" : "Lars said Wave will have a bigger impact on email than Maps had on maps. I don't see an email app. I see conversation. http:\/\/bit.ly\/4rRjQ9",
   "id" : 1955139983,
   "created_at" : "2009-05-29 00:00:00 +0000",
   "user" : {
@@ -463,12 +463,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -477,7 +477,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1955289531",
-  "text" : "The new brand Bing is using the old brand's blog. Maybe a bing.com/blog is in order? I'm picky. http://bit.ly/D4XVy",
+  "text" : "The new brand Bing is using the old brand's blog. Maybe a bing.com\/blog is in order? I'm picky. http:\/\/bit.ly\/D4XVy",
   "id" : 1955289531,
   "created_at" : "2009-05-29 00:00:00 +0000",
   "user" : {
@@ -485,12 +485,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -499,7 +499,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1955538044",
-  "text" : "Interesting. One of the first Wave API examples is Tweety, \"which helps you use Twitter easily inside Google Wave\". http://bit.ly/In5OC",
+  "text" : "Interesting. One of the first Wave API examples is Tweety, \"which helps you use Twitter easily inside Google Wave\". http:\/\/bit.ly\/In5OC",
   "id" : 1955538044,
   "created_at" : "2009-05-29 00:00:00 +0000",
   "user" : {
@@ -507,12 +507,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -529,12 +529,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -543,7 +543,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1955644242",
-  "text" : "Laodicean = Indifferent or lukewarm especially in matters of religion. Also the 2009 Scripps Spelling Bee winning word. http://bit.ly/8YHfs",
+  "text" : "Laodicean = Indifferent or lukewarm especially in matters of religion. Also the 2009 Scripps Spelling Bee winning word. http:\/\/bit.ly\/8YHfs",
   "id" : 1955644242,
   "created_at" : "2009-05-29 00:00:00 +0000",
   "user" : {
@@ -551,12 +551,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -573,12 +573,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -587,7 +587,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1960908797",
-  "text" : "A seven year old sent NASA a picture to help get Spirit unstuck. They like the idea. Helpful kid! http://bit.ly/mlRmi",
+  "text" : "A seven year old sent NASA a picture to help get Spirit unstuck. They like the idea. Helpful kid! http:\/\/bit.ly\/mlRmi",
   "id" : 1960908797,
   "created_at" : "2009-05-29 00:00:00 +0000",
   "user" : {
@@ -595,12 +595,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -609,7 +609,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1960971280",
-  "text" : "I always like rereading the fake \"If Feynman applied at Microsoft\" interview. (via oreilly radar) http://bit.ly/CzdtI",
+  "text" : "I always like rereading the fake \"If Feynman applied at Microsoft\" interview. (via oreilly radar) http:\/\/bit.ly\/CzdtI",
   "id" : 1960971280,
   "created_at" : "2009-05-29 00:00:00 +0000",
   "user" : {
@@ -617,12 +617,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -631,7 +631,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1961240788",
-  "text" : "Rosy is probably the coolest part of the Wave demo. On the fly language translation in chat. That's just fun. http://bit.ly/904dZ",
+  "text" : "Rosy is probably the coolest part of the Wave demo. On the fly language translation in chat. That's just fun. http:\/\/bit.ly\/904dZ",
   "id" : 1961240788,
   "created_at" : "2009-05-29 00:00:00 +0000",
   "user" : {
@@ -639,12 +639,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -653,7 +653,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1961574319",
-  "text" : "I like Skydeck the concept, but my phone has been dragging just a noticeable bit. Searchable texts is cool though. http://bit.ly/Xp4Q2",
+  "text" : "I like Skydeck the concept, but my phone has been dragging just a noticeable bit. Searchable texts is cool though. http:\/\/bit.ly\/Xp4Q2",
   "id" : 1961574319,
   "created_at" : "2009-05-29 00:00:00 +0000",
   "user" : {
@@ -661,12 +661,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -683,12 +683,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -705,12 +705,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -736,12 +736,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Neil Gorman",
@@ -767,12 +767,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -781,7 +781,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1963875955",
-  "text" : "Video Poker sounds Evil in this article. I'm betting the predatory gambling group is right though. http://bit.ly/hZ3Kt",
+  "text" : "Video Poker sounds Evil in this article. I'm betting the predatory gambling group is right though. http:\/\/bit.ly\/hZ3Kt",
   "id" : 1963875955,
   "created_at" : "2009-05-29 00:00:00 +0000",
   "user" : {
@@ -789,12 +789,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Neil Gorman",
@@ -820,12 +820,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -834,7 +834,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1964943128",
-  "text" : "Looks like Twitter needs to take a \"hide\" lesson from FriendFeed. Spymaster is angering some people. http://bit.ly/13XLNl",
+  "text" : "Looks like Twitter needs to take a \"hide\" lesson from FriendFeed. Spymaster is angering some people. http:\/\/bit.ly\/13XLNl",
   "id" : 1964943128,
   "created_at" : "2009-05-29 00:00:00 +0000",
   "user" : {
@@ -842,12 +842,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -856,7 +856,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1965019528",
-  "text" : "Alex King's Wordpress plugin Link Harvest is pretty cool looking. http://bit.ly/10Zpsl",
+  "text" : "Alex King's Wordpress plugin Link Harvest is pretty cool looking. http:\/\/bit.ly\/10Zpsl",
   "id" : 1965019528,
   "created_at" : "2009-05-29 00:00:00 +0000",
   "user" : {
@@ -864,12 +864,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -878,7 +878,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1965056350",
-  "text" : "Auto Tune The News #4 has been posted! This stuff is great. http://tr.im/mQn2",
+  "text" : "Auto Tune The News #4 has been posted! This stuff is great. http:\/\/tr.im\/mQn2",
   "id" : 1965056350,
   "created_at" : "2009-05-29 00:00:00 +0000",
   "user" : {
@@ -886,12 +886,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Spirit and Oppy ",
@@ -919,12 +919,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Diddy",
@@ -950,12 +950,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Evan Williams",
@@ -970,7 +970,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1942203395",
-  "text" : "Even @ev had something to say about it, albeit slightly cryptic. http://bit.ly/EeoXu",
+  "text" : "Even @ev had something to say about it, albeit slightly cryptic. http:\/\/bit.ly\/EeoXu",
   "id" : 1942203395,
   "created_at" : "2009-05-28 00:00:00 +0000",
   "user" : {
@@ -978,12 +978,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Diddy",
@@ -1006,12 +1006,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1028,12 +1028,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Diddy",
@@ -1056,12 +1056,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1070,7 +1070,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1942403695",
-  "text" : "Google Chrome now supports the HTML5 video tag in the latest Dev release, 3.0.182.2. http://bit.ly/CMJYk",
+  "text" : "Google Chrome now supports the HTML5 video tag in the latest Dev release, 3.0.182.2. http:\/\/bit.ly\/CMJYk",
   "id" : 1942403695,
   "created_at" : "2009-05-28 00:00:00 +0000",
   "user" : {
@@ -1078,12 +1078,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jennifer Preston ",
@@ -1109,12 +1109,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1123,7 +1123,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1942835382",
-  "text" : "Don't worry Bostonians, you're safe via twitter if there's a Zombie attack thanks to the Boston PD. http://bit.ly/40un9g",
+  "text" : "Don't worry Bostonians, you're safe via twitter if there's a Zombie attack thanks to the Boston PD. http:\/\/bit.ly\/40un9g",
   "id" : 1942835382,
   "created_at" : "2009-05-28 00:00:00 +0000",
   "user" : {
@@ -1131,12 +1131,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1145,7 +1145,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1943005892",
-  "text" : "And you thought Chopsticks in Big was cool on the floor piano. (I did) http://bit.ly/AdD2e",
+  "text" : "And you thought Chopsticks in Big was cool on the floor piano. (I did) http:\/\/bit.ly\/AdD2e",
   "id" : 1943005892,
   "created_at" : "2009-05-28 00:00:00 +0000",
   "user" : {
@@ -1153,12 +1153,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1167,7 +1167,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1943195373",
-  "text" : "Times Square is becoming pedestrian friendly. That's cool. http://bit.ly/10sHIJ",
+  "text" : "Times Square is becoming pedestrian friendly. That's cool. http:\/\/bit.ly\/10sHIJ",
   "id" : 1943195373,
   "created_at" : "2009-05-28 00:00:00 +0000",
   "user" : {
@@ -1175,12 +1175,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Scott",
@@ -1197,7 +1197,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : { },
   "id_str" : "1943237041",
   "in_reply_to_user_id" : 17909879,
-  "text" : "@Tayaya This may help even more - http://bit.ly/nZsAZ",
+  "text" : "@Tayaya This may help even more - http:\/\/bit.ly\/nZsAZ",
   "id" : 1943237041,
   "in_reply_to_status_id" : 1943172695,
   "created_at" : "2009-05-28 00:00:00 +0000",
@@ -1208,12 +1208,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1230,7 +1230,7 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -1244,7 +1244,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1948862370",
-  "text" : "Google just announced Google Wave. Looks cool from the screenshot. Can't wait for a hands on. http://bit.ly/lKi7Q",
+  "text" : "Google just announced Google Wave. Looks cool from the screenshot. Can't wait for a hands on. http:\/\/bit.ly\/lKi7Q",
   "id" : 1948862370,
   "created_at" : "2009-05-28 00:00:00 +0000",
   "user" : {
@@ -1252,7 +1252,7 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -1266,7 +1266,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1948985524",
-  "text" : "Techcrunch has a great detailed write up on Google Wave. I want to play now. Lots of dev reading to do tonight. http://bit.ly/19mJEq",
+  "text" : "Techcrunch has a great detailed write up on Google Wave. I want to play now. Lots of dev reading to do tonight. http:\/\/bit.ly\/19mJEq",
   "id" : 1948985524,
   "created_at" : "2009-05-28 00:00:00 +0000",
   "user" : {
@@ -1274,7 +1274,7 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -1302,7 +1302,7 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -1324,12 +1324,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1346,12 +1346,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1368,12 +1368,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Scott",
@@ -1399,12 +1399,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1413,7 +1413,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1930021582",
-  "text" : "Dinner shall be tasty. http://post.ly/fCC",
+  "text" : "Dinner shall be tasty. http:\/\/post.ly\/fCC",
   "id" : 1930021582,
   "created_at" : "2009-05-27 00:00:00 +0000",
   "user" : {
@@ -1421,12 +1421,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Garry Tan",
@@ -1441,7 +1441,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1930408714",
-  "text" : "Nice, I did a term paper compare/contrast 1984 w/ Brave New World RT @garrytan: Orwell vs Huxley http://post.ly/fCQ",
+  "text" : "Nice, I did a term paper compare\/contrast 1984 w\/ Brave New World RT @garrytan: Orwell vs Huxley http:\/\/post.ly\/fCQ",
   "id" : 1930408714,
   "created_at" : "2009-05-27 00:00:00 +0000",
   "user" : {
@@ -1449,12 +1449,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Topsy",
@@ -1477,12 +1477,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Fermilab Today",
@@ -1503,7 +1503,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1931011444",
-  "text" : "Physics geeks, @FermilabToday is on Twitter. Ultra physics geeks - @Tevatron. Tevatron = most powerful accelerator in US http://bit.ly/eK3bV",
+  "text" : "Physics geeks, @FermilabToday is on Twitter. Ultra physics geeks - @Tevatron. Tevatron = most powerful accelerator in US http:\/\/bit.ly\/eK3bV",
   "id" : 1931011444,
   "created_at" : "2009-05-27 00:00:00 +0000",
   "user" : {
@@ -1511,12 +1511,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1525,7 +1525,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1931519593",
-  "text" : "Twitter As News [Educer] http://bit.ly/16XWvE",
+  "text" : "Twitter As News [Educer] http:\/\/bit.ly\/16XWvE",
   "id" : 1931519593,
   "created_at" : "2009-05-27 00:00:00 +0000",
   "user" : {
@@ -1533,12 +1533,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Scott",
@@ -1566,12 +1566,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1580,7 +1580,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1931710476",
-  "text" : "Crap, new obsession alert - \"DIY cheap (or free!) macro photo studio\" http://bit.ly/DbA0Y",
+  "text" : "Crap, new obsession alert - \"DIY cheap (or free!) macro photo studio\" http:\/\/bit.ly\/DbA0Y",
   "id" : 1931710476,
   "created_at" : "2009-05-27 00:00:00 +0000",
   "user" : {
@@ -1588,12 +1588,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1602,7 +1602,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1931846636",
-  "text" : "Can it get any better? \"'Flight of the Navigator': Remake Time\" http://bit.ly/4TaGe",
+  "text" : "Can it get any better? \"'Flight of the Navigator': Remake Time\" http:\/\/bit.ly\/4TaGe",
   "id" : 1931846636,
   "created_at" : "2009-05-27 00:00:00 +0000",
   "user" : {
@@ -1610,12 +1610,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1624,7 +1624,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1931914766",
-  "text" : "Google Reader launched a desktop gadget. I always want MORE real estate for using reader, not sure if this would help. http://bit.ly/lVIpS",
+  "text" : "Google Reader launched a desktop gadget. I always want MORE real estate for using reader, not sure if this would help. http:\/\/bit.ly\/lVIpS",
   "id" : 1931914766,
   "created_at" : "2009-05-27 00:00:00 +0000",
   "user" : {
@@ -1632,12 +1632,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1646,7 +1646,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1939551450",
-  "text" : "Interesting...  \"Topsy doesn't index tweets without links\" - makes sense for the type of service. http://bit.ly/15bOtJ",
+  "text" : "Interesting...  \"Topsy doesn't index tweets without links\" - makes sense for the type of service. http:\/\/bit.ly\/15bOtJ",
   "id" : 1939551450,
   "created_at" : "2009-05-27 00:00:00 +0000",
   "user" : {
@@ -1654,7 +1654,7 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -1674,7 +1674,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1940410771",
-  "text" : "Twitter Might Start Adding Comments & Location-Based Information to Each Tweet (via @rww) http://bit.ly/8Af8",
+  "text" : "Twitter Might Start Adding Comments & Location-Based Information to Each Tweet (via @rww) http:\/\/bit.ly\/8Af8",
   "id" : 1940410771,
   "created_at" : "2009-05-27 00:00:00 +0000",
   "user" : {
@@ -1682,12 +1682,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1696,7 +1696,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1929728873",
-  "text" : "Topsy introductory blog post. My first 5 minute impression = Cool! http://bit.ly/13lNxB",
+  "text" : "Topsy introductory blog post. My first 5 minute impression = Cool! http:\/\/bit.ly\/13lNxB",
   "id" : 1929728873,
   "created_at" : "2009-05-27 00:00:00 +0000",
   "user" : {
@@ -1704,12 +1704,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "A Googler",
@@ -1724,7 +1724,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1918707108",
-  "text" : "Amazing Stuff - Nathan \"Flutebox\" Lee and Beardyman performing @Google, London http://bit.ly/yf77f",
+  "text" : "Amazing Stuff - Nathan \"Flutebox\" Lee and Beardyman performing @Google, London http:\/\/bit.ly\/yf77f",
   "id" : 1918707108,
   "created_at" : "2009-05-26 00:00:00 +0000",
   "user" : {
@@ -1732,12 +1732,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1746,7 +1746,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1919058578",
-  "text" : "Twitter responds to the Hollywood rumors. http://bit.ly/ZgFEE",
+  "text" : "Twitter responds to the Hollywood rumors. http:\/\/bit.ly\/ZgFEE",
   "id" : 1919058578,
   "created_at" : "2009-05-26 00:00:00 +0000",
   "user" : {
@@ -1754,12 +1754,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -1774,7 +1774,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1925832309",
-  "text" : "What a pick. \"she's .... remarkably quiet around the web\" RT @davewiner: NYTimes Appoints First Social Media Editor. http://tr.im/mscX",
+  "text" : "What a pick. \"she's .... remarkably quiet around the web\" RT @davewiner: NYTimes Appoints First Social Media Editor. http:\/\/tr.im\/mscX",
   "id" : 1925832309,
   "created_at" : "2009-05-26 00:00:00 +0000",
   "user" : {
@@ -1782,12 +1782,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jennifer Preston ",
@@ -1803,7 +1803,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : { },
   "id_str" : "1927028573",
   "in_reply_to_user_id" : 37759047,
-  "text" : "@NYT_JenPreston Anyone can push news. You can consolidate/edit/pub the community's local/nation/world responses and reactions",
+  "text" : "@NYT_JenPreston Anyone can push news. You can consolidate\/edit\/pub the community's local\/nation\/world responses and reactions",
   "id" : 1927028573,
   "created_at" : "2009-05-26 00:00:00 +0000",
   "in_reply_to_screen_name" : "JenniferPreston",
@@ -1813,12 +1813,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "ReadWrite",
@@ -1839,7 +1839,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1929592346",
-  "text" : "Web 3.0 or Not, There's Something Different About 2009 (@rww via @timoreilly) http://bit.ly/GOgzG",
+  "text" : "Web 3.0 or Not, There's Something Different About 2009 (@rww via @timoreilly) http:\/\/bit.ly\/GOgzG",
   "id" : 1929592346,
   "created_at" : "2009-05-26 00:00:00 +0000",
   "user" : {
@@ -1847,12 +1847,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1861,7 +1861,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1929626340",
-  "text" : "1st Hispanic justice? Maybe it was Cardozo (Hoover, 1932) http://bit.ly/XUhSm",
+  "text" : "1st Hispanic justice? Maybe it was Cardozo (Hoover, 1932) http:\/\/bit.ly\/XUhSm",
   "id" : 1929626340,
   "created_at" : "2009-05-26 00:00:00 +0000",
   "user" : {
@@ -1869,12 +1869,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "TechCrunch",
@@ -1889,7 +1889,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1929663893",
-  "text" : "topsy retweet search is supposed to launch \"now\" per @techcrunch but I get a beta login prompt. http://bit.ly/edqBe",
+  "text" : "topsy retweet search is supposed to launch \"now\" per @techcrunch but I get a beta login prompt. http:\/\/bit.ly\/edqBe",
   "id" : 1929663893,
   "created_at" : "2009-05-26 00:00:00 +0000",
   "user" : {
@@ -1897,12 +1897,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1911,7 +1911,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1929671286",
-  "text" : "ha ha, nevermind, I knew that would cause it to come up - check out topsy.com it's working. http://bit.ly/Bgbp9",
+  "text" : "ha ha, nevermind, I knew that would cause it to come up - check out topsy.com it's working. http:\/\/bit.ly\/Bgbp9",
   "id" : 1929671286,
   "created_at" : "2009-05-26 00:00:00 +0000",
   "user" : {
@@ -1919,12 +1919,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1933,7 +1933,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1892992984",
-  "text" : "Lebron James is 24 years old. Have you seen his game winning three from last night? http://bit.ly/HChZx",
+  "text" : "Lebron James is 24 years old. Have you seen his game winning three from last night? http:\/\/bit.ly\/HChZx",
   "id" : 1892992984,
   "created_at" : "2009-05-23 00:00:00 +0000",
   "user" : {
@@ -1941,12 +1941,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1955,7 +1955,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1878256925",
-  "text" : "Amazing pictures of the Hubble repair mission. http://bit.ly/o4wfC",
+  "text" : "Amazing pictures of the Hubble repair mission. http:\/\/bit.ly\/o4wfC",
   "id" : 1878256925,
   "created_at" : "2009-05-22 00:00:00 +0000",
   "user" : {
@@ -1963,12 +1963,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1980,7 +1980,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1881695527",
-  "text" : "Monticello From The Garden 1 #photograph http://bit.ly/W0Ogg",
+  "text" : "Monticello From The Garden 1 #photograph http:\/\/bit.ly\/W0Ogg",
   "id" : 1881695527,
   "created_at" : "2009-05-22 00:00:00 +0000",
   "user" : {
@@ -1988,12 +1988,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2005,7 +2005,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1881698742",
-  "text" : "Monticello From The Garden 2 #photograph http://bit.ly/10g7qB",
+  "text" : "Monticello From The Garden 2 #photograph http:\/\/bit.ly\/10g7qB",
   "id" : 1881698742,
   "created_at" : "2009-05-22 00:00:00 +0000",
   "user" : {
@@ -2013,12 +2013,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2027,7 +2027,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1884110351",
-  "text" : "Blue Ridge Mountains From Montpelier http://post.ly/cuj",
+  "text" : "Blue Ridge Mountains From Montpelier http:\/\/post.ly\/cuj",
   "id" : 1884110351,
   "created_at" : "2009-05-22 00:00:00 +0000",
   "user" : {
@@ -2035,12 +2035,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2057,7 +2057,7 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -2071,7 +2071,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1867020292",
-  "text" : "(mobile failed bitly earlier) RT West Virginia counties can be certified business locations. Signs tell you if they are. http://bit.ly/pdLlh",
+  "text" : "(mobile failed bitly earlier) RT West Virginia counties can be certified business locations. Signs tell you if they are. http:\/\/bit.ly\/pdLlh",
   "id" : 1867020292,
   "created_at" : "2009-05-21 00:00:00 +0000",
   "user" : {
@@ -2079,12 +2079,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2093,7 +2093,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1867266357",
-  "text" : "This Is Not Ikea (Site is getting pounded right now, but cool concept) http://bit.ly/qO5ix",
+  "text" : "This Is Not Ikea (Site is getting pounded right now, but cool concept) http:\/\/bit.ly\/qO5ix",
   "id" : 1867266357,
   "created_at" : "2009-05-21 00:00:00 +0000",
   "user" : {
@@ -2101,12 +2101,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2123,12 +2123,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2137,7 +2137,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1872261260",
-  "text" : "Monticello Grounds http://post.ly/cDf",
+  "text" : "Monticello Grounds http:\/\/post.ly\/cDf",
   "id" : 1872261260,
   "created_at" : "2009-05-21 00:00:00 +0000",
   "user" : {
@@ -2145,12 +2145,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2167,12 +2167,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2181,7 +2181,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1854466464",
-  "text" : "Boring roads of Indiana at night. Fun fun fun. http://post.ly/bBd",
+  "text" : "Boring roads of Indiana at night. Fun fun fun. http:\/\/post.ly\/bBd",
   "id" : 1854466464,
   "created_at" : "2009-05-20 00:00:00 +0000",
   "user" : {
@@ -2189,12 +2189,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Scott",
@@ -2220,12 +2220,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2242,12 +2242,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2264,12 +2264,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2278,7 +2278,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1856347959",
-  "text" : "\"Igor Panarin has been predicting the \u201Cmoral and economic collapse\u201D of the US for about a decade now.\" (map) http://bit.ly/8nfCQ",
+  "text" : "\"Igor Panarin has been predicting the \u201Cmoral and economic collapse\u201D of the US for about a decade now.\" (map) http:\/\/bit.ly\/8nfCQ",
   "id" : 1856347959,
   "created_at" : "2009-05-20 00:00:00 +0000",
   "user" : {
@@ -2286,12 +2286,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2300,7 +2300,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1856474467",
-  "text" : "Tried buzzd a few times today in the car passing by various towns. Seems pretty cool and works decent enoufh so far. http://bit.ly/r9OZa",
+  "text" : "Tried buzzd a few times today in the car passing by various towns. Seems pretty cool and works decent enoufh so far. http:\/\/bit.ly\/r9OZa",
   "id" : 1856474467,
   "created_at" : "2009-05-20 00:00:00 +0000",
   "user" : {
@@ -2308,12 +2308,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2322,7 +2322,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1859578324",
-  "text" : "\"Twitter sees tools, not ads, for revenue\" http://bit.ly/195rf",
+  "text" : "\"Twitter sees tools, not ads, for revenue\" http:\/\/bit.ly\/195rf",
   "id" : 1859578324,
   "created_at" : "2009-05-20 00:00:00 +0000",
   "user" : {
@@ -2330,12 +2330,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2344,7 +2344,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1859671896",
-  "text" : "The auto industry argument is an easy cop out - \"Safety could suffer if we boost mileage by making cars smaller\" http://bit.ly/3nUE6",
+  "text" : "The auto industry argument is an easy cop out - \"Safety could suffer if we boost mileage by making cars smaller\" http:\/\/bit.ly\/3nUE6",
   "id" : 1859671896,
   "created_at" : "2009-05-20 00:00:00 +0000",
   "user" : {
@@ -2352,12 +2352,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2374,12 +2374,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2388,7 +2388,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1861752345",
-  "text" : "Ale 8 is decent.  And has caffeine. http://post.ly/beA",
+  "text" : "Ale 8 is decent.  And has caffeine. http:\/\/post.ly\/beA",
   "id" : 1861752345,
   "created_at" : "2009-05-20 00:00:00 +0000",
   "user" : {
@@ -2396,12 +2396,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2410,7 +2410,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1863198309",
-  "text" : "Charleston, West Virginia http://post.ly/bic",
+  "text" : "Charleston, West Virginia http:\/\/post.ly\/bic",
   "id" : 1863198309,
   "created_at" : "2009-05-20 00:00:00 +0000",
   "user" : {
@@ -2418,12 +2418,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2432,7 +2432,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1864490737",
-  "text" : "Welcome to Virginia http://post.ly/bn1",
+  "text" : "Welcome to Virginia http:\/\/post.ly\/bn1",
   "id" : 1864490737,
   "created_at" : "2009-05-20 00:00:00 +0000",
   "user" : {
@@ -2440,12 +2440,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Tim O'Reilly",
@@ -2474,12 +2474,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -2494,7 +2494,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1847230387",
-  "text" : "Great Orwell article.  RT @davewiner: ....paraphrase of george orwell, who was talking about journalism. :-) http://tr.im/lKLb",
+  "text" : "Great Orwell article.  RT @davewiner: ....paraphrase of george orwell, who was talking about journalism. :-) http:\/\/tr.im\/lKLb",
   "id" : 1847230387,
   "created_at" : "2009-05-19 00:00:00 +0000",
   "user" : {
@@ -2502,12 +2502,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Gavin Bate",
@@ -2522,7 +2522,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1847271041",
-  "text" : "No tweet from @gavinbate at the top of Everest. He had trouble with the summit ascent today. http://bit.ly/lrM4C",
+  "text" : "No tweet from @gavinbate at the top of Everest. He had trouble with the summit ascent today. http:\/\/bit.ly\/lrM4C",
   "id" : 1847271041,
   "created_at" : "2009-05-19 00:00:00 +0000",
   "user" : {
@@ -2530,12 +2530,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -2552,7 +2552,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : { },
   "id_str" : "1848121114",
   "in_reply_to_user_id" : 3839,
-  "text" : "@davewiner upfront  = \"meeting of television network executives with the press and ... major advertisers.\" http://bit.ly/ifaNo",
+  "text" : "@davewiner upfront  = \"meeting of television network executives with the press and ... major advertisers.\" http:\/\/bit.ly\/ifaNo",
   "id" : 1848121114,
   "in_reply_to_status_id" : 1848095684,
   "created_at" : "2009-05-19 00:00:00 +0000",
@@ -2563,12 +2563,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2577,7 +2577,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1848560980",
-  "text" : "How does Posterous handle long emails sent to the twitter update? \tLet's find out. http://post.ly/atD",
+  "text" : "How does Posterous handle long emails sent to the twitter update? \tLet's find out. http:\/\/post.ly\/atD",
   "id" : 1848560980,
   "created_at" : "2009-05-19 00:00:00 +0000",
   "user" : {
@@ -2585,12 +2585,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2607,12 +2607,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2629,12 +2629,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2651,12 +2651,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dropbox",
@@ -2672,7 +2672,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : { },
   "id_str" : "1850353078",
   "in_reply_to_user_id" : 14749606,
-  "text" : "@dropbox is awesome. http://bit.ly/Mhsge",
+  "text" : "@dropbox is awesome. http:\/\/bit.ly\/Mhsge",
   "id" : 1850353078,
   "created_at" : "2009-05-19 00:00:00 +0000",
   "in_reply_to_screen_name" : "Dropbox",
@@ -2682,12 +2682,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2696,7 +2696,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1851117723",
-  "text" : "Just setup my BlackBerry Pearl as a laptop modem, 950kbps down, 128kbps up. Had no idea it was that easy. This helped - http://bit.ly/ZPbq8",
+  "text" : "Just setup my BlackBerry Pearl as a laptop modem, 950kbps down, 128kbps up. Had no idea it was that easy. This helped - http:\/\/bit.ly\/ZPbq8",
   "id" : 1851117723,
   "created_at" : "2009-05-19 00:00:00 +0000",
   "user" : {
@@ -2704,12 +2704,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2718,7 +2718,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1852003334",
-  "text" : "Tweeting too Hard - \"Where self-important tweets get the recognition they deserver.\" http://bit.ly/mt0bP",
+  "text" : "Tweeting too Hard - \"Where self-important tweets get the recognition they deserver.\" http:\/\/bit.ly\/mt0bP",
   "id" : 1852003334,
   "created_at" : "2009-05-19 00:00:00 +0000",
   "user" : {
@@ -2726,12 +2726,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2740,7 +2740,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1852114766",
-  "text" : "Amusing Contextual Ad for Zen Habits \"55 Ways to Get More Energy\" \tPost http://post.ly/b5R",
+  "text" : "Amusing Contextual Ad for Zen Habits \"55 Ways to Get More Energy\" \tPost http:\/\/post.ly\/b5R",
   "id" : 1852114766,
   "created_at" : "2009-05-19 00:00:00 +0000",
   "user" : {
@@ -2748,12 +2748,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2770,12 +2770,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2784,7 +2784,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1831863421",
-  "text" : "Fun with brands \u2013 Jane\u2019s Brand-timeline Portrait  http://bit.ly/c6MQk",
+  "text" : "Fun with brands \u2013 Jane\u2019s Brand-timeline Portrait  http:\/\/bit.ly\/c6MQk",
   "id" : 1831863421,
   "created_at" : "2009-05-18 00:00:00 +0000",
   "user" : {
@@ -2792,12 +2792,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2814,12 +2814,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Tony Ruscoe",
@@ -2834,7 +2834,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1832089118",
-  "text" : "Google Squared has launched - kind of. Type in \"times\" (via @tonyruscoe) http://bit.ly/VdwZw",
+  "text" : "Google Squared has launched - kind of. Type in \"times\" (via @tonyruscoe) http:\/\/bit.ly\/VdwZw",
   "id" : 1832089118,
   "created_at" : "2009-05-18 00:00:00 +0000",
   "user" : {
@@ -2842,12 +2842,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2856,7 +2856,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1829450581",
-  "text" : "\"While the media may have found Twitter, only 5% of Americans are currently using it\" http://bit.ly/JBXGf",
+  "text" : "\"While the media may have found Twitter, only 5% of Americans are currently using it\" http:\/\/bit.ly\/JBXGf",
   "id" : 1829450581,
   "created_at" : "2009-05-17 00:00:00 +0000",
   "user" : {
@@ -2864,12 +2864,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2878,7 +2878,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1829932753",
-  "text" : "Very cool nut cracker. http://post.ly/ZoA",
+  "text" : "Very cool nut cracker. http:\/\/post.ly\/ZoA",
   "id" : 1829932753,
   "created_at" : "2009-05-17 00:00:00 +0000",
   "user" : {
@@ -2886,12 +2886,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2900,7 +2900,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1821827817",
-  "text" : "TiltShiftGenerator (http://tr.im/lypf) makes my photos look minature \tapparently. http://post.ly/ZJ1",
+  "text" : "TiltShiftGenerator (http:\/\/tr.im\/lypf) makes my photos look minature \tapparently. http:\/\/post.ly\/ZJ1",
   "id" : 1821827817,
   "created_at" : "2009-05-17 00:00:00 +0000",
   "user" : {
@@ -2908,12 +2908,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2930,12 +2930,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2944,7 +2944,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1822416404",
-  "text" : "Just added post.ly support to my version of the Top 40 links app.  Maybe bit.ly next? http://tr.im/lyAW",
+  "text" : "Just added post.ly support to my version of the Top 40 links app.  Maybe bit.ly next? http:\/\/tr.im\/lyAW",
   "id" : 1822416404,
   "created_at" : "2009-05-17 00:00:00 +0000",
   "user" : {
@@ -2952,12 +2952,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Garry Tan",
@@ -2985,12 +2985,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2999,7 +2999,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1822588375",
-  "text" : "Auto tune the news - this is Great. http://tr.im/lyEe",
+  "text" : "Auto tune the news - this is Great. http:\/\/tr.im\/lyEe",
   "id" : 1822588375,
   "created_at" : "2009-05-17 00:00:00 +0000",
   "user" : {
@@ -3007,12 +3007,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3029,12 +3029,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3043,7 +3043,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1826761368",
-  "text" : "Playing around with the bit.ly API. http://bit.ly/S7ywP",
+  "text" : "Playing around with the bit.ly API. http:\/\/bit.ly\/S7ywP",
   "id" : 1826761368,
   "created_at" : "2009-05-17 00:00:00 +0000",
   "user" : {
@@ -3051,12 +3051,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3065,7 +3065,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1829074525",
-  "text" : "Now with bit.ly support - my 40 Most Recent Links on Twitter http://bit.ly/2mqCgC",
+  "text" : "Now with bit.ly support - my 40 Most Recent Links on Twitter http:\/\/bit.ly\/2mqCgC",
   "id" : 1829074525,
   "created_at" : "2009-05-17 00:00:00 +0000",
   "user" : {
@@ -3073,12 +3073,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3087,7 +3087,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1812720256",
-  "text" : "Cat yodeling will soon take over the universe and you don't want to be left behind. http://tr.im/luG0",
+  "text" : "Cat yodeling will soon take over the universe and you don't want to be left behind. http:\/\/tr.im\/luG0",
   "id" : 1812720256,
   "created_at" : "2009-05-16 00:00:00 +0000",
   "user" : {
@@ -3095,12 +3095,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3109,7 +3109,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1812780591",
-  "text" : "\"I assume Obama's doing a good job since the biggest douchebags in the country think he's doing a bad job.\" http://tr.im/luH8",
+  "text" : "\"I assume Obama's doing a good job since the biggest douchebags in the country think he's doing a bad job.\" http:\/\/tr.im\/luH8",
   "id" : 1812780591,
   "created_at" : "2009-05-16 00:00:00 +0000",
   "user" : {
@@ -3117,12 +3117,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3131,7 +3131,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1812925113",
-  "text" : "Playing with Wolfram Alpha. It's early, but it seems like they aren't playing with enough data yet. Somewhat boring. http://tr.im/luK8",
+  "text" : "Playing with Wolfram Alpha. It's early, but it seems like they aren't playing with enough data yet. Somewhat boring. http:\/\/tr.im\/luK8",
   "id" : 1812925113,
   "created_at" : "2009-05-16 00:00:00 +0000",
   "user" : {
@@ -3139,12 +3139,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3161,12 +3161,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3175,7 +3175,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1810556956",
-  "text" : "Be safe when emailing and walking with your iPhone... there's an app for that. http://tr.im/ltEM",
+  "text" : "Be safe when emailing and walking with your iPhone... there's an app for that. http:\/\/tr.im\/ltEM",
   "id" : 1810556956,
   "created_at" : "2009-05-15 00:00:00 +0000",
   "user" : {
@@ -3183,12 +3183,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3205,7 +3205,7 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -3219,7 +3219,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1799443752",
-  "text" : "Google Chrome Extensions - easy and they work!  Yes! http://tr.im/lnoy",
+  "text" : "Google Chrome Extensions - easy and they work!  Yes! http:\/\/tr.im\/lnoy",
   "id" : 1799443752,
   "created_at" : "2009-05-14 00:00:00 +0000",
   "user" : {
@@ -3227,12 +3227,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3249,12 +3249,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3263,7 +3263,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1780986622",
-  "text" : "Effin Hail = Very Very Addictive http://tr.im/lcsd",
+  "text" : "Effin Hail = Very Very Addictive http:\/\/tr.im\/lcsd",
   "id" : 1780986622,
   "created_at" : "2009-05-13 00:00:00 +0000",
   "user" : {
@@ -3271,12 +3271,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3293,12 +3293,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3315,12 +3315,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://desktop.seesmic.com/\" rel=\"nofollow\">Seesmic Desktop</a>",
+  "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3337,12 +3337,12 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3351,7 +3351,7 @@ Grailbird.data.tweets_2009_05 =
   },
   "geo" : { },
   "id_str" : "1789599088",
-  "text" : "I'm only trying to install vine.  What is it doing? http://post.ly/XP2",
+  "text" : "I'm only trying to install vine.  What is it doing? http:\/\/post.ly\/XP2",
   "id" : 1789599088,
   "created_at" : "2009-05-13 00:00:00 +0000",
   "user" : {
@@ -3359,7 +3359,7 @@ Grailbird.data.tweets_2009_05 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }

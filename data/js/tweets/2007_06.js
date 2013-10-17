@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2007_06 = 
  [ {
-  "source" : "<a href=\"http://www.twitbin.com/\" rel=\"nofollow\">TwitBin</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.twitbin.com\/\" rel=\"nofollow\"\u003ETwitBin\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -17,12 +17,12 @@ Grailbird.data.tweets_2007_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.twitbin.com/\" rel=\"nofollow\">TwitBin</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.twitbin.com\/\" rel=\"nofollow\"\u003ETwitBin\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -39,12 +39,12 @@ Grailbird.data.tweets_2007_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.twitbin.com/\" rel=\"nofollow\">TwitBin</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.twitbin.com\/\" rel=\"nofollow\"\u003ETwitBin\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -61,7 +61,7 @@ Grailbird.data.tweets_2007_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }

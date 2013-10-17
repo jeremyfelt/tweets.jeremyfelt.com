@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2009_09 = 
  [ {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -17,12 +17,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -39,12 +39,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -61,12 +61,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -83,12 +83,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetdeck.com/\" rel=\"nofollow\">TweetDeck</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\/\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -105,12 +105,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -119,7 +119,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4532382923",
-  "text" : "\"Conversation doesn\u2019t have to be chess.\" My thoughts on Wave are still the same. BTW, it's cool! http://tr.im/Ammp",
+  "text" : "\"Conversation doesn\u2019t have to be chess.\" My thoughts on Wave are still the same. BTW, it's cool! http:\/\/tr.im\/Ammp",
   "id" : 4532382923,
   "created_at" : "2009-10-01 00:00:00 +0000",
   "user" : {
@@ -127,12 +127,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Garry Tan",
@@ -161,12 +161,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetdeck.com/\" rel=\"nofollow\">TweetDeck</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\/\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Matt Mastracci",
@@ -194,12 +194,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetdeck.com/\" rel=\"nofollow\">TweetDeck</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\/\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -216,12 +216,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetdeck.com/\" rel=\"nofollow\">TweetDeck</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\/\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Loic Le Meur",
@@ -247,12 +247,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -261,7 +261,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4499039293",
-  "text" : "\"The pubsubhubbub server hosted by Google has been pushed into every Blogger feed\" http://tr.im/Ae1W Pushed in bold.",
+  "text" : "\"The pubsubhubbub server hosted by Google has been pushed into every Blogger feed\" http:\/\/tr.im\/Ae1W Pushed in bold.",
   "id" : 4499039293,
   "created_at" : "2009-09-30 00:00:00 +0000",
   "user" : {
@@ -269,12 +269,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Brizzly",
@@ -300,12 +300,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -314,7 +314,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4501628676",
-  "text" : "Wow. Had no idea the UK postal code DB was leaked. I was looking for this last month. Awesome. http://tr.im/AeJw",
+  "text" : "Wow. Had no idea the UK postal code DB was leaked. I was looking for this last month. Awesome. http:\/\/tr.im\/AeJw",
   "id" : 4501628676,
   "created_at" : "2009-09-30 00:00:00 +0000",
   "user" : {
@@ -322,12 +322,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -344,12 +344,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -366,12 +366,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Matt Terenzio",
@@ -397,12 +397,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -411,7 +411,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4486060379",
-  "text" : "\"Long Black Veil\" - Lefty Frizzell http://tr.im/Aadu or Johnny Cash http://tr.im/Aae9 - Roseanne's wasn't better.",
+  "text" : "\"Long Black Veil\" - Lefty Frizzell http:\/\/tr.im\/Aadu or Johnny Cash http:\/\/tr.im\/Aae9 - Roseanne's wasn't better.",
   "id" : 4486060379,
   "created_at" : "2009-09-30 00:00:00 +0000",
   "user" : {
@@ -419,12 +419,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -441,12 +441,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -463,12 +463,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jay Rosen ",
@@ -491,12 +491,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -505,7 +505,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4488401615",
-  "text" : "My Status Cloud \u2013 Now Supporting RSS Cloud and pubsubhubbub http://tr.im/AaEU",
+  "text" : "My Status Cloud \u2013 Now Supporting RSS Cloud and pubsubhubbub http:\/\/tr.im\/AaEU",
   "id" : 4488401615,
   "created_at" : "2009-09-30 00:00:00 +0000",
   "user" : {
@@ -513,12 +513,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -527,7 +527,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4488705163",
-  "text" : "On RSS Cloud and pubsubhubbub (Part 1) - Publishers Have Some Work To Do http://tr.im/AaIv",
+  "text" : "On RSS Cloud and pubsubhubbub (Part 1) - Publishers Have Some Work To Do http:\/\/tr.im\/AaIv",
   "id" : 4488705163,
   "created_at" : "2009-09-30 00:00:00 +0000",
   "user" : {
@@ -535,12 +535,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -549,7 +549,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4488827493",
-  "text" : "On pubsubhubbub (Part 2) - Get with it, PuSH, you're supposed to be realtime. http://tr.im/AaL1",
+  "text" : "On pubsubhubbub (Part 2) - Get with it, PuSH, you're supposed to be realtime. http:\/\/tr.im\/AaL1",
   "id" : 4488827493,
   "created_at" : "2009-09-30 00:00:00 +0000",
   "user" : {
@@ -557,12 +557,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -571,7 +571,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4456656603",
-  "text" : "Guinness and Chili http://post.ly/6c8J",
+  "text" : "Guinness and Chili http:\/\/post.ly\/6c8J",
   "id" : 4456656603,
   "created_at" : "2009-09-29 00:00:00 +0000",
   "user" : {
@@ -579,12 +579,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetdeck.com/\" rel=\"nofollow\">TweetDeck</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\/\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -601,12 +601,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -623,12 +623,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Brian Boyer",
@@ -654,12 +654,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.brizzly.com\" rel=\"nofollow\">Brizzly</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Brian Boyer",
@@ -674,7 +674,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4478621998",
-  "text" : "Played around with it this morning. Good data! RT @brianboyer: Our new app: Illinois Nursing Home Safety Reports http://bit.ly/1PjJZP",
+  "text" : "Played around with it this morning. Good data! RT @brianboyer: Our new app: Illinois Nursing Home Safety Reports http:\/\/bit.ly\/1PjJZP",
   "id" : 4478621998,
   "created_at" : "2009-09-29 00:00:00 +0000",
   "user" : {
@@ -682,12 +682,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.brizzly.com\" rel=\"nofollow\">Brizzly</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dropbox",
@@ -702,7 +702,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4480754365",
-  "text" : "Should I feel bad for RTing before trying? RT @Dropbox OMG!!! THE DROPBOX IPHONE APP IS OUT!!! &lt;3&lt;3 http://blog.getdropbox.com",
+  "text" : "Should I feel bad for RTing before trying? RT @Dropbox OMG!!! THE DROPBOX IPHONE APP IS OUT!!! &lt;3&lt;3 http:\/\/blog.getdropbox.com",
   "id" : 4480754365,
   "created_at" : "2009-09-29 00:00:00 +0000",
   "user" : {
@@ -710,12 +710,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "NPR News",
@@ -730,7 +730,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4483457097",
-  "text" : "This should be good! RT @nprnews Exclusive First Listen: Rosanne Cash Sings Her Father's 'List' http://su.pr/4fbyPb",
+  "text" : "This should be good! RT @nprnews Exclusive First Listen: Rosanne Cash Sings Her Father's 'List' http:\/\/su.pr\/4fbyPb",
   "id" : 4483457097,
   "created_at" : "2009-09-29 00:00:00 +0000",
   "user" : {
@@ -738,12 +738,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -760,15 +760,15 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetdeck.com/\" rel=\"nofollow\">TweetDeck</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\/\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Suntimes",
+      "name" : "Chicago Sun-Times",
       "screen_name" : "Suntimes",
       "indices" : [ 50, 59 ],
       "id_str" : "12811952",
@@ -788,12 +788,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -802,7 +802,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4452851940",
-  "text" : "Tweets via My Status Cloud are put in a real time RSS Cloud feed. You get your own when you sign up. :) http://tr.im/y2gH",
+  "text" : "Tweets via My Status Cloud are put in a real time RSS Cloud feed. You get your own when you sign up. :) http:\/\/tr.im\/y2gH",
   "id" : 4452851940,
   "created_at" : "2009-09-28 00:00:00 +0000",
   "user" : {
@@ -810,12 +810,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Matt Terenzio",
@@ -837,7 +837,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : { },
   "id_str" : "4452871951",
   "in_reply_to_user_id" : 820002,
-  "text" : "@mterenzio I've been trying to figure out the @techcrunch feed too. Appears to be a WP plugin / feedburner issue.",
+  "text" : "@mterenzio I've been trying to figure out the @techcrunch feed too. Appears to be a WP plugin \/ feedburner issue.",
   "id" : 4452871951,
   "created_at" : "2009-09-28 00:00:00 +0000",
   "in_reply_to_screen_name" : "mterenzio",
@@ -847,12 +847,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Matt Terenzio",
@@ -868,7 +868,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : { },
   "id_str" : "4452884635",
   "in_reply_to_user_id" : 820002,
-  "text" : "@mterenzio Same issue with GigaOm, but I think resolved that by subscribing to http://gigaom.com/feed",
+  "text" : "@mterenzio Same issue with GigaOm, but I think resolved that by subscribing to http:\/\/gigaom.com\/feed",
   "id" : 4452884635,
   "created_at" : "2009-09-28 00:00:00 +0000",
   "in_reply_to_screen_name" : "mterenzio",
@@ -878,12 +878,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -900,12 +900,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Matt Terenzio",
@@ -931,12 +931,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -953,12 +953,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Howard Weaver",
@@ -984,12 +984,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1006,12 +1006,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1028,12 +1028,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1050,12 +1050,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.brizzly.com\" rel=\"nofollow\">Brizzly</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jesse Stay",
@@ -1076,7 +1076,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4385884248",
-  "text" : ". @jesse What @mmastrac said on FF last night - comparisons have been done - \"it's time to code\". :) http://ff.im/8Gxts",
+  "text" : ". @jesse What @mmastrac said on FF last night - comparisons have been done - \"it's time to code\". :) http:\/\/ff.im\/8Gxts",
   "id" : 4385884248,
   "created_at" : "2009-09-26 00:00:00 +0000",
   "user" : {
@@ -1084,12 +1084,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1106,12 +1106,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1128,12 +1128,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1142,7 +1142,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4397942419",
-  "text" : "\"My Status Cloud is an RSS Cloud aggregator, RSS Cloud client, AND Twitter client.\" http://tr.im/y2gH",
+  "text" : "\"My Status Cloud is an RSS Cloud aggregator, RSS Cloud client, AND Twitter client.\" http:\/\/tr.im\/y2gH",
   "id" : 4397942419,
   "created_at" : "2009-09-26 00:00:00 +0000",
   "user" : {
@@ -1150,12 +1150,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1172,12 +1172,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1194,12 +1194,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1208,7 +1208,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4398030917",
-  "text" : "And wrote my first WordPress plugin (before a better one came out) http://tr.im/xLBi",
+  "text" : "And wrote my first WordPress plugin (before a better one came out) http:\/\/tr.im\/xLBi",
   "id" : 4398030917,
   "created_at" : "2009-09-26 00:00:00 +0000",
   "user" : {
@@ -1216,12 +1216,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.brizzly.com\" rel=\"nofollow\">Brizzly</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1230,7 +1230,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4398104138",
-  "text" : "And this one lets you specify the cloud server that you want to use. http://brizzly.com/pic/5LF",
+  "text" : "And this one lets you specify the cloud server that you want to use. http:\/\/brizzly.com\/pic\/5LF",
   "id" : 4398104138,
   "created_at" : "2009-09-26 00:00:00 +0000",
   "user" : {
@@ -1238,12 +1238,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1260,12 +1260,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Derek Sivers",
@@ -1286,7 +1286,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4359184336",
-  "text" : "Does your company really want to hang out with me? http://sivers.org/sms (@sivers via @scobleizer) - Well said!",
+  "text" : "Does your company really want to hang out with me? http:\/\/sivers.org\/sms (@sivers via @scobleizer) - Well said!",
   "id" : 4359184336,
   "created_at" : "2009-09-25 00:00:00 +0000",
   "user" : {
@@ -1294,12 +1294,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.brizzly.com\" rel=\"nofollow\">Brizzly</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Rich Fish",
@@ -1314,7 +1314,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4368339414",
-  "text" : "RT @richfish Making rssCloud easier for Publishers http://vld.me/1K",
+  "text" : "RT @richfish Making rssCloud easier for Publishers http:\/\/vld.me\/1K",
   "id" : 4368339414,
   "created_at" : "2009-09-25 00:00:00 +0000",
   "user" : {
@@ -1322,12 +1322,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1336,7 +1336,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4373526205",
-  "text" : "\"sit back and wait and watch how fast the Open Web catches up\" - The Open Web is on Twitter\u2019s Tail http://tr.im/zJjB",
+  "text" : "\"sit back and wait and watch how fast the Open Web catches up\" - The Open Web is on Twitter\u2019s Tail http:\/\/tr.im\/zJjB",
   "id" : 4373526205,
   "created_at" : "2009-09-25 00:00:00 +0000",
   "user" : {
@@ -1344,15 +1344,15 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "no name",
+      "name" : "Pedro",
       "screen_name" : "medecau",
       "indices" : [ 0, 8 ],
       "id_str" : "10887202",
@@ -1375,15 +1375,15 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "no name",
+      "name" : "Pedro",
       "screen_name" : "medecau",
       "indices" : [ 0, 8 ],
       "id_str" : "10887202",
@@ -1406,12 +1406,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1428,12 +1428,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1450,12 +1450,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetdeck.com/\" rel=\"nofollow\">TweetDeck</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\/\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1472,12 +1472,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1486,7 +1486,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4332403108",
-  "text" : "\"Real-Time Web\" doesn't have to mean All The Time Web - http://tr.im/zzbn",
+  "text" : "\"Real-Time Web\" doesn't have to mean All The Time Web - http:\/\/tr.im\/zzbn",
   "id" : 4332403108,
   "created_at" : "2009-09-24 00:00:00 +0000",
   "user" : {
@@ -1494,12 +1494,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Matt Mastracci",
@@ -1531,12 +1531,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1553,12 +1553,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1575,12 +1575,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1597,12 +1597,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1619,12 +1619,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1641,12 +1641,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Brizzly",
@@ -1661,7 +1661,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4302352069",
-  "text" : "Interesting. @brizzly released a trends API. I like how they're already separating their tech. http://tr.im/zs2Q",
+  "text" : "Interesting. @brizzly released a trends API. I like how they're already separating their tech. http:\/\/tr.im\/zs2Q",
   "id" : 4302352069,
   "created_at" : "2009-09-23 00:00:00 +0000",
   "user" : {
@@ -1669,12 +1669,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1691,12 +1691,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Google Reader",
@@ -1712,7 +1712,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : { },
   "id_str" : "4304730196",
   "in_reply_to_user_id" : 19002481,
-  "text" : "@googlereader has an idea site up. Somewhere else to ask about sending the title parameter with shared notes and \"send to\" http://tr.im/zsr9",
+  "text" : "@googlereader has an idea site up. Somewhere else to ask about sending the title parameter with shared notes and \"send to\" http:\/\/tr.im\/zsr9",
   "id" : 4304730196,
   "created_at" : "2009-09-23 00:00:00 +0000",
   "in_reply_to_screen_name" : "googlereader",
@@ -1722,12 +1722,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1736,7 +1736,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4304921377",
-  "text" : "\"Your secrecy can \u2014 and will \u2014 deprive you of valuable feedback and insight.\" http://tr.im/zsti",
+  "text" : "\"Your secrecy can \u2014 and will \u2014 deprive you of valuable feedback and insight.\" http:\/\/tr.im\/zsti",
   "id" : 4304921377,
   "created_at" : "2009-09-23 00:00:00 +0000",
   "user" : {
@@ -1744,12 +1744,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1766,12 +1766,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1780,7 +1780,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4308429117",
-  "text" : "My Status Cloud - Feelin' Pretty(er) Every Day http://tr.im/zt4T",
+  "text" : "My Status Cloud - Feelin' Pretty(er) Every Day http:\/\/tr.im\/zt4T",
   "id" : 4308429117,
   "created_at" : "2009-09-23 00:00:00 +0000",
   "user" : {
@@ -1788,12 +1788,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1802,7 +1802,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4322349663",
-  "text" : "\"Google is trying to take interactivity away from the source and centralize it.\" http://tr.im/zwYf",
+  "text" : "\"Google is trying to take interactivity away from the source and centralize it.\" http:\/\/tr.im\/zwYf",
   "id" : 4322349663,
   "created_at" : "2009-09-23 00:00:00 +0000",
   "user" : {
@@ -1810,12 +1810,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1824,7 +1824,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4322383396",
-  "text" : "Which is fine for devs that are willing to use the API to un-centralize it. But that's a low percentage. http://tr.im/zwYv",
+  "text" : "Which is fine for devs that are willing to use the API to un-centralize it. But that's a low percentage. http:\/\/tr.im\/zwYv",
   "id" : 4322383396,
   "created_at" : "2009-09-23 00:00:00 +0000",
   "user" : {
@@ -1832,12 +1832,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1846,7 +1846,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4322408306",
-  "text" : "Why not offer a comment system that's easy to implement - http://www.disqus.com/ - not forced.",
+  "text" : "Why not offer a comment system that's easy to implement - http:\/\/www.disqus.com\/ - not forced.",
   "id" : 4322408306,
   "created_at" : "2009-09-23 00:00:00 +0000",
   "user" : {
@@ -1854,12 +1854,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1876,12 +1876,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1898,12 +1898,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.brizzly.com\" rel=\"nofollow\">Brizzly</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1912,7 +1912,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4159900513",
-  "text" : "Brizzly is a cool twitter app. Even though I wrote my own client, I still use it every day. Now you can too! Invites-- http://bit.ly/xgglB",
+  "text" : "Brizzly is a cool twitter app. Even though I wrote my own client, I still use it every day. Now you can too! Invites-- http:\/\/bit.ly\/xgglB",
   "id" : 4159900513,
   "created_at" : "2009-09-22 00:00:00 +0000",
   "user" : {
@@ -1920,12 +1920,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Brian Hendrickson",
@@ -1951,12 +1951,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1965,7 +1965,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4161800949",
-  "text" : "Sprinkles http://post.ly/5r5l",
+  "text" : "Sprinkles http:\/\/post.ly\/5r5l",
   "id" : 4161800949,
   "created_at" : "2009-09-22 00:00:00 +0000",
   "user" : {
@@ -1973,12 +1973,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Brian Boyer",
@@ -2010,12 +2010,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2032,12 +2032,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -2063,12 +2063,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Brian Boyer",
@@ -2084,7 +2084,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : { },
   "id_str" : "4177529860",
   "in_reply_to_user_id" : 14570738,
-  "text" : "@brianboyer Desktop apps would need to communicate to a cloud server separately OR be run by a user with port forwarding/dmz",
+  "text" : "@brianboyer Desktop apps would need to communicate to a cloud server separately OR be run by a user with port forwarding\/dmz",
   "id" : 4177529860,
   "created_at" : "2009-09-22 00:00:00 +0000",
   "in_reply_to_screen_name" : "brianboyer",
@@ -2094,12 +2094,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Brian Boyer",
@@ -2131,12 +2131,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2153,12 +2153,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Greg Falken",
@@ -2173,7 +2173,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4296511641",
-  "text" : "Into the Flow We Go (by @gregf) http://tr.im/zqLU Who else has a cloud enabled feed?",
+  "text" : "Into the Flow We Go (by @gregf) http:\/\/tr.im\/zqLU Who else has a cloud enabled feed?",
   "id" : 4296511641,
   "created_at" : "2009-09-22 00:00:00 +0000",
   "user" : {
@@ -2181,12 +2181,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2203,12 +2203,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Scott Koon",
@@ -2231,12 +2231,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "A Googler",
@@ -2263,7 +2263,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4299662950",
-  "text" : "That'd be a WOW. RT @google Cool new Trendsmap shows you where Twitter trends are - http://trendsmap.com/ (via @googlemaps, @mpegg)",
+  "text" : "That'd be a WOW. RT @google Cool new Trendsmap shows you where Twitter trends are - http:\/\/trendsmap.com\/ (via @googlemaps, @mpegg)",
   "id" : 4299662950,
   "created_at" : "2009-09-22 00:00:00 +0000",
   "user" : {
@@ -2271,12 +2271,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2293,12 +2293,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2315,12 +2315,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2337,12 +2337,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2351,7 +2351,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4139074665",
-  "text" : "Watching http://rsscloud.cloudapp.net/ - cool stuff!",
+  "text" : "Watching http:\/\/rsscloud.cloudapp.net\/ - cool stuff!",
   "id" : 4139074665,
   "created_at" : "2009-09-21 00:00:00 +0000",
   "user" : {
@@ -2359,12 +2359,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2373,7 +2373,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4139908046",
-  "text" : "The Orwell Diaries are RSS Cloud enabled. Imagine that. :) http://tr.im/zfUy",
+  "text" : "The Orwell Diaries are RSS Cloud enabled. Imagine that. :) http:\/\/tr.im\/zfUy",
   "id" : 4139908046,
   "created_at" : "2009-09-21 00:00:00 +0000",
   "user" : {
@@ -2381,12 +2381,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2395,7 +2395,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4140172763",
-  "text" : "Google explains the weird UFO logo stuff. It's HG Wells Birthday. http://tr.im/zfXC",
+  "text" : "Google explains the weird UFO logo stuff. It's HG Wells Birthday. http:\/\/tr.im\/zfXC",
   "id" : 4140172763,
   "created_at" : "2009-09-21 00:00:00 +0000",
   "user" : {
@@ -2403,12 +2403,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2425,12 +2425,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2447,12 +2447,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2469,12 +2469,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2491,12 +2491,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2505,7 +2505,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4117329859",
-  "text" : "My Status Cloud now has categories. Try it out! Writeup to follow. http://tr.im/zbiK",
+  "text" : "My Status Cloud now has categories. Try it out! Writeup to follow. http:\/\/tr.im\/zbiK",
   "id" : 4117329859,
   "created_at" : "2009-09-20 00:00:00 +0000",
   "user" : {
@@ -2513,12 +2513,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2527,7 +2527,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4117638090",
-  "text" : "Sometimes You Want More Rivers - Categories in My Status Cloud http://tr.im/zbkw",
+  "text" : "Sometimes You Want More Rivers - Categories in My Status Cloud http:\/\/tr.im\/zbkw",
   "id" : 4117638090,
   "created_at" : "2009-09-20 00:00:00 +0000",
   "user" : {
@@ -2535,12 +2535,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -2555,7 +2555,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4117747846",
-  "text" : "Woohoo! OPML subscribing worked awesome through MSC using the photo feed OPML @davewiner posted. http://c.oy.ly/kngk",
+  "text" : "Woohoo! OPML subscribing worked awesome through MSC using the photo feed OPML @davewiner posted. http:\/\/c.oy.ly\/kngk",
   "id" : 4117747846,
   "created_at" : "2009-09-20 00:00:00 +0000",
   "user" : {
@@ -2563,12 +2563,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Brizzly",
@@ -2591,12 +2591,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2605,7 +2605,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4118415091",
-  "text" : "I'm not crazy. I missed the announcement a couple days ago. Brizzly is cool stuff. http://tr.im/zbqM",
+  "text" : "I'm not crazy. I missed the announcement a couple days ago. Brizzly is cool stuff. http:\/\/tr.im\/zbqM",
   "id" : 4118415091,
   "created_at" : "2009-09-20 00:00:00 +0000",
   "user" : {
@@ -2613,12 +2613,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2627,7 +2627,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4128068239",
-  "text" : "What did I say about adding features yesterday? http://tr.im/zdF6",
+  "text" : "What did I say about adding features yesterday? http:\/\/tr.im\/zdF6",
   "id" : 4128068239,
   "created_at" : "2009-09-20 00:00:00 +0000",
   "user" : {
@@ -2635,12 +2635,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2657,12 +2657,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -2688,12 +2688,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2710,12 +2710,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "michael silverton",
@@ -2741,12 +2741,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "michael silverton",
@@ -2772,12 +2772,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2794,12 +2794,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Hugh MacLeod",
@@ -2822,12 +2822,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2844,12 +2844,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2866,12 +2866,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Louis Gray",
@@ -2899,7 +2899,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : { },
   "id_str" : "4096101291",
   "in_reply_to_user_id" : 12454882,
-  "text" : "@louisgray @jesse @davewiner Leave out \"major\" and first \"client of it's type\" (web) was release a month ago. http://tr.im/z6Lk",
+  "text" : "@louisgray @jesse @davewiner Leave out \"major\" and first \"client of it's type\" (web) was release a month ago. http:\/\/tr.im\/z6Lk",
   "id" : 4096101291,
   "created_at" : "2009-09-19 00:00:00 +0000",
   "in_reply_to_screen_name" : "louisgray",
@@ -2909,12 +2909,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2931,12 +2931,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2953,12 +2953,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -2984,12 +2984,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3006,12 +3006,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jesse Stay",
@@ -3027,7 +3027,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : { },
   "id_str" : "4096402106",
   "in_reply_to_user_id" : 5485192,
-  "text" : "@jesse It's all good. I'm just speaking up a bit louder than usual. I just happen to like my web client/agg I built. :)",
+  "text" : "@jesse It's all good. I'm just speaking up a bit louder than usual. I just happen to like my web client\/agg I built. :)",
   "id" : 4096402106,
   "created_at" : "2009-09-19 00:00:00 +0000",
   "in_reply_to_screen_name" : "Jesse",
@@ -3037,12 +3037,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3059,12 +3059,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3081,12 +3081,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -3112,12 +3112,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3134,12 +3134,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -3154,7 +3154,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4096537827",
-  "text" : "Lol, was wondering if @davewiner had seen the OPML subscriptions. Knew he would like it too. http://tr.im/z1DC",
+  "text" : "Lol, was wondering if @davewiner had seen the OPML subscriptions. Knew he would like it too. http:\/\/tr.im\/z1DC",
   "id" : 4096537827,
   "created_at" : "2009-09-19 00:00:00 +0000",
   "user" : {
@@ -3162,12 +3162,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -3193,12 +3193,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Atul Arora",
@@ -3219,7 +3219,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4067625224",
-  "text" : "Hmmm RT @atul A Case for Valuing Twitter at $2.7 Billion - Digits - WSJ http://j.mp/17PXeW tip @techmeme",
+  "text" : "Hmmm RT @atul A Case for Valuing Twitter at $2.7 Billion - Digits - WSJ http:\/\/j.mp\/17PXeW tip @techmeme",
   "id" : 4067625224,
   "created_at" : "2009-09-18 00:00:00 +0000",
   "user" : {
@@ -3227,12 +3227,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3249,12 +3249,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -3280,12 +3280,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3294,7 +3294,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4072613510",
-  "text" : "Is Your OPML Cloud Enabled? Let's Find Out! http://tr.im/z1DC",
+  "text" : "Is Your OPML Cloud Enabled? Let's Find Out! http:\/\/tr.im\/z1DC",
   "id" : 4072613510,
   "created_at" : "2009-09-18 00:00:00 +0000",
   "user" : {
@@ -3302,12 +3302,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3316,7 +3316,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "4052748522",
-  "text" : "Narrow down Google Search results to the last minute. http://tr.im/yX8n",
+  "text" : "Narrow down Google Search results to the last minute. http:\/\/tr.im\/yX8n",
   "id" : 4052748522,
   "created_at" : "2009-09-17 00:00:00 +0000",
   "user" : {
@@ -3324,12 +3324,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3346,12 +3346,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Robert Scoble",
@@ -3367,7 +3367,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : { },
   "id_str" : "3875268449",
   "in_reply_to_user_id" : 13348,
-  "text" : "@scobleizer Please record audio/video. :)",
+  "text" : "@scobleizer Please record audio\/video. :)",
   "id" : 3875268449,
   "created_at" : "2009-09-10 00:00:00 +0000",
   "in_reply_to_screen_name" : "Scobleizer",
@@ -3377,12 +3377,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3391,7 +3391,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3880157682",
-  "text" : "Listening in on the RSS Cloud Meetup Ustream feed. http://tr.im/yj52",
+  "text" : "Listening in on the RSS Cloud Meetup Ustream feed. http:\/\/tr.im\/yj52",
   "id" : 3880157682,
   "created_at" : "2009-09-10 00:00:00 +0000",
   "user" : {
@@ -3399,12 +3399,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "susie wee",
@@ -3427,12 +3427,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Robert Scoble",
@@ -3458,12 +3458,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Matt Mastracci",
@@ -3486,12 +3486,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Matt Gedigian",
@@ -3514,12 +3514,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3536,12 +3536,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3558,12 +3558,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3572,7 +3572,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3881877587",
-  "text" : "Just added the ability to subscribe to cloud feeds via .tel domain per request from @plaggypig. http://tr.im/xU66",
+  "text" : "Just added the ability to subscribe to cloud feeds via .tel domain per request from @plaggypig. http:\/\/tr.im\/xU66",
   "id" : 3881877587,
   "created_at" : "2009-09-10 00:00:00 +0000",
   "user" : {
@@ -3580,12 +3580,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3602,12 +3602,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3616,7 +3616,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3882165453",
-  "text" : "Subscribing To RSS Cloud Feeds Via .TEL Domains http://tr.im/yjvX",
+  "text" : "Subscribing To RSS Cloud Feeds Via .TEL Domains http:\/\/tr.im\/yjvX",
   "id" : 3882165453,
   "created_at" : "2009-09-10 00:00:00 +0000",
   "user" : {
@@ -3624,12 +3624,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3646,12 +3646,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3668,12 +3668,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Matt Cutts",
@@ -3688,7 +3688,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3888900514",
-  "text" : "Cool! RT @mattcutts Want RSS support in Chrome? Just get this extension: http://bit.ly/eoFmS Here's a screenshot: http://bit.ly/dYsQM",
+  "text" : "Cool! RT @mattcutts Want RSS support in Chrome? Just get this extension: http:\/\/bit.ly\/eoFmS Here's a screenshot: http:\/\/bit.ly\/dYsQM",
   "id" : 3888900514,
   "created_at" : "2009-09-10 00:00:00 +0000",
   "user" : {
@@ -3696,12 +3696,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3718,12 +3718,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3732,7 +3732,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3895071228",
-  "text" : "Friendfeed backend (the hard stuff) is going open source. This WILL be fun. :) http://tr.im/ymV8",
+  "text" : "Friendfeed backend (the hard stuff) is going open source. This WILL be fun. :) http:\/\/tr.im\/ymV8",
   "id" : 3895071228,
   "created_at" : "2009-09-10 00:00:00 +0000",
   "user" : {
@@ -3740,12 +3740,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3754,7 +3754,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3896573697",
-  "text" : "About to disappear for a long weekend. Keep playing with My Status Cloud, we're getting better every day. :) http://tr.im/xU66",
+  "text" : "About to disappear for a long weekend. Keep playing with My Status Cloud, we're getting better every day. :) http:\/\/tr.im\/xU66",
   "id" : 3896573697,
   "created_at" : "2009-09-10 00:00:00 +0000",
   "user" : {
@@ -3762,12 +3762,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3776,7 +3776,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3852764197",
-  "text" : "Macleans news magazine in Canada supports RSS Cloud. http://tr.im/ycQn",
+  "text" : "Macleans news magazine in Canada supports RSS Cloud. http:\/\/tr.im\/ycQn",
   "id" : 3852764197,
   "created_at" : "2009-09-09 00:00:00 +0000",
   "user" : {
@@ -3784,12 +3784,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3798,7 +3798,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3852849316",
-  "text" : "Mark Cuban has a cloud enabled blog, even though he didn't mention RSS Cloud in his real time writeup. http://tr.im/x7L6",
+  "text" : "Mark Cuban has a cloud enabled blog, even though he didn't mention RSS Cloud in his real time writeup. http:\/\/tr.im\/x7L6",
   "id" : 3852849316,
   "created_at" : "2009-09-09 00:00:00 +0000",
   "user" : {
@@ -3806,12 +3806,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jay Rosen ",
@@ -3832,7 +3832,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3856505280",
-  "text" : "Just finished the latest Rebooting The News. Great stuff this week @jayrosen_nyu @davewiner http://tr.im/ydt9",
+  "text" : "Just finished the latest Rebooting The News. Great stuff this week @jayrosen_nyu @davewiner http:\/\/tr.im\/ydt9",
   "id" : 3856505280,
   "created_at" : "2009-09-09 00:00:00 +0000",
   "user" : {
@@ -3840,12 +3840,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3854,7 +3854,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3856604827",
-  "text" : "Still plugging away at subscription handling in My Status Cloud. Going good. http://tr.im/wLVg",
+  "text" : "Still plugging away at subscription handling in My Status Cloud. Going good. http:\/\/tr.im\/wLVg",
   "id" : 3856604827,
   "created_at" : "2009-09-09 00:00:00 +0000",
   "user" : {
@@ -3862,12 +3862,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3884,12 +3884,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3906,12 +3906,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "ReadWrite",
@@ -3926,7 +3926,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3863859311",
-  "text" : "Just downloaded Postbox after reading @rww - Seems much better this time around. http://tr.im/yfH5",
+  "text" : "Just downloaded Postbox after reading @rww - Seems much better this time around. http:\/\/tr.im\/yfH5",
   "id" : 3863859311,
   "created_at" : "2009-09-09 00:00:00 +0000",
   "user" : {
@@ -3934,12 +3934,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -3954,7 +3954,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3863889413",
-  "text" : "It's the only way out. :) RT @davewiner Tweetdeck Keeps Trying to Move Beyond Twitter. We need them in rssCloudLand. http://c.oy.ly/ty4z",
+  "text" : "It's the only way out. :) RT @davewiner Tweetdeck Keeps Trying to Move Beyond Twitter. We need them in rssCloudLand. http:\/\/c.oy.ly\/ty4z",
   "id" : 3863889413,
   "created_at" : "2009-09-09 00:00:00 +0000",
   "user" : {
@@ -3962,12 +3962,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3984,12 +3984,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3998,7 +3998,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3863937846",
-  "text" : "Postbox lets me (easily) archive and label mail. No more folders = I'm sold. http://tr.im/yfID",
+  "text" : "Postbox lets me (easily) archive and label mail. No more folders = I'm sold. http:\/\/tr.im\/yfID",
   "id" : 3863937846,
   "created_at" : "2009-09-09 00:00:00 +0000",
   "user" : {
@@ -4006,12 +4006,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -4027,7 +4027,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : { },
   "id_str" : "3869760350",
   "in_reply_to_user_id" : 3839,
-  "text" : "@davewiner Are you looking for something simpler than a linux AWS instance? That would be quick/cheap but involve more setup.",
+  "text" : "@davewiner Are you looking for something simpler than a linux AWS instance? That would be quick\/cheap but involve more setup.",
   "id" : 3869760350,
   "created_at" : "2009-09-09 00:00:00 +0000",
   "in_reply_to_screen_name" : "davewiner",
@@ -4037,12 +4037,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4051,7 +4051,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3840951313",
-  "text" : "If you're looking for a river... http://tr.im/y8fj",
+  "text" : "If you're looking for a river... http:\/\/tr.im\/y8fj",
   "id" : 3840951313,
   "created_at" : "2009-09-08 00:00:00 +0000",
   "user" : {
@@ -4059,12 +4059,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4081,12 +4081,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -4112,12 +4112,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4134,12 +4134,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4156,12 +4156,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4170,7 +4170,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3829342355",
-  "text" : "CNN Political Ticker has a cloud enabled blog. http://tr.im/y7Cw",
+  "text" : "CNN Political Ticker has a cloud enabled blog. http:\/\/tr.im\/y7Cw",
   "id" : 3829342355,
   "created_at" : "2009-09-08 00:00:00 +0000",
   "user" : {
@@ -4178,12 +4178,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "GigaOM",
@@ -4198,7 +4198,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3829531247",
-  "text" : "Looks like @gigaom has a cloud enabled feed as well. http://tr.im/y7DK",
+  "text" : "Looks like @gigaom has a cloud enabled feed as well. http:\/\/tr.im\/y7DK",
   "id" : 3829531247,
   "created_at" : "2009-09-08 00:00:00 +0000",
   "user" : {
@@ -4206,12 +4206,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4220,7 +4220,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3829559074",
-  "text" : "And the CNN wire. River of news, anyone? http://tr.im/y7DT",
+  "text" : "And the CNN wire. River of news, anyone? http:\/\/tr.im\/y7DT",
   "id" : 3829559074,
   "created_at" : "2009-09-08 00:00:00 +0000",
   "user" : {
@@ -4228,12 +4228,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -4248,7 +4248,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3829852075",
-  "text" : "See, it's all happening. RT @davewiner Lazyfeed will integrate RSSCloud and run faster. Awesome!! :-) http://c.oy.ly/jfwd",
+  "text" : "See, it's all happening. RT @davewiner Lazyfeed will integrate RSSCloud and run faster. Awesome!! :-) http:\/\/c.oy.ly\/jfwd",
   "id" : 3829852075,
   "created_at" : "2009-09-08 00:00:00 +0000",
   "user" : {
@@ -4256,12 +4256,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "susie wee",
@@ -4287,12 +4287,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4301,7 +4301,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3830211567",
-  "text" : "It's All Happening [Educer] http://tr.im/y7K6",
+  "text" : "It's All Happening [Educer] http:\/\/tr.im\/y7K6",
   "id" : 3830211567,
   "created_at" : "2009-09-08 00:00:00 +0000",
   "user" : {
@@ -4309,12 +4309,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4323,7 +4323,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3830830282",
-  "text" : "I know I'm small fish, so no hard feelings, but I was live 2 wks before the \"1st Independent RSS Aggregator\" supported RSSCloud. http:// ...",
+  "text" : "I know I'm small fish, so no hard feelings, but I was live 2 wks before the \"1st Independent RSS Aggregator\" supported RSSCloud. http:\/\/ ...",
   "id" : 3830830282,
   "created_at" : "2009-09-08 00:00:00 +0000",
   "user" : {
@@ -4331,12 +4331,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4345,7 +4345,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3830868658",
-  "text" : "08/19 was multi-user day. :) And I've learned something every day since. http://tr.im/wJJ7",
+  "text" : "08\/19 was multi-user day. :) And I've learned something every day since. http:\/\/tr.im\/wJJ7",
   "id" : 3830868658,
   "created_at" : "2009-09-08 00:00:00 +0000",
   "user" : {
@@ -4353,12 +4353,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "susie wee",
@@ -4384,12 +4384,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4398,7 +4398,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3832614504",
-  "text" : "Subscription management is a go on http://www.mystatuscloud.com. What else can I do tonight? Hmm.",
+  "text" : "Subscription management is a go on http:\/\/www.mystatuscloud.com. What else can I do tonight? Hmm.",
   "id" : 3832614504,
   "created_at" : "2009-09-08 00:00:00 +0000",
   "user" : {
@@ -4406,12 +4406,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Joseph Scott",
@@ -4426,7 +4426,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3833378876",
-  "text" : "Awesome to see that over 700 have already downloaded the new RSS Cloud WordPress plugin from @josephscott http://tr.im/y8aV",
+  "text" : "Awesome to see that over 700 have already downloaded the new RSS Cloud WordPress plugin from @josephscott http:\/\/tr.im\/y8aV",
   "id" : 3833378876,
   "created_at" : "2009-09-08 00:00:00 +0000",
   "user" : {
@@ -4434,12 +4434,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4459,12 +4459,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4473,7 +4473,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3833890196",
-  "text" : "And now we have an RSS Cloud River! Lots of feeds = lots of updates. http://tr.im/y8fj",
+  "text" : "And now we have an RSS Cloud River! Lots of feeds = lots of updates. http:\/\/tr.im\/y8fj",
   "id" : 3833890196,
   "created_at" : "2009-09-08 00:00:00 +0000",
   "user" : {
@@ -4481,12 +4481,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4506,12 +4506,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -4526,7 +4526,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3820384868",
-  "text" : "Love this idea! RT @davewiner New River2 feature this morning: Sharing your OPML subscription lists. http://c.oy.ly/jfa4",
+  "text" : "Love this idea! RT @davewiner New River2 feature this morning: Sharing your OPML subscription lists. http:\/\/c.oy.ly\/jfa4",
   "id" : 3820384868,
   "created_at" : "2009-09-07 00:00:00 +0000",
   "user" : {
@@ -4534,12 +4534,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -4554,7 +4554,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3825111211",
-  "text" : "WOW, BIG WOW, bigger WOW. RT @davewiner Tease! Tease! Tease! http://c.oy.ly/jfp6",
+  "text" : "WOW, BIG WOW, bigger WOW. RT @davewiner Tease! Tease! Tease! http:\/\/c.oy.ly\/jfp6",
   "id" : 3825111211,
   "created_at" : "2009-09-07 00:00:00 +0000",
   "user" : {
@@ -4562,12 +4562,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4584,12 +4584,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4606,12 +4606,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marshall Kirkpatrick",
@@ -4637,12 +4637,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4659,12 +4659,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -4690,12 +4690,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -4721,12 +4721,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -4741,7 +4741,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3827180162",
-  "text" : "Yes! Wordpress.com implementation verified! @davewiner just posted and I was just notified. http://tr.im/y7fd",
+  "text" : "Yes! Wordpress.com implementation verified! @davewiner just posted and I was just notified. http:\/\/tr.im\/y7fd",
   "id" : 3827180162,
   "created_at" : "2009-09-07 00:00:00 +0000",
   "user" : {
@@ -4749,12 +4749,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -4769,7 +4769,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3827408184",
-  "text" : "Even better. Full ACK from the transmission to @davewiner = Conversation OUTSIDE of Twitter. http://tr.im/y7jM",
+  "text" : "Even better. Full ACK from the transmission to @davewiner = Conversation OUTSIDE of Twitter. http:\/\/tr.im\/y7jM",
   "id" : 3827408184,
   "created_at" : "2009-09-07 00:00:00 +0000",
   "user" : {
@@ -4777,12 +4777,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4799,12 +4799,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4813,7 +4813,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3828098250",
-  "text" : "Another cloud enabled aggregator. :) Getting better every minute. http://tr.im/statistics/xU66",
+  "text" : "Another cloud enabled aggregator. :) Getting better every minute. http:\/\/tr.im\/statistics\/xU66",
   "id" : 3828098250,
   "created_at" : "2009-09-07 00:00:00 +0000",
   "user" : {
@@ -4821,12 +4821,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4838,7 +4838,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3828169249",
-  "text" : "Who is going to the #rsscloud meetup this week in Berkeley? Audio/Video of any kind would be much appreciated.",
+  "text" : "Who is going to the #rsscloud meetup this week in Berkeley? Audio\/Video of any kind would be much appreciated.",
   "id" : 3828169249,
   "created_at" : "2009-09-07 00:00:00 +0000",
   "user" : {
@@ -4846,12 +4846,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -4866,7 +4866,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3800566634",
-  "text" : "Good stuff! RT @davewiner An rssCloud case study: Brizzly & Seesmic (Scripting News). http://c.oy.ly/jdc6",
+  "text" : "Good stuff! RT @davewiner An rssCloud case study: Brizzly & Seesmic (Scripting News). http:\/\/c.oy.ly\/jdc6",
   "id" : 3800566634,
   "created_at" : "2009-09-06 00:00:00 +0000",
   "user" : {
@@ -4874,12 +4874,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4888,7 +4888,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3803700752",
-  "text" : "Weezer's new single, I Want You To, is one of their best in a while. Well done music. http://tr.im/y29B",
+  "text" : "Weezer's new single, I Want You To, is one of their best in a while. Well done music. http:\/\/tr.im\/y29B",
   "id" : 3803700752,
   "created_at" : "2009-09-06 00:00:00 +0000",
   "user" : {
@@ -4896,12 +4896,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4910,7 +4910,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3804223024",
-  "text" : "Even More Cloud Enabled Feeds (Your Own) http://tr.im/y2gH",
+  "text" : "Even More Cloud Enabled Feeds (Your Own) http:\/\/tr.im\/y2gH",
   "id" : 3804223024,
   "created_at" : "2009-09-06 00:00:00 +0000",
   "user" : {
@@ -4918,12 +4918,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4940,12 +4940,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -4971,12 +4971,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4993,12 +4993,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5015,12 +5015,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5029,7 +5029,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3774209269",
-  "text" : "Add RSS Cloud Element Wordpress Plugin 0.3 Released - Cloud enabled feeds with notification now. http://tr.im/xLBi",
+  "text" : "Add RSS Cloud Element Wordpress Plugin 0.3 Released - Cloud enabled feeds with notification now. http:\/\/tr.im\/xLBi",
   "id" : 3774209269,
   "created_at" : "2009-09-05 00:00:00 +0000",
   "user" : {
@@ -5037,12 +5037,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5051,7 +5051,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3774401185",
-  "text" : "You can now subscribe to new feeds at My Status Cloud - some big changes are in order now. Next few days = fun. http://tr.im/xU66",
+  "text" : "You can now subscribe to new feeds at My Status Cloud - some big changes are in order now. Next few days = fun. http:\/\/tr.im\/xU66",
   "id" : 3774401185,
   "created_at" : "2009-09-05 00:00:00 +0000",
   "user" : {
@@ -5059,12 +5059,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5081,12 +5081,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5103,12 +5103,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Matt Terenzio",
@@ -5131,12 +5131,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5153,12 +5153,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5167,7 +5167,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3782891537",
-  "text" : "IB had one of the greatest uses of a Bowie song in film, Cat People. http://tr.im/xXLM",
+  "text" : "IB had one of the greatest uses of a Bowie song in film, Cat People. http:\/\/tr.im\/xXLM",
   "id" : 3782891537,
   "created_at" : "2009-09-05 00:00:00 +0000",
   "user" : {
@@ -5175,12 +5175,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5189,7 +5189,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3782909035",
-  "text" : "And IB had Christoph Waltz, a German actor who did an outstanding job. http://tr.im/xXLV",
+  "text" : "And IB had Christoph Waltz, a German actor who did an outstanding job. http:\/\/tr.im\/xXLV",
   "id" : 3782909035,
   "created_at" : "2009-09-05 00:00:00 +0000",
   "user" : {
@@ -5197,12 +5197,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5211,7 +5211,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3783028360",
-  "text" : "I've been waiting for a Sprint/Android reason to trade in my Blackberry. Looks like it's coming in October! http://tr.im/xXNl",
+  "text" : "I've been waiting for a Sprint\/Android reason to trade in my Blackberry. Looks like it's coming in October! http:\/\/tr.im\/xXNl",
   "id" : 3783028360,
   "created_at" : "2009-09-05 00:00:00 +0000",
   "user" : {
@@ -5219,12 +5219,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5233,7 +5233,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3784634523",
-  "text" : "\"I am no longer in book publishing. I ran [...] the moment I glimpsed Charlie Darwin sitting in the corner office.\" http://tr.im/xY7H",
+  "text" : "\"I am no longer in book publishing. I ran [...] the moment I glimpsed Charlie Darwin sitting in the corner office.\" http:\/\/tr.im\/xY7H",
   "id" : 3784634523,
   "created_at" : "2009-09-05 00:00:00 +0000",
   "user" : {
@@ -5241,12 +5241,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5255,7 +5255,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3784784093",
-  "text" : "\"Upgrading is taking your vitamins; fixing a hack is open heart surgery.\"  http://tr.im/xY9H",
+  "text" : "\"Upgrading is taking your vitamins; fixing a hack is open heart surgery.\"  http:\/\/tr.im\/xY9H",
   "id" : 3784784093,
   "created_at" : "2009-09-05 00:00:00 +0000",
   "user" : {
@@ -5263,12 +5263,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5277,7 +5277,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3786878047",
-  "text" : "Format and Delivery Are Alive And Well (RSS, Twitter, and Newspapers) [Educer] http://tr.im/xYAs",
+  "text" : "Format and Delivery Are Alive And Well (RSS, Twitter, and Newspapers) [Educer] http:\/\/tr.im\/xYAs",
   "id" : 3786878047,
   "created_at" : "2009-09-05 00:00:00 +0000",
   "user" : {
@@ -5285,12 +5285,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5307,12 +5307,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Michael Sullivan",
@@ -5338,12 +5338,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -5358,7 +5358,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3766330689",
-  "text" : "RT @davewiner If the loosely-coupled 140-char network bootstrap works, this development will be a major turning point. http://c.oy.ly/tpeg",
+  "text" : "RT @davewiner If the loosely-coupled 140-char network bootstrap works, this development will be a major turning point. http:\/\/c.oy.ly\/tpeg",
   "id" : 3766330689,
   "created_at" : "2009-09-04 00:00:00 +0000",
   "user" : {
@@ -5366,12 +5366,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5388,12 +5388,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5410,12 +5410,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5432,12 +5432,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -5452,7 +5452,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3761118099",
-  "text" : "\"take the URL out of the 140 altogether and ship it as metadata\" @davewiner http://tr.im/xTmR -We do this now in the cloud, and I love it.",
+  "text" : "\"take the URL out of the 140 altogether and ship it as metadata\" @davewiner http:\/\/tr.im\/xTmR -We do this now in the cloud, and I love it.",
   "id" : 3761118099,
   "created_at" : "2009-09-04 00:00:00 +0000",
   "user" : {
@@ -5460,12 +5460,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.brizzly.com\" rel=\"nofollow\">Brizzly</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5474,7 +5474,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3761231427",
-  "text" : "Here's how my last tweet looks in MyStatusCloud. The links to is metadata, not from the short url. http://brizzly.com/pic/4HC",
+  "text" : "Here's how my last tweet looks in MyStatusCloud. The links to is metadata, not from the short url. http:\/\/brizzly.com\/pic\/4HC",
   "id" : 3761231427,
   "created_at" : "2009-09-04 00:00:00 +0000",
   "user" : {
@@ -5482,12 +5482,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5504,12 +5504,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5526,12 +5526,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5540,7 +5540,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3764083127",
-  "text" : "I'm really digging my home grown client/aggregator/cloud thing. This is fun! http://tr.im/xU66",
+  "text" : "I'm really digging my home grown client\/aggregator\/cloud thing. This is fun! http:\/\/tr.im\/xU66",
   "id" : 3764083127,
   "created_at" : "2009-09-04 00:00:00 +0000",
   "user" : {
@@ -5548,12 +5548,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5562,7 +5562,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3722152028",
-  "text" : "2nd endorsement. Summer rolls at Tusk. Very good! http://post.ly/3nWp",
+  "text" : "2nd endorsement. Summer rolls at Tusk. Very good! http:\/\/post.ly\/3nWp",
   "id" : 3722152028,
   "created_at" : "2009-09-03 00:00:00 +0000",
   "user" : {
@@ -5570,12 +5570,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5584,7 +5584,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3722359508",
-  "text" : "And 3rd endorsement. Chicken peanut sauce at Tusk. Amazing sauce! http://post.ly/3naV",
+  "text" : "And 3rd endorsement. Chicken peanut sauce at Tusk. Amazing sauce! http:\/\/post.ly\/3naV",
   "id" : 3722359508,
   "created_at" : "2009-09-03 00:00:00 +0000",
   "user" : {
@@ -5592,12 +5592,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5614,12 +5614,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5628,7 +5628,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3726794414",
-  "text" : "\"Add RSS Cloud Element\" - A WordPress plugin for rssCloud feeds. http://tr.im/xLBi",
+  "text" : "\"Add RSS Cloud Element\" - A WordPress plugin for rssCloud feeds. http:\/\/tr.im\/xLBi",
   "id" : 3726794414,
   "created_at" : "2009-09-03 00:00:00 +0000",
   "user" : {
@@ -5636,12 +5636,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5650,7 +5650,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3704739689",
-  "text" : "Brizzly has a new picture posting service. (caterpillar) http://brizzly.com/pic/49C",
+  "text" : "Brizzly has a new picture posting service. (caterpillar) http:\/\/brizzly.com\/pic\/49C",
   "id" : 3704739689,
   "created_at" : "2009-09-02 00:00:00 +0000",
   "user" : {
@@ -5658,12 +5658,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5680,12 +5680,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.brizzly.com\" rel=\"nofollow\">Brizzly</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5694,7 +5694,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3705155516",
-  "text" : "Maybe I have to tweet this using brizzly for it to show up instead of using another tool to post the link. http://brizzly.com/pic/49C",
+  "text" : "Maybe I have to tweet this using brizzly for it to show up instead of using another tool to post the link. http:\/\/brizzly.com\/pic\/49C",
   "id" : 3705155516,
   "created_at" : "2009-09-02 00:00:00 +0000",
   "user" : {
@@ -5702,12 +5702,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5716,7 +5716,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3705215737",
-  "text" : "Google Reader still isn't passing a title parameter for shared notes using the send to function. http://tr.im/xGSK",
+  "text" : "Google Reader still isn't passing a title parameter for shared notes using the send to function. http:\/\/tr.im\/xGSK",
   "id" : 3705215737,
   "created_at" : "2009-09-02 00:00:00 +0000",
   "user" : {
@@ -5724,12 +5724,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.mystatuscloud.com\" rel=\"nofollow\">My Status Cloud</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5746,12 +5746,12 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5760,7 +5760,7 @@ Grailbird.data.tweets_2009_09 =
   },
   "geo" : { },
   "id_str" : "3722088083",
-  "text" : "First endorsement of the night. This is really good canernet. http://post.ly/3nVb",
+  "text" : "First endorsement of the night. This is really good canernet. http:\/\/post.ly\/3nVb",
   "id" : 3722088083,
   "created_at" : "2009-09-02 00:00:00 +0000",
   "user" : {
@@ -5768,7 +5768,7 @@ Grailbird.data.tweets_2009_09 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }

@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2008_06 = 
  [ {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -17,12 +17,12 @@ Grailbird.data.tweets_2008_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://friendfeed.com/\" rel=\"nofollow\">FriendFeed</a>",
+  "source" : "\u003Ca href=\"http:\/\/friendfeed.com\/\" rel=\"nofollow\"\u003EFriendFeed\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "TechCrunch",
@@ -50,12 +50,12 @@ Grailbird.data.tweets_2008_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.hypem.com\" rel=\"nofollow\">Hype Machine</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.hypem.com\" rel=\"nofollow\"\u003EHype Machine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -64,7 +64,7 @@ Grailbird.data.tweets_2008_06 =
   },
   "geo" : { },
   "id_str" : "834377818",
-  "text" : "just loved The Apples in stereo - Same Old Drag http://hypem.com/track/568991",
+  "text" : "just loved The Apples in stereo - Same Old Drag http:\/\/hypem.com\/track\/568991",
   "id" : 834377818,
   "created_at" : "2008-06-14 00:00:00 +0000",
   "user" : {
@@ -72,12 +72,12 @@ Grailbird.data.tweets_2008_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.hypem.com\" rel=\"nofollow\">Hype Machine</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.hypem.com\" rel=\"nofollow\"\u003EHype Machine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -86,7 +86,7 @@ Grailbird.data.tweets_2008_06 =
   },
   "geo" : { },
   "id_str" : "834390013",
-  "text" : "just loved The Black Keys - 10 A.M. Automatic http://hypem.com/track/563677",
+  "text" : "just loved The Black Keys - 10 A.M. Automatic http:\/\/hypem.com\/track\/563677",
   "id" : 834390013,
   "created_at" : "2008-06-14 00:00:00 +0000",
   "user" : {
@@ -94,12 +94,12 @@ Grailbird.data.tweets_2008_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.hypem.com\" rel=\"nofollow\">Hype Machine</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.hypem.com\" rel=\"nofollow\"\u003EHype Machine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -108,7 +108,7 @@ Grailbird.data.tweets_2008_06 =
   },
   "geo" : { },
   "id_str" : "834393581",
-  "text" : "just loved Sigur Ros - Fludufrelsarinn http://hypem.com/track/561236",
+  "text" : "just loved Sigur Ros - Fludufrelsarinn http:\/\/hypem.com\/track\/561236",
   "id" : 834393581,
   "created_at" : "2008-06-14 00:00:00 +0000",
   "user" : {
@@ -116,12 +116,12 @@ Grailbird.data.tweets_2008_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.hypem.com\" rel=\"nofollow\">Hype Machine</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.hypem.com\" rel=\"nofollow\"\u003EHype Machine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -130,7 +130,7 @@ Grailbird.data.tweets_2008_06 =
   },
   "geo" : { },
   "id_str" : "834400536",
-  "text" : "just loved Jem - It's Amazing http://hypem.com/track/568625",
+  "text" : "just loved Jem - It's Amazing http:\/\/hypem.com\/track\/568625",
   "id" : 834400536,
   "created_at" : "2008-06-14 00:00:00 +0000",
   "user" : {
@@ -138,12 +138,12 @@ Grailbird.data.tweets_2008_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.hypem.com\" rel=\"nofollow\">Hype Machine</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.hypem.com\" rel=\"nofollow\"\u003EHype Machine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -152,7 +152,7 @@ Grailbird.data.tweets_2008_06 =
   },
   "geo" : { },
   "id_str" : "834421627",
-  "text" : "just loved Editors - An End Has A Start http://hypem.com/track/561360",
+  "text" : "just loved Editors - An End Has A Start http:\/\/hypem.com\/track\/561360",
   "id" : 834421627,
   "created_at" : "2008-06-14 00:00:00 +0000",
   "user" : {
@@ -160,12 +160,12 @@ Grailbird.data.tweets_2008_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.hypem.com\" rel=\"nofollow\">Hype Machine</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.hypem.com\" rel=\"nofollow\"\u003EHype Machine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -174,7 +174,7 @@ Grailbird.data.tweets_2008_06 =
   },
   "geo" : { },
   "id_str" : "834771781",
-  "text" : "just loved Beck - Debra http://hypem.com/track/564198",
+  "text" : "just loved Beck - Debra http:\/\/hypem.com\/track\/564198",
   "id" : 834771781,
   "created_at" : "2008-06-14 00:00:00 +0000",
   "user" : {
@@ -182,12 +182,12 @@ Grailbird.data.tweets_2008_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.hypem.com\" rel=\"nofollow\">Hype Machine</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.hypem.com\" rel=\"nofollow\"\u003EHype Machine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -196,7 +196,7 @@ Grailbird.data.tweets_2008_06 =
   },
   "geo" : { },
   "id_str" : "833448142",
-  "text" : "just loved O.A.R. - That Was A Crazy Game Of Poker http://hypem.com/track/120517",
+  "text" : "just loved O.A.R. - That Was A Crazy Game Of Poker http:\/\/hypem.com\/track\/120517",
   "id" : 833448142,
   "created_at" : "2008-06-13 00:00:00 +0000",
   "user" : {
@@ -204,12 +204,12 @@ Grailbird.data.tweets_2008_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://friendfeed.com/\" rel=\"nofollow\">FriendFeed</a>",
+  "source" : "\u003Ca href=\"http:\/\/friendfeed.com\/\" rel=\"nofollow\"\u003EFriendFeed\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Barack Obama",
@@ -226,7 +226,7 @@ Grailbird.data.tweets_2008_06 =
   "geo" : { },
   "id_str" : "833435929",
   "in_reply_to_user_id" : 813286,
-  "text" : "@BarackObama love that you're using twitter, but next time use a url that explains today's decision instead.  I.e. http://tinurl.us/66b950",
+  "text" : "@BarackObama love that you're using twitter, but next time use a url that explains today's decision instead.  I.e. http:\/\/tinurl.us\/66b950",
   "id" : 833435929,
   "in_reply_to_status_id" : 833433216,
   "created_at" : "2008-06-12 00:00:00 +0000",
@@ -237,12 +237,12 @@ Grailbird.data.tweets_2008_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -259,12 +259,12 @@ Grailbird.data.tweets_2008_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -281,12 +281,12 @@ Grailbird.data.tweets_2008_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -295,7 +295,7 @@ Grailbird.data.tweets_2008_06 =
   },
   "geo" : { },
   "id_str" : "828609443",
-  "text" : "Love the new star feature in gmail labs.  Would love it even more if I could sort by/search by type of star.",
+  "text" : "Love the new star feature in gmail labs.  Would love it even more if I could sort by\/search by type of star.",
   "id" : 828609443,
   "created_at" : "2008-06-06 00:00:00 +0000",
   "user" : {
@@ -303,12 +303,12 @@ Grailbird.data.tweets_2008_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -325,12 +325,12 @@ Grailbird.data.tweets_2008_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -347,12 +347,12 @@ Grailbird.data.tweets_2008_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -369,12 +369,12 @@ Grailbird.data.tweets_2008_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -391,12 +391,12 @@ Grailbird.data.tweets_2008_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -413,12 +413,12 @@ Grailbird.data.tweets_2008_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -435,12 +435,12 @@ Grailbird.data.tweets_2008_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.hypem.com\" rel=\"nofollow\">Hype Machine</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.hypem.com\" rel=\"nofollow\"\u003EHype Machine\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -449,7 +449,7 @@ Grailbird.data.tweets_2008_06 =
   },
   "geo" : { },
   "id_str" : "825134194",
-  "text" : "just loved Belle and Sebastian - Another Sunny Day http://hypem.com/track/556461",
+  "text" : "just loved Belle and Sebastian - Another Sunny Day http:\/\/hypem.com\/track\/556461",
   "id" : 825134194,
   "created_at" : "2008-06-02 00:00:00 +0000",
   "user" : {
@@ -457,12 +457,12 @@ Grailbird.data.tweets_2008_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -479,12 +479,12 @@ Grailbird.data.tweets_2008_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -501,7 +501,7 @@ Grailbird.data.tweets_2008_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }

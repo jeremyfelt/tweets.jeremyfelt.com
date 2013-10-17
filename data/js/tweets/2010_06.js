@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2010_06 = 
  [ {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -9,7 +9,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "17466280545",
-  "text" : "Oregon trail... Possible new fix.  http://yfrog.com/mk15346951j",
+  "text" : "Oregon trail... Possible new fix.  http:\/\/yfrog.com\/mk15346951j",
   "id" : 17466280545,
   "created_at" : "2010-07-01 00:00:00 +0000",
   "user" : {
@@ -17,12 +17,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -31,7 +31,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "17470470130",
-  "text" : "I don't remember super eagles in the original. Thelma!  http://yfrog.com/iyf21j",
+  "text" : "I don't remember super eagles in the original. Thelma!  http:\/\/yfrog.com\/iyf21j",
   "id" : 17470470130,
   "created_at" : "2010-07-01 00:00:00 +0000",
   "user" : {
@@ -39,12 +39,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "The Orwell Prize",
@@ -61,7 +61,7 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "17487428996",
   "text" : "RT @TheOrwellPrize: 1.7.40: Newspapers now reduced to 6 pages, i.e., 3 sheets[1]. Print reduced in size. Rough analysis of to-day\u2019s... h ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -70,7 +70,7 @@ Grailbird.data.tweets_2010_06 =
     },
     "geo" : { },
     "id_str" : "17478215932",
-    "text" : "1.7.40: Newspapers now reduced to 6 pages, i.e., 3 sheets[1]. Print reduced in size. Rough analysis of to-day\u2019s... http://bit.ly/9uQlGN",
+    "text" : "1.7.40: Newspapers now reduced to 6 pages, i.e., 3 sheets[1]. Print reduced in size. Rough analysis of to-day\u2019s... http:\/\/bit.ly\/9uQlGN",
     "id" : 17478215932,
     "created_at" : "2010-07-01 08:07:52 +0000",
     "user" : {
@@ -78,7 +78,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "TheOrwellPrize",
       "protected" : false,
       "id_str" : "19651183",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1812607882/Orwell_Prize_twitter_normal.jpg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/1812607882\/Orwell_Prize_twitter_normal.jpg",
       "id" : 19651183,
       "verified" : false
     }
@@ -90,7 +90,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -118,12 +118,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -132,7 +132,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "17384257655",
-  "text" : "No longer getting a fail whale. Now, \"Something is technically wrong.\" With an alien dude! :) http://post.ly/lFzb",
+  "text" : "No longer getting a fail whale. Now, \"Something is technically wrong.\" With an alien dude! :) http:\/\/post.ly\/lFzb",
   "id" : 17384257655,
   "created_at" : "2010-06-30 00:00:00 +0000",
   "user" : {
@@ -140,7 +140,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -162,7 +162,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -184,7 +184,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -206,7 +206,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -228,7 +228,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -267,7 +267,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "Support",
       "protected" : false,
       "id_str" : "17874544",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2320882833/2whv6cuhvbal751uss8u_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2320882833\/2whv6cuhvbal751uss8u_normal.png",
       "id" : 17874544,
       "verified" : true
     }
@@ -279,7 +279,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -299,7 +299,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "17434777287",
-  "text" : "Uhhh, duh? RT @cnnbrk A suspected Russian spy is missing after being arrested in Cyprus and released on bail http://on.cnn.com/cN7Nh6",
+  "text" : "Uhhh, duh? RT @cnnbrk A suspected Russian spy is missing after being arrested in Cyprus and released on bail http:\/\/on.cnn.com\/cN7Nh6",
   "id" : 17434777287,
   "created_at" : "2010-06-30 00:00:00 +0000",
   "user" : {
@@ -307,7 +307,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -346,7 +346,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -397,7 +397,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "raffi",
       "protected" : false,
       "id_str" : "8285392",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1270234259/raffi-headshot-casual_normal.png",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/1270234259\/raffi-headshot-casual_normal.png",
       "id" : 8285392,
       "verified" : false
     }
@@ -409,7 +409,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -431,7 +431,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -453,7 +453,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -478,12 +478,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -503,7 +503,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -517,7 +517,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "17336413030",
-  "text" : "\"Accused Russian Spy a \"Practiced Deceiver\" http://bit.ly/c8qQ9R And one with an impressive Linked In profile. http://bit.ly/aUcxLC",
+  "text" : "\"Accused Russian Spy a \"Practiced Deceiver\" http:\/\/bit.ly\/c8qQ9R And one with an impressive Linked In profile. http:\/\/bit.ly\/aUcxLC",
   "id" : 17336413030,
   "created_at" : "2010-06-29 00:00:00 +0000",
   "user" : {
@@ -525,7 +525,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -547,7 +547,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -569,7 +569,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -591,7 +591,7 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "17283813904",
   "text" : "RT @lancearmstrong: And yes, this will be final Tour de France. It's been a great ride. Looking forward to 3 great weeks.",
   "retweeted_status" : {
-    "source" : "<a href=\"http://ubertwitter.com\" rel=\"nofollow\">UberTwitter</a>",
+    "source" : "\u003Ca href=\"http:\/\/ubertwitter.com\" rel=\"nofollow\"\u003EUberTwitter\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -608,7 +608,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "lancearmstrong",
       "protected" : false,
       "id_str" : "16727535",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3468734691/41fe3c1d64ede092fa10bda796ded193_normal.png",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/3468734691\/41fe3c1d64ede092fa10bda796ded193_normal.png",
       "id" : 16727535,
       "verified" : true
     }
@@ -620,12 +620,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -642,7 +642,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -670,7 +670,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -695,7 +695,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -709,7 +709,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "17168478803",
-  "text" : "\"Ugly scenes from first day of G20 in downtown Toronto.\" http://bit.ly/bOXedg",
+  "text" : "\"Ugly scenes from first day of G20 in downtown Toronto.\" http:\/\/bit.ly\/bOXedg",
   "id" : 17168478803,
   "created_at" : "2010-06-27 00:00:00 +0000",
   "user" : {
@@ -717,7 +717,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -742,7 +742,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -781,7 +781,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "sambrook",
       "protected" : false,
       "id_str" : "781674",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/344513261567880205/ccfed7bc6c5f7dfd87d9f86cc70e8feb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/344513261567880205\/ccfed7bc6c5f7dfd87d9f86cc70e8feb_normal.jpeg",
       "id" : 781674,
       "verified" : false
     }
@@ -793,12 +793,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Patrick LaForge",
@@ -819,9 +819,9 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "17170552277",
-  "text" : "RT @palafo: Weird. Final quote a howler. RT @JimMacMillan: Mysterious ex-con draws comparison to Jason Bourne http://flne.ws/25101396",
+  "text" : "RT @palafo: Weird. Final quote a howler. RT @JimMacMillan: Mysterious ex-con draws comparison to Jason Bourne http:\/\/flne.ws\/25101396",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Jim MacMillan",
@@ -836,7 +836,7 @@ Grailbird.data.tweets_2010_06 =
     },
     "geo" : { },
     "id_str" : "17169239818",
-    "text" : "Weird. Final quote a howler. RT @JimMacMillan: Mysterious ex-con draws comparison to Jason Bourne http://flne.ws/25101396",
+    "text" : "Weird. Final quote a howler. RT @JimMacMillan: Mysterious ex-con draws comparison to Jason Bourne http:\/\/flne.ws\/25101396",
     "id" : 17169239818,
     "created_at" : "2010-06-27 14:42:17 +0000",
     "user" : {
@@ -844,7 +844,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "palafo",
       "protected" : false,
       "id_str" : "2020351",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000464145613/d3512ff769d1e526f9e19ca879fbafa2_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/378800000464145613\/d3512ff769d1e526f9e19ca879fbafa2_normal.jpeg",
       "id" : 2020351,
       "verified" : true
     }
@@ -856,7 +856,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -884,7 +884,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -906,7 +906,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -928,7 +928,7 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "17175200029",
   "text" : "RT @steveray: Holiday Inn wants us to not wash our towels for the environment, but complimentary breakfast is all crap on styrofoam.",
   "retweeted_status" : {
-    "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -945,7 +945,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "steveray",
       "protected" : false,
       "id_str" : "887861",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/521812493/linkedin_normal.jpg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/521812493\/linkedin_normal.jpg",
       "id" : 887861,
       "verified" : false
     }
@@ -957,12 +957,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -971,7 +971,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "17053706146",
-  "text" : "Current Status http://post.ly/kmkk",
+  "text" : "Current Status http:\/\/post.ly\/kmkk",
   "id" : 17053706146,
   "created_at" : "2010-06-26 00:00:00 +0000",
   "user" : {
@@ -979,12 +979,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1004,12 +1004,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00AE</a>",
+  "source" : "\u003Ca href=\"http:\/\/blackberry.com\/twitter\" rel=\"nofollow\"\u003ETwitter for BlackBerry\u00AE\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1026,12 +1026,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1040,7 +1040,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "17060499801",
-  "text" : "Current Status http://post.ly/knFa",
+  "text" : "Current Status http:\/\/post.ly\/knFa",
   "id" : 17060499801,
   "created_at" : "2010-06-26 00:00:00 +0000",
   "user" : {
@@ -1048,12 +1048,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1062,7 +1062,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "17060509498",
-  "text" : "Current Status http://post.ly/knFj",
+  "text" : "Current Status http:\/\/post.ly\/knFj",
   "id" : 17060509498,
   "created_at" : "2010-06-26 00:00:00 +0000",
   "user" : {
@@ -1070,7 +1070,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -1084,7 +1084,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "17068122153",
-  "text" : "Buzz Aldrin regarding Mars - \"Did the Pilgrims on the Mayflower sit around Plymouth Rock waiting for a return trip?\" http://bit.ly/aayZvK",
+  "text" : "Buzz Aldrin regarding Mars - \"Did the Pilgrims on the Mayflower sit around Plymouth Rock waiting for a return trip?\" http:\/\/bit.ly\/aayZvK",
   "id" : 17068122153,
   "created_at" : "2010-06-26 00:00:00 +0000",
   "user" : {
@@ -1092,7 +1092,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -1112,7 +1112,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "17069142280",
-  "text" : "Great picture of the goal by Serbia in their win over Germany.  #srb #ger http://bit.ly/bCGow3",
+  "text" : "Great picture of the goal by Serbia in their win over Germany.  #srb #ger http:\/\/bit.ly\/bCGow3",
   "id" : 17069142280,
   "created_at" : "2010-06-26 00:00:00 +0000",
   "user" : {
@@ -1120,7 +1120,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -1137,7 +1137,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "17069318139",
-  "text" : "Ridiculous (and well done) amount of #worldcup data at Wikipedia. See main article http://bit.ly/a1xUWt and group C http://bit.ly/a1xUWt",
+  "text" : "Ridiculous (and well done) amount of #worldcup data at Wikipedia. See main article http:\/\/bit.ly\/a1xUWt and group C http:\/\/bit.ly\/a1xUWt",
   "id" : 17069318139,
   "created_at" : "2010-06-26 00:00:00 +0000",
   "user" : {
@@ -1145,7 +1145,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -1173,7 +1173,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -1207,12 +1207,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jason Shellen",
@@ -1235,7 +1235,7 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "17114031407",
   "text" : "RT @shellen: Wondering if I can hold my breath for 25 minutes. #worldcup #USA",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.brizzly.com\" rel=\"nofollow\">Brizzly</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1258,7 +1258,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "shellen",
       "protected" : false,
       "id_str" : "422",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3735154582/dce96c5e8e3b73b69bd6b61e8111108c_normal.png",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/378800000577599412\/ed48d10f6886181875234756a7ab0298_normal.png",
       "id" : 422,
       "verified" : false
     }
@@ -1270,12 +1270,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1292,12 +1292,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1314,12 +1314,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jason Kottke",
@@ -1336,7 +1336,7 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "17115969282",
   "text" : "RT @jkottke: ==========&lt;() zzzzzzzzzz",
   "retweeted_status" : {
-    "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1353,7 +1353,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "jkottke",
       "protected" : false,
       "id_str" : "1305941",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/28727752/jkottke-headshot3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/28727752\/jkottke-headshot3_normal.jpg",
       "id" : 1305941,
       "verified" : true
     }
@@ -1365,12 +1365,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1387,12 +1387,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1409,12 +1409,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1431,7 +1431,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -1445,7 +1445,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "17122828125",
-  "text" : "Garden Post http://flic.kr/p/8dAsRW",
+  "text" : "Garden Post http:\/\/flic.kr\/p\/8dAsRW",
   "id" : 17122828125,
   "created_at" : "2010-06-26 00:00:00 +0000",
   "user" : {
@@ -1453,7 +1453,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -1478,12 +1478,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marco Arment",
@@ -1498,9 +1498,9 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "16988007303",
-  "text" : "RT @marcoarment: NEW iPhone 4 antenna booster! Really works! http://www.marco.org/733115343",
+  "text" : "RT @marcoarment: NEW iPhone 4 antenna booster! Really works! http:\/\/www.marco.org\/733115343",
   "retweeted_status" : {
-    "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1509,7 +1509,7 @@ Grailbird.data.tweets_2010_06 =
     },
     "geo" : { },
     "id_str" : "16981803282",
-    "text" : "NEW iPhone 4 antenna booster! Really works! http://www.marco.org/733115343",
+    "text" : "NEW iPhone 4 antenna booster! Really works! http:\/\/www.marco.org\/733115343",
     "id" : 16981803282,
     "created_at" : "2010-06-25 02:46:31 +0000",
     "user" : {
@@ -1517,7 +1517,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "marcoarment",
       "protected" : false,
       "id_str" : "14231571",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1282173124/untitled-158-2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/1282173124\/untitled-158-2_normal.jpg",
       "id" : 14231571,
       "verified" : false
     }
@@ -1529,12 +1529,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Steve",
@@ -1551,7 +1551,7 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "17007857155",
   "text" : "RT @ATT_Wireless_PR: Not funny, Steve RT @ceoSteveJobs: I heard the CEO of AT&T got married recently. The service was great but the rece ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Steve",
@@ -1577,7 +1577,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "ATT_Fake_PR",
       "protected" : false,
       "id_str" : "156001879",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/993237612/att-death-star-logo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/993237612\/att-death-star-logo_normal.jpg",
       "id" : 156001879,
       "verified" : false
     }
@@ -1589,7 +1589,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -1617,12 +1617,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/devices\" rel=\"nofollow\">txt</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -1648,7 +1648,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -1662,7 +1662,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "16896311573",
-  "text" : "Alejandro Escovedo, one of the *greatest* songwriters ever, has a new album available for purchase. http://www.alejandroescovedo.com/",
+  "text" : "Alejandro Escovedo, one of the *greatest* songwriters ever, has a new album available for purchase. http:\/\/www.alejandroescovedo.com\/",
   "id" : 16896311573,
   "created_at" : "2010-06-24 00:00:00 +0000",
   "user" : {
@@ -1670,7 +1670,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -1695,7 +1695,7 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "16897706050",
   "text" : "RT @adamjahns: I believe Keith is the first player ever to win a Stanley Cup, a gold medal and a Norris Trophy in one year. Wow. #Blackhawks",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.tweetdeck.com/\" rel=\"nofollow\">TweetDeck</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\/\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1715,7 +1715,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "adamjahns",
       "protected" : false,
       "id_str" : "20021214",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3759612306/48f87e19a47ad951b6dd3e023a0cc3cd_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/3759612306\/48f87e19a47ad951b6dd3e023a0cc3cd_normal.jpeg",
       "id" : 20021214,
       "verified" : true
     }
@@ -1727,12 +1727,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jeff Croft",
@@ -1749,7 +1749,7 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "16898795728",
   "text" : "RT @jcroft: Gray Powell totally would have found the iPhone reception issue if Gizmodo wouldn't have stolen his phone first.",
   "retweeted_status" : {
-    "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1766,7 +1766,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "jcroft",
       "protected" : false,
       "id_str" : "25993",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1316515953/twitter_profile_normal.jpg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/1316515953\/twitter_profile_normal.jpg",
       "id" : 25993,
       "verified" : false
     }
@@ -1778,12 +1778,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1792,7 +1792,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "16901164358",
-  "text" : "App developers appear to like blue.  http://yfrog.com/j88j4rj",
+  "text" : "App developers appear to like blue.  http:\/\/yfrog.com\/j88j4rj",
   "id" : 16901164358,
   "created_at" : "2010-06-24 00:00:00 +0000",
   "user" : {
@@ -1800,12 +1800,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1822,7 +1822,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -1844,7 +1844,7 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "16928623890",
   "text" : "RT @rossrubin: iPhone 4 includes better camera  for higher-resolution photos of store lines for iPhone 5.",
   "retweeted_status" : {
-    "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1861,7 +1861,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "rossrubin",
       "protected" : false,
       "id_str" : "9324442",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000110857048/fb72cfffd8e8c9b1df24ab1d0b111435_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000110857048\/fb72cfffd8e8c9b1df24ab1d0b111435_normal.jpeg",
       "id" : 9324442,
       "verified" : false
     }
@@ -1873,7 +1873,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -1895,7 +1895,7 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "16931294349",
   "text" : "RT @gruber: Three hours outside in the sun. 94 degrees. Still not near front of line. Might hit the shade in 30 minutes. Rethinking my life.",
   "retweeted_status" : {
-    "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1912,7 +1912,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "gruber",
       "protected" : false,
       "id_str" : "33423",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3065313266/7d563f0c22918aba2d6be2eaa9fb92a7_normal.png",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/3065313266\/7d563f0c22918aba2d6be2eaa9fb92a7_normal.png",
       "id" : 33423,
       "verified" : true
     }
@@ -1924,7 +1924,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -1946,7 +1946,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -1997,7 +1997,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "chucktodd",
       "protected" : false,
       "id_str" : "50325797",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/336130720/Peacock_Cleanup2_normal.JPG",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/336130720\/Peacock_Cleanup2_normal.JPG",
       "id" : 50325797,
       "verified" : true
     }
@@ -2009,7 +2009,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -2026,7 +2026,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "16948803760",
-  "text" : "Ha, current trending Google search - \"Goodbye in Italian\" - addio #ita :) http://bit.ly/agPDS2",
+  "text" : "Ha, current trending Google search - \"Goodbye in Italian\" - addio #ita :) http:\/\/bit.ly\/agPDS2",
   "id" : 16948803760,
   "created_at" : "2010-06-24 00:00:00 +0000",
   "user" : {
@@ -2034,7 +2034,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -2056,12 +2056,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2070,7 +2070,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "16969677146",
-  "text" : "Hyundai clean and ready to leave us. One car family, FTW! http://post.ly/kesV",
+  "text" : "Hyundai clean and ready to leave us. One car family, FTW! http:\/\/post.ly\/kesV",
   "id" : 16969677146,
   "created_at" : "2010-06-24 00:00:00 +0000",
   "user" : {
@@ -2078,7 +2078,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -2098,9 +2098,9 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "16895064708",
-  "text" : "RT @NPRTechTeam: NPR Music iPhone App is now live in the iTunes Store! It is free! Here is the launch announcement for it - http://nyti. ...",
+  "text" : "RT @NPRTechTeam: NPR Music iPhone App is now live in the iTunes Store! It is free! Here is the launch announcement for it - http:\/\/nyti. ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2109,7 +2109,7 @@ Grailbird.data.tweets_2010_06 =
     },
     "geo" : { },
     "id_str" : "16893521431",
-    "text" : "NPR Music iPhone App is now live in the iTunes Store! It is free! Here is the launch announcement for it - http://nyti.ms/b37MaG",
+    "text" : "NPR Music iPhone App is now live in the iTunes Store! It is free! Here is the launch announcement for it - http:\/\/nyti.ms\/b37MaG",
     "id" : 16893521431,
     "created_at" : "2010-06-24 01:44:37 +0000",
     "user" : {
@@ -2117,7 +2117,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "NPRTechTeam",
       "protected" : false,
       "id_str" : "16950711",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1010537989/twitter_techTeam_normal.jpg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/1010537989\/twitter_techTeam_normal.jpg",
       "id" : 16950711,
       "verified" : false
     }
@@ -2129,7 +2129,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -2151,12 +2151,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.npr.org\" rel=\"nofollow\">NPR Music for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.npr.org\" rel=\"nofollow\"\u003ENPR Music for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2165,7 +2165,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "16895659650",
-  "text" : "NPR: First Listen: Alejandro Escovedo, 'Street Songs Of Love'-More at http://n.pr/127889769",
+  "text" : "NPR: First Listen: Alejandro Escovedo, 'Street Songs Of Love'-More at http:\/\/n.pr\/127889769",
   "id" : 16895659650,
   "created_at" : "2010-06-24 00:00:00 +0000",
   "user" : {
@@ -2173,7 +2173,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -2195,7 +2195,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -2209,7 +2209,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "16821957176",
-  "text" : "Spain to reopen access to prehistoric cave paintings http://bit.ly/avgsnv",
+  "text" : "Spain to reopen access to prehistoric cave paintings http:\/\/bit.ly\/avgsnv",
   "id" : 16821957176,
   "created_at" : "2010-06-23 00:00:00 +0000",
   "user" : {
@@ -2217,7 +2217,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -2231,7 +2231,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "16869576349",
-  "text" : "Longest match ever, still in progress - \"Wimbledon Live: Isner and Mahut in Epic Marathon\" http://nyti.ms/bP3Nwe",
+  "text" : "Longest match ever, still in progress - \"Wimbledon Live: Isner and Mahut in Epic Marathon\" http:\/\/nyti.ms\/bP3Nwe",
   "id" : 16869576349,
   "created_at" : "2010-06-23 00:00:00 +0000",
   "user" : {
@@ -2239,7 +2239,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -2261,12 +2261,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2283,7 +2283,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -2328,7 +2328,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "SoundmanCA",
       "protected" : false,
       "id_str" : "37241860",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3437222699/b9553a065912538a29d3c89b6f077910_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/378800000585510976\/df27f01dd17046e887080b49e642089f_normal.jpeg",
       "id" : 37241860,
       "verified" : false
     }
@@ -2340,7 +2340,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -2354,7 +2354,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "16586036715",
-  "text" : "Cleaning up my bookmarks. This is one of my favorite pictures ever - \"Rock'N'Roll, baby\" - http://bit.ly/aST5Fo",
+  "text" : "Cleaning up my bookmarks. This is one of my favorite pictures ever - \"Rock'N'Roll, baby\" - http:\/\/bit.ly\/aST5Fo",
   "id" : 16586036715,
   "created_at" : "2010-06-20 00:00:00 +0000",
   "user" : {
@@ -2362,7 +2362,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -2384,7 +2384,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -2406,7 +2406,7 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "16643932333",
   "text" : "RT @AFG85: Sometimes I wish I was Anthony Bourdain.",
   "retweeted_status" : {
-    "source" : "<a href=\"https://chrome.google.com/extensions/detail/encaiiljifbdbjlphpgpiimidegddhic\" rel=\"nofollow\">Silver Bird</a>",
+    "source" : "\u003Ca href=\"https:\/\/chrome.google.com\/extensions\/detail\/encaiiljifbdbjlphpgpiimidegddhic\" rel=\"nofollow\"\u003ESilver Bird\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2423,7 +2423,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "adamgurri",
       "protected" : false,
       "id_str" : "14564016",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1580748622/295788_10100115316736184_5300375_45450921_1061298530_n_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1580748622\/295788_10100115316736184_5300375_45450921_1061298530_n_normal.jpg",
       "id" : 14564016,
       "verified" : false
     }
@@ -2435,7 +2435,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -2449,7 +2449,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "16519590341",
-  "text" : "The RIAA should study NPR. They get me to buy so many albums. Tonight - Dusty Springfield's \"Dusty In Memphis\" http://amzn.to/9paDQR",
+  "text" : "The RIAA should study NPR. They get me to buy so many albums. Tonight - Dusty Springfield's \"Dusty In Memphis\" http:\/\/amzn.to\/9paDQR",
   "id" : 16519590341,
   "created_at" : "2010-06-19 00:00:00 +0000",
   "user" : {
@@ -2457,7 +2457,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -2479,7 +2479,7 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "16519677580",
   "text" : "RT @BPGlobalPR: Don't worry about me. I might be out of the limelight, but they are still going to pay me assloads of money. (Hayward)",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.tweetdeck.com/\" rel=\"nofollow\">TweetDeck</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\/\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2496,7 +2496,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "BPGlobalPR",
       "protected" : false,
       "id_str" : "145753059",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/927416334/bptwitterlogo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/927416334\/bptwitterlogo_normal.jpg",
       "id" : 145753059,
       "verified" : false
     }
@@ -2508,7 +2508,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -2530,12 +2530,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://dev.twitter.com/\" rel=\"nofollow\">API</a>",
+  "source" : "\u003Ca href=\"http:\/\/dev.twitter.com\/\" rel=\"nofollow\"\u003EAPI\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Andy Carvin",
@@ -2561,7 +2561,7 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "16435886934",
   "text" : "RT @acarvin: \"The Celtics have to outscore the Lakers tonight.\" Words of wisdom from Magic Johnson. #goCelts #beatLA #math",
   "retweeted_status" : {
-    "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2587,7 +2587,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "acarvin",
       "protected" : false,
       "id_str" : "778057",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1820518678/jem_normal.jpg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/1820518678\/jem_normal.jpg",
       "id" : 778057,
       "verified" : true
     }
@@ -2599,12 +2599,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2613,7 +2613,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "16436778162",
-  "text" : "Interesting that FIFA, a free app, has enough 'in app sales' (7.99 for audio) to make it #1 grossing right now. http://yfrog.com/2gd9qj",
+  "text" : "Interesting that FIFA, a free app, has enough 'in app sales' (7.99 for audio) to make it #1 grossing right now. http:\/\/yfrog.com\/2gd9qj",
   "id" : 16436778162,
   "created_at" : "2010-06-18 00:00:00 +0000",
   "user" : {
@@ -2621,12 +2621,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2635,7 +2635,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "16439164362",
-  "text" : "\"The last eight presidents have gone on television and promised to move America towards an energy-independent future.\" http://bit.ly/9Gs0b6",
+  "text" : "\"The last eight presidents have gone on television and promised to move America towards an energy-independent future.\" http:\/\/bit.ly\/9Gs0b6",
   "id" : 16439164362,
   "created_at" : "2010-06-18 00:00:00 +0000",
   "user" : {
@@ -2643,12 +2643,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2665,12 +2665,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Chanders",
@@ -2687,7 +2687,7 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "16442565684",
   "text" : "RT @Chanders: A sport whose final moments of drama are continually interrupted by strategic rule breaking is a silly sport.",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2704,7 +2704,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "Chanders",
       "protected" : false,
       "id_str" : "14245341",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3363211736/6d3a182a64b420eb0217a228ede68310_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/378800000548057998\/ae0f008274b95d0f6c3d6d502fab1729_normal.png",
       "id" : 14245341,
       "verified" : false
     }
@@ -2716,12 +2716,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2730,7 +2730,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "16443753644",
-  "text" : "OK Go's \"End Love\" - More than 1 million frames, one shot, 4.5 minute video. These guys have way too much fun. http://youtu.be/V2fpgpanZAw",
+  "text" : "OK Go's \"End Love\" - More than 1 million frames, one shot, 4.5 minute video. These guys have way too much fun. http:\/\/youtu.be\/V2fpgpanZAw",
   "id" : 16443753644,
   "created_at" : "2010-06-18 00:00:00 +0000",
   "user" : {
@@ -2738,12 +2738,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://dev.twitter.com/\" rel=\"nofollow\">API</a>",
+  "source" : "\u003Ca href=\"http:\/\/dev.twitter.com\/\" rel=\"nofollow\"\u003EAPI\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "CNN Breaking News",
@@ -2758,7 +2758,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "16445597008",
-  "text" : "RT @cnnbrk: 15 million pounds of SpaghettiOs recalled http://on.cnn.com/9GZftF",
+  "text" : "RT @cnnbrk: 15 million pounds of SpaghettiOs recalled http:\/\/on.cnn.com\/9GZftF",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -2769,7 +2769,7 @@ Grailbird.data.tweets_2010_06 =
     },
     "geo" : { },
     "id_str" : "16445089748",
-    "text" : "15 million pounds of SpaghettiOs recalled http://on.cnn.com/9GZftF",
+    "text" : "15 million pounds of SpaghettiOs recalled http:\/\/on.cnn.com\/9GZftF",
     "id" : 16445089748,
     "created_at" : "2010-06-18 04:29:38 +0000",
     "user" : {
@@ -2777,7 +2777,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "cnnbrk",
       "protected" : false,
       "id_str" : "428333",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1762504301/128x128_cnnbrk_avatar_normal.gif",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/1762504301\/128x128_cnnbrk_avatar_normal.gif",
       "id" : 428333,
       "verified" : true
     }
@@ -2789,7 +2789,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -2811,7 +2811,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -2831,9 +2831,9 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "16497827443",
-  "text" : "RT @Tayaya: Holy shit!  Biblical weather band.  61mph winds. http://bit.ly/aczMN8  http://bit.ly/awZYMU  http://bit.ly/9VaLcD",
+  "text" : "RT @Tayaya: Holy shit!  Biblical weather band.  61mph winds. http:\/\/bit.ly\/aczMN8  http:\/\/bit.ly\/awZYMU  http:\/\/bit.ly\/9VaLcD",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.tweetdeck.com/\" rel=\"nofollow\">TweetDeck</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\/\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2842,7 +2842,7 @@ Grailbird.data.tweets_2010_06 =
     },
     "geo" : { },
     "id_str" : "16497719879",
-    "text" : "Holy shit!  Biblical weather band.  61mph winds. http://bit.ly/aczMN8  http://bit.ly/awZYMU  http://bit.ly/9VaLcD",
+    "text" : "Holy shit!  Biblical weather band.  61mph winds. http:\/\/bit.ly\/aczMN8  http:\/\/bit.ly\/awZYMU  http:\/\/bit.ly\/9VaLcD",
     "id" : 16497719879,
     "created_at" : "2010-06-18 20:57:22 +0000",
     "user" : {
@@ -2850,7 +2850,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "Tayaya",
       "protected" : false,
       "id_str" : "17909879",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/93893243/RRoD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/93893243\/RRoD_normal.jpg",
       "id" : 17909879,
       "verified" : false
     }
@@ -2862,12 +2862,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2884,12 +2884,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2906,12 +2906,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2931,12 +2931,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.brizzly.com\" rel=\"nofollow\">Brizzly</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2945,7 +2945,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "16265909846",
-  "text" : "I know what CNN is trying to do, but it still seems shady. \"Ignore the fine print, just click yes.\" http://brizzly.com/pic/2RZG",
+  "text" : "I know what CNN is trying to do, but it still seems shady. \"Ignore the fine print, just click yes.\" http:\/\/brizzly.com\/pic\/2RZG",
   "id" : 16265909846,
   "created_at" : "2010-06-16 00:00:00 +0000",
   "user" : {
@@ -2953,12 +2953,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -2973,7 +2973,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "16265963992",
-  "text" : "RT @davewiner: Does the World Need More Than One Twitter? http://r2.ly/zj2t",
+  "text" : "RT @davewiner: Does the World Need More Than One Twitter? http:\/\/r2.ly\/zj2t",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -2984,7 +2984,7 @@ Grailbird.data.tweets_2010_06 =
     },
     "geo" : { },
     "id_str" : "16265575294",
-    "text" : "Does the World Need More Than One Twitter? http://r2.ly/zj2t",
+    "text" : "Does the World Need More Than One Twitter? http:\/\/r2.ly\/zj2t",
     "id" : 16265575294,
     "created_at" : "2010-06-16 00:15:40 +0000",
     "user" : {
@@ -2992,7 +2992,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000014227412/0552a90ad246aabd7007631fecbc378a_normal.png",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/378800000550212297\/0552a90ad246aabd7007631fecbc378a_normal.png",
       "id" : 3839,
       "verified" : true
     }
@@ -3004,7 +3004,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -3024,7 +3024,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "16270509537",
-  "text" : "RT @davewiner: Scripting News: How an \"Emergency Broadcast System\" for Twitter could work. http://r2.ly/zj3e",
+  "text" : "RT @davewiner: Scripting News: How an \"Emergency Broadcast System\" for Twitter could work. http:\/\/r2.ly\/zj3e",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -3035,7 +3035,7 @@ Grailbird.data.tweets_2010_06 =
     },
     "geo" : { },
     "id_str" : "16268314885",
-    "text" : "Scripting News: How an \"Emergency Broadcast System\" for Twitter could work. http://r2.ly/zj3e",
+    "text" : "Scripting News: How an \"Emergency Broadcast System\" for Twitter could work. http:\/\/r2.ly\/zj3e",
     "id" : 16268314885,
     "created_at" : "2010-06-16 01:01:15 +0000",
     "user" : {
@@ -3043,7 +3043,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000014227412/0552a90ad246aabd7007631fecbc378a_normal.png",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/378800000550212297\/0552a90ad246aabd7007631fecbc378a_normal.png",
       "id" : 3839,
       "verified" : true
     }
@@ -3055,7 +3055,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -3083,12 +3083,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3097,7 +3097,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "16271904841",
-  "text" : "\"Sprouting Sunflower Seeds\" [flickr] http://bit.ly/ddQ8vS",
+  "text" : "\"Sprouting Sunflower Seeds\" [flickr] http:\/\/bit.ly\/ddQ8vS",
   "id" : 16271904841,
   "created_at" : "2010-06-16 00:00:00 +0000",
   "user" : {
@@ -3105,12 +3105,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3119,7 +3119,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "16192900249",
-  "text" : "Orwell's 'The Sporting Spirit' - \"..international sporting contests lead to orgies of hatred\" http://bit.ly/cHXh5Z",
+  "text" : "Orwell's 'The Sporting Spirit' - \"..international sporting contests lead to orgies of hatred\" http:\/\/bit.ly\/cHXh5Z",
   "id" : 16192900249,
   "created_at" : "2010-06-15 00:00:00 +0000",
   "user" : {
@@ -3127,12 +3127,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3149,12 +3149,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3174,12 +3174,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3194,7 +3194,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "16194433138",
-  "text" : "This photo of World Cup photographers at the #mex #rsa match is amusing. http://bit.ly/cUJrPV",
+  "text" : "This photo of World Cup photographers at the #mex #rsa match is amusing. http:\/\/bit.ly\/cUJrPV",
   "id" : 16194433138,
   "created_at" : "2010-06-15 00:00:00 +0000",
   "user" : {
@@ -3202,12 +3202,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -3234,7 +3234,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "16196612860",
-  "text" : "Today's Rebooting The News was very good. The chemistry between @davewiner, @jayrosen_nyu and @richziade was excellent. http://bit.ly/d6rmqs",
+  "text" : "Today's Rebooting The News was very good. The chemistry between @davewiner, @jayrosen_nyu and @richziade was excellent. http:\/\/bit.ly\/d6rmqs",
   "id" : 16196612860,
   "created_at" : "2010-06-15 00:00:00 +0000",
   "user" : {
@@ -3242,12 +3242,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3256,7 +3256,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "16197004517",
-  "text" : "Johnny Cash - God's Gonna Cut You Down http://www.youtube.com/watch?v=wxh-FfElY0M 100% Cameo, some fun faces. Great song (and album) too.",
+  "text" : "Johnny Cash - God's Gonna Cut You Down http:\/\/www.youtube.com\/watch?v=wxh-FfElY0M 100% Cameo, some fun faces. Great song (and album) too.",
   "id" : 16197004517,
   "created_at" : "2010-06-15 00:00:00 +0000",
   "user" : {
@@ -3264,7 +3264,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -3309,7 +3309,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "Awapy",
       "protected" : false,
       "id_str" : "5963772",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3457569739/dad6908950e1cef5572d8de104cc0451_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/3457569739\/dad6908950e1cef5572d8de104cc0451_normal.jpeg",
       "id" : 5963772,
       "verified" : false
     }
@@ -3321,12 +3321,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ryan Mark",
@@ -3347,9 +3347,9 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "16252316631",
-  "text" : "RT @ryanmark: A dead simple reader for The Guardian (uses their new apis). Real slick. http://guardian.gyford.com/ h/t @matth",
+  "text" : "RT @ryanmark: A dead simple reader for The Guardian (uses their new apis). Real slick. http:\/\/guardian.gyford.com\/ h\/t @matth",
   "retweeted_status" : {
-    "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Matt Hampel",
@@ -3364,7 +3364,7 @@ Grailbird.data.tweets_2010_06 =
     },
     "geo" : { },
     "id_str" : "16251993843",
-    "text" : "A dead simple reader for The Guardian (uses their new apis). Real slick. http://guardian.gyford.com/ h/t @matth",
+    "text" : "A dead simple reader for The Guardian (uses their new apis). Real slick. http:\/\/guardian.gyford.com\/ h\/t @matth",
     "id" : 16251993843,
     "created_at" : "2010-06-15 20:18:24 +0000",
     "user" : {
@@ -3372,7 +3372,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "ryanmark",
       "protected" : false,
       "id_str" : "14550756",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1491555364/me_normal.jpg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/1491555364\/me_normal.jpg",
       "id" : 14550756,
       "verified" : false
     }
@@ -3384,12 +3384,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3398,7 +3398,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "16118200872",
-  "text" : "Off-kilter Kettle (Percolator) http://www.flickr.com/photos/ramblewords/4698684442/",
+  "text" : "Off-kilter Kettle (Percolator) http:\/\/www.flickr.com\/photos\/ramblewords\/4698684442\/",
   "id" : 16118200872,
   "created_at" : "2010-06-14 00:00:00 +0000",
   "user" : {
@@ -3406,12 +3406,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3420,7 +3420,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "15889979541",
-  "text" : "\"Your iPads are safer now because of us.\" http://bit.ly/aVmKtU",
+  "text" : "\"Your iPads are safer now because of us.\" http:\/\/bit.ly\/aVmKtU",
   "id" : 15889979541,
   "created_at" : "2010-06-11 00:00:00 +0000",
   "user" : {
@@ -3428,12 +3428,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3442,7 +3442,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "15936213893",
-  "text" : "Today's xkcd is awesome. http://xkcd.com/752/",
+  "text" : "Today's xkcd is awesome. http:\/\/xkcd.com\/752\/",
   "id" : 15936213893,
   "created_at" : "2010-06-11 00:00:00 +0000",
   "user" : {
@@ -3450,7 +3450,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -3475,12 +3475,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3497,12 +3497,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3514,7 +3514,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "15936939326",
-  "text" : "What's YOUR take on Cassavetes? http://bit.ly/ckkdXN #letigre",
+  "text" : "What's YOUR take on Cassavetes? http:\/\/bit.ly\/ckkdXN #letigre",
   "id" : 15936939326,
   "created_at" : "2010-06-11 00:00:00 +0000",
   "user" : {
@@ -3522,12 +3522,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Neil Gorman",
@@ -3550,7 +3550,7 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "15937767353",
   "text" : "RT @neilgorman: @jeremyfelt genius!",
   "retweeted_status" : {
-    "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Jeremy Felt",
@@ -3578,7 +3578,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "neilgorman",
       "protected" : false,
       "id_str" : "721853",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000426766190/a50c1703b24bc17a4ef8c3eeff3047d8_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/378800000426766190\/a50c1703b24bc17a4ef8c3eeff3047d8_normal.jpeg",
       "id" : 721853,
       "verified" : false
     }
@@ -3590,12 +3590,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3604,7 +3604,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "15952188204",
-  "text" : "The Vuvuzela - Legendary Horn! http://youtu.be/SrYb9qtO8OQ",
+  "text" : "The Vuvuzela - Legendary Horn! http:\/\/youtu.be\/SrYb9qtO8OQ",
   "id" : 15952188204,
   "created_at" : "2010-06-11 00:00:00 +0000",
   "user" : {
@@ -3612,12 +3612,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://dev.twitter.com/\" rel=\"nofollow\">API</a>",
+  "source" : "\u003Ca href=\"http:\/\/dev.twitter.com\/\" rel=\"nofollow\"\u003EAPI\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jason Scott",
@@ -3651,7 +3651,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "textfiles",
       "protected" : false,
       "id_str" : "1465481",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000465883977/bee9595814a40486484dce8ec936069f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000465883977\/bee9595814a40486484dce8ec936069f_normal.jpeg",
       "id" : 1465481,
       "verified" : false
     }
@@ -3663,12 +3663,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://dev.twitter.com/\" rel=\"nofollow\">API</a>",
+  "source" : "\u003Ca href=\"http:\/\/dev.twitter.com\/\" rel=\"nofollow\"\u003EAPI\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Scott Leslie",
@@ -3691,7 +3691,7 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "15826044820",
   "text" : "RT @sleslie: RT @holden: Wow, just did math. Current fine on BP is equal to max. fines for filesharing 454 songs.",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Mike Caulfield",
@@ -3714,7 +3714,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "sleslie",
       "protected" : false,
       "id_str" : "3567831",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1178526432/happy_mutant_normal.gif",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/1178526432\/happy_mutant_normal.gif",
       "id" : 3567831,
       "verified" : false
     }
@@ -3726,12 +3726,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -3757,15 +3757,15 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://dev.twitter.com/\" rel=\"nofollow\">API</a>",
+  "source" : "\u003Ca href=\"http:\/\/dev.twitter.com\/\" rel=\"nofollow\"\u003EAPI\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rod Begbie",
+      "name" : "Rod BOO!gbie",
       "screen_name" : "RodBegbie",
       "indices" : [ 3, 13 ],
       "id_str" : "761",
@@ -3779,7 +3779,7 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "15751160434",
   "text" : "RT @RodBegbie: It's a good thing that Twitter has 100% uptime, otherwise this whole mandatory link-shortener might seem like a bad idea  ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3792,11 +3792,11 @@ Grailbird.data.tweets_2010_06 =
     "id" : 15741838678,
     "created_at" : "2010-06-08 23:59:56 +0000",
     "user" : {
-      "name" : "Rod Begbie",
+      "name" : "Rod BOO!gbie",
       "screen_name" : "RodBegbie",
       "protected" : false,
       "id_str" : "761",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3056656409/aad35c64b9845a6d14a5e53b41fa47e2_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000593737512\/d2452359fe36da124c16a8441795ebb7_normal.jpeg",
       "id" : 761,
       "verified" : false
     }
@@ -3808,12 +3808,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "DeWitt Clinton",
@@ -3826,14 +3826,14 @@ Grailbird.data.tweets_2010_06 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 121, 140 ],
-      "url" : "http://t.co/VbmGKY9",
-      "expanded_url" : "http://groups.google.com/group/twitter-development-talk/browse_thread/thread/14d5474c13ed84aa",
-      "display_url" : "groups.google.com/group/twitter-\u2026"
+      "url" : "http:\/\/t.co\/VbmGKY9",
+      "expanded_url" : "http:\/\/groups.google.com\/group\/twitter-development-talk\/browse_thread\/thread\/14d5474c13ed84aa",
+      "display_url" : "groups.google.com\/group\/twitter-\u2026"
     } ]
   },
   "geo" : { },
   "id_str" : "15753126877",
-  "text" : "Good point from @dewitt -\"inconsistency with returning 301's and also requiring every click to go through the t.co link\" http://t.co/VbmGKY9",
+  "text" : "Good point from @dewitt -\"inconsistency with returning 301's and also requiring every click to go through the t.co link\" http:\/\/t.co\/VbmGKY9",
   "id" : 15753126877,
   "created_at" : "2010-06-09 00:00:00 +0000",
   "user" : {
@@ -3841,12 +3841,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3866,12 +3866,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3891,12 +3891,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Abraham Williams",
@@ -3917,7 +3917,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "15758091325",
-  "text" : "RT @abraham: One downside of @twitterapi switching to t.co is http://abrah.am which is 15 characters will always take 20 characters.",
+  "text" : "RT @abraham: One downside of @twitterapi switching to t.co is http:\/\/abrah.am which is 15 characters will always take 20 characters.",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -3934,7 +3934,7 @@ Grailbird.data.tweets_2010_06 =
     },
     "geo" : { },
     "id_str" : "15757729560",
-    "text" : "One downside of @twitterapi switching to t.co is http://abrah.am which is 15 characters will always take 20 characters.",
+    "text" : "One downside of @twitterapi switching to t.co is http:\/\/abrah.am which is 15 characters will always take 20 characters.",
     "id" : 15757729560,
     "created_at" : "2010-06-09 04:19:40 +0000",
     "user" : {
@@ -3942,7 +3942,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "abraham",
       "protected" : false,
       "id_str" : "9436992",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3258886660/a2c58de63368c9438bd30b0f4ed2ff36_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/3258886660\/a2c58de63368c9438bd30b0f4ed2ff36_normal.jpeg",
       "id" : 9436992,
       "verified" : false
     }
@@ -3954,12 +3954,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3976,15 +3976,15 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne",
+      "name" : "\u2620 Unending Payne \u2620",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -3996,9 +3996,9 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "15802671683",
-  "text" : "RT @al3x: So, imagine Helvetireader, except prettier, more polished, and less buggy. Boom: http://ismaelsobek.com/lucidica/",
+  "text" : "RT @al3x: So, imagine Helvetireader, except prettier, more polished, and less buggy. Boom: http:\/\/ismaelsobek.com\/lucidica\/",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4007,15 +4007,15 @@ Grailbird.data.tweets_2010_06 =
     },
     "geo" : { },
     "id_str" : "15801693813",
-    "text" : "So, imagine Helvetireader, except prettier, more polished, and less buggy. Boom: http://ismaelsobek.com/lucidica/",
+    "text" : "So, imagine Helvetireader, except prettier, more polished, and less buggy. Boom: http:\/\/ismaelsobek.com\/lucidica\/",
     "id" : 15801693813,
     "created_at" : "2010-06-09 20:53:54 +0000",
     "user" : {
-      "name" : "Alex Payne",
+      "name" : "\u2620 Unending Payne \u2620",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3352529876/8cd9c8492c2a8aad6036dce1041c5c90_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/3352529876\/8cd9c8492c2a8aad6036dce1041c5c90_normal.jpeg",
       "id" : 18713,
       "verified" : false
     }
@@ -4027,12 +4027,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4041,7 +4041,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "15670332561",
-  "text" : "\"This Can Only Mean Good Things\" [flickr] http://bit.ly/ajSF0b",
+  "text" : "\"This Can Only Mean Good Things\" [flickr] http:\/\/bit.ly\/ajSF0b",
   "id" : 15670332561,
   "created_at" : "2010-06-08 00:00:00 +0000",
   "user" : {
@@ -4049,12 +4049,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Craig Mod",
@@ -4069,9 +4069,9 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "15677741808",
-  "text" : "RT @craigmod: Sexy. A relief map of crime in San Francisco: http://bit.ly/bJEkTD",
+  "text" : "RT @craigmod: Sexy. A relief map of crime in San Francisco: http:\/\/bit.ly\/bJEkTD",
   "retweeted_status" : {
-    "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4080,7 +4080,7 @@ Grailbird.data.tweets_2010_06 =
     },
     "geo" : { },
     "id_str" : "15676574260",
-    "text" : "Sexy. A relief map of crime in San Francisco: http://bit.ly/bJEkTD",
+    "text" : "Sexy. A relief map of crime in San Francisco: http:\/\/bit.ly\/bJEkTD",
     "id" : 15676574260,
     "created_at" : "2010-06-08 02:48:50 +0000",
     "user" : {
@@ -4088,7 +4088,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "craigmod",
       "protected" : false,
       "id_str" : "1835951",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2644801549/787bf94df02d213d1359133d48d673b6_normal.png",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2644801549\/787bf94df02d213d1359133d48d673b6_normal.png",
       "id" : 1835951,
       "verified" : false
     }
@@ -4100,12 +4100,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4122,12 +4122,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4144,12 +4144,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4166,12 +4166,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4180,7 +4180,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "15680403626",
-  "text" : "Ahh, so Safari 5 *is* out. Will have to depart from Chrome for a bit and do some due diligence. http://bit.ly/dqjx9A",
+  "text" : "Ahh, so Safari 5 *is* out. Will have to depart from Chrome for a bit and do some due diligence. http:\/\/bit.ly\/dqjx9A",
   "id" : 15680403626,
   "created_at" : "2010-06-08 00:00:00 +0000",
   "user" : {
@@ -4188,12 +4188,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4210,12 +4210,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4232,12 +4232,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.brizzly.com\" rel=\"nofollow\">Brizzly</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4246,7 +4246,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "15682712479",
-  "text" : "Ugh. Safari deal breaker. Address bar does not act like a search bar when an obvious non-URL is entered. http://brizzly.com/pic/2P3X",
+  "text" : "Ugh. Safari deal breaker. Address bar does not act like a search bar when an obvious non-URL is entered. http:\/\/brizzly.com\/pic\/2P3X",
   "id" : 15682712479,
   "created_at" : "2010-06-08 00:00:00 +0000",
   "user" : {
@@ -4254,12 +4254,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4276,7 +4276,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -4298,7 +4298,7 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "15683178979",
   "text" : "RT @cubanalaf: Cool. If you search \"World Cup\" on Google, it changes the Gooooooggglllee to Goooooooaaaal. (at the bottom when jumping pgs)",
   "retweeted_status" : {
-    "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4315,7 +4315,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "cubanalaf",
       "protected" : false,
       "id_str" : "15377897",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000442822280/449d04ece50a0c5c9d4a56b4f5cfa3a8_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/378800000442822280\/449d04ece50a0c5c9d4a56b4f5cfa3a8_normal.jpeg",
       "id" : 15377897,
       "verified" : false
     }
@@ -4327,12 +4327,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4349,12 +4349,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter API",
@@ -4367,14 +4367,14 @@ Grailbird.data.tweets_2010_06 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 101, 120 ],
-      "url" : "http://t.co/VbmGKY9",
-      "expanded_url" : "http://groups.google.com/group/twitter-development-talk/browse_thread/thread/14d5474c13ed84aa",
-      "display_url" : "groups.google.com/group/twitter-\u2026"
+      "url" : "http:\/\/t.co\/VbmGKY9",
+      "expanded_url" : "http:\/\/groups.google.com\/group\/twitter-development-talk\/browse_thread\/thread\/14d5474c13ed84aa",
+      "display_url" : "groups.google.com\/group\/twitter-\u2026"
     } ]
   },
   "geo" : { },
   "id_str" : "15740770085",
-  "text" : "Conceptually, the new @twitterapi announcement makes sense. But, a TOS requirement to use the links? http://t.co/VbmGKY9",
+  "text" : "Conceptually, the new @twitterapi announcement makes sense. But, a TOS requirement to use the links? http:\/\/t.co\/VbmGKY9",
   "id" : 15740770085,
   "created_at" : "2010-06-08 00:00:00 +0000",
   "user" : {
@@ -4382,12 +4382,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4404,12 +4404,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4426,12 +4426,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4451,12 +4451,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -4490,7 +4490,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000014227412/0552a90ad246aabd7007631fecbc378a_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000550212297\/0552a90ad246aabd7007631fecbc378a_normal.png",
       "id" : 3839,
       "verified" : true
     }
@@ -4502,15 +4502,15 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://dev.twitter.com/\" rel=\"nofollow\">API</a>",
+  "source" : "\u003Ca href=\"http:\/\/dev.twitter.com\/\" rel=\"nofollow\"\u003EAPI\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Suntimes",
+      "name" : "Chicago Sun-Times",
       "screen_name" : "Suntimes",
       "indices" : [ 3, 12 ],
       "id_str" : "12811952",
@@ -4530,7 +4530,7 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "15595604324",
   "text" : "RT @Suntimes: Great Dustin Byfuglien sinus-cleaning hit on Chris Pronger. #abouttime #Blackhawks",
   "retweeted_status" : {
-    "source" : "<a href=\"http://stone.com/Twittelator\" rel=\"nofollow\">Twittelator</a>",
+    "source" : "\u003Ca href=\"http:\/\/stone.com\/Twittelator\" rel=\"nofollow\"\u003ETwittelator\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4549,11 +4549,11 @@ Grailbird.data.tweets_2010_06 =
     "id" : 15595119527,
     "created_at" : "2010-06-07 01:33:32 +0000",
     "user" : {
-      "name" : "Suntimes",
+      "name" : "Chicago Sun-Times",
       "screen_name" : "Suntimes",
       "protected" : false,
       "id_str" : "12811952",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000017045313/4c086389309e56de6fefcf8a0a0e8d43_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/378800000017045313\/4c086389309e56de6fefcf8a0a0e8d43_normal.jpeg",
       "id" : 12811952,
       "verified" : true
     }
@@ -4565,15 +4565,15 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://dev.twitter.com/\" rel=\"nofollow\">API</a>",
+  "source" : "\u003Ca href=\"http:\/\/dev.twitter.com\/\" rel=\"nofollow\"\u003EAPI\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Suntimes",
+      "name" : "Chicago Sun-Times",
       "screen_name" : "Suntimes",
       "indices" : [ 3, 12 ],
       "id_str" : "12811952",
@@ -4590,7 +4590,7 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "15600856918",
   "text" : "RT @Suntimes: #Blackhawks win, 7-4!!! Take 3-2 series lead in Stanley Cup Finals back to Philadelphia.",
   "retweeted_status" : {
-    "source" : "<a href=\"http://stone.com/Twittelator\" rel=\"nofollow\">Twittelator</a>",
+    "source" : "\u003Ca href=\"http:\/\/stone.com\/Twittelator\" rel=\"nofollow\"\u003ETwittelator\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4606,11 +4606,11 @@ Grailbird.data.tweets_2010_06 =
     "id" : 15600472892,
     "created_at" : "2010-06-07 02:52:58 +0000",
     "user" : {
-      "name" : "Suntimes",
+      "name" : "Chicago Sun-Times",
       "screen_name" : "Suntimes",
       "protected" : false,
       "id_str" : "12811952",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000017045313/4c086389309e56de6fefcf8a0a0e8d43_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/378800000017045313\/4c086389309e56de6fefcf8a0a0e8d43_normal.jpeg",
       "id" : 12811952,
       "verified" : true
     }
@@ -4622,12 +4622,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4644,12 +4644,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4658,7 +4658,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "15637606067",
-  "text" : "UKI - Simple UI Kit for complex web apps http://ukijs.org/ - pretty impressive.",
+  "text" : "UKI - Simple UI Kit for complex web apps http:\/\/ukijs.org\/ - pretty impressive.",
   "id" : 15637606067,
   "created_at" : "2010-06-07 00:00:00 +0000",
   "user" : {
@@ -4666,12 +4666,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Brian Stelter",
@@ -4692,7 +4692,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "15642085464",
-  "text" : "RT @brianstelter: In case you haven't seen: Helen Thomas retires. @thecaucus: http://nyti.ms/ckUYLV",
+  "text" : "RT @brianstelter: In case you haven't seen: Helen Thomas retires. @thecaucus: http:\/\/nyti.ms\/ckUYLV",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -4709,7 +4709,7 @@ Grailbird.data.tweets_2010_06 =
     },
     "geo" : { },
     "id_str" : "15641569483",
-    "text" : "In case you haven't seen: Helen Thomas retires. @thecaucus: http://nyti.ms/ckUYLV",
+    "text" : "In case you haven't seen: Helen Thomas retires. @thecaucus: http:\/\/nyti.ms\/ckUYLV",
     "id" : 15641569483,
     "created_at" : "2010-06-07 16:45:26 +0000",
     "user" : {
@@ -4717,7 +4717,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "brianstelter",
       "protected" : false,
       "id_str" : "14515799",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000011961281/f053ce187d9fe1393f4684ca92c89d74_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/378800000011961281\/f053ce187d9fe1393f4684ca92c89d74_normal.jpeg",
       "id" : 14515799,
       "verified" : true
     }
@@ -4729,12 +4729,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marshall Kirkpatrick",
@@ -4751,7 +4751,7 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "15644904883",
   "text" : "RT @marshallk: I aim to maintain a journalist's objectivity about the fact that iphone 4 looks crazy f'ing super awesome",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4768,7 +4768,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "marshallk",
       "protected" : false,
       "id_str" : "818340",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2203082976/marshallsxsw2012_normal.jpg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2203082976\/marshallsxsw2012_normal.jpg",
       "id" : 818340,
       "verified" : true
     }
@@ -4780,12 +4780,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jason Shellen",
@@ -4805,7 +4805,7 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "15645635784",
   "text" : "RT @shellen: I'm buying whatever new phone converts oil in seawater back into seawater minus oil. #iphone4",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.brizzly.com\" rel=\"nofollow\">Brizzly</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4825,7 +4825,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "shellen",
       "protected" : false,
       "id_str" : "422",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3735154582/dce96c5e8e3b73b69bd6b61e8111108c_normal.png",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/378800000577599412\/ed48d10f6886181875234756a7ab0298_normal.png",
       "id" : 422,
       "verified" : false
     }
@@ -4837,12 +4837,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Howard Weaver",
@@ -4868,12 +4868,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4890,12 +4890,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4912,12 +4912,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://dev.twitter.com/\" rel=\"nofollow\">API</a>",
+  "source" : "\u003Ca href=\"http:\/\/dev.twitter.com\/\" rel=\"nofollow\"\u003EAPI\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Nieman Lab",
@@ -4932,9 +4932,9 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "15558470348",
-  "text" : "RT @NiemanLab: How to apply for a job in a comment thread http://j.mp/av64KX",
+  "text" : "RT @NiemanLab: How to apply for a job in a comment thread http:\/\/j.mp\/av64KX",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4943,7 +4943,7 @@ Grailbird.data.tweets_2010_06 =
     },
     "geo" : { },
     "id_str" : "15557204045",
-    "text" : "How to apply for a job in a comment thread http://j.mp/av64KX",
+    "text" : "How to apply for a job in a comment thread http:\/\/j.mp\/av64KX",
     "id" : 15557204045,
     "created_at" : "2010-06-06 14:00:12 +0000",
     "user" : {
@@ -4951,7 +4951,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "NiemanLab",
       "protected" : false,
       "id_str" : "15865878",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/208769717/TwitterNgood_normal.png",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/208769717\/TwitterNgood_normal.png",
       "id" : 15865878,
       "verified" : true
     }
@@ -4963,12 +4963,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4985,12 +4985,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -5005,9 +5005,9 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "15584331225",
-  "text" : "RT @davewiner: Jobs, Ballmer, and Zuckerberg: Three Fixated Leaders at D8. As usual JLG gives good read. http://r2.ly/zemk",
+  "text" : "RT @davewiner: Jobs, Ballmer, and Zuckerberg: Three Fixated Leaders at D8. As usual JLG gives good read. http:\/\/r2.ly\/zemk",
   "retweeted_status" : {
-    "source" : "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">mobile web</a>",
+    "source" : "\u003Ca href=\"http:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003Emobile web\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -5016,7 +5016,7 @@ Grailbird.data.tweets_2010_06 =
     },
     "geo" : { },
     "id_str" : "15583769419",
-    "text" : "Jobs, Ballmer, and Zuckerberg: Three Fixated Leaders at D8. As usual JLG gives good read. http://r2.ly/zemk",
+    "text" : "Jobs, Ballmer, and Zuckerberg: Three Fixated Leaders at D8. As usual JLG gives good read. http:\/\/r2.ly\/zemk",
     "id" : 15583769419,
     "created_at" : "2010-06-06 22:15:53 +0000",
     "user" : {
@@ -5024,7 +5024,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000014227412/0552a90ad246aabd7007631fecbc378a_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000550212297\/0552a90ad246aabd7007631fecbc378a_normal.png",
       "id" : 3839,
       "verified" : true
     }
@@ -5036,12 +5036,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5058,12 +5058,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5072,7 +5072,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "15465038094",
-  "text" : "I'm missing something. Save paper, let's use email - subscribe to print mag. Huh? http://post.ly/iVF4",
+  "text" : "I'm missing something. Save paper, let's use email - subscribe to print mag. Huh? http:\/\/post.ly\/iVF4",
   "id" : 15465038094,
   "created_at" : "2010-06-05 00:00:00 +0000",
   "user" : {
@@ -5080,12 +5080,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://dev.twitter.com/\" rel=\"nofollow\">API</a>",
+  "source" : "\u003Ca href=\"http:\/\/dev.twitter.com\/\" rel=\"nofollow\"\u003EAPI\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "BP Public Relations",
@@ -5125,7 +5125,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "BPGlobalPR",
       "protected" : false,
       "id_str" : "145753059",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/927416334/bptwitterlogo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/927416334\/bptwitterlogo_normal.jpg",
       "id" : 145753059,
       "verified" : false
     }
@@ -5137,12 +5137,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://posterous.com\" rel=\"nofollow\">Posterous</a>",
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5151,7 +5151,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "15465288952",
-  "text" : "Or is it \"save paper\" by only having 4 subscription cards instead of 5? http://post.ly/iVFr",
+  "text" : "Or is it \"save paper\" by only having 4 subscription cards instead of 5? http:\/\/post.ly\/iVFr",
   "id" : 15465288952,
   "created_at" : "2010-06-05 00:00:00 +0000",
   "user" : {
@@ -5159,12 +5159,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://dev.twitter.com/\" rel=\"nofollow\">API</a>",
+  "source" : "\u003Ca href=\"http:\/\/dev.twitter.com\/\" rel=\"nofollow\"\u003EAPI\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "kelly oxford",
@@ -5198,7 +5198,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000373250347/89b405ba14fd70fbf0bb3fc4cd54fb41_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/378800000559856703\/9ea9513d577d5795736abcf1ff8387a8_normal.jpeg",
       "id" : 22872643,
       "verified" : true
     }
@@ -5210,12 +5210,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5224,7 +5224,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "15503262479",
-  "text" : "Really digging this lecture by Al Bartlett - \"Arithmetic, Population and Energy: Sustainability 101\" - http://bit.ly/bfn0OP",
+  "text" : "Really digging this lecture by Al Bartlett - \"Arithmetic, Population and Energy: Sustainability 101\" - http:\/\/bit.ly\/bfn0OP",
   "id" : 15503262479,
   "created_at" : "2010-06-05 00:00:00 +0000",
   "user" : {
@@ -5232,12 +5232,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5254,12 +5254,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "BP Public Relations",
@@ -5276,7 +5276,7 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "15504177154",
   "text" : "RT @BPGlobalPR: Safety is our primary concern. Well, profits, then safety. Oh, no- profits, image, then safety, but still- it's right up ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.tweetdeck.com/\" rel=\"nofollow\">TweetDeck</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\/\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -5293,7 +5293,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "BPGlobalPR",
       "protected" : false,
       "id_str" : "145753059",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/927416334/bptwitterlogo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/927416334\/bptwitterlogo_normal.jpg",
       "id" : 145753059,
       "verified" : false
     }
@@ -5305,12 +5305,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "BP Public Relations",
@@ -5325,7 +5325,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "15330488528",
-  "text" : "\"You know the best way to get the public to respect your brand?  Have a respectable brand.\" - from @bpglobalpr http://bit.ly/cF5p2T",
+  "text" : "\"You know the best way to get the public to respect your brand?  Have a respectable brand.\" - from @bpglobalpr http:\/\/bit.ly\/cF5p2T",
   "id" : 15330488528,
   "created_at" : "2010-06-03 00:00:00 +0000",
   "user" : {
@@ -5333,12 +5333,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5355,12 +5355,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Brian Boyer",
@@ -5376,7 +5376,7 @@ Grailbird.data.tweets_2010_06 =
   "geo" : { },
   "id_str" : "15251929892",
   "in_reply_to_user_id" : 14570738,
-  "text" : "@brianboyer If you hadn't seen yet - Google just published their version of hospital data. http://bit.ly/bZXaPO",
+  "text" : "@brianboyer If you hadn't seen yet - Google just published their version of hospital data. http:\/\/bit.ly\/bZXaPO",
   "id" : 15251929892,
   "created_at" : "2010-06-02 00:00:00 +0000",
   "in_reply_to_screen_name" : "brianboyer",
@@ -5386,7 +5386,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
@@ -5400,7 +5400,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "15219010250",
-  "text" : "Rockin good stuff - funk, klezmer, hip hop, and all - Abraham Inc's \"Tweet Tweet\" http://amzn.to/dbJXDE",
+  "text" : "Rockin good stuff - funk, klezmer, hip hop, and all - Abraham Inc's \"Tweet Tweet\" http:\/\/amzn.to\/dbJXDE",
   "id" : 15219010250,
   "created_at" : "2010-06-02 00:00:00 +0000",
   "user" : {
@@ -5408,12 +5408,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Loic Le Meur",
@@ -5430,7 +5430,7 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "15219636619",
   "text" : "RT @loic: \"people seem to be liking ipads, we sold one every 3 seconds since we launched. If we make good products people buy them\" Stev ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://ping.fm/\" rel=\"nofollow\">Ping.fm</a>",
+    "source" : "\u003Ca href=\"http:\/\/ping.fm\/\" rel=\"nofollow\"\u003EPing.fm\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -5450,7 +5450,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "loic",
       "protected" : false,
       "id_str" : "740983",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3161050997/073752621f8ca36a794ca7afb545ee2c_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/3161050997\/073752621f8ca36a794ca7afb545ee2c_normal.jpeg",
       "id" : 740983,
       "verified" : true
     }
@@ -5462,12 +5462,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5476,7 +5476,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "15226708196",
-  "text" : "Aeroplane http://bit.ly/dbyrqe",
+  "text" : "Aeroplane http:\/\/bit.ly\/dbyrqe",
   "id" : 15226708196,
   "created_at" : "2010-06-02 00:00:00 +0000",
   "user" : {
@@ -5484,12 +5484,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.statusii.com\" rel=\"nofollow\">Statusii</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -5498,7 +5498,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "15226755110",
-  "text" : "Raw Carrot Cake - Yum! http://bit.ly/cYVmzs",
+  "text" : "Raw Carrot Cake - Yum! http:\/\/bit.ly\/cYVmzs",
   "id" : 15226755110,
   "created_at" : "2010-06-02 00:00:00 +0000",
   "user" : {
@@ -5506,12 +5506,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://dev.twitter.com/\" rel=\"nofollow\">API</a>",
+  "source" : "\u003Ca href=\"http:\/\/dev.twitter.com\/\" rel=\"nofollow\"\u003EAPI\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Justin Miller",
@@ -5526,7 +5526,7 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "15229441359",
-  "text" : "RT @incanus77: Sarah Palin says the Gulf spill is evidence we should be drilling in safe places like ANWR. http://tinyurl.com/38opnfm",
+  "text" : "RT @incanus77: Sarah Palin says the Gulf spill is evidence we should be drilling in safe places like ANWR. http:\/\/tinyurl.com\/38opnfm",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -5537,7 +5537,7 @@ Grailbird.data.tweets_2010_06 =
     },
     "geo" : { },
     "id_str" : "15226084750",
-    "text" : "Sarah Palin says the Gulf spill is evidence we should be drilling in safe places like ANWR. http://tinyurl.com/38opnfm",
+    "text" : "Sarah Palin says the Gulf spill is evidence we should be drilling in safe places like ANWR. http:\/\/tinyurl.com\/38opnfm",
     "id" : 15226084750,
     "created_at" : "2010-06-02 03:42:10 +0000",
     "user" : {
@@ -5545,7 +5545,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "incanus77",
       "protected" : false,
       "id_str" : "4765141",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1730880458/6611288273_3f2969e2e4_o_normal.jpg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/1730880458\/6611288273_3f2969e2e4_o_normal.jpg",
       "id" : 4765141,
       "verified" : false
     }
@@ -5557,12 +5557,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://dev.twitter.com/\" rel=\"nofollow\">API</a>",
+  "source" : "\u003Ca href=\"http:\/\/dev.twitter.com\/\" rel=\"nofollow\"\u003EAPI\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Norbert Doetsch",
@@ -5577,9 +5577,9 @@ Grailbird.data.tweets_2010_06 =
   },
   "geo" : { },
   "id_str" : "15229595817",
-  "text" : "RT @wildwasser: Unreal BP advertisement from 1999 http://bit.ly/ca354Q I don't believe it",
+  "text" : "RT @wildwasser: Unreal BP advertisement from 1999 http:\/\/bit.ly\/ca354Q I don't believe it",
   "retweeted_status" : {
-    "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -5588,7 +5588,7 @@ Grailbird.data.tweets_2010_06 =
     },
     "geo" : { },
     "id_str" : "15216363321",
-    "text" : "Unreal BP advertisement from 1999 http://bit.ly/ca354Q I don't believe it",
+    "text" : "Unreal BP advertisement from 1999 http:\/\/bit.ly\/ca354Q I don't believe it",
     "id" : 15216363321,
     "created_at" : "2010-06-02 01:02:22 +0000",
     "user" : {
@@ -5596,7 +5596,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "wildwasser",
       "protected" : false,
       "id_str" : "13253992",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/329217727/twitterProfilePhoto_normal.jpg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/329217727\/twitterProfilePhoto_normal.jpg",
       "id" : 13253992,
       "verified" : false
     }
@@ -5608,12 +5608,12 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://dev.twitter.com/\" rel=\"nofollow\">API</a>",
+  "source" : "\u003Ca href=\"http:\/\/dev.twitter.com\/\" rel=\"nofollow\"\u003EAPI\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "BP Public Relations",
@@ -5674,7 +5674,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "BPGlobalPR",
       "protected" : false,
       "id_str" : "145753059",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/927416334/bptwitterlogo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/927416334\/bptwitterlogo_normal.jpg",
       "id" : 145753059,
       "verified" : false
     }
@@ -5686,7 +5686,7 @@ Grailbird.data.tweets_2010_06 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2263955063/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
     "id" : 1741681,
     "verified" : false
   }
