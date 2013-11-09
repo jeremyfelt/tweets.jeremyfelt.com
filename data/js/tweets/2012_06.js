@@ -154,7 +154,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "thejefflarson",
       "protected" : false,
       "id_str" : "15081317",
-      "profile_image_url_https" : "https:\/\/si0.twimg.com\/profile_images\/3340197345\/76502a9f137d0647b7bf24c236f6f3c1_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3340197345\/76502a9f137d0647b7bf24c236f6f3c1_normal.jpeg",
       "id" : 15081317,
       "verified" : false
     }
@@ -1512,12 +1512,6 @@ Grailbird.data.tweets_2012_06 =
       "indices" : [ 31, 39 ],
       "id_str" : "795649",
       "id" : 795649
-    }, {
-      "name" : "iliketoreply",
-      "screen_name" : "replies",
-      "indices" : [ 90, 98 ],
-      "id_str" : "16491242",
-      "id" : 16491242
     }, {
       "name" : "Twitter",
       "screen_name" : "twitter",

@@ -646,7 +646,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jacob Scare-Us",
+      "name" : "Jacob Harris",
       "screen_name" : "harrisj",
       "indices" : [ 0, 8 ],
       "id_str" : "681473",
@@ -2046,7 +2046,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brian Boyer",
+      "name" : "Kill all humans.",
       "screen_name" : "brianboyer",
       "indices" : [ 0, 11 ],
       "id_str" : "14570738",
