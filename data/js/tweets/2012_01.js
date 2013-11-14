@@ -1486,7 +1486,7 @@ Grailbird.data.tweets_2012_01 =
       "id_str" : "32633517",
       "id" : 32633517
     }, {
-      "name" : "Kill all humans.",
+      "name" : "Brian Boyer",
       "screen_name" : "brianboyer",
       "indices" : [ 10, 21 ],
       "id_str" : "14570738",

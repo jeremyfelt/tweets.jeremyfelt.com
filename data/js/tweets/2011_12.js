@@ -2046,7 +2046,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kill all humans.",
+      "name" : "Brian Boyer",
       "screen_name" : "brianboyer",
       "indices" : [ 0, 11 ],
       "id_str" : "14570738",
@@ -2562,7 +2562,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "nationalrailenq",
       "protected" : false,
       "id_str" : "33546465",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1307867695\/nre-blob_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000729722001\/dceb962a3df5f5179ce52b124a6aad1e_normal.png",
       "id" : 33546465,
       "verified" : true
     }

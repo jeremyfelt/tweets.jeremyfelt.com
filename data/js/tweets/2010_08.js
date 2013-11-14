@@ -2860,7 +2860,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000674222285\/798b66aa97060b8c728771d5b0399aa1_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000705453175\/798b66aa97060b8c728771d5b0399aa1_normal.jpeg",
       "id" : 3839,
       "verified" : true
     }
@@ -3558,6 +3558,12 @@ Grailbird.data.tweets_2010_08 =
       "indices" : [ 83, 94 ],
       "id_str" : "15027070",
       "id" : 15027070
+    }, {
+      "name" : "Blog Tecnologia",
+      "screen_name" : "GmailBlog",
+      "indices" : [ 95, 105 ],
+      "id_str" : "2177018479",
+      "id" : 2177018479
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -3578,6 +3584,12 @@ Grailbird.data.tweets_2010_08 =
         "indices" : [ 73, 84 ],
         "id_str" : "15027070",
         "id" : 15027070
+      }, {
+        "name" : "Blog Tecnologia",
+        "screen_name" : "GmailBlog",
+        "indices" : [ 85, 95 ],
+        "id_str" : "2177018479",
+        "id" : 2177018479
       } ],
       "media" : [ ],
       "hashtags" : [ {
@@ -4056,7 +4068,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000678469534\/ed5fc927a125b20311da574697f45916_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000726381549\/226f9b009702825f381e59e12261d9c4_normal.png",
       "id" : 819797,
       "verified" : false
     }
@@ -4142,7 +4154,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kill all humans.",
+      "name" : "Brian Boyer",
       "screen_name" : "brianboyer",
       "indices" : [ 9, 20 ],
       "id_str" : "14570738",
@@ -4252,7 +4264,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000678469534\/ed5fc927a125b20311da574697f45916_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000726381549\/226f9b009702825f381e59e12261d9c4_normal.png",
       "id" : 819797,
       "verified" : false
     }

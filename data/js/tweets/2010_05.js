@@ -347,7 +347,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000674222285\/798b66aa97060b8c728771d5b0399aa1_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000705453175\/798b66aa97060b8c728771d5b0399aa1_normal.jpeg",
       "id" : 3839,
       "verified" : true
     }
@@ -645,12 +645,6 @@ Grailbird.data.tweets_2010_05 =
       "indices" : [ 3, 14 ],
       "id_str" : "14529929",
       "id" : 14529929
-    }, {
-      "name" : "Damon Lindelof",
-      "screen_name" : "DamonLindelof",
-      "indices" : [ 19, 33 ],
-      "id_str" : "32498545",
-      "id" : 32498545
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -934,7 +928,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "palafo",
       "protected" : false,
       "id_str" : "2020351",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000464145613\/d3512ff769d1e526f9e19ca879fbafa2_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000735594920\/f1724ecfaf8bcb4a4ec4fcaeb7929f10_normal.jpeg",
       "id" : 2020351,
       "verified" : true
     }
@@ -1346,7 +1340,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kill all humans.",
+      "name" : "Brian Boyer",
       "screen_name" : "brianboyer",
       "indices" : [ 3, 14 ],
       "id_str" : "14570738",
@@ -1391,7 +1385,7 @@ Grailbird.data.tweets_2010_05 =
     "id" : 14428756869,
     "created_at" : "2010-05-21 13:46:32 +0000",
     "user" : {
-      "name" : "Kill all humans.",
+      "name" : "Brian Boyer",
       "screen_name" : "brianboyer",
       "protected" : false,
       "id_str" : "14570738",
@@ -3266,7 +3260,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kill all humans.",
+      "name" : "Brian Boyer",
       "screen_name" : "brianboyer",
       "indices" : [ 0, 11 ],
       "id_str" : "14570738",
@@ -3803,7 +3797,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kill all humans.",
+      "name" : "Brian Boyer",
       "screen_name" : "brianboyer",
       "indices" : [ 9, 20 ],
       "id_str" : "14570738",

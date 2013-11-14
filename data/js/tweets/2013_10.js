@@ -2554,7 +2554,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Blackbourn",
+      "name" : "John Blackbourn \u2603",
       "screen_name" : "johnbillion",
       "indices" : [ 3, 15 ],
       "id_str" : "79053835",
@@ -2587,7 +2587,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 393471020956282880,
     "created_at" : "2013-10-24 20:16:16 +0000",
     "user" : {
-      "name" : "John Blackbourn",
+      "name" : "John Blackbourn \u2603",
       "screen_name" : "johnbillion",
       "protected" : false,
       "id_str" : "79053835",
@@ -3949,7 +3949,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Angelina Meat-bro",
+      "name" : "Angelina Fabbro",
       "screen_name" : "angelinamagnum",
       "indices" : [ 3, 18 ],
       "id_str" : "58708498",
@@ -3986,7 +3986,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 392160483995709440,
     "created_at" : "2013-10-21 05:28:40 +0000",
     "user" : {
-      "name" : "Angelina Meat-bro",
+      "name" : "Angelina Fabbro",
       "screen_name" : "angelinamagnum",
       "protected" : false,
       "id_str" : "58708498",
@@ -4543,7 +4543,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000674222285\/798b66aa97060b8c728771d5b0399aa1_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000705453175\/798b66aa97060b8c728771d5b0399aa1_normal.jpeg",
       "id" : 3839,
       "verified" : true
     }
@@ -7061,12 +7061,6 @@ Grailbird.data.tweets_2013_10 =
       "indices" : [ 0, 8 ],
       "id_str" : "11146602",
       "id" : 11146602
-    }, {
-      "name" : "Daniel Immke",
-      "screen_name" : "daniel_immke",
-      "indices" : [ 9, 22 ],
-      "id_str" : "229286623",
-      "id" : 229286623
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -13533,12 +13527,6 @@ Grailbird.data.tweets_2013_10 =
       "indices" : [ 0, 14 ],
       "id_str" : "15436236",
       "id" : 15436236
-    }, {
-      "name" : "Daniel Immke",
-      "screen_name" : "daniel_immke",
-      "indices" : [ 15, 28 ],
-      "id_str" : "229286623",
-      "id" : 229286623
     }, {
       "name" : "CNN",
       "screen_name" : "CNN",

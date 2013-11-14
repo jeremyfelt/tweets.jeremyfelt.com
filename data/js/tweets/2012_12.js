@@ -526,7 +526,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kill all humans.",
+      "name" : "Brian Boyer",
       "screen_name" : "brianboyer",
       "indices" : [ 0, 11 ],
       "id_str" : "14570738",
@@ -1443,7 +1443,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "26957009",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000000041160\/49e4630e2f5ded0035205230ef480a31_normal.jpeg",
       "id" : 26957009,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 281410475453972481,
@@ -3377,7 +3377,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kill all humans.",
+      "name" : "Brian Boyer",
       "screen_name" : "brianboyer",
       "indices" : [ 0, 11 ],
       "id_str" : "14570738",
@@ -4084,7 +4084,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "MikeTyson",
       "protected" : false,
       "id_str" : "156132825",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000581179084\/90e77c6bf02b5f6de427ffd7faf9f65c_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000733815108\/c24e3d8b779625f92f8192246677717f_normal.jpeg",
       "id" : 156132825,
       "verified" : true
     }
@@ -5264,7 +5264,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "_mfields",
       "protected" : false,
       "id_str" : "17112549",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000674411667\/848f9bc69e4cc6a7ab3a598bdf5dfbb9_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000717163238\/2dadd10b61d30690eed1f1fcfa4a528d_normal.jpeg",
       "id" : 17112549,
       "verified" : false
     }
@@ -5729,7 +5729,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kill all humans.",
+      "name" : "Brian Boyer",
       "screen_name" : "brianboyer",
       "indices" : [ 3, 14 ],
       "id_str" : "14570738",
@@ -5795,7 +5795,7 @@ Grailbird.data.tweets_2012_12 =
     "in_reply_to_screen_name" : "planetmoney",
     "in_reply_to_user_id_str" : "15905103",
     "user" : {
-      "name" : "Kill all humans.",
+      "name" : "Brian Boyer",
       "screen_name" : "brianboyer",
       "protected" : false,
       "id_str" : "14570738",

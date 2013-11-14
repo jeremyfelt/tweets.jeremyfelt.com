@@ -77,7 +77,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "tadakozo",
       "protected" : false,
       "id_str" : "115636807",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2322019262\/jzfxdg94fva2rqlvmww7_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000697796820\/42f1b6d3bce14a60ab5bd6aa4a990131_normal.png",
       "id" : 115636807,
       "verified" : false
     }
@@ -7163,13 +7163,7 @@ Grailbird.data.tweets_2013_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Daniel Immke",
-      "screen_name" : "daniel_immke",
-      "indices" : [ 0, 13 ],
-      "id_str" : "229286623",
-      "id" : 229286623
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -7182,7 +7176,7 @@ Grailbird.data.tweets_2013_08 =
   "id" : 368249970081533952,
   "in_reply_to_status_id" : 368232303195324417,
   "created_at" : "2013-08-16 05:56:49 +0000",
-  "in_reply_to_screen_name" : "daniel_immke",
+  "in_reply_to_screen_name" : "danielimmke",
   "in_reply_to_user_id_str" : "229286623",
   "user" : {
     "name" : "Jeremy Felt",
@@ -8842,12 +8836,6 @@ Grailbird.data.tweets_2013_08 =
       "indices" : [ 13, 27 ],
       "id_str" : "411977369",
       "id" : 411977369
-    }, {
-      "name" : "Daniel Immke",
-      "screen_name" : "daniel_immke",
-      "indices" : [ 28, 41 ],
-      "id_str" : "229286623",
-      "id" : 229286623
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -9099,12 +9087,6 @@ Grailbird.data.tweets_2013_08 =
       "indices" : [ 0, 14 ],
       "id_str" : "411977369",
       "id" : 411977369
-    }, {
-      "name" : "Daniel Immke",
-      "screen_name" : "daniel_immke",
-      "indices" : [ 15, 28 ],
-      "id_str" : "229286623",
-      "id" : 229286623
     } ],
     "media" : [ ],
     "hashtags" : [ ],

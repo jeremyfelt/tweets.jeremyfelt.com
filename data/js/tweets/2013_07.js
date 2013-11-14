@@ -884,7 +884,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "HrvojeKC",
       "protected" : false,
       "id_str" : "272283",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1400443204\/hrvojekc-2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000698232106\/7594ab98fbc9b994405504a34ad63bd9_normal.png",
       "id" : 272283,
       "verified" : false
     }
@@ -4245,7 +4245,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000674222285\/798b66aa97060b8c728771d5b0399aa1_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000705453175\/798b66aa97060b8c728771d5b0399aa1_normal.jpeg",
       "id" : 3839,
       "verified" : true
     }
@@ -6956,12 +6956,6 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "10672622",
       "id" : 10672622
     }, {
-      "name" : "Daniel Immke",
-      "screen_name" : "daniel_immke",
-      "indices" : [ 54, 67 ],
-      "id_str" : "229286623",
-      "id" : 229286623
-    }, {
       "name" : "Zach Brown",
       "screen_name" : "TheLastCicada",
       "indices" : [ 68, 82 ],
@@ -7036,12 +7030,6 @@ Grailbird.data.tweets_2013_07 =
       "indices" : [ 34, 44 ],
       "id_str" : "10672622",
       "id" : 10672622
-    }, {
-      "name" : "Daniel Immke",
-      "screen_name" : "daniel_immke",
-      "indices" : [ 45, 58 ],
-      "id_str" : "229286623",
-      "id" : 229286623
     }, {
       "name" : "Zach Brown",
       "screen_name" : "TheLastCicada",
@@ -7544,12 +7532,6 @@ Grailbird.data.tweets_2013_07 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Daniel Immke",
-      "screen_name" : "daniel_immke",
-      "indices" : [ 3, 16 ],
-      "id_str" : "229286623",
-      "id" : 229286623
-    }, {
       "name" : "Jeremy Felt",
       "screen_name" : "jeremyfelt",
       "indices" : [ 84, 95 ],
@@ -7584,7 +7566,7 @@ Grailbird.data.tweets_2013_07 =
     "created_at" : "2013-07-12 18:42:17 +0000",
     "user" : {
       "name" : "Daniel Immke",
-      "screen_name" : "daniel_immke",
+      "screen_name" : "danielimmke",
       "protected" : false,
       "id_str" : "229286623",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000300740855\/9aacd9d14ea344dc7dec714709a1eac2_normal.jpeg",
@@ -7901,12 +7883,6 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "10672622",
       "id" : 10672622
     }, {
-      "name" : "Daniel Immke",
-      "screen_name" : "daniel_immke",
-      "indices" : [ 11, 24 ],
-      "id_str" : "229286623",
-      "id" : 229286623
-    }, {
       "name" : "Zach Brown",
       "screen_name" : "TheLastCicada",
       "indices" : [ 25, 39 ],
@@ -7993,12 +7969,6 @@ Grailbird.data.tweets_2013_07 =
       "indices" : [ 28, 38 ],
       "id_str" : "10672622",
       "id" : 10672622
-    }, {
-      "name" : "Daniel Immke",
-      "screen_name" : "daniel_immke",
-      "indices" : [ 39, 52 ],
-      "id_str" : "229286623",
-      "id" : 229286623
     }, {
       "name" : "Jessica Jurick",
       "screen_name" : "jessjurick",
@@ -8735,7 +8705,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "25101704",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/201964565\/SPD_Logo_for_Twitter_normal.jpg",
       "id" : 25101704,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 355212563614670848,
@@ -9951,7 +9921,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "MikeTyson",
       "protected" : false,
       "id_str" : "156132825",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000581179084\/90e77c6bf02b5f6de427ffd7faf9f65c_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000733815108\/c24e3d8b779625f92f8192246677717f_normal.jpeg",
       "id" : 156132825,
       "verified" : true
     }

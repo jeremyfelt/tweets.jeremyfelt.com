@@ -2440,7 +2440,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "iammattthomas",
       "protected" : false,
       "id_str" : "7562432",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3477502875\/a6a2dfd3c3b1a766ed0513d59b19cdb7_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000705809687\/1d3272fde47b04ba27b1e2ca2144ca5e_normal.jpeg",
       "id" : 7562432,
       "verified" : false
     }
@@ -3585,7 +3585,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "MikeTyson",
       "protected" : false,
       "id_str" : "156132825",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000581179084\/90e77c6bf02b5f6de427ffd7faf9f65c_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000733815108\/c24e3d8b779625f92f8192246677717f_normal.jpeg",
       "id" : 156132825,
       "verified" : true
     }
@@ -3997,7 +3997,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kill all humans.",
+      "name" : "Brian Boyer",
       "screen_name" : "brianboyer",
       "indices" : [ 3, 14 ],
       "id_str" : "14570738",
@@ -4036,7 +4036,7 @@ Grailbird.data.tweets_2010_07 =
     "id" : 17950805689,
     "created_at" : "2010-07-07 14:01:59 +0000",
     "user" : {
-      "name" : "Kill all humans.",
+      "name" : "Brian Boyer",
       "screen_name" : "brianboyer",
       "protected" : false,
       "id_str" : "14570738",

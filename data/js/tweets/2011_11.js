@@ -708,7 +708,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "steveklabnik",
       "protected" : false,
       "id_str" : "22386062",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3618534654\/13a7a0ab0ac4a621b26162282cafce32_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000705978364\/2f8fed523708343c80a2ea6a569176de_normal.jpeg",
       "id" : 22386062,
       "verified" : false
     }
