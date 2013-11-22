@@ -999,7 +999,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12711559231",
   "text" : "RT @ryan: Well, I'll never be using Blippy again: full, exposed CC numbers with personal ID data. Unreal. http:\/\/bit.ly\/dAV6PW",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1751,7 +1751,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12590383940",
   "text" : "RT @marshallk: if Facebook is the Devil, the Devil is looking damn sexy today",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2210,7 +2210,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12471774186",
   "text" : "RT @mattwaite: So, I need to get my hands on two 40\" flatties and a Wiimote, like now: http:\/\/bit.ly\/bNvNAi",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2437,7 +2437,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12176501954",
   "text" : "RT @marshallk: imagine if the Library of Congress had acquired Delicious instead of Yahoo doing it. I was so sad that day, that's what I ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3406,7 +3406,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "11914782189",
   "text" : "RT @ryan: As of today, if your app depends on Twitter for anything other than identity or content syndication, you are officially on notice.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3536,7 +3536,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "11917903294",
   "text" : "RT @jesseluna: Next move, will Twitter try to buy Twitpic?  \"Twitter Acquires Tweetie\" http:\/\/bit.ly\/by8XRE h\/t @shashib",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Shashi Bellamkonda",
@@ -4004,7 +4004,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "11736281720",
   "text" : "RT @ryan: @bijan shhhhh no spoilers!",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Bijan Sabet",
@@ -4094,7 +4094,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "11786249552",
   "text" : "RT @acarvin: Reuters reports @otunbayeva is the temporary \"coordinator\" of group that overthrew Kyrgyz govt. First revolution leader on  ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Roza Otunbayeva",

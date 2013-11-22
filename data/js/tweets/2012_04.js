@@ -967,7 +967,7 @@ Grailbird.data.tweets_2012_04 =
   "id_str" : "192707351441178624",
   "text" : "RT @jaketapper: \"Jake,\" you ask, \"was Dick Clark ever on Batman?\" Why, yes, I say. http:\/\/t.co\/dpRSZEL9",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1367,7 +1367,7 @@ Grailbird.data.tweets_2012_04 =
   "id_str" : "192112062426648577",
   "text" : "RT @ginatrapani: Despite his ability to be a PITA when he wants to be, this post is just one of many reasons @anildash is my cofounder.  ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Anil Dash",
@@ -1516,7 +1516,7 @@ Grailbird.data.tweets_2012_04 =
   "id_str" : "191921399240196096",
   "text" : "RT @StanCarey: Reposting this, due to popular demand: The tension of stacked parentheses http:\/\/t.co\/Py6knYFE",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2071,7 +2071,7 @@ Grailbird.data.tweets_2012_04 =
   "id_str" : "190564415538593792",
   "text" : "RT @Krogsgard: Great bunch of plugins by the 10up folks http:\/\/t.co\/fQDBLbQv",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

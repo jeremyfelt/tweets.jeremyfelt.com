@@ -1761,7 +1761,7 @@ Grailbird.data.tweets_2010_09 =
   "id_str" : "25378599000",
   "text" : "RT @jkalucki: Internets shocked that investors are in it for the money. Quick, to the fainting couch!",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2687,7 +2687,7 @@ Grailbird.data.tweets_2010_09 =
   "id_str" : "25138517840",
   "text" : "RT @acarvin: Check out walking-papers.org: lets you print a map, annotate it and send it back for tracing into OpenStreetMap. QR code fo ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3276,7 +3276,7 @@ Grailbird.data.tweets_2010_09 =
   "id_str" : "23915694744",
   "text" : "RT @rustybrick: Wow Google Bypassing \"Search\" Button: More \"Streaming\" Search Results http:\/\/bit.ly\/d1QJSJ",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3842,7 +3842,7 @@ Grailbird.data.tweets_2010_09 =
   "id_str" : "23254074521",
   "text" : "RT @DaveGorman: Ha ha, someone is translating the, um, earthy street slang tweets of 50cent into the Queen's English: @English50Cent",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Queen's English 50c",
@@ -3911,7 +3911,7 @@ Grailbird.data.tweets_2010_09 =
   "id_str" : "23102629782",
   "text" : "RT @Glinner: Lovely idea from @zefrank  : 'Like Mom, Like Dad--Recreating Photos of Your Parents' http:\/\/bit.ly\/cmk3a1 (via @LaughingSquid)",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "zefrank",
@@ -4571,7 +4571,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "fraying",
       "protected" : false,
       "id_str" : "4999",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000643444279\/4ee2abfca77018f79130de30926f9478_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000739845057\/c3f01d59b514d45f772f479e8a9803ba_normal.jpeg",
       "id" : 4999,
       "verified" : false
     }

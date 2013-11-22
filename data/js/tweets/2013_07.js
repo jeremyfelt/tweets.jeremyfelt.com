@@ -1011,7 +1011,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "sonniesedge",
       "protected" : false,
       "id_str" : "160687830",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000357122487\/bcb794e881191ef2f86478e1cb41e840_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000771456647\/2ae7d8a23310cadc57ba757fd093b87d_normal.jpeg",
       "id" : 160687830,
       "verified" : false
     }
@@ -8318,7 +8318,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "355429762581266433",
   "text" : "RT @kikodoran: @jeremyfelt Awesome presentation on Vagrant at #wcchi\n@nickpelton followed up last night with a little demo. Did my first va\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Jeremy Felt",
@@ -9236,7 +9236,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "355027638647132161",
   "text" : "RT @JS_Zao: Let me get this straight - @GrantLandram joins #team10up, and within literally days, the home page looks like this? http:\/\/t.co\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Grant Landram",
@@ -10874,7 +10874,7 @@ Grailbird.data.tweets_2013_07 =
   "id_str" : "352885849370787842",
   "text" : "RT @openculture: Jimi Hendrix Plays \u201CSgt. Pepper\u2019s Lonely Hearts Club Band\u201D Days After the Song Was Released (1967). http:\/\/t.co\/iic09yYbor",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -11863,7 +11863,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "waxpancake",
       "protected" : false,
       "id_str" : "13461",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000674831647\/4abc9d219d7bab89df50106c26e3a812_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000769512512\/70a13dfa2d062680224c4d05889f8f67_normal.png",
       "id" : 13461,
       "verified" : false
     }

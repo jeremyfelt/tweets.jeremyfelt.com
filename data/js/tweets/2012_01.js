@@ -2641,7 +2641,7 @@ Grailbird.data.tweets_2012_01 =
   "id_str" : "156906261949063168",
   "text" : "RT @tribapps: New map! New Hampshire Republican Primary results. http:\/\/t.co\/kR9nLc9s Keep it open and watch it update automagically!",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3335,7 +3335,7 @@ Grailbird.data.tweets_2012_01 =
   "id_str" : "155764104592760833",
   "text" : "RT @StanCarey: People who say flattering things about earthquakes are generous to a fault.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

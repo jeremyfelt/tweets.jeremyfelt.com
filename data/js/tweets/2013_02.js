@@ -1138,7 +1138,7 @@ Grailbird.data.tweets_2013_02 =
   "id_str" : "306438030867197953",
   "text" : "RT @benlobaugh: #Seattle #WordPress Developers Meetup tonight!!!!!!!! http:\/\/t.co\/nbYdR50RYe #wpseattle",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1666,7 +1666,7 @@ Grailbird.data.tweets_2013_02 =
   "id_str" : "305029975277453312",
   "text" : "RT @JS_Zao: Watching this now - http:\/\/t.co\/oSGv5D1N02.  Because literally every time @tollmanz opens his face, I learn something.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Zack Tollman",
@@ -3579,7 +3579,7 @@ Grailbird.data.tweets_2013_02 =
   "id_str" : "302292250245885952",
   "text" : "RT @digiphile: A meteor fell in #Russia? http:\/\/t.co\/NWgcfJvv RT @thegarance Wild. MT @russianmachine video of Chelyabinsk http:\/\/t.co\/U ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Garance Franke-Ruta",
@@ -4837,7 +4837,7 @@ Grailbird.data.tweets_2013_02 =
   "id_str" : "301485660508934144",
   "text" : "RT @JS_Zao: Looking to hire some help.  Entry-to-mid-level stuff.  WordPress economy is booming and I can't stay on top of everything al ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

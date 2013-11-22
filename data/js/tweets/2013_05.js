@@ -1313,7 +1313,7 @@ Grailbird.data.tweets_2013_05 =
   "id_str" : "339581626407337984",
   "text" : "RT @kadamwhite: Check out @10up's excellent Varying Vagrant Vagrants, the local dev environment Kelly was using tonight https:\/\/t.co\/TbqG6p\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "10up",
@@ -5578,7 +5578,7 @@ Grailbird.data.tweets_2013_05 =
   "id_str" : "332143897537036288",
   "text" : "RT @dimensionmedia: Vagrant and Custom Domains w\/ WordPress http:\/\/t.co\/J3Ff4TQBH4",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -6514,7 +6514,7 @@ Grailbird.data.tweets_2013_05 =
   "id_str" : "331515328817410048",
   "text" : "RT @yurivictor: How to create a super secure password: Hack the password form to allow multiple spaces and hard returns.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -6592,7 +6592,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "waxpancake",
       "protected" : false,
       "id_str" : "13461",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000674831647\/4abc9d219d7bab89df50106c26e3a812_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000769512512\/70a13dfa2d062680224c4d05889f8f67_normal.png",
       "id" : 13461,
       "verified" : false
     }
@@ -6764,7 +6764,7 @@ Grailbird.data.tweets_2013_05 =
   "id_str" : "331223041554137089",
   "text" : "RT @profsivek: This was so fun &amp; I learned a TON. Many thanks to @danielbachhuber &amp; #codewithme! See who's in Yamhill County Jail: \u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Daniel Bachhuber",
@@ -7049,7 +7049,7 @@ Grailbird.data.tweets_2013_05 =
   "id_str" : "331053945462079488",
   "text" : "RT @thewordoftheday: 5\/5 - vim (\/v\u026Am\/) - n: lively or energetic spirit; enthusiasm; vitality.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

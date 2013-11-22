@@ -108,7 +108,7 @@ Grailbird.data.tweets_2012_03 =
   "id_str" : "185630673166544896",
   "text" : "RT @Zack_Dev: Finally\u2026Debug Bar Cron: http:\/\/t.co\/emNsOORU. Contribute here: https:\/\/t.co\/HeBuIKhW. Thanks for the help @helenhousandi!",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Helen Hou-Sand\u00ED",

@@ -162,7 +162,7 @@ Grailbird.data.tweets_2010_05 =
   "id_str" : "14810445710",
   "text" : "RT @neilhimself: Vaguely disappointed to learn that BP's \"top kill procedure\" will leave its entire executive strata alive.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -645,6 +645,12 @@ Grailbird.data.tweets_2010_05 =
       "indices" : [ 3, 14 ],
       "id_str" : "14529929",
       "id" : 14529929
+    }, {
+      "name" : "Musical Cow",
+      "screen_name" : "DamonLindelof",
+      "indices" : [ 19, 33 ],
+      "id_str" : "2200269966",
+      "id" : 2200269966
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -657,11 +663,11 @@ Grailbird.data.tweets_2010_05 =
     "source" : "\u003Ca href=\"http:\/\/ubertwitter.com\" rel=\"nofollow\"\u003EUberTwitter\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Damon Lindelof",
+        "name" : "Musical Cow",
         "screen_name" : "DamonLindelof",
         "indices" : [ 3, 17 ],
-        "id_str" : "32498545",
-        "id" : 32498545
+        "id_str" : "2200269966",
+        "id" : 2200269966
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -2888,7 +2894,7 @@ Grailbird.data.tweets_2010_05 =
   "id_str" : "13870886130",
   "text" : "RT @acarvin: More from @lavallee: If you're trying to turn your bloggers into rock stars, we need to make sure they've got the effects p ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Marc Lavallee",
@@ -4330,7 +4336,7 @@ Grailbird.data.tweets_2010_05 =
   "id_str" : "13322811791",
   "text" : "RT @marshallk: Twitter tells RWW about the embeddable curation feature it will release tomorrow http:\/\/bit.ly\/aBBTUn",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

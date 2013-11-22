@@ -3354,7 +3354,7 @@ Grailbird.data.tweets_2012_02 =
   "id_str" : "166763683412844547",
   "text" : "RT @ryan: My new home page: http:\/\/t.co\/yBxeQDwu",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

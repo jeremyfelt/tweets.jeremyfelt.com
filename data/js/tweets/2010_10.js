@@ -1787,7 +1787,7 @@ Grailbird.data.tweets_2010_10 =
   "id_str" : "27843188044",
   "text" : "RT @iaindodsworth: Did we at any point say it was a nightmare developing on Android? Errr nope, no we didn't. It wasn't.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2733,7 +2733,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Golborne Senador J-9",
+      "name" : "Laurence Golborne",
       "screen_name" : "lgolborne",
       "indices" : [ 3, 13 ],
       "id_str" : "114837438",
@@ -2760,7 +2760,7 @@ Grailbird.data.tweets_2010_10 =
     "id" : 27307148838,
     "created_at" : "2010-10-14 03:32:37 +0000",
     "user" : {
-      "name" : "Golborne Senador J-9",
+      "name" : "Laurence Golborne",
       "screen_name" : "lgolborne",
       "protected" : false,
       "id_str" : "114837438",
@@ -3070,7 +3070,7 @@ Grailbird.data.tweets_2010_10 =
   "id_str" : "27204637687",
   "text" : "RT @ColonelTribune: The whole world is watching a slowly turning winch in Chile. It's like the Times Square ball drop in reverse.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4522,7 +4522,7 @@ Grailbird.data.tweets_2010_10 =
   "id_str" : "26561891309",
   "text" : "RT @ryan: Filed under I-told-you-so: Libyan government seizes .ly TLD, begins shutting down domains it doesn't like.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4883,8 +4883,8 @@ Grailbird.data.tweets_2010_10 =
       "name" : "The Atlantic Wire",
       "screen_name" : "TheAtlanticWire",
       "indices" : [ 3, 19 ],
-      "id_str" : "73190286",
-      "id" : 73190286
+      "id_str" : "1947084786",
+      "id" : 1947084786
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4907,11 +4907,11 @@ Grailbird.data.tweets_2010_10 =
     "id" : 26489892510,
     "created_at" : "2010-10-05 21:00:04 +0000",
     "user" : {
-      "name" : "The Atlantic Wire",
-      "screen_name" : "TheAtlanticWire",
+      "name" : "The Wire",
+      "screen_name" : "TheWire",
       "protected" : false,
       "id_str" : "73190286",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1259192251\/WIREFORTWITTER_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000761059162\/6d36f67c149b73f066c9e414aca6e2ec_normal.png",
       "id" : 73190286,
       "verified" : true
     }
@@ -4945,7 +4945,7 @@ Grailbird.data.tweets_2010_10 =
   "id_str" : "26376334819",
   "text" : "RT @audreywatters: So for this whole Google TV thing, do I need, like, a TV?  Because meh.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

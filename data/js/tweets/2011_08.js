@@ -34,7 +34,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000726381549\/226f9b009702825f381e59e12261d9c4_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000766148913\/0d443b51205bdb4014494c206453915e_normal.png",
       "id" : 819797,
       "verified" : false
     }
@@ -899,7 +899,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000726381549\/226f9b009702825f381e59e12261d9c4_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000766148913\/0d443b51205bdb4014494c206453915e_normal.png",
       "id" : 819797,
       "verified" : false
     }
@@ -1892,7 +1892,7 @@ Grailbird.data.tweets_2011_08 =
   "id_str" : "105387155001589760",
   "text" : "RT @johnpopham: RT @patrickfoster2: Sky sources say Libya footage is coming via a Mac and mini-satellite dish connected to car cigarette ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Patrick Foster",
@@ -2859,7 +2859,7 @@ Grailbird.data.tweets_2011_08 =
   "id_str" : "103559385472700416",
   "text" : "RT @harpers: \"A Louisiana man ... exposed his penis to a Ford because he's aroused by Walmart.\"\u2014 @jeremykeehn's Weekly Review: http:\/\/t. ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Jeremy Keehn",
@@ -2887,7 +2887,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "Harpers",
       "protected" : false,
       "id_str" : "14287094",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000576927710\/9c80a93372071eca113ffbb017e992a1_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000744725482\/a38fb68234fd34a1139f59d528fcf966_normal.png",
       "id" : 14287094,
       "verified" : false
     }
@@ -3645,7 +3645,7 @@ Grailbird.data.tweets_2011_08 =
   "id_str" : "102071083963912192",
   "text" : "RT @maryslosson: Check out these kick-ass women who are clearing unexploded cluster bombs in Lebanon: http:\/\/t.co\/mwohBDm",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4390,7 +4390,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000726381549\/226f9b009702825f381e59e12261d9c4_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000766148913\/0d443b51205bdb4014494c206453915e_normal.png",
       "id" : 819797,
       "verified" : false
     }
@@ -4513,7 +4513,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "Harpers",
       "protected" : false,
       "id_str" : "14287094",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000576927710\/9c80a93372071eca113ffbb017e992a1_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000744725482\/a38fb68234fd34a1139f59d528fcf966_normal.png",
       "id" : 14287094,
       "verified" : false
     }

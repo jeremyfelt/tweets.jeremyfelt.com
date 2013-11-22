@@ -2407,7 +2407,7 @@ Grailbird.data.tweets_2012_08 =
   "id_str" : "239136094661246976",
   "text" : "RT @maryslosson: Wow. Cop accidentally discloses plan to seize Julian Assange RT @malonebarry: Press Association: Win. Met Police: Fail  ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Barry Malone",
@@ -3573,7 +3573,7 @@ Grailbird.data.tweets_2012_08 =
   "id_str" : "237574179392745475",
   "text" : "RT @micahgodbolt: @jeremyfelt @pdxwp @wcpdx realized I hadn't signed up yet. there you go, 500!",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Jeremy Felt",
@@ -5440,7 +5440,7 @@ Grailbird.data.tweets_2012_08 =
   "id_str" : "236939750118936576",
   "text" : "RT @dimensionmedia: Ok, @tollmanz \"Debug Bar Cron\" looks awesome. Unicorns and rainbows awesome. http:\/\/t.co\/MUYmrkXi #wcpdx",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Zack Tollman",
@@ -5837,7 +5837,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "matro",
       "protected" : false,
       "id_str" : "9427242",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000685985281\/e37774c19d7a79b456429c4c0b23c2f4_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000743482643\/1bef9b8597057a360d645b3f66db8272_normal.jpeg",
       "id" : 9427242,
       "verified" : false
     }
@@ -7461,7 +7461,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "sull",
       "protected" : false,
       "id_str" : "1202561",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000500545731\/e4b083f12766ab09ab2190f8379935e5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000757828855\/8b7af8da430c09a36c61caad6ccc158f_normal.jpeg",
       "id" : 1202561,
       "verified" : false
     }

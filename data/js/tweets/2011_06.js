@@ -1445,7 +1445,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "RaheemKareem",
       "protected" : false,
       "id_str" : "41720099",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000553975386\/853bc4f70a9a5e035642d80e67a95ee5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000753243611\/24353d6838e987c274d5b0fbdb48c5f2_normal.jpeg",
       "id" : 41720099,
       "verified" : false
     }
@@ -2138,7 +2138,7 @@ Grailbird.data.tweets_2011_06 =
   "id_str" : "84448989818265600",
   "text" : "RT @acarvin: Vote results: 33-29. Bill passes. Wild applause. #ssm",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2914,7 +2914,7 @@ Grailbird.data.tweets_2011_06 =
   "id_str" : "83696713566666752",
   "text" : "RT @bittman: RT @BorowitzReport: Americans will not be happy until we find a way to fry oxygen.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Andy Borowitz",
@@ -3249,7 +3249,7 @@ Grailbird.data.tweets_2011_06 =
   "id_str" : "83515978360700928",
   "text" : "RT @brainpicker: This NYT crossword puzzle from the day before the 1996 election is pure genius http:\/\/j.mp\/kp4ZpM",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3536,7 +3536,7 @@ Grailbird.data.tweets_2011_06 =
   "id_str" : "82311938914267136",
   "text" : "RT @jon: RT @Awfy: One of the most confusing things about the USA. http:\/\/i.imgur.com\/ePmjt.jpg",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Greg Cooper",
@@ -5207,7 +5207,7 @@ Grailbird.data.tweets_2011_06 =
   "id_str" : "79274448380895234",
   "text" : "RT @brainpicker: GENIUS! The @Guardian has a \"Palin-free version\" on the homepage (top right) \u2013\u00A0on-demand journalism win http:\/\/j.mp\/l6E ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "The Guardian",

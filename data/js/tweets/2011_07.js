@@ -1317,7 +1317,7 @@ Grailbird.data.tweets_2011_07 =
   "id_str" : "93355272738844674",
   "text" : "RT @RyanLizza: Awww RT @EMMAGKELLER: @nytkeller If someone chucked a pie at you I would totally jump on top of them too.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Emma Gilbey Keller",
@@ -2852,7 +2852,7 @@ Grailbird.data.tweets_2011_07 =
   "id_str" : "91328296125612032",
   "text" : "RT @JimDuncan: @timoreilly I'd believe that my emails mattered if I ever got a non-canned-response that actually answered my questions # ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Tim O'Reilly",
@@ -4665,7 +4665,7 @@ Grailbird.data.tweets_2011_07 =
   "id_str" : "88796136369954816",
   "text" : "RT @k8iedid: Me, in 8 categories. \"@iA: Observe the observer: Here you can see how Google sees you: http:\/\/bit.ly\/woORM",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "iA Inc.",

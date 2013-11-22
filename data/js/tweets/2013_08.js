@@ -818,7 +818,7 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "372488982782681089",
   "text" : "RT @GoldenApples: Passive-aggresively giving people LinkedIn endorsements for technologies nobody cares about.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -908,7 +908,7 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "372438404534788096",
   "text" : "RT @boone: Some people invent arms just so they can be up in them",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3635,7 +3635,7 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "370050478588977153",
   "text" : "RT @WSUCougars: How about that! Kevin Nebeker's epic trick shot is the @SportsCenter #SCTop10 top play! #GoCougs http:\/\/t.co\/HqyReWYYIm",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "SportsCenter",
@@ -4811,7 +4811,7 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "369625771737772032",
   "text" : "RT @Viper007Bond: This is pretty funny: https:\/\/t.co\/s3x5wLe2wE  (by @tomwillmot via @beaulebens)",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Tom Willmot",
@@ -5416,7 +5416,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "evansolomon",
       "protected" : false,
       "id_str" : "9569062",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000494138983\/36f4d5c936e2c3e566049964bab7c70f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000741823321\/688c6da6e6b541ba9959a145c65e59a7_normal.jpeg",
       "id" : 9569062,
       "verified" : false
     }
@@ -9794,7 +9794,7 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "367026373371502593",
   "text" : "RT @JS_Zao: @jeremyfelt Best quote from the PDF: \"Short of figuring out real teleportation, which would of course be awesome \n(someone plea\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Jeremy Felt",
@@ -10099,7 +10099,7 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "366952202616586241",
   "text" : "RT @bigscotty: After two years of saying I was leaving Tumblr, speaking at #wcpdx was the final push I needed to move to #wordpress. I'm mi\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -10159,7 +10159,7 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "366763107365830656",
   "text" : "RT @bigscotty: Here are the slides\/audio from Big Ed's #wcpdx talk. Apologies for the numerous \"um\" and \"uh\" instances. http:\/\/t.co\/2jVFbQy\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -11629,7 +11629,7 @@ Grailbird.data.tweets_2013_08 =
   "id_str" : "365692535198326784",
   "text" : "RT @d3v1an7: $ vagrant up\n*magic and rainbows pour out of screen*",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

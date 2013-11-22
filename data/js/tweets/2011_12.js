@@ -2562,7 +2562,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "nationalrailenq",
       "protected" : false,
       "id_str" : "33546465",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000729722001\/dceb962a3df5f5179ce52b124a6aad1e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000737859105\/ef4d7777c603bf13d98dbcfe218d4bda_normal.png",
       "id" : 33546465,
       "verified" : true
     }

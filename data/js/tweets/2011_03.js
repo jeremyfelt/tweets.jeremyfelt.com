@@ -452,7 +452,7 @@ Grailbird.data.tweets_2011_03 =
   "id_str" : "52501962196922368",
   "text" : "RT @maryslosson: So.  There is a cobra loose at the Bronx Zoo.  And there is already a (hilarious) novelty Twitter account: @BronxZoosCobra",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Bronx Zoo's Cobra",
@@ -2044,7 +2044,7 @@ Grailbird.data.tweets_2011_03 =
   "id_str" : "50602682062352384",
   "text" : "RT @thinkprogress: After criticizing Obama for not intervening in Libya, Gingrich criticizes Obama for...intervening in Libya. http:\/\/bi ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2207,7 +2207,7 @@ Grailbird.data.tweets_2011_03 =
   "id_str" : "50375826025357314",
   "text" : "RT @acarvin: +1. Best tweet title of the day. RT @fieldproducer: Barack Obama to Gaddafi: I also have a tent http:\/\/me.lt\/2S5sm",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Neal Mann",
@@ -3883,7 +3883,7 @@ Grailbird.data.tweets_2011_03 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000726381549\/226f9b009702825f381e59e12261d9c4_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000766148913\/0d443b51205bdb4014494c206453915e_normal.png",
       "id" : 819797,
       "verified" : false
     }
@@ -4139,7 +4139,7 @@ Grailbird.data.tweets_2011_03 =
   "id_str" : "43008640998834176",
   "text" : "RT @RedCross: We may not collect #tigerblood, but we know our donors & volunteers have fierce passion for doing good! #RedCrossMonth",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

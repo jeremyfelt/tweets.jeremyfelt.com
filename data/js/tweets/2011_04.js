@@ -1149,7 +1149,7 @@ Grailbird.data.tweets_2011_04 =
   "id_str" : "57606988984627200",
   "text" : "RT @stuef: You sure you don't need an explanation for this one, Mitt Romeny's Flickr? http:\/\/flic.kr\/p\/9jZ4xG",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1965,7 +1965,7 @@ Grailbird.data.tweets_2011_04 =
   "id_str" : "55393266421612544",
   "text" : "RT @maryslosson: How long had this @NYTimes writer been waiting to use \"manly mustachioed millionaires on horseback?\"  http:\/\/nyti.ms\/f1WOTk",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "The New York Times",

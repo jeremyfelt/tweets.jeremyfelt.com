@@ -756,7 +756,7 @@ Grailbird.data.tweets_2010_07 =
   "id_str" : "19268190586",
   "text" : "RT @mmasnick: If you need a PR person to send out an email about your new \"viral video,\" it's probably not viral.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1016,7 +1016,7 @@ Grailbird.data.tweets_2010_07 =
   "id_str" : "19098644897",
   "text" : "RT @NPRTechTeam: RT @nprnews: RT @NPRTechTeam: New On NPR.org: Save And Sync Your Playlist With Your NPR User Account http:\/\/n.pr\/bsjXyu",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "NPR News",
@@ -3035,7 +3035,7 @@ Grailbird.data.tweets_2010_07 =
   "id_str" : "18350155484",
   "text" : "RT @Ross: To all the Americans who said soccer was boring, I have one word for you: Baseball",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

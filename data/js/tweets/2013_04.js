@@ -6529,7 +6529,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "321696600525250560",
   "text" : "RT @yurivictor: The phases of a web developer\u2019s career http:\/\/t.co\/tkxnqNVOcY",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -7740,7 +7740,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "320427410199834625",
   "text" : "RT @tammyhart: I've had an amazing time learning at the @10up Dev Summit and am as excited as ever to be a part of #team10up!",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "10up",
@@ -9408,7 +9408,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ireland \/ Peter",
+      "name" : "Ireland \/ Dan",
       "screen_name" : "ireland",
       "indices" : [ 3, 11 ],
       "id_str" : "1143551",
@@ -9495,11 +9495,11 @@ Grailbird.data.tweets_2013_04 =
     "id" : 318863079725228033,
     "created_at" : "2013-04-01 23:10:57 +0000",
     "user" : {
-      "name" : "Ireland \/ Peter",
+      "name" : "Ireland \/ Dan",
       "screen_name" : "ireland",
       "protected" : false,
       "id_str" : "1143551",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000723482211\/b8fc999a12fef53f9439200c49eb5ad7_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000754944447\/32cd2ebc022935c12fb21532d7429c82_normal.jpeg",
       "id" : 1143551,
       "verified" : false
     }
@@ -9519,7 +9519,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ireland \/ Peter",
+      "name" : "Ireland \/ Dan",
       "screen_name" : "ireland",
       "indices" : [ 0, 8 ],
       "id_str" : "1143551",

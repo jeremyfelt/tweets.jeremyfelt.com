@@ -172,7 +172,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "351479225670311937",
   "text" : "RT @pourmecoffee: You collected shit \/ from all over Internet \/ I will miss you, bro #haiku @googlereader http:\/\/t.co\/wtWt3RAgAH",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Google Reader",
@@ -616,7 +616,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "351412969839661056",
   "text" : "RT @aaronjorbin: \"Cache your selectors.  This will make your application 15 - 20 percent faster.\" -- @carldanley #wcchi",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Carl Danley",
@@ -1327,7 +1327,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "351079571606614016",
   "text" : "RT @JS_Zao: @benlobaugh BUT HOW CAN THEY TRUST YOUR OPINION WITH ALL THE COMIC SANS UP IN THERE???",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Ben Lobaugh",
@@ -2235,7 +2235,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "350714100797554688",
   "text" : "RT @kadamwhite: .@JeremyFelt explains The Matrix (aka Vagrant) at #wcchi http:\/\/t.co\/UZWVcbxnDj",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Jeremy Felt",
@@ -4086,7 +4086,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "348795510859120640",
   "text" : "RT @thewordoftheday: 23\/6 - violescent (\/\u02CCva\u026A\u0259\u02C8l\u025Bs\u0259nt\/) - adj: tending to a violent colour.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -7773,7 +7773,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "345176213884633089",
   "text" : "RT @jqcon: Want to be at #jqcon, but not anywhere near PDX this week? We're doing our first live stream for jQuery Portland! http:\/\/t.co\/7B\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -9448,7 +9448,7 @@ Grailbird.data.tweets_2013_06 =
   "id_str" : "343874344432308225",
   "text" : "RT @necolas: Haha http:\/\/t.co\/6YCQIClca4",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -9470,7 +9470,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "necolas",
       "protected" : false,
       "id_str" : "24974216",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3030695324\/89a7b4d1461389179f0533405890959d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000746054514\/cdaa6db20293e4072ba46a44461276eb_normal.jpeg",
       "id" : 24974216,
       "verified" : false
     }

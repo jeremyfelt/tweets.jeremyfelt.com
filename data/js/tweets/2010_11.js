@@ -138,7 +138,7 @@ Grailbird.data.tweets_2010_11 =
   "id_str" : "9455144081039360",
   "text" : "RT @nerdyrob: The TSA should send WikiLeaks a cake or something for taking the heat off.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -307,7 +307,7 @@ Grailbird.data.tweets_2010_11 =
   "id_str" : "9381630095400960",
   "text" : "RT @zseward: Whoa, spotted by @joemurph: NYT implemented Winer Links. Hit shift twice on any article. | cc @davewiner, and someone tell  ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Joe Murphy",
@@ -1143,7 +1143,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "sull",
       "protected" : false,
       "id_str" : "1202561",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000500545731\/e4b083f12766ab09ab2190f8379935e5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000757828855\/8b7af8da430c09a36c61caad6ccc158f_normal.jpeg",
       "id" : 1202561,
       "verified" : false
     }
@@ -1750,7 +1750,7 @@ Grailbird.data.tweets_2010_11 =
   "id_str" : "4375667667902465",
   "text" : "RT @LachlanMarkay: Can't see London, can't see France, unless we see your underpants. #TSAslogans",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1770,7 +1770,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "lachlan",
       "protected" : false,
       "id_str" : "15742985",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3218585392\/38d3ab6d257606965770d0151478caaa_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000748078840\/5da90092f10eed8c1955cecd2b853d6a_normal.jpeg",
       "id" : 15742985,
       "verified" : false
     }
@@ -2706,7 +2706,7 @@ Grailbird.data.tweets_2010_11 =
   "id_str" : "1111480917303296",
   "text" : "RT @ericuman: \"Americans now eat an average of 33 pounds of cheese a year, nearly triple the 1970 rate\": http:\/\/nyti.ms\/9GuJMB",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

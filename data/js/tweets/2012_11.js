@@ -2228,7 +2228,7 @@ Grailbird.data.tweets_2012_11 =
   "id_str" : "269624593591988224",
   "text" : "RT @tw2113: What if Hostess knows we're fat and is liquidating itself to help save America? #Hostess2016",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -5923,7 +5923,7 @@ Grailbird.data.tweets_2012_11 =
   "id_str" : "265843603211956224",
   "text" : "RT @pslutsky: Election Day in the United States of America should be a national holiday. #Election",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

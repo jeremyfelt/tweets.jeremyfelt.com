@@ -1321,7 +1321,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "383076911989026816",
   "text" : "RT @aaronjorbin: Thanks to the support of over 40 people, WordPress Post Forking is going to be fully funded!  http:\/\/t.co\/1qxG6nF8oC",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1625,7 +1625,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "382886903684419584",
   "text" : "RT @TrueBS: With the introduction of a LOLZ Cat, will cycling finally find its biggest audience ever? https:\/\/t.co\/47DKjulMzZ",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2291,7 +2291,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "382536206526840832",
   "text" : "RT @JS_Zao: As of tonight, WordPress officially powers over 20% of the Internet.\n\nhttp:\/\/t.co\/1RsikKe15P\n\nLet the graph at the bottom blow \u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -5512,7 +5512,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "379095243875835904",
   "text" : "RT @WSUCougars: 14-0-1 #GoCougs RT @JoseCamacho206: @WSUCougars correct me if I'm wrong, Cougar Athletics are undefeated in the last two we\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Jose Camacho",
@@ -8810,7 +8810,7 @@ Grailbird.data.tweets_2013_09 =
   "id_str" : "376519093039284225",
   "text" : "RT @pourmecoffee: Missing the irreplaceable Warren Zevon, who died ten years ago today http:\/\/t.co\/QtOaHvjXxq",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -9599,7 +9599,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "beep",
       "protected" : false,
       "id_str" : "12534",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000731954317\/7f2c5ec39ff1cb0200d965d14ae172be_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000740290294\/fbe1395ffd2d726ea14d84085f5b6c80_normal.jpeg",
       "id" : 12534,
       "verified" : false
     }

@@ -34,7 +34,7 @@ Grailbird.data.tweets_2012_07 =
       "id_str" : "3080761",
       "id" : 3080761
     }, {
-      "name" : "Jolie O'Dell",
+      "name" : "JOD",
       "screen_name" : "jolieodell",
       "indices" : [ 90, 101 ],
       "id_str" : "19417850",
@@ -56,7 +56,7 @@ Grailbird.data.tweets_2012_07 =
     "source" : "web",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Jolie O'Dell",
+        "name" : "JOD",
         "screen_name" : "jolieodell",
         "indices" : [ 75, 86 ],
         "id_str" : "19417850",
@@ -2977,7 +2977,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "224528227425722374",
   "text" : "RT @simonpegg: Can't believe they pulled the plug on Springsteen and Macca last night in Hyde Park. What joyless, bitter killjoy made th ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3877,7 +3877,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "evansolomon",
       "protected" : false,
       "id_str" : "9569062",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000494138983\/36f4d5c936e2c3e566049964bab7c70f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000741823321\/688c6da6e6b541ba9959a145c65e59a7_normal.jpeg",
       "id" : 9569062,
       "verified" : false
     }
@@ -4237,7 +4237,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@sweden \/ Amanda",
+      "name" : "@sweden \/ Bia",
       "screen_name" : "sweden",
       "indices" : [ 3, 10 ],
       "id_str" : "19663706",
@@ -4251,7 +4251,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "221581516130623488",
   "text" : "RT @sweden: Based on the past six days I have a good understanding of the people of the world. You like Fraggle Rock and Douglas Adams a ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4264,11 +4264,11 @@ Grailbird.data.tweets_2012_07 =
     "id" : 221571629128499200,
     "created_at" : "2012-07-07 11:49:27 +0000",
     "user" : {
-      "name" : "@sweden \/ Amanda",
+      "name" : "@sweden \/ Bia",
       "screen_name" : "sweden",
       "protected" : false,
       "id_str" : "19663706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000725085705\/99de62f84fc4a973fec32830cd63505e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000756205637\/814109261b8c6ded5f2e9b7dc5d5bc6f_normal.png",
       "id" : 19663706,
       "verified" : false
     }

@@ -1647,7 +1647,7 @@ Grailbird.data.tweets_2013_01 =
   "id_str" : "294705999103791104",
   "text" : "RT @k_payne: Pure magic. RT @themitcho: REM\u2019s \u201CLosing My Religion\u201D shifted into a major scale: http:\/\/t.co\/GMVSaFlK This is wild.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "mitcho",
@@ -2012,7 +2012,7 @@ Grailbird.data.tweets_2013_01 =
   "id_str" : "294598576082939906",
   "text" : "RT @tammyhart: OH in IRC: \"as long as canada doesn't acquire 300 more provinces, no big deal\" #team10up",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2755,7 +2755,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scotland \/ Pasta",
+      "name" : "Scotland\/Margo",
       "screen_name" : "ScotVoices",
       "indices" : [ 3, 14 ],
       "id_str" : "1011302935",
@@ -2788,11 +2788,11 @@ Grailbird.data.tweets_2013_01 =
     "id" : 293623745178918912,
     "created_at" : "2013-01-22 07:38:50 +0000",
     "user" : {
-      "name" : "Scotland \/ Pasta",
+      "name" : "Scotland\/Margo",
       "screen_name" : "ScotVoices",
       "protected" : false,
       "id_str" : "1011302935",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000706607611\/f0b76899536c5abdcab0e42164e04c3c_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000769771865\/0783bbfd61c3ffa60cd802194a36baae_normal.jpeg",
       "id" : 1011302935,
       "verified" : false
     }
@@ -2951,7 +2951,7 @@ Grailbird.data.tweets_2013_01 =
   "id_str" : "293431005338030080",
   "text" : "RT @nytjim: Sweet. RT @nowthisnews: \"I want to take a look one more time, I'm not going to see this again.\" - @BarackObama  http:\/\/t.co\/ ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "NowThis News",

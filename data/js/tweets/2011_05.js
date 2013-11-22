@@ -680,7 +680,7 @@ Grailbird.data.tweets_2011_05 =
   "id_str" : "73109603939917824",
   "text" : "RT @mattwaite: Holy crap. Google Street View + Joplin tornado photo: http:\/\/bit.ly\/lX5gTy",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

@@ -61,7 +61,7 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "17487428996",
   "text" : "RT @TheOrwellPrize: 1.7.40: Newspapers now reduced to 6 pages, i.e., 3 sheets[1]. Print reduced in size. Rough analysis of to-day\u2019s... h ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2100,7 +2100,7 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "16895064708",
   "text" : "RT @NPRTechTeam: NPR Music iPhone App is now live in the iTunes Store! It is free! Here is the launch announcement for it - http:\/\/nyti. ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2687,7 +2687,7 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "16442565684",
   "text" : "RT @Chanders: A sport whose final moments of drama are continually interrupted by strategic rule breaking is a silly sport.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3691,7 +3691,7 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "15826044820",
   "text" : "RT @sleslie: RT @holden: Wow, just did math. Current fine on BP is equal to max. fines for filesharing 454 songs.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Mike Caulfield",
@@ -4315,7 +4315,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "cubanalaf",
       "protected" : false,
       "id_str" : "15377897",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000694921101\/0288ba981031c53edbcb8b9f6946750b_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000767601887\/0288ba981031c53edbcb8b9f6946750b_normal.jpeg",
       "id" : 15377897,
       "verified" : false
     }
@@ -4751,7 +4751,7 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "15644904883",
   "text" : "RT @marshallk: I aim to maintain a journalist's objectivity about the fact that iphone 4 looks crazy f'ing super awesome",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

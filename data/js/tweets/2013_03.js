@@ -831,7 +831,7 @@ Grailbird.data.tweets_2013_03 =
   "id_str" : "317789908246867969",
   "text" : "RT @JS_Zao: Calling this now as the most under-rated commit of the 3.6 cycle. Not even a commit to core. http:\/\/t.co\/lQaXqQZ76L - Thanks ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Peter Westwood",
@@ -1654,7 +1654,7 @@ Grailbird.data.tweets_2013_03 =
   "id_str" : "317363261886590976",
   "text" : "RT @WordPressVIP: As of today, we have officially reviewed and deployed a total of 100,000 commits to the http:\/\/t.co\/Q9HMGLimhr VIP SVN ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -5867,7 +5867,7 @@ Grailbird.data.tweets_2013_03 =
   "id_str" : "312043543692718080",
   "text" : "RT @benlobaugh: Want to come speak at Seattle #WordCamp 2013? Speaker submissions are open! http:\/\/t.co\/Q0WxSbwK77 #wcsea #WordPress",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -7546,7 +7546,7 @@ Grailbird.data.tweets_2013_03 =
       "screen_name" : "evansolomon",
       "protected" : false,
       "id_str" : "9569062",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000494138983\/36f4d5c936e2c3e566049964bab7c70f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000741823321\/688c6da6e6b541ba9959a145c65e59a7_normal.jpeg",
       "id" : 9569062,
       "verified" : false
     }
@@ -8538,7 +8538,7 @@ Grailbird.data.tweets_2013_03 =
   "id_str" : "308081471820795904",
   "text" : "RT @JS_Zao: This looks super sick - @carldanley - you is too smart. https:\/\/t.co\/VgrfGnarTB",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Carl Danley",

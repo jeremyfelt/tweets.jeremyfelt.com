@@ -105,7 +105,7 @@ Grailbird.data.tweets_2011_01 =
   "id_str" : "32254097474191360",
   "text" : "RT @acarvin: RT @ArabRevolution: I wish we on Twitter, and the media would change the phrase \"Million Man March\" to \"Million Egyptian March\"",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "\u062A\u0628\u0627\u064B \u0644\u0643\u0645 \u064A\u0627\u0637\u0648\u0627\u063A\u064A\u062A",
@@ -346,7 +346,7 @@ Grailbird.data.tweets_2011_01 =
   "id_str" : "31917957693046784",
   "text" : "RT @ericuman: Remember photo of protesters praying & hit by water? Here's the (mesmerizing) video: http:\/\/youtu.be\/dBtYLBQPRGQ via @danc ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -507,7 +507,7 @@ Grailbird.data.tweets_2011_01 =
   "id_str" : "31471797211766784",
   "text" : "RT @acarvin: RT @latimes: Not to be missed: Vivid account of opposition leader facing tear gas, water cannons, batons  http:\/\/lat.ms\/icr ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Los Angeles Times",
@@ -573,7 +573,7 @@ Grailbird.data.tweets_2011_01 =
   "id_str" : "31466086490710016",
   "text" : "RT @maryslosson: Egypt Vice President Omar Suleiman: Extraordinary Rendition Coordinator? http:\/\/bit.ly\/fcf5UB #jan25 #egypt",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -884,7 +884,7 @@ Grailbird.data.tweets_2011_01 =
   "id_str" : "31224084780032001",
   "text" : "RT @radicalbytes: MUST READ - Robert Fisk first hand reporting from the streets of Cairo: http:\/\/ind.pn\/fbbCLa #jan25 #egypt",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2675,7 +2675,7 @@ Grailbird.data.tweets_2011_01 =
   "id_str" : "28560316929413120",
   "text" : "RT @mathewi: +1 -- RT @rsingel: Auletta isn't a daily reporter. And he wrote a book on Goog + had 12 sitdowns with Schmidt. Can't expect ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Ryan Singel",
@@ -4274,7 +4274,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "KMoyer",
       "protected" : false,
       "id_str" : "16201669",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1212258138\/JKeithMoyer_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000767139727\/c36f3e31841f3c6d2468495821638f24_normal.jpeg",
       "id" : 16201669,
       "verified" : false
     }
@@ -4338,7 +4338,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "NewsCut Blog",
+      "name" : "NewsCut",
       "screen_name" : "newscut",
       "indices" : [ 3, 11 ],
       "id_str" : "1472840792",
@@ -4536,7 +4536,7 @@ Grailbird.data.tweets_2011_01 =
   "id_str" : "25363680791109632",
   "text" : "RT @nytjim: RT @LATimesrainey: Daniel Hermandez, who came to #Giffords aid, talking about E Pluribus Unum. Moving. Has future in public  ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "James Rainey",
@@ -5030,7 +5030,7 @@ Grailbird.data.tweets_2011_01 =
   "id_str" : "24667063108771840",
   "text" : "RT @Magnuson: This is one big reason why I love working for Twitter: http:\/\/bit.ly\/f5yS23",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -5340,7 +5340,7 @@ Grailbird.data.tweets_2011_01 =
   "id_str" : "23911794825240576",
   "text" : "RT @jaketapper: POTUS pens NYT oped on Sudan referendum &gt; http:\/\/nyti.ms\/hgvSfq",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -6547,7 +6547,7 @@ Grailbird.data.tweets_2011_01 =
   "id_str" : "22378214282240000",
   "text" : "RT @BadAstronomer: There's no other way to describe it: INSANELY awesome picture of today's solar eclipse: http:\/\/is.gd\/k64dS",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

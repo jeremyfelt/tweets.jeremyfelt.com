@@ -1968,7 +1968,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@sweden \/ Amanda",
+      "name" : "@sweden \/ Bia",
       "screen_name" : "sweden",
       "indices" : [ 3, 10 ],
       "id_str" : "19663706",
@@ -1995,11 +1995,11 @@ Grailbird.data.tweets_2012_09 =
     "id" : 247404378800140288,
     "created_at" : "2012-09-16 18:39:35 +0000",
     "user" : {
-      "name" : "@sweden \/ Amanda",
+      "name" : "@sweden \/ Bia",
       "screen_name" : "sweden",
       "protected" : false,
       "id_str" : "19663706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000725085705\/99de62f84fc4a973fec32830cd63505e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000756205637\/814109261b8c6ded5f2e9b7dc5d5bc6f_normal.png",
       "id" : 19663706,
       "verified" : false
     }
@@ -2955,7 +2955,7 @@ Grailbird.data.tweets_2012_09 =
   "id_str" : "245267834731638787",
   "text" : "RT @DDOTDC: Congratulations if you competed in the Nation's Triathlon Sunday... on @Bikeshare! http:\/\/t.co\/nSPKc8H0",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Capital Bikeshare",
@@ -5160,7 +5160,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "783214",
       "id" : 783214
     }, {
-      "name" : "@sweden \/ Amanda",
+      "name" : "@sweden \/ Bia",
       "screen_name" : "sweden",
       "indices" : [ 42, 49 ],
       "id_str" : "19663706",

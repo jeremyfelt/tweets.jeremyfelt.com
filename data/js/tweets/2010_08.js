@@ -2065,7 +2065,7 @@ Grailbird.data.tweets_2010_08 =
   "id_str" : "22064322827",
   "text" : "RT @KeysTreasures: Twitter is the only place where @MikeTyson following you isn't reason to Run For Your Life!",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Mike Tyson",
@@ -4051,7 +4051,7 @@ Grailbird.data.tweets_2010_08 =
   "id_str" : "21096928386",
   "text" : "RT @episod: Procrastinators cry the loudest.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4068,7 +4068,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000726381549\/226f9b009702825f381e59e12261d9c4_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000766148913\/0d443b51205bdb4014494c206453915e_normal.png",
       "id" : 819797,
       "verified" : false
     }
@@ -4264,7 +4264,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000726381549\/226f9b009702825f381e59e12261d9c4_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000766148913\/0d443b51205bdb4014494c206453915e_normal.png",
       "id" : 819797,
       "verified" : false
     }
@@ -6111,7 +6111,7 @@ Grailbird.data.tweets_2010_08 =
   "id_str" : "20414576000",
   "text" : "RT @adampash: What awesome service would you love to see shuttered? Let's hear it; maybe me and @ginatrapani can write a book about it!",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Gina Trapani",

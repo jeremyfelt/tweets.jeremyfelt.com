@@ -676,7 +676,7 @@ Grailbird.data.tweets_2010_12 =
   "id_str" : "17665851683508224",
   "text" : "RT @digiphile: RT @alexismadrigal: Man, @bruces is a singular talent. Here's his brilliance (BRILLIANCE) on WikiLeaks: http:\/\/is.gd\/jfbuO",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Alexis C. Madrigal",
@@ -1402,7 +1402,7 @@ Grailbird.data.tweets_2010_12 =
   "id_str" : "15627220496158721",
   "text" : "RT @djevilone: On approach to Ted Stevens airport.  Kind of weird flying into an airport named after a dude who died in a plane crash!  WTF?",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1634,7 +1634,7 @@ Grailbird.data.tweets_2010_12 =
   "id_str" : "14756921164693505",
   "text" : "RT @acarvin: Bernie Sanders' Filibuster, As Performed By An Animated Puppy http:\/\/post.ly\/1KsUT",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2318,7 +2318,7 @@ Grailbird.data.tweets_2010_12 =
   "id_str" : "14364244380221441",
   "text" : "RT @ginatrapani: 1password and LastPass are the real winners here.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3177,7 +3177,7 @@ Grailbird.data.tweets_2010_12 =
   "id_str" : "13290401645465600",
   "text" : "RT @digiphile: Lovely @Google video\/ad for its 2010 search zeitgeist [@LaughingSquid] http:\/\/j.mp\/hmsJbR ROTFL: Fastest rising? Chatroul ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "A Googler",

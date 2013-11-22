@@ -576,7 +576,7 @@ Grailbird.data.tweets_2012_12 =
   "id_str" : "282866098616016896",
   "text" : "RT @bethanyrydmark: This is way better than all those #duckface snaps \/\/ Astronaut Takes Amazing Self Portrait in Space: http:\/\/t.co\/qCD ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Open Culture",
@@ -607,7 +607,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "bethanyrydmark",
       "protected" : false,
       "id_str" : "14222501",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000611987721\/81e18f3309a85c8c374e1c1daeb70170_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000745666491\/609d5d4a200cb01d82f7ccede5ec8ff2_normal.jpeg",
       "id" : 14222501,
       "verified" : false
     }
@@ -1957,7 +1957,7 @@ Grailbird.data.tweets_2012_12 =
   "id_str" : "280578749811011585",
   "text" : "RT @maryslosson: On the anonymity of drone strikes: http:\/\/t.co\/xSkH0mUb \"Did we just kill a kid?\" \"Yeah, I guess that was a kid.\"",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4124,7 +4124,7 @@ Grailbird.data.tweets_2012_12 =
   "id_str" : "278231428255334400",
   "text" : "RT @SeinfeldToday: Elaine yells at her co-workers for loving Pinterest. Kramer becomes an @Uber driver. George opens actual jerk store o ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Uber",
@@ -6414,6 +6414,33 @@ Grailbird.data.tweets_2012_12 =
   "text" : "Jetpack runs Kissmetrics analytics on all of my admin dashboard clicks? That seems uncool.",
   "id" : 275364673715576833,
   "created_at" : "2012-12-02 22:23:48 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 78, 98 ],
+      "url" : "http:\/\/t.co\/qMBvxdzt",
+      "expanded_url" : "http:\/\/manpages.ubuntu.com\/manpages\/gutsy\/man1\/ack.1.html",
+      "display_url" : "manpages.ubuntu.com\/manpages\/gutsy\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "275363519246000128",
+  "text" : "Though a highly versatile Kanji code converter could come in handy one day... http:\/\/t.co\/qMBvxdzt",
+  "id" : 275363519246000128,
+  "created_at" : "2012-12-02 22:19:13 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

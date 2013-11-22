@@ -790,7 +790,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "DrewFromTV",
       "protected" : false,
       "id_str" : "50835878",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2901661329\/422fd6e6373bb1d8efc8727695a1c2d5_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000744519425\/4fbaa9969cb2eb1e40574e53e79179ae_normal.jpeg",
       "id" : 50835878,
       "verified" : true
     }
@@ -1421,7 +1421,7 @@ Grailbird.data.tweets_2010_02 =
   "id_str" : "8944468930",
   "text" : "RT @marshallk: Meet The First Miners of the New Social Graph http:\/\/bit.ly\/9E9IPR (twitter social graph hacking for fun & profit)",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

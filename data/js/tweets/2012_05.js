@@ -62,7 +62,7 @@ Grailbird.data.tweets_2012_05 =
   "id_str" : "208235027232858113",
   "text" : "RT @boonepickens: The first billion is a helluva lot harder RT @Drake: The first million is the hardest.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Drizzy",
@@ -4418,7 +4418,7 @@ Grailbird.data.tweets_2012_05 =
   "id_str" : "202398102387294209",
   "text" : "RT @StanCarey: Omelette you finish, but @SpecGram has the most polyglot puns\u2014Why do the French only use 1 egg to make an omelette? Becau ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Editors of SpecGram",

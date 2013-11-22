@@ -1285,7 +1285,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "jilliancyork",
       "protected" : false,
       "id_str" : "14048901",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000646058053\/a8fa3e14d7344a6b223ace88b0057142_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000747611862\/611830fc0791b8b1eeaf73e8b70b8b20_normal.png",
       "id" : 14048901,
       "verified" : false
     }
@@ -1737,7 +1737,7 @@ Grailbird.data.tweets_2011_02 =
   "id_str" : "38801452092751872",
   "text" : "RT @maryslosson: Published in @LATimes!  @Benjamin_Max and I teamed up to bring you this: http:\/\/lat.ms\/fzRilI",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Los Angeles Times",
@@ -2471,7 +2471,7 @@ Grailbird.data.tweets_2011_02 =
   "id_str" : "36105869326286848",
   "text" : "RT @rwwmike: In case you were wondering: http:\/\/ismubarakstillpresident.com\/ #egypt #jan25 #mubarak #cairo",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2896,7 +2896,7 @@ Grailbird.data.tweets_2011_02 =
   "id_str" : "34105019875868672",
   "text" : "RT @acarvin: Awesome graphics from the NYT, as always. RT @MoniqueFrugier: The Battle for Tahrir Square http:\/\/nyti.ms\/gQDKbk  #tahrir # ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Monique Frugier",
@@ -3056,7 +3056,7 @@ Grailbird.data.tweets_2011_02 =
   "id_str" : "33369311779229699",
   "text" : "RT @acarvin: RT @JonGarfunkel:  USA sends $1.5B\/year to Egypt, but tourism brings in $11B\/year. Which is at bigger risk...?",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Jon Garfunkel",
@@ -3243,7 +3243,7 @@ Grailbird.data.tweets_2011_02 =
   "id_str" : "32872201145290752",
   "text" : "RT @marshallk: sometimes news blogs are so real-time that it feels like 30 extra secs of thinking more before publishing could be compet ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3349,7 +3349,7 @@ Grailbird.data.tweets_2011_02 =
   "id_str" : "32833386892492801",
   "text" : "RT @ColonelTribune: Ninety-four pages of free Chicago Tribune e-edition: http:\/\/trib.in\/eTYsac Think of all the paper hats. 47 of them.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3400,7 +3400,7 @@ Grailbird.data.tweets_2011_02 =
   "id_str" : "32832836230709249",
   "text" : "RT @ColonelTribune: Two words: Snowmobile rescues. http:\/\/trib.in\/gxTHl2",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3586,7 +3586,7 @@ Grailbird.data.tweets_2011_02 =
   "id_str" : "32489186971885568",
   "text" : "RT @acarvin: RT @moelnadi: Egyptian TV is claiming that only 4,000 are in Tahrir - Check out the reality for yourself http:\/\/bit.ly\/ekJ0 ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Mo Elnadi",

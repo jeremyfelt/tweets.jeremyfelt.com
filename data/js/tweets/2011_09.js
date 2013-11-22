@@ -3104,7 +3104,7 @@ Grailbird.data.tweets_2011_09 =
   "id_str" : "116285715817562112",
   "text" : "RT @ahockley: I could think of a lot of fun ways to lose a billion dollars a quarter other than by running Bing: http:\/\/offs.me\/23e",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4326,7 +4326,7 @@ Grailbird.data.tweets_2011_09 =
   "id_str" : "114770388675862528",
   "text" : "RT @adamclarkestes: TIL that Barack Obama brews its own beer. It's called White House Honey Ale http:\/\/j.mp\/ndsXFL",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -5476,7 +5476,7 @@ Grailbird.data.tweets_2011_09 =
   "id_str" : "112635190605647872",
   "text" : "RT @emmagkeller: Perfect. RT @Dalia_M1609: \"@jpmaheu  This is the best 15 seconds on the Internet at the moment. http:\/\/t.co\/zLpUZev \/",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Dalia M",
@@ -5900,7 +5900,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000726381549\/226f9b009702825f381e59e12261d9c4_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000766148913\/0d443b51205bdb4014494c206453915e_normal.png",
       "id" : 819797,
       "verified" : false
     }
@@ -7025,7 +7025,7 @@ Grailbird.data.tweets_2011_09 =
   "id_str" : "111492847072579584",
   "text" : "RT @wcpdx: Announcing @berkun as a featured speaker at WordCamp Portland: http:\/\/t.co\/peqg8ZN",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Scott Berkun",
@@ -7751,7 +7751,7 @@ Grailbird.data.tweets_2011_09 =
   "id_str" : "109654590533795842",
   "text" : "RT @onyxfish: Onward @pandaproject! RT @tribapps: \"Show Your Work\" http:\/\/j.mp\/r9Zz34 A parting blog post from @onyxfish.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "PANDA project",

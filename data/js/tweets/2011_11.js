@@ -1298,7 +1298,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "sull",
       "protected" : false,
       "id_str" : "1202561",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000500545731\/e4b083f12766ab09ab2190f8379935e5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000757828855\/8b7af8da430c09a36c61caad6ccc158f_normal.jpeg",
       "id" : 1202561,
       "verified" : false
     }
@@ -1965,7 +1965,7 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "134468553960210433",
   "text" : "RT @adndotcom: Wow: Video from Little Diomede at noon today http:\/\/t.co\/zKrhEaLZ #AKstorm",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2404,7 +2404,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "sull",
       "protected" : false,
       "id_str" : "1202561",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000500545731\/e4b083f12766ab09ab2190f8379935e5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000757828855\/8b7af8da430c09a36c61caad6ccc158f_normal.jpeg",
       "id" : 1202561,
       "verified" : false
     }
@@ -3526,7 +3526,7 @@ Grailbird.data.tweets_2011_11 =
   "id_str" : "132097751277252608",
   "text" : "RT @StanCarey: It's not easy greening beans.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

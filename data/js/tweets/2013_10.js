@@ -28,7 +28,7 @@ Grailbird.data.tweets_2013_10 =
   "id_str" : "396137970341642240",
   "text" : "RT @timoreilly: Cool idea: MIT Wristband Is a Personal Climatizer  http:\/\/t.co\/MgZBS7tyFI via @slashdot",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Slashdot",
@@ -558,7 +558,7 @@ Grailbird.data.tweets_2013_10 =
   "id_str" : "395628767856435200",
   "text" : "RT @no_fear_inc: @jeremyfelt cheers man! http:\/\/t.co\/nhbhsT9Tm4",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Jeremy Felt",
@@ -1303,11 +1303,11 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "390949134",
       "id" : 390949134
     }, {
-      "name" : "ZippyKid",
+      "name" : "Currently Known as P",
       "screen_name" : "zippykid",
       "indices" : [ 100, 109 ],
-      "id_str" : "124981741",
-      "id" : 124981741
+      "id_str" : "2151857977",
+      "id" : 2151857977
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2274,7 +2274,7 @@ Grailbird.data.tweets_2013_10 =
   "id_str" : "393520668253241344",
   "text" : "RT @dimensionmedia: Join me in raising a glass to the 211 contributors of WordPress 3.7. (and their spouses \/ neglected pets) http:\/\/t.co\/6\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -6100,7 +6100,7 @@ Grailbird.data.tweets_2013_10 =
   "id_str" : "390200684118700033",
   "text" : "RT @ginatrapani: Finally get to share HUGE news: my company launched today! Help us make @ThinkUp great https:\/\/t.co\/hVQNzCNfUu",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "ThinkUp",
@@ -8170,7 +8170,7 @@ Grailbird.data.tweets_2013_10 =
   "id_str" : "387731661552906240",
   "text" : "RT @carriemelago: My husband just texted me to tell me to look at a tweet. #thewaywelivenow",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
