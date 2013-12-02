@@ -2638,7 +2638,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "GlennF",
       "protected" : false,
       "id_str" : "8315692",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000631198070\/d34f728df5066290ec66b86e8fd37aa2_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000814248767\/f19183ee719cdd5efc0c82ca741d1ab1_normal.jpeg",
       "id" : 8315692,
       "verified" : false
     }

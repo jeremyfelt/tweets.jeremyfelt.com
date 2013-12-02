@@ -313,7 +313,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "boonsri",
       "protected" : false,
       "id_str" : "14538938",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000699736039\/11159cec5d0df100692e5089c5d879a9_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000777052779\/d52c42a2fdc0997ab39c398ee19f3d0f_normal.jpeg",
       "id" : 14538938,
       "verified" : false
     }
@@ -471,11 +471,11 @@ Grailbird.data.tweets_2010_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brian Clark",
+      "name" : "Copyblogger",
       "screen_name" : "copyblogger",
       "indices" : [ 3, 15 ],
-      "id_str" : "10367",
-      "id" : 10367
+      "id_str" : "15029970",
+      "id" : 15029970
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -499,7 +499,7 @@ Grailbird.data.tweets_2010_12 =
     "created_at" : "2010-12-23 19:30:57 +0000",
     "user" : {
       "name" : "Brian Clark",
-      "screen_name" : "copyblogger",
+      "screen_name" : "brianclark",
       "protected" : false,
       "id_str" : "10367",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000703008564\/13ad9e43f61dabf9d11bd5187ee85355_normal.jpeg",

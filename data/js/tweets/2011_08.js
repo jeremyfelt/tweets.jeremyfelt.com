@@ -34,7 +34,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000766148913\/0d443b51205bdb4014494c206453915e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000820523386\/5e1a50995a9f9bfcdcdc7503e1271422_normal.jpeg",
       "id" : 819797,
       "verified" : false
     }
@@ -899,7 +899,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000766148913\/0d443b51205bdb4014494c206453915e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000820523386\/5e1a50995a9f9bfcdcdc7503e1271422_normal.jpeg",
       "id" : 819797,
       "verified" : false
     }
@@ -1317,7 +1317,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "justahl",
       "protected" : false,
       "id_str" : "39295667",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3687472677\/d92709d4c5044add950fd9d535673ca1_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000776842364\/98a0b392d7deb3fdbcd167f5c47ca1fb_normal.jpeg",
       "id" : 39295667,
       "verified" : false
     }
@@ -2116,7 +2116,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ladama",
+      "name" : "Falalalala-la-Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -4390,7 +4390,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000766148913\/0d443b51205bdb4014494c206453915e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000820523386\/5e1a50995a9f9bfcdcdc7503e1271422_normal.jpeg",
       "id" : 819797,
       "verified" : false
     }

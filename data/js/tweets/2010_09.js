@@ -995,7 +995,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ladama",
+      "name" : "Falalalala-la-Ladama",
       "screen_name" : "ladama",
       "indices" : [ 3, 10 ],
       "id_str" : "16390477",
@@ -1022,11 +1022,11 @@ Grailbird.data.tweets_2010_09 =
     "id" : 25848375149,
     "created_at" : "2010-09-29 03:11:34 +0000",
     "user" : {
-      "name" : "Ladama",
+      "name" : "Falalalala-la-Ladama",
       "screen_name" : "ladama",
       "protected" : false,
       "id_str" : "16390477",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2821235052\/5642d0cc47a8d93666d5d4f367046854_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000818920556\/c73e966f5d1683890ef21f891a31c774_normal.jpeg",
       "id" : 16390477,
       "verified" : false
     }
@@ -1961,7 +1961,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "meeshfelt",
       "protected" : false,
       "id_str" : "32924315",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000627198341\/bf4f15fc73d4ed4b6b8d0f11abe06b49_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000812718465\/ee115a44314c024b15d5371e57c374fe_normal.jpeg",
       "id" : 32924315,
       "verified" : false
     }

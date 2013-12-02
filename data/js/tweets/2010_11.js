@@ -1916,7 +1916,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "SteveMartinToGo",
       "protected" : false,
       "id_str" : "14824849",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000355410813\/84022115e32b18324b7ef9dd39f10147_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000812704619\/1b58ea19232f72dbeea54b14d3957cb4_normal.jpeg",
       "id" : 14824849,
       "verified" : true
     }
@@ -2193,7 +2193,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ladama",
+      "name" : "Falalalala-la-Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",

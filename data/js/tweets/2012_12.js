@@ -627,7 +627,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ladama",
+      "name" : "Falalalala-la-Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -1441,7 +1441,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "Alex_Ogle",
       "protected" : false,
       "id_str" : "26957009",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000000041160\/49e4630e2f5ded0035205230ef480a31_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000813862054\/2287af06e1ab17773cda26ff3c280d1c_normal.jpeg",
       "id" : 26957009,
       "verified" : true
     }

@@ -2298,7 +2298,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ladama",
+      "name" : "Falalalala-la-Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -4311,7 +4311,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mr.doob",
+      "name" : "Mr.d\u0CA0_\u0CA0b",
       "screen_name" : "mrdoob",
       "indices" : [ 3, 10 ],
       "id_str" : "20733754",
@@ -4338,7 +4338,7 @@ Grailbird.data.tweets_2010_10 =
     "id" : 26614248618,
     "created_at" : "2010-10-07 03:09:51 +0000",
     "user" : {
-      "name" : "Mr.doob",
+      "name" : "Mr.d\u0CA0_\u0CA0b",
       "screen_name" : "mrdoob",
       "protected" : false,
       "id_str" : "20733754",

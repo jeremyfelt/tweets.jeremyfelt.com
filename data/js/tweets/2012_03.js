@@ -1558,7 +1558,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "caffyrelf",
       "protected" : false,
       "id_str" : "52349764",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000472958958\/b34c664a9e89e1c03fc6e748281e3eb2_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000805595124\/443155cd4b5d166f0f5a2db768a2fa7d_normal.jpeg",
       "id" : 52349764,
       "verified" : false
     }

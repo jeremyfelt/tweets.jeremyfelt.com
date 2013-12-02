@@ -861,7 +861,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "MikeRapin",
       "protected" : false,
       "id_str" : "1144581",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000676892244\/6c80eb022b0e4c3422d15403a914c314_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000803806892\/f200b1e67d89b8c270f5201c86f1b361_normal.jpeg",
       "id" : 1144581,
       "verified" : false
     }

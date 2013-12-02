@@ -2253,7 +2253,7 @@ Grailbird.data.tweets_2010_01 =
       "screen_name" : "obrien",
       "protected" : false,
       "id_str" : "10952962",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000407576261\/6a915e728821b4fc5a08245eb8f8e9bd_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000821190754\/d9c69f15667e49e1da34972748eb4278_normal.jpeg",
       "id" : 10952962,
       "verified" : true
     }
@@ -2729,7 +2729,7 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ladama",
+      "name" : "Falalalala-la-Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",

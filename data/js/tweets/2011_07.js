@@ -2599,7 +2599,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "AntDeRosa",
       "protected" : false,
       "id_str" : "1140451",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000678022018\/01aff197841d09eabf7adab5df134832_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000806194292\/c215139a2ec9f6f1bd8e5e8cbb125978_normal.png",
       "id" : 1140451,
       "verified" : true
     }

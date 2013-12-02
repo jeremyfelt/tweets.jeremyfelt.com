@@ -1983,7 +1983,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "holyfield",
       "protected" : false,
       "id_str" : "77841951",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3369707251\/5f8bf1344e19d0a03bd506032c1c78ca_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000785548548\/b855d62b21618e721bb01429f0484c26_normal.jpeg",
       "id" : 77841951,
       "verified" : true
     }
@@ -3375,7 +3375,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "meeshfelt",
       "protected" : false,
       "id_str" : "32924315",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000627198341\/bf4f15fc73d4ed4b6b8d0f11abe06b49_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000812718465\/ee115a44314c024b15d5371e57c374fe_normal.jpeg",
       "id" : 32924315,
       "verified" : false
     }
@@ -5771,7 +5771,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "aley",
       "protected" : false,
       "id_str" : "48901814",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3656293236\/11977192c2256db20398522253e3a7d7_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000796408724\/e7ba834e29e43ce4f4000c49da1e88a6_normal.png",
       "id" : 48901814,
       "verified" : false
     }
@@ -8766,11 +8766,11 @@ Grailbird.data.tweets_2012_08 =
     "id" : 235028504712982529,
     "created_at" : "2012-08-13 15:02:16 +0000",
     "user" : {
-      "name" : "David Wheeler",
+      "name" : "David E. Wheeler",
       "screen_name" : "theory",
       "protected" : false,
       "id_str" : "656233",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000314943013\/266d944a7e63b122801b7cd9f4cdc910_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000821397169\/5058520d6a12eda812765b12fb23c724_normal.jpeg",
       "id" : 656233,
       "verified" : false
     }

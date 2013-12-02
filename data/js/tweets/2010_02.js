@@ -1108,7 +1108,7 @@ Grailbird.data.tweets_2010_02 =
     "user" : {
       "name" : "Michael Gartenberg",
       "screen_name" : "Gartenberg",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "174853",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2878221329\/223e3de08f316c087ddc7f32e70009da_normal.jpeg",
       "id" : 174853,
@@ -1714,7 +1714,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ladama",
+      "name" : "Falalalala-la-Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",

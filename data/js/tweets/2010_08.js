@@ -834,7 +834,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000647105362\/1329d77a96983c8ae44b4c619407bd44_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000790025961\/6d9370f1b236797c2db85c642f38c998_normal.jpeg",
       "id" : 22872643,
       "verified" : true
     }
@@ -4068,7 +4068,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000766148913\/0d443b51205bdb4014494c206453915e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000820523386\/5e1a50995a9f9bfcdcdc7503e1271422_normal.jpeg",
       "id" : 819797,
       "verified" : false
     }
@@ -4264,7 +4264,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000766148913\/0d443b51205bdb4014494c206453915e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000820523386\/5e1a50995a9f9bfcdcdc7503e1271422_normal.jpeg",
       "id" : 819797,
       "verified" : false
     }

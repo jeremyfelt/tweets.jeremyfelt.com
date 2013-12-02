@@ -679,7 +679,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "TheRyanAdams",
       "protected" : false,
       "id_str" : "318531174",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000686127604\/a0e63e80ce5359583501bbaa70151d3e_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000812796211\/3c9b62c9643e4d583571c546fe69176f_normal.jpeg",
       "id" : 318531174,
       "verified" : true
     }
@@ -2997,7 +2997,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "simonpegg",
       "protected" : false,
       "id_str" : "18713254",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3100886711\/a1ce2f9d800b7be20780d992ef093f9f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000793936975\/d020d43bed6a47e8d520f8869ed093d4_normal.jpeg",
       "id" : 18713254,
       "verified" : true
     }
@@ -3083,7 +3083,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "springsteen",
       "protected" : false,
       "id_str" : "43383705",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2503639182\/kvwh87erruwjrrqmgjrs_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000787549419\/7c004731fe05332d80b5a8c25adbf5d2_normal.jpeg",
       "id" : 43383705,
       "verified" : true
     }
@@ -4237,7 +4237,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@sweden \/ Bia",
+      "name" : "@sweden \/ George",
       "screen_name" : "sweden",
       "indices" : [ 3, 10 ],
       "id_str" : "19663706",
@@ -4264,11 +4264,11 @@ Grailbird.data.tweets_2012_07 =
     "id" : 221571629128499200,
     "created_at" : "2012-07-07 11:49:27 +0000",
     "user" : {
-      "name" : "@sweden \/ Bia",
+      "name" : "@sweden \/ George",
       "screen_name" : "sweden",
       "protected" : false,
       "id_str" : "19663706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000756205637\/814109261b8c6ded5f2e9b7dc5d5bc6f_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000819392986\/d005625429569594864c740a93eadcce_normal.png",
       "id" : 19663706,
       "verified" : false
     }

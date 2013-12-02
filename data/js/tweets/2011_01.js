@@ -148,7 +148,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tharnekesgiving",
+      "name" : "Arne Roomann-Kurrik",
       "screen_name" : "kurrik",
       "indices" : [ 45, 52 ],
       "id_str" : "7588892",
