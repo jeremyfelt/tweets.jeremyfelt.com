@@ -2253,7 +2253,7 @@ Grailbird.data.tweets_2010_01 =
       "screen_name" : "obrien",
       "protected" : false,
       "id_str" : "10952962",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000821190754\/d9c69f15667e49e1da34972748eb4278_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000867321122\/5uPNAhck_normal.png",
       "id" : 10952962,
       "verified" : true
     }

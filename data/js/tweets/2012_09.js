@@ -157,7 +157,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "tcarmody",
       "protected" : false,
       "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000721191414\/e1a2562f96263eb58b2261d1aaf72fbf_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000842886418\/f452c4e5818d872538c830c86af9390b_normal.jpeg",
       "id" : 14439168,
       "verified" : true
     }
@@ -1968,7 +1968,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@sweden \/ George",
+      "name" : "@sweden \/ Mattias",
       "screen_name" : "sweden",
       "indices" : [ 3, 10 ],
       "id_str" : "19663706",
@@ -1995,11 +1995,11 @@ Grailbird.data.tweets_2012_09 =
     "id" : 247404378800140288,
     "created_at" : "2012-09-16 18:39:35 +0000",
     "user" : {
-      "name" : "@sweden \/ George",
+      "name" : "@sweden \/ Mattias",
       "screen_name" : "sweden",
       "protected" : false,
       "id_str" : "19663706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000819392986\/d005625429569594864c740a93eadcce_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000849436782\/67b353471594dc394fc75b1786be9a1a_normal.png",
       "id" : 19663706,
       "verified" : false
     }
@@ -5160,7 +5160,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "783214",
       "id" : 783214
     }, {
-      "name" : "@sweden \/ George",
+      "name" : "@sweden \/ Mattias",
       "screen_name" : "sweden",
       "indices" : [ 42, 49 ],
       "id_str" : "19663706",
@@ -5191,7 +5191,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Autumn A",
+      "name" : "Autumn Leaves",
       "screen_name" : "auteurian",
       "indices" : [ 3, 13 ],
       "id_str" : "38790060",
@@ -5284,7 +5284,7 @@ Grailbird.data.tweets_2012_09 =
     "id" : 243948496930095106,
     "created_at" : "2012-09-07 05:47:09 +0000",
     "user" : {
-      "name" : "Autumn A",
+      "name" : "Autumn Leaves",
       "screen_name" : "auteurian",
       "protected" : false,
       "id_str" : "38790060",
@@ -6188,7 +6188,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "tcarmody",
       "protected" : false,
       "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000721191414\/e1a2562f96263eb58b2261d1aaf72fbf_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000842886418\/f452c4e5818d872538c830c86af9390b_normal.jpeg",
       "id" : 14439168,
       "verified" : true
     }

@@ -316,7 +316,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "jessjurick",
       "protected" : false,
       "id_str" : "21618405",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3617694279\/1fe1a8272dc8329e6d430ead6ed9c3c8_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000843618666\/fb0cc2f589740ce76a2bae74766135b4_normal.jpeg",
       "id" : 21618405,
       "verified" : false
     }
@@ -1277,7 +1277,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "dansinker",
       "protected" : false,
       "id_str" : "8119452",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000403290285\/787545f43b8f9207febc993539dc3217_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000846638176\/7b0f6f691a723c02354c08952764fab8_normal.jpeg",
       "id" : 8119452,
       "verified" : false
     }
@@ -8729,7 +8729,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Wheeler",
+      "name" : "David E. Wheeler",
       "screen_name" : "theory",
       "indices" : [ 3, 10 ],
       "id_str" : "656233",
@@ -9802,7 +9802,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "Patriccus",
       "protected" : false,
       "id_str" : "57913445",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000698227578\/541948360ed2323598e65889b2ad2163_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000836435996\/3da3b5e8e938344f7e7a029af69e1382_normal.jpeg",
       "id" : 57913445,
       "verified" : false
     }
@@ -10963,7 +10963,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000684423919\/5ad9cbc5db0fa1202cc731b2574592ad_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000867058581\/ISIvv3q2_normal.jpeg",
       "id" : 767,
       "verified" : true
     }
@@ -11828,7 +11828,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "jessjurick",
       "protected" : false,
       "id_str" : "21618405",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3617694279\/1fe1a8272dc8329e6d430ead6ed9c3c8_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000843618666\/fb0cc2f589740ce76a2bae74766135b4_normal.jpeg",
       "id" : 21618405,
       "verified" : false
     }

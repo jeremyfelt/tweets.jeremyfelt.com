@@ -147,7 +147,7 @@ Grailbird.data.tweets_2013_05 =
       "id_str" : "813286",
       "id" : 813286
     }, {
-      "name" : "The Audubon Society",
+      "name" : "Audubon",
       "screen_name" : "audubonsociety",
       "indices" : [ 94, 109 ],
       "id_str" : "19711765",
@@ -2686,7 +2686,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "bgawalt",
       "protected" : false,
       "id_str" : "194876387",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1174926201\/twitPortrait_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000837917979\/c54e5512c1938f00577448a2c2df79a3_normal.png",
       "id" : 194876387,
       "verified" : false
     }
@@ -6531,7 +6531,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "yurivictor",
       "protected" : false,
       "id_str" : "5511932",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000431068359\/5e556572cfc62e11706216c3cfc9156c_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000860592582\/3FGQtFR1_normal.jpeg",
       "id" : 5511932,
       "verified" : false
     }

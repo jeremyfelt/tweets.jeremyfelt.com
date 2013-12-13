@@ -402,7 +402,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "nickbilton",
       "protected" : false,
       "id_str" : "1586501",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3004953754\/981f9dceb963d56f998e557e81e4115f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000857036262\/96TV85Mq_normal.jpeg",
       "id" : 1586501,
       "verified" : true
     }

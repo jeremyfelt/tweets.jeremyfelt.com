@@ -3849,7 +3849,7 @@ Grailbird.data.tweets_2009_06 =
       "id_str" : "13",
       "id" : 13
     }, {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne on hiatus",
       "screen_name" : "al3x",
       "indices" : [ 9, 14 ],
       "id_str" : "18713",
@@ -3942,7 +3942,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne on hiatus",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -4023,7 +4023,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne on hiatus",
       "screen_name" : "al3x",
       "indices" : [ 9, 14 ],
       "id_str" : "18713",

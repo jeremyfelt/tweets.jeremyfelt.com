@@ -2003,7 +2003,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "chrismessina",
       "protected" : false,
       "id_str" : "1186",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000296967418\/74b3ce80097269ebc2d91b9fdc099346_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000838803046\/3c4352e71a7811b728614ca1b9167cec_normal.jpeg",
       "id" : 1186,
       "verified" : false
     }

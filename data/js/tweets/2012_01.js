@@ -670,7 +670,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "ABFalecbaldwin",
       "protected" : false,
       "id_str" : "288452305",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000114870080\/58a7f0cbe7b5bfe921d5d347607f6aeb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000842685346\/affa13ebc2f7ec07491551d70bf8609e_normal.jpeg",
       "id" : 288452305,
       "verified" : true
     }

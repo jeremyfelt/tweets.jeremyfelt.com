@@ -2764,7 +2764,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "MikeTyson",
       "protected" : false,
       "id_str" : "156132825",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000733815108\/c24e3d8b779625f92f8192246677717f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000860552830\/_CDD9A_V_normal.png",
       "id" : 156132825,
       "verified" : true
     }
@@ -6886,7 +6886,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne on hiatus",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -6923,7 +6923,7 @@ Grailbird.data.tweets_2013_09 =
     "id" : 378016402470207490,
     "created_at" : "2013-09-12 04:45:08 +0000",
     "user" : {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne on hiatus",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
@@ -9433,7 +9433,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "daljo628",
       "protected" : false,
       "id_str" : "15982239",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000809020242\/37bd6d5cb57d142c3acf61d9827b8843_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000864865132\/Knl6Bbk7_normal.jpeg",
       "id" : 15982239,
       "verified" : false
     }

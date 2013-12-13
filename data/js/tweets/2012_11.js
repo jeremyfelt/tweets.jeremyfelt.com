@@ -94,7 +94,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "5668942",
       "id" : 5668942
     }, {
-      "name" : "PandoDaily",
+      "name" : "Pando",
       "screen_name" : "PandoDaily",
       "indices" : [ 120, 131 ],
       "id_str" : "419710142",
@@ -116,7 +116,7 @@ Grailbird.data.tweets_2012_11 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "PandoDaily",
+        "name" : "Pando",
         "screen_name" : "PandoDaily",
         "indices" : [ 105, 116 ],
         "id_str" : "419710142",
@@ -1725,7 +1725,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "berkun",
       "protected" : false,
       "id_str" : "30495974",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000401465840\/15f3d66a746f653fefddd98f198c58e5_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000825792839\/f028b7a5a19718e0e4bcad31b1db6ddf_normal.jpeg",
       "id" : 30495974,
       "verified" : false
     }
@@ -2056,7 +2056,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "jessjurick",
       "protected" : false,
       "id_str" : "21618405",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3617694279\/1fe1a8272dc8329e6d430ead6ed9c3c8_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000843618666\/fb0cc2f589740ce76a2bae74766135b4_normal.jpeg",
       "id" : 21618405,
       "verified" : false
     }

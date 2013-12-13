@@ -583,7 +583,7 @@ Grailbird.data.tweets_2010_03 =
       "screen_name" : "ryansholin",
       "protected" : false,
       "id_str" : "884301",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000679637216\/5052629d729bf3279baeb8d02bd41ecc_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000832570696\/fab1c5dd10dccd7983803f6df97e482c_normal.jpeg",
       "id" : 884301,
       "verified" : false
     }
@@ -1183,7 +1183,7 @@ Grailbird.data.tweets_2010_03 =
       "id_str" : "57203",
       "id" : 57203
     }, {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne on hiatus",
       "screen_name" : "al3x",
       "indices" : [ 19, 24 ],
       "id_str" : "18713",
@@ -1206,7 +1206,7 @@ Grailbird.data.tweets_2010_03 =
     "source" : "\u003Ca href=\"http:\/\/www.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Alex Payne",
+        "name" : "Alex Payne on hiatus",
         "screen_name" : "al3x",
         "indices" : [ 3, 8 ],
         "id_str" : "18713",

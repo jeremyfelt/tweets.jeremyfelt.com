@@ -5038,11 +5038,11 @@ Grailbird.data.tweets_2011_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike Monteiro",
-      "screen_name" : "Mike_FTW",
+      "name" : "Who Knows",
+      "screen_name" : "mike_ftw",
       "indices" : [ 3, 12 ],
-      "id_str" : "2426",
-      "id" : 2426
+      "id_str" : "2228978804",
+      "id" : 2228978804
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5066,10 +5066,10 @@ Grailbird.data.tweets_2011_10 =
     "created_at" : "2011-10-06 00:15:57 +0000",
     "user" : {
       "name" : "Mike Monteiro",
-      "screen_name" : "Mike_FTW",
+      "screen_name" : "monteiro",
       "protected" : false,
       "id_str" : "2426",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000383270593\/e11918b39c4636f483a9c072a76ec18b_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000826318924\/7ba3c4d635a3f5e76106fca3534a0f74_normal.jpeg",
       "id" : 2426,
       "verified" : false
     }

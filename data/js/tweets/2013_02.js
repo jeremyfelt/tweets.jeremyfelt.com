@@ -818,7 +818,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "jessjurick",
       "protected" : false,
       "id_str" : "21618405",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3617694279\/1fe1a8272dc8329e6d430ead6ed9c3c8_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000843618666\/fb0cc2f589740ce76a2bae74766135b4_normal.jpeg",
       "id" : 21618405,
       "verified" : false
     }

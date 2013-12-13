@@ -884,7 +884,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "HrvojeKC",
       "protected" : false,
       "id_str" : "272283",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000698232106\/7594ab98fbc9b994405504a34ad63bd9_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000824671564\/2f4c777f2081eb4ad71ebcd389e1f7a9_normal.jpeg",
       "id" : 272283,
       "verified" : false
     }
@@ -9921,7 +9921,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "MikeTyson",
       "protected" : false,
       "id_str" : "156132825",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000733815108\/c24e3d8b779625f92f8192246677717f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000860552830\/_CDD9A_V_normal.png",
       "id" : 156132825,
       "verified" : true
     }

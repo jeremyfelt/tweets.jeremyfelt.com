@@ -809,7 +809,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne on hiatus",
       "screen_name" : "al3x",
       "indices" : [ 0, 5 ],
       "id_str" : "18713",
@@ -1541,7 +1541,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne on hiatus",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -1568,7 +1568,7 @@ Grailbird.data.tweets_2011_06 =
     "id" : 85528159373623298,
     "created_at" : "2011-06-28 02:01:16 +0000",
     "user" : {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne on hiatus",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
@@ -4514,7 +4514,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "abraham",
       "protected" : false,
       "id_str" : "9436992",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3258886660\/a2c58de63368c9438bd30b0f4ed2ff36_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000843645494\/cc0fb077654556a75d89802059985c3e_normal.jpeg",
       "id" : 9436992,
       "verified" : false
     }

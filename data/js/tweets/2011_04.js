@@ -994,7 +994,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joel Housman",
+      "name" : "The First Joel",
       "screen_name" : "joelhousman",
       "indices" : [ 3, 15 ],
       "id_str" : "685763",
@@ -1021,7 +1021,7 @@ Grailbird.data.tweets_2011_04 =
     "id" : 57125262948696064,
     "created_at" : "2011-04-10 16:58:18 +0000",
     "user" : {
-      "name" : "Joel Housman",
+      "name" : "The First Joel",
       "screen_name" : "joelhousman",
       "protected" : false,
       "id_str" : "685763",
@@ -1278,7 +1278,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "MikeTyson",
       "protected" : false,
       "id_str" : "156132825",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000733815108\/c24e3d8b779625f92f8192246677717f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000860552830\/_CDD9A_V_normal.png",
       "id" : 156132825,
       "verified" : true
     }
@@ -1897,7 +1897,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "MikeTyson",
       "protected" : false,
       "id_str" : "156132825",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000733815108\/c24e3d8b779625f92f8192246677717f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000860552830\/_CDD9A_V_normal.png",
       "id" : 156132825,
       "verified" : true
     }
@@ -2061,7 +2061,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000790025961\/6d9370f1b236797c2db85c642f38c998_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000860157087\/npa792kp_normal.jpeg",
       "id" : 22872643,
       "verified" : true
     }

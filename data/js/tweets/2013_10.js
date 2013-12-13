@@ -505,7 +505,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "web",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Mario Y. Peshev",
@@ -999,7 +999,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "web",
   "entities" : {
     "user_mentions" : [ {
       "name" : "SaltStack",
@@ -2257,7 +2257,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "web",
   "entities" : {
     "user_mentions" : [ {
       "name" : "David Bisset",
@@ -2338,7 +2338,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "web",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Andrew Nacin",
@@ -2495,7 +2495,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "web",
   "entities" : {
     "user_mentions" : [ {
       "name" : "WordPress ",
@@ -2551,7 +2551,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "web",
   "entities" : {
     "user_mentions" : [ {
       "name" : "John Blackbourn \u2603",
@@ -3056,7 +3056,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "web",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Zack Tollman",
@@ -3129,7 +3129,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "web",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Mitchell Hashimoto",
@@ -4499,7 +4499,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "web",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer \u262E",
@@ -4655,7 +4655,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "web",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Mark Jaquith",
@@ -4730,7 +4730,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "web",
   "entities" : {
     "user_mentions" : [ {
       "name" : "WordPress ",
@@ -4824,7 +4824,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "web",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Andrea Middleton",
@@ -5071,7 +5071,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "web",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Andrew Spittle",
@@ -5568,7 +5568,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "web",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Weston Ruter \u26A1",
@@ -5876,7 +5876,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "web",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Mitchell Hashimoto",
@@ -6072,7 +6072,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "web",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Gina Trapani",
@@ -6244,7 +6244,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "web",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Lance Willett",
@@ -6655,7 +6655,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "web",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Andrew Spittle",
@@ -10903,7 +10903,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "DeFries",
       "protected" : false,
       "id_str" : "14264386",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2919330685\/e3cfc801c9471b3d26c23fcbdf9e25b0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000862048221\/iHRf2k0__normal.jpeg",
       "id" : 14264386,
       "verified" : false
     }

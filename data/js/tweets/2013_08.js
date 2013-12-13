@@ -3990,7 +3990,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne on hiatus",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -4022,7 +4022,7 @@ Grailbird.data.tweets_2013_08 =
     "id" : 369588010628964352,
     "created_at" : "2013-08-19 22:33:43 +0000",
     "user" : {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne on hiatus",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
@@ -4760,7 +4760,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "elonmusk",
       "protected" : false,
       "id_str" : "44196397",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3467595996\/f82c4a3235eb180360d9ff670e092e02_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000833608415\/f48f19ec554c5cab7ae6cbb298ac798b_normal.png",
       "id" : 44196397,
       "verified" : true
     }
@@ -11212,7 +11212,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "Jaffe75",
       "protected" : false,
       "id_str" : "138816363",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3365332555\/44a9b28449698612a88e76b375a64da1_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000826241427\/0248844ab478ab6dc27aab3f607e363a_normal.jpeg",
       "id" : 138816363,
       "verified" : false
     }

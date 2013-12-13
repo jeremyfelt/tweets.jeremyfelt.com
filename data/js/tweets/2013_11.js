@@ -2953,7 +2953,7 @@ Grailbird.data.tweets_2013_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "web",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ilya Grigorik",
@@ -4827,7 +4827,7 @@ Grailbird.data.tweets_2013_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "web",
   "entities" : {
     "user_mentions" : [ {
       "name" : "dan sinker ",
@@ -4878,7 +4878,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "dansinker",
       "protected" : false,
       "id_str" : "8119452",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000403290285\/787545f43b8f9207febc993539dc3217_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000846638176\/7b0f6f691a723c02354c08952764fab8_normal.jpeg",
       "id" : 8119452,
       "verified" : false
     }
@@ -5409,7 +5409,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "Jaffe75",
       "protected" : false,
       "id_str" : "138816363",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3365332555\/44a9b28449698612a88e76b375a64da1_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000826241427\/0248844ab478ab6dc27aab3f607e363a_normal.jpeg",
       "id" : 138816363,
       "verified" : false
     }
@@ -5534,7 +5534,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "daljo628",
       "protected" : false,
       "id_str" : "15982239",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000809020242\/37bd6d5cb57d142c3acf61d9827b8843_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000864865132\/Knl6Bbk7_normal.jpeg",
       "id" : 15982239,
       "verified" : false
     }
@@ -5761,7 +5761,7 @@ Grailbird.data.tweets_2013_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "web",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Brian Richards",
@@ -6779,7 +6779,7 @@ Grailbird.data.tweets_2013_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "web",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Andrew Nacin",
@@ -7522,7 +7522,7 @@ Grailbird.data.tweets_2013_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "web",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Amazing Maps",
@@ -9748,7 +9748,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "dansinker",
       "protected" : false,
       "id_str" : "8119452",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000403290285\/787545f43b8f9207febc993539dc3217_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000846638176\/7b0f6f691a723c02354c08952764fab8_normal.jpeg",
       "id" : 8119452,
       "verified" : false
     }

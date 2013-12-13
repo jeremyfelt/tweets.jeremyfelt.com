@@ -2792,7 +2792,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "10876852",
       "id" : 10876852
     }, {
-      "name" : "PandoDaily",
+      "name" : "Pando",
       "screen_name" : "PandoDaily",
       "indices" : [ 106, 117 ],
       "id_str" : "419710142",
