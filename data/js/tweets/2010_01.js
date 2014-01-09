@@ -1485,6 +1485,18 @@ Grailbird.data.tweets_2010_01 =
       "indices" : [ 116, 123 ],
       "id_str" : "33933259",
       "id" : 33933259
+    }, {
+      "name" : "Save the Children",
+      "screen_name" : "SavetheChildren",
+      "indices" : [ 139, 140 ],
+      "id_str" : "14055301",
+      "id" : 14055301
+    }, {
+      "name" : "CAREUSA (care.org)",
+      "screen_name" : "CARE",
+      "indices" : [ 139, 140 ],
+      "id_str" : "16834046",
+      "id" : 16834046
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2221,13 +2233,7 @@ Grailbird.data.tweets_2010_01 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sandra O'Brien",
-      "screen_name" : "sjcobrien",
-      "indices" : [ 3, 13 ],
-      "id_str" : "493287958",
-      "id" : 493287958
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2729,7 +2735,7 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Falalalala-la-Ladama",
+      "name" : "Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",

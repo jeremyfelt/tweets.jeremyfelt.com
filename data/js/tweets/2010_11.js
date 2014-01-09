@@ -339,7 +339,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "zseward",
       "protected" : false,
       "id_str" : "19430233",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1426523909\/Me_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/411626474232217600\/pgFK3c9k_normal.jpeg",
       "id" : 19430233,
       "verified" : true
     }
@@ -415,7 +415,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "nickbilton",
       "protected" : false,
       "id_str" : "1586501",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000857036262\/96TV85Mq_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416958679108157440\/tqu7CYlw_normal.jpeg",
       "id" : 1586501,
       "verified" : true
     }
@@ -1732,13 +1732,7 @@ Grailbird.data.tweets_2010_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lachlan Markay",
-      "screen_name" : "LachlanMarkay",
-      "indices" : [ 3, 17 ],
-      "id_str" : "726644606",
-      "id" : 726644606
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "TSAslogans",
@@ -1770,7 +1764,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "lachlan",
       "protected" : false,
       "id_str" : "15742985",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000748078840\/5da90092f10eed8c1955cecd2b853d6a_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/418789144261705728\/igrS_s95_normal.png",
       "id" : 15742985,
       "verified" : false
     }
@@ -2193,7 +2187,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Falalalala-la-Ladama",
+      "name" : "Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -3220,13 +3214,7 @@ Grailbird.data.tweets_2010_11 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Who Knows",
-      "screen_name" : "mike_ftw",
-      "indices" : [ 3, 12 ],
-      "id_str" : "2228978804",
-      "id" : 2228978804
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3252,7 +3240,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "monteiro",
       "protected" : false,
       "id_str" : "2426",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000826318924\/7ba3c4d635a3f5e76106fca3534a0f74_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416099492648075264\/1Dv6Y8W4_normal.jpeg",
       "id" : 2426,
       "verified" : false
     }

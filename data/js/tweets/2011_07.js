@@ -1366,7 +1366,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Holly Baubles",
+      "name" : "Jonuary Marbles",
       "screen_name" : "JonnieMarbLes",
       "indices" : [ 35, 49 ],
       "id_str" : "17201202",
@@ -1397,7 +1397,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Holly Baubles",
+      "name" : "Jonuary Marbles",
       "screen_name" : "JonnieMarbLes",
       "indices" : [ 3, 17 ],
       "id_str" : "17201202",
@@ -1424,7 +1424,7 @@ Grailbird.data.tweets_2011_07 =
     "id" : 93065424387842048,
     "created_at" : "2011-07-18 21:11:40 +0000",
     "user" : {
-      "name" : "Holly Baubles",
+      "name" : "Jonuary Marbles",
       "screen_name" : "JonnieMarbLes",
       "protected" : false,
       "id_str" : "17201202",
@@ -1447,13 +1447,7 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "AlecBaldwin",
-      "screen_name" : "AlecBaldwin",
-      "indices" : [ 3, 15 ],
-      "id_str" : "703808448",
-      "id" : 703808448
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2054,15 +2048,15 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Not Sam",
-      "screen_name" : "MayorSamAdams",
-      "indices" : [ 3, 17 ],
-      "id_str" : "1056504300",
-      "id" : 1056504300
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "pdx",
+      "indices" : [ 139, 140 ]
+    }, {
+      "text" : "banthebag",
+      "indices" : [ 139, 140 ]
+    } ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -2467,13 +2461,7 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "AlecBaldwin",
-      "screen_name" : "AlecBaldwin",
-      "indices" : [ 3, 15 ],
-      "id_str" : "703808448",
-      "id" : 703808448
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2599,7 +2587,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "AntDeRosa",
       "protected" : false,
       "id_str" : "1140451",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000806194292\/c215139a2ec9f6f1bd8e5e8cbb125978_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416251441557143552\/zbtv4WAh_normal.png",
       "id" : 1140451,
       "verified" : true
     }
@@ -2653,7 +2641,10 @@ Grailbird.data.tweets_2011_07 =
       "id" : 14701006
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "twitter",
+      "indices" : [ 139, 140 ]
+    } ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -2845,7 +2836,10 @@ Grailbird.data.tweets_2011_07 =
       "id" : 2384071
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "SocialCongress",
+      "indices" : [ 139, 140 ]
+    } ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -2910,7 +2904,10 @@ Grailbird.data.tweets_2011_07 =
       "id" : 2384071
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "SocialCongress",
+      "indices" : [ 139, 140 ]
+    } ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -4202,7 +4199,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "tcarmody",
       "protected" : false,
       "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000842886418\/f452c4e5818d872538c830c86af9390b_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/418144339001614336\/6eMyTR_G_normal.jpeg",
       "id" : 14439168,
       "verified" : true
     }

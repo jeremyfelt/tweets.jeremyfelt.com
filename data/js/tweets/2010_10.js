@@ -309,7 +309,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "tbogg",
       "protected" : false,
       "id_str" : "23365626",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000825807332\/153ac84e610777601e1a350ba1ec612e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416040149831925760\/sNK1ACjm_normal.jpeg",
       "id" : 23365626,
       "verified" : false
     }
@@ -1044,6 +1044,12 @@ Grailbird.data.tweets_2010_10 =
       "name" : "The New York Times",
       "screen_name" : "nytimes",
       "indices" : [ 44, 52 ],
+      "id_str" : "807095",
+      "id" : 807095
+    }, {
+      "name" : "The New York Times",
+      "screen_name" : "nytimes",
+      "indices" : [ 139, 140 ],
       "id_str" : "807095",
       "id" : 807095
     } ],
@@ -1804,7 +1810,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "iaindodsworth",
       "protected" : false,
       "id_str" : "14148963",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000118554371\/cb3132aa72fa5f3011f6fb079bb924a9_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/417321487700611072\/jRGb1CgU_normal.jpeg",
       "id" : 14148963,
       "verified" : false
     }
@@ -2298,7 +2304,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Falalalala-la-Ladama",
+      "name" : "Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -3407,7 +3413,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chris dixon",
+      "name" : "Chris Dixon",
       "screen_name" : "cdixon",
       "indices" : [ 3, 10 ],
       "id_str" : "2529971",
@@ -3434,7 +3440,7 @@ Grailbird.data.tweets_2010_10 =
     "id" : 27173752035,
     "created_at" : "2010-10-12 21:06:48 +0000",
     "user" : {
-      "name" : "chris dixon",
+      "name" : "Chris Dixon",
       "screen_name" : "cdixon",
       "protected" : false,
       "id_str" : "2529971",
@@ -4755,7 +4761,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Evan Williams",
+      "name" : "Ev Williams",
       "screen_name" : "ev",
       "indices" : [ 3, 6 ],
       "id_str" : "20",
@@ -4794,7 +4800,7 @@ Grailbird.data.tweets_2010_10 =
     "id" : 26415067001,
     "created_at" : "2010-10-05 01:27:41 +0000",
     "user" : {
-      "name" : "Evan Williams",
+      "name" : "Ev Williams",
       "screen_name" : "ev",
       "protected" : false,
       "id_str" : "20",
@@ -4879,13 +4885,7 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "The Atlantic Wire",
-      "screen_name" : "TheAtlanticWire",
-      "indices" : [ 3, 19 ],
-      "id_str" : "1947084786",
-      "id" : 1947084786
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

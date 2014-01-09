@@ -915,7 +915,12 @@ Grailbird.data.tweets_2013_10 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "https:\/\/t.co\/RiEMsrxnL0",
+      "expanded_url" : "https:\/\/github.com\/x-team\/varying-vagrant-vagrants\/pull\/1",
+      "display_url" : "github.com\/x-team\/varying\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "395344996800266240",
@@ -943,7 +948,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "simonwheatley",
       "protected" : false,
       "id_str" : "4371541",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000556704269\/dd0090e965abb584cbb08ebb4621f36e_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/419412315138949120\/4zea4f5__normal.jpeg",
       "id" : 4371541,
       "verified" : false
     }
@@ -2055,6 +2060,12 @@ Grailbird.data.tweets_2013_10 =
       "indices" : [ 26, 41 ],
       "id_str" : "29935051",
       "id" : 29935051
+    }, {
+      "name" : "Frankie Jarrett",
+      "screen_name" : "fjarrett",
+      "indices" : [ 139, 140 ],
+      "id_str" : "14346337",
+      "id" : 14346337
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -2266,7 +2277,37 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "13831362",
       "id" : 13831362
     } ],
-    "media" : [ ],
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/dimensionmedia\/status\/393516750299340801\/photo\/1",
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/6Y8IwzpDGd",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/BXYNZjdCUAA53ua.png",
+      "id_str" : "393516750106415104",
+      "id" : 393516750106415104,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BXYNZjdCUAA53ua.png",
+      "sizes" : [ {
+        "h" : 656,
+        "resize" : "fit",
+        "w" : 719
+      }, {
+        "h" : 547,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 656,
+        "resize" : "fit",
+        "w" : 719
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 310,
+        "resize" : "fit",
+        "w" : 340
+      } ],
+      "display_url" : "pic.twitter.com\/6Y8IwzpDGd"
+    } ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
@@ -2506,7 +2547,12 @@ Grailbird.data.tweets_2013_10 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/PA0Swp47Rh",
+      "expanded_url" : "http:\/\/wordpress.org\/news\/2013\/10\/basie\/",
+      "display_url" : "wordpress.org\/news\/2013\/10\/b\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "393506868342951936",
@@ -2554,7 +2600,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Blackbourn \u2603",
+      "name" : "John Blackbourn",
       "screen_name" : "johnbillion",
       "indices" : [ 3, 15 ],
       "id_str" : "79053835",
@@ -2587,7 +2633,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 393471020956282880,
     "created_at" : "2013-10-24 20:16:16 +0000",
     "user" : {
-      "name" : "John Blackbourn \u2603",
+      "name" : "John Blackbourn \u272A",
       "screen_name" : "johnbillion",
       "protected" : false,
       "id_str" : "79053835",
@@ -2851,7 +2897,12 @@ Grailbird.data.tweets_2013_10 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/2UfmbZHn7w",
+      "expanded_url" : "http:\/\/science.time.com\/2013\/10\/22\/the-united-states-of-attitude-an-interactive-guide-to-americas-moods\/",
+      "display_url" : "science.time.com\/2013\/10\/22\/the\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "393208640678547456",
@@ -3140,7 +3191,12 @@ Grailbird.data.tweets_2013_10 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/biaQwSSePT",
+      "expanded_url" : "http:\/\/www.serfdom.io\/",
+      "display_url" : "serfdom.io"
+    } ]
   },
   "geo" : { },
   "id_str" : "393059591941914624",
@@ -3404,7 +3460,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3398",
+      "name" : "Kailey",
       "screen_name" : "trepmal",
       "indices" : [ 0, 8 ],
       "id_str" : "19574066",
@@ -4024,7 +4080,12 @@ Grailbird.data.tweets_2013_10 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/CNikZK7REm",
+      "expanded_url" : "http:\/\/www.washingtonpost.com\/national\/health-science\/experts-working-to-fix-healthcaregov-insurance-marketplace-officials-say\/2013\/10\/20\/1e1a35ce-39b4-11e3-a94f-b58017bfee6c_story.html",
+      "display_url" : "washingtonpost.com\/national\/healt\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "392127180861231104",
@@ -4604,7 +4665,12 @@ Grailbird.data.tweets_2013_10 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "https:\/\/t.co\/Y4r7uThrcl",
+      "expanded_url" : "https:\/\/dl.dropbox.com\/s\/vd9bky4dqp1xqog\/1_12803212_20131018_161944.png",
+      "display_url" : "dl.dropbox.com\/s\/vd9bky4dqp1x\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "391396538024329216",
@@ -4835,7 +4901,12 @@ Grailbird.data.tweets_2013_10 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 143, 144 ],
+      "url" : "http:\/\/t.co\/8kuxRouddN",
+      "expanded_url" : "http:\/\/make.wordpress.org\/community\/2013\/10\/18\/licking-the-wordcamp-cookie\/",
+      "display_url" : "make.wordpress.org\/community\/2013\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "391238022772953088",
@@ -5182,7 +5253,12 @@ Grailbird.data.tweets_2013_10 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 143, 144 ],
+      "url" : "http:\/\/t.co\/RvD3Grgr5x",
+      "expanded_url" : "http:\/\/2.dashes.com\/1cYxc3p",
+      "display_url" : "2.dashes.com\/1cYxc3p"
+    } ]
   },
   "geo" : { },
   "id_str" : "390841196215816193",
@@ -5238,7 +5314,12 @@ Grailbird.data.tweets_2013_10 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/yctOPn8nsB",
+      "expanded_url" : "http:\/\/input.nerdery.com\/accessibility-webinar\/",
+      "display_url" : "input.nerdery.com\/accessibility-\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "390837270913105920",
@@ -5892,6 +5973,11 @@ Grailbird.data.tweets_2013_10 =
       "url" : "https:\/\/t.co\/saBOnsa9Z2",
       "expanded_url" : "https:\/\/github.com\/mitchellh\/vagrant\/blob\/v1.3.5\/CHANGELOG.md#135-october-15-2013",
       "display_url" : "github.com\/mitchellh\/vagr\u2026"
+    }, {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/oncK4tjLbQ",
+      "expanded_url" : "http:\/\/downloads.vagrantup.com\/",
+      "display_url" : "downloads.vagrantup.com"
     } ]
   },
   "geo" : { },
@@ -10571,7 +10657,10 @@ Grailbird.data.tweets_2013_10 =
       "id" : 7652262
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "wceu",
+      "indices" : [ 139, 140 ]
+    } ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -10643,6 +10732,9 @@ Grailbird.data.tweets_2013_10 =
     }, {
       "text" : "wpto2013",
       "indices" : [ 130, 139 ]
+    }, {
+      "text" : "wpto",
+      "indices" : [ 139, 140 ]
     } ],
     "urls" : [ {
       "indices" : [ 91, 113 ],
@@ -10731,7 +10823,10 @@ Grailbird.data.tweets_2013_10 =
       "id" : 7851962
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "wcto",
+      "indices" : [ 139, 140 ]
+    } ],
     "urls" : [ {
       "indices" : [ 85, 108 ],
       "url" : "https:\/\/t.co\/7k4mgYc3pz",
@@ -10936,7 +11031,10 @@ Grailbird.data.tweets_2013_10 =
       "id" : 743301540
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "wceu",
+      "indices" : [ 139, 140 ]
+    } ],
     "urls" : [ ]
   },
   "geo" : { },

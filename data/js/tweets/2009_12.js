@@ -1404,7 +1404,7 @@ Grailbird.data.tweets_2009_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -1431,7 +1431,7 @@ Grailbird.data.tweets_2009_12 =
     "id" : 6313327688,
     "created_at" : "2009-12-03 20:00:16 +0000",
     "user" : {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",

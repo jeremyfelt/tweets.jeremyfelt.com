@@ -638,13 +638,7 @@ Grailbird.data.tweets_2012_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003EMobile Web\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "AlecBaldwin",
-      "screen_name" : "AlecBaldwin",
-      "indices" : [ 3, 15 ],
-      "id_str" : "703808448",
-      "id" : 703808448
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

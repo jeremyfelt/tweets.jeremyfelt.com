@@ -1539,12 +1539,15 @@ Grailbird.data.tweets_2010_06 =
     "user_mentions" : [ {
       "name" : "Steve",
       "screen_name" : "ceoSteveJobs",
-      "indices" : [ 41, 54 ],
+      "indices" : [ 139, 140 ],
       "id_str" : "259829550",
       "id" : 259829550
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "true",
+      "indices" : [ 139, 140 ]
+    } ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -2391,13 +2394,7 @@ Grailbird.data.tweets_2010_06 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u0421\u0435\u0440\u0433\u0435\u0439 \u041F\u0430\u043D\u043E\u0432",
-      "screen_name" : "afg85",
-      "indices" : [ 3, 9 ],
-      "id_str" : "457631513",
-      "id" : 457631513
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3796,7 +3793,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "RodBegbie",
       "protected" : false,
       "id_str" : "761",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000825873682\/6b862bff9639f3c8e87d2036a81002b4_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/417154731614547968\/gYEcpT8h_normal.jpeg",
       "id" : 761,
       "verified" : false
     }
@@ -3984,7 +3981,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -4011,7 +4008,7 @@ Grailbird.data.tweets_2010_06 =
     "id" : 15801693813,
     "created_at" : "2010-06-09 20:53:54 +0000",
     "user" : {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
@@ -4315,7 +4312,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "cubanalaf",
       "protected" : false,
       "id_str" : "15377897",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000811700693\/0c282e6a21a37fa5a2934a50aee4b859_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/419998054646034432\/V1uozhTm_normal.jpeg",
       "id" : 15377897,
       "verified" : false
     }
@@ -5198,7 +5195,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000860157087\/npa792kp_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416645507331547136\/FC120jmh_normal.jpeg",
       "id" : 22872643,
       "verified" : true
     }
@@ -5423,7 +5420,10 @@ Grailbird.data.tweets_2010_06 =
       "id" : 740983
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "d8",
+      "indices" : [ 139, 140 ]
+    } ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -5635,7 +5635,10 @@ Grailbird.data.tweets_2010_06 =
       "id" : 147772188
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "gohome",
+      "indices" : [ 139, 140 ]
+    } ],
     "urls" : [ ]
   },
   "geo" : { },

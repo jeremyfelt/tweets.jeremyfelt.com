@@ -183,7 +183,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "derickbailey",
       "protected" : false,
       "id_str" : "14766954",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000534155588\/8556a65d2b08698580683afadea3bdd2_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/421049753158172672\/nvW5Kr7T_normal.jpeg",
       "id" : 14766954,
       "verified" : false
     }
@@ -343,7 +343,12 @@ Grailbird.data.tweets_2013_08 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "https:\/\/t.co\/Y6HZ4p5e1m",
+      "expanded_url" : "https:\/\/github.com\/mitchellh\/vagrant\/commit\/93d5182230ac564aacc38da30f0777d67b390373",
+      "display_url" : "github.com\/mitchellh\/vagr\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "373241691471220736",
@@ -476,7 +481,12 @@ Grailbird.data.tweets_2013_08 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "https:\/\/t.co\/WUvztiqumv",
+      "expanded_url" : "https:\/\/gist.github.com\/piscisaureus\/3342247",
+      "display_url" : "gist.github.com\/piscisaureus\/3\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "373144092919599106",
@@ -2636,8 +2646,11 @@ Grailbird.data.tweets_2013_08 =
     } ],
     "media" : [ ],
     "hashtags" : [ {
-      "text" : "ja",
-      "indices" : [ 136, 139 ]
+      "text" : "javascript",
+      "indices" : [ 136, 140 ]
+    }, {
+      "text" : "js",
+      "indices" : [ 139, 140 ]
     } ],
     "urls" : [ {
       "indices" : [ 90, 112 ],
@@ -3990,7 +4003,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -3998,7 +4011,12 @@ Grailbird.data.tweets_2013_08 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "https:\/\/t.co\/nQP1QYwk0K",
+      "expanded_url" : "https:\/\/github.com\/al3x\/sovereign",
+      "display_url" : "github.com\/al3x\/sovereign"
+    } ]
   },
   "geo" : { },
   "id_str" : "369904000608391168",
@@ -4022,7 +4040,7 @@ Grailbird.data.tweets_2013_08 =
     "id" : 369588010628964352,
     "created_at" : "2013-08-19 22:33:43 +0000",
     "user" : {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
@@ -4760,7 +4778,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "elonmusk",
       "protected" : false,
       "id_str" : "44196397",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000833608415\/f48f19ec554c5cab7ae6cbb298ac798b_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420314816444502016\/xj5TnUsx_normal.jpeg",
       "id" : 44196397,
       "verified" : true
     }
@@ -5132,7 +5150,10 @@ Grailbird.data.tweets_2013_08 =
       "id" : 1741681
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "WordPress",
+      "indices" : [ 139, 140 ]
+    } ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -5416,7 +5437,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "evansolomon",
       "protected" : false,
       "id_str" : "9569062",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000741823321\/688c6da6e6b541ba9959a145c65e59a7_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/417962695736823808\/ayJtqEHy_normal.jpeg",
       "id" : 9569062,
       "verified" : false
     }
@@ -6109,11 +6130,11 @@ Grailbird.data.tweets_2013_08 =
       "id_str" : "20131645",
       "id" : 20131645
     }, {
-      "name" : "Jeremy Selier",
-      "screen_name" : "jerem",
-      "indices" : [ 133, 139 ],
-      "id_str" : "7011892",
-      "id" : 7011892
+      "name" : "Jeremy Felt",
+      "screen_name" : "jeremyfelt",
+      "indices" : [ 133, 140 ],
+      "id_str" : "1741681",
+      "id" : 1741681
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -8745,8 +8766,16 @@ Grailbird.data.tweets_2013_08 =
       "id" : 18030695
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
+    "hashtags" : [ {
+      "text" : "wcyvr",
+      "indices" : [ 139, 140 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/HjxwRwtbpL",
+      "expanded_url" : "http:\/\/2013.vancouver.wordcamp.org\/2013\/08\/12\/georgia-straight-sponsor-washington-state-university\/",
+      "display_url" : "2013.vancouver.wordcamp.org\/2013\/08\/12\/geo\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "367470163999731712",
@@ -9277,7 +9306,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Falalalala-la-Ladama",
+      "name" : "Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -10153,7 +10182,12 @@ Grailbird.data.tweets_2013_08 =
       "text" : "wcpdx",
       "indices" : [ 55, 61 ]
     } ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/2jVFbQyRYQ",
+      "expanded_url" : "http:\/\/bit.ly\/14FWQqP",
+      "display_url" : "bit.ly\/14FWQqP"
+    } ]
   },
   "geo" : { },
   "id_str" : "366763107365830656",
@@ -11848,7 +11882,12 @@ Grailbird.data.tweets_2013_08 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "https:\/\/t.co\/8k65TNKdNT",
+      "expanded_url" : "https:\/\/github.com\/humanmade\/Salty-WordPress",
+      "display_url" : "github.com\/humanmade\/Salt\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "365630407808524289",
@@ -12591,7 +12630,12 @@ Grailbird.data.tweets_2013_08 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/ewZosqUiPR",
+      "expanded_url" : "http:\/\/demo.thethemefoundry.com\/collections-theme\/",
+      "display_url" : "demo.thethemefoundry.com\/collections-th\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "364777688663203843",
@@ -14171,10 +14215,21 @@ Grailbird.data.tweets_2013_08 =
       "indices" : [ 80, 93 ],
       "id_str" : "35170394",
       "id" : 35170394
+    }, {
+      "name" : "Jeremy Felt",
+      "screen_name" : "jeremyfelt",
+      "indices" : [ 139, 140 ],
+      "id_str" : "1741681",
+      "id" : 1741681
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "https:\/\/t.co\/iPtyctsX3V",
+      "expanded_url" : "https:\/\/github.com\/10up\/varying-vagrant-vagrants\/wiki\/Proxying-network-traffic-for-inspection",
+      "display_url" : "github.com\/10up\/varying-v\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "362960840292450305",
@@ -14214,7 +14269,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "simonwheatley",
       "protected" : false,
       "id_str" : "4371541",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000556704269\/dd0090e965abb584cbb08ebb4621f36e_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/419412315138949120\/4zea4f5__normal.jpeg",
       "id" : 4371541,
       "verified" : false
     }

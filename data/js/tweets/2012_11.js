@@ -202,7 +202,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "mathowie",
       "protected" : false,
       "id_str" : "761975",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000387205049\/d71a8b2e6dfc2d93df1a174001c2120f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/418833637090394112\/ERazU_Ik_normal.jpeg",
       "id" : 761975,
       "verified" : false
     }
@@ -390,6 +390,12 @@ Grailbird.data.tweets_2012_11 =
       "indices" : [ 3, 9 ],
       "id_str" : "17101544",
       "id" : 17101544
+    }, {
+      "name" : "anu",
+      "screen_name" : "anu",
+      "indices" : [ 139, 140 ],
+      "id_str" : "5676",
+      "id" : 5676
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1267,10 +1273,10 @@ Grailbird.data.tweets_2012_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 122, 136 ],
-      "url" : "https:\/\/t.co\/a",
-      "expanded_url" : "https:\/\/twitter.com\/adlleong",
-      "display_url" : "twitter.com\/adlleong"
+      "indices" : [ 122, 140 ],
+      "url" : "https:\/\/t.co\/aaX9zxEL",
+      "expanded_url" : "https:\/\/github.com\/tollmanz\/ostrichcize",
+      "display_url" : "github.com\/tollmanz\/ostri\u2026"
     } ]
   },
   "geo" : { },
@@ -2007,7 +2013,10 @@ Grailbird.data.tweets_2012_11 =
       "id" : 15436236
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "team10up",
+      "indices" : [ 139, 140 ]
+    } ],
     "urls" : [ {
       "indices" : [ 29, 49 ],
       "url" : "http:\/\/t.co\/jEKM8KsY",
@@ -3882,7 +3891,10 @@ Grailbird.data.tweets_2012_11 =
       "id" : 262647783
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "drunknatesilver",
+      "indices" : [ 139, 140 ]
+    } ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -4393,7 +4405,12 @@ Grailbird.data.tweets_2012_11 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/guuFatEd",
+      "expanded_url" : "http:\/\/www.mittromney.com\/",
+      "display_url" : "mittromney.com"
+    } ]
   },
   "geo" : { },
   "id_str" : "266067023279300610",
@@ -4427,7 +4444,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "davidfolkenflik",
       "protected" : false,
       "id_str" : "11621822",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2394905097\/fnvqwl1bw1xo6vmzcr9w_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/418857387206774784\/WeWgiLSb_normal.jpeg",
       "id" : 11621822,
       "verified" : false
     }
@@ -4881,7 +4898,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "sarcasymptote",
       "protected" : false,
       "id_str" : "137008259",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000679549706\/b599ad6362f1fce306346db858aeb594_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413178321217024000\/ug_muk1x_normal.jpeg",
       "id" : 137008259,
       "verified" : false
     }
@@ -5854,8 +5871,8 @@ Grailbird.data.tweets_2012_11 =
       "name" : "NPR news apps",
       "screen_name" : "nprapps",
       "indices" : [ 54, 62 ],
-      "id_str" : "582282558",
-      "id" : 582282558
+      "id_str" : "2226863863",
+      "id" : 2226863863
     } ],
     "media" : [ ],
     "hashtags" : [ ],

@@ -343,7 +343,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Falalalala-la-Ladama",
+      "name" : "Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -407,7 +407,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000860157087\/npa792kp_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416645507331547136\/FC120jmh_normal.jpeg",
       "id" : 22872643,
       "verified" : true
     }
@@ -578,7 +578,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000860157087\/npa792kp_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416645507331547136\/FC120jmh_normal.jpeg",
       "id" : 22872643,
       "verified" : true
     }
@@ -1285,7 +1285,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "jilliancyork",
       "protected" : false,
       "id_str" : "14048901",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000822352562\/dee807d317607587b855725386c87000_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420406193132019712\/V-vu7Itr_normal.png",
       "id" : 14048901,
       "verified" : false
     }
@@ -1472,6 +1472,9 @@ Grailbird.data.tweets_2011_02 =
     }, {
       "text" : "Gaddafi",
       "indices" : [ 49, 57 ]
+    }, {
+      "text" : "Libya",
+      "indices" : [ 139, 140 ]
     } ],
     "urls" : [ ]
   },
@@ -1819,7 +1822,12 @@ Grailbird.data.tweets_2011_02 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/pksvAbr",
+      "expanded_url" : "http:\/\/community.adn.com\/?q=adn\/blog\/24417",
+      "display_url" : "community.adn.com\/?q=adn\/blog\/24\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "38788737903239168",
@@ -2889,6 +2897,12 @@ Grailbird.data.tweets_2011_02 =
     "hashtags" : [ {
       "text" : "tahrir",
       "indices" : [ 127, 134 ]
+    }, {
+      "text" : "Egypt",
+      "indices" : [ 139, 140 ]
+    }, {
+      "text" : "Jan25",
+      "indices" : [ 139, 140 ]
     } ],
     "urls" : [ ]
   },
@@ -3579,7 +3593,13 @@ Grailbird.data.tweets_2011_02 =
       "id" : 5724622
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "Jan25",
+      "indices" : [ 139, 140 ]
+    }, {
+      "text" : "Egypt",
+      "indices" : [ 139, 140 ]
+    } ],
     "urls" : [ ]
   },
   "geo" : { },

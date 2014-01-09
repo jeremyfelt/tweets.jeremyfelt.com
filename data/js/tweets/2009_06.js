@@ -3837,7 +3837,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Evan Williams",
+      "name" : "Ev Williams",
       "screen_name" : "ev",
       "indices" : [ 0, 3 ],
       "id_str" : "20",
@@ -3849,7 +3849,7 @@ Grailbird.data.tweets_2009_06 =
       "id_str" : "13",
       "id" : 13
     }, {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 9, 14 ],
       "id_str" : "18713",
@@ -3942,7 +3942,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -4023,7 +4023,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 9, 14 ],
       "id_str" : "18713",
@@ -8418,11 +8418,11 @@ Grailbird.data.tweets_2009_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "M. Giannii Calvert",
+      "name" : "M.Giannii Calvert",
       "screen_name" : "giannii",
       "indices" : [ 0, 8 ],
-      "id_str" : "1048934948",
-      "id" : 1048934948
+      "id_str" : "378971293",
+      "id" : 378971293
     } ],
     "media" : [ ],
     "hashtags" : [ ],

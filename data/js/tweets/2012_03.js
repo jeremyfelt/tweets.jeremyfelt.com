@@ -78,12 +78,6 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ZackDev",
-      "screen_name" : "zack_dev",
-      "indices" : [ 3, 12 ],
-      "id_str" : "984928884",
-      "id" : 984928884
-    }, {
       "name" : "Helen Hou-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 120, 134 ],

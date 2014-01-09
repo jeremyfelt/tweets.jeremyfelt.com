@@ -181,7 +181,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000860157087\/npa792kp_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416645507331547136\/FC120jmh_normal.jpeg",
       "id" : 22872643,
       "verified" : true
     }
@@ -2097,7 +2097,12 @@ Grailbird.data.tweets_2012_10 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/CFTHVhIY",
+      "expanded_url" : "http:\/\/10up.com\/about\/#employee-zachary",
+      "display_url" : "10up.com\/about\/#employe\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "260534624965517313",
@@ -2270,7 +2275,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "technosailor",
       "protected" : false,
       "id_str" : "789158",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000852858702\/a4aac95e8a4c68d2c3a21ef6bdfcb8a7_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/417488563660263424\/pMUN6oPc_normal.jpeg",
       "id" : 789158,
       "verified" : false
     }
@@ -3479,7 +3484,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "nickbilton",
       "protected" : false,
       "id_str" : "1586501",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000857036262\/96TV85Mq_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416958679108157440\/tqu7CYlw_normal.jpeg",
       "id" : 1586501,
       "verified" : true
     }
@@ -4042,11 +4047,11 @@ Grailbird.data.tweets_2012_10 =
       "id_str" : "61380376",
       "id" : 61380376
     }, {
-      "name" : "car",
-      "screen_name" : "car",
-      "indices" : [ 132, 136 ],
-      "id_str" : "1676357544",
-      "id" : 1676357544
+      "name" : "Carl Danley",
+      "screen_name" : "carldanley",
+      "indices" : [ 132, 140 ],
+      "id_str" : "37747812",
+      "id" : 37747812
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -4850,7 +4855,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "waxpancake",
       "protected" : false,
       "id_str" : "13461",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000769512512\/70a13dfa2d062680224c4d05889f8f67_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416642320574844928\/Gz7V2B6r_normal.jpeg",
       "id" : 13461,
       "verified" : false
     }
@@ -5243,7 +5248,10 @@ Grailbird.data.tweets_2012_10 =
       "id" : 335110427
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "wcyvr",
+      "indices" : [ 139, 140 ]
+    } ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -7825,13 +7833,7 @@ Grailbird.data.tweets_2012_10 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : " .",
-      "screen_name" : "FIREDBIGBIRD",
-      "indices" : [ 3, 16 ],
-      "id_str" : "2192230986",
-      "id" : 2192230986
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {

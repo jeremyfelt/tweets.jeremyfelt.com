@@ -411,7 +411,7 @@ Grailbird.data.tweets_2012_04 =
       "id_str" : "21204689",
       "id" : 21204689
     }, {
-      "name" : "\u3398",
+      "name" : "Kailey",
       "screen_name" : "trepmal",
       "indices" : [ 15, 23 ],
       "id_str" : "19574066",
@@ -599,7 +599,7 @@ Grailbird.data.tweets_2012_04 =
       "id_str" : "132978921",
       "id" : 132978921
     }, {
-      "name" : "Metal Toad Media",
+      "name" : "Metal Toad",
       "screen_name" : "metaltoad",
       "indices" : [ 79, 89 ],
       "id_str" : "8740252",
@@ -624,7 +624,7 @@ Grailbird.data.tweets_2012_04 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Metal Toad Media",
+        "name" : "Metal Toad",
         "screen_name" : "metaltoad",
         "indices" : [ 65, 75 ],
         "id_str" : "8740252",
@@ -989,7 +989,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "jaketapper",
       "protected" : false,
       "id_str" : "14529929",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1210585147\/Tapper__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416044148425502720\/FRKCS5pH_normal.jpeg",
       "id" : 14529929,
       "verified" : true
     }
@@ -1361,7 +1361,12 @@ Grailbird.data.tweets_2012_04 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/krS1Soje",
+      "expanded_url" : "http:\/\/bit.ly\/IBGgX0",
+      "display_url" : "bit.ly\/IBGgX0"
+    } ]
   },
   "geo" : { },
   "id_str" : "192112062426648577",
@@ -1728,12 +1733,6 @@ Grailbird.data.tweets_2012_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ZackDev",
-      "screen_name" : "zack_dev",
-      "indices" : [ 3, 12 ],
-      "id_str" : "984928884",
-      "id" : 984928884
-    }, {
       "name" : "Matt Mullenweg",
       "screen_name" : "photomatt",
       "indices" : [ 14, 24 ],
@@ -2937,12 +2936,6 @@ Grailbird.data.tweets_2012_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ZackDev",
-      "screen_name" : "zack_dev",
-      "indices" : [ 3, 12 ],
-      "id_str" : "984928884",
-      "id" : 984928884
-    }, {
       "name" : "Jessica Jurick",
       "screen_name" : "jessjurick",
       "indices" : [ 14, 25 ],

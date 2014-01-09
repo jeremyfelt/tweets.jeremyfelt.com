@@ -64,7 +64,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Falalalala-la-Ladama",
+      "name" : "Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -97,12 +97,6 @@ Grailbird.data.tweets_2012_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Daryl Koopersmith",
-      "screen_name" : "darylkoop",
-      "indices" : [ 3, 13 ],
-      "id_str" : "760357663",
-      "id" : 760357663
-    }, {
       "name" : "Andrew Nacin",
       "screen_name" : "nacin",
       "indices" : [ 31, 37 ],
@@ -111,7 +105,12 @@ Grailbird.data.tweets_2012_02 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/Akmh1FEq",
+      "expanded_url" : "http:\/\/core.trac.wordpress.org\/ticket\/20103#comment:9",
+      "display_url" : "core.trac.wordpress.org\/ticket\/20103#c\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "174259102980128768",
@@ -232,7 +231,12 @@ Grailbird.data.tweets_2012_02 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/QxmE4pPV",
+      "expanded_url" : "http:\/\/huff.to\/yAJUt5",
+      "display_url" : "huff.to\/yAJUt5"
+    } ]
   },
   "geo" : { },
   "id_str" : "173993521156595714",
@@ -401,13 +405,7 @@ Grailbird.data.tweets_2012_02 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "ZackDev",
-      "screen_name" : "zack_dev",
-      "indices" : [ 3, 12 ],
-      "id_str" : "984928884",
-      "id" : 984928884
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "WCSD",
@@ -647,7 +645,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Falalalala-la-Ladama",
+      "name" : "Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -2117,7 +2115,12 @@ Grailbird.data.tweets_2012_02 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/VeelS5iW",
+      "expanded_url" : "http:\/\/instagr.am\/p\/HIiX8FFDXt\/",
+      "display_url" : "instagr.am\/p\/HIiX8FFDXt\/"
+    } ]
   },
   "geo" : { },
   "id_str" : "170725666726215680",
@@ -2177,7 +2180,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "14132756",
       "id" : 14132756
     }, {
-      "name" : "\u3398",
+      "name" : "Kailey",
       "screen_name" : "trepmal",
       "indices" : [ 24, 32 ],
       "id_str" : "19574066",
@@ -2221,6 +2224,12 @@ Grailbird.data.tweets_2012_02 =
       "indices" : [ 3, 17 ],
       "id_str" : "21204689",
       "id" : 21204689
+    }, {
+      "name" : "Jeremy Felt",
+      "screen_name" : "jeremyfelt",
+      "indices" : [ 139, 140 ],
+      "id_str" : "1741681",
+      "id" : 1741681
     } ],
     "media" : [ ],
     "hashtags" : [ ],

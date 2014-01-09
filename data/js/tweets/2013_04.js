@@ -352,7 +352,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "kchrist",
       "protected" : false,
       "id_str" : "12889",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1347059259\/kenn2-100x100_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413117413492678657\/KSCFduR3_normal.jpeg",
       "id" : 12889,
       "verified" : false
     }
@@ -459,8 +459,8 @@ Grailbird.data.tweets_2013_04 =
     } ],
     "media" : [ ],
     "hashtags" : [ {
-      "text" : "team1",
-      "indices" : [ 133, 139 ]
+      "text" : "team10up",
+      "indices" : [ 133, 140 ]
     } ],
     "urls" : [ ]
   },
@@ -2129,7 +2129,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "wordcampseattle",
       "protected" : false,
       "id_str" : "17046363",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3376472489\/45ac0a1a7ec8fd689bdb3c34107fdffe_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420790719322656768\/zfrIFL0Y_normal.jpeg",
       "id" : 17046363,
       "verified" : false
     }
@@ -2849,11 +2849,17 @@ Grailbird.data.tweets_2013_04 =
       "id_str" : "14540636",
       "id" : 14540636
     }, {
-      "name" : "tollman",
-      "screen_name" : "tollman",
-      "indices" : [ 131, 139 ],
-      "id_str" : "7812002",
-      "id" : 7812002
+      "name" : "Zack Tollman",
+      "screen_name" : "tollmanz",
+      "indices" : [ 131, 140 ],
+      "id_str" : "335110427",
+      "id" : 335110427
+    }, {
+      "name" : "Jeremy Felt",
+      "screen_name" : "jeremyfelt",
+      "indices" : [ 139, 140 ],
+      "id_str" : "1741681",
+      "id" : 1741681
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -3224,6 +3230,12 @@ Grailbird.data.tweets_2013_04 =
       "indices" : [ 3, 12 ],
       "id_str" : "132978921",
       "id" : 132978921
+    }, {
+      "name" : "Jeremy Felt",
+      "screen_name" : "jeremyfelt",
+      "indices" : [ 139, 140 ],
+      "id_str" : "1741681",
+      "id" : 1741681
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3509,7 +3521,12 @@ Grailbird.data.tweets_2013_04 =
       "text" : "team10up",
       "indices" : [ 35, 44 ]
     } ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/1TDSLIuU8C",
+      "expanded_url" : "http:\/\/10up.com\/blog\/2013\/04\/developer-summit-summation\/",
+      "display_url" : "10up.com\/blog\/2013\/04\/d\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "324932853458669569",
@@ -3881,7 +3898,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Evan Williams",
+      "name" : "Ev Williams",
       "screen_name" : "ev",
       "indices" : [ 3, 6 ],
       "id_str" : "20",
@@ -3895,7 +3912,12 @@ Grailbird.data.tweets_2013_04 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "https:\/\/t.co\/ec4a99lyFm",
+      "expanded_url" : "https:\/\/medium.com\/i-dont-know-a-thing\/a66bc41f51c9",
+      "display_url" : "medium.com\/i-dont-know-a-\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "324585143060815874",
@@ -3925,7 +3947,7 @@ Grailbird.data.tweets_2013_04 =
     "id" : 324583724199079937,
     "created_at" : "2013-04-17 18:02:44 +0000",
     "user" : {
-      "name" : "Evan Williams",
+      "name" : "Ev Williams",
       "screen_name" : "ev",
       "protected" : false,
       "id_str" : "20",
@@ -3984,7 +4006,12 @@ Grailbird.data.tweets_2013_04 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "https:\/\/t.co\/dTl3T0ow2B",
+      "expanded_url" : "https:\/\/github.com\/mitchellh\/vagrant\/blob\/v1.2.0\/CHANGELOG.md#120-april-16-2013",
+      "display_url" : "github.com\/mitchellh\/vagr\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "324227662669312000",
@@ -4073,7 +4100,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "paul_irish",
       "protected" : false,
       "id_str" : "1671811",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000839541589\/9a0882a7aaad6ea0ea93db69543006d7_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420826194083213312\/CP1RmLa3_normal.jpeg",
       "id" : 1671811,
       "verified" : false
     }
@@ -4340,7 +4367,12 @@ Grailbird.data.tweets_2013_04 =
       "text" : "pdxwp",
       "indices" : [ 113, 119 ]
     } ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/FeJixRY4lS",
+      "expanded_url" : "http:\/\/eth.pw\/7",
+      "display_url" : "eth.pw\/7"
+    } ]
   },
   "geo" : { },
   "id_str" : "323981595369435136",
@@ -5202,7 +5234,12 @@ Grailbird.data.tweets_2013_04 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "https:\/\/t.co\/DBsD4TDdU8",
+      "expanded_url" : "https:\/\/github.com\/10up\/varying-vagrant-vagrants",
+      "display_url" : "github.com\/10up\/varying-v\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "322893116778610689",
@@ -5375,7 +5412,12 @@ Grailbird.data.tweets_2013_04 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/1a8fzlwXeN",
+      "expanded_url" : "http:\/\/drewf.us\/hGc",
+      "display_url" : "drewf.us\/hGc"
+    } ]
   },
   "geo" : { },
   "id_str" : "322840776235180032",
@@ -5724,7 +5766,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3398",
+      "name" : "Kailey",
       "screen_name" : "trepmal",
       "indices" : [ 0, 8 ],
       "id_str" : "19574066",
@@ -5942,8 +5984,16 @@ Grailbird.data.tweets_2013_04 =
       "id" : 15905103
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
+    "hashtags" : [ {
+      "text" : "bitcoin",
+      "indices" : [ 139, 140 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/ehDlGftRu3",
+      "expanded_url" : "http:\/\/n.pr\/YKoXjI",
+      "display_url" : "n.pr\/YKoXjI"
+    } ]
   },
   "geo" : { },
   "id_str" : "322117652006961152",
@@ -6551,7 +6601,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "yurivictor",
       "protected" : false,
       "id_str" : "5511932",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000860592582\/3FGQtFR1_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/415583245741219840\/GFX_CkWO_normal.jpeg",
       "id" : 5511932,
       "verified" : false
     }
@@ -6606,7 +6656,12 @@ Grailbird.data.tweets_2013_04 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/wyWpyDrHFZ",
+      "expanded_url" : "http:\/\/wp.me\/p3mtXQ-5",
+      "display_url" : "wp.me\/p3mtXQ-5"
+    } ]
   },
   "geo" : { },
   "id_str" : "321689400809512960",
@@ -8402,7 +8457,12 @@ Grailbird.data.tweets_2013_04 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/DFaPKibArb",
+      "expanded_url" : "http:\/\/codewithme.us\/portland\/",
+      "display_url" : "codewithme.us\/portland\/"
+    } ]
   },
   "geo" : { },
   "id_str" : "319819798194307072",
@@ -8503,7 +8563,12 @@ Grailbird.data.tweets_2013_04 =
       "text" : "Oregon",
       "indices" : [ 89, 96 ]
     } ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/lM3DTVL27v",
+      "expanded_url" : "http:\/\/blog.oregonlive.com\/edge\/2011\/08\/tuesdays_edge_well_at_least_we.html",
+      "display_url" : "blog.oregonlive.com\/edge\/2011\/08\/t\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "319714857937141761",
@@ -8634,7 +8699,12 @@ Grailbird.data.tweets_2013_04 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/kxWl2xhYnK",
+      "expanded_url" : "http:\/\/photos.adriansandi.com\/my-wife-gets-pretty-cool-presents-i-am-always-so-proud-of-her\/",
+      "display_url" : "photos.adriansandi.com\/my-wife-gets-p\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "319644587071270913",
@@ -9128,7 +9198,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3398",
+      "name" : "Kailey",
       "screen_name" : "trepmal",
       "indices" : [ 0, 8 ],
       "id_str" : "19574066",
@@ -9365,7 +9435,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3398",
+      "name" : "Kailey",
       "screen_name" : "trepmal",
       "indices" : [ 0, 8 ],
       "id_str" : "19574066",
@@ -9408,7 +9478,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ireland \/ Sarah",
+      "name" : "Ireland \/ Mairead",
       "screen_name" : "ireland",
       "indices" : [ 3, 11 ],
       "id_str" : "1143551",
@@ -9495,11 +9565,11 @@ Grailbird.data.tweets_2013_04 =
     "id" : 318863079725228033,
     "created_at" : "2013-04-01 23:10:57 +0000",
     "user" : {
-      "name" : "Ireland \/ Sarah",
+      "name" : "Ireland \/ Mairead",
       "screen_name" : "ireland",
       "protected" : false,
       "id_str" : "1143551",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000847117792\/5dfd13c4ad7be0e77965ffa38c7837ab_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/419955580984242176\/0mHKHByE_normal.jpeg",
       "id" : 1143551,
       "verified" : false
     }
@@ -9519,7 +9589,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ireland \/ Sarah",
+      "name" : "Ireland \/ Mairead",
       "screen_name" : "ireland",
       "indices" : [ 0, 8 ],
       "id_str" : "1143551",

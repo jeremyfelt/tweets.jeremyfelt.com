@@ -958,7 +958,7 @@ Grailbird.data.tweets_2009_05 =
   "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Evan Williams",
+      "name" : "Ev Williams",
       "screen_name" : "ev",
       "indices" : [ 5, 8 ],
       "id_str" : "20",

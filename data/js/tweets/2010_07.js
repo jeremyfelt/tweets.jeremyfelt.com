@@ -1064,13 +1064,7 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Neven Mrgan",
-      "screen_name" : "nevenmrgan",
-      "indices" : [ 3, 14 ],
-      "id_str" : "189184020",
-      "id" : 189184020
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2258,12 +2252,6 @@ Grailbird.data.tweets_2010_07 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Schumaker",
-      "screen_name" : "rockbandit",
-      "indices" : [ 3, 14 ],
-      "id_str" : "335120271",
-      "id" : 335120271
-    }, {
       "name" : "Old Spice",
       "screen_name" : "OldSpice",
       "indices" : [ 96, 105 ],
@@ -2440,7 +2428,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "iammattthomas",
       "protected" : false,
       "id_str" : "7562432",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000705809687\/1d3272fde47b04ba27b1e2ca2144ca5e_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420713866784276480\/FbFvCdAD_normal.jpeg",
       "id" : 7562432,
       "verified" : false
     }
@@ -2638,7 +2626,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "GlennF",
       "protected" : false,
       "id_str" : "8315692",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000814248767\/f19183ee719cdd5efc0c82ca741d1ab1_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/414611534677938176\/pRyOivF0_normal.jpeg",
       "id" : 8315692,
       "verified" : false
     }

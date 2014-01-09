@@ -2718,7 +2718,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "michael silverton",
+      "name" : "j.mp\/BeNobody",
       "screen_name" : "silverton",
       "indices" : [ 0, 10 ],
       "id_str" : "6092342",
@@ -2749,7 +2749,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "michael silverton",
+      "name" : "j.mp\/BeNobody",
       "screen_name" : "silverton",
       "indices" : [ 0, 10 ],
       "id_str" : "6092342",

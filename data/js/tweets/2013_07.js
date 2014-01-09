@@ -1267,7 +1267,10 @@ Grailbird.data.tweets_2013_07 =
       "id" : 19004751
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "wcsf",
+      "indices" : [ 139, 140 ]
+    } ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -1592,10 +1595,7 @@ Grailbird.data.tweets_2013_07 =
         "display_url" : "anagramatron.tumblr.com"
       } ]
     },
-    "geo" : {
-      "type" : "Point",
-      "coordinates" : [ 45.4916329368, -73.5835654628 ]
-    },
+    "geo" : { },
     "id_str" : "353907697806106624",
     "text" : "ANAGRAMATRON finds tweets that are anagrams of each other. http:\/\/t.co\/9Bxl5eYZxs http:\/\/t.co\/C4rNLajVpA",
     "id" : 353907697806106624,
@@ -2263,9 +2263,18 @@ Grailbird.data.tweets_2013_07 =
       "indices" : [ 3, 19 ],
       "id_str" : "272166936",
       "id" : 272166936
+    }, {
+      "name" : "Yuri Victor \u2665",
+      "screen_name" : "yurivictor",
+      "indices" : [ 139, 140 ],
+      "id_str" : "5511932",
+      "id" : 5511932
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "wcsf",
+      "indices" : [ 139, 140 ]
+    } ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -2326,9 +2335,18 @@ Grailbird.data.tweets_2013_07 =
       "indices" : [ 3, 19 ],
       "id_str" : "272166936",
       "id" : 272166936
+    }, {
+      "name" : "Yuri Victor \u2665",
+      "screen_name" : "yurivictor",
+      "indices" : [ 139, 140 ],
+      "id_str" : "5511932",
+      "id" : 5511932
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "wcsf",
+      "indices" : [ 139, 140 ]
+    } ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -2397,6 +2415,11 @@ Grailbird.data.tweets_2013_07 =
       "url" : "https:\/\/t.co\/qb7ybtaY2C",
       "expanded_url" : "https:\/\/github.com\/mitchellh\/vagrant\/blob\/v1.2.5\/CHANGELOG.md",
       "display_url" : "github.com\/mitchellh\/vagr\u2026"
+    }, {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/EEqj49ohfm",
+      "expanded_url" : "http:\/\/downloads.vagrantup.com\/tags\/v1.2.5",
+      "display_url" : "downloads.vagrantup.com\/tags\/v1.2.5"
     } ]
   },
   "geo" : { },
@@ -2467,7 +2490,12 @@ Grailbird.data.tweets_2013_07 =
       "text" : "wcsf",
       "indices" : [ 113, 118 ]
     } ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "https:\/\/t.co\/oQwvAfqoQv",
+      "expanded_url" : "https:\/\/github.com\/Automattic\/liveblog\/blob\/master\/HACKING.md",
+      "display_url" : "github.com\/Automattic\/liv\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "360829583668428801",
@@ -2929,7 +2957,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "jaketapper",
       "protected" : false,
       "id_str" : "14529929",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1210585147\/Tapper__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416044148425502720\/FRKCS5pH_normal.jpeg",
       "id" : 14529929,
       "verified" : true
     }
@@ -7534,7 +7562,7 @@ Grailbird.data.tweets_2013_07 =
     "user_mentions" : [ {
       "name" : "Jeremy Felt",
       "screen_name" : "jeremyfelt",
-      "indices" : [ 84, 95 ],
+      "indices" : [ 107, 108 ],
       "id_str" : "1741681",
       "id" : 1741681
     } ],
@@ -9230,7 +9258,12 @@ Grailbird.data.tweets_2013_07 =
       "text" : "team10up",
       "indices" : [ 59, 68 ]
     } ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/8yN1PzqTdN",
+      "expanded_url" : "http:\/\/d.pr\/i\/zFOc",
+      "display_url" : "d.pr\/i\/zFOc"
+    } ]
   },
   "geo" : { },
   "id_str" : "355027638647132161",
@@ -9718,7 +9751,12 @@ Grailbird.data.tweets_2013_07 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 143, 144 ],
+      "url" : "http:\/\/t.co\/Zwrc3PhGrz",
+      "expanded_url" : "http:\/\/2.dashes.com\/15v8nXn",
+      "display_url" : "2.dashes.com\/15v8nXn"
+    } ]
   },
   "geo" : { },
   "id_str" : "354789922227494912",
@@ -9866,7 +9904,37 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "156132825",
       "id" : 156132825
     } ],
-    "media" : [ ],
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/MikeTyson\/status\/354612796652138496\/photo\/1",
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/DYiQO11Wpj",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/BOvWdbHCMAAbIUh.jpg",
+      "id_str" : "354612796660527104",
+      "id" : 354612796660527104,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BOvWdbHCMAAbIUh.jpg",
+      "sizes" : [ {
+        "h" : 170,
+        "resize" : "fit",
+        "w" : 109
+      }, {
+        "h" : 170,
+        "resize" : "fit",
+        "w" : 109
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 109
+      }, {
+        "h" : 170,
+        "resize" : "fit",
+        "w" : 109
+      }, {
+        "h" : 170,
+        "resize" : "fit",
+        "w" : 109
+      } ],
+      "display_url" : "pic.twitter.com\/DYiQO11Wpj"
+    } ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
@@ -10507,8 +10575,8 @@ Grailbird.data.tweets_2013_07 =
     } ],
     "media" : [ ],
     "hashtags" : [ {
-      "text" : "ev",
-      "indices" : [ 136, 139 ]
+      "text" : "everybodywins",
+      "indices" : [ 136, 140 ]
     } ],
     "urls" : [ ]
   },
@@ -11648,7 +11716,37 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "206283535",
       "id" : 206283535
     } ],
-    "media" : [ ],
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/waldojaquith\/status\/352174496536473600\/photo\/1",
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/OqlTnq8BIS",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/BOMs1rVCMAAyLbU.png",
+      "id_str" : "352174496540667904",
+      "id" : 352174496540667904,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BOMs1rVCMAAyLbU.png",
+      "sizes" : [ {
+        "h" : 194,
+        "resize" : "fit",
+        "w" : 164
+      }, {
+        "h" : 194,
+        "resize" : "fit",
+        "w" : 164
+      }, {
+        "h" : 194,
+        "resize" : "fit",
+        "w" : 164
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 194,
+        "resize" : "fit",
+        "w" : 164
+      } ],
+      "display_url" : "pic.twitter.com\/OqlTnq8BIS"
+    } ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
@@ -11863,7 +11961,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "waxpancake",
       "protected" : false,
       "id_str" : "13461",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000769512512\/70a13dfa2d062680224c4d05889f8f67_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416642320574844928\/Gz7V2B6r_normal.jpeg",
       "id" : 13461,
       "verified" : false
     }

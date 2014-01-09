@@ -1224,7 +1224,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Evan Williams",
+      "name" : "Ev Williams",
       "screen_name" : "ev",
       "indices" : [ 3, 6 ],
       "id_str" : "20",
@@ -1251,7 +1251,7 @@ Grailbird.data.tweets_2013_09 =
     "id" : 383104120439070720,
     "created_at" : "2013-09-26 05:41:54 +0000",
     "user" : {
-      "name" : "Evan Williams",
+      "name" : "Ev Williams",
       "screen_name" : "ev",
       "protected" : false,
       "id_str" : "20",
@@ -1684,6 +1684,12 @@ Grailbird.data.tweets_2013_09 =
       "indices" : [ 131, 139 ],
       "id_str" : "817657",
       "id" : 817657
+    }, {
+      "name" : "Jeremy Felt",
+      "screen_name" : "jeremyfelt",
+      "indices" : [ 139, 140 ],
+      "id_str" : "1741681",
+      "id" : 1741681
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2126,7 +2132,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "igrigorik",
       "protected" : false,
       "id_str" : "9980812",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/59079748\/2262419520_e5832a812d_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/412364630279745536\/5xDKUf4r_normal.png",
       "id" : 9980812,
       "verified" : false
     }
@@ -2990,7 +2996,10 @@ Grailbird.data.tweets_2013_09 =
       "id" : 761975
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "bloggingbad",
+      "indices" : [ 143, 144 ]
+    } ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -6166,7 +6175,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Evan Williams",
+      "name" : "Ev Williams",
       "screen_name" : "ev",
       "indices" : [ 85, 88 ],
       "id_str" : "20",
@@ -6886,7 +6895,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -6923,7 +6932,7 @@ Grailbird.data.tweets_2013_09 =
     "id" : 378016402470207490,
     "created_at" : "2013-09-12 04:45:08 +0000",
     "user" : {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
@@ -7298,7 +7307,12 @@ Grailbird.data.tweets_2013_09 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/2oVMxEoLhC",
+      "expanded_url" : "http:\/\/thethemefoundry.com\/blog\/backbonejs-and-collections-structure\/",
+      "display_url" : "thethemefoundry.com\/blog\/backbonej\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "377663842857148416",
@@ -8555,7 +8569,12 @@ Grailbird.data.tweets_2013_09 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/Bx5aEqpvjx",
+      "expanded_url" : "http:\/\/bit.ly\/15P03y3",
+      "display_url" : "bit.ly\/15P03y3"
+    } ]
   },
   "geo" : { },
   "id_str" : "376902157384957953",
@@ -9599,7 +9618,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "beep",
       "protected" : false,
       "id_str" : "12534",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000817182994\/bbb6dba994eebd1a15775d80fbd0b4a8_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416686401598406657\/cGeZXmvV_normal.jpeg",
       "id" : 12534,
       "verified" : false
     }
@@ -10002,6 +10021,11 @@ Grailbird.data.tweets_2013_09 =
       "url" : "https:\/\/t.co\/x536xoN7gt",
       "expanded_url" : "https:\/\/github.com\/mitchellh\/vagrant\/blob\/v1.3.0\/CHANGELOG.md#130-september-5-2013",
       "display_url" : "github.com\/mitchellh\/vagr\u2026"
+    }, {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/oncK4tjLbQ",
+      "expanded_url" : "http:\/\/downloads.vagrantup.com\/",
+      "display_url" : "downloads.vagrantup.com"
     } ]
   },
   "geo" : { },

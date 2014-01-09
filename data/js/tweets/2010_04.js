@@ -478,7 +478,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Falalalala-la-Ladama",
+      "name" : "Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -695,13 +695,7 @@ Grailbird.data.tweets_2010_04 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jamie Oliver",
-      "screen_name" : "jamie_oliver",
-      "indices" : [ 3, 16 ],
-      "id_str" : "277545015",
-      "id" : 277545015
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -727,7 +721,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "jamieoliver",
       "protected" : false,
       "id_str" : "18676177",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000671508368\/d06565db39987a80b31d22bbaabb5f46_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/412516713884700672\/wvdlNPug_normal.jpeg",
       "id" : 18676177,
       "verified" : true
     }
@@ -1403,13 +1397,7 @@ Grailbird.data.tweets_2010_04 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u0421\u0435\u0440\u0433\u0435\u0439 \u041F\u0430\u043D\u043E\u0432",
-      "screen_name" : "afg85",
-      "indices" : [ 3, 9 ],
-      "id_str" : "457631513",
-      "id" : 457631513
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "f8summarized",
@@ -2003,7 +1991,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "chrismessina",
       "protected" : false,
       "id_str" : "1186",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000838803046\/3c4352e71a7811b728614ca1b9167cec_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/414467792910311424\/Q9BekuOH_normal.jpeg",
       "id" : 1186,
       "verified" : false
     }
@@ -3335,7 +3323,7 @@ Grailbird.data.tweets_2010_04 =
       "id_str" : "36823",
       "id" : 36823
     }, {
-      "name" : "Evan Williams",
+      "name" : "Ev Williams",
       "screen_name" : "ev",
       "indices" : [ 60, 63 ],
       "id_str" : "20",
@@ -3352,7 +3340,7 @@ Grailbird.data.tweets_2010_04 =
     "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Evan Williams",
+        "name" : "Ev Williams",
         "screen_name" : "ev",
         "indices" : [ 46, 49 ],
         "id_str" : "20",
@@ -3474,7 +3462,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "mfeathers",
       "protected" : false,
       "id_str" : "14253068",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2872855625\/8461b3adedd23de13c78146aa7dca3f2_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/418861392309915648\/vJk75Sn3_normal.png",
       "id" : 14253068,
       "verified" : false
     }

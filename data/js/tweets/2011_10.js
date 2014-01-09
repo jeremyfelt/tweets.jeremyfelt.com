@@ -2248,11 +2248,11 @@ Grailbird.data.tweets_2011_10 =
       "id_str" : "19277037",
       "id" : 19277037
     }, {
-      "name" : "Rex Hammock",
-      "screen_name" : "R",
-      "indices" : [ 134, 136 ],
-      "id_str" : "146733",
-      "id" : 146733
+      "name" : "Rosalind Wills",
+      "screen_name" : "rosalindwills",
+      "indices" : [ 134, 140 ],
+      "id_str" : "33755878",
+      "id" : 33755878
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5018,7 +5018,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "waxpancake",
       "protected" : false,
       "id_str" : "13461",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000769512512\/70a13dfa2d062680224c4d05889f8f67_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416642320574844928\/Gz7V2B6r_normal.jpeg",
       "id" : 13461,
       "verified" : false
     }
@@ -5037,13 +5037,7 @@ Grailbird.data.tweets_2011_10 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Who Knows",
-      "screen_name" : "mike_ftw",
-      "indices" : [ 3, 12 ],
-      "id_str" : "2228978804",
-      "id" : 2228978804
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5069,7 +5063,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "monteiro",
       "protected" : false,
       "id_str" : "2426",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000826318924\/7ba3c4d635a3f5e76106fca3534a0f74_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416099492648075264\/1Dv6Y8W4_normal.jpeg",
       "id" : 2426,
       "verified" : false
     }
@@ -5130,7 +5124,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "mathowie",
       "protected" : false,
       "id_str" : "761975",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000387205049\/d71a8b2e6dfc2d93df1a174001c2120f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/418833637090394112\/ERazU_Ik_normal.jpeg",
       "id" : 761975,
       "verified" : false
     }

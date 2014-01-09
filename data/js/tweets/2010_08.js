@@ -834,7 +834,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000860157087\/npa792kp_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416645507331547136\/FC120jmh_normal.jpeg",
       "id" : 22872643,
       "verified" : true
     }
@@ -963,7 +963,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "chrismessina",
       "protected" : false,
       "id_str" : "1186",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000838803046\/3c4352e71a7811b728614ca1b9167cec_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/414467792910311424\/Q9BekuOH_normal.jpeg",
       "id" : 1186,
       "verified" : false
     }
@@ -1548,13 +1548,7 @@ Grailbird.data.tweets_2010_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u0421\u0435\u0440\u0433\u0435\u0439 \u041F\u0430\u043D\u043E\u0432",
-      "screen_name" : "afg85",
-      "indices" : [ 3, 9 ],
-      "id_str" : "457631513",
-      "id" : 457631513
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1751,7 +1745,7 @@ Grailbird.data.tweets_2010_08 =
       "id_str" : "183749519",
       "id" : 183749519
     }, {
-      "name" : "Lady Gaga",
+      "name" : "Goddess of Love",
       "screen_name" : "ladygaga",
       "indices" : [ 85, 94 ],
       "id_str" : "14230524",
@@ -3120,7 +3114,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -3147,7 +3141,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 21513655179,
     "created_at" : "2010-08-18 19:18:59 +0000",
     "user" : {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
@@ -3171,7 +3165,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -3198,7 +3192,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 21513655179,
     "created_at" : "2010-08-18 19:18:59 +0000",
     "user" : {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
@@ -3222,7 +3216,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -3249,7 +3243,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 21513655179,
     "created_at" : "2010-08-18 19:18:59 +0000",
     "user" : {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
@@ -3273,7 +3267,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -3300,7 +3294,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 21513655179,
     "created_at" : "2010-08-18 19:18:59 +0000",
     "user" : {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
@@ -3324,7 +3318,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -3351,7 +3345,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 21513655179,
     "created_at" : "2010-08-18 19:18:59 +0000",
     "user" : {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
@@ -3375,7 +3369,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -3402,7 +3396,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 21513655179,
     "created_at" : "2010-08-18 19:18:59 +0000",
     "user" : {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
@@ -3935,7 +3929,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -3962,7 +3956,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 21078377055,
     "created_at" : "2010-08-13 16:39:30 +0000",
     "user" : {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
@@ -4068,7 +4062,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000855199798\/a0de9af2df6e5b705717d7485893414e_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/417689153036238849\/-ml807lt_normal.jpeg",
       "id" : 819797,
       "verified" : false
     }
@@ -4264,7 +4258,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000855199798\/a0de9af2df6e5b705717d7485893414e_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/417689153036238849\/-ml807lt_normal.jpeg",
       "id" : 819797,
       "verified" : false
     }
@@ -5012,7 +5006,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -5039,7 +5033,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 20730568597,
     "created_at" : "2010-08-09 19:15:29 +0000",
     "user" : {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
@@ -5615,7 +5609,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "nickbilton",
       "protected" : false,
       "id_str" : "1586501",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000857036262\/96TV85Mq_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416958679108157440\/tqu7CYlw_normal.jpeg",
       "id" : 1586501,
       "verified" : true
     }

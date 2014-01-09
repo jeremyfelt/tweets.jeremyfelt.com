@@ -335,7 +335,12 @@ Grailbird.data.tweets_2012_12 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/RbyDqxMV",
+      "expanded_url" : "http:\/\/www.adequatelygood.com\/2010\/7\/Writing-Testable-JavaScript",
+      "display_url" : "adequatelygood.com\/2010\/7\/Writing\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "284860172965388289",
@@ -564,13 +569,24 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 3, 18 ],
       "id_str" : "14222501",
       "id" : 14222501
+    }, {
+      "name" : "Open Culture",
+      "screen_name" : "openculture",
+      "indices" : [ 139, 140 ],
+      "id_str" : "19826509",
+      "id" : 19826509
     } ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "duckface",
       "indices" : [ 54, 63 ]
     } ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/qCDywWMy",
+      "expanded_url" : "http:\/\/cultr.me\/WFSUkV",
+      "display_url" : "cultr.me\/WFSUkV"
+    } ]
   },
   "geo" : { },
   "id_str" : "282866098616016896",
@@ -627,7 +643,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Falalalala-la-Ladama",
+      "name" : "Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -1441,7 +1457,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "Alex_Ogle",
       "protected" : false,
       "id_str" : "26957009",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000813862054\/2287af06e1ab17773cda26ff3c280d1c_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416362326070030336\/dnm8M0IT_normal.jpeg",
       "id" : 26957009,
       "verified" : true
     }
@@ -2603,7 +2619,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Luc Legay",
+      "name" : "Bonne ann\u00E9e 2014 !",
       "screen_name" : "luclegay",
       "indices" : [ 3, 12 ],
       "id_str" : "607643",
@@ -2657,7 +2673,7 @@ Grailbird.data.tweets_2012_12 =
     "id" : 279487756265193472,
     "created_at" : "2012-12-14 07:27:28 +0000",
     "user" : {
-      "name" : "Luc Legay",
+      "name" : "Bonne ann\u00E9e 2014 !",
       "screen_name" : "luclegay",
       "protected" : false,
       "id_str" : "607643",
@@ -3489,7 +3505,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3398",
+      "name" : "Kailey",
       "screen_name" : "trepmal",
       "indices" : [ 6, 14 ],
       "id_str" : "19574066",
@@ -6429,6 +6445,33 @@ Grailbird.data.tweets_2012_12 =
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 78, 98 ],
+      "url" : "http:\/\/t.co\/qMBvxdzt",
+      "expanded_url" : "http:\/\/manpages.ubuntu.com\/manpages\/gutsy\/man1\/ack.1.html",
+      "display_url" : "manpages.ubuntu.com\/manpages\/gutsy\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "275363519246000128",
+  "text" : "Though a highly versatile Kanji code converter could come in handy one day... http:\/\/t.co\/qMBvxdzt",
+  "id" : 275363519246000128,
+  "created_at" : "2012-12-02 22:19:13 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -6535,7 +6578,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000867058581\/ISIvv3q2_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416207828022358016\/7FZ2jVrV_normal.jpeg",
       "id" : 767,
       "verified" : true
     }

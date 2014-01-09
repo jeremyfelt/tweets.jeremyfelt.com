@@ -313,7 +313,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "boonsri",
       "protected" : false,
       "id_str" : "14538938",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000844243490\/dafeb6055584cafa8da3680c545e0f33_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/414157140983812096\/6STyQZZo_normal.jpeg",
       "id" : 14538938,
       "verified" : false
     }
@@ -470,13 +470,7 @@ Grailbird.data.tweets_2010_12 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Copyblogger",
-      "screen_name" : "copyblogger",
-      "indices" : [ 3, 15 ],
-      "id_str" : "15029970",
-      "id" : 15029970
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -502,7 +496,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "brianclark",
       "protected" : false,
       "id_str" : "10367",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000703008564\/13ad9e43f61dabf9d11bd5187ee85355_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/411634914002345984\/oBiPEtOO_normal.jpeg",
       "id" : 10367,
       "verified" : false
     }
@@ -1324,13 +1318,7 @@ Grailbird.data.tweets_2010_12 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "National Geographic",
-      "screen_name" : "NatGeoSociety",
-      "indices" : [ 3, 17 ],
-      "id_str" : "300974581",
-      "id" : 300974581
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "video",
@@ -1711,7 +1699,10 @@ Grailbird.data.tweets_2010_12 =
       "id" : 18240896
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "wikileaks",
+      "indices" : [ 139, 140 ]
+    } ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -1938,13 +1929,7 @@ Grailbird.data.tweets_2010_12 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u0421\u0435\u0440\u0433\u0435\u0439 \u041F\u0430\u043D\u043E\u0432",
-      "screen_name" : "afg85",
-      "indices" : [ 3, 9 ],
-      "id_str" : "457631513",
-      "id" : 457631513
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

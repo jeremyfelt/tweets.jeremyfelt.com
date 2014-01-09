@@ -632,13 +632,7 @@ Grailbird.data.tweets_2011_04 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u0421\u0435\u0440\u0433\u0435\u0439 \u041F\u0430\u043D\u043E\u0432",
-      "screen_name" : "afg85",
-      "indices" : [ 3, 9 ],
-      "id_str" : "457631513",
-      "id" : 457631513
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -994,7 +988,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The First Joel",
+      "name" : "Joel Housman",
       "screen_name" : "joelhousman",
       "indices" : [ 3, 15 ],
       "id_str" : "685763",
@@ -1021,11 +1015,11 @@ Grailbird.data.tweets_2011_04 =
     "id" : 57125262948696064,
     "created_at" : "2011-04-10 16:58:18 +0000",
     "user" : {
-      "name" : "The First Joel",
+      "name" : "Joel Housman",
       "screen_name" : "joelhousman",
       "protected" : false,
       "id_str" : "685763",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000816384880\/07dba0f10cda91109b8c226ef523e259_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416922670081789952\/ur5Yb87N_normal.jpeg",
       "id" : 685763,
       "verified" : false
     }
@@ -1076,7 +1070,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "steveagee",
       "protected" : false,
       "id_str" : "167421762",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2112441633\/photo_normal.JPG",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/419203623432642560\/iy1EOQDq_normal.jpeg",
       "id" : 167421762,
       "verified" : true
     }
@@ -1532,13 +1526,7 @@ Grailbird.data.tweets_2011_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "mecredis",
-      "screen_name" : "mecredis",
-      "indices" : [ 3, 12 ],
-      "id_str" : "373483897",
-      "id" : 373483897
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2061,7 +2049,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000860157087\/npa792kp_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416645507331547136\/FC120jmh_normal.jpeg",
       "id" : 22872643,
       "verified" : true
     }

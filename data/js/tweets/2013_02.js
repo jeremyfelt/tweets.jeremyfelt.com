@@ -718,7 +718,12 @@ Grailbird.data.tweets_2013_02 =
       "text" : "WordPress",
       "indices" : [ 93, 103 ]
     } ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/oY6ry9UF69",
+      "expanded_url" : "http:\/\/www.meetup.com\/SeattleWordPressMeetup\/events\/102360332\/",
+      "display_url" : "meetup.com\/SeattleWordPre\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "306587744249970689",
@@ -950,7 +955,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3398",
+      "name" : "Kailey",
       "screen_name" : "trepmal",
       "indices" : [ 0, 8 ],
       "id_str" : "19574066",
@@ -3573,6 +3578,11 @@ Grailbird.data.tweets_2013_02 =
       "url" : "http:\/\/t.co\/NWgcfJvv",
       "expanded_url" : "http:\/\/j.mp\/X9POTm",
       "display_url" : "j.mp\/X9POTm"
+    }, {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/U58kZJbo",
+      "expanded_url" : "http:\/\/goo.gl\/tBZ5Z",
+      "display_url" : "goo.gl\/tBZ5Z"
     } ]
   },
   "geo" : { },
@@ -4157,7 +4167,12 @@ Grailbird.data.tweets_2013_02 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/lYBEeiKA",
+      "expanded_url" : "http:\/\/dish.andrewsullivan.com\/2013\/02\/14\/thank-yous\/",
+      "display_url" : "dish.andrewsullivan.com\/2013\/02\/14\/tha\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "302145318693249024",
@@ -4309,7 +4324,12 @@ Grailbird.data.tweets_2013_02 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/QN3bkvKY",
+      "expanded_url" : "http:\/\/news.nationalpost.com\/2013\/02\/13\/canada-will-never-be-a-safe-haven-for-zombies-foreign-minister-john-baird-tells-house-of-commons\/",
+      "display_url" : "news.nationalpost.com\/2013\/02\/13\/can\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "301865393079848961",
@@ -4830,7 +4850,10 @@ Grailbird.data.tweets_2013_02 =
       "id" : 27740025
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "pdxwp",
+      "indices" : [ 139, 140 ]
+    } ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -6628,6 +6651,12 @@ Grailbird.data.tweets_2013_02 =
       "indices" : [ 117, 123 ],
       "id_str" : "276103198",
       "id" : 276103198
+    }, {
+      "name" : "WordPress DC",
+      "screen_name" : "WordPressDC",
+      "indices" : [ 139, 140 ],
+      "id_str" : "106943341",
+      "id" : 106943341
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -6913,7 +6942,12 @@ Grailbird.data.tweets_2013_02 =
       "text" : "pdxwp",
       "indices" : [ 54, 60 ]
     } ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/NKUDSxXR",
+      "expanded_url" : "http:\/\/jeremyfelt.com\/code\/2013\/02\/04\/an-wordpress-meetup-introduction-to-vagrant-what-youll-need\/",
+      "display_url" : "jeremyfelt.com\/code\/2013\/02\/0\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "299022372210630656",

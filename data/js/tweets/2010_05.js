@@ -683,7 +683,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "jaketapper",
       "protected" : false,
       "id_str" : "14529929",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1210585147\/Tapper__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416044148425502720\/FRKCS5pH_normal.jpeg",
       "id" : 14529929,
       "verified" : true
     }
@@ -705,13 +705,13 @@ Grailbird.data.tweets_2010_05 =
     "user_mentions" : [ {
       "name" : "Liberal Hit-Girl",
       "screen_name" : "LiberalHitGirl",
-      "indices" : [ 16, 31 ],
+      "indices" : [ 131, 132 ],
       "id_str" : "114060538",
       "id" : 114060538
     }, {
       "name" : "Who Knows",
       "screen_name" : "mike_ftw",
-      "indices" : [ 122, 131 ],
+      "indices" : [ 131, 132 ],
       "id_str" : "2228978804",
       "id" : 2228978804
     } ],
@@ -1868,7 +1868,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 10, 15 ],
       "id_str" : "18713",
@@ -1949,7 +1949,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "BR3NDA",
       "protected" : false,
       "id_str" : "778337",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000787653768\/0f369546f7da52ce835475f959ac46d6_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413803103700267008\/NkiWTOdU_normal.jpeg",
       "id" : 778337,
       "verified" : false
     }
@@ -1974,6 +1974,12 @@ Grailbird.data.tweets_2010_05 =
       "indices" : [ 3, 16 ],
       "id_str" : "1186",
       "id" : 1186
+    }, {
+      "name" : "Jesse Stay",
+      "screen_name" : "Jesse",
+      "indices" : [ 139, 140 ],
+      "id_str" : "5485192",
+      "id" : 5485192
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2006,7 +2012,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "chrismessina",
       "protected" : false,
       "id_str" : "1186",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000838803046\/3c4352e71a7811b728614ca1b9167cec_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/414467792910311424\/Q9BekuOH_normal.jpeg",
       "id" : 1186,
       "verified" : false
     }
@@ -2057,7 +2063,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "garrytan",
       "protected" : false,
       "id_str" : "11768582",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2673975033\/965a165a093e7c0921b9d69d5d99bc41_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/419907078216372226\/FZ39iq_h_normal.jpeg",
       "id" : 11768582,
       "verified" : false
     }
@@ -2121,13 +2127,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BankSimple",
-      "screen_name" : "BankSimple",
-      "indices" : [ 3, 14 ],
-      "id_str" : "357610543",
-      "id" : 357610543
-    }, {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 18, 23 ],
       "id_str" : "18713",
@@ -2144,7 +2144,7 @@ Grailbird.data.tweets_2010_05 =
     "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Alex Payne on hiatus",
+        "name" : "Alex Payne",
         "screen_name" : "al3x",
         "indices" : [ 2, 7 ],
         "id_str" : "18713",
@@ -3332,7 +3332,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Falalalala-la-Ladama",
+      "name" : "Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -4079,13 +4079,7 @@ Grailbird.data.tweets_2010_05 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Isabella Sharp",
-      "screen_name" : "UKelection2010",
-      "indices" : [ 3, 18 ],
-      "id_str" : "167035941",
-      "id" : 167035941
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "ge2010",

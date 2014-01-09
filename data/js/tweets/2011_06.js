@@ -809,7 +809,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 0, 5 ],
       "id_str" : "18713",
@@ -1541,7 +1541,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -1568,7 +1568,7 @@ Grailbird.data.tweets_2011_06 =
     "id" : 85528159373623298,
     "created_at" : "2011-06-28 02:01:16 +0000",
     "user" : {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
@@ -1969,12 +1969,6 @@ Grailbird.data.tweets_2011_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "zooey deschanel.",
-      "screen_name" : "therealzooeyd",
-      "indices" : [ 3, 17 ],
-      "id_str" : "721792410",
-      "id" : 721792410
-    }, {
       "name" : "Kate Harmer",
       "screen_name" : "katehrmr",
       "indices" : [ 26, 35 ],
@@ -2477,7 +2471,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Evan Williams",
+      "name" : "Ev Williams",
       "screen_name" : "ev",
       "indices" : [ 12, 15 ],
       "id_str" : "20",
@@ -2540,7 +2534,12 @@ Grailbird.data.tweets_2011_06 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/hSSAKdm",
+      "expanded_url" : "http:\/\/www.fastcompany.com\/magazine\/157\/jack-abraham-ebay-milo",
+      "display_url" : "fastcompany.com\/magazine\/157\/j\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "83959015318626304",
@@ -2568,7 +2567,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "garrytan",
       "protected" : false,
       "id_str" : "11768582",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2673975033\/965a165a093e7c0921b9d69d5d99bc41_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/419907078216372226\/FZ39iq_h_normal.jpeg",
       "id" : 11768582,
       "verified" : false
     }
@@ -5198,6 +5197,12 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 29, 38 ],
       "id_str" : "87818409",
       "id" : 87818409
+    }, {
+      "name" : "blprnt",
+      "screen_name" : "blprnt",
+      "indices" : [ 139, 140 ],
+      "id_str" : "17013577",
+      "id" : 17013577
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5823,6 +5828,12 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 104, 116 ],
       "id_str" : "22872643",
       "id" : 22872643
+    }, {
+      "name" : "Team Twaggies",
+      "screen_name" : "twaggies",
+      "indices" : [ 139, 140 ],
+      "id_str" : "87969079",
+      "id" : 87969079
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5861,7 +5872,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "LaughingSquid",
       "protected" : false,
       "id_str" : "2172",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/340068086\/laughing_squid_logo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/418456260971732992\/By5KkDKn_normal.jpeg",
       "id" : 2172,
       "verified" : true
     }

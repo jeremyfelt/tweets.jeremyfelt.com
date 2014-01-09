@@ -553,7 +553,12 @@ Grailbird.data.tweets_2013_11 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/j0u7uaWOzR",
+      "expanded_url" : "http:\/\/ow.ly\/rff1G",
+      "display_url" : "ow.ly\/rff1G"
+    } ]
   },
   "geo" : { },
   "id_str" : "406203682665922560",
@@ -1452,7 +1457,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "simonwheatley",
       "protected" : false,
       "id_str" : "4371541",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000556704269\/dd0090e965abb584cbb08ebb4621f36e_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/419412315138949120\/4zea4f5__normal.jpeg",
       "id" : 4371541,
       "verified" : false
     }
@@ -2110,7 +2115,7 @@ Grailbird.data.tweets_2013_11 =
       "id_str" : "4371541",
       "id" : 4371541
     }, {
-      "name" : "John Blackbourn \u2603",
+      "name" : "John Blackbourn \u272A",
       "screen_name" : "johnbillion",
       "indices" : [ 15, 27 ],
       "id_str" : "79053835",
@@ -2275,7 +2280,12 @@ Grailbird.data.tweets_2013_11 =
       "text" : "GoCougs",
       "indices" : [ 119, 127 ]
     } ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/LgbHxu82YT",
+      "expanded_url" : "http:\/\/bit.ly\/Ikkezr",
+      "display_url" : "bit.ly\/Ikkezr"
+    } ]
   },
   "geo" : { },
   "id_str" : "404069248114229248",
@@ -3003,7 +3013,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "igrigorik",
       "protected" : false,
       "id_str" : "9980812",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/59079748\/2262419520_e5832a812d_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/412364630279745536\/5xDKUf4r_normal.png",
       "id" : 9980812,
       "verified" : false
     }
@@ -3500,7 +3510,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Blackbourn \u2603",
+      "name" : "John Blackbourn \u272A",
       "screen_name" : "johnbillion",
       "indices" : [ 0, 12 ],
       "id_str" : "79053835",
@@ -3739,8 +3749,8 @@ Grailbird.data.tweets_2013_11 =
     } ],
     "media" : [ ],
     "hashtags" : [ {
-      "text" : "team1",
-      "indices" : [ 133, 139 ]
+      "text" : "team10up",
+      "indices" : [ 133, 140 ]
     } ],
     "urls" : [ {
       "indices" : [ 110, 132 ],
@@ -3831,7 +3841,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Blackbourn \u2603",
+      "name" : "John Blackbourn",
       "screen_name" : "johnbillion",
       "indices" : [ 3, 15 ],
       "id_str" : "79053835",
@@ -3842,7 +3852,12 @@ Grailbird.data.tweets_2013_11 =
       "text" : "WordPress",
       "indices" : [ 92, 102 ]
     } ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "https:\/\/t.co\/L5ZaaUD3SL",
+      "expanded_url" : "https:\/\/github.com\/johnbillion\/QueryMonitor",
+      "display_url" : "github.com\/johnbillion\/Qu\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "402469399975587842",
@@ -3869,7 +3884,7 @@ Grailbird.data.tweets_2013_11 =
     "id" : 402467557937917953,
     "created_at" : "2013-11-18 16:05:17 +0000",
     "user" : {
-      "name" : "John Blackbourn \u2603",
+      "name" : "John Blackbourn \u272A",
       "screen_name" : "johnbillion",
       "protected" : false,
       "id_str" : "79053835",
@@ -4844,7 +4859,12 @@ Grailbird.data.tweets_2013_11 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/a7vKJlIQNv",
+      "expanded_url" : "http:\/\/hint.fm\/wind\/",
+      "display_url" : "hint.fm\/wind\/"
+    } ]
   },
   "geo" : { },
   "id_str" : "402142462052818945",
@@ -4878,7 +4898,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "dansinker",
       "protected" : false,
       "id_str" : "8119452",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000846638176\/7b0f6f691a723c02354c08952764fab8_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416770698577588224\/p1rv_YtT_normal.jpeg",
       "id" : 8119452,
       "verified" : false
     }
@@ -5370,8 +5390,8 @@ Grailbird.data.tweets_2013_11 =
     } ],
     "media" : [ ],
     "hashtags" : [ {
-      "text" : "w",
-      "indices" : [ 137, 139 ]
+      "text" : "wcdenver13",
+      "indices" : [ 137, 140 ]
     } ],
     "urls" : [ {
       "indices" : [ 113, 136 ],
@@ -5436,8 +5456,16 @@ Grailbird.data.tweets_2013_11 =
       "id" : 37747812
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
+    "hashtags" : [ {
+      "text" : "wcorl",
+      "indices" : [ 139, 140 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/qf50jrHCl9",
+      "expanded_url" : "http:\/\/slides.carldanley.com\/wc-orlando-2013\/#1",
+      "display_url" : "slides.carldanley.com\/wc-orlando-201\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "401749955439632384",
@@ -5501,7 +5529,10 @@ Grailbird.data.tweets_2013_11 =
       "id" : 61380376
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "vvv",
+      "indices" : [ 139, 140 ]
+    } ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -7207,7 +7238,7 @@ Grailbird.data.tweets_2013_11 =
       "id_str" : "21204689",
       "id" : 21204689
     }, {
-      "name" : "John Blackbourn \u2603",
+      "name" : "John Blackbourn \u272A",
       "screen_name" : "johnbillion",
       "indices" : [ 78, 90 ],
       "id_str" : "79053835",
@@ -7525,7 +7556,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Amazing Maps",
+      "name" : " Amazing Maps ",
       "screen_name" : "Amazing_Maps",
       "indices" : [ 3, 16 ],
       "id_str" : "1571270053",
@@ -7612,7 +7643,7 @@ Grailbird.data.tweets_2013_11 =
     "id" : 387702750894911488,
     "created_at" : "2013-10-08 22:15:13 +0000",
     "user" : {
-      "name" : "Amazing Maps",
+      "name" : " Amazing Maps ",
       "screen_name" : "Amazing_Maps",
       "protected" : false,
       "id_str" : "1571270053",
@@ -7644,7 +7675,12 @@ Grailbird.data.tweets_2013_11 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/XZoOEKPs5H",
+      "expanded_url" : "http:\/\/www.theguardian.com\/society\/2013\/nov\/01\/secrets-worlds-happiest-cities-commute-property-prices",
+      "display_url" : "theguardian.com\/society\/2013\/n\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "399686908499853313",
@@ -7803,7 +7839,12 @@ Grailbird.data.tweets_2013_11 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/PoBz2KOyYA",
+      "expanded_url" : "http:\/\/plugins.trac.wordpress.org\/changeset\/801819",
+      "display_url" : "plugins.trac.wordpress.org\/changeset\/8018\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "399561948196392962",
@@ -9266,7 +9307,12 @@ Grailbird.data.tweets_2013_11 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/LSEU36sAqr",
+      "expanded_url" : "http:\/\/www.amazon.com\/review\/R3SNTSII1C8R1X",
+      "display_url" : "amazon.com\/review\/R3SNTSI\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "398301818402242560",
@@ -9748,7 +9794,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "dansinker",
       "protected" : false,
       "id_str" : "8119452",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000846638176\/7b0f6f691a723c02354c08952764fab8_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416770698577588224\/p1rv_YtT_normal.jpeg",
       "id" : 8119452,
       "verified" : false
     }

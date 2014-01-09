@@ -25,7 +25,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Falalalala-la-Ladama",
+      "name" : "Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -402,7 +402,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "nickbilton",
       "protected" : false,
       "id_str" : "1586501",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000857036262\/96TV85Mq_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416958679108157440\/tqu7CYlw_normal.jpeg",
       "id" : 1586501,
       "verified" : true
     }
@@ -499,7 +499,12 @@ Grailbird.data.tweets_2011_05 =
       "text" : "longreads",
       "indices" : [ 112, 122 ]
     } ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/4a3lBnT",
+      "expanded_url" : "http:\/\/www.howardweaver.com\/Writing_samples\/Non-fiction.html",
+      "display_url" : "howardweaver.com\/Writing_sample\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "73838818196865025",
