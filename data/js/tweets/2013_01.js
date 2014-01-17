@@ -517,7 +517,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "danielbachhuber",
       "protected" : false,
       "id_str" : "272166936",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2865634704\/bdca87af1cf475a17fe5e075e0e697ee_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423234303116341248\/TrO4M3zb_normal.jpeg",
       "id" : 272166936,
       "verified" : false
     }
@@ -2788,8 +2788,8 @@ Grailbird.data.tweets_2013_01 =
       "id_str" : "1011302935",
       "id" : 1011302935
     }, {
-      "name" : "I am Pakistan\/Zahid",
-      "screen_name" : "iam_pakistan",
+      "name" : "I am Pakistan",
+      "screen_name" : "Iam_Pakistan",
       "indices" : [ 139, 140 ],
       "id_str" : "562846357",
       "id" : 562846357
@@ -2805,8 +2805,8 @@ Grailbird.data.tweets_2013_01 =
     "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "I am Pakistan\/Zahid",
-        "screen_name" : "iam_pakistan",
+        "name" : "I am Pakistan",
+        "screen_name" : "Iam_Pakistan",
         "indices" : [ 122, 135 ],
         "id_str" : "562846357",
         "id" : 562846357
@@ -4519,7 +4519,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "danielbachhuber",
       "protected" : false,
       "id_str" : "272166936",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2865634704\/bdca87af1cf475a17fe5e075e0e697ee_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423234303116341248\/TrO4M3zb_normal.jpeg",
       "id" : 272166936,
       "verified" : false
     }

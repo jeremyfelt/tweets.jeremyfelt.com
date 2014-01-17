@@ -306,7 +306,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "danielbachhuber",
       "protected" : false,
       "id_str" : "272166936",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2865634704\/bdca87af1cf475a17fe5e075e0e697ee_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423234303116341248\/TrO4M3zb_normal.jpeg",
       "id" : 272166936,
       "verified" : false
     }
@@ -1972,7 +1972,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@sweden \/ G\u00F6ran ",
+      "name" : "@sweden \/ Drott ",
       "screen_name" : "sweden",
       "indices" : [ 3, 10 ],
       "id_str" : "19663706",
@@ -1999,11 +1999,11 @@ Grailbird.data.tweets_2012_09 =
     "id" : 247404378800140288,
     "created_at" : "2012-09-16 18:39:35 +0000",
     "user" : {
-      "name" : "@sweden \/ G\u00F6ran ",
+      "name" : "@sweden \/ Drott ",
       "screen_name" : "sweden",
       "protected" : false,
       "id_str" : "19663706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420102485655572480\/Osd5mdVw_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/422649040795209728\/wD_3uCn5_normal.png",
       "id" : 19663706,
       "verified" : false
     }
@@ -3210,7 +3210,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "kimberlypdx",
       "protected" : false,
       "id_str" : "59308637",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/411759317973344257\/0m0w_FE-_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423583438180851712\/T9s5TID4_normal.jpeg",
       "id" : 59308637,
       "verified" : false
     }
@@ -3599,7 +3599,7 @@ Grailbird.data.tweets_2012_09 =
     "user" : {
       "name" : "mary! ",
       "screen_name" : "mrui_",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "16415390",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/415022754182619136\/Ksxy8Mza_normal.jpeg",
       "id" : 16415390,
@@ -5164,7 +5164,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "783214",
       "id" : 783214
     }, {
-      "name" : "@sweden \/ G\u00F6ran ",
+      "name" : "@sweden \/ Drott ",
       "screen_name" : "sweden",
       "indices" : [ 42, 49 ],
       "id_str" : "19663706",

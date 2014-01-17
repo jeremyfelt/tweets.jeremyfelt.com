@@ -3497,7 +3497,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "danielbachhuber",
       "protected" : false,
       "id_str" : "272166936",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2865634704\/bdca87af1cf475a17fe5e075e0e697ee_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423234303116341248\/TrO4M3zb_normal.jpeg",
       "id" : 272166936,
       "verified" : false
     }
@@ -8843,7 +8843,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u3398",
+      "name" : "Kailey",
       "screen_name" : "trepmal",
       "indices" : [ 0, 8 ],
       "id_str" : "19574066",
@@ -8942,7 +8942,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "danielimmke",
       "protected" : false,
       "id_str" : "229286623",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000300740855\/9aacd9d14ea344dc7dec714709a1eac2_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/422080640477958144\/kUaHyHWq_normal.jpeg",
       "id" : 229286623,
       "verified" : false
     }
@@ -9640,7 +9640,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "danielbachhuber",
       "protected" : false,
       "id_str" : "272166936",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2865634704\/bdca87af1cf475a17fe5e075e0e697ee_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423234303116341248\/TrO4M3zb_normal.jpeg",
       "id" : 272166936,
       "verified" : false
     }
@@ -9892,7 +9892,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "danielbachhuber",
       "protected" : false,
       "id_str" : "272166936",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2865634704\/bdca87af1cf475a17fe5e075e0e697ee_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423234303116341248\/TrO4M3zb_normal.jpeg",
       "id" : 272166936,
       "verified" : false
     }
@@ -11345,7 +11345,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "411977369",
       "id" : 411977369
     }, {
-      "name" : "\u3398",
+      "name" : "Kailey",
       "screen_name" : "trepmal",
       "indices" : [ 15, 23 ],
       "id_str" : "19574066",

@@ -1705,7 +1705,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "cw",
       "protected" : false,
       "id_str" : "292",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458780912\/chris_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/422109557037342720\/hI_x_523_normal.jpeg",
       "id" : 292,
       "verified" : false
     }

@@ -1837,7 +1837,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "adamjodonnell",
       "protected" : false,
       "id_str" : "14058046",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000611150559\/7811aba7a9c536d9f7911f0e81d92b7e_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423634891608432640\/MTsXSiRp_normal.jpeg",
       "id" : 14058046,
       "verified" : false
     }

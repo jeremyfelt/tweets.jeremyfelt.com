@@ -3883,7 +3883,7 @@ Grailbird.data.tweets_2011_03 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/417689153036238849\/-ml807lt_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/421476144542519296\/QBh5qS-B_normal.png",
       "id" : 819797,
       "verified" : false
     }

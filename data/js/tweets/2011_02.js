@@ -1285,7 +1285,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "jilliancyork",
       "protected" : false,
       "id_str" : "14048901",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420406193132019712\/V-vu7Itr_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/421480240720785408\/3qa4VIzO_normal.png",
       "id" : 14048901,
       "verified" : false
     }
