@@ -1972,7 +1972,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@sweden \/ Drott ",
+      "name" : "@sweden \/ Oscar ",
       "screen_name" : "sweden",
       "indices" : [ 3, 10 ],
       "id_str" : "19663706",
@@ -1999,11 +1999,11 @@ Grailbird.data.tweets_2012_09 =
     "id" : 247404378800140288,
     "created_at" : "2012-09-16 18:39:35 +0000",
     "user" : {
-      "name" : "@sweden \/ Drott ",
+      "name" : "@sweden \/ Oscar ",
       "screen_name" : "sweden",
       "protected" : false,
       "id_str" : "19663706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/422649040795209728\/wD_3uCn5_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/425179403996254209\/LlkxwD9P_normal.png",
       "id" : 19663706,
       "verified" : false
     }
@@ -3599,9 +3599,9 @@ Grailbird.data.tweets_2012_09 =
     "user" : {
       "name" : "mary! ",
       "screen_name" : "mrui_",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "16415390",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/415022754182619136\/Ksxy8Mza_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/424440627128836096\/FmSO_d9b_normal.jpeg",
       "id" : 16415390,
       "verified" : false
     }
@@ -5164,7 +5164,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "783214",
       "id" : 783214
     }, {
-      "name" : "@sweden \/ Drott ",
+      "name" : "@sweden \/ Oscar ",
       "screen_name" : "sweden",
       "indices" : [ 42, 49 ],
       "id_str" : "19663706",

@@ -912,7 +912,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "NBCOlympics",
+      "name" : "NBC Olympics",
       "screen_name" : "NBCOlympics",
       "indices" : [ 86, 98 ],
       "id_str" : "14955353",
@@ -940,7 +940,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "NBCOlympics",
+      "name" : "NBC Olympics",
       "screen_name" : "NBCOlympics",
       "indices" : [ 3, 15 ],
       "id_str" : "14955353",
@@ -1057,7 +1057,7 @@ Grailbird.data.tweets_2012_07 =
     "id" : 228992456258101248,
     "created_at" : "2012-07-27 23:17:11 +0000",
     "user" : {
-      "name" : "NBCOlympics",
+      "name" : "NBC Olympics",
       "screen_name" : "NBCOlympics",
       "protected" : false,
       "id_str" : "14955353",
@@ -4334,7 +4334,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@sweden \/ Drott ",
+      "name" : "@sweden \/ Oscar ",
       "screen_name" : "sweden",
       "indices" : [ 3, 10 ],
       "id_str" : "19663706",
@@ -4361,11 +4361,11 @@ Grailbird.data.tweets_2012_07 =
     "id" : 221571629128499200,
     "created_at" : "2012-07-07 11:49:27 +0000",
     "user" : {
-      "name" : "@sweden \/ Drott ",
+      "name" : "@sweden \/ Oscar ",
       "screen_name" : "sweden",
       "protected" : false,
       "id_str" : "19663706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/422649040795209728\/wD_3uCn5_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/425179403996254209\/LlkxwD9P_normal.png",
       "id" : 19663706,
       "verified" : false
     }

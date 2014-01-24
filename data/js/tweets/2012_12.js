@@ -623,7 +623,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "bethanyrydmark",
       "protected" : false,
       "id_str" : "14222501",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000745666491\/609d5d4a200cb01d82f7ccede5ec8ff2_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/426432170656153601\/3eOoCRTt_normal.jpeg",
       "id" : 14222501,
       "verified" : false
     }

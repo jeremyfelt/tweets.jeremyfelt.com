@@ -5763,7 +5763,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "heidigerhardt",
       "protected" : false,
       "id_str" : "17105784",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1679858811\/heidi_g-3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/426076419743961088\/6H7evlGk_normal.jpeg",
       "id" : 17105784,
       "verified" : false
     }

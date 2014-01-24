@@ -2433,7 +2433,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Paul",
+      "name" : "Paul \u24E6",
       "screen_name" : "paul_wp",
       "indices" : [ 0, 8 ],
       "id_str" : "15728818",
@@ -9806,7 +9806,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "swissky",
       "protected" : false,
       "id_str" : "127495420",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000526096888\/3ace15ae6b386758644b4d146d3b6d60_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/425018669107015680\/N09jOpbn_normal.jpeg",
       "id" : 127495420,
       "verified" : false
     }

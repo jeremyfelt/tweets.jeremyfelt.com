@@ -1299,10 +1299,7 @@ Grailbird.data.tweets_2011_12 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-      "type" : "Point",
-      "coordinates" : [ 40.7313843138, -73.9827816892 ]
-    },
+    "geo" : { },
     "id_str" : "146825788346470400",
     "text" : "My Internet media lesson, courtesy of Louis CK, Radiohead & Prince: Start by being one of the greatest talents in the history of your craft.",
     "id" : 146825788346470400,

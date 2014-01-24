@@ -4898,7 +4898,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "sarcasymptote",
       "protected" : false,
       "id_str" : "137008259",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413178321217024000\/ug_muk1x_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/424583585488977920\/g5Dp1G2l_normal.jpeg",
       "id" : 137008259,
       "verified" : false
     }

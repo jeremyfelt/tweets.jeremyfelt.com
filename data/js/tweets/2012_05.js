@@ -2837,7 +2837,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "LaurenMAlbrecht",
       "protected" : false,
       "id_str" : "15333584",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2233423789\/NewAvatarMay2012_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/424945819351924736\/hq_2i1f8_normal.jpeg",
       "id" : 15333584,
       "verified" : false
     }

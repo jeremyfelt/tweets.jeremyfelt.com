@@ -1396,57 +1396,6 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jonuary Marbles",
-      "screen_name" : "JonnieMarbLes",
-      "indices" : [ 3, 17 ],
-      "id_str" : "17201202",
-      "id" : 17201202
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "93354815421296640",
-  "text" : "RT @JonnieMarbles: Sleepy, but have loads to do before tomorrow. There are serious rumours of shit-hot-shenanigans during the next 24 ho ...",
-  "retweeted_status" : {
-    "source" : "web",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "93065424387842048",
-    "text" : "Sleepy, but have loads to do before tomorrow. There are serious rumours of shit-hot-shenanigans during the next 24 hours...",
-    "id" : 93065424387842048,
-    "created_at" : "2011-07-18 21:11:40 +0000",
-    "user" : {
-      "name" : "Jonuary Marbles",
-      "screen_name" : "JonnieMarbLes",
-      "protected" : false,
-      "id_str" : "17201202",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2216329924\/July-2011---Rupert-Murdoc-012_normal.jpg",
-      "id" : 17201202,
-      "verified" : false
-    }
-  },
-  "id" : 93354815421296640,
-  "created_at" : "2011-07-19 16:21:37 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],

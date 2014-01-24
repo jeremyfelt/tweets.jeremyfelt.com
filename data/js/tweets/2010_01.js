@@ -586,7 +586,7 @@ Grailbird.data.tweets_2010_01 =
       "screen_name" : "lazycoder",
       "protected" : false,
       "id_str" : "697163",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3541746044\/78d94f7681ac751f41fbbe91d0abb097_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/424217655852032000\/d_N7Ka2i_normal.jpeg",
       "id" : 697163,
       "verified" : false
     }

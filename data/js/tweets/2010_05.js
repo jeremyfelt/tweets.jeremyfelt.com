@@ -1949,7 +1949,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "BR3NDA",
       "protected" : false,
       "id_str" : "778337",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413803103700267008\/NkiWTOdU_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/424809085360275458\/GgHvbRrY_normal.jpeg",
       "id" : 778337,
       "verified" : false
     }

@@ -4639,7 +4639,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "Vanadia",
       "protected" : false,
       "id_str" : "15406144",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000038215485\/dcd7320b933ce98b2af67a078706e435_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/425486126548144128\/Cy2XfzY1_normal.jpeg",
       "id" : 15406144,
       "verified" : false
     }
