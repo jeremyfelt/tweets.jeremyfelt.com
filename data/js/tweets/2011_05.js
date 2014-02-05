@@ -599,7 +599,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : " plc",
+      "name" : " peter clark",
       "screen_name" : "plc",
       "indices" : [ 14, 18 ],
       "id_str" : "5029791",
@@ -702,7 +702,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "mattwaite",
       "protected" : false,
       "id_str" : "8839152",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3426539193\/a65052b421b440629787f4ccaa0cb327_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/430140714748366848\/IHdXe8Rt_normal.jpeg",
       "id" : 8839152,
       "verified" : false
     }

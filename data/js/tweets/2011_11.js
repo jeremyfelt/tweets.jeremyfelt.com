@@ -655,7 +655,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steve \u00D0 Klabnik",
+      "name" : "Professor \u00D0oge",
       "screen_name" : "steveklabnik",
       "indices" : [ 3, 16 ],
       "id_str" : "22386062",
@@ -704,11 +704,11 @@ Grailbird.data.tweets_2011_11 =
     "id" : 138698219755536385,
     "created_at" : "2011-11-21 19:20:07 +0000",
     "user" : {
-      "name" : "Steve \u00D0 Klabnik",
+      "name" : "Professor \u00D0oge",
       "screen_name" : "steveklabnik",
       "protected" : false,
       "id_str" : "22386062",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000838881355\/7919aa018b8f4fd8f8eac1f475462d4a_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/427241769273540609\/kkVaRWjS_normal.png",
       "id" : 22386062,
       "verified" : false
     }
@@ -1895,7 +1895,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/425513491621879808\/cfvhEWXw_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/428003347711287296\/eJQ4ayKo_normal.jpeg",
       "id" : 22872643,
       "verified" : true
     }

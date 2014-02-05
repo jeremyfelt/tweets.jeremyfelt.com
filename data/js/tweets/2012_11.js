@@ -2257,7 +2257,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "tw2113",
       "protected" : false,
       "id_str" : "14354274",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000611589126\/3459110a5ca68db3c45c4adde1daba40_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/426954752945967104\/auq-oINZ_normal.jpeg",
       "id" : 14354274,
       "verified" : false
     }
@@ -3921,7 +3921,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "kimerachetty",
       "protected" : false,
       "id_str" : "262647783",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000666625357\/c930d2f9d4750b5d63e2b56aed18de3e_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/430002967262265344\/tA1nwirs_normal.jpeg",
       "id" : 262647783,
       "verified" : false
     }
@@ -4592,7 +4592,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "wonderboymusic",
       "protected" : false,
       "id_str" : "15473031",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000036883309\/abe38ef17973fe8f5be29af55b7d1b09_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/426773468835639296\/6_pUp-TF_normal.jpeg",
       "id" : 15473031,
       "verified" : false
     }

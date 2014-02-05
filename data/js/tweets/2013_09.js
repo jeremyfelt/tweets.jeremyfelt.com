@@ -2152,7 +2152,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Themosis",
+      "name" : "Themosis Framework",
       "screen_name" : "Themosis",
       "indices" : [ 0, 9 ],
       "id_str" : "1870714969",
@@ -4150,7 +4150,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "angelinamagnum",
       "protected" : false,
       "id_str" : "58708498",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1697997711\/grainyme_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/430057452701102080\/KdTbOetE_normal.jpeg",
       "id" : 58708498,
       "verified" : false
     }
@@ -6936,7 +6936,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3352529876\/8cd9c8492c2a8aad6036dce1041c5c90_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429334492772200448\/bNdfg_Pz_normal.jpeg",
       "id" : 18713,
       "verified" : false
     }

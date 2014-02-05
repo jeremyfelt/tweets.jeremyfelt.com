@@ -4046,7 +4046,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "angelinamagnum",
       "protected" : false,
       "id_str" : "58708498",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1697997711\/grainyme_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/430057452701102080\/KdTbOetE_normal.jpeg",
       "id" : 58708498,
       "verified" : false
     }
@@ -4180,7 +4180,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "mikeindustries",
       "protected" : false,
       "id_str" : "74523",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000140947856\/95a29c5136780e58afd8f8b1887997f9_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/426592176026296321\/DeYtgCg7_normal.jpeg",
       "id" : 74523,
       "verified" : false
     }
@@ -11582,7 +11582,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Themosis",
+      "name" : "Themosis Framework",
       "screen_name" : "Themosis",
       "indices" : [ 0, 9 ],
       "id_str" : "1870714969",

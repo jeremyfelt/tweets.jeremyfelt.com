@@ -1529,7 +1529,7 @@ Grailbird.data.tweets_2013_08 =
     "in_reply_to_screen_name" : "jeremyfelt",
     "in_reply_to_user_id_str" : "1741681",
     "user" : {
-      "name" : "K. Adam White",
+      "name" : "K.Adam White",
       "screen_name" : "kadamwhite",
       "protected" : false,
       "id_str" : "20061604",
@@ -3176,7 +3176,7 @@ Grailbird.data.tweets_2013_08 =
       "id_str" : "12819682",
       "id" : 12819682
     }, {
-      "name" : "PuppetConf 2013",
+      "name" : "PuppetConf 2014",
       "screen_name" : "PuppetConf",
       "indices" : [ 22, 33 ],
       "id_str" : "305186098",
@@ -3198,7 +3198,7 @@ Grailbird.data.tweets_2013_08 =
     "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "PuppetConf 2013",
+        "name" : "PuppetConf 2014",
         "screen_name" : "PuppetConf",
         "indices" : [ 7, 18 ],
         "id_str" : "305186098",
@@ -4044,7 +4044,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3352529876\/8cd9c8492c2a8aad6036dce1041c5c90_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429334492772200448\/bNdfg_Pz_normal.jpeg",
       "id" : 18713,
       "verified" : false
     }
@@ -4596,7 +4596,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "robertdall",
       "protected" : false,
       "id_str" : "90022172",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1668159554\/RD-Logo-Background_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429343530582953984\/W9EePa29_normal.png",
       "id" : 90022172,
       "verified" : false
     }

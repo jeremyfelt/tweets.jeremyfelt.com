@@ -817,7 +817,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "Stepto",
       "protected" : false,
       "id_str" : "3443591",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000699889186\/a86e260702c25b9745cc5aa90e9d6a6d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/430202994550788096\/UyK0RD-9_normal.jpeg",
       "id" : 3443591,
       "verified" : false
     }

@@ -6577,7 +6577,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "BadAstronomer",
       "protected" : false,
       "id_str" : "4620451",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/418596198358859776\/FG_HMEB2_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/430393993273171968\/-NVa7fTv_normal.jpeg",
       "id" : 4620451,
       "verified" : true
     }

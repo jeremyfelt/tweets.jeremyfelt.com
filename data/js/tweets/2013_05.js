@@ -1353,7 +1353,7 @@ Grailbird.data.tweets_2013_05 =
     "id" : 339542195780591616,
     "created_at" : "2013-05-29 00:42:22 +0000",
     "user" : {
-      "name" : "K. Adam White",
+      "name" : "K.Adam White",
       "screen_name" : "kadamwhite",
       "protected" : false,
       "id_str" : "20061604",
@@ -3529,7 +3529,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : " plc",
+      "name" : " peter clark",
       "screen_name" : "plc",
       "indices" : [ 3, 7 ],
       "id_str" : "5029791",
@@ -3566,7 +3566,7 @@ Grailbird.data.tweets_2013_05 =
     "id" : 336001419779911680,
     "created_at" : "2013-05-19 06:12:35 +0000",
     "user" : {
-      "name" : " plc",
+      "name" : " peter clark",
       "screen_name" : "plc",
       "protected" : false,
       "id_str" : "5029791",
@@ -5401,7 +5401,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "jkudish",
       "protected" : false,
       "id_str" : "33135576",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3020495178\/e69920e485b8610751b2c90dcc59a7eb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429187977965629440\/OgBgjoo1_normal.jpeg",
       "id" : 33135576,
       "verified" : false
     }
@@ -8008,7 +8008,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "jkudish",
       "protected" : false,
       "id_str" : "33135576",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3020495178\/e69920e485b8610751b2c90dcc59a7eb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429187977965629440\/OgBgjoo1_normal.jpeg",
       "id" : 33135576,
       "verified" : false
     }

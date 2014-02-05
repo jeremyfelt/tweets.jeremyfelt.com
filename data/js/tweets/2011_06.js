@@ -1445,7 +1445,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "RaheemKareem",
       "protected" : false,
       "id_str" : "41720099",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000753243611\/24353d6838e987c274d5b0fbdb48c5f2_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429698861553049601\/7Awiuv9k_normal.jpeg",
       "id" : 41720099,
       "verified" : false
     }
@@ -1572,7 +1572,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3352529876\/8cd9c8492c2a8aad6036dce1041c5c90_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429334492772200448\/bNdfg_Pz_normal.jpeg",
       "id" : 18713,
       "verified" : false
     }

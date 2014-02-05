@@ -4506,7 +4506,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "isaiah",
       "protected" : false,
       "id_str" : "3655191",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416269567455805440\/dXV06IiL_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/428714927205797888\/mV2CUpjA_normal.png",
       "id" : 3655191,
       "verified" : false
     }

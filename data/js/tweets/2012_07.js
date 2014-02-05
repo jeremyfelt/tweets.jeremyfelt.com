@@ -34,7 +34,7 @@ Grailbird.data.tweets_2012_07 =
       "id_str" : "3080761",
       "id" : 3080761
     }, {
-      "name" : "JOD",
+      "name" : "Jolie O'Dell",
       "screen_name" : "jolieodell",
       "indices" : [ 90, 101 ],
       "id_str" : "19417850",
@@ -56,7 +56,7 @@ Grailbird.data.tweets_2012_07 =
     "source" : "web",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "JOD",
+        "name" : "Jolie O'Dell",
         "screen_name" : "jolieodell",
         "indices" : [ 75, 86 ],
         "id_str" : "19417850",
@@ -1068,57 +1068,6 @@ Grailbird.data.tweets_2012_07 =
   },
   "id" : 228995783423315969,
   "created_at" : "2012-07-27 23:30:23 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Stay Puft",
-      "screen_name" : "StayPuft",
-      "indices" : [ 3, 12 ],
-      "id_str" : "458953226",
-      "id" : 458953226
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "228655786388234240",
-  "text" : "RT @StayPuft: There's this storm and New Yorkers are acting like they've never seen a bigger one. Obviously they forgot about me and Zuul.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/blackberry.com\/twitter\" rel=\"nofollow\"\u003ETwitter for BlackBerry\u00AE\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "228640430928035840",
-    "text" : "There's this storm and New Yorkers are acting like they've never seen a bigger one. Obviously they forgot about me and Zuul.",
-    "id" : 228640430928035840,
-    "created_at" : "2012-07-26 23:58:21 +0000",
-    "user" : {
-      "name" : "Stay Puft",
-      "screen_name" : "StayPuft",
-      "protected" : false,
-      "id_str" : "458953226",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416421334973816832\/MrIfbg-A_normal.jpeg",
-      "id" : 458953226,
-      "verified" : false
-    }
-  },
-  "id" : 228655786388234240,
-  "created_at" : "2012-07-27 00:59:22 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4334,7 +4283,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@sweden \/ Oscar ",
+      "name" : "@sweden \/ Elza",
       "screen_name" : "sweden",
       "indices" : [ 3, 10 ],
       "id_str" : "19663706",
@@ -4361,11 +4310,11 @@ Grailbird.data.tweets_2012_07 =
     "id" : 221571629128499200,
     "created_at" : "2012-07-07 11:49:27 +0000",
     "user" : {
-      "name" : "@sweden \/ Oscar ",
+      "name" : "@sweden \/ Elza",
       "screen_name" : "sweden",
       "protected" : false,
       "id_str" : "19663706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/425179403996254209\/LlkxwD9P_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/430258154790596608\/QWYty0ru_normal.jpeg",
       "id" : 19663706,
       "verified" : false
     }

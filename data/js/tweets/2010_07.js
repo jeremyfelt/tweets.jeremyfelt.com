@@ -2428,7 +2428,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "iammattthomas",
       "protected" : false,
       "id_str" : "7562432",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/420713866784276480\/FbFvCdAD_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/430293690326605825\/7XlwAclo_normal.jpeg",
       "id" : 7562432,
       "verified" : false
     }

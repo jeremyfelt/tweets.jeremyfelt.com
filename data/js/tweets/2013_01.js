@@ -2782,13 +2782,13 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scotland \/",
+      "name" : "Scotland \/ Chris",
       "screen_name" : "ScotVoices",
       "indices" : [ 3, 14 ],
       "id_str" : "1011302935",
       "id" : 1011302935
     }, {
-      "name" : "I am Pakistan",
+      "name" : "I am Pakistan\/Sohaib",
       "screen_name" : "Iam_Pakistan",
       "indices" : [ 139, 140 ],
       "id_str" : "562846357",
@@ -2805,7 +2805,7 @@ Grailbird.data.tweets_2013_01 =
     "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "I am Pakistan",
+        "name" : "I am Pakistan\/Sohaib",
         "screen_name" : "Iam_Pakistan",
         "indices" : [ 122, 135 ],
         "id_str" : "562846357",
@@ -2821,11 +2821,11 @@ Grailbird.data.tweets_2013_01 =
     "id" : 293623745178918912,
     "created_at" : "2013-01-22 07:38:50 +0000",
     "user" : {
-      "name" : "Scotland \/",
+      "name" : "Scotland \/ Chris",
       "screen_name" : "ScotVoices",
       "protected" : false,
       "id_str" : "1011302935",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/425777109941096448\/Jb8z_kyD_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/428621152748318721\/BcYn0Pz1_normal.jpeg",
       "id" : 1011302935,
       "verified" : false
     }
@@ -7083,7 +7083,7 @@ Grailbird.data.tweets_2013_01 =
       "id_str" : "14834340",
       "id" : 14834340
     }, {
-      "name" : "Steve \u00D0 Klabnik",
+      "name" : "Professor \u00D0oge",
       "screen_name" : "steveklabnik",
       "indices" : [ 123, 136 ],
       "id_str" : "22386062",
@@ -7105,7 +7105,7 @@ Grailbird.data.tweets_2013_01 =
     "source" : "\u003Ca href=\"http:\/\/bitly.com\" rel=\"nofollow\"\u003Ebitly\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Steve \u00D0 Klabnik",
+        "name" : "Professor \u00D0oge",
         "screen_name" : "steveklabnik",
         "indices" : [ 105, 118 ],
         "id_str" : "22386062",

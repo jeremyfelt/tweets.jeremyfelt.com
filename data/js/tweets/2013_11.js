@@ -2322,7 +2322,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "wsmagazine",
       "protected" : false,
       "id_str" : "20574680",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000665506718\/22430fbe90cacb70461ef8e70b5fdd61_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429409569068953600\/0uRxHMa3_normal.jpeg",
       "id" : 20574680,
       "verified" : false
     }
@@ -5161,7 +5161,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "angelinamagnum",
       "protected" : false,
       "id_str" : "58708498",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1697997711\/grainyme_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/430057452701102080\/KdTbOetE_normal.jpeg",
       "id" : 58708498,
       "verified" : false
     }
@@ -9548,7 +9548,7 @@ Grailbird.data.tweets_2013_11 =
     "id" : 397847493376880640,
     "created_at" : "2013-11-05 22:06:48 +0000",
     "user" : {
-      "name" : "K. Adam White",
+      "name" : "K.Adam White",
       "screen_name" : "kadamwhite",
       "protected" : false,
       "id_str" : "20061604",

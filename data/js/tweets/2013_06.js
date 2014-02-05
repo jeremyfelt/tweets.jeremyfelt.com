@@ -291,7 +291,7 @@ Grailbird.data.tweets_2013_06 =
     "id" : 351441934314770432,
     "created_at" : "2013-06-30 20:47:41 +0000",
     "user" : {
-      "name" : "K. Adam White",
+      "name" : "K.Adam White",
       "screen_name" : "kadamwhite",
       "protected" : false,
       "id_str" : "20061604",
@@ -861,7 +861,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "MikeRapin",
       "protected" : false,
       "id_str" : "1144581",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/414559505037684736\/yNtWlICC_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429044647701528576\/7BEmuLnW_normal.jpeg",
       "id" : 1144581,
       "verified" : false
     }
@@ -1745,7 +1745,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "335110427",
       "id" : 335110427
     }, {
-      "name" : "K. Adam White",
+      "name" : "K.Adam White",
       "screen_name" : "kadamwhite",
       "indices" : [ 10, 21 ],
       "id_str" : "20061604",
@@ -2104,7 +2104,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "45810221",
       "id" : 45810221
     }, {
-      "name" : "wordcampchicago",
+      "name" : "WordCamp Chicago",
       "screen_name" : "WordCampChicago",
       "indices" : [ 17, 33 ],
       "id_str" : "16584183",
@@ -2133,7 +2133,7 @@ Grailbird.data.tweets_2013_06 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "wordcampchicago",
+        "name" : "WordCamp Chicago",
         "screen_name" : "WordCampChicago",
         "indices" : [ 0, 16 ],
         "id_str" : "16584183",
@@ -2295,7 +2295,7 @@ Grailbird.data.tweets_2013_06 =
     "id" : 350694358892290048,
     "created_at" : "2013-06-28 19:17:05 +0000",
     "user" : {
-      "name" : "K. Adam White",
+      "name" : "K.Adam White",
       "screen_name" : "kadamwhite",
       "protected" : false,
       "id_str" : "20061604",
@@ -2571,7 +2571,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "1741681",
       "id" : 1741681
     }, {
-      "name" : "wordcampchicago",
+      "name" : "WordCamp Chicago",
       "screen_name" : "WordCampChicago",
       "indices" : [ 106, 122 ],
       "id_str" : "16584183",
@@ -2614,7 +2614,7 @@ Grailbird.data.tweets_2013_06 =
         "id_str" : "1741681",
         "id" : 1741681
       }, {
-        "name" : "wordcampchicago",
+        "name" : "WordCamp Chicago",
         "screen_name" : "WordCampChicago",
         "indices" : [ 96, 112 ],
         "id_str" : "16584183",
@@ -13163,7 +13163,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "jkudish",
       "protected" : false,
       "id_str" : "33135576",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3020495178\/e69920e485b8610751b2c90dcc59a7eb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429187977965629440\/OgBgjoo1_normal.jpeg",
       "id" : 33135576,
       "verified" : false
     }
