@@ -2215,7 +2215,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "mattwaite",
       "protected" : false,
       "id_str" : "8839152",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/430140714748366848\/IHdXe8Rt_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/432182150587105280\/QamfqVhc_normal.jpeg",
       "id" : 8839152,
       "verified" : false
     }
@@ -4105,7 +4105,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "acarvin",
       "protected" : false,
       "id_str" : "778057",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1820518678\/jem_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/433242651354087424\/wGiNMf67_normal.jpeg",
       "id" : 778057,
       "verified" : true
     }

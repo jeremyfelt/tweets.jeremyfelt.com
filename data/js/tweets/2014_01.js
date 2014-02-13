@@ -3612,7 +3612,7 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "RSherman_25",
       "protected" : false,
       "id_str" : "27698202",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3443424090\/5a58d956b8d0117719d8335e3aa4e632_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/431999294724263936\/c8xNVSTH_normal.jpeg",
       "id" : 27698202,
       "verified" : true
     }

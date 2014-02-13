@@ -1387,7 +1387,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "RollingStone",
       "protected" : false,
       "id_str" : "14780915",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1693601337\/RS-icon-twitter_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/433012766949908480\/W2emqzQE_normal.png",
       "id" : 14780915,
       "verified" : true
     }
@@ -4180,7 +4180,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "mikeindustries",
       "protected" : false,
       "id_str" : "74523",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/426592176026296321\/DeYtgCg7_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/430955581830995968\/sSqK3_b9_normal.jpeg",
       "id" : 74523,
       "verified" : false
     }
@@ -5347,7 +5347,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "snipeyhead",
       "protected" : false,
       "id_str" : "14246782",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000391311106\/86b7482b40140d0c525baee9e720f803_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/433333367808229376\/181oGMPR_normal.jpeg",
       "id" : 14246782,
       "verified" : false
     }
@@ -9431,7 +9431,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "K. Adam White",
+      "name" : "K.Adam White",
       "screen_name" : "kadamwhite",
       "indices" : [ 0, 11 ],
       "id_str" : "20061604",

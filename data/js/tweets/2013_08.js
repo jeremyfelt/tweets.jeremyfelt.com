@@ -1485,7 +1485,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "K. Adam White",
+      "name" : "K.Adam White",
       "screen_name" : "kadamwhite",
       "indices" : [ 3, 14 ],
       "id_str" : "20061604",
@@ -4596,7 +4596,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "robertdall",
       "protected" : false,
       "id_str" : "90022172",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429343530582953984\/W9EePa29_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/431856716137762816\/RoXgORr7_normal.png",
       "id" : 90022172,
       "verified" : false
     }
@@ -5131,21 +5131,15 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kirk Wight",
-      "screen_name" : "kwightca",
-      "indices" : [ 3, 12 ],
-      "id_str" : "269351539",
-      "id" : 269351539
-    }, {
       "name" : "10up",
       "screen_name" : "10up",
-      "indices" : [ 57, 62 ],
+      "indices" : [ 139, 140 ],
       "id_str" : "61380376",
       "id" : 61380376
     }, {
       "name" : "Jeremy Felt",
       "screen_name" : "jeremyfelt",
-      "indices" : [ 126, 137 ],
+      "indices" : [ 139, 140 ],
       "id_str" : "1741681",
       "id" : 1741681
     } ],
@@ -5189,10 +5183,10 @@ Grailbird.data.tweets_2013_08 =
     "created_at" : "2013-08-18 22:21:41 +0000",
     "user" : {
       "name" : "Kirk Wight",
-      "screen_name" : "kwightca",
+      "screen_name" : "kwight",
       "protected" : false,
       "id_str" : "269351539",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1302224225\/kw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/431574335870873600\/FphuDycS_normal.jpeg",
       "id" : 269351539,
       "verified" : false
     }
@@ -6193,15 +6187,9 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kirk Wight",
-      "screen_name" : "kwightca",
-      "indices" : [ 3, 12 ],
-      "id_str" : "269351539",
-      "id" : 269351539
-    }, {
       "name" : "Jeremy Felt",
       "screen_name" : "jeremyfelt",
-      "indices" : [ 67, 78 ],
+      "indices" : [ 84, 85 ],
       "id_str" : "1741681",
       "id" : 1741681
     } ],
@@ -6239,10 +6227,10 @@ Grailbird.data.tweets_2013_08 =
     "created_at" : "2013-08-17 16:49:52 +0000",
     "user" : {
       "name" : "Kirk Wight",
-      "screen_name" : "kwightca",
+      "screen_name" : "kwight",
       "protected" : false,
       "id_str" : "269351539",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1302224225\/kw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/431574335870873600\/FphuDycS_normal.jpeg",
       "id" : 269351539,
       "verified" : false
     }
@@ -10918,7 +10906,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "K. Adam White",
+      "name" : "K.Adam White",
       "screen_name" : "kadamwhite",
       "indices" : [ 0, 11 ],
       "id_str" : "20061604",

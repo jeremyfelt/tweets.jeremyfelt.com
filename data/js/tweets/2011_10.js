@@ -5515,7 +5515,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "alex",
       "protected" : false,
       "id_str" : "7380362",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000808651527\/5d46ff39441d8d763e24008fa9cde548_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/431643888030191616\/oJx3RMWO_normal.jpeg",
       "id" : 7380362,
       "verified" : true
     }

@@ -2166,10 +2166,10 @@ Grailbird.data.tweets_2010_05 =
     "in_reply_to_user_id_str" : "18713",
     "user" : {
       "name" : "Simple",
-      "screen_name" : "Simplify",
+      "screen_name" : "simple",
       "protected" : false,
       "id_str" : "71165241",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1629319406\/simple-icon-sm_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/431928508281925632\/YXwlo4DP_normal.png",
       "id" : 71165241,
       "verified" : true
     }
@@ -2917,7 +2917,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "acarvin",
       "protected" : false,
       "id_str" : "778057",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1820518678\/jem_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/433242651354087424\/wGiNMf67_normal.jpeg",
       "id" : 778057,
       "verified" : true
     }

@@ -4062,7 +4062,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/427234700986294272\/OudQcLT0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/430867634792312832\/YTfKfmwf_normal.png",
       "id" : 819797,
       "verified" : false
     }
@@ -4258,7 +4258,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/427234700986294272\/OudQcLT0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/430867634792312832\/YTfKfmwf_normal.png",
       "id" : 819797,
       "verified" : false
     }

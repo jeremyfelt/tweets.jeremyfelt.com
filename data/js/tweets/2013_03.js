@@ -25,7 +25,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "K. Adam White",
+      "name" : "K.Adam White",
       "screen_name" : "kadamwhite",
       "indices" : [ 0, 11 ],
       "id_str" : "20061604",
@@ -689,7 +689,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "K. Adam White",
+      "name" : "K.Adam White",
       "screen_name" : "kadamwhite",
       "indices" : [ 0, 11 ],
       "id_str" : "20061604",
@@ -722,7 +722,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "K. Adam White",
+      "name" : "K.Adam White",
       "screen_name" : "kadamwhite",
       "indices" : [ 0, 11 ],
       "id_str" : "20061604",
@@ -8401,7 +8401,7 @@ Grailbird.data.tweets_2013_03 =
       "screen_name" : "Lahlahlindsey",
       "protected" : false,
       "id_str" : "356752859",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/421188431926947840\/Aw_W34BF_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/432657741157367808\/z-VneCU1_normal.jpeg",
       "id" : 356752859,
       "verified" : false
     }

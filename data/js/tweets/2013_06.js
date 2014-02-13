@@ -88,7 +88,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "K. Adam White",
+      "name" : "K.Adam White",
       "screen_name" : "kadamwhite",
       "indices" : [ 0, 11 ],
       "id_str" : "20061604",
@@ -248,7 +248,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "K. Adam White",
+      "name" : "K.Adam White",
       "screen_name" : "kadamwhite",
       "indices" : [ 3, 14 ],
       "id_str" : "20061604",
@@ -327,7 +327,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "335110427",
       "id" : 335110427
     }, {
-      "name" : "K. Adam White",
+      "name" : "K.Adam White",
       "screen_name" : "kadamwhite",
       "indices" : [ 23, 34 ],
       "id_str" : "20061604",
@@ -378,7 +378,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "14132756",
       "id" : 14132756
     }, {
-      "name" : "K. Adam White",
+      "name" : "K.Adam White",
       "screen_name" : "kadamwhite",
       "indices" : [ 54, 65 ],
       "id_str" : "20061604",
@@ -417,7 +417,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "14886552",
       "id" : 14886552
     }, {
-      "name" : "K. Adam White",
+      "name" : "K.Adam White",
       "screen_name" : "kadamwhite",
       "indices" : [ 13, 24 ],
       "id_str" : "20061604",
@@ -1454,7 +1454,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "204901030",
       "id" : 204901030
     }, {
-      "name" : "K. Adam White",
+      "name" : "K.Adam White",
       "screen_name" : "kadamwhite",
       "indices" : [ 23, 34 ],
       "id_str" : "20061604",
@@ -1505,7 +1505,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "204901030",
       "id" : 204901030
     }, {
-      "name" : "K. Adam White",
+      "name" : "K.Adam White",
       "screen_name" : "kadamwhite",
       "indices" : [ 23, 34 ],
       "id_str" : "20061604",
@@ -1556,7 +1556,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "204901030",
       "id" : 204901030
     }, {
-      "name" : "K. Adam White",
+      "name" : "K.Adam White",
       "screen_name" : "kadamwhite",
       "indices" : [ 23, 34 ],
       "id_str" : "20061604",
@@ -1929,7 +1929,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "K. Adam White",
+      "name" : "K.Adam White",
       "screen_name" : "kadamwhite",
       "indices" : [ 2, 13 ],
       "id_str" : "20061604",
@@ -2190,7 +2190,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "K. Adam White",
+      "name" : "K.Adam White",
       "screen_name" : "kadamwhite",
       "indices" : [ 3, 14 ],
       "id_str" : "20061604",
@@ -7307,7 +7307,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "attebury",
       "protected" : false,
       "id_str" : "14735100",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1650822992\/avatar_032011_normal.JPG",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/431696089893183488\/yzHeVEWx_normal.jpeg",
       "id" : 14735100,
       "verified" : false
     }
@@ -12502,7 +12502,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "qubitsu",
       "protected" : false,
       "id_str" : "6124282",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1568608097\/withstuff_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/433352020544598016\/6zszxuBC_normal.jpeg",
       "id" : 6124282,
       "verified" : false
     }

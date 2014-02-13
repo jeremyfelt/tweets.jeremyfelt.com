@@ -3430,7 +3430,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "Schwarzenegger",
       "protected" : false,
       "id_str" : "12044602",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1349459573\/chess_normal.JPG",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/432948090199220224\/5a0-AuoQ_normal.jpeg",
       "id" : 12044602,
       "verified" : true
     }
