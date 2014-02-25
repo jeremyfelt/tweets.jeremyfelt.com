@@ -4687,7 +4687,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "SiobhanPMcKeown",
       "protected" : false,
       "id_str" : "59515348",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000625409381\/701c7f5932cc1403426966d82fb6019d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/434231867487686656\/hPUca6GP_normal.jpeg",
       "id" : 59515348,
       "verified" : false
     }

@@ -303,7 +303,7 @@ Grailbird.data.tweets_2013_03 =
       "screen_name" : "tollmanz",
       "protected" : false,
       "id_str" : "335110427",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3070011442\/bd101d11e94690c8096a8bbcb9226e2d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/435843708445941762\/_-pWIndR_normal.jpeg",
       "id" : 335110427,
       "verified" : false
     }
@@ -446,7 +446,7 @@ Grailbird.data.tweets_2013_03 =
       "screen_name" : "tollmanz",
       "protected" : false,
       "id_str" : "335110427",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3070011442\/bd101d11e94690c8096a8bbcb9226e2d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/435843708445941762\/_-pWIndR_normal.jpeg",
       "id" : 335110427,
       "verified" : false
     }
@@ -1439,7 +1439,7 @@ Grailbird.data.tweets_2013_03 =
       "screen_name" : "tollmanz",
       "protected" : false,
       "id_str" : "335110427",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3070011442\/bd101d11e94690c8096a8bbcb9226e2d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/435843708445941762\/_-pWIndR_normal.jpeg",
       "id" : 335110427,
       "verified" : false
     }
@@ -4168,7 +4168,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Professor \u00D0oge",
+      "name" : "Andromeda \/ Weyland",
       "screen_name" : "steveklabnik",
       "indices" : [ 3, 16 ],
       "id_str" : "22386062",
@@ -4195,7 +4195,7 @@ Grailbird.data.tweets_2013_03 =
     "id" : 314102444747538432,
     "created_at" : "2013-03-19 19:53:53 +0000",
     "user" : {
-      "name" : "Professor \u00D0oge",
+      "name" : "Andromeda \/ Weyland",
       "screen_name" : "steveklabnik",
       "protected" : false,
       "id_str" : "22386062",
@@ -4324,7 +4324,7 @@ Grailbird.data.tweets_2013_03 =
       "screen_name" : "tollmanz",
       "protected" : false,
       "id_str" : "335110427",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3070011442\/bd101d11e94690c8096a8bbcb9226e2d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/435843708445941762\/_-pWIndR_normal.jpeg",
       "id" : 335110427,
       "verified" : false
     }
@@ -5730,7 +5730,7 @@ Grailbird.data.tweets_2013_03 =
       "screen_name" : "tollmanz",
       "protected" : false,
       "id_str" : "335110427",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3070011442\/bd101d11e94690c8096a8bbcb9226e2d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/435843708445941762\/_-pWIndR_normal.jpeg",
       "id" : 335110427,
       "verified" : false
     }
@@ -6183,7 +6183,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Professor \u00D0oge",
+      "name" : "Andromeda \/ Weyland",
       "screen_name" : "steveklabnik",
       "indices" : [ 3, 16 ],
       "id_str" : "22386062",
@@ -6210,7 +6210,7 @@ Grailbird.data.tweets_2013_03 =
     "id" : 311989200369115136,
     "created_at" : "2013-03-13 23:56:36 +0000",
     "user" : {
-      "name" : "Professor \u00D0oge",
+      "name" : "Andromeda \/ Weyland",
       "screen_name" : "steveklabnik",
       "protected" : false,
       "id_str" : "22386062",

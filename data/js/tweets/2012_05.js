@@ -719,7 +719,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "tollmanz",
       "protected" : false,
       "id_str" : "335110427",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3070011442\/bd101d11e94690c8096a8bbcb9226e2d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/435843708445941762\/_-pWIndR_normal.jpeg",
       "id" : 335110427,
       "verified" : false
     }
@@ -1648,7 +1648,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "tollmanz",
       "protected" : false,
       "id_str" : "335110427",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3070011442\/bd101d11e94690c8096a8bbcb9226e2d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/435843708445941762\/_-pWIndR_normal.jpeg",
       "id" : 335110427,
       "verified" : false
     }
@@ -1743,7 +1743,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "tollmanz",
       "protected" : false,
       "id_str" : "335110427",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3070011442\/bd101d11e94690c8096a8bbcb9226e2d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/435843708445941762\/_-pWIndR_normal.jpeg",
       "id" : 335110427,
       "verified" : false
     }
@@ -2558,7 +2558,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "tollmanz",
       "protected" : false,
       "id_str" : "335110427",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3070011442\/bd101d11e94690c8096a8bbcb9226e2d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/435843708445941762\/_-pWIndR_normal.jpeg",
       "id" : 335110427,
       "verified" : false
     }
@@ -4008,7 +4008,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "tollmanz",
       "protected" : false,
       "id_str" : "335110427",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3070011442\/bd101d11e94690c8096a8bbcb9226e2d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/435843708445941762\/_-pWIndR_normal.jpeg",
       "id" : 335110427,
       "verified" : false
     }

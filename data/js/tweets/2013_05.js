@@ -2251,7 +2251,7 @@ Grailbird.data.tweets_2013_05 =
       "id_str" : "1449166657",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3694671282\/abf5cca10d661d1016a57f81b75a358b_normal.jpeg",
       "id" : 1449166657,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 337936749416292352,

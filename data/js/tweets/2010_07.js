@@ -3264,7 +3264,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Typekit",
+      "name" : "Adobe Typekit",
       "screen_name" : "typekit",
       "indices" : [ 3, 11 ],
       "id_str" : "30065033",
@@ -3291,7 +3291,7 @@ Grailbird.data.tweets_2010_07 =
     "id" : 18140262029,
     "created_at" : "2010-07-09 18:55:43 +0000",
     "user" : {
-      "name" : "Typekit",
+      "name" : "Adobe Typekit",
       "screen_name" : "typekit",
       "protected" : false,
       "id_str" : "30065033",

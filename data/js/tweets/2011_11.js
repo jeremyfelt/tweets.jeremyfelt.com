@@ -655,7 +655,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Professor \u00D0oge",
+      "name" : "Andromeda \/ Weyland",
       "screen_name" : "steveklabnik",
       "indices" : [ 3, 16 ],
       "id_str" : "22386062",
@@ -704,7 +704,7 @@ Grailbird.data.tweets_2011_11 =
     "id" : 138698219755536385,
     "created_at" : "2011-11-21 19:20:07 +0000",
     "user" : {
-      "name" : "Professor \u00D0oge",
+      "name" : "Andromeda \/ Weyland",
       "screen_name" : "steveklabnik",
       "protected" : false,
       "id_str" : "22386062",

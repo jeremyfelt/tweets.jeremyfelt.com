@@ -1972,7 +1972,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@sweden \/ Elza",
+      "name" : "@sweden \/ Helene",
       "screen_name" : "sweden",
       "indices" : [ 3, 10 ],
       "id_str" : "19663706",
@@ -1999,11 +1999,11 @@ Grailbird.data.tweets_2012_09 =
     "id" : 247404378800140288,
     "created_at" : "2012-09-16 18:39:35 +0000",
     "user" : {
-      "name" : "@sweden \/ Marie",
+      "name" : "@sweden \/ Helene",
       "screen_name" : "sweden",
       "protected" : false,
       "id_str" : "19663706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/432785431885672448\/AoV860kh_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/435325208807755777\/mSHtHNCS_normal.png",
       "id" : 19663706,
       "verified" : false
     }
@@ -3210,7 +3210,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "kimberlypdx",
       "protected" : false,
       "id_str" : "59308637",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429546520283594752\/JCFyid1g_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/435489778444668928\/gGUbC9lu_normal.jpeg",
       "id" : 59308637,
       "verified" : false
     }
@@ -3798,7 +3798,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "tollmanz",
       "protected" : false,
       "id_str" : "335110427",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3070011442\/bd101d11e94690c8096a8bbcb9226e2d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/435843708445941762\/_-pWIndR_normal.jpeg",
       "id" : 335110427,
       "verified" : false
     }
@@ -4323,7 +4323,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "tollmanz",
       "protected" : false,
       "id_str" : "335110427",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3070011442\/bd101d11e94690c8096a8bbcb9226e2d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/435843708445941762\/_-pWIndR_normal.jpeg",
       "id" : 335110427,
       "verified" : false
     }
@@ -5164,7 +5164,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "783214",
       "id" : 783214
     }, {
-      "name" : "@sweden \/ Marie",
+      "name" : "@sweden \/ Helene",
       "screen_name" : "sweden",
       "indices" : [ 42, 49 ],
       "id_str" : "19663706",

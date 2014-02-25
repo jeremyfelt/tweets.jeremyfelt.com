@@ -6445,33 +6445,6 @@ Grailbird.data.tweets_2012_12 =
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 78, 98 ],
-      "url" : "http:\/\/t.co\/qMBvxdzt",
-      "expanded_url" : "http:\/\/manpages.ubuntu.com\/manpages\/gutsy\/man1\/ack.1.html",
-      "display_url" : "manpages.ubuntu.com\/manpages\/gutsy\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "275363519246000128",
-  "text" : "Though a highly versatile Kanji code converter could come in handy one day... http:\/\/t.co\/qMBvxdzt",
-  "id" : 275363519246000128,
-  "created_at" : "2012-12-02 22:19:13 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "web",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -6578,7 +6551,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/433265480434855936\/NW-s02CH_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/433683708889944064\/JnBhyDwA_normal.jpeg",
       "id" : 767,
       "verified" : true
     }
