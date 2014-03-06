@@ -2892,16 +2892,11 @@ Grailbird.data.tweets_2010_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "757988604256257",
   "geo" : { },
   "id_str" : "759039914938369",
-  "in_reply_to_user_id" : 17909879,
   "text" : "@Tayaya invite on its way",
   "id" : 759039914938369,
-  "in_reply_to_status_id" : 757988604256257,
   "created_at" : "2010-11-06 03:59:03 +0000",
-  "in_reply_to_screen_name" : "Tayaya",
-  "in_reply_to_user_id_str" : "17909879",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

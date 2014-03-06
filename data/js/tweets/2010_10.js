@@ -3062,7 +3062,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ColonelTribune",
+      "name" : "Colonel Tribune",
       "screen_name" : "ColonelTribune",
       "indices" : [ 3, 18 ],
       "id_str" : "14178674",
@@ -3089,7 +3089,7 @@ Grailbird.data.tweets_2010_10 =
     "id" : 27204506478,
     "created_at" : "2010-10-13 03:09:17 +0000",
     "user" : {
-      "name" : "ColonelTribune",
+      "name" : "Colonel Tribune",
       "screen_name" : "ColonelTribune",
       "protected" : false,
       "id_str" : "14178674",

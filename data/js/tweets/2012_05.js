@@ -3265,7 +3265,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kailey",
+      "name" : "Kailey Lampert",
       "screen_name" : "trepmal",
       "indices" : [ 0, 8 ],
       "id_str" : "19574066",
@@ -3733,7 +3733,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kailey",
+      "name" : "Kailey Lampert",
       "screen_name" : "trepmal",
       "indices" : [ 3, 11 ],
       "id_str" : "19574066",
@@ -3766,7 +3766,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 203571638049054720,
     "created_at" : "2012-05-18 19:43:55 +0000",
     "user" : {
-      "name" : "Kailey",
+      "name" : "Kailey Lampert",
       "screen_name" : "trepmal",
       "protected" : false,
       "id_str" : "19574066",

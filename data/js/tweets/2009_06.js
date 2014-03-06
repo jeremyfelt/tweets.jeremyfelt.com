@@ -5345,16 +5345,11 @@ Grailbird.data.tweets_2009_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "2148291460",
   "geo" : { },
   "id_str" : "2148898675",
-  "in_reply_to_user_id" : 17909879,
   "text" : "@Tayaya Of course. Gin on ice just isn't the same when there's snow on the ground. Just like a nice room temperature Guiness isn't July.",
   "id" : 2148898675,
-  "in_reply_to_status_id" : 2148291460,
   "created_at" : "2009-06-13 00:00:00 +0000",
-  "in_reply_to_screen_name" : "Tayaya",
-  "in_reply_to_user_id_str" : "17909879",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5667,12 +5662,9 @@ Grailbird.data.tweets_2009_06 =
   },
   "geo" : { },
   "id_str" : "2132695107",
-  "in_reply_to_user_id" : 17909879,
   "text" : "@tayaya because people like to ask stories instead of questions.",
   "id" : 2132695107,
   "created_at" : "2009-06-12 00:00:00 +0000",
-  "in_reply_to_screen_name" : "Tayaya",
-  "in_reply_to_user_id_str" : "17909879",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -8418,11 +8410,11 @@ Grailbird.data.tweets_2009_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "M.Giannii Calvert",
-      "screen_name" : "giannii",
+      "name" : "Gianni Iodice",
+      "screen_name" : "GianniI",
       "indices" : [ 0, 8 ],
-      "id_str" : "378971293",
-      "id" : 378971293
+      "id_str" : "2364882773",
+      "id" : 2364882773
     } ],
     "media" : [ ],
     "hashtags" : [ ],

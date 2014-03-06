@@ -2691,7 +2691,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "carldanley",
       "protected" : false,
       "id_str" : "37747812",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000251492352\/bbcb7564b209711953cebbfbeb3a641a_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/441407786388185090\/525y6Ej9_normal.jpeg",
       "id" : 37747812,
       "verified" : false
     }
@@ -4148,7 +4148,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gary Pendergast",
+      "name" : "Gary",
       "screen_name" : "GaryPendergast",
       "indices" : [ 0, 15 ],
       "id_str" : "14606628",
@@ -6606,7 +6606,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "pasdecouleur",
       "protected" : false,
       "id_str" : "18437239",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1975814997\/image_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/440761533522399232\/ftSYIr77_normal.jpeg",
       "id" : 18437239,
       "verified" : false
     }
@@ -13969,7 +13969,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3464638305\/def60bff644fbcca6f733efe47d69def_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/436613262637936640\/XcG4cbCA_normal.jpeg",
       "id" : 21204689,
       "verified" : false
     }

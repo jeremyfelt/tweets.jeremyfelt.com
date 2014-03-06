@@ -529,16 +529,11 @@ Grailbird.data.tweets_2010_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "14699306553",
   "geo" : { },
   "id_str" : "14711746769",
-  "in_reply_to_user_id" : 17909879,
   "text" : "@Tayaya Nice VI :)",
   "id" : 14711746769,
-  "in_reply_to_status_id" : 14699306553,
   "created_at" : "2010-05-25 00:00:00 +0000",
-  "in_reply_to_screen_name" : "Tayaya",
-  "in_reply_to_user_id_str" : "17909879",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1918,7 +1913,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/dev.twitter.com\/\" rel=\"nofollow\"\u003EAPI\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brenda Wallace",
+      "name" : "Hipster Wallace",
       "screen_name" : "BR3NDA",
       "indices" : [ 3, 10 ],
       "id_str" : "778337",
@@ -1945,7 +1940,7 @@ Grailbird.data.tweets_2010_05 =
     "id" : 14202235366,
     "created_at" : "2010-05-18 02:57:52 +0000",
     "user" : {
-      "name" : "Brenda Wallace",
+      "name" : "Hipster Wallace",
       "screen_name" : "BR3NDA",
       "protected" : false,
       "id_str" : "778337",
@@ -2917,7 +2912,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "acarvin",
       "protected" : false,
       "id_str" : "778057",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/433989600264978433\/pPsP41f8_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/439584116120379392\/OCdKw5fz_normal.jpeg",
       "id" : 778057,
       "verified" : true
     }
@@ -3309,16 +3304,11 @@ Grailbird.data.tweets_2010_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "13705710111",
   "geo" : { },
   "id_str" : "13708714427",
-  "in_reply_to_user_id" : 17909879,
   "text" : "@Tayaya Tonight was the first pigeon murdering lyric listening experience that I can recall.",
   "id" : 13708714427,
-  "in_reply_to_status_id" : 13705710111,
   "created_at" : "2010-05-10 00:00:00 +0000",
-  "in_reply_to_screen_name" : "Tayaya",
-  "in_reply_to_user_id_str" : "17909879",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

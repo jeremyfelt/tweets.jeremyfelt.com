@@ -606,16 +606,11 @@ Grailbird.data.tweets_2009_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "5785630034",
   "geo" : { },
   "id_str" : "5787042771",
-  "in_reply_to_user_id" : 17909879,
   "text" : "@Tayaya You're a third of the way there. :)",
   "id" : 5787042771,
-  "in_reply_to_status_id" : 5785630034,
   "created_at" : "2009-11-17 00:00:00 +0000",
-  "in_reply_to_screen_name" : "Tayaya",
-  "in_reply_to_user_id_str" : "17909879",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

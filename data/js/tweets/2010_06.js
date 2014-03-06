@@ -236,7 +236,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Support",
+      "name" : "Twitter Support",
       "screen_name" : "Support",
       "indices" : [ 3, 11 ],
       "id_str" : "17874544",
@@ -263,7 +263,7 @@ Grailbird.data.tweets_2010_06 =
     "id" : 17386198386,
     "created_at" : "2010-06-30 03:43:49 +0000",
     "user" : {
-      "name" : "Support",
+      "name" : "Twitter Support",
       "screen_name" : "Support",
       "protected" : false,
       "id_str" : "17874544",
@@ -2584,7 +2584,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "acarvin",
       "protected" : false,
       "id_str" : "778057",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/433989600264978433\/pPsP41f8_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/439584116120379392\/OCdKw5fz_normal.jpeg",
       "id" : 778057,
       "verified" : true
     }
@@ -2802,57 +2802,6 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "16497706466",
   "text" : "Epicish storm outside. Could turn epic at any moment.",
   "id" : 16497706466,
-  "created_at" : "2010-06-18 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "web",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Scott",
-      "screen_name" : "Tayaya",
-      "indices" : [ 3, 10 ],
-      "id_str" : "17909879",
-      "id" : 17909879
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "16497827443",
-  "text" : "RT @Tayaya: Holy shit!  Biblical weather band.  61mph winds. http:\/\/bit.ly\/aczMN8  http:\/\/bit.ly\/awZYMU  http:\/\/bit.ly\/9VaLcD",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\/\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "16497719879",
-    "text" : "Holy shit!  Biblical weather band.  61mph winds. http:\/\/bit.ly\/aczMN8  http:\/\/bit.ly\/awZYMU  http:\/\/bit.ly\/9VaLcD",
-    "id" : 16497719879,
-    "created_at" : "2010-06-18 20:57:22 +0000",
-    "user" : {
-      "name" : "Scott",
-      "screen_name" : "Tayaya",
-      "protected" : false,
-      "id_str" : "17909879",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/93893243\/RRoD_normal.jpg",
-      "id" : 17909879,
-      "verified" : false
-    }
-  },
-  "id" : 16497827443,
   "created_at" : "2010-06-18 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -4312,7 +4261,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "cubanalaf",
       "protected" : false,
       "id_str" : "15377897",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/433988980208439297\/2ndnST2l_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/437659579845840896\/oSZ9ewH4_normal.png",
       "id" : 15377897,
       "verified" : false
     }
@@ -5195,7 +5144,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/428003347711287296\/eJQ4ayKo_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/439141342485024768\/Fnelyni0_normal.jpeg",
       "id" : 22872643,
       "verified" : true
     }

@@ -2013,7 +2013,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "harrisj",
       "protected" : false,
       "id_str" : "681473",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000669655854\/226f26e7465723ed40eeee14067bec33_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/439485476643549184\/0jTb8uJs_normal.jpeg",
       "id" : 681473,
       "verified" : true
     }
@@ -3630,7 +3630,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "_mfields",
       "protected" : false,
       "id_str" : "17112549",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000717163238\/2dadd10b61d30690eed1f1fcfa4a528d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/438221825634349056\/dfXJmUKK_normal.jpeg",
       "id" : 17112549,
       "verified" : false
     }
@@ -5768,7 +5768,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gary Pendergast",
+      "name" : "Gary",
       "screen_name" : "GaryPendergast",
       "indices" : [ 0, 15 ],
       "id_str" : "14606628",
@@ -6428,7 +6428,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gary Pendergast",
+      "name" : "Gary",
       "screen_name" : "GaryPendergast",
       "indices" : [ 3, 18 ],
       "id_str" : "14606628",
@@ -6465,7 +6465,7 @@ Grailbird.data.tweets_2013_09 =
     "id" : 378402700452319233,
     "created_at" : "2013-09-13 06:20:08 +0000",
     "user" : {
-      "name" : "Gary Pendergast",
+      "name" : "Gary",
       "screen_name" : "GaryPendergast",
       "protected" : false,
       "id_str" : "14606628",
@@ -9066,7 +9066,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "6306542",
       "id" : 6306542
     }, {
-      "name" : "Gary Pendergast",
+      "name" : "Gary",
       "screen_name" : "GaryPendergast",
       "indices" : [ 8, 23 ],
       "id_str" : "14606628",
@@ -9157,7 +9157,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "272166936",
       "id" : 272166936
     }, {
-      "name" : "Gary Pendergast",
+      "name" : "Gary",
       "screen_name" : "GaryPendergast",
       "indices" : [ 17, 32 ],
       "id_str" : "14606628",
@@ -9196,7 +9196,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "272166936",
       "id" : 272166936
     }, {
-      "name" : "Gary Pendergast",
+      "name" : "Gary",
       "screen_name" : "GaryPendergast",
       "indices" : [ 17, 32 ],
       "id_str" : "14606628",

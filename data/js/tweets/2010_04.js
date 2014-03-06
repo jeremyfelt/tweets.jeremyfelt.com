@@ -91,81 +91,13 @@ Grailbird.data.tweets_2010_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scott",
-      "screen_name" : "Tayaya",
-      "indices" : [ 3, 10 ],
-      "id_str" : "17909879",
-      "id" : 17909879
-    }, {
-      "name" : "Jeremy Felt",
-      "screen_name" : "jeremyfelt",
-      "indices" : [ 12, 23 ],
-      "id_str" : "1741681",
-      "id" : 1741681
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "13131082120",
-  "text" : "RT @Tayaya: @jeremyfelt You have met your bejeweled match... http:\/\/bit.ly\/cZLdve",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tweetdeck.com\/\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Jeremy Felt",
-        "screen_name" : "jeremyfelt",
-        "indices" : [ 0, 11 ],
-        "id_str" : "1741681",
-        "id" : 1741681
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "13044114675",
-    "geo" : { },
-    "id_str" : "13112360277",
-    "in_reply_to_user_id" : 1741681,
-    "text" : "@jeremyfelt You have met your bejeweled match... http:\/\/bit.ly\/cZLdve",
-    "id" : 13112360277,
-    "in_reply_to_status_id" : 13044114675,
-    "created_at" : "2010-04-30 05:16:09 +0000",
-    "in_reply_to_screen_name" : "jeremyfelt",
-    "in_reply_to_user_id_str" : "1741681",
-    "user" : {
-      "name" : "Scott",
-      "screen_name" : "Tayaya",
-      "protected" : false,
-      "id_str" : "17909879",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/93893243\/RRoD_normal.jpg",
-      "id" : 17909879,
-      "verified" : false
-    }
-  },
-  "id" : 13131082120,
-  "created_at" : "2010-04-30 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "web",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Brian Stelter",
       "screen_name" : "brianstelter",
       "indices" : [ 3, 16 ],
       "id_str" : "14515799",
       "id" : 14515799
     }, {
-      "name" : "\u27C1 Jenna Wortham \u27C1",
+      "name" : "\u25B5 Jenna Wortham \u25B5",
       "screen_name" : "jennydeluxe",
       "indices" : [ 21, 33 ],
       "id_str" : "10454572",
@@ -182,7 +114,7 @@ Grailbird.data.tweets_2010_04 =
     "source" : "web",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u27C1 Jenna Wortham \u27C1",
+        "name" : "\u25B5 Jenna Wortham \u25B5",
         "screen_name" : "jennydeluxe",
         "indices" : [ 3, 15 ],
         "id_str" : "10454572",
@@ -2269,12 +2201,9 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12476287478",
-  "in_reply_to_user_id" : 17909879,
   "text" : "@Tayaya The double double down. http:\/\/bit.ly\/c81drg",
   "id" : 12476287478,
   "created_at" : "2010-04-19 00:00:00 +0000",
-  "in_reply_to_screen_name" : "Tayaya",
-  "in_reply_to_user_id_str" : "17909879",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2797,12 +2726,9 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12065663585",
-  "in_reply_to_user_id" : 17909879,
   "text" : "@tayaya RE: KFC - \" America, just because you can, it doesn't mean you have to. \" http:\/\/bit.ly\/cexwNr",
   "id" : 12065663585,
   "created_at" : "2010-04-12 00:00:00 +0000",
-  "in_reply_to_screen_name" : "Tayaya",
-  "in_reply_to_user_id_str" : "17909879",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4105,7 +4031,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "acarvin",
       "protected" : false,
       "id_str" : "778057",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/433989600264978433\/pPsP41f8_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/439584116120379392\/OCdKw5fz_normal.jpeg",
       "id" : 778057,
       "verified" : true
     }

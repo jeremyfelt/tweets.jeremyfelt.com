@@ -834,7 +834,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/428003347711287296\/eJQ4ayKo_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/439141342485024768\/Fnelyni0_normal.jpeg",
       "id" : 22872643,
       "verified" : true
     }
@@ -3496,16 +3496,11 @@ Grailbird.data.tweets_2010_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "21205755724",
   "geo" : { },
   "id_str" : "21233531793",
-  "in_reply_to_user_id" : 17909879,
   "text" : "@Tayaya of course I did. Action, love, cool effects, Jason S, Michael Cera. Who wouldn't see that?",
   "id" : 21233531793,
-  "in_reply_to_status_id" : 21205755724,
   "created_at" : "2010-08-15 00:00:00 +0000",
-  "in_reply_to_screen_name" : "Tayaya",
-  "in_reply_to_user_id_str" : "17909879",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4062,7 +4057,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/435943499125374977\/BnclPWNY_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/439425463643951104\/N5NUj4xi_normal.png",
       "id" : 819797,
       "verified" : false
     }
@@ -4258,7 +4253,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/435943499125374977\/BnclPWNY_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/439425463643951104\/N5NUj4xi_normal.png",
       "id" : 819797,
       "verified" : false
     }
@@ -5915,7 +5910,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "lazycoder",
       "protected" : false,
       "id_str" : "697163",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/424217655852032000\/d_N7Ka2i_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/438500736943390720\/ZRcLXF09_normal.jpeg",
       "id" : 697163,
       "verified" : false
     }
