@@ -829,7 +829,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "dailyherald",
+      "name" : "Daily Herald",
       "screen_name" : "dailyherald",
       "indices" : [ 28, 40 ],
       "id_str" : "8960722",

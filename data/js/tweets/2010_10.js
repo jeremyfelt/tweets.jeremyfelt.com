@@ -4317,7 +4317,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mr.d\u0CA0_\u0CA0b",
+      "name" : "Ricardo Cabello",
       "screen_name" : "mrdoob",
       "indices" : [ 3, 10 ],
       "id_str" : "20733754",
@@ -4344,11 +4344,11 @@ Grailbird.data.tweets_2010_10 =
     "id" : 26614248618,
     "created_at" : "2010-10-07 03:09:51 +0000",
     "user" : {
-      "name" : "Mr.d\u0CA0_\u0CA0b",
+      "name" : "Ricardo Cabello",
       "screen_name" : "mrdoob",
       "protected" : false,
       "id_str" : "20733754",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3333866854\/40901bb4e7483261a47d5a9a16339da5_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/443525411226415104\/3dA2hCFR_normal.png",
       "id" : 20733754,
       "verified" : false
     }

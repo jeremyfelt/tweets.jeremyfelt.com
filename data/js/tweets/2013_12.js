@@ -106,7 +106,7 @@ Grailbird.data.tweets_2013_12 =
       "id" : 15838676
     }, {
       "name" : "SB Nation",
-      "screen_name" : "sbnation",
+      "screen_name" : "SBNation",
       "indices" : [ 32, 41 ],
       "id_str" : "16745015",
       "id" : 16745015
@@ -128,7 +128,7 @@ Grailbird.data.tweets_2013_12 =
     "entities" : {
       "user_mentions" : [ {
         "name" : "SB Nation",
-        "screen_name" : "sbnation",
+        "screen_name" : "SBNation",
         "indices" : [ 22, 31 ],
         "id_str" : "16745015",
         "id" : 16745015
@@ -445,11 +445,11 @@ Grailbird.data.tweets_2013_12 =
       "id_str" : "79053835",
       "id" : 79053835
     }, {
-      "name" : "Matt Thomas",
+      "name" : "Matt (Thomas) Miklic",
       "screen_name" : "iammattthomas",
       "indices" : [ 93, 107 ],
-      "id_str" : "7562432",
-      "id" : 7562432
+      "id_str" : "2395558698",
+      "id" : 2395558698
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -479,11 +479,11 @@ Grailbird.data.tweets_2013_12 =
         "id_str" : "79053835",
         "id" : 79053835
       }, {
-        "name" : "Matt Thomas",
+        "name" : "Matt (Thomas) Miklic",
         "screen_name" : "iammattthomas",
         "indices" : [ 82, 96 ],
-        "id_str" : "7562432",
-        "id" : 7562432
+        "id_str" : "2395558698",
+        "id" : 2395558698
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -7364,11 +7364,11 @@ Grailbird.data.tweets_2013_12 =
       "id_str" : "16213079",
       "id" : 16213079
     }, {
-      "name" : "Matt Thomas",
+      "name" : "Matt (Thomas) Miklic",
       "screen_name" : "iammattthomas",
       "indices" : [ 65, 79 ],
-      "id_str" : "7562432",
-      "id" : 7562432
+      "id_str" : "2395558698",
+      "id" : 2395558698
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -7386,11 +7386,11 @@ Grailbird.data.tweets_2013_12 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Matt Thomas",
+        "name" : "Matt (Thomas) Miklic",
         "screen_name" : "iammattthomas",
         "indices" : [ 54, 68 ],
-        "id_str" : "7562432",
-        "id" : 7562432
+        "id_str" : "2395558698",
+        "id" : 2395558698
       } ],
       "media" : [ ],
       "hashtags" : [ ],

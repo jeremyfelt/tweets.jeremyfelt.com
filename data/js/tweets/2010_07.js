@@ -2388,13 +2388,7 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Matt Thomas",
-      "screen_name" : "iammattthomas",
-      "indices" : [ 3, 17 ],
-      "id_str" : "7562432",
-      "id" : 7562432
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2416,8 +2410,8 @@ Grailbird.data.tweets_2010_07 =
     "id" : 18702256766,
     "created_at" : "2010-07-16 17:18:28 +0000",
     "user" : {
-      "name" : "Matt Thomas",
-      "screen_name" : "iammattthomas",
+      "name" : "Matt Miklic",
+      "screen_name" : "mattmiklic",
       "protected" : false,
       "id_str" : "7562432",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/430293690326605825\/7XlwAclo_normal.jpeg",
@@ -3514,7 +3508,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "marshallk",
       "protected" : false,
       "id_str" : "818340",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2203082976\/marshallsxsw2012_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/442720680522428416\/3Akcf5OE_normal.jpeg",
       "id" : 818340,
       "verified" : true
     }
@@ -3591,7 +3585,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "14515799",
       "id" : 14515799
     }, {
-      "name" : "masked scheduler",
+      "name" : "Masked Scheduler",
       "screen_name" : "maskedscheduler",
       "indices" : [ 21, 37 ],
       "id_str" : "16986563",
@@ -3608,7 +3602,7 @@ Grailbird.data.tweets_2010_07 =
     "source" : "web",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "masked scheduler",
+        "name" : "Masked Scheduler",
         "screen_name" : "maskedscheduler",
         "indices" : [ 3, 19 ],
         "id_str" : "16986563",

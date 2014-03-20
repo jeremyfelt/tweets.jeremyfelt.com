@@ -1960,7 +1960,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "KeithOlbermann",
       "protected" : false,
       "id_str" : "130617778",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/439628626611679232\/JgEJ3kdN_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/444640238045237248\/JmpQvMKa_normal.jpeg",
       "id" : 130617778,
       "verified" : true
     }

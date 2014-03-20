@@ -3726,7 +3726,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "marshallk",
       "protected" : false,
       "id_str" : "818340",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2203082976\/marshallsxsw2012_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/442720680522428416\/3Akcf5OE_normal.jpeg",
       "id" : 818340,
       "verified" : true
     }
@@ -4800,11 +4800,11 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nate Silver",
-      "screen_name" : "fivethirtyeight",
+      "name" : "FiveThirtyEight",
+      "screen_name" : "FiveThirtyEight",
       "indices" : [ 25, 41 ],
-      "id_str" : "16017475",
-      "id" : 16017475
+      "id_str" : "2303751216",
+      "id" : 2303751216
     } ],
     "media" : [ ],
     "hashtags" : [ ],

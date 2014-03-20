@@ -2049,7 +2049,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/439141342485024768\/Fnelyni0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/444575291311005696\/i0zzvn69_normal.jpeg",
       "id" : 22872643,
       "verified" : true
     }

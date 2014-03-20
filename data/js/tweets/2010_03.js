@@ -1180,7 +1180,7 @@ Grailbird.data.tweets_2010_03 =
       "id_str" : "57203",
       "id" : 57203
     }, {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne on hiatus",
       "screen_name" : "al3x",
       "indices" : [ 19, 24 ],
       "id_str" : "18713",
@@ -1203,7 +1203,7 @@ Grailbird.data.tweets_2010_03 =
     "source" : "\u003Ca href=\"http:\/\/www.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Alex Payne",
+        "name" : "Alex Payne on hiatus",
         "screen_name" : "al3x",
         "indices" : [ 3, 8 ],
         "id_str" : "18713",

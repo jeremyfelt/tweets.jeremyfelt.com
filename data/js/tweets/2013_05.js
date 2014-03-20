@@ -2994,7 +2994,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nathaniel Taintor",
+      "name" : "--i-am-a-dummy=true",
       "screen_name" : "GoldenApples",
       "indices" : [ 0, 13 ],
       "id_str" : "15944998",
@@ -6629,7 +6629,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "yurivictor",
       "protected" : false,
       "id_str" : "5511932",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/415583245741219840\/GFX_CkWO_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/446444433857593344\/lN7_DJoO_normal.jpeg",
       "id" : 5511932,
       "verified" : false
     }

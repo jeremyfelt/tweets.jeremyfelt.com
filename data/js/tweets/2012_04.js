@@ -2247,7 +2247,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "AccordionGuy",
       "protected" : false,
       "id_str" : "1117901",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3579948409\/99262ff1811e206019dd28196983086f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/444958966775152640\/bc0m1bZm_normal.jpeg",
       "id" : 1117901,
       "verified" : false
     }

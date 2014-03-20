@@ -63,13 +63,7 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Nate Silver",
-      "screen_name" : "fivethirtyeight",
-      "indices" : [ 3, 19 ],
-      "id_str" : "16017475",
-      "id" : 16017475
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -92,7 +86,7 @@ Grailbird.data.tweets_2011_07 =
     "created_at" : "2011-07-29 21:55:43 +0000",
     "user" : {
       "name" : "Nate Silver",
-      "screen_name" : "fivethirtyeight",
+      "screen_name" : "NateSilver538",
       "protected" : false,
       "id_str" : "16017475",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000188475595\/9048bff5190578d8e2c558dca3606fbb_normal.png",
@@ -1302,12 +1296,6 @@ Grailbird.data.tweets_2011_07 =
       "indices" : [ 23, 35 ],
       "id_str" : "21053056",
       "id" : 21053056
-    }, {
-      "name" : "Bill Keller",
-      "screen_name" : "nytkeller",
-      "indices" : [ 37, 47 ],
-      "id_str" : "37917164",
-      "id" : 37917164
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1325,12 +1313,6 @@ Grailbird.data.tweets_2011_07 =
         "indices" : [ 8, 20 ],
         "id_str" : "21053056",
         "id" : 21053056
-      }, {
-        "name" : "Bill Keller",
-        "screen_name" : "nytkeller",
-        "indices" : [ 22, 32 ],
-        "id_str" : "37917164",
-        "id" : 37917164
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -2289,7 +2271,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "marshallk",
       "protected" : false,
       "id_str" : "818340",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2203082976\/marshallsxsw2012_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/442720680522428416\/3Akcf5OE_normal.jpeg",
       "id" : 818340,
       "verified" : true
     }

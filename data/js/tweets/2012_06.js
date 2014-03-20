@@ -665,7 +665,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "derekwillis",
       "protected" : false,
       "id_str" : "14517538",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3646716149\/9a5e8f87eb8f21669cefbd4280d7a8f0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/441955442697052161\/U-J5JrP3_normal.jpeg",
       "id" : 14517538,
       "verified" : false
     }

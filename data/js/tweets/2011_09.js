@@ -5840,7 +5840,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne on hiatus",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -5877,7 +5877,7 @@ Grailbird.data.tweets_2011_09 =
     "id" : 111969062761926657,
     "created_at" : "2011-09-09 01:07:59 +0000",
     "user" : {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne on hiatus",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
@@ -5932,7 +5932,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/439425463643951104\/N5NUj4xi_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/443040231730589696\/mi6z2etW_normal.png",
       "id" : 819797,
       "verified" : false
     }
@@ -6689,11 +6689,11 @@ Grailbird.data.tweets_2011_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nate Silver",
-      "screen_name" : "fivethirtyeight",
+      "name" : "FiveThirtyEight",
+      "screen_name" : "FiveThirtyEight",
       "indices" : [ 29, 45 ],
-      "id_str" : "16017475",
-      "id" : 16017475
+      "id_str" : "2303751216",
+      "id" : 2303751216
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -6710,7 +6710,7 @@ Grailbird.data.tweets_2011_09 =
   "id" : 111600040589533184,
   "in_reply_to_status_id" : 111599830152912896,
   "created_at" : "2011-09-08 00:41:37 +0000",
-  "in_reply_to_screen_name" : "fivethirtyeight",
+  "in_reply_to_screen_name" : "NateSilver538",
   "in_reply_to_user_id_str" : "16017475",
   "user" : {
     "name" : "Jeremy Felt",
@@ -6751,13 +6751,7 @@ Grailbird.data.tweets_2011_09 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Nate Silver",
-      "screen_name" : "fivethirtyeight",
-      "indices" : [ 3, 19 ],
-      "id_str" : "16017475",
-      "id" : 16017475
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -6780,7 +6774,7 @@ Grailbird.data.tweets_2011_09 =
     "created_at" : "2011-09-08 00:18:07 +0000",
     "user" : {
       "name" : "Nate Silver",
-      "screen_name" : "fivethirtyeight",
+      "screen_name" : "NateSilver538",
       "protected" : false,
       "id_str" : "16017475",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000188475595\/9048bff5190578d8e2c558dca3606fbb_normal.png",
@@ -7499,7 +7493,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "marshallk",
       "protected" : false,
       "id_str" : "818340",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2203082976\/marshallsxsw2012_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/442720680522428416\/3Akcf5OE_normal.jpeg",
       "id" : 818340,
       "verified" : true
     }

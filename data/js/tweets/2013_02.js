@@ -2669,7 +2669,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nathaniel Taintor",
+      "name" : "--i-am-a-dummy=true",
       "screen_name" : "GoldenApples",
       "indices" : [ 0, 13 ],
       "id_str" : "15944998",

@@ -801,7 +801,7 @@ Grailbird.data.tweets_2013_06 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "mike rapin",
-      "screen_name" : "MikeRapin",
+      "screen_name" : "mikerapin",
       "indices" : [ 3, 13 ],
       "id_str" : "1144581",
       "id" : 1144581
@@ -858,10 +858,10 @@ Grailbird.data.tweets_2013_06 =
     "created_at" : "2013-06-30 15:47:27 +0000",
     "user" : {
       "name" : "mike rapin",
-      "screen_name" : "MikeRapin",
+      "screen_name" : "mikerapin",
       "protected" : false,
       "id_str" : "1144581",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/435461079133859840\/H3c2ND8A_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/445754824723005440\/NN9KXVjr_normal.jpeg",
       "id" : 1144581,
       "verified" : false
     }
@@ -4490,11 +4490,11 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "30495974",
       "id" : 30495974
     }, {
-      "name" : "Nate Silver",
-      "screen_name" : "fivethirtyeight",
+      "name" : "FiveThirtyEight",
+      "screen_name" : "FiveThirtyEight",
       "indices" : [ 12, 28 ],
-      "id_str" : "16017475",
-      "id" : 16017475
+      "id_str" : "2303751216",
+      "id" : 2303751216
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4507,11 +4507,11 @@ Grailbird.data.tweets_2013_06 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Nate Silver",
-        "screen_name" : "fivethirtyeight",
+        "name" : "FiveThirtyEight",
+        "screen_name" : "FiveThirtyEight",
         "indices" : [ 0, 16 ],
-        "id_str" : "16017475",
-        "id" : 16017475
+        "id_str" : "2303751216",
+        "id" : 2303751216
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -4525,7 +4525,7 @@ Grailbird.data.tweets_2013_06 =
     "id" : 347925862701740034,
     "in_reply_to_status_id" : 347925172369629185,
     "created_at" : "2013-06-21 03:56:04 +0000",
-    "in_reply_to_screen_name" : "fivethirtyeight",
+    "in_reply_to_screen_name" : "NateSilver538",
     "in_reply_to_user_id_str" : "16017475",
     "user" : {
       "name" : "Scott Berkun",
@@ -5394,7 +5394,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Angelina Fabbro",
+      "name" : "Angelinatron 9001 v1",
       "screen_name" : "angelinamagnum",
       "indices" : [ 90, 105 ],
       "id_str" : "58708498",
@@ -8942,7 +8942,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "danielimmke",
       "protected" : false,
       "id_str" : "229286623",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/422080640477958144\/kUaHyHWq_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/445758279755780096\/XdBKfw8p_normal.jpeg",
       "id" : 229286623,
       "verified" : false
     }

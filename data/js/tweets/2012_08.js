@@ -5822,7 +5822,7 @@ Grailbird.data.tweets_2012_08 =
     "id" : 236927718934077440,
     "created_at" : "2012-08-18 20:49:04 +0000",
     "user" : {
-      "name" : "Colby Aley",
+      "name" : "colby aley",
       "screen_name" : "aley",
       "protected" : false,
       "id_str" : "48901814",
@@ -6229,7 +6229,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "yuetsu",
       "protected" : false,
       "id_str" : "7930732",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000444654579\/f0943304a3bfeca516d9cc7d5e9de273_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/446412346273984512\/O8oQZbNc_normal.jpeg",
       "id" : 7930732,
       "verified" : false
     }

@@ -3939,7 +3939,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "ArianFoster",
       "protected" : false,
       "id_str" : "110839423",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3302661318\/46b9c3685ca09c3b1058a87d45c1a8cf_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/446136441198764034\/XxSQIP8U_normal.jpeg",
       "id" : 110839423,
       "verified" : true
     }
@@ -5108,7 +5108,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Angelina Fabbro",
+      "name" : "Angelinatron 9001 v1",
       "screen_name" : "angelinamagnum",
       "indices" : [ 3, 18 ],
       "id_str" : "58708498",
@@ -5157,7 +5157,7 @@ Grailbird.data.tweets_2013_11 =
     "id" : 402120784505618433,
     "created_at" : "2013-11-17 17:07:20 +0000",
     "user" : {
-      "name" : "Angelina Fabbro",
+      "name" : "Angelinatron 9001 v1",
       "screen_name" : "angelinamagnum",
       "protected" : false,
       "id_str" : "58708498",

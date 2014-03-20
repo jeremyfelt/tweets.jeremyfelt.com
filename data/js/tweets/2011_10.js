@@ -4542,7 +4542,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David",
+      "name" : "David Vanadia",
       "screen_name" : "Vanadia",
       "indices" : [ 3, 11 ],
       "id_str" : "15406144",
@@ -4635,7 +4635,7 @@ Grailbird.data.tweets_2011_10 =
     "id" : 122077452104237056,
     "created_at" : "2011-10-06 22:35:08 +0000",
     "user" : {
-      "name" : "David",
+      "name" : "David Vanadia",
       "screen_name" : "Vanadia",
       "protected" : false,
       "id_str" : "15406144",

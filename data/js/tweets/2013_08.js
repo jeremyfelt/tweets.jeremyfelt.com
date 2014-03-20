@@ -814,7 +814,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nathaniel Taintor",
+      "name" : "--i-am-a-dummy=true",
       "screen_name" : "GoldenApples",
       "indices" : [ 3, 16 ],
       "id_str" : "15944998",
@@ -841,7 +841,7 @@ Grailbird.data.tweets_2013_08 =
     "id" : 372487149892804608,
     "created_at" : "2013-08-27 22:33:51 +0000",
     "user" : {
-      "name" : "Nathaniel Taintor",
+      "name" : "--i-am-a-dummy=true",
       "screen_name" : "GoldenApples",
       "protected" : false,
       "id_str" : "15944998",
@@ -4003,7 +4003,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne on hiatus",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -4040,7 +4040,7 @@ Grailbird.data.tweets_2013_08 =
     "id" : 369588010628964352,
     "created_at" : "2013-08-19 22:33:43 +0000",
     "user" : {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne on hiatus",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",

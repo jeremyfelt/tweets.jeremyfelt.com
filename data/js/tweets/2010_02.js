@@ -790,7 +790,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "DrewFromTV",
       "protected" : false,
       "id_str" : "50835878",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000744519425\/4fbaa9969cb2eb1e40574e53e79179ae_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/444293353199263744\/1kL0qn3S_normal.jpeg",
       "id" : 50835878,
       "verified" : true
     }
@@ -1330,7 +1330,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne on hiatus",
       "screen_name" : "al3x",
       "indices" : [ 0, 5 ],
       "id_str" : "18713",
@@ -1438,7 +1438,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "marshallk",
       "protected" : false,
       "id_str" : "818340",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2203082976\/marshallsxsw2012_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/442720680522428416\/3Akcf5OE_normal.jpeg",
       "id" : 818340,
       "verified" : true
     }
@@ -2250,7 +2250,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "dailyherald",
+      "name" : "Daily Herald",
       "screen_name" : "dailyherald",
       "indices" : [ 49, 61 ],
       "id_str" : "8960722",
