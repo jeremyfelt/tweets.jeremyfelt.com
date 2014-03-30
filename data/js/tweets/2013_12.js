@@ -7591,7 +7591,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "nyknicks",
       "protected" : false,
       "id_str" : "20265254",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000665702045\/2f938b933215ce146391a9c09e8c2590_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/448088284015513600\/qJ6EbhY5_normal.jpeg",
       "id" : 20265254,
       "verified" : true
     }

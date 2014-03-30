@@ -1,4 +1,86 @@
 "tweet_id","in_reply_to_status_id","in_reply_to_user_id","timestamp","source","text","retweeted_status_id","retweeted_status_user_id","retweeted_status_timestamp","expanded_urls"
+"449350843922280448","449344007903014912","411977369","2014-03-28 01:02:44 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","@tannermoushey a temperature controlled fermentation chamber. :)","","","",""
+"449343285077606400","","","2014-03-28 00:32:42 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","Spark! http://t.co/Ngu2NnBFoW","","","","http://twitter.com/jeremyfelt/status/449343285077606400/photo/1"
+"449256456890494976","449197576529928192","14137938","2014-03-27 18:47:40 +0000","web","@GaryJ Nice!","","","",""
+"449182749283205120","448929533857509376","22232652","2014-03-27 13:54:47 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","@thoronas it’s all about the Benjamins","","","",""
+"449059128283897856","","","2014-03-27 05:43:33 +0000","web","Tonight's entertainment brought to you by mu-plugins/index.php","","","",""
+"448866848839188480","","","2014-03-26 16:59:30 +0000","web","TIL that @LinkedIn's crawler bot uses an old HTTP client that only supports 1024 bit DH parameters. http://t.co/eSlVn9pKs6
+
+TMYK ☆彡","","","","http://jeremyfelt.com/code/2014/03/26/figuring-serve-many-ssl-certificates-part-2/"
+"448700122033958912","","","2014-03-26 05:57:00 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","“it’s actually helpful if people can overreach because it is an opportunity to establish where the limits really are” http://t.co/t0FMEyrVBt","","","","http://www.ianbicking.org/blog/2014/03/use-github-issues-to-organize-a-project.html"
+"448694860946485248","","","2014-03-26 05:36:05 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","Newly unsealed documents show Steve Jobs' brutal response after getting a Google employee fired http://t.co/AcOW3JYMuE
+
+Ugh.","","","","http://pando.com/2014/03/25/newly-unsealed-documents-show-steve-jobs-brutally-callous-response-after-getting-a-google-employee-fired/"
+"448674920067657728","","","2014-03-26 04:16:51 +0000","web","Now back to those nitro records releases. :)","","","",""
+"448674773363482625","","","2014-03-26 04:16:16 +0000","web","If you enjoyed that last tweet, you may also enjoy the Beverly Hills Cop II soundtrack. It debuted on @rdio today. http://t.co/6YzhIZjo2O","","","","http://rd.io/x/QU-g8SIf-Yk/"
+"448673935299596288","","","2014-03-26 04:12:56 +0000","web","I scrolled to the bottom of @rdio's new releases and found a cover of Axel F just for you. http://t.co/XiRnVB3rpV
+
+It now has one play.","","","","http://rd.io/x/QU-g8SIeO7A/"
+"448585109101215744","","","2014-03-25 22:19:58 +0000","web","The simple joy of finding and removing that little 14ms repaint from your 1.7s page load.","","","",""
+"448297538773204992","","","2014-03-25 03:17:16 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","An hour to make government better http://t.co/l5gqCtVso8","","","","http://nacin.com/2014/03/24/an-hour-to-make-government-better/"
+"448296784964513793","","","2014-03-25 03:14:17 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","Want to innovate government? Focus on culture http://t.co/DFyhFUwans
+
+That's great stuff.","","","","http://ben.balter.com/2014/03/21/want-to-innovate-in-government-focus-on-culture/"
+"448296300019077121","","","2014-03-25 03:12:21 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","RT @aaronjorbin: ""Never take “no” from someone who can’t say “yes” "" -- @BenBalter http://t.co/i4hrDgHdhO","448294293003051009","14886552","2014-03-25 03:04:23 +0000","http://ben.balter.com/2014/03/21/want-to-innovate-in-government-focus-on-culture/,http://ben.balter.com/2014/03/21/want-to-innovate-in-government-focus-on-culture/"
+"448250157574791168","448245157725356032","272166936","2014-03-25 00:09:00 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","@danielbachhuber congrats!","","","",""
+"448228007744778240","448227488699650048","29752531","2014-03-24 22:40:59 +0000","web","@Krogsgard And getting faster every day. :) @tollmanz","","","",""
+"448223832403234816","","","2014-03-24 22:24:23 +0000","web","WSU News is SPDY! https://t.co/yIP22UFQ68
+
+A+ https://t.co/msyBudra18 would use @tollmanz's configs again. https://t.co/ZkUW4mVGRI","","","","https://news.wsu.edu/,https://www.ssllabs.com/ssltest/analyze.html?d=news.wsu.edu&hideResults=on,https://github.com/tollmanz/ssl-nginx-starter/blob/master/srv/salt/config/nginx/sites-enabled/sslplayground.conf"
+"447981696848121856","","","2014-03-24 06:22:14 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","Adolfo Suárez Dies at 81; Led Spain Back to Democracy http://t.co/KdfUeJDY3Z","","","","http://nyti.ms/1eCV9Nu"
+"447944483200450561","","","2014-03-24 03:54:21 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","The Brutal Ageism of Tech http://t.co/u5hqLqKZZA","","","","http://www.newrepublic.com/article/117088/silicons-valleys-brutal-ageism"
+"447784288478441472","","","2014-03-23 17:17:48 +0000","web","The Internet fooled me on Sunday morning.","","","",""
+"447782919377932288","447781436729221120","783937","2014-03-23 17:12:22 +0000","web","@ahockley Everything about it seems so false. Even the icon is crappy. But accounts are (?) getting verified. I think. Ha.","","","",""
+"447515467779805184","","","2014-03-22 23:29:36 +0000","web","I swear fastcgi_params just randomly changes from server to server whenever it feels like it.","","","",""
+"447476441874063360","447474820528500737","15630100","2014-03-22 20:54:32 +0000","web","@Ramoonus Last one! :) Email address?","","","",""
+"447440576103727104","447438195832012800","17667687","2014-03-22 18:32:01 +0000","web","@danj_ca Email address?","","","",""
+"447422459403194368","447422096155504640","15985197","2014-03-22 17:20:01 +0000","web","@valentmustamin Yep! What's your email address?","","","",""
+"447419048200908801","","","2014-03-22 17:06:28 +0000","web","I have keybase.io invites if anyone wants to get crypto.","","","",""
+"447382159674724352","","","2014-03-22 14:39:53 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","RT @jaketapper: Slow clap  http://t.co/8jMS7L7BlL","447361937547198464","14529929","2014-03-22 13:19:32 +0000","http://twentytwowords.com/christopher-walken-dancing-in-over-50-movies-all-perfectly-spliced-into-a-single-music-video/,http://twentytwowords.com/christopher-walken-dancing-in-over-50-movies-all-perfectly-spliced-into-a-single-music-video/"
+"447259472272957440","","","2014-03-22 06:32:22 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","RT @kovshenin: Real-time metrics for nginx server https://t.co/B8q058DL8x","447258180503236608","17251205","2014-03-22 06:27:14 +0000","https://github.com/lebinh/ngxtop,https://github.com/lebinh/ngxtop"
+"447249536243625985","","","2014-03-22 05:52:53 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","FiveThirtyEight and the End of Average http://t.co/RSbbaqf1mq","","","","http://stratechery.com/2014/fivethirtyeight-end-average/"
+"447239293375754240","","","2014-03-22 05:12:11 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","American Hustle had a lot of disjointed fun and great characters/actors. Didn't seem like a 4 nomination movie though.","","","",""
+"447224142845063168","","","2014-03-22 04:11:59 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","RT @nacin: Paul Graham proposes a way to rid Hacker News of misogyny. Err, wait. His proposal will probably make it worse: https://t.co/mwG…","447218195347554304","16213079","2014-03-22 03:48:21 +0000","https://news.ycombinator.com/item?id=7445761,https://news.ycombinator.com/item?id=7445761"
+"447224106199441408","447218195347554304","16213079","2014-03-22 04:11:50 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","@nacin such a strange approach.","","","",""
+"447187260501262336","","","2014-03-22 01:45:25 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","Rumor: 12-inch Retina MacBook Air updates coming soon without fan or mechanical trackpad button http://t.co/kaoOEVRfgU
+
+Yes, please.","","","","http://9to5mac.com/2014/03/21/rumor-12-inch-retina-macbook-air-updates-coming-soon-without-fan-or-mechanical-trackpad-button/"
+"447163855081197568","","","2014-03-22 00:12:25 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","RT @npmjs: some very important news about security at npm: http://t.co/aJDpQOmrig","447076061671481344","309528017","2014-03-21 18:23:34 +0000","http://blog.npmjs.org/post/80277229932/newly-paranoid-maintainers,http://blog.npmjs.org/post/80277229932/newly-paranoid-maintainers"
+"447159623171059713","447157256413401089","335110427","2014-03-21 23:55:36 +0000","web","@tollmanz Ok, fine. Less drastic. :) http://t.co/gKFpt447X0 vs http://t.co/88BSYFoKfX","","","","http://www.webpagetest.org/result/140321_P3_10KF/,http://www.webpagetest.org/result/140321_RV_10KD/"
+"447157028364886017","","","2014-03-21 23:45:18 +0000","web","This is the best 4:45pm on a Friday.","","","",""
+"447156828237869056","447156690190729216","335110427","2014-03-21 23:44:30 +0000","web","@tollmanz My on/off for ModPagespeed is so ridiculous right now. http://t.co/arOitL9U7C","","","","http://www.webpagetest.org/video/compare.php?tests=140321_WF_10BW,140321_28_10BK"
+"447154690451443712","","335110427","2014-03-21 23:36:00 +0000","web","@tollmanz Stripping IDs from link elements added with wp_enqueue_styles allows pagespeed to concatenate them. :) https://t.co/0ztmMwib5T","","","","https://github.com/washingtonstateuniversity/WSU-News/commit/53db64973f58e52cc42845438ff5b8a1c2f7912f"
+"447154304667746304","","","2014-03-21 23:34:28 +0000","web","git push origin sweetness","","","",""
+"447037203332337664","","","2014-03-21 15:49:09 +0000","web","elasticsearch – the definitive guide http://t.co/xwRqDHinxO","","","","http://www.elasticsearch.org/blog/elasticsearch-definitive-guide/"
+"446882362756841472","446882044014915584","272166936","2014-03-21 05:33:52 +0000","web","@danielbachhuber Identity via public key, with a pretty cool command line app.","","","",""
+"446881947298459648","","15175746","2014-03-21 05:32:13 +0000","web","@pento I think I just encrypted a thank you. https://t.co/UiLmmDxnu0","","","","https://gist.github.com/jeremyfelt/9680092"
+"446879083872268288","","","2014-03-21 05:20:50 +0000","web","Verifying myself: I am jeremyfelt on Keybase.io. og38MHJ8G5NHy_sWzWAZeczj-SH6p6tPPeod / https://t.co/eIMtmzeMEM","","","","https://keybase.io/jeremyfelt/sigs/og38MHJ8G5NHy_sWzWAZeczj-SH6p6tPPeod"
+"446875799837106176","","","2014-03-21 05:07:47 +0000","web","My Spark is shipping next week! Fermentation box connected to the cloud, here I come. /cc @carldanley","","","",""
+"446875557687328768","446864863248121856","14606628","2014-03-21 05:06:50 +0000","web","@GaryPendergast This is exactly what it looks like from the outside. :) I'll take one if you still have some. jeremy.felt/gmail","","","",""
+"446848541609037824","446843598986678272","272166936","2014-03-21 03:19:29 +0000","web","@danielbachhuber Hmm, I could probably run precommit tests against a local VM. @petemall","","","",""
+"446840676898975744","446825560585424897","14686197","2014-03-21 02:48:13 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","@rzen that sounds like fun, I'm game","","","",""
+"446837225771130880","446836921436610560","43847317","2014-03-21 02:34:31 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","@petemall yeah, that part works. I had some static assets not matching a location block earlier. So working config, unexpected results.","","","",""
+"446836755182788609","446833118830280704","14540636","2014-03-21 02:32:38 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","@ethitter I guess some kind of verification testing. Expected headers for a set of URLs.","","","",""
+"446825225036902400","","","2014-03-21 01:46:49 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","Is there a common method of testing nginx configs?","","","",""
+"446723136042438656","446722497895866368","90022172","2014-03-20 19:01:10 +0000","web","@robertdall Mine was still only $24.99. I can't figure out what features I might miss now? I think none.","","","",""
+"446721848164630528","","","2014-03-20 18:56:02 +0000","web","I'm guessing I should not update the billing information on my Flickr Pro account.","","","",""
+"446676444312137729","","","2014-03-20 15:55:37 +0000","web","just found my first tweet on twitter, now time to work
+
+https://t.co/amP3zZiPf7","","","","https://twitter.com/jeremyfelt/statuses/10457931"
+"446675670270087168","","","2014-03-20 15:52:33 +0000","<a href=""http://twitter.com/tweetbutton"" rel=""nofollow"">Tweet Button</a>","Inside the Guardian’s CMS: meet Scribe, an extensible rich text editor http://t.co/meMYg2IhDR","","","","http://gu.com/p/3nk85/tw"
+"446531187050168321","","","2014-03-20 06:18:25 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","US thinktank ponders: how about annexing Canada, eh? http://t.co/k1ruoBc2sc
+
+Ha!
+
+“In Canada, people are horrified,” admitted Francis...","","","","http://gu.com/p/3nkmt/tw"
+"446518015417266176","","","2014-03-20 05:26:05 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","RT @danielbachhuber: The limits of “unlimited” vacation http://t.co/b408jq8vu8","446511742638501888","272166936","2014-03-20 05:01:09 +0000","http://jacobian.org/writing/unlimited-vacation/,http://jacobian.org/writing/unlimited-vacation/"
+"446513806026366976","","","2014-03-20 05:09:21 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","RT @WordPress: WordPress 3.9 Beta 2 http://t.co/g8vWU5DBcJ","446511867737821184","685513","2014-03-20 05:01:39 +0000","http://wp.me/pZhYe-O1,http://wp.me/pZhYe-O1"
+"446502485381742594","","","2014-03-20 04:24:22 +0000","web","RT @angelinamagnum: Punk https://t.co/OJK950fYbT","446499410088706048","58708498","2014-03-20 04:12:09 +0000","https://www.youtube.com/watch?v=dJoo7Tgjr8U#t=26,https://www.youtube.com/watch?v=dJoo7Tgjr8U#t=26"
+"446501147260379136","","","2014-03-20 04:19:03 +0000","web","""The copy of this book that you are reading right now is based on the git commit with hash 1cbe8aa, also known as v0.1.0-4-g1cbe8aa.""
+
+Nice.","","","",""
+"446490094766006272","","","2014-03-20 03:35:08 +0000","<a href=""http://twitter.com/tweetbutton"" rel=""nofollow"">Tweet Button</a>","Crypto 101 - ""Crypto for everyone"" https://t.co/WOfrjH5x8J","","","","https://www.crypto101.io/"
+"446488904053436416","","","2014-03-20 03:30:24 +0000","<a href=""http://twitter.com/tweetbutton"" rel=""nofollow"">Tweet Button</a>","An Explanation of Water and Your Body https://t.co/2ZiOtJzYsA","","","","https://medium.com/health-fitness-1/e8edf9071b0f"
 "446473271521710080","","","2014-03-20 02:28:17 +0000","<a href=""http://twitter.com/tweetbutton"" rel=""nofollow"">Tweet Button</a>","jsDelivr – The advanced open source public CDN https://t.co/Ir6c9DsY8g","","","","https://hacks.mozilla.org/2014/03/jsdelivr-the-advanced-open-source-public-cdn/"
 "445917879137865728","445905347513839616","29752531","2014-03-18 13:41:21 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","@Krogsgard Feature? @DeFries","","","",""
 "445788547585286144","","","2014-03-18 05:07:26 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","""Investigators believe that before that sex change, Donna did a lot of other things. Like murder.""
@@ -2140,7 +2222,6 @@ Besides WordPress. :)","","","",""
 "368761370646310913","368486319653015553","21204689","2013-08-17 15:48:56 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","@helenhousandi it took 18 hours, but now it’s in my head. Thanks.","","","",""
 "368754611655417856","","","2013-08-17 15:22:05 +0000","<a href=""http://foursquare.com"" rel=""nofollow"">foursquare</a>","WordCamp Vancouver! (@ BCIT - Downtown Campus) http://t.co/iW9jHqdivo","","","","http://4sq.com/17y8CQa"
 "368568654524186624","368568372268519424","14871770","2013-08-17 03:03:09 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","@mattepp everything and nothing.","","","",""
-"368555180108693505","","","2013-08-17 02:09:37 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","RT @pasdecouleur: #wcyvr #cascadians wear #plaid. http://t.co/86G3xoYH4i","368552525860851712","18437239","2013-08-17 01:59:04 +0000","http://instagram.com/p/dGMI32jMQ6/,http://instagram.com/p/dGMI32jMQ6/"
 "368554646232502272","","","2013-08-17 02:07:29 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","RT @benlobaugh: Red plaid shirt night at #wcyvr //@GrantLandram @jeremyfelt @jaffe75 http://t.co/0kDz4gRyif","368541046176616448","157135704","2013-08-17 01:13:27 +0000","http://twitter.com/benlobaugh/status/368541046176616448/photo/1,http://twitter.com/benlobaugh/status/368541046176616448/photo/1"
 "368533958247469056","368533737769693185","21204689","2013-08-17 00:45:17 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","@helenhousandi you won by 26 seconds, btw","","","",""
 "368533840504958977","368533375809630208","21204689","2013-08-17 00:44:49 +0000","<a href=""http://tapbots.com/tweetbot"" rel=""nofollow"">Tweetbot for iOS</a>","@helenhousandi I wish you were a baller. #ohwait","","","",""

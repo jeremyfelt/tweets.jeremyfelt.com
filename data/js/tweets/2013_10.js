@@ -5306,7 +5306,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "snipe \u30C4",
+      "name" : "Mohawk Poser Joe",
       "screen_name" : "snipeyhead",
       "indices" : [ 3, 14 ],
       "id_str" : "14246782",
@@ -5343,11 +5343,11 @@ Grailbird.data.tweets_2013_10 =
     "id" : 390755527149772801,
     "created_at" : "2013-10-17 08:25:52 +0000",
     "user" : {
-      "name" : "snipe \u30C4",
+      "name" : "Mohawk Poser Joe",
       "screen_name" : "snipeyhead",
       "protected" : false,
       "id_str" : "14246782",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/441349877155774464\/YalC8eAG_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/446787634657247232\/7Wb7NSUy_normal.jpeg",
       "id" : 14246782,
       "verified" : false
     }
@@ -10266,7 +10266,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "Japh",
       "protected" : false,
       "id_str" : "771712",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/443690914049826816\/RL3U9oyq_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/449053340156956672\/hWl6mBkb_normal.jpeg",
       "id" : 771712,
       "verified" : false
     }

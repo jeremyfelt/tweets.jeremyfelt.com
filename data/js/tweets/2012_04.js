@@ -573,7 +573,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "NOFUNJUSTIN",
       "protected" : false,
       "id_str" : "21971978",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2120436579\/j00121_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/447434602404003840\/lLUhWrs2_normal.jpeg",
       "id" : 21971978,
       "verified" : false
     }

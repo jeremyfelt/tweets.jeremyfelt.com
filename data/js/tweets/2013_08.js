@@ -1141,7 +1141,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "WSUPullman",
       "protected" : false,
       "id_str" : "22080148",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3325538230\/3c4efa5242ba2120f9ec4e603d75c1ca_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/448865138263613441\/W3mF2he__normal.png",
       "id" : 22080148,
       "verified" : false
     }
@@ -6547,85 +6547,6 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Amy Morris",
-      "screen_name" : "pasdecouleur",
-      "indices" : [ 3, 16 ],
-      "id_str" : "18437239",
-      "id" : 18437239
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "wcyvr",
-      "indices" : [ 18, 24 ]
-    }, {
-      "text" : "cascadians",
-      "indices" : [ 25, 36 ]
-    }, {
-      "text" : "plaid",
-      "indices" : [ 42, 48 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 50, 72 ],
-      "url" : "http:\/\/t.co\/86G3xoYH4i",
-      "expanded_url" : "http:\/\/instagram.com\/p\/dGMI32jMQ6\/",
-      "display_url" : "instagram.com\/p\/dGMI32jMQ6\/"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "368555180108693505",
-  "text" : "RT @pasdecouleur: #wcyvr #cascadians wear #plaid. http:\/\/t.co\/86G3xoYH4i",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/instagram.com\" rel=\"nofollow\"\u003EInstagram\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "wcyvr",
-        "indices" : [ 0, 6 ]
-      }, {
-        "text" : "cascadians",
-        "indices" : [ 7, 18 ]
-      }, {
-        "text" : "plaid",
-        "indices" : [ 24, 30 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 32, 54 ],
-        "url" : "http:\/\/t.co\/86G3xoYH4i",
-        "expanded_url" : "http:\/\/instagram.com\/p\/dGMI32jMQ6\/",
-        "display_url" : "instagram.com\/p\/dGMI32jMQ6\/"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "368552525860851712",
-    "text" : "#wcyvr #cascadians wear #plaid. http:\/\/t.co\/86G3xoYH4i",
-    "id" : 368552525860851712,
-    "created_at" : "2013-08-17 01:59:04 +0000",
-    "user" : {
-      "name" : "Amy Morris",
-      "screen_name" : "pasdecouleur",
-      "protected" : false,
-      "id_str" : "18437239",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/440761533522399232\/ftSYIr77_normal.jpeg",
-      "id" : 18437239,
-      "verified" : false
-    }
-  },
-  "id" : 368555180108693505,
-  "created_at" : "2013-08-17 02:09:37 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Ben Lobaugh",
       "screen_name" : "benlobaugh",
       "indices" : [ 3, 14 ],
@@ -7443,7 +7364,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "WSUPullman",
       "protected" : false,
       "id_str" : "22080148",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3325538230\/3c4efa5242ba2120f9ec4e603d75c1ca_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/448865138263613441\/W3mF2he__normal.png",
       "id" : 22080148,
       "verified" : false
     }
