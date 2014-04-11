@@ -34,7 +34,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/448125519821688832\/8jdoWvM6_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451508711710658560\/kx_lKNFn_normal.jpeg",
       "id" : 819797,
       "verified" : false
     }
@@ -899,7 +899,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/448125519821688832\/8jdoWvM6_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451508711710658560\/kx_lKNFn_normal.jpeg",
       "id" : 819797,
       "verified" : false
     }
@@ -3018,7 +3018,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 54, 59 ],
       "id_str" : "18713",
@@ -4210,7 +4210,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "MLB",
       "protected" : false,
       "id_str" : "18479513",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/431445722580262912\/BjnHYftX_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/450902967814606848\/FhSugwGl_normal.jpeg",
       "id" : 18479513,
       "verified" : true
     }
@@ -4403,7 +4403,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/448125519821688832\/8jdoWvM6_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451508711710658560\/kx_lKNFn_normal.jpeg",
       "id" : 819797,
       "verified" : false
     }

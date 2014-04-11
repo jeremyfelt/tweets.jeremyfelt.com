@@ -3930,7 +3930,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -3957,11 +3957,11 @@ Grailbird.data.tweets_2010_06 =
     "id" : 15801693813,
     "created_at" : "2010-06-09 20:53:54 +0000",
     "user" : {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429334492772200448\/bNdfg_Pz_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451536931013140480\/X30xZjxY_normal.jpeg",
       "id" : 18713,
       "verified" : false
     }

@@ -1182,13 +1182,7 @@ Grailbird.data.tweets_2009_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Scott",
-      "screen_name" : "Tayaya",
-      "indices" : [ 0, 7 ],
-      "id_str" : "17909879",
-      "id" : 17909879
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1370,13 +1364,7 @@ Grailbird.data.tweets_2009_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Scott",
-      "screen_name" : "Tayaya",
-      "indices" : [ 0, 7 ],
-      "id_str" : "17909879",
-      "id" : 17909879
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1532,13 +1520,7 @@ Grailbird.data.tweets_2009_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/desktop.seesmic.com\/\" rel=\"nofollow\"\u003ESeesmic Desktop\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Scott",
-      "screen_name" : "Tayaya",
-      "indices" : [ 0, 7 ],
-      "id_str" : "17909879",
-      "id" : 17909879
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2183,13 +2165,7 @@ Grailbird.data.tweets_2009_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Scott",
-      "screen_name" : "Tayaya",
-      "indices" : [ 0, 7 ],
-      "id_str" : "17909879",
-      "id" : 17909879
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

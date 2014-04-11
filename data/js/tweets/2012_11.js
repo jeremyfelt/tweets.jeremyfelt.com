@@ -4519,7 +4519,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3588056222\/0d62af265381d6b5861371e86d0bff23_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/450813957461524480\/iNanfzj4_normal.jpeg",
       "id" : 36823,
       "verified" : true
     }
@@ -5133,7 +5133,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "BarackObama",
       "protected" : false,
       "id_str" : "813286",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/449306685358608385\/T-qlVdkx_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451007105391022080\/iu1f7brY_normal.png",
       "id" : 813286,
       "verified" : true
     }

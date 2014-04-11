@@ -518,13 +518,7 @@ Grailbird.data.tweets_2010_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Scott",
-      "screen_name" : "Tayaya",
-      "indices" : [ 0, 7 ],
-      "id_str" : "17909879",
-      "id" : 17909879
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1863,7 +1857,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 10, 15 ],
       "id_str" : "18713",
@@ -2122,7 +2116,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne on hiatus",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 18, 23 ],
       "id_str" : "18713",
@@ -2139,7 +2133,7 @@ Grailbird.data.tweets_2010_05 =
     "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Alex Payne on hiatus",
+        "name" : "Alex Payne",
         "screen_name" : "al3x",
         "indices" : [ 2, 7 ],
         "id_str" : "18713",
@@ -3293,13 +3287,7 @@ Grailbird.data.tweets_2010_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Scott",
-      "screen_name" : "Tayaya",
-      "indices" : [ 0, 7 ],
-      "id_str" : "17909879",
-      "id" : 17909879
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4192,7 +4180,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3588056222\/0d62af265381d6b5861371e86d0bff23_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/450813957461524480\/iNanfzj4_normal.jpeg",
       "id" : 36823,
       "verified" : true
     }

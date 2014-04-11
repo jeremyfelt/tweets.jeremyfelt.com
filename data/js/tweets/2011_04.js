@@ -1070,7 +1070,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "steveagee",
       "protected" : false,
       "id_str" : "167421762",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/419203623432642560\/iy1EOQDq_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451232635830816768\/qUhmB9NZ_normal.png",
       "id" : 167421762,
       "verified" : true
     }

@@ -5622,7 +5622,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "sull",
       "protected" : false,
       "id_str" : "1202561",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000757828855\/8b7af8da430c09a36c61caad6ccc158f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/450816495333822464\/x4pYHR4K_normal.jpeg",
       "id" : 1202561,
       "verified" : false
     }

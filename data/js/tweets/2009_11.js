@@ -595,13 +595,7 @@ Grailbird.data.tweets_2009_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Scott",
-      "screen_name" : "Tayaya",
-      "indices" : [ 0, 7 ],
-      "id_str" : "17909879",
-      "id" : 17909879
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

@@ -4547,7 +4547,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "ChipotleTweets",
       "protected" : false,
       "id_str" : "141341662",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000578312175\/41a154cf965f6240ff57d123d98ea20d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451045129864765440\/6WYncvt9_normal.jpeg",
       "id" : 141341662,
       "verified" : true
     }
@@ -8375,7 +8375,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "kikodoran",
       "protected" : false,
       "id_str" : "161732413",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000616138570\/b81d2c5d0d354245647c29dbcf45ddd6_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/449702964748222465\/fe3QYgR1_normal.jpeg",
       "id" : 161732413,
       "verified" : false
     }
@@ -8486,7 +8486,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "BarackObama",
       "protected" : false,
       "id_str" : "813286",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/449306685358608385\/T-qlVdkx_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451007105391022080\/iu1f7brY_normal.png",
       "id" : 813286,
       "verified" : true
     }
@@ -9784,7 +9784,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3588056222\/0d62af265381d6b5861371e86d0bff23_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/450813957461524480\/iNanfzj4_normal.jpeg",
       "id" : 36823,
       "verified" : true
     }

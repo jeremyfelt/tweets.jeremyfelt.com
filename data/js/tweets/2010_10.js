@@ -523,7 +523,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "ebertchicago",
       "protected" : false,
       "id_str" : "79797834",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3709998068\/2eaf8d1ffc7807586877b3b8eba23637_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451835991897026560\/6QBIyJx6_normal.jpeg",
       "id" : 79797834,
       "verified" : true
     }
@@ -2368,7 +2368,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "ebertchicago",
       "protected" : false,
       "id_str" : "79797834",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3709998068\/2eaf8d1ffc7807586877b3b8eba23637_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451835991897026560\/6QBIyJx6_normal.jpeg",
       "id" : 79797834,
       "verified" : true
     }

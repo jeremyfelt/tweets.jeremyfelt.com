@@ -6867,7 +6867,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "BarackObama",
       "protected" : false,
       "id_str" : "813286",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/449306685358608385\/T-qlVdkx_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451007105391022080\/iu1f7brY_normal.png",
       "id" : 813286,
       "verified" : true
     }
