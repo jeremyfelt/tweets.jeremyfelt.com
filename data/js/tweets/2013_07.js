@@ -7591,7 +7591,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "danielimmke",
       "protected" : false,
       "id_str" : "229286623",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/445758279755780096\/XdBKfw8p_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/452900983350116352\/h-vTzzoQ_normal.jpeg",
       "id" : 229286623,
       "verified" : false
     }
@@ -9983,7 +9983,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "MikeTyson",
       "protected" : false,
       "id_str" : "156132825",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000860552830\/_CDD9A_V_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/452587976707801088\/udAfL3DY_normal.jpeg",
       "id" : 156132825,
       "verified" : true
     }

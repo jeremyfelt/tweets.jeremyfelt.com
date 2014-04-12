@@ -3939,7 +3939,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "ArianFoster",
       "protected" : false,
       "id_str" : "110839423",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451130058489335809\/BNs1qlIi_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/453699999952429056\/jFjHBT64_normal.jpeg",
       "id" : 110839423,
       "verified" : true
     }
@@ -4898,7 +4898,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "dansinker",
       "protected" : false,
       "id_str" : "8119452",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416770698577588224\/p1rv_YtT_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/452521306139799553\/LYUlwEqY_normal.jpeg",
       "id" : 8119452,
       "verified" : false
     }
@@ -5108,7 +5108,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Angelinatron 9001 v1",
+      "name" : "LinaScript",
       "screen_name" : "angelinamagnum",
       "indices" : [ 3, 18 ],
       "id_str" : "58708498",
@@ -5157,7 +5157,7 @@ Grailbird.data.tweets_2013_11 =
     "id" : 402120784505618433,
     "created_at" : "2013-11-17 17:07:20 +0000",
     "user" : {
-      "name" : "Angelinatron 9001 v1",
+      "name" : "LinaScript",
       "screen_name" : "angelinamagnum",
       "protected" : false,
       "id_str" : "58708498",
@@ -9428,7 +9428,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "zunguzungu",
       "protected" : false,
       "id_str" : "47951511",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000469884702\/a74ee60c7ddce123c7a2d649c0897953_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/453112348098584579\/n3w-lLNt_normal.jpeg",
       "id" : 47951511,
       "verified" : false
     }
@@ -9794,7 +9794,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "dansinker",
       "protected" : false,
       "id_str" : "8119452",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416770698577588224\/p1rv_YtT_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/452521306139799553\/LYUlwEqY_normal.jpeg",
       "id" : 8119452,
       "verified" : false
     }

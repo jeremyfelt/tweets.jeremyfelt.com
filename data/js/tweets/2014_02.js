@@ -538,7 +538,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Greg Brown",
+      "name" : "Greg Ichneumon Brown",
       "screen_name" : "gregibrown",
       "indices" : [ 3, 14 ],
       "id_str" : "24944432",
@@ -575,7 +575,7 @@ Grailbird.data.tweets_2014_02 =
     "id" : 438394743962083328,
     "created_at" : "2014-02-25 19:27:06 +0000",
     "user" : {
-      "name" : "Greg Brown",
+      "name" : "Greg Ichneumon Brown",
       "screen_name" : "gregibrown",
       "protected" : false,
       "id_str" : "24944432",

@@ -2291,7 +2291,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "16213079",
       "id" : 16213079
     }, {
-      "name" : "Matt M\u00E4rtz",
+      "name" : "Matt Martz",
       "screen_name" : "sivel",
       "indices" : [ 72, 78 ],
       "id_str" : "28174907",
@@ -4006,7 +4006,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bill Gerth",
+      "name" : "Will Osborne",
       "screen_name" : "comcastcares",
       "indices" : [ 0, 13 ],
       "id_str" : "14104847",
@@ -4100,7 +4100,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "MikeTyson",
       "protected" : false,
       "id_str" : "156132825",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000860552830\/_CDD9A_V_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/452587976707801088\/udAfL3DY_normal.jpeg",
       "id" : 156132825,
       "verified" : true
     }

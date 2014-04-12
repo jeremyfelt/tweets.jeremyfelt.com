@@ -1239,7 +1239,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jillian C. York",
+      "name" : "Chillian J. Yikes!",
       "screen_name" : "jilliancyork",
       "indices" : [ 3, 16 ],
       "id_str" : "14048901",
@@ -1281,11 +1281,11 @@ Grailbird.data.tweets_2011_02 =
     "in_reply_to_screen_name" : "cshirky",
     "in_reply_to_user_id_str" : "6141832",
     "user" : {
-      "name" : "Jillian C. York",
+      "name" : "Chillian J. Yikes!",
       "screen_name" : "jilliancyork",
       "protected" : false,
       "id_str" : "14048901",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/447918393312555009\/3kVul2WI_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/454393942377627648\/CW4A93eV_normal.png",
       "id" : 14048901,
       "verified" : false
     }

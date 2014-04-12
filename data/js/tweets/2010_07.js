@@ -3541,7 +3541,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "MikeTyson",
       "protected" : false,
       "id_str" : "156132825",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000860552830\/_CDD9A_V_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/452587976707801088\/udAfL3DY_normal.jpeg",
       "id" : 156132825,
       "verified" : true
     }

@@ -4170,7 +4170,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "tcarmody",
       "protected" : false,
       "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/438366620147150849\/ponAdH20_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/453417536009543680\/UYCvpXOW_normal.png",
       "id" : 14439168,
       "verified" : true
     }

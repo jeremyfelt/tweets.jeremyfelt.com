@@ -2817,7 +2817,7 @@ Grailbird.data.tweets_2009_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/devices\" rel=\"nofollow\"\u003Etxt\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bill Gerth",
+      "name" : "Will Osborne",
       "screen_name" : "comcastcares",
       "indices" : [ 0, 13 ],
       "id_str" : "14104847",

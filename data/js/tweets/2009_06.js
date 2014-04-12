@@ -8111,7 +8111,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gina Morelli",
+      "name" : "Beach Loop Realty",
       "screen_name" : "beachlooprealty",
       "indices" : [ 0, 16 ],
       "id_str" : "18300785",

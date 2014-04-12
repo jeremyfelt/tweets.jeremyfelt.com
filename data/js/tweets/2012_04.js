@@ -1067,7 +1067,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "MikeTyson",
       "protected" : false,
       "id_str" : "156132825",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000860552830\/_CDD9A_V_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/452587976707801088\/udAfL3DY_normal.jpeg",
       "id" : 156132825,
       "verified" : true
     }
@@ -1926,7 +1926,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bill Gerth",
+      "name" : "Will Osborne",
       "screen_name" : "comcastcares",
       "indices" : [ 37, 50 ],
       "id_str" : "14104847",

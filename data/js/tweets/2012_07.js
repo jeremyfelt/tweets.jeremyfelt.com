@@ -352,7 +352,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "MikeTyson",
       "protected" : false,
       "id_str" : "156132825",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000860552830\/_CDD9A_V_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/452587976707801088\/udAfL3DY_normal.jpeg",
       "id" : 156132825,
       "verified" : true
     }
@@ -793,7 +793,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "tcarmody",
       "protected" : false,
       "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/438366620147150849\/ponAdH20_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/453417536009543680\/UYCvpXOW_normal.png",
       "id" : 14439168,
       "verified" : true
     }
@@ -1529,7 +1529,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bill Gerth",
+      "name" : "Will Osborne",
       "screen_name" : "comcastcares",
       "indices" : [ 0, 13 ],
       "id_str" : "14104847",
@@ -2355,7 +2355,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "gabrielsnyder",
       "protected" : false,
       "id_str" : "7138532",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/442152857957974017\/b9CrJZG3_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/453156637873041408\/TPzRWkJa_normal.jpeg",
       "id" : 7138532,
       "verified" : true
     }
@@ -2521,7 +2521,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bill Gerth",
+      "name" : "Will Osborne",
       "screen_name" : "comcastcares",
       "indices" : [ 0, 13 ],
       "id_str" : "14104847",
@@ -2631,7 +2631,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bill Gerth",
+      "name" : "Will Osborne",
       "screen_name" : "comcastcares",
       "indices" : [ 12, 25 ],
       "id_str" : "14104847",
@@ -4283,7 +4283,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@sweden \/ Liza",
+      "name" : "@sweden \/ Tanvir",
       "screen_name" : "sweden",
       "indices" : [ 3, 10 ],
       "id_str" : "19663706",
@@ -4310,11 +4310,11 @@ Grailbird.data.tweets_2012_07 =
     "id" : 221571629128499200,
     "created_at" : "2012-07-07 11:49:27 +0000",
     "user" : {
-      "name" : "@sweden \/ Liza",
+      "name" : "@sweden \/ Tanvir",
       "screen_name" : "sweden",
       "protected" : false,
       "id_str" : "19663706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/450531594650923009\/j_72gE97_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/453082611892506624\/U8xCwCwq_normal.png",
       "id" : 19663706,
       "verified" : false
     }

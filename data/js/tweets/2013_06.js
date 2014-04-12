@@ -5394,7 +5394,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Angelinatron 9001 v1",
+      "name" : "LinaScript",
       "screen_name" : "angelinamagnum",
       "indices" : [ 90, 105 ],
       "id_str" : "58708498",
@@ -8942,7 +8942,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "danielimmke",
       "protected" : false,
       "id_str" : "229286623",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/445758279755780096\/XdBKfw8p_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/452900983350116352\/h-vTzzoQ_normal.jpeg",
       "id" : 229286623,
       "verified" : false
     }

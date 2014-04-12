@@ -3149,7 +3149,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "nickbilton",
       "protected" : false,
       "id_str" : "1586501",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416958679108157440\/tqu7CYlw_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/453750282770341888\/SEwjZ2AI_normal.png",
       "id" : 1586501,
       "verified" : true
     }

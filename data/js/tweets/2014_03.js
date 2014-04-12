@@ -3098,7 +3098,7 @@ Grailbird.data.tweets_2014_03 =
     "id" : 446499410088706048,
     "created_at" : "2014-03-20 04:12:09 +0000",
     "user" : {
-      "name" : "Angelinatron 9001 v1",
+      "name" : "LinaScript",
       "screen_name" : "angelinamagnum",
       "protected" : false,
       "id_str" : "58708498",

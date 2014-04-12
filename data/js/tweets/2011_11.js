@@ -655,7 +655,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "line of flight",
+      "name" : "it's Friday, Friday",
       "screen_name" : "steveklabnik",
       "indices" : [ 3, 16 ],
       "id_str" : "22386062",
@@ -704,7 +704,7 @@ Grailbird.data.tweets_2011_11 =
     "id" : 138698219755536385,
     "created_at" : "2011-11-21 19:20:07 +0000",
     "user" : {
-      "name" : "line of flight",
+      "name" : "it's Friday, Friday",
       "screen_name" : "steveklabnik",
       "protected" : false,
       "id_str" : "22386062",
@@ -2487,7 +2487,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "meeshfelt",
       "protected" : false,
       "id_str" : "32924315",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000812718465\/ee115a44314c024b15d5371e57c374fe_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/454493606317801472\/XzVXSO85_normal.jpeg",
       "id" : 32924315,
       "verified" : false
     }
@@ -2587,7 +2587,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "nickbilton",
       "protected" : false,
       "id_str" : "1586501",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416958679108157440\/tqu7CYlw_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/453750282770341888\/SEwjZ2AI_normal.png",
       "id" : 1586501,
       "verified" : true
     }

@@ -4051,7 +4051,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451508711710658560\/kx_lKNFn_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/454031054169321472\/lKB6PS0N_normal.png",
       "id" : 819797,
       "verified" : false
     }
@@ -4247,7 +4247,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451508711710658560\/kx_lKNFn_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/454031054169321472\/lKB6PS0N_normal.png",
       "id" : 819797,
       "verified" : false
     }
@@ -5598,7 +5598,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "nickbilton",
       "protected" : false,
       "id_str" : "1586501",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416958679108157440\/tqu7CYlw_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/453750282770341888\/SEwjZ2AI_normal.png",
       "id" : 1586501,
       "verified" : true
     }
