@@ -53,7 +53,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "230385236142333952",
   "text" : "RT @mattcutts: Wild live (!) cam of brown bears catching salmon: http:\/\/t.co\/r5CfHkqU via @jolieodell",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Jolie O'Dell",
@@ -517,7 +517,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "229450367384051712",
   "text" : "RT @arrington: Australia Moves To Europe: http:\/\/t.co\/5s8pMlbs via @Uncrunched",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Uncrunched",
@@ -709,7 +709,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "TheRyanAdams",
       "protected" : false,
       "id_str" : "318531174",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000812796211\/3c9b62c9643e4d583571c546fe69176f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/476440228086185984\/zJ5rmo0V_normal.jpeg",
       "id" : 318531174,
       "verified" : true
     }
@@ -793,7 +793,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "tcarmody",
       "protected" : false,
       "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/453417536009543680\/UYCvpXOW_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458867362851069952\/NHH8UZks_normal.jpeg",
       "id" : 14439168,
       "verified" : true
     }
@@ -909,7 +909,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "NBC Olympics",
@@ -937,7 +937,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "NBC Olympics",
@@ -999,7 +999,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "228995783423315969",
   "text" : "RT @NBCOlympics: #OpeningCeremony of the #London2012 #Olympics begins on the East Coast at 7:30 pm on @NBC. Tune in- just 15 minutes! ht ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "NBC",
@@ -1095,7 +1095,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "228394095188533249",
   "text" : "RT @KimKierkegaard: Magic Mountain fun today!! Kanye laughing &amp; me crying! The whole of existence frightens me.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1295,7 +1295,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Xeni Jardin",
@@ -1335,7 +1335,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/446833564789661696\/_iVQKWkM_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477276032827809792\/qL2pbQzx_normal.jpeg",
       "id" : 767,
       "verified" : true
     }
@@ -1460,7 +1460,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Will Osborne",
@@ -1493,7 +1493,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Will Osborne",
@@ -1603,7 +1603,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "226023355684356097",
   "text" : "RT @busterbenson: Flickr responds: \"#dearinternet - thanks! Come make Flickr awesomer.\" http:\/\/t.co\/NbtElVQe (previously: http:\/\/t.co\/3h ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1633,7 +1633,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "buster",
       "protected" : false,
       "id_str" : "2185",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000270747347\/c72c0d3ecb8c4eb38d3f395c63416890_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/462321784386117632\/ZWai-QL4_normal.jpeg",
       "id" : 2185,
       "verified" : false
     }
@@ -1800,7 +1800,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "225622101615312897",
   "text" : "RT @rsarver: Are you a PHP \/ @Drupal developer and want to work on http:\/\/t.co\/4rvT2uvk and our internal CMS? If so, @jointheflock: http ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Drupal",
@@ -1839,7 +1839,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "rsarver",
       "protected" : false,
       "id_str" : "795649",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3015419114\/3dc096c48ef6167d1b26fd0d6b01814d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477679945678741504\/k1qS6ruv_normal.jpeg",
       "id" : 795649,
       "verified" : false
     }
@@ -2048,7 +2048,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "jakemgold",
       "protected" : false,
       "id_str" : "10672622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1640655972\/Jake-philly_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/467865864230805504\/6H4FWs2X_normal.jpeg",
       "id" : 10672622,
       "verified" : false
     }
@@ -2159,7 +2159,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "225254757328101377",
   "text" : "RT @kovshenin: Apparently @wpmuorg don't know what they're doing. Please stop using query_posts. This is entirely wrong: http:\/\/t.co\/jTs ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/tweetbutton\" rel=\"nofollow\"\u003ETweet Button\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "WPMU.org",
@@ -2221,7 +2221,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "225031330835079169",
   "text" : "RT @lgedeon: Using JS  to add a field to a form (especially where WordPress already has a hook) is like eating ramen noodles... with a k ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3028,7 +3028,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "simonpegg",
       "protected" : false,
       "id_str" : "18713254",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/448836075751227392\/BXDlJIZw_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/463595375975084032\/1QvUaBiA_normal.jpeg",
       "id" : 18713254,
       "verified" : true
     }
@@ -3221,7 +3221,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "jakemgold",
       "protected" : false,
       "id_str" : "10672622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1640655972\/Jake-philly_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/467865864230805504\/6H4FWs2X_normal.jpeg",
       "id" : 10672622,
       "verified" : false
     }
@@ -3241,7 +3241,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dr. Mark Drapeau",
+      "name" : "Dr. Mark D. Drapeau",
       "screen_name" : "cheeky_geeky",
       "indices" : [ 3, 16 ],
       "id_str" : "14445542",
@@ -3263,7 +3263,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "224149844707651585",
   "text" : "RT @cheeky_geeky: Bold Web developer suggests selling products for money and achieving financial stability - http:\/\/t.co\/Nr61JZKx #notan ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3284,7 +3284,7 @@ Grailbird.data.tweets_2012_07 =
     "id" : 224138559383285760,
     "created_at" : "2012-07-14 13:49:31 +0000",
     "user" : {
-      "name" : "Dr. Mark Drapeau",
+      "name" : "Dr. Mark D. Drapeau",
       "screen_name" : "cheeky_geeky",
       "protected" : false,
       "id_str" : "14445542",
@@ -3901,7 +3901,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "223128072503824385",
   "text" : "RT @evansolomon: In the comments of my Batcache\/nginx\/Multisite post someone asked why I don't use W3 Total Cache. Here's why: http:\/\/t. ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3923,7 +3923,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "evansolomon",
       "protected" : false,
       "id_str" : "9569062",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/417962695736823808\/ayJtqEHy_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/455042132827316225\/Ilq_I8SA_normal.jpeg",
       "id" : 9569062,
       "verified" : false
     }
@@ -4036,7 +4036,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "222848485182013440",
   "text" : "RT @nacin: WordPress 3.5 feature scope session on Wednesday, July 11 http:\/\/t.co\/Voo3HsGL",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4283,7 +4283,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@sweden \/ Tanvir",
+      "name" : "@sweden \/ Linus",
       "screen_name" : "sweden",
       "indices" : [ 3, 10 ],
       "id_str" : "19663706",
@@ -4310,11 +4310,11 @@ Grailbird.data.tweets_2012_07 =
     "id" : 221571629128499200,
     "created_at" : "2012-07-07 11:49:27 +0000",
     "user" : {
-      "name" : "@sweden \/ Tanvir",
+      "name" : "@sweden \/ Linus",
       "screen_name" : "sweden",
       "protected" : false,
       "id_str" : "19663706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/453082611892506624\/U8xCwCwq_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/475895790733254656\/1jLEMxAi_normal.png",
       "id" : 19663706,
       "verified" : false
     }
@@ -4445,7 +4445,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "charles blazekovich",
+      "name" : "charles",
       "screen_name" : "scan_boy",
       "indices" : [ 0, 9 ],
       "id_str" : "260360173",
@@ -4715,7 +4715,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "220277475110948864",
   "text" : "RT @tddewey: Me too! RT @jeremyfelt: #wcpdx ticket acquired! http:\/\/t.co\/O1CAWWs1",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Jeremy Felt",
@@ -4821,7 +4821,7 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "220191832401915904",
   "text" : "RT @carldanley: happy to see a project of mine finally launched! http:\/\/t.co\/wx7g0GJh #finally #goodfeeling",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4849,7 +4849,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "carldanley",
       "protected" : false,
       "id_str" : "37747812",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/441407786388185090\/525y6Ej9_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/475100130815647744\/ewgkWSxm_normal.jpeg",
       "id" : 37747812,
       "verified" : false
     }
@@ -4942,7 +4942,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(\u256F\u00B0\u25A1\u00B0)\u256F\uFE35 \u0287so\u0265\u0183",
+      "name" : "Vitamin D",
       "screen_name" : "dddagradi",
       "indices" : [ 3, 13 ],
       "id_str" : "13237062",
@@ -4981,7 +4981,7 @@ Grailbird.data.tweets_2012_07 =
     "id" : 219910065828802560,
     "created_at" : "2012-07-02 21:47:00 +0000",
     "user" : {
-      "name" : "(\u256F\u00B0\u25A1\u00B0)\u256F\uFE35 \u0287so\u0265\u0183",
+      "name" : "Vitamin D",
       "screen_name" : "dddagradi",
       "protected" : false,
       "id_str" : "13237062",

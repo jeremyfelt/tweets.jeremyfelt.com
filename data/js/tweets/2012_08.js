@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2012_08 = 
  [ {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Kailey Lampert",
@@ -95,7 +95,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "joshelman",
       "protected" : false,
       "id_str" : "1979921",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1753423124\/image1326510627_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458692368388993024\/YzPyLHsB_normal.jpeg",
       "id" : 1979921,
       "verified" : false
     }
@@ -324,7 +324,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "jessjurick",
       "protected" : false,
       "id_str" : "21618405",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000843618666\/fb0cc2f589740ce76a2bae74766135b4_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472819658224336897\/-u76WZTj_normal.jpeg",
       "id" : 21618405,
       "verified" : false
     }
@@ -386,7 +386,7 @@ Grailbird.data.tweets_2012_08 =
   "id_str" : "241596517767598082",
   "text" : "RT @FakeAPStylebook: Referring to lies as \"lies\" may hurt someone's feelings. Instead call them \"freedom truths.\"",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -533,7 +533,7 @@ Grailbird.data.tweets_2012_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Caolo",
@@ -667,7 +667,7 @@ Grailbird.data.tweets_2012_08 =
   "id_str" : "241412310239952897",
   "text" : "RT @pattonoswalt: \"If Clint Eastwood ever talks to a chair on national TV, people will need a way to reassure each other\" -- inventor of ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -883,7 +883,7 @@ Grailbird.data.tweets_2012_08 =
   "id_str" : "241203324358127617",
   "text" : "RT @TheLastCicada: \"We were just a bunch of dudes walking across the bridge wearing camo getting rad.\" #FuckyeahPortland http:\/\/t.co\/O7m ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1457,7 +1457,7 @@ Grailbird.data.tweets_2012_08 =
   "id_str" : "240658084635226112",
   "text" : "RT @carldanley: #javascript #js Be more efficient with your JS event binding http:\/\/t.co\/GPd6llEc",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1485,7 +1485,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "carldanley",
       "protected" : false,
       "id_str" : "37747812",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/441407786388185090\/525y6Ej9_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/475100130815647744\/ewgkWSxm_normal.jpeg",
       "id" : 37747812,
       "verified" : false
     }
@@ -1940,7 +1940,7 @@ Grailbird.data.tweets_2012_08 =
   "id_str" : "240214097457737730",
   "text" : "RT @holyfield: @MikeTyson bit my ear and all I got was this lousy t-shirt. http:\/\/t.co\/RyZmfYQi",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Mike Tyson",
@@ -2170,7 +2170,7 @@ Grailbird.data.tweets_2012_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2250,7 +2250,7 @@ Grailbird.data.tweets_2012_08 =
   "id_str" : "239468439612293120",
   "text" : "RT @GregMitch: Don't miss: when Neil Armstrong was on way to moon, NYT printed correction--for mocking top rocket pioneer in 1920. http: ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3484,7 +3484,7 @@ Grailbird.data.tweets_2012_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Howard Weaver",
@@ -3581,7 +3581,7 @@ Grailbird.data.tweets_2012_08 =
       "id_str" : "14570738",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2811820300\/c62d5f6a55e037f5eb6329f1bced120c_normal.jpeg",
       "id" : 14570738,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 237574752586309632,
@@ -3933,7 +3933,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "GrantLandram",
       "protected" : false,
       "id_str" : "20131645",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000316324918\/e330ecced0b836f8eea51ad449533e8f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/468883074436964352\/V2xdPCav_normal.jpeg",
       "id" : 20131645,
       "verified" : false
     }
@@ -5529,7 +5529,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "dimensionmedia",
       "protected" : false,
       "id_str" : "13831362",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2077195320\/avatar_medium_compressed_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477904270017048576\/QWcEzNSL_normal.jpeg",
       "id" : 13831362,
       "verified" : false
     }
@@ -5826,7 +5826,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "aley",
       "protected" : false,
       "id_str" : "48901814",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/434859121699872768\/uXia_5BD_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/476957905338388480\/SnX6jCez_normal.jpeg",
       "id" : 48901814,
       "verified" : false
     }
@@ -5895,7 +5895,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "matro",
       "protected" : false,
       "id_str" : "9427242",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/419949283815616512\/9xV55CXO_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/474755460168302592\/m67AbC8a_normal.jpeg",
       "id" : 9427242,
       "verified" : false
     }
@@ -6629,7 +6629,7 @@ Grailbird.data.tweets_2012_08 =
   "id_str" : "236868517574606849",
   "text" : "RT @wcpdx: Major props to @tddewey for rolling with the OMG-we're-down-a-projector punches at #wcpdx. He was cool as a cucumber - what a ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Taylor D Dewey",
@@ -6853,7 +6853,7 @@ Grailbird.data.tweets_2012_08 =
   "id_str" : "236862774851031040",
   "text" : "RT @wcpdx: Have we mentioned how much we appreciate @10up and their sponsorship? Say hi to @jakemgold @jeremyfelt @tollmanz @tddewey tod ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "10up",
@@ -7511,7 +7511,7 @@ Grailbird.data.tweets_2012_08 =
   "id_str" : "236573373596069888",
   "text" : "RT @sull: #DidYouKnow that if you post first outside of Twitter then you can let people embed your content anyway they want ;-)",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -7531,7 +7531,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "sull",
       "protected" : false,
       "id_str" : "1202561",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/450816495333822464\/x4pYHR4K_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/466409609263984640\/70zdxEM7_normal.png",
       "id" : 1202561,
       "verified" : false
     }
@@ -7870,7 +7870,7 @@ Grailbird.data.tweets_2012_08 =
   "id_str" : "236303489200947200",
   "text" : "RT @davewiner: I hereby grant you the non-exclusive right to display this tweet anywhere you want in any way you see fit.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -8322,7 +8322,7 @@ Grailbird.data.tweets_2012_08 =
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -8400,7 +8400,7 @@ Grailbird.data.tweets_2012_08 =
   "id_str" : "235470570479837184",
   "text" : "RT @jakemgold: We still have a number of free sponsor tickets for @wcpdx this weekend through @10up's Bald Eagle sponsorship. Anyone int ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "WordCamp Portland",
@@ -8429,7 +8429,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "jakemgold",
       "protected" : false,
       "id_str" : "10672622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1640655972\/Jake-philly_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/467865864230805504\/6H4FWs2X_normal.jpeg",
       "id" : 10672622,
       "verified" : false
     }
@@ -8678,7 +8678,7 @@ Grailbird.data.tweets_2012_08 =
   "id_str" : "235220693996929025",
   "text" : "RT @wcpdx: All sorts of influential people will be at #wcpdx this Saturday - will you? Buy your ticket now! http:\/\/t.co\/gvhqi44d http:\/\/ ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -8767,7 +8767,7 @@ Grailbird.data.tweets_2012_08 =
   "id_str" : "235163781834092544",
   "text" : "RT @lgedeon: When your use case allows, 'fields' =&gt; 'ids' blasts through so fast that it leaves wp_list_pluck without any feathers!",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -8870,7 +8870,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "theory",
       "protected" : false,
       "id_str" : "656233",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/418461053706436608\/pNm0-CM9_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477241809622421504\/ECGlh2R2_normal.jpeg",
       "id" : 656233,
       "verified" : false
     }
@@ -8910,7 +8910,7 @@ Grailbird.data.tweets_2012_08 =
   "id_str" : "234876924051218432",
   "text" : "RT @jakemgold: Want even more news and thinking from 10up? Now you can follow @10up too!",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "10up",
@@ -8933,7 +8933,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "jakemgold",
       "protected" : false,
       "id_str" : "10672622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1640655972\/Jake-philly_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/467865864230805504\/6H4FWs2X_normal.jpeg",
       "id" : 10672622,
       "verified" : false
     }
@@ -9390,7 +9390,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "andmiddleton",
       "protected" : false,
       "id_str" : "201799898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1144007942\/amid_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459478919851151360\/RVYN_26U_normal.jpeg",
       "id" : 201799898,
       "verified" : false
     }
@@ -9517,7 +9517,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/436613262637936640\/XcG4cbCA_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/462463741334810624\/sCiRFelL_normal.jpeg",
       "id" : 21204689,
       "verified" : false
     }
@@ -9855,7 +9855,7 @@ Grailbird.data.tweets_2012_08 =
   "id_str" : "233648633311027200",
   "text" : "RT @Patriccus: Sunrise on Mars - one of the most amazing photos I've ever seen: http:\/\/t.co\/fyfjEh2y",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -9902,7 +9902,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "Patriccus",
       "protected" : false,
       "id_str" : "57913445",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/422139851958267905\/gufZKw7b_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/467562208575356929\/vNFOLsOA_normal.jpeg",
       "id" : 57913445,
       "verified" : false
     }
@@ -10874,7 +10874,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "carldanley",
       "protected" : false,
       "id_str" : "37747812",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/441407786388185090\/525y6Ej9_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/475100130815647744\/ewgkWSxm_normal.jpeg",
       "id" : 37747812,
       "verified" : false
     }
@@ -10992,7 +10992,7 @@ Grailbird.data.tweets_2012_08 =
   "id_str" : "232354569714298880",
   "text" : "RT @MarsCuriosity: I'm safely on the surface of Mars. GALE CRATER I AM IN YOU!!! #MSL",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -11063,7 +11063,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/446833564789661696\/_iVQKWkM_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477276032827809792\/qL2pbQzx_normal.jpeg",
       "id" : 767,
       "verified" : true
     }
@@ -11354,7 +11354,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/436613262637936640\/XcG4cbCA_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/462463741334810624\/sCiRFelL_normal.jpeg",
       "id" : 21204689,
       "verified" : false
     }
@@ -11905,7 +11905,7 @@ Grailbird.data.tweets_2012_08 =
   "id_str" : "231584044234719232",
   "text" : "RT @jessjurick: OH: So we have 9 people and a Kia. What now? #wcsf #team10up",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootSuite\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -11928,7 +11928,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "jessjurick",
       "protected" : false,
       "id_str" : "21618405",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000843618666\/fb0cc2f589740ce76a2bae74766135b4_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472819658224336897\/-u76WZTj_normal.jpeg",
       "id" : 21618405,
       "verified" : false
     }
@@ -12257,7 +12257,7 @@ Grailbird.data.tweets_2012_08 =
   "id_str" : "231076305771298816",
   "text" : "RT @jakemgold: Going to #WCSF? So is all 13 full time employees at 10up. Find us running around in our 10up tees! http:\/\/t.co\/khVw4cbW",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -12282,7 +12282,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "jakemgold",
       "protected" : false,
       "id_str" : "10672622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1640655972\/Jake-philly_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/467865864230805504\/6H4FWs2X_normal.jpeg",
       "id" : 10672622,
       "verified" : false
     }
