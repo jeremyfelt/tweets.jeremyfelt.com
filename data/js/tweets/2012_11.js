@@ -5204,7 +5204,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "brianboyer",
       "protected" : false,
       "id_str" : "14570738",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2811820300\/c62d5f6a55e037f5eb6329f1bced120c_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/479321376466030592\/lszKuYPy_normal.jpeg",
       "id" : 14570738,
       "verified" : true
     }

@@ -1021,7 +1021,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steve Streza",
+      "name" : "Steve Streza \u26BD\uFE0F",
       "screen_name" : "SteveStreza",
       "indices" : [ 3, 15 ],
       "id_str" : "658643",
@@ -1118,7 +1118,7 @@ Grailbird.data.tweets_2014_02 =
     "id" : 437264007628460032,
     "created_at" : "2014-02-22 16:33:58 +0000",
     "user" : {
-      "name" : "Steve Streza",
+      "name" : "Steve Streza \u26BD\uFE0F",
       "screen_name" : "SteveStreza",
       "protected" : false,
       "id_str" : "658643",

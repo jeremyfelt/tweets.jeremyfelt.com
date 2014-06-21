@@ -4180,7 +4180,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "mikeindustries",
       "protected" : false,
       "id_str" : "74523",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/430955581830995968\/sSqK3_b9_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/463700904747618304\/hxGlVDCF_normal.png",
       "id" : 74523,
       "verified" : false
     }

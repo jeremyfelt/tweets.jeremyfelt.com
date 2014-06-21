@@ -3825,7 +3825,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "kerri9494",
       "protected" : false,
       "id_str" : "1516611",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477130256302628866\/d5kAtEOH_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/479251337733869568\/K_4qkPH7_normal.png",
       "id" : 1516611,
       "verified" : false
     }

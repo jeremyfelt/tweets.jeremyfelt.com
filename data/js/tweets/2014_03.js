@@ -1006,7 +1006,7 @@ Grailbird.data.tweets_2014_03 =
       "screen_name" : "trepmal",
       "protected" : false,
       "id_str" : "19574066",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/415888888108818432\/cSR8HUoy_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/478689986489749505\/Amr7WExb_normal.jpeg",
       "id" : 19574066,
       "verified" : false
     }

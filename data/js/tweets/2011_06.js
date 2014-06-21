@@ -481,7 +481,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "joshelman",
       "protected" : false,
       "id_str" : "1979921",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458692368388993024\/YzPyLHsB_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477934957981999104\/erBXeCYO_normal.jpeg",
       "id" : 1979921,
       "verified" : false
     }
@@ -1402,7 +1402,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Raheem M. Kareem",
+      "name" : "Raheem Kareem",
       "screen_name" : "RaheemKareem",
       "indices" : [ 3, 16 ],
       "id_str" : "41720099",
@@ -1441,7 +1441,7 @@ Grailbird.data.tweets_2011_06 =
     "id" : 85540999211909120,
     "created_at" : "2011-06-28 02:52:18 +0000",
     "user" : {
-      "name" : "Raheem M. Kareem",
+      "name" : "Raheem Kareem",
       "screen_name" : "RaheemKareem",
       "protected" : false,
       "id_str" : "41720099",

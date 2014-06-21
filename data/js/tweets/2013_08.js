@@ -11155,7 +11155,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "Jaffe75",
       "protected" : false,
       "id_str" : "138816363",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477195114293362688\/c1lMMjNi_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/478973985372123136\/9BytkG-I_normal.jpeg",
       "id" : 138816363,
       "verified" : false
     }

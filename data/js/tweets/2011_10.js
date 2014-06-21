@@ -5063,7 +5063,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "monteiro",
       "protected" : false,
       "id_str" : "2426",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/476801187535015936\/PwrfBpdV_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/480334642566803457\/2HgLwJHi_normal.jpeg",
       "id" : 2426,
       "verified" : false
     }
