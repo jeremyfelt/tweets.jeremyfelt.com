@@ -2170,7 +2170,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "ramiabraham",
       "protected" : false,
       "id_str" : "45810221",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/478723372134567936\/Q2LcUTe3_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/482348931884404736\/sYKVAQ0g_normal.jpeg",
       "id" : 45810221,
       "verified" : false
     }
@@ -5394,7 +5394,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "A Hopeful Cyborg ",
+      "name" : "Angelina Fabbro",
       "screen_name" : "angelinamagnum",
       "indices" : [ 90, 105 ],
       "id_str" : "58708498",

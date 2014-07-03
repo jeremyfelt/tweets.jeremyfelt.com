@@ -2769,7 +2769,7 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "783837",
       "id" : 783837
     }, {
-      "name" : "\u041A\u0443\u0440\u044C\u044F\u043D\u043E\u0432 \u0424\u0451\u0434\u043E\u0440",
+      "name" : "adn_jomalley",
       "screen_name" : "adn_jomalley",
       "indices" : [ 45, 58 ],
       "id_str" : "2500054279",
@@ -2789,7 +2789,7 @@ Grailbird.data.tweets_2011_06 =
     "source" : "\u003Ca href=\"http:\/\/www.osfoora.com\" rel=\"nofollow\"\u003EOsfoora HD\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u041A\u0443\u0440\u044C\u044F\u043D\u043E\u0432 \u0424\u0451\u0434\u043E\u0440",
+        "name" : "adn_jomalley",
         "screen_name" : "adn_jomalley",
         "indices" : [ 27, 40 ],
         "id_str" : "2500054279",

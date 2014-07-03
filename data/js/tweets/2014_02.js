@@ -107,7 +107,7 @@ Grailbird.data.tweets_2014_02 =
       "id_str" : "15473031",
       "id" : 15473031
     }, {
-      "name" : "John Blackbourn \u272A",
+      "name" : "John Blackbourn \u23C7",
       "screen_name" : "johnbillion",
       "indices" : [ 16, 28 ],
       "id_str" : "79053835",

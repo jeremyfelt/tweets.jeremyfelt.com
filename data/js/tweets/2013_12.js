@@ -439,7 +439,7 @@ Grailbird.data.tweets_2013_12 =
       "id_str" : "21204689",
       "id" : 21204689
     }, {
-      "name" : "John Blackbourn \u272A",
+      "name" : "John Blackbourn \u23C7",
       "screen_name" : "johnbillion",
       "indices" : [ 80, 92 ],
       "id_str" : "79053835",
@@ -473,7 +473,7 @@ Grailbird.data.tweets_2013_12 =
         "id_str" : "21204689",
         "id" : 21204689
       }, {
-        "name" : "John Blackbourn \u272A",
+        "name" : "John Blackbourn \u23C7",
         "screen_name" : "johnbillion",
         "indices" : [ 69, 81 ],
         "id_str" : "79053835",
@@ -6381,7 +6381,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "DVNJr",
       "protected" : false,
       "id_str" : "19113374",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/469226335345180673\/RyGdXX9n_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/482288152707473408\/x1lCchuQ_normal.jpeg",
       "id" : 19113374,
       "verified" : true
     }
@@ -6829,7 +6829,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Blackbourn \u272A",
+      "name" : "John Blackbourn \u23C7",
       "screen_name" : "johnbillion",
       "indices" : [ 0, 12 ],
       "id_str" : "79053835",
@@ -7303,7 +7303,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Blackbourn \u272A",
+      "name" : "John Blackbourn \u23C7",
       "screen_name" : "johnbillion",
       "indices" : [ 0, 12 ],
       "id_str" : "79053835",

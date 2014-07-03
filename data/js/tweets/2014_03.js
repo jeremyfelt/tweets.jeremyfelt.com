@@ -3061,7 +3061,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "A Hopeful Cyborg ",
+      "name" : "Angelina Fabbro",
       "screen_name" : "angelinamagnum",
       "indices" : [ 3, 18 ],
       "id_str" : "58708498",
@@ -3098,7 +3098,7 @@ Grailbird.data.tweets_2014_03 =
     "id" : 446499410088706048,
     "created_at" : "2014-03-20 04:12:09 +0000",
     "user" : {
-      "name" : "A Hopeful Cyborg ",
+      "name" : "Angelina Fabbro",
       "screen_name" : "angelinamagnum",
       "protected" : false,
       "id_str" : "58708498",
@@ -6254,7 +6254,7 @@ Grailbird.data.tweets_2014_03 =
       "id_str" : "36623",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2929364324\/6028e3bf33ceaac24c83645e3b00b7c6_normal.jpeg",
       "id" : 36623,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 441414243598872576,
@@ -6821,7 +6821,7 @@ Grailbird.data.tweets_2014_03 =
       "screen_name" : "rmichaelthomas",
       "protected" : false,
       "id_str" : "14383423",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000627034702\/55a1ff9ec788f4120bc933b03aaefeef_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484385942350753792\/oDQ0MQct_normal.jpeg",
       "id" : 14383423,
       "verified" : false
     }

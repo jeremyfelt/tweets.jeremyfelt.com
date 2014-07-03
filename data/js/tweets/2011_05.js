@@ -702,7 +702,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "mattwaite",
       "protected" : false,
       "id_str" : "8839152",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/478229356020781058\/oHRbuM5o_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/483680468848496640\/SyG-JBSz_normal.jpeg",
       "id" : 8839152,
       "verified" : false
     }

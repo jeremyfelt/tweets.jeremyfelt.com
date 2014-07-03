@@ -4812,7 +4812,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jay Carney (EOP)",
+      "name" : "Josh Earnest",
       "screen_name" : "PressSec",
       "indices" : [ 9, 18 ],
       "id_str" : "113420831",

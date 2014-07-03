@@ -465,7 +465,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "DVNJr",
       "protected" : false,
       "id_str" : "19113374",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/469226335345180673\/RyGdXX9n_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/482288152707473408\/x1lCchuQ_normal.jpeg",
       "id" : 19113374,
       "verified" : true
     }
@@ -5118,7 +5118,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Michal Budzynski",
+      "name" : "Micha\u0142 Budzy\u0144ski",
       "screen_name" : "michalbe",
       "indices" : [ 3, 12 ],
       "id_str" : "173139272",
@@ -5217,7 +5217,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 357508181515194369,
     "created_at" : "2013-07-17 14:32:47 +0000",
     "user" : {
-      "name" : "Michal Budzynski",
+      "name" : "Micha\u0142 Budzy\u0144ski",
       "screen_name" : "michalbe",
       "protected" : false,
       "id_str" : "173139272",
@@ -9968,7 +9968,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "MikeTyson",
       "protected" : false,
       "id_str" : "156132825",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/452587976707801088\/udAfL3DY_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/483336566484393984\/dBPrk9ZX_normal.jpeg",
       "id" : 156132825,
       "verified" : true
     }

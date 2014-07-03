@@ -2279,7 +2279,7 @@ Grailbird.data.tweets_2013_10 =
     } ],
     "media" : [ {
       "expanded_url" : "http:\/\/twitter.com\/dimensionmedia\/status\/393516750299340801\/photo\/1",
-      "indices" : [ 139, 140 ],
+      "indices" : [ 126, 140 ],
       "url" : "http:\/\/t.co\/6Y8IwzpDGd",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BXYNZjdCUAA53ua.png",
       "id_str" : "393516750106415104",
@@ -2600,7 +2600,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Blackbourn \u272A",
+      "name" : "John Blackbourn \u23C7",
       "screen_name" : "johnbillion",
       "indices" : [ 3, 15 ],
       "id_str" : "79053835",
@@ -2633,7 +2633,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 393471020956282880,
     "created_at" : "2013-10-24 20:16:16 +0000",
     "user" : {
-      "name" : "John Blackbourn \u272A",
+      "name" : "John Blackbourn \u23C7",
       "screen_name" : "johnbillion",
       "protected" : false,
       "id_str" : "79053835",
@@ -4005,7 +4005,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "A Hopeful Cyborg ",
+      "name" : "Angelina Fabbro",
       "screen_name" : "angelinamagnum",
       "indices" : [ 3, 18 ],
       "id_str" : "58708498",
@@ -4042,7 +4042,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 392160483995709440,
     "created_at" : "2013-10-21 05:28:40 +0000",
     "user" : {
-      "name" : "A Hopeful Cyborg ",
+      "name" : "Angelina Fabbro",
       "screen_name" : "angelinamagnum",
       "protected" : false,
       "id_str" : "58708498",
@@ -4180,7 +4180,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "mikeindustries",
       "protected" : false,
       "id_str" : "74523",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/463700904747618304\/hxGlVDCF_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/481675513098809344\/FfV9Mi85_normal.png",
       "id" : 74523,
       "verified" : false
     }

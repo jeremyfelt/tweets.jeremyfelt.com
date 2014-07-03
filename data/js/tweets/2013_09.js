@@ -2770,7 +2770,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "MikeTyson",
       "protected" : false,
       "id_str" : "156132825",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/452587976707801088\/udAfL3DY_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/483336566484393984\/dBPrk9ZX_normal.jpeg",
       "id" : 156132825,
       "verified" : true
     }
@@ -4097,7 +4097,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "A Hopeful Cyborg ",
+      "name" : "Angelina Fabbro",
       "screen_name" : "angelinamagnum",
       "indices" : [ 3, 18 ],
       "id_str" : "58708498",
@@ -4146,7 +4146,7 @@ Grailbird.data.tweets_2013_09 =
     "id" : 380855255472164864,
     "created_at" : "2013-09-20 00:45:43 +0000",
     "user" : {
-      "name" : "A Hopeful Cyborg ",
+      "name" : "Angelina Fabbro",
       "screen_name" : "angelinamagnum",
       "protected" : false,
       "id_str" : "58708498",
@@ -9452,7 +9452,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "daljo628",
       "protected" : false,
       "id_str" : "15982239",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477115913309650945\/ucvRZ7Xi_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/481100579108700160\/awdcqpGk_normal.jpeg",
       "id" : 15982239,
       "verified" : false
     }

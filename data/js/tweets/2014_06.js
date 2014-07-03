@@ -1,5 +1,3726 @@
 Grailbird.data.tweets_2014_06 = 
-[ {
+ [ {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Grant Mangham",
+      "screen_name" : "CurmudgeonGrant",
+      "indices" : [ 0, 16 ],
+      "id_str" : "176672734",
+      "id" : 176672734
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "483824331932200960",
+  "geo" : { },
+  "id_str" : "483833952545677312",
+  "in_reply_to_user_id" : 176672734,
+  "text" : "@CurmudgeonGrant thanks! (Less than a month!)",
+  "id" : 483833952545677312,
+  "in_reply_to_status_id" : 483824331932200960,
+  "created_at" : "2014-07-01 04:46:18 +0000",
+  "in_reply_to_screen_name" : "CurmudgeonGrant",
+  "in_reply_to_user_id_str" : "176672734",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Andrew Nacin",
+      "screen_name" : "nacin",
+      "indices" : [ 3, 9 ],
+      "id_str" : "16213079",
+      "id" : 16213079
+    }, {
+      "name" : "WordCamp Seattle",
+      "screen_name" : "wordcampseattle",
+      "indices" : [ 33, 49 ],
+      "id_str" : "17046363",
+      "id" : 17046363
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "wcsea",
+      "indices" : [ 139, 140 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "483808475261046784",
+  "text" : "RT @nacin: Absolutely floored by @WordCampSeattle. I had so many smart, productive, and fun conversations and I didn\u2019t want to leave. Well \u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "WordCamp Seattle",
+        "screen_name" : "wordcampseattle",
+        "indices" : [ 22, 38 ],
+        "id_str" : "17046363",
+        "id" : 17046363
+      } ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "wcsea",
+        "indices" : [ 134, 140 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "483808240728170496",
+    "text" : "Absolutely floored by @WordCampSeattle. I had so many smart, productive, and fun conversations and I didn\u2019t want to leave. Well done. #wcsea",
+    "id" : 483808240728170496,
+    "created_at" : "2014-07-01 03:04:07 +0000",
+    "user" : {
+      "name" : "Andrew Nacin",
+      "screen_name" : "nacin",
+      "protected" : false,
+      "id_str" : "16213079",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2205986846\/gravatar-square-full_normal.jpg",
+      "id" : 16213079,
+      "verified" : false
+    }
+  },
+  "id" : 483808475261046784,
+  "created_at" : "2014-07-01 03:05:04 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Richard Tape",
+      "screen_name" : "richardtape",
+      "indices" : [ 0, 12 ],
+      "id_str" : "20590393",
+      "id" : 20590393
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "483800183516319744",
+  "geo" : { },
+  "id_str" : "483800914717724672",
+  "in_reply_to_user_id" : 20590393,
+  "text" : "@richardtape thank you!",
+  "id" : 483800914717724672,
+  "in_reply_to_status_id" : 483800183516319744,
+  "created_at" : "2014-07-01 02:35:01 +0000",
+  "in_reply_to_screen_name" : "richardtape",
+  "in_reply_to_user_id_str" : "20590393",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Flynn O'Connor",
+      "screen_name" : "thoronas",
+      "indices" : [ 0, 9 ],
+      "id_str" : "22232652",
+      "id" : 22232652
+    }, {
+      "name" : "Zack Tollman",
+      "screen_name" : "tollmanz",
+      "indices" : [ 34, 43 ],
+      "id_str" : "335110427",
+      "id" : 335110427
+    }, {
+      "name" : "M O R T E N",
+      "screen_name" : "mor10",
+      "indices" : [ 44, 50 ],
+      "id_str" : "14611891",
+      "id" : 14611891
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "483797402789244930",
+  "geo" : { },
+  "id_str" : "483797573203812353",
+  "in_reply_to_user_id" : 22232652,
+  "text" : "@thoronas You are most excellent! @tollmanz @mor10",
+  "id" : 483797573203812353,
+  "in_reply_to_status_id" : 483797402789244930,
+  "created_at" : "2014-07-01 02:21:44 +0000",
+  "in_reply_to_screen_name" : "thoronas",
+  "in_reply_to_user_id_str" : "22232652",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "WP-CLI",
+      "screen_name" : "wpcli",
+      "indices" : [ 3, 9 ],
+      "id_str" : "994698943",
+      "id" : 994698943
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 98, 120 ],
+      "url" : "http:\/\/t.co\/x6CCk7HK4A",
+      "expanded_url" : "http:\/\/wp-cli.org\/blog\/version-0.16.html",
+      "display_url" : "wp-cli.org\/blog\/version-0\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "483795704641368065",
+  "text" : "RT @wpcli: New in WP-CLI 0.16: manage WP-Cron, verify core checksums, &amp; a fresh coat of paint http:\/\/t.co\/x6CCk7HK4A",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 87, 109 ],
+        "url" : "http:\/\/t.co\/x6CCk7HK4A",
+        "expanded_url" : "http:\/\/wp-cli.org\/blog\/version-0.16.html",
+        "display_url" : "wp-cli.org\/blog\/version-0\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "483779552628314112",
+    "text" : "New in WP-CLI 0.16: manage WP-Cron, verify core checksums, &amp; a fresh coat of paint http:\/\/t.co\/x6CCk7HK4A",
+    "id" : 483779552628314112,
+    "created_at" : "2014-07-01 01:10:08 +0000",
+    "user" : {
+      "name" : "WP-CLI",
+      "screen_name" : "wpcli",
+      "protected" : false,
+      "id_str" : "994698943",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2942896539\/91f00f86505b18e130e3499ee61db36e_normal.png",
+      "id" : 994698943,
+      "verified" : false
+    }
+  },
+  "id" : 483795704641368065,
+  "created_at" : "2014-07-01 02:14:19 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/jeremyfelt\/status\/483793984590852096\/photo\/1",
+      "indices" : [ 27, 49 ],
+      "url" : "http:\/\/t.co\/zooSqtbNx4",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/BrbIEAeCAAALRhu.jpg",
+      "id_str" : "483793981159899136",
+      "id" : 483793981159899136,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BrbIEAeCAAALRhu.jpg",
+      "sizes" : [ {
+        "h" : 450,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 768,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
+        "h" : 768,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 255,
+        "resize" : "fit",
+        "w" : 340
+      } ],
+      "display_url" : "pic.twitter.com\/zooSqtbNx4"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "483793984590852096",
+  "text" : "And I went for a bike ride http:\/\/t.co\/zooSqtbNx4",
+  "id" : 483793984590852096,
+  "created_at" : "2014-07-01 02:07:29 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 96, 118 ],
+      "url" : "http:\/\/t.co\/uIaJ0OY7YA",
+      "expanded_url" : "http:\/\/2014.sf.wordcamp.org\/2014\/06\/16\/speaking-at-wordcamp-san-francisco\/",
+      "display_url" : "2014.sf.wordcamp.org\/2014\/06\/16\/spe\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "483793874620383234",
+  "text" : "I submitted a talk on WordPress, open source, and universities to WCSF if you want to nominate. http:\/\/t.co\/uIaJ0OY7YA",
+  "id" : 483793874620383234,
+  "created_at" : "2014-07-01 02:07:02 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Tobias B\u00E4thge",
+      "screen_name" : "TobiasBg",
+      "indices" : [ 0, 9 ],
+      "id_str" : "29232566",
+      "id" : 29232566
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "483675345552683009",
+  "geo" : { },
+  "id_str" : "483690838971523072",
+  "in_reply_to_user_id" : 29232566,
+  "text" : "@TobiasBg How long before you regret \"finally get to\" :)",
+  "id" : 483690838971523072,
+  "in_reply_to_status_id" : 483675345552683009,
+  "created_at" : "2014-06-30 19:17:37 +0000",
+  "in_reply_to_screen_name" : "TobiasBg",
+  "in_reply_to_user_id_str" : "29232566",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Tobias B\u00E4thge",
+      "screen_name" : "TobiasBg",
+      "indices" : [ 0, 9 ],
+      "id_str" : "29232566",
+      "id" : 29232566
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "483529609921966080",
+  "geo" : { },
+  "id_str" : "483674562316349440",
+  "in_reply_to_user_id" : 29232566,
+  "text" : "@TobiasBg They're still good when you have one network\u2014only the site needs to be discovered. In the tests, we want to use multiple.",
+  "id" : 483674562316349440,
+  "in_reply_to_status_id" : 483529609921966080,
+  "created_at" : "2014-06-30 18:12:56 +0000",
+  "in_reply_to_screen_name" : "TobiasBg",
+  "in_reply_to_user_id_str" : "29232566",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Coen Jacobs",
+      "screen_name" : "CoenJacobs",
+      "indices" : [ 0, 11 ],
+      "id_str" : "229372926",
+      "id" : 229372926
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "483492086541721600",
+  "geo" : { },
+  "id_str" : "483497493414424576",
+  "in_reply_to_user_id" : 229372926,
+  "text" : "@CoenJacobs no urgent need. Looking for the general steps to converting default VVV config for anyone that wants to use it instead.",
+  "id" : 483497493414424576,
+  "in_reply_to_status_id" : 483492086541721600,
+  "created_at" : "2014-06-30 06:29:20 +0000",
+  "in_reply_to_screen_name" : "CoenJacobs",
+  "in_reply_to_user_id_str" : "229372926",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "MEXvsNED",
+      "indices" : [ 4, 13 ]
+    }, {
+      "text" : "wcsea",
+      "indices" : [ 44, 50 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "483491571870871552",
+  "text" : "[x] #MEXvsNED \n[x] Spend day with wonderful #wcsea contributors\n[x] Add multisite bootstrap unit tests\n[x] Drive across Washington\n\nG\u2019night!",
+  "id" : 483491571870871552,
+  "created_at" : "2014-06-30 06:05:48 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Cliff Seal",
+      "screen_name" : "cliffseal",
+      "indices" : [ 0, 10 ],
+      "id_str" : "47667980",
+      "id" : 47667980
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "483403324440715265",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 47.2600661125, -121.2178405469 ]
+  },
+  "id_str" : "483406564485632003",
+  "in_reply_to_user_id" : 47667980,
+  "text" : "@cliffseal nice! Anything special about the config that had to be changed?",
+  "id" : 483406564485632003,
+  "in_reply_to_status_id" : 483403324440715265,
+  "created_at" : "2014-06-30 00:28:00 +0000",
+  "in_reply_to_screen_name" : "cliffseal",
+  "in_reply_to_user_id_str" : "47667980",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "483328468872986624",
+  "text" : "Is anyone using VMware with VVV instead of VirtualBox?",
+  "id" : 483328468872986624,
+  "created_at" : "2014-06-29 19:17:41 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Impact Hub Seattle",
+      "screen_name" : "hubsea",
+      "indices" : [ 28, 35 ],
+      "id_str" : "260867841",
+      "id" : 260867841
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 50, 73 ],
+      "url" : "https:\/\/t.co\/S5Rnmy48Wo",
+      "expanded_url" : "https:\/\/www.swarmapp.com\/jeremyfelt\/checkin\/53b03945498e40496c0f6017?s=1521xky-D-s-aujv-_qhUK0U7do&ref=tw",
+      "display_url" : "swarmapp.com\/jeremyfelt\/che\u2026"
+    } ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 47.6006573712, -122.3312058017 ]
+  },
+  "id_str" : "483280113745018880",
+  "text" : "I'm at Impact Hub Seattle - @hubsea (Seattle, WA) https:\/\/t.co\/S5Rnmy48Wo",
+  "id" : 483280113745018880,
+  "created_at" : "2014-06-29 16:05:32 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Josh C",
+      "screen_name" : "joshcanhelp",
+      "indices" : [ 0, 12 ],
+      "id_str" : "14179496",
+      "id" : 14179496
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "483106135621136384",
+  "geo" : { },
+  "id_str" : "483106898263027712",
+  "in_reply_to_user_id" : 14179496,
+  "text" : "@joshcanhelp yes! This makes me happy :)",
+  "id" : 483106898263027712,
+  "in_reply_to_status_id" : 483106135621136384,
+  "created_at" : "2014-06-29 04:37:14 +0000",
+  "in_reply_to_screen_name" : "joshcanhelp",
+  "in_reply_to_user_id_str" : "14179496",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Matthew Eppelsheimer",
+      "screen_name" : "mattepp",
+      "indices" : [ 0, 8 ],
+      "id_str" : "14871770",
+      "id" : 14871770
+    }, {
+      "name" : "Zach Brown",
+      "screen_name" : "TheLastCicada",
+      "indices" : [ 9, 23 ],
+      "id_str" : "15436236",
+      "id" : 15436236
+    }, {
+      "name" : "Daniel Bachhuber",
+      "screen_name" : "danielbachhuber",
+      "indices" : [ 24, 40 ],
+      "id_str" : "272166936",
+      "id" : 272166936
+    }, {
+      "name" : "Flynn O'Connor",
+      "screen_name" : "thoronas",
+      "indices" : [ 41, 50 ],
+      "id_str" : "22232652",
+      "id" : 22232652
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "483091314158755840",
+  "geo" : { },
+  "id_str" : "483091475710767104",
+  "in_reply_to_user_id" : 14871770,
+  "text" : "@mattepp @TheLastCicada @danielbachhuber @thoronas big time brewing!",
+  "id" : 483091475710767104,
+  "in_reply_to_status_id" : 483091314158755840,
+  "created_at" : "2014-06-29 03:35:57 +0000",
+  "in_reply_to_screen_name" : "mattepp",
+  "in_reply_to_user_id_str" : "14871770",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Big Time Brewery",
+      "screen_name" : "BigTimeBrewery",
+      "indices" : [ 7, 22 ],
+      "id_str" : "28023266",
+      "id" : 28023266
+    }, {
+      "name" : "Daniel Bachhuber",
+      "screen_name" : "danielbachhuber",
+      "indices" : [ 41, 57 ],
+      "id_str" : "272166936",
+      "id" : 272166936
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 58, 81 ],
+      "url" : "https:\/\/t.co\/ZmjHjRppBU",
+      "expanded_url" : "https:\/\/www.swarmapp.com\/jeremyfelt\/checkin\/53af87a7498e2bc7f7d790e4?s=j0B7F4pQ0ycyMklUxHo2d3xduXc&ref=tw",
+      "display_url" : "swarmapp.com\/jeremyfelt\/che\u2026"
+    } ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 47.65784887864849, -122.31343299150467 ]
+  },
+  "id_str" : "483089402110173184",
+  "text" : "I'm at @BigTimeBrewery &amp; Alehouse w\/ @danielbachhuber https:\/\/t.co\/ZmjHjRppBU",
+  "id" : 483089402110173184,
+  "created_at" : "2014-06-29 03:27:43 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Anna Celia Gallegos",
+      "screen_name" : "anna_gallegos",
+      "indices" : [ 3, 17 ],
+      "id_str" : "367226291",
+      "id" : 367226291
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "WordPress",
+      "indices" : [ 19, 29 ]
+    }, {
+      "text" : "wcsea",
+      "indices" : [ 72, 78 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "483038319438077952",
+  "text" : "RT @anna_gallegos: #WordPress is going to improve multisite. THANK GOD! #wcsea",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "WordPress",
+        "indices" : [ 0, 10 ]
+      }, {
+        "text" : "wcsea",
+        "indices" : [ 53, 59 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : {
+      "type" : "Point",
+      "coordinates" : [ 47.65543850609985, -122.3051004623731 ]
+    },
+    "id_str" : "483034574360825856",
+    "text" : "#WordPress is going to improve multisite. THANK GOD! #wcsea",
+    "id" : 483034574360825856,
+    "created_at" : "2014-06-28 23:49:51 +0000",
+    "user" : {
+      "name" : "Anna Celia Gallegos",
+      "screen_name" : "anna_gallegos",
+      "protected" : false,
+      "id_str" : "367226291",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/455173194312192000\/a5rDtv92_normal.jpeg",
+      "id" : 367226291,
+      "verified" : false
+    }
+  },
+  "id" : 483038319438077952,
+  "created_at" : "2014-06-29 00:04:44 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Matt Perry",
+      "screen_name" : "mattoperry",
+      "indices" : [ 3, 14 ],
+      "id_str" : "15485308",
+      "id" : 15485308
+    }, {
+      "name" : "Andrew Nacin",
+      "screen_name" : "nacin",
+      "indices" : [ 59, 65 ],
+      "id_str" : "16213079",
+      "id" : 16213079
+    }, {
+      "name" : "Impact Hub Seattle",
+      "screen_name" : "hubsea",
+      "indices" : [ 103, 110 ],
+      "id_str" : "260867841",
+      "id" : 260867841
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "wcsea",
+      "indices" : [ 31, 37 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "483037717857456128",
+  "text" : "RT @mattoperry: Great plug for #wcsea contributor day from @nacin ... Y'all should show up tomorrow at @hubsea",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Andrew Nacin",
+        "screen_name" : "nacin",
+        "indices" : [ 43, 49 ],
+        "id_str" : "16213079",
+        "id" : 16213079
+      }, {
+        "name" : "Impact Hub Seattle",
+        "screen_name" : "hubsea",
+        "indices" : [ 87, 94 ],
+        "id_str" : "260867841",
+        "id" : 260867841
+      } ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "wcsea",
+        "indices" : [ 15, 21 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : {
+      "type" : "Point",
+      "coordinates" : [ 47.6554335906, -122.3052424968 ]
+    },
+    "id_str" : "483037395491631105",
+    "text" : "Great plug for #wcsea contributor day from @nacin ... Y'all should show up tomorrow at @hubsea",
+    "id" : 483037395491631105,
+    "created_at" : "2014-06-29 00:01:04 +0000",
+    "user" : {
+      "name" : "Matt Perry",
+      "screen_name" : "mattoperry",
+      "protected" : false,
+      "id_str" : "15485308",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/463807011356831745\/aJD98-yP_normal.jpeg",
+      "id" : 15485308,
+      "verified" : false
+    }
+  },
+  "id" : 483037717857456128,
+  "created_at" : "2014-06-29 00:02:21 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "wcsea",
+      "indices" : [ 67, 73 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 80, 102 ],
+      "url" : "http:\/\/t.co\/m14VhHVmD0",
+      "expanded_url" : "http:\/\/jeremyfelt.com\/wcsea",
+      "display_url" : "jeremyfelt.com\/wcsea"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "483026243047014401",
+  "text" : "Slides and links from my \"Small Changes toward Big Things\" talk at #wcsea today http:\/\/t.co\/m14VhHVmD0",
+  "id" : 483026243047014401,
+  "created_at" : "2014-06-28 23:16:45 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jacob Dubail",
+      "screen_name" : "jacobdubail",
+      "indices" : [ 3, 15 ],
+      "id_str" : "148846290",
+      "id" : 148846290
+    } ],
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/jacobdubail\/status\/482998895987789824\/photo\/1",
+      "indices" : [ 57, 79 ],
+      "url" : "http:\/\/t.co\/ehnmzMvSDq",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/BrP075qCQAAP66q.jpg",
+      "id_str" : "482998894985363456",
+      "id" : 482998894985363456,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BrP075qCQAAP66q.jpg",
+      "sizes" : [ {
+        "h" : 1024,
+        "resize" : "fit",
+        "w" : 768
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 453,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 800,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 1024,
+        "resize" : "fit",
+        "w" : 768
+      } ],
+      "display_url" : "pic.twitter.com\/ehnmzMvSDq"
+    } ],
+    "hashtags" : [ {
+      "text" : "wcsea",
+      "indices" : [ 49, 55 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "483016586068893696",
+  "text" : "RT @jacobdubail: Jeremy reppin the WSU colors at #wcsea. http:\/\/t.co\/ehnmzMvSDq",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "http:\/\/twitter.com\/jacobdubail\/status\/482998895987789824\/photo\/1",
+        "indices" : [ 40, 62 ],
+        "url" : "http:\/\/t.co\/ehnmzMvSDq",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/BrP075qCQAAP66q.jpg",
+        "id_str" : "482998894985363456",
+        "id" : 482998894985363456,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BrP075qCQAAP66q.jpg",
+        "sizes" : [ {
+          "h" : 1024,
+          "resize" : "fit",
+          "w" : 768
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 453,
+          "resize" : "fit",
+          "w" : 340
+        }, {
+          "h" : 800,
+          "resize" : "fit",
+          "w" : 600
+        }, {
+          "h" : 1024,
+          "resize" : "fit",
+          "w" : 768
+        } ],
+        "display_url" : "pic.twitter.com\/ehnmzMvSDq"
+      } ],
+      "hashtags" : [ {
+        "text" : "wcsea",
+        "indices" : [ 32, 38 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "482998895987789824",
+    "text" : "Jeremy reppin the WSU colors at #wcsea. http:\/\/t.co\/ehnmzMvSDq",
+    "id" : 482998895987789824,
+    "created_at" : "2014-06-28 21:28:05 +0000",
+    "user" : {
+      "name" : "Jacob Dubail",
+      "screen_name" : "jacobdubail",
+      "protected" : false,
+      "id_str" : "148846290",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/478579986706599936\/DZtZrdlL_normal.png",
+      "id" : 148846290,
+      "verified" : false
+    }
+  },
+  "id" : 483016586068893696,
+  "created_at" : "2014-06-28 22:38:22 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Haley Elder",
+      "screen_name" : "haley_elder",
+      "indices" : [ 3, 15 ],
+      "id_str" : "362092295",
+      "id" : 362092295
+    }, {
+      "name" : "Jeremy Felt",
+      "screen_name" : "jeremyfelt",
+      "indices" : [ 34, 45 ],
+      "id_str" : "1741681",
+      "id" : 1741681
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "wcsea",
+      "indices" : [ 27, 33 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "483016437326286848",
+  "text" : "RT @haley_elder: Go cougs! #wcsea @jeremyfelt",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for  Android\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Jeremy Felt",
+        "screen_name" : "jeremyfelt",
+        "indices" : [ 17, 28 ],
+        "id_str" : "1741681",
+        "id" : 1741681
+      } ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "wcsea",
+        "indices" : [ 10, 16 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "483000385263927296",
+    "text" : "Go cougs! #wcsea @jeremyfelt",
+    "id" : 483000385263927296,
+    "created_at" : "2014-06-28 21:34:00 +0000",
+    "user" : {
+      "name" : "Haley Elder",
+      "screen_name" : "haley_elder",
+      "protected" : false,
+      "id_str" : "362092295",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3478926329\/7570b431df18303535e7a36b74b13d9d_normal.jpeg",
+      "id" : 362092295,
+      "verified" : false
+    }
+  },
+  "id" : 483016437326286848,
+  "created_at" : "2014-06-28 22:37:47 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Shenoa Lawrence",
+      "screen_name" : "ShenoaLawrence",
+      "indices" : [ 3, 18 ],
+      "id_str" : "37127416",
+      "id" : 37127416
+    }, {
+      "name" : "Jeremy Felt",
+      "screen_name" : "jeremyfelt",
+      "indices" : [ 43, 54 ],
+      "id_str" : "1741681",
+      "id" : 1741681
+    } ],
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/ShenoaLawrence\/status\/483002282649206784\/photo\/1",
+      "indices" : [ 62, 84 ],
+      "url" : "http:\/\/t.co\/UnpVEdRV1O",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/BrP4BABCEAEzuao.jpg",
+      "id_str" : "483002281126662145",
+      "id" : 483002281126662145,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BrP4BABCEAEzuao.jpg",
+      "sizes" : [ {
+        "h" : 450,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 768,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
+        "h" : 768,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 255,
+        "resize" : "fit",
+        "w" : 340
+      } ],
+      "display_url" : "pic.twitter.com\/UnpVEdRV1O"
+    } ],
+    "hashtags" : [ {
+      "text" : "wcsea",
+      "indices" : [ 55, 61 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "483016325657157632",
+  "text" : "RT @ShenoaLawrence: Definition of scale by @jeremyfelt #wcsea http:\/\/t.co\/UnpVEdRV1O",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Jeremy Felt",
+        "screen_name" : "jeremyfelt",
+        "indices" : [ 23, 34 ],
+        "id_str" : "1741681",
+        "id" : 1741681
+      } ],
+      "media" : [ {
+        "expanded_url" : "http:\/\/twitter.com\/ShenoaLawrence\/status\/483002282649206784\/photo\/1",
+        "indices" : [ 42, 64 ],
+        "url" : "http:\/\/t.co\/UnpVEdRV1O",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/BrP4BABCEAEzuao.jpg",
+        "id_str" : "483002281126662145",
+        "id" : 483002281126662145,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BrP4BABCEAEzuao.jpg",
+        "sizes" : [ {
+          "h" : 450,
+          "resize" : "fit",
+          "w" : 600
+        }, {
+          "h" : 768,
+          "resize" : "fit",
+          "w" : 1024
+        }, {
+          "h" : 768,
+          "resize" : "fit",
+          "w" : 1024
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 255,
+          "resize" : "fit",
+          "w" : 340
+        } ],
+        "display_url" : "pic.twitter.com\/UnpVEdRV1O"
+      } ],
+      "hashtags" : [ {
+        "text" : "wcsea",
+        "indices" : [ 35, 41 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "483002282649206784",
+    "text" : "Definition of scale by @jeremyfelt #wcsea http:\/\/t.co\/UnpVEdRV1O",
+    "id" : 483002282649206784,
+    "created_at" : "2014-06-28 21:41:32 +0000",
+    "user" : {
+      "name" : "Shenoa Lawrence",
+      "screen_name" : "ShenoaLawrence",
+      "protected" : false,
+      "id_str" : "37127416",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/475106561744855040\/tzwdKLHK_normal.jpeg",
+      "id" : 37127416,
+      "verified" : false
+    }
+  },
+  "id" : 483016325657157632,
+  "created_at" : "2014-06-28 22:37:20 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "David Bisset",
+      "screen_name" : "dimensionmedia",
+      "indices" : [ 3, 18 ],
+      "id_str" : "13831362",
+      "id" : 13831362
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "wcsea",
+      "indices" : [ 38, 44 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "483016119628738560",
+  "text" : "RT @dimensionmedia: Seeing a trend at #wcsea. The longer you've been a developer, the more plaid your shirt.",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "wcsea",
+        "indices" : [ 18, 24 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "483004261429956608",
+    "text" : "Seeing a trend at #wcsea. The longer you've been a developer, the more plaid your shirt.",
+    "id" : 483004261429956608,
+    "created_at" : "2014-06-28 21:49:24 +0000",
+    "user" : {
+      "name" : "David Bisset",
+      "screen_name" : "dimensionmedia",
+      "protected" : false,
+      "id_str" : "13831362",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477904270017048576\/QWcEzNSL_normal.jpeg",
+      "id" : 13831362,
+      "verified" : false
+    }
+  },
+  "id" : 483016119628738560,
+  "created_at" : "2014-06-28 22:36:31 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Zack Tollman",
+      "screen_name" : "tollmanz",
+      "indices" : [ 3, 12 ],
+      "id_str" : "335110427",
+      "id" : 335110427
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "wcsea",
+      "indices" : [ 51, 57 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 58, 81 ],
+      "url" : "https:\/\/t.co\/74TV8hbNa9",
+      "expanded_url" : "https:\/\/speakerdeck.com\/tollmanz\/speed-as-a-feature-getting-a-handle-on-page-load-time",
+      "display_url" : "speakerdeck.com\/tollmanz\/speed\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "483010420672720897",
+  "text" : "RT @tollmanz: Slides for my Page Load Time talk at #wcsea https:\/\/t.co\/74TV8hbNa9",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "wcsea",
+        "indices" : [ 37, 43 ]
+      } ],
+      "urls" : [ {
+        "indices" : [ 44, 67 ],
+        "url" : "https:\/\/t.co\/74TV8hbNa9",
+        "expanded_url" : "https:\/\/speakerdeck.com\/tollmanz\/speed-as-a-feature-getting-a-handle-on-page-load-time",
+        "display_url" : "speakerdeck.com\/tollmanz\/speed\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "483007856589819904",
+    "text" : "Slides for my Page Load Time talk at #wcsea https:\/\/t.co\/74TV8hbNa9",
+    "id" : 483007856589819904,
+    "created_at" : "2014-06-28 22:03:41 +0000",
+    "user" : {
+      "name" : "Zack Tollman",
+      "screen_name" : "tollmanz",
+      "protected" : false,
+      "id_str" : "335110427",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/435843708445941762\/_-pWIndR_normal.jpeg",
+      "id" : 335110427,
+      "verified" : false
+    }
+  },
+  "id" : 483010420672720897,
+  "created_at" : "2014-06-28 22:13:52 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "WordCamp Seattle",
+      "screen_name" : "wordcampseattle",
+      "indices" : [ 3, 19 ],
+      "id_str" : "17046363",
+      "id" : 17046363
+    }, {
+      "name" : "Kailey Lampert",
+      "screen_name" : "trepmal",
+      "indices" : [ 100, 108 ],
+      "id_str" : "19574066",
+      "id" : 19574066
+    }, {
+      "name" : "Kronda",
+      "screen_name" : "kronda",
+      "indices" : [ 109, 116 ],
+      "id_str" : "11134232",
+      "id" : 11134232
+    }, {
+      "name" : "M O R T E N",
+      "screen_name" : "mor10",
+      "indices" : [ 117, 123 ],
+      "id_str" : "14611891",
+      "id" : 14611891
+    }, {
+      "name" : "Zack Tollman",
+      "screen_name" : "tollmanz",
+      "indices" : [ 124, 133 ],
+      "id_str" : "335110427",
+      "id" : 335110427
+    }, {
+      "name" : "Jeremy Felt",
+      "screen_name" : "jeremyfelt",
+      "indices" : [ 134, 140 ],
+      "id_str" : "1741681",
+      "id" : 1741681
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "wcsea",
+      "indices" : [ 139, 140 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "482966777509335040",
+  "text" : "RT @wordcampseattle: Great panel right after lunch: How To Become a Better WordPress Developer with @trepmal @kronda @mor10 @tollmanz @jere\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Kailey Lampert",
+        "screen_name" : "trepmal",
+        "indices" : [ 79, 87 ],
+        "id_str" : "19574066",
+        "id" : 19574066
+      }, {
+        "name" : "Kronda",
+        "screen_name" : "kronda",
+        "indices" : [ 88, 95 ],
+        "id_str" : "11134232",
+        "id" : 11134232
+      }, {
+        "name" : "M O R T E N",
+        "screen_name" : "mor10",
+        "indices" : [ 96, 102 ],
+        "id_str" : "14611891",
+        "id" : 14611891
+      }, {
+        "name" : "Zack Tollman",
+        "screen_name" : "tollmanz",
+        "indices" : [ 103, 112 ],
+        "id_str" : "335110427",
+        "id" : 335110427
+      }, {
+        "name" : "Jeremy Felt",
+        "screen_name" : "jeremyfelt",
+        "indices" : [ 113, 124 ],
+        "id_str" : "1741681",
+        "id" : 1741681
+      } ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "wcsea",
+        "indices" : [ 125, 131 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "482965459390566400",
+    "text" : "Great panel right after lunch: How To Become a Better WordPress Developer with @trepmal @kronda @mor10 @tollmanz @jeremyfelt #wcsea",
+    "id" : 482965459390566400,
+    "created_at" : "2014-06-28 19:15:13 +0000",
+    "user" : {
+      "name" : "WordCamp Seattle",
+      "screen_name" : "wordcampseattle",
+      "protected" : false,
+      "id_str" : "17046363",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472459909540233217\/h7D3X99o_normal.jpeg",
+      "id" : 17046363,
+      "verified" : false
+    }
+  },
+  "id" : 482966777509335040,
+  "created_at" : "2014-06-28 19:20:27 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Aaron Jorbin",
+      "screen_name" : "aaronjorbin",
+      "indices" : [ 3, 15 ],
+      "id_str" : "14886552",
+      "id" : 14886552
+    }, {
+      "name" : "Kailey Lampert",
+      "screen_name" : "trepmal",
+      "indices" : [ 39, 47 ],
+      "id_str" : "19574066",
+      "id" : 19574066
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "wcsea",
+      "indices" : [ 127, 133 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "https:\/\/t.co\/o6m6za3NQC",
+      "expanded_url" : "https:\/\/trepmal.com\/2014\/06\/28\/hidden-treasures-of-wordpress\/",
+      "display_url" : "trepmal.com\/2014\/06\/28\/hid\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "482954276348497921",
+  "text" : "RT @aaronjorbin: Great presentation by @trepmal about hidden treasures in WordPress. These slides deserve a read from all devs #wcsea https\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Kailey Lampert",
+        "screen_name" : "trepmal",
+        "indices" : [ 22, 30 ],
+        "id_str" : "19574066",
+        "id" : 19574066
+      } ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "wcsea",
+        "indices" : [ 110, 116 ]
+      } ],
+      "urls" : [ {
+        "indices" : [ 117, 140 ],
+        "url" : "https:\/\/t.co\/o6m6za3NQC",
+        "expanded_url" : "https:\/\/trepmal.com\/2014\/06\/28\/hidden-treasures-of-wordpress\/",
+        "display_url" : "trepmal.com\/2014\/06\/28\/hid\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "482948469305249792",
+    "text" : "Great presentation by @trepmal about hidden treasures in WordPress. These slides deserve a read from all devs #wcsea https:\/\/t.co\/o6m6za3NQC",
+    "id" : 482948469305249792,
+    "created_at" : "2014-06-28 18:07:42 +0000",
+    "user" : {
+      "name" : "Aaron Jorbin",
+      "screen_name" : "aaronjorbin",
+      "protected" : false,
+      "id_str" : "14886552",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2449835921\/lsvvi9zqcy7uh1147rxq_normal.jpeg",
+      "id" : 14886552,
+      "verified" : false
+    }
+  },
+  "id" : 482954276348497921,
+  "created_at" : "2014-06-28 18:30:47 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "David Bisset",
+      "screen_name" : "dimensionmedia",
+      "indices" : [ 3, 18 ],
+      "id_str" : "13831362",
+      "id" : 13831362
+    }, {
+      "name" : "WordCamp Seattle",
+      "screen_name" : "wordcampseattle",
+      "indices" : [ 42, 58 ],
+      "id_str" : "17046363",
+      "id" : 17046363
+    }, {
+      "name" : "Andrew Nacin",
+      "screen_name" : "nacin",
+      "indices" : [ 90, 96 ],
+      "id_str" : "16213079",
+      "id" : 16213079
+    }, {
+      "name" : "Jennifer Bourn",
+      "screen_name" : "jenniferbourn",
+      "indices" : [ 97, 111 ],
+      "id_str" : "18512632",
+      "id" : 18512632
+    }, {
+      "name" : "Kailey Lampert",
+      "screen_name" : "trepmal",
+      "indices" : [ 112, 120 ],
+      "id_str" : "19574066",
+      "id" : 19574066
+    }, {
+      "name" : "Julie Kuehl",
+      "screen_name" : "JulieKuehl",
+      "indices" : [ 121, 132 ],
+      "id_str" : "14956783",
+      "id" : 14956783
+    }, {
+      "name" : "Jeremy Felt",
+      "screen_name" : "jeremyfelt",
+      "indices" : [ 133, 140 ],
+      "id_str" : "1741681",
+      "id" : 1741681
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "wcsea",
+      "indices" : [ 139, 140 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "482929347653672960",
+  "text" : "RT @dimensionmedia: Armchair WordCampers: @wordcampseattle is ground zero of knowledge w\/ @nacin @jenniferbourn @trepmal @JulieKuehl @jerem\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "WordCamp Seattle",
+        "screen_name" : "wordcampseattle",
+        "indices" : [ 22, 38 ],
+        "id_str" : "17046363",
+        "id" : 17046363
+      }, {
+        "name" : "Andrew Nacin",
+        "screen_name" : "nacin",
+        "indices" : [ 70, 76 ],
+        "id_str" : "16213079",
+        "id" : 16213079
+      }, {
+        "name" : "Jennifer Bourn",
+        "screen_name" : "jenniferbourn",
+        "indices" : [ 77, 91 ],
+        "id_str" : "18512632",
+        "id" : 18512632
+      }, {
+        "name" : "Kailey Lampert",
+        "screen_name" : "trepmal",
+        "indices" : [ 92, 100 ],
+        "id_str" : "19574066",
+        "id" : 19574066
+      }, {
+        "name" : "Julie Kuehl",
+        "screen_name" : "JulieKuehl",
+        "indices" : [ 101, 112 ],
+        "id_str" : "14956783",
+        "id" : 14956783
+      }, {
+        "name" : "Jeremy Felt",
+        "screen_name" : "jeremyfelt",
+        "indices" : [ 113, 124 ],
+        "id_str" : "1741681",
+        "id" : 1741681
+      } ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "wcsea",
+        "indices" : [ 125, 131 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "482925554379677696",
+    "text" : "Armchair WordCampers: @wordcampseattle is ground zero of knowledge w\/ @nacin @jenniferbourn @trepmal @JulieKuehl @jeremyfelt #wcsea",
+    "id" : 482925554379677696,
+    "created_at" : "2014-06-28 16:36:39 +0000",
+    "user" : {
+      "name" : "David Bisset",
+      "screen_name" : "dimensionmedia",
+      "protected" : false,
+      "id_str" : "13831362",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477904270017048576\/QWcEzNSL_normal.jpeg",
+      "id" : 13831362,
+      "verified" : false
+    }
+  },
+  "id" : 482929347653672960,
+  "created_at" : "2014-06-28 16:51:43 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Simon Wheatley",
+      "screen_name" : "simonwheatley",
+      "indices" : [ 3, 17 ],
+      "id_str" : "4371541",
+      "id" : 4371541
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "wcmcr",
+      "indices" : [ 137, 140 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 114, 136 ],
+      "url" : "http:\/\/t.co\/IV7wnZ6Oad",
+      "expanded_url" : "http:\/\/simonwheatley.co.uk\/2014\/06\/i-had-a-dream\/",
+      "display_url" : "simonwheatley.co.uk\/2014\/06\/i-had-\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "482883197370261505",
+  "text" : "RT @simonwheatley: Here\u2019s the first blogpost of my series of posts on our development environment (more to come): http:\/\/t.co\/IV7wnZ6Oad #w\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "wcmcr",
+        "indices" : [ 118, 124 ]
+      } ],
+      "urls" : [ {
+        "indices" : [ 95, 117 ],
+        "url" : "http:\/\/t.co\/IV7wnZ6Oad",
+        "expanded_url" : "http:\/\/simonwheatley.co.uk\/2014\/06\/i-had-a-dream\/",
+        "display_url" : "simonwheatley.co.uk\/2014\/06\/i-had-\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "482880091983454208",
+    "text" : "Here\u2019s the first blogpost of my series of posts on our development environment (more to come): http:\/\/t.co\/IV7wnZ6Oad #wcmcr",
+    "id" : 482880091983454208,
+    "created_at" : "2014-06-28 13:36:00 +0000",
+    "user" : {
+      "name" : "Simon Wheatley",
+      "screen_name" : "simonwheatley",
+      "protected" : false,
+      "id_str" : "4371541",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/419412315138949120\/4zea4f5__normal.jpeg",
+      "id" : 4371541,
+      "verified" : false
+    }
+  },
+  "id" : 482883197370261505,
+  "created_at" : "2014-06-28 13:48:20 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Andrew Nacin",
+      "screen_name" : "nacin",
+      "indices" : [ 3, 9 ],
+      "id_str" : "16213079",
+      "id" : 16213079
+    }, {
+      "name" : "Sergey Biryukov",
+      "screen_name" : "flash_usb",
+      "indices" : [ 12, 22 ],
+      "id_str" : "12054982",
+      "id" : 12054982
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "WPMovies",
+      "indices" : [ 63, 72 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "482767107252178944",
+  "text" : "RT @nacin: .@flash_usb keeps tweeting out new and really funny #WPMovies. He's just getting started.",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Sergey Biryukov",
+        "screen_name" : "flash_usb",
+        "indices" : [ 1, 11 ],
+        "id_str" : "12054982",
+        "id" : 12054982
+      } ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "WPMovies",
+        "indices" : [ 52, 61 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "482758377554980864",
+    "text" : ".@flash_usb keeps tweeting out new and really funny #WPMovies. He's just getting started.",
+    "id" : 482758377554980864,
+    "created_at" : "2014-06-28 05:32:21 +0000",
+    "user" : {
+      "name" : "Andrew Nacin",
+      "screen_name" : "nacin",
+      "protected" : false,
+      "id_str" : "16213079",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2205986846\/gravatar-square-full_normal.jpg",
+      "id" : 16213079,
+      "verified" : false
+    }
+  },
+  "id" : 482767107252178944,
+  "created_at" : "2014-06-28 06:07:02 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Daniel Bachhuber",
+      "screen_name" : "danielbachhuber",
+      "indices" : [ 0, 16 ],
+      "id_str" : "272166936",
+      "id" : 272166936
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "482277887391698944",
+  "geo" : { },
+  "id_str" : "482368628889620480",
+  "in_reply_to_user_id" : 272166936,
+  "text" : "@danielbachhuber what!",
+  "id" : 482368628889620480,
+  "in_reply_to_status_id" : 482277887391698944,
+  "created_at" : "2014-06-27 03:43:37 +0000",
+  "in_reply_to_screen_name" : "danielbachhuber",
+  "in_reply_to_user_id_str" : "272166936",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "The New York Times",
+      "screen_name" : "nytimes",
+      "indices" : [ 3, 11 ],
+      "id_str" : "807095",
+      "id" : 807095
+    } ],
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/nytimes\/status\/482353392283828224\/photo\/1",
+      "indices" : [ 99, 121 ],
+      "url" : "http:\/\/t.co\/ClfnLC7HIn",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/BrGp2raIMAAvdEv.png",
+      "id_str" : "482353391935696896",
+      "id" : 482353391935696896,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BrGp2raIMAAvdEv.png",
+      "sizes" : [ {
+        "h" : 324,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 107,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 190,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 370,
+        "resize" : "fit",
+        "w" : 1171
+      } ],
+      "display_url" : "pic.twitter.com\/ClfnLC7HIn"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 76, 98 ],
+      "url" : "http:\/\/t.co\/IFBLy83S95",
+      "expanded_url" : "http:\/\/nyti.ms\/1pTR78k",
+      "display_url" : "nyti.ms\/1pTR78k"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "482366902107246592",
+  "text" : "RT @nytimes: Goalkeeper Tim Howard made enough stops to keep the U.S. going http:\/\/t.co\/IFBLy83S95 http:\/\/t.co\/ClfnLC7HIn",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/www.socialflow.com\" rel=\"nofollow\"\u003ESocialFlow\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "http:\/\/twitter.com\/nytimes\/status\/482353392283828224\/photo\/1",
+        "indices" : [ 86, 108 ],
+        "url" : "http:\/\/t.co\/ClfnLC7HIn",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/BrGp2raIMAAvdEv.png",
+        "id_str" : "482353391935696896",
+        "id" : 482353391935696896,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BrGp2raIMAAvdEv.png",
+        "sizes" : [ {
+          "h" : 324,
+          "resize" : "fit",
+          "w" : 1024
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 107,
+          "resize" : "fit",
+          "w" : 340
+        }, {
+          "h" : 190,
+          "resize" : "fit",
+          "w" : 600
+        }, {
+          "h" : 370,
+          "resize" : "fit",
+          "w" : 1171
+        } ],
+        "display_url" : "pic.twitter.com\/ClfnLC7HIn"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 63, 85 ],
+        "url" : "http:\/\/t.co\/IFBLy83S95",
+        "expanded_url" : "http:\/\/nyti.ms\/1pTR78k",
+        "display_url" : "nyti.ms\/1pTR78k"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "482353392283828224",
+    "text" : "Goalkeeper Tim Howard made enough stops to keep the U.S. going http:\/\/t.co\/IFBLy83S95 http:\/\/t.co\/ClfnLC7HIn",
+    "id" : 482353392283828224,
+    "created_at" : "2014-06-27 02:43:05 +0000",
+    "user" : {
+      "name" : "The New York Times",
+      "screen_name" : "nytimes",
+      "protected" : false,
+      "id_str" : "807095",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2044921128\/finals_normal.png",
+      "id" : 807095,
+      "verified" : true
+    }
+  },
+  "id" : 482366902107246592,
+  "created_at" : "2014-06-27 03:36:46 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "John P Bloch",
+      "screen_name" : "johnpbloch",
+      "indices" : [ 0, 11 ],
+      "id_str" : "24700353",
+      "id" : 24700353
+    }, {
+      "name" : "Doug Stewart",
+      "screen_name" : "zamoose",
+      "indices" : [ 12, 20 ],
+      "id_str" : "819148",
+      "id" : 819148
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "482354527018827776",
+  "geo" : { },
+  "id_str" : "482366177771937792",
+  "in_reply_to_user_id" : 24700353,
+  "text" : "@johnpbloch @zamoose suitcases in the middle as hurdles",
+  "id" : 482366177771937792,
+  "in_reply_to_status_id" : 482354527018827776,
+  "created_at" : "2014-06-27 03:33:53 +0000",
+  "in_reply_to_screen_name" : "johnpbloch",
+  "in_reply_to_user_id_str" : "24700353",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "pourmecoffee",
+      "screen_name" : "pourmecoffee",
+      "indices" : [ 3, 16 ],
+      "id_str" : "16906137",
+      "id" : 16906137
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "482363516007903232",
+  "text" : "RT @pourmecoffee: (WASHINGTON, DC) Speaker John Boehner announces House GOP plan to post picture of Obama on Reddit and downvote it.",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "482341254542659585",
+    "text" : "(WASHINGTON, DC) Speaker John Boehner announces House GOP plan to post picture of Obama on Reddit and downvote it.",
+    "id" : 482341254542659585,
+    "created_at" : "2014-06-27 01:54:51 +0000",
+    "user" : {
+      "name" : "pourmecoffee",
+      "screen_name" : "pourmecoffee",
+      "protected" : false,
+      "id_str" : "16906137",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/421566216\/coffee1242220886_normal.jpg",
+      "id" : 16906137,
+      "verified" : true
+    }
+  },
+  "id" : 482363516007903232,
+  "created_at" : "2014-06-27 03:23:18 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Doug Stewart",
+      "screen_name" : "zamoose",
+      "indices" : [ 0, 8 ],
+      "id_str" : "819148",
+      "id" : 819148
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "482338428432822272",
+  "geo" : { },
+  "id_str" : "482339054839541764",
+  "in_reply_to_user_id" : 819148,
+  "text" : "@zamoose yesssssssss!",
+  "id" : 482339054839541764,
+  "in_reply_to_status_id" : 482338428432822272,
+  "created_at" : "2014-06-27 01:46:06 +0000",
+  "in_reply_to_screen_name" : "zamoose",
+  "in_reply_to_user_id_str" : "819148",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 0, 23 ],
+      "url" : "https:\/\/t.co\/fKxhl8ubr5",
+      "expanded_url" : "https:\/\/twitter.com\/search?f=realtime&q=hold%20me%20closer%20tony%20danza",
+      "display_url" : "twitter.com\/search?f=realt\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "482336769216483329",
+  "text" : "https:\/\/t.co\/fKxhl8ubr5",
+  "id" : 482336769216483329,
+  "created_at" : "2014-06-27 01:37:01 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "481974255530168320",
+  "text" : "Got the first bike ride of the year in before July!",
+  "id" : 481974255530168320,
+  "created_at" : "2014-06-26 01:36:31 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "ESPN Stats & Info",
+      "screen_name" : "ESPNStatsInfo",
+      "indices" : [ 3, 17 ],
+      "id_str" : "53120768",
+      "id" : 53120768
+    }, {
+      "name" : "Elias Sports Bureau",
+      "screen_name" : "EliasSports",
+      "indices" : [ 133, 140 ],
+      "id_str" : "117640526",
+      "id" : 117640526
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "481926587881766912",
+  "text" : "RT @ESPNStatsInfo: Tim Lincecum no-hits the Padres again, joining Addie Joss as the only pitchers to no-hit the same team twice (via @Elias\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Elias Sports Bureau",
+        "screen_name" : "EliasSports",
+        "indices" : [ 114, 126 ],
+        "id_str" : "117640526",
+        "id" : 117640526
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "481925768755548160",
+    "text" : "Tim Lincecum no-hits the Padres again, joining Addie Joss as the only pitchers to no-hit the same team twice (via @EliasSports)",
+    "id" : 481925768755548160,
+    "created_at" : "2014-06-25 22:23:51 +0000",
+    "user" : {
+      "name" : "ESPN Stats & Info",
+      "screen_name" : "ESPNStatsInfo",
+      "protected" : false,
+      "id_str" : "53120768",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3188908390\/17e4accf124403c0b6cb741ebefbdb83_normal.jpeg",
+      "id" : 53120768,
+      "verified" : true
+    }
+  },
+  "id" : 481926587881766912,
+  "created_at" : "2014-06-25 22:27:07 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Kailey Lampert",
+      "screen_name" : "trepmal",
+      "indices" : [ 3, 11 ],
+      "id_str" : "19574066",
+      "id" : 19574066
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "481910364750102529",
+  "text" : "RT @trepmal: Think back to when you were a new developer, what questions do you wish you would\/could have asked an experienced developer?",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "481903695932583936",
+    "text" : "Think back to when you were a new developer, what questions do you wish you would\/could have asked an experienced developer?",
+    "id" : 481903695932583936,
+    "created_at" : "2014-06-25 20:56:09 +0000",
+    "user" : {
+      "name" : "Kailey Lampert",
+      "screen_name" : "trepmal",
+      "protected" : false,
+      "id_str" : "19574066",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/478689986489749505\/Amr7WExb_normal.jpeg",
+      "id" : 19574066,
+      "verified" : false
+    }
+  },
+  "id" : 481910364750102529,
+  "created_at" : "2014-06-25 21:22:39 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "M O R T E N",
+      "screen_name" : "mor10",
+      "indices" : [ 3, 9 ],
+      "id_str" : "14611891",
+      "id" : 14611891
+    }, {
+      "name" : "WordCamp Seattle",
+      "screen_name" : "wordcampseattle",
+      "indices" : [ 75, 91 ],
+      "id_str" : "17046363",
+      "id" : 17046363
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "WordPress",
+      "indices" : [ 31, 41 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/xQL726Lbr8",
+      "expanded_url" : "http:\/\/2014.seattle.wordcamp.org\/session\/panel-how-to-become-a-better-wordpress-developer\/",
+      "display_url" : "2014.seattle.wordcamp.org\/session\/panel-\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "481909745465315328",
+  "text" : "RT @mor10: Got questions about #WordPress development? Tweet yours and the @wordcampseattle developer panel may answer!  http:\/\/t.co\/xQL726\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "WordCamp Seattle",
+        "screen_name" : "wordcampseattle",
+        "indices" : [ 64, 80 ],
+        "id_str" : "17046363",
+        "id" : 17046363
+      } ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "WordPress",
+        "indices" : [ 20, 30 ]
+      } ],
+      "urls" : [ {
+        "indices" : [ 110, 132 ],
+        "url" : "http:\/\/t.co\/xQL726Lbr8",
+        "expanded_url" : "http:\/\/2014.seattle.wordcamp.org\/session\/panel-how-to-become-a-better-wordpress-developer\/",
+        "display_url" : "2014.seattle.wordcamp.org\/session\/panel-\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "481906080516042753",
+    "text" : "Got questions about #WordPress development? Tweet yours and the @wordcampseattle developer panel may answer!  http:\/\/t.co\/xQL726Lbr8",
+    "id" : 481906080516042753,
+    "created_at" : "2014-06-25 21:05:37 +0000",
+    "user" : {
+      "name" : "M O R T E N",
+      "screen_name" : "mor10",
+      "protected" : false,
+      "id_str" : "14611891",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000822709029\/84babda6c2d87bfae85d201d1d9a8c87_normal.jpeg",
+      "id" : 14611891,
+      "verified" : false
+    }
+  },
+  "id" : 481909745465315328,
+  "created_at" : "2014-06-25 21:20:11 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "481846165260881922",
+  "text" : "Musa vs Messi",
+  "id" : 481846165260881922,
+  "created_at" : "2014-06-25 17:07:32 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "David M. Perry",
+      "screen_name" : "Lollardfish",
+      "indices" : [ 0, 12 ],
+      "id_str" : "108094234",
+      "id" : 108094234
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481520737006534658",
+  "geo" : { },
+  "id_str" : "481523146059567104",
+  "in_reply_to_user_id" : 108094234,
+  "text" : "@Lollardfish Thank you! So much good work to be done in this area.",
+  "id" : 481523146059567104,
+  "in_reply_to_status_id" : 481520737006534658,
+  "created_at" : "2014-06-24 19:43:58 +0000",
+  "in_reply_to_screen_name" : "Lollardfish",
+  "in_reply_to_user_id_str" : "108094234",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 109, 131 ],
+      "url" : "http:\/\/t.co\/khx8L8L7jF",
+      "expanded_url" : "http:\/\/chronicle.com\/article\/But-Does-It-Count-\/147199\/",
+      "display_url" : "chronicle.com\/article\/But-Do\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "481519653273882624",
+  "text" : "We have a problem with how we define and value the many ways in which faculty members engage with the public http:\/\/t.co\/khx8L8L7jF",
+  "id" : 481519653273882624,
+  "created_at" : "2014-06-24 19:30:06 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Tanner",
+      "screen_name" : "tannermoushey",
+      "indices" : [ 0, 14 ],
+      "id_str" : "411977369",
+      "id" : 411977369
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481297445662773249",
+  "geo" : { },
+  "id_str" : "481297609353486336",
+  "in_reply_to_user_id" : 411977369,
+  "text" : "@tannermoushey of course!",
+  "id" : 481297609353486336,
+  "in_reply_to_status_id" : 481297445662773249,
+  "created_at" : "2014-06-24 04:47:46 +0000",
+  "in_reply_to_screen_name" : "tannermoushey",
+  "in_reply_to_user_id_str" : "411977369",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Tanner",
+      "screen_name" : "tannermoushey",
+      "indices" : [ 3, 17 ],
+      "id_str" : "411977369",
+      "id" : 411977369
+    }, {
+      "name" : "Jeremy Felt",
+      "screen_name" : "jeremyfelt",
+      "indices" : [ 19, 30 ],
+      "id_str" : "1741681",
+      "id" : 1741681
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "481297073052995584",
+  "text" : "RT @tannermoushey: @jeremyfelt have you done much work with Shibboleth or do you know someone that has? I have a few questions. :)",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Jeremy Felt",
+        "screen_name" : "jeremyfelt",
+        "indices" : [ 0, 11 ],
+        "id_str" : "1741681",
+        "id" : 1741681
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "481262723477798912",
+    "in_reply_to_user_id" : 1741681,
+    "text" : "@jeremyfelt have you done much work with Shibboleth or do you know someone that has? I have a few questions. :)",
+    "id" : 481262723477798912,
+    "created_at" : "2014-06-24 02:29:09 +0000",
+    "in_reply_to_screen_name" : "jeremyfelt",
+    "in_reply_to_user_id_str" : "1741681",
+    "user" : {
+      "name" : "Tanner",
+      "screen_name" : "tannermoushey",
+      "protected" : false,
+      "id_str" : "411977369",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1638031404\/image_normal.jpg",
+      "id" : 411977369,
+      "verified" : false
+    }
+  },
+  "id" : 481297073052995584,
+  "created_at" : "2014-06-24 04:45:38 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Tanner",
+      "screen_name" : "tannermoushey",
+      "indices" : [ 0, 14 ],
+      "id_str" : "411977369",
+      "id" : 411977369
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481262723477798912",
+  "geo" : { },
+  "id_str" : "481297052618354688",
+  "in_reply_to_user_id" : 411977369,
+  "text" : "@tannermoushey Can't say I have or do yet. But if you get them answered I will know someone. :)",
+  "id" : 481297052618354688,
+  "in_reply_to_status_id" : 481262723477798912,
+  "created_at" : "2014-06-24 04:45:34 +0000",
+  "in_reply_to_screen_name" : "tannermoushey",
+  "in_reply_to_user_id_str" : "411977369",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Zack Tollman",
+      "screen_name" : "tollmanz",
+      "indices" : [ 3, 12 ],
+      "id_str" : "335110427",
+      "id" : 335110427
+    }, {
+      "name" : "Mel Choyce",
+      "screen_name" : "melchoyce",
+      "indices" : [ 26, 36 ],
+      "id_str" : "204901030",
+      "id" : 204901030
+    }, {
+      "name" : "Aaron Jorbin",
+      "screen_name" : "aaronjorbin",
+      "indices" : [ 69, 81 ],
+      "id_str" : "14886552",
+      "id" : 14886552
+    }, {
+      "name" : "Andrew Nacin",
+      "screen_name" : "nacin",
+      "indices" : [ 139, 140 ],
+      "id_str" : "16213079",
+      "id" : 16213079
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "pdxwp",
+      "indices" : [ 139, 140 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "481275745730195456",
+  "text" : "RT @tollmanz: 1 speaker ( @melchoyce ) assisted by another speaker ( @aaronjorbin ) on her first patch was committed by another speaker ( @\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Mel Choyce",
+        "screen_name" : "melchoyce",
+        "indices" : [ 12, 22 ],
+        "id_str" : "204901030",
+        "id" : 204901030
+      }, {
+        "name" : "Aaron Jorbin",
+        "screen_name" : "aaronjorbin",
+        "indices" : [ 55, 67 ],
+        "id_str" : "14886552",
+        "id" : 14886552
+      }, {
+        "name" : "Andrew Nacin",
+        "screen_name" : "nacin",
+        "indices" : [ 124, 130 ],
+        "id_str" : "16213079",
+        "id" : 16213079
+      } ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "pdxwp",
+        "indices" : [ 133, 139 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "481264833841487872",
+    "text" : "1 speaker ( @melchoyce ) assisted by another speaker ( @aaronjorbin ) on her first patch was committed by another speaker ( @nacin ) #pdxwp",
+    "id" : 481264833841487872,
+    "created_at" : "2014-06-24 02:37:32 +0000",
+    "user" : {
+      "name" : "Zack Tollman",
+      "screen_name" : "tollmanz",
+      "protected" : false,
+      "id_str" : "335110427",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/435843708445941762\/_-pWIndR_normal.jpeg",
+      "id" : 335110427,
+      "verified" : false
+    }
+  },
+  "id" : 481275745730195456,
+  "created_at" : "2014-06-24 03:20:54 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "SB Nation GIF",
+      "screen_name" : "SBNationGIF",
+      "indices" : [ 3, 15 ],
+      "id_str" : "601247231",
+      "id" : 601247231
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 49, 72 ],
+      "url" : "https:\/\/t.co\/IX0IfsmSkp",
+      "expanded_url" : "https:\/\/vine.co\/v\/MtAMWZ0JdJg",
+      "display_url" : "vine.co\/v\/MtAMWZ0JdJg"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "481193080138125313",
+  "text" : "RT @SBNationGIF: Herrera slowmo is magnificent.  https:\/\/t.co\/IX0IfsmSkp",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 32, 55 ],
+        "url" : "https:\/\/t.co\/IX0IfsmSkp",
+        "expanded_url" : "https:\/\/vine.co\/v\/MtAMWZ0JdJg",
+        "display_url" : "vine.co\/v\/MtAMWZ0JdJg"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "481189247114698753",
+    "text" : "Herrera slowmo is magnificent.  https:\/\/t.co\/IX0IfsmSkp",
+    "id" : 481189247114698753,
+    "created_at" : "2014-06-23 21:37:11 +0000",
+    "user" : {
+      "name" : "SB Nation GIF",
+      "screen_name" : "SBNationGIF",
+      "protected" : false,
+      "id_str" : "601247231",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000440564427\/17152f79930219634ff8618b115c3cd8_normal.png",
+      "id" : 601247231,
+      "verified" : false
+    }
+  },
+  "id" : 481193080138125313,
+  "created_at" : "2014-06-23 21:52:25 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "M O R T E N",
+      "screen_name" : "mor10",
+      "indices" : [ 3, 9 ],
+      "id_str" : "14611891",
+      "id" : 14611891
+    }, {
+      "name" : "WordCamp Seattle",
+      "screen_name" : "wordcampseattle",
+      "indices" : [ 37, 53 ],
+      "id_str" : "17046363",
+      "id" : 17046363
+    }, {
+      "name" : "Kailey Lampert",
+      "screen_name" : "trepmal",
+      "indices" : [ 60, 68 ],
+      "id_str" : "19574066",
+      "id" : 19574066
+    }, {
+      "name" : "Zack Tollman",
+      "screen_name" : "tollmanz",
+      "indices" : [ 69, 78 ],
+      "id_str" : "335110427",
+      "id" : 335110427
+    }, {
+      "name" : "Jeremy Felt",
+      "screen_name" : "jeremyfelt",
+      "indices" : [ 79, 90 ],
+      "id_str" : "1741681",
+      "id" : 1741681
+    }, {
+      "name" : "Kronda",
+      "screen_name" : "kronda",
+      "indices" : [ 95, 102 ],
+      "id_str" : "11134232",
+      "id" : 11134232
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/xQL726Lbr8",
+      "expanded_url" : "http:\/\/2014.seattle.wordcamp.org\/session\/panel-how-to-become-a-better-wordpress-developer\/",
+      "display_url" : "2014.seattle.wordcamp.org\/session\/panel-\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "481188178976440320",
+  "text" : "RT @mor10: I'm moderating a panel at @wordcampseattle feat. @trepmal @tollmanz @jeremyfelt and @kronda. What are your questions? http:\/\/t.c\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "WordCamp Seattle",
+        "screen_name" : "wordcampseattle",
+        "indices" : [ 26, 42 ],
+        "id_str" : "17046363",
+        "id" : 17046363
+      }, {
+        "name" : "Kailey Lampert",
+        "screen_name" : "trepmal",
+        "indices" : [ 49, 57 ],
+        "id_str" : "19574066",
+        "id" : 19574066
+      }, {
+        "name" : "Zack Tollman",
+        "screen_name" : "tollmanz",
+        "indices" : [ 58, 67 ],
+        "id_str" : "335110427",
+        "id" : 335110427
+      }, {
+        "name" : "Jeremy Felt",
+        "screen_name" : "jeremyfelt",
+        "indices" : [ 68, 79 ],
+        "id_str" : "1741681",
+        "id" : 1741681
+      }, {
+        "name" : "Kronda",
+        "screen_name" : "kronda",
+        "indices" : [ 84, 91 ],
+        "id_str" : "11134232",
+        "id" : 11134232
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 118, 140 ],
+        "url" : "http:\/\/t.co\/xQL726Lbr8",
+        "expanded_url" : "http:\/\/2014.seattle.wordcamp.org\/session\/panel-how-to-become-a-better-wordpress-developer\/",
+        "display_url" : "2014.seattle.wordcamp.org\/session\/panel-\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "481187958297333763",
+    "text" : "I'm moderating a panel at @wordcampseattle feat. @trepmal @tollmanz @jeremyfelt and @kronda. What are your questions? http:\/\/t.co\/xQL726Lbr8",
+    "id" : 481187958297333763,
+    "created_at" : "2014-06-23 21:32:03 +0000",
+    "user" : {
+      "name" : "M O R T E N",
+      "screen_name" : "mor10",
+      "protected" : false,
+      "id_str" : "14611891",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000822709029\/84babda6c2d87bfae85d201d1d9a8c87_normal.jpeg",
+      "id" : 14611891,
+      "verified" : false
+    }
+  },
+  "id" : 481188178976440320,
+  "created_at" : "2014-06-23 21:32:56 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Zack Tollman",
+      "screen_name" : "tollmanz",
+      "indices" : [ 3, 12 ],
+      "id_str" : "335110427",
+      "id" : 335110427
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 112, 135 ],
+      "url" : "https:\/\/t.co\/wEGXQsNH3P",
+      "expanded_url" : "https:\/\/github.com\/cascadiajs\/pdx.devweek.org\/blob\/master\/README.md",
+      "display_url" : "github.com\/cascadiajs\/pdx\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "481163284272279553",
+  "text" : "RT @tollmanz: Wondering if anyone would be interested in helping to put together a WP event during PDX Dev week https:\/\/t.co\/wEGXQsNH3P",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 98, 121 ],
+        "url" : "https:\/\/t.co\/wEGXQsNH3P",
+        "expanded_url" : "https:\/\/github.com\/cascadiajs\/pdx.devweek.org\/blob\/master\/README.md",
+        "display_url" : "github.com\/cascadiajs\/pdx\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "481160303666012160",
+    "text" : "Wondering if anyone would be interested in helping to put together a WP event during PDX Dev week https:\/\/t.co\/wEGXQsNH3P",
+    "id" : 481160303666012160,
+    "created_at" : "2014-06-23 19:42:10 +0000",
+    "user" : {
+      "name" : "Zack Tollman",
+      "screen_name" : "tollmanz",
+      "protected" : false,
+      "id_str" : "335110427",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/435843708445941762\/_-pWIndR_normal.jpeg",
+      "id" : 335110427,
+      "verified" : false
+    }
+  },
+  "id" : 481163284272279553,
+  "created_at" : "2014-06-23 19:54:01 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 45, 67 ],
+      "url" : "http:\/\/t.co\/ModFbiwRCb",
+      "expanded_url" : "http:\/\/cultr.me\/1rjr4Xs",
+      "display_url" : "cultr.me\/1rjr4Xs"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "480949939854262272",
+  "text" : "Mavis Staples and The Band Sing \u201CThe Weight\u201D http:\/\/t.co\/ModFbiwRCb\n\nMavis\u2019s \u201Cbeautiful\u201D at the end is a pretty wonderful moment.",
+  "id" : 480949939854262272,
+  "created_at" : "2014-06-23 05:46:15 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Gabriel Dowell",
+      "screen_name" : "kuyagabbytot",
+      "indices" : [ 3, 16 ],
+      "id_str" : "169535260",
+      "id" : 169535260
+    }, {
+      "name" : "Ol' Crimson",
+      "screen_name" : "olcrimson",
+      "indices" : [ 36, 46 ],
+      "id_str" : "391393950",
+      "id" : 391393950
+    }, {
+      "name" : "WSU Pullman",
+      "screen_name" : "WSUPullman",
+      "indices" : [ 69, 80 ],
+      "id_str" : "22080148",
+      "id" : 22080148
+    } ],
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/kuyagabbytot\/status\/480861203887976450\/photo\/1",
+      "indices" : [ 81, 103 ],
+      "url" : "http:\/\/t.co\/7fGYO0hGl5",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/Bqxct2mCMAAJ4Tg.jpg",
+      "id_str" : "480861203040710656",
+      "id" : 480861203040710656,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bqxct2mCMAAJ4Tg.jpg",
+      "sizes" : [ {
+        "h" : 1024,
+        "resize" : "fit",
+        "w" : 768
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 453,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 800,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 1024,
+        "resize" : "fit",
+        "w" : 768
+      } ],
+      "display_url" : "pic.twitter.com\/7fGYO0hGl5"
+    } ],
+    "hashtags" : [ {
+      "text" : "WaveTheFlag",
+      "indices" : [ 47, 59 ]
+    }, {
+      "text" : "gocougs",
+      "indices" : [ 60, 68 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "480939945754767360",
+  "text" : "RT @kuyagabbytot: Go Cougs!!!!!!!!! @olcrimson #WaveTheFlag #gocougs @WSUPullman http:\/\/t.co\/7fGYO0hGl5",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Ol' Crimson",
+        "screen_name" : "olcrimson",
+        "indices" : [ 18, 28 ],
+        "id_str" : "391393950",
+        "id" : 391393950
+      }, {
+        "name" : "WSU Pullman",
+        "screen_name" : "WSUPullman",
+        "indices" : [ 51, 62 ],
+        "id_str" : "22080148",
+        "id" : 22080148
+      } ],
+      "media" : [ {
+        "expanded_url" : "http:\/\/twitter.com\/kuyagabbytot\/status\/480861203887976450\/photo\/1",
+        "indices" : [ 63, 85 ],
+        "url" : "http:\/\/t.co\/7fGYO0hGl5",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/Bqxct2mCMAAJ4Tg.jpg",
+        "id_str" : "480861203040710656",
+        "id" : 480861203040710656,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bqxct2mCMAAJ4Tg.jpg",
+        "sizes" : [ {
+          "h" : 1024,
+          "resize" : "fit",
+          "w" : 768
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 453,
+          "resize" : "fit",
+          "w" : 340
+        }, {
+          "h" : 800,
+          "resize" : "fit",
+          "w" : 600
+        }, {
+          "h" : 1024,
+          "resize" : "fit",
+          "w" : 768
+        } ],
+        "display_url" : "pic.twitter.com\/7fGYO0hGl5"
+      } ],
+      "hashtags" : [ {
+        "text" : "WaveTheFlag",
+        "indices" : [ 29, 41 ]
+      }, {
+        "text" : "gocougs",
+        "indices" : [ 42, 50 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "480861203887976450",
+    "text" : "Go Cougs!!!!!!!!! @olcrimson #WaveTheFlag #gocougs @WSUPullman http:\/\/t.co\/7fGYO0hGl5",
+    "id" : 480861203887976450,
+    "created_at" : "2014-06-22 23:53:39 +0000",
+    "user" : {
+      "name" : "Gabriel Dowell",
+      "screen_name" : "kuyagabbytot",
+      "protected" : false,
+      "id_str" : "169535260",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000526265601\/c2694363ed16eac9999ca35cfd02ad49_normal.jpeg",
+      "id" : 169535260,
+      "verified" : false
+    }
+  },
+  "id" : 480939945754767360,
+  "created_at" : "2014-06-23 05:06:33 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 77, 99 ],
+      "url" : "http:\/\/t.co\/piw49s7lj9",
+      "expanded_url" : "http:\/\/gu.com\/p\/3q95q\/tw",
+      "display_url" : "gu.com\/p\/3q95q\/tw"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "480915149918699520",
+  "text" : "The open source revolution is coming and it will conquer the 1% - ex CIA spy http:\/\/t.co\/piw49s7lj9",
+  "id" : 480915149918699520,
+  "created_at" : "2014-06-23 03:28:01 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "480861284980645888",
+  "text" : "I turned the TV on at the exact wrong time.",
+  "id" : 480861284980645888,
+  "created_at" : "2014-06-22 23:53:58 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Patrick Stewart",
+      "screen_name" : "SirPatStew",
+      "indices" : [ 3, 14 ],
+      "id_str" : "602317143",
+      "id" : 602317143
+    } ],
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/SirPatStew\/status\/480794086459584512\/photo\/1",
+      "indices" : [ 33, 55 ],
+      "url" : "http:\/\/t.co\/12RVdXTAa9",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/BqwfrJOIgAAb6Ge.jpg",
+      "id_str" : "480794086291832832",
+      "id" : 480794086291832832,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BqwfrJOIgAAb6Ge.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 453,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 640,
+        "resize" : "fit",
+        "w" : 480
+      }, {
+        "h" : 640,
+        "resize" : "fit",
+        "w" : 480
+      }, {
+        "h" : 640,
+        "resize" : "fit",
+        "w" : 480
+      } ],
+      "display_url" : "pic.twitter.com\/12RVdXTAa9"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "480794280185708544",
+  "text" : "RT @SirPatStew: USA...USA...USA. http:\/\/t.co\/12RVdXTAa9",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "http:\/\/twitter.com\/SirPatStew\/status\/480794086459584512\/photo\/1",
+        "indices" : [ 17, 39 ],
+        "url" : "http:\/\/t.co\/12RVdXTAa9",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/BqwfrJOIgAAb6Ge.jpg",
+        "id_str" : "480794086291832832",
+        "id" : 480794086291832832,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BqwfrJOIgAAb6Ge.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 453,
+          "resize" : "fit",
+          "w" : 340
+        }, {
+          "h" : 640,
+          "resize" : "fit",
+          "w" : 480
+        }, {
+          "h" : 640,
+          "resize" : "fit",
+          "w" : 480
+        }, {
+          "h" : 640,
+          "resize" : "fit",
+          "w" : 480
+        } ],
+        "display_url" : "pic.twitter.com\/12RVdXTAa9"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "480794086459584512",
+    "text" : "USA...USA...USA. http:\/\/t.co\/12RVdXTAa9",
+    "id" : 480794086459584512,
+    "created_at" : "2014-06-22 19:26:57 +0000",
+    "user" : {
+      "name" : "Patrick Stewart",
+      "screen_name" : "SirPatStew",
+      "protected" : false,
+      "id_str" : "602317143",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2426849993\/9qnn5my52akyrly2kj98_normal.jpeg",
+      "id" : 602317143,
+      "verified" : true
+    }
+  },
+  "id" : 480794280185708544,
+  "created_at" : "2014-06-22 19:27:43 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Juanfra Aldasoro",
+      "screen_name" : "juanfraa",
+      "indices" : [ 3, 12 ],
+      "id_str" : "10045822",
+      "id" : 10045822
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 68, 91 ],
+      "url" : "https:\/\/t.co\/DW5M2ElcGf",
+      "expanded_url" : "https:\/\/www.youtube.com\/watch?v=3pnSvfHiUqk",
+      "display_url" : "youtube.com\/watch?v=3pnSvf\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "480726908636631040",
+  "text" : "RT @juanfraa: 28 years ago, Maradona scored the goal of the century https:\/\/t.co\/DW5M2ElcGf",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 54, 77 ],
+        "url" : "https:\/\/t.co\/DW5M2ElcGf",
+        "expanded_url" : "https:\/\/www.youtube.com\/watch?v=3pnSvfHiUqk",
+        "display_url" : "youtube.com\/watch?v=3pnSvf\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "480706307826409473",
+    "text" : "28 years ago, Maradona scored the goal of the century https:\/\/t.co\/DW5M2ElcGf",
+    "id" : 480706307826409473,
+    "created_at" : "2014-06-22 13:38:09 +0000",
+    "user" : {
+      "name" : "Juanfra Aldasoro",
+      "screen_name" : "juanfraa",
+      "protected" : false,
+      "id_str" : "10045822",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477160383577604097\/AvbKJBXM_normal.jpeg",
+      "id" : 10045822,
+      "verified" : false
+    }
+  },
+  "id" : 480726908636631040,
+  "created_at" : "2014-06-22 15:00:01 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jure Triglav",
+      "screen_name" : "juretriglav",
+      "indices" : [ 0, 12 ],
+      "id_str" : "15528719",
+      "id" : 15528719
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480603446790590464",
+  "geo" : { },
+  "id_str" : "480603952702955520",
+  "in_reply_to_user_id" : 15528719,
+  "text" : "@juretriglav No worries! I'm a huge fan of this all. Any thoughts on a way to \"push\" structured data into the system\u2014i.e. from a university?",
+  "id" : 480603952702955520,
+  "in_reply_to_status_id" : 480603446790590464,
+  "created_at" : "2014-06-22 06:51:26 +0000",
+  "in_reply_to_screen_name" : "juretriglav",
+  "in_reply_to_user_id_str" : "15528719",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jure Triglav",
+      "screen_name" : "juretriglav",
+      "indices" : [ 0, 12 ],
+      "id_str" : "15528719",
+      "id" : 15528719
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480599560968884224",
+  "geo" : { },
+  "id_str" : "480599721333882880",
+  "in_reply_to_user_id" : 1741681,
+  "text" : "@juretriglav The extension icon does turn green when I visit PeerJ, so that detection works. I'll keep trying. :)",
+  "id" : 480599721333882880,
+  "in_reply_to_status_id" : 480599560968884224,
+  "created_at" : "2014-06-22 06:34:37 +0000",
+  "in_reply_to_screen_name" : "jeremyfelt",
+  "in_reply_to_user_id_str" : "1741681",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jure Triglav",
+      "screen_name" : "juretriglav",
+      "indices" : [ 0, 12 ],
+      "id_str" : "15528719",
+      "id" : 15528719
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480592265384308736",
+  "geo" : { },
+  "id_str" : "480599560968884224",
+  "in_reply_to_user_id" : 15528719,
+  "text" : "@juretriglav Right now I get \"0 results found\". Earlier it seemed to take a bit longer, though I don't remember the message.",
+  "id" : 480599560968884224,
+  "in_reply_to_status_id" : 480592265384308736,
+  "created_at" : "2014-06-22 06:33:59 +0000",
+  "in_reply_to_screen_name" : "juretriglav",
+  "in_reply_to_user_id_str" : "15528719",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "WordCamp Seattle",
+      "screen_name" : "wordcampseattle",
+      "indices" : [ 3, 19 ],
+      "id_str" : "17046363",
+      "id" : 17046363
+    }, {
+      "name" : "IvyCat Web Services",
+      "screen_name" : "ivycatweb",
+      "indices" : [ 56, 66 ],
+      "id_str" : "16536620",
+      "id" : 16536620
+    }, {
+      "name" : "WP Engine",
+      "screen_name" : "wpengine",
+      "indices" : [ 67, 76 ],
+      "id_str" : "121880027",
+      "id" : 121880027
+    }, {
+      "name" : "WSU Pullman",
+      "screen_name" : "WSUPullman",
+      "indices" : [ 77, 88 ],
+      "id_str" : "22080148",
+      "id" : 22080148
+    }, {
+      "name" : "Rightside",
+      "screen_name" : "rightside",
+      "indices" : [ 89, 99 ],
+      "id_str" : "15628460",
+      "id" : 15628460
+    }, {
+      "name" : "Parallels Desktop",
+      "screen_name" : "ParallelsMac",
+      "indices" : [ 100, 113 ],
+      "id_str" : "21318903",
+      "id" : 21318903
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "wcsea",
+      "indices" : [ 137, 140 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 114, 136 ],
+      "url" : "http:\/\/t.co\/qojBzPVYoV",
+      "expanded_url" : "http:\/\/bobwp.us\/UUL48x",
+      "display_url" : "bobwp.us\/UUL48x"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "480568374594781186",
+  "text" : "RT @wordcampseattle: Thanks to our Mt Rainier Sponsors! @ivycatweb @wpengine @WSUPullman @rightside @ParallelsMac http:\/\/t.co\/qojBzPVYoV #w\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "IvyCat Web Services",
+        "screen_name" : "ivycatweb",
+        "indices" : [ 35, 45 ],
+        "id_str" : "16536620",
+        "id" : 16536620
+      }, {
+        "name" : "WP Engine",
+        "screen_name" : "wpengine",
+        "indices" : [ 46, 55 ],
+        "id_str" : "121880027",
+        "id" : 121880027
+      }, {
+        "name" : "WSU Pullman",
+        "screen_name" : "WSUPullman",
+        "indices" : [ 56, 67 ],
+        "id_str" : "22080148",
+        "id" : 22080148
+      }, {
+        "name" : "Rightside",
+        "screen_name" : "rightside",
+        "indices" : [ 68, 78 ],
+        "id_str" : "15628460",
+        "id" : 15628460
+      }, {
+        "name" : "Parallels Desktop",
+        "screen_name" : "ParallelsMac",
+        "indices" : [ 79, 92 ],
+        "id_str" : "21318903",
+        "id" : 21318903
+      } ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "wcsea",
+        "indices" : [ 116, 122 ]
+      } ],
+      "urls" : [ {
+        "indices" : [ 93, 115 ],
+        "url" : "http:\/\/t.co\/qojBzPVYoV",
+        "expanded_url" : "http:\/\/bobwp.us\/UUL48x",
+        "display_url" : "bobwp.us\/UUL48x"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "480017288125353984",
+    "text" : "Thanks to our Mt Rainier Sponsors! @ivycatweb @wpengine @WSUPullman @rightside @ParallelsMac http:\/\/t.co\/qojBzPVYoV #wcsea",
+    "id" : 480017288125353984,
+    "created_at" : "2014-06-20 16:00:14 +0000",
+    "user" : {
+      "name" : "WordCamp Seattle",
+      "screen_name" : "wordcampseattle",
+      "protected" : false,
+      "id_str" : "17046363",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472459909540233217\/h7D3X99o_normal.jpeg",
+      "id" : 17046363,
+      "verified" : false
+    }
+  },
+  "id" : 480568374594781186,
+  "created_at" : "2014-06-22 04:30:03 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Zack Tollman",
+      "screen_name" : "tollmanz",
+      "indices" : [ 0, 9 ],
+      "id_str" : "335110427",
+      "id" : 335110427
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480409962238074880",
+  "geo" : { },
+  "id_str" : "480567799253721088",
+  "in_reply_to_user_id" : 335110427,
+  "text" : "@tollmanz agreed, I\u2019m excited for this format",
+  "id" : 480567799253721088,
+  "in_reply_to_status_id" : 480409962238074880,
+  "created_at" : "2014-06-22 04:27:46 +0000",
+  "in_reply_to_screen_name" : "tollmanz",
+  "in_reply_to_user_id_str" : "335110427",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Daniel Bachhuber",
+      "screen_name" : "danielbachhuber",
+      "indices" : [ 3, 19 ],
+      "id_str" : "272166936",
+      "id" : 272166936
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 75, 97 ],
+      "url" : "http:\/\/t.co\/xYUH6XSn09",
+      "expanded_url" : "http:\/\/fortune.com\/2014\/06\/16\/reid-hoffman-let-talented-employees-quit\/",
+      "display_url" : "fortune.com\/2014\/06\/16\/rei\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "480566912116486145",
+  "text" : "RT @danielbachhuber: Reid Hoffman: You can't keep your best people forever http:\/\/t.co\/xYUH6XSn09",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/www.apple.com\" rel=\"nofollow\"\u003EiOS\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 54, 76 ],
+        "url" : "http:\/\/t.co\/xYUH6XSn09",
+        "expanded_url" : "http:\/\/fortune.com\/2014\/06\/16\/reid-hoffman-let-talented-employees-quit\/",
+        "display_url" : "fortune.com\/2014\/06\/16\/rei\u2026"
+      } ]
+    },
+    "geo" : {
+      "type" : "Point",
+      "coordinates" : [ 45.52635, -122.681415 ]
+    },
+    "id_str" : "480559934313365504",
+    "text" : "Reid Hoffman: You can't keep your best people forever http:\/\/t.co\/xYUH6XSn09",
+    "id" : 480559934313365504,
+    "created_at" : "2014-06-22 03:56:31 +0000",
+    "user" : {
+      "name" : "Daniel Bachhuber",
+      "screen_name" : "danielbachhuber",
+      "protected" : false,
+      "id_str" : "272166936",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423234303116341248\/TrO4M3zb_normal.jpeg",
+      "id" : 272166936,
+      "verified" : false
+    }
+  },
+  "id" : 480566912116486145,
+  "created_at" : "2014-06-22 04:24:15 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Helen Hou-Sand\u00ED",
+      "screen_name" : "helenhousandi",
+      "indices" : [ 0, 14 ],
+      "id_str" : "21204689",
+      "id" : 21204689
+    }, {
+      "name" : "Ryan McCue",
+      "screen_name" : "rmccue",
+      "indices" : [ 15, 22 ],
+      "id_str" : "6306542",
+      "id" : 6306542
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480544042959503360",
+  "geo" : { },
+  "id_str" : "480546864211582977",
+  "in_reply_to_user_id" : 21204689,
+  "text" : "@helenhousandi @rmccue There's always \"glamping\" :)",
+  "id" : 480546864211582977,
+  "in_reply_to_status_id" : 480544042959503360,
+  "created_at" : "2014-06-22 03:04:35 +0000",
+  "in_reply_to_screen_name" : "helenhousandi",
+  "in_reply_to_user_id_str" : "21204689",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480527428586975232",
+  "geo" : { },
+  "id_str" : "480527547516477441",
+  "in_reply_to_user_id" : 1741681,
+  "text" : "The extension doesn't seem to be working now. But the concept is fantastic.",
+  "id" : 480527547516477441,
+  "in_reply_to_status_id" : 480527428586975232,
+  "created_at" : "2014-06-22 01:47:49 +0000",
+  "in_reply_to_screen_name" : "jeremyfelt",
+  "in_reply_to_user_id_str" : "1741681",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 86, 108 ],
+      "url" : "http:\/\/t.co\/Iw5o8bX5Wo",
+      "expanded_url" : "http:\/\/juretriglav.si\/an-open-distributed-search-engine-for-science\/",
+      "display_url" : "juretriglav.si\/an-open-distri\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "480527428586975232",
+  "text" : "A distributed open search engine for scholarly content, based on a WebRTC DHT network http:\/\/t.co\/Iw5o8bX5Wo\n\nThis is *really* cool.",
+  "id" : 480527428586975232,
+  "created_at" : "2014-06-22 01:47:21 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "480478339019194370",
+  "text" : "This may be the most fun I've had making slides.",
+  "id" : 480478339019194370,
+  "created_at" : "2014-06-21 22:32:17 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Stephen Locker",
+      "screen_name" : "slocker3",
+      "indices" : [ 0, 9 ],
+      "id_str" : "339408905",
+      "id" : 339408905
+    }, {
+      "name" : "Zack Tollman",
+      "screen_name" : "tollmanz",
+      "indices" : [ 10, 19 ],
+      "id_str" : "335110427",
+      "id" : 335110427
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480466566136348672",
+  "geo" : { },
+  "id_str" : "480466654472568833",
+  "in_reply_to_user_id" : 339408905,
+  "text" : "@slocker3 @tollmanz also this :)",
+  "id" : 480466654472568833,
+  "in_reply_to_status_id" : 480466566136348672,
+  "created_at" : "2014-06-21 21:45:51 +0000",
+  "in_reply_to_screen_name" : "slocker3",
+  "in_reply_to_user_id_str" : "339408905",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Zack Tollman",
+      "screen_name" : "tollmanz",
+      "indices" : [ 0, 9 ],
+      "id_str" : "335110427",
+      "id" : 335110427
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480465175464513536",
+  "geo" : { },
+  "id_str" : "480466605583777792",
+  "in_reply_to_user_id" : 335110427,
+  "text" : "@tollmanz Absolutely. Or maybe a transfer of peppers on 08\/16. It is an amazing sight to see when they're in session.",
+  "id" : 480466605583777792,
+  "in_reply_to_status_id" : 480465175464513536,
+  "created_at" : "2014-06-21 21:45:40 +0000",
+  "in_reply_to_screen_name" : "tollmanz",
+  "in_reply_to_user_id_str" : "335110427",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -643,7 +4364,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 480098624979107840,
     "created_at" : "2014-06-20 21:23:26 +0000",
     "user" : {
-      "name" : "John Blackbourn \u272A",
+      "name" : "John Blackbourn \u23C7",
       "screen_name" : "johnbillion",
       "protected" : false,
       "id_str" : "79053835",
@@ -2505,25 +6226,25 @@ Grailbird.data.tweets_2014_06 =
       "id" : 479032011995111424,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BqXdE68CYAAKQjY.png",
       "sizes" : [ {
+        "h" : 283,
+        "resize" : "fit",
+        "w" : 600
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 282,
+        "h" : 160,
         "resize" : "fit",
-        "w" : 598
+        "w" : 340
+      }, {
+        "h" : 482,
+        "resize" : "fit",
+        "w" : 1024
       }, {
         "h" : 506,
         "resize" : "fit",
         "w" : 1074
-      }, {
-        "h" : 160,
-        "resize" : "fit",
-        "w" : 339
-      }, {
-        "h" : 482,
-        "resize" : "fit",
-        "w" : 1023
       } ],
       "display_url" : "pic.twitter.com\/U0JuHudTEl"
     } ],

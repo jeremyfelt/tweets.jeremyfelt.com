@@ -3460,7 +3460,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "kfury",
       "protected" : false,
       "id_str" : "785",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000370770211\/6b2f29858ecf9f1ec27fbda0dd11556a_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/481664359957929985\/CE4GLyGZ_normal.jpeg",
       "id" : 785,
       "verified" : false
     }
@@ -9478,7 +9478,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ireland \/ Joan",
+      "name" : "Ireland \/ Jack",
       "screen_name" : "ireland",
       "indices" : [ 3, 11 ],
       "id_str" : "1143551",
@@ -9565,11 +9565,11 @@ Grailbird.data.tweets_2013_04 =
     "id" : 318863079725228033,
     "created_at" : "2013-04-01 23:10:57 +0000",
     "user" : {
-      "name" : "Ireland \/ Joan",
+      "name" : "Ireland \/ Jack",
       "screen_name" : "ireland",
       "protected" : false,
       "id_str" : "1143551",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/478290050644324353\/BI-B0flQ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/483354056337788930\/OUF8rvxZ_normal.jpeg",
       "id" : 1143551,
       "verified" : false
     }
@@ -9589,7 +9589,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ireland \/ Joan",
+      "name" : "Ireland \/ Jack",
       "screen_name" : "ireland",
       "indices" : [ 0, 8 ],
       "id_str" : "1143551",

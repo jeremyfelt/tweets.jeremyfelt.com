@@ -4747,7 +4747,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "harto",
       "protected" : false,
       "id_str" : "14166096",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/464420562874294273\/T09dIa7q_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/480881873002840065\/84Qh45mc_normal.jpeg",
       "id" : 14166096,
       "verified" : true
     }

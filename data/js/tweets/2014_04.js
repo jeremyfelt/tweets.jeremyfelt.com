@@ -85,7 +85,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Blackbourn \u272A",
+      "name" : "John Blackbourn \u23C7",
       "screen_name" : "johnbillion",
       "indices" : [ 0, 12 ],
       "id_str" : "79053835",
@@ -3487,7 +3487,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "kfury",
       "protected" : false,
       "id_str" : "785",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000370770211\/6b2f29858ecf9f1ec27fbda0dd11556a_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/481664359957929985\/CE4GLyGZ_normal.jpeg",
       "id" : 785,
       "verified" : false
     }
@@ -4349,7 +4349,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "EFF",
       "protected" : false,
       "id_str" : "4816",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/480153654670807040\/v20qANjN_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/481346041829023744\/LSlpjzk2_normal.png",
       "id" : 4816,
       "verified" : true
     }
@@ -5203,7 +5203,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "FredericJacobs",
       "protected" : false,
       "id_str" : "18018877",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/479020937124532224\/2GajCcb3_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484047136439676929\/2qL8ugmH_normal.jpeg",
       "id" : 18018877,
       "verified" : false
     }

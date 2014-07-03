@@ -1078,7 +1078,7 @@ Grailbird.data.tweets_2013_05 =
       "expanded_url" : "http:\/\/rdrdr.me\/wpclislides",
       "display_url" : "rdrdr.me\/wpclislides"
     }, {
-      "indices" : [ 143, 144 ],
+      "indices" : [ 130, 144 ],
       "url" : "http:\/\/t.co\/4Qv1D1XejY",
       "expanded_url" : "http:\/\/rdrdr.me\/ourport",
       "display_url" : "rdrdr.me\/ourport"
