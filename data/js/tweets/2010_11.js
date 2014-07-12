@@ -924,7 +924,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "Halcyon",
       "protected" : false,
       "id_str" : "878051",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2921387521\/b645fe1e25125b017333f909c38163dd_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484789805956337664\/YwYhTxKd_normal.jpeg",
       "id" : 878051,
       "verified" : false
     }
@@ -2832,7 +2832,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Haughey",
+      "name" : "Matt Haughey \u1555( \u141B )\u1557",
       "screen_name" : "mathowie",
       "indices" : [ 47, 56 ],
       "id_str" : "761975",

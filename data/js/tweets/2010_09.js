@@ -813,7 +813,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Abraham Vegh",
+      "name" : "Abraham  Vegh ",
       "screen_name" : "abrahamvegh",
       "indices" : [ 0, 12 ],
       "id_str" : "19140065",
@@ -879,7 +879,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Abraham Vegh",
+      "name" : "Abraham  Vegh ",
       "screen_name" : "abrahamvegh",
       "indices" : [ 0, 12 ],
       "id_str" : "19140065",
@@ -912,7 +912,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Abraham Vegh",
+      "name" : "Abraham  Vegh ",
       "screen_name" : "abrahamvegh",
       "indices" : [ 61, 73 ],
       "id_str" : "19140065",
@@ -3758,7 +3758,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "jack",
       "protected" : false,
       "id_str" : "12",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/483839892577726464\/cUgWgaTG_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484727388803067905\/VDYkccVG_normal.jpeg",
       "id" : 12,
       "verified" : true
     }

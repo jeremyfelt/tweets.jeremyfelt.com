@@ -161,7 +161,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Haughey",
+      "name" : "Matt Haughey \u1555( \u141B )\u1557",
       "screen_name" : "mathowie",
       "indices" : [ 3, 12 ],
       "id_str" : "761975",
@@ -198,7 +198,7 @@ Grailbird.data.tweets_2012_11 =
     "id" : 274581134669656064,
     "created_at" : "2012-11-30 18:30:18 +0000",
     "user" : {
-      "name" : "Matt Haughey",
+      "name" : "Matt Haughey \u1555( \u141B )\u1557",
       "screen_name" : "mathowie",
       "protected" : false,
       "id_str" : "761975",

@@ -1418,7 +1418,7 @@ Grailbird.data.tweets_2009_12 =
   "id_str" : "6313701696",
   "text" : "RT @al3x: I'd be more freaked out by Google\nPublic DNS if privacy on the Interwho wasn't already a total neckbeard delusion. Do you run  ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

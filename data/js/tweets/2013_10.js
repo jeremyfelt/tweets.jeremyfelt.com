@@ -2600,7 +2600,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Blackbourn \u23C7",
+      "name" : "John Blackbourn \u27A4",
       "screen_name" : "johnbillion",
       "indices" : [ 3, 15 ],
       "id_str" : "79053835",
@@ -2633,7 +2633,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 393471020956282880,
     "created_at" : "2013-10-24 20:16:16 +0000",
     "user" : {
-      "name" : "John Blackbourn \u23C7",
+      "name" : "John Blackbourn \u27A4",
       "screen_name" : "johnbillion",
       "protected" : false,
       "id_str" : "79053835",
@@ -4779,7 +4779,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "markjaquith",
       "protected" : false,
       "id_str" : "821042",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1807864528\/image1328510666_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486252327548878848\/edQ_vJJt_normal.jpeg",
       "id" : 821042,
       "verified" : false
     }
@@ -9411,7 +9411,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "cgrymala",
       "protected" : false,
       "id_str" : "24093368",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000678903988\/0dd22581014480703be7dca1a61903f9_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/485516717800435714\/ob-j8mbB_normal.jpeg",
       "id" : 24093368,
       "verified" : false
     }
@@ -13840,7 +13840,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "WCEurope",
       "protected" : false,
       "id_str" : "743301540",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473388251424641026\/JJKAS2Nl_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486888496829718530\/cOl64WTG_normal.png",
       "id" : 743301540,
       "verified" : false
     }

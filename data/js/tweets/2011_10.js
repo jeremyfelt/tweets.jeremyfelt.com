@@ -1773,7 +1773,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "markjaquith",
       "protected" : false,
       "id_str" : "821042",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1807864528\/image1328510666_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486252327548878848\/edQ_vJJt_normal.jpeg",
       "id" : 821042,
       "verified" : false
     }
@@ -5083,7 +5083,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Haughey",
+      "name" : "Matt Haughey \u1555( \u141B )\u1557",
       "screen_name" : "mathowie",
       "indices" : [ 3, 12 ],
       "id_str" : "761975",
@@ -5120,7 +5120,7 @@ Grailbird.data.tweets_2011_10 =
     "id" : 121736107103764480,
     "created_at" : "2011-10-05 23:58:44 +0000",
     "user" : {
-      "name" : "Matt Haughey",
+      "name" : "Matt Haughey \u1555( \u141B )\u1557",
       "screen_name" : "mathowie",
       "protected" : false,
       "id_str" : "761975",

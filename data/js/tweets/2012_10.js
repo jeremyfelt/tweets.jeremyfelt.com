@@ -7133,7 +7133,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "TheRyanAdams",
       "protected" : false,
       "id_str" : "318531174",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/481567172972396544\/ZTKdEY8r_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/487078321256009728\/-gnO6J-s_normal.jpeg",
       "id" : 318531174,
       "verified" : true
     }
@@ -7869,7 +7869,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "PoliticaILine",
       "protected" : false,
       "id_str" : "858646280",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/457205586858237952\/yKzTCOyb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486299070840193024\/ArKYfCI5_normal.jpeg",
       "id" : 858646280,
       "verified" : false
     }

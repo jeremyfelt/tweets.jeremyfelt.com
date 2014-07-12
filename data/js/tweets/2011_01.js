@@ -1960,7 +1960,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "KeithOlbermann",
       "protected" : false,
       "id_str" : "130617778",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/482789737409699840\/NB2TgNK-_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/487753911067881472\/CIBtLl4U_normal.jpeg",
       "id" : 130617778,
       "verified" : true
     }
@@ -2005,7 +2005,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Abraham Vegh",
+      "name" : "Abraham  Vegh ",
       "screen_name" : "abrahamvegh",
       "indices" : [ 3, 15 ],
       "id_str" : "19140065",
@@ -2038,7 +2038,7 @@ Grailbird.data.tweets_2011_01 =
     "id" : 30090767603081216,
     "created_at" : "2011-01-26 02:32:52 +0000",
     "user" : {
-      "name" : "Abraham Vegh",
+      "name" : "Abraham  Vegh ",
       "screen_name" : "abrahamvegh",
       "protected" : false,
       "id_str" : "19140065",

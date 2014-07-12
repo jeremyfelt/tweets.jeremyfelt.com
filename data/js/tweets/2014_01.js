@@ -110,7 +110,7 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "markjaquith",
       "protected" : false,
       "id_str" : "821042",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1807864528\/image1328510666_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486252327548878848\/edQ_vJJt_normal.jpeg",
       "id" : 821042,
       "verified" : false
     }
@@ -521,7 +521,7 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "bunchopunch",
       "protected" : false,
       "id_str" : "1641400526",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477262227112611841\/kgPW-d6Y_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/487711191783841792\/7um06v9q_normal.jpeg",
       "id" : 1641400526,
       "verified" : false
     }
@@ -5132,7 +5132,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Blackbourn \u272A",
+      "name" : "John Blackbourn \u23C7",
       "screen_name" : "johnbillion",
       "indices" : [ 3, 15 ],
       "id_str" : "79053835",
@@ -5159,7 +5159,7 @@ Grailbird.data.tweets_2014_01 =
     "id" : 423820935766872065,
     "created_at" : "2014-01-16 14:15:59 +0000",
     "user" : {
-      "name" : "John Blackbourn \u23C7",
+      "name" : "John Blackbourn \u27A4",
       "screen_name" : "johnbillion",
       "protected" : false,
       "id_str" : "79053835",
@@ -5183,7 +5183,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Blackbourn \u23C7",
+      "name" : "John Blackbourn \u27A4",
       "screen_name" : "johnbillion",
       "indices" : [ 0, 12 ],
       "id_str" : "79053835",
@@ -8272,7 +8272,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Blackbourn \u23C7",
+      "name" : "John Blackbourn \u27A4",
       "screen_name" : "johnbillion",
       "indices" : [ 0, 12 ],
       "id_str" : "79053835",
@@ -9188,7 +9188,7 @@ Grailbird.data.tweets_2014_01 =
     "id" : 420249739045507072,
     "created_at" : "2014-01-06 17:45:20 +0000",
     "user" : {
-      "name" : "John Blackbourn \u23C7",
+      "name" : "John Blackbourn \u27A4",
       "screen_name" : "johnbillion",
       "protected" : false,
       "id_str" : "79053835",
@@ -9952,7 +9952,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Blackbourn \u23C7",
+      "name" : "John Blackbourn \u27A4",
       "screen_name" : "johnbillion",
       "indices" : [ 0, 12 ],
       "id_str" : "79053835",
@@ -10126,7 +10126,7 @@ Grailbird.data.tweets_2014_01 =
       "id_str" : "16213079",
       "id" : 16213079
     }, {
-      "name" : "John Blackbourn \u272A",
+      "name" : "John Blackbourn \u23C7",
       "screen_name" : "johnbillion",
       "indices" : [ 7, 19 ],
       "id_str" : "79053835",
@@ -10171,7 +10171,7 @@ Grailbird.data.tweets_2014_01 =
       "id_str" : "16213079",
       "id" : 16213079
     }, {
-      "name" : "John Blackbourn \u23C7",
+      "name" : "John Blackbourn \u27A4",
       "screen_name" : "johnbillion",
       "indices" : [ 7, 19 ],
       "id_str" : "79053835",

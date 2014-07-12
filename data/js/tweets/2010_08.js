@@ -5542,7 +5542,7 @@ Grailbird.data.tweets_2010_08 =
   "id_str" : "20486790510",
   "text" : "RT @nickbilton: If Facebook, YouTube & Skype existed in the 1960s: http:\/\/bit.ly\/cAoXBv",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

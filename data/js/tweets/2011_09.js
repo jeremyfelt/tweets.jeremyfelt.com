@@ -3343,7 +3343,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Abraham Vegh",
+      "name" : "Abraham  Vegh ",
       "screen_name" : "abrahamvegh",
       "indices" : [ 0, 12 ],
       "id_str" : "19140065",
@@ -3726,7 +3726,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "trepmal",
       "protected" : false,
       "id_str" : "19574066",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/478689986489749505\/Amr7WExb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/487346135300706304\/9B4_sy_g_normal.jpeg",
       "id" : 19574066,
       "verified" : false
     }
@@ -5459,91 +5459,6 @@ Grailbird.data.tweets_2011_09 =
   "created_at" : "2011-09-11 00:05:58 +0000",
   "in_reply_to_screen_name" : "scan_boy",
   "in_reply_to_user_id_str" : "260360173",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Emma Gilbey Keller",
-      "screen_name" : "emmagkeller",
-      "indices" : [ 3, 15 ],
-      "id_str" : "21053056",
-      "id" : 21053056
-    }, {
-      "name" : "Dalia M",
-      "screen_name" : "Dalia_M1609",
-      "indices" : [ 29, 41 ],
-      "id_str" : "245386933",
-      "id" : 245386933
-    }, {
-      "name" : "Jean-Philippe Maheu",
-      "screen_name" : "jpmaheu",
-      "indices" : [ 44, 52 ],
-      "id_str" : "14534657",
-      "id" : 14534657
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 113, 132 ],
-      "url" : "http:\/\/t.co\/zLpUZev",
-      "expanded_url" : "http:\/\/youtu.be\/AEPvSo8bE2I",
-      "display_url" : "youtu.be\/AEPvSo8bE2I"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "112635190605647872",
-  "text" : "RT @emmagkeller: Perfect. RT @Dalia_M1609: \"@jpmaheu  This is the best 15 seconds on the Internet at the moment. http:\/\/t.co\/zLpUZev \/",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Dalia M",
-        "screen_name" : "Dalia_M1609",
-        "indices" : [ 12, 24 ],
-        "id_str" : "245386933",
-        "id" : 245386933
-      }, {
-        "name" : "Jean-Philippe Maheu",
-        "screen_name" : "jpmaheu",
-        "indices" : [ 27, 35 ],
-        "id_str" : "14534657",
-        "id" : 14534657
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 96, 115 ],
-        "url" : "http:\/\/t.co\/zLpUZev",
-        "expanded_url" : "http:\/\/youtu.be\/AEPvSo8bE2I",
-        "display_url" : "youtu.be\/AEPvSo8bE2I"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "112624672293666816",
-    "text" : "Perfect. RT @Dalia_M1609: \"@jpmaheu  This is the best 15 seconds on the Internet at the moment. http:\/\/t.co\/zLpUZev \/",
-    "id" : 112624672293666816,
-    "created_at" : "2011-09-10 20:33:08 +0000",
-    "user" : {
-      "name" : "Emma Gilbey Keller",
-      "screen_name" : "emmagkeller",
-      "protected" : false,
-      "id_str" : "21053056",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/417846573583069184\/SodcisVZ_normal.jpeg",
-      "id" : 21053056,
-      "verified" : false
-    }
-  },
-  "id" : 112635190605647872,
-  "created_at" : "2011-09-10 21:14:56 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

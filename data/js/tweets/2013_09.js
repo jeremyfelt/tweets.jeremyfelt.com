@@ -2989,7 +2989,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "14763721",
       "id" : 14763721
     }, {
-      "name" : "Matt Haughey",
+      "name" : "Matt Haughey \u1555( \u141B )\u1557",
       "screen_name" : "mathowie",
       "indices" : [ 45, 54 ],
       "id_str" : "761975",
@@ -3021,7 +3021,7 @@ Grailbird.data.tweets_2013_09 =
         "id_str" : "14763721",
         "id" : 14763721
       }, {
-        "name" : "Matt Haughey",
+        "name" : "Matt Haughey \u1555( \u141B )\u1557",
         "screen_name" : "mathowie",
         "indices" : [ 31, 40 ],
         "id_str" : "761975",

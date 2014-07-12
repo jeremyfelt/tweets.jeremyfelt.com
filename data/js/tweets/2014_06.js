@@ -651,7 +651,7 @@ Grailbird.data.tweets_2014_06 =
   },
   "geo" : {
     "type" : "Point",
-    "coordinates" : [ 47.65784887864849, -122.31343299150467 ]
+    "coordinates" : [ 47.6578488786, -122.3134329915 ]
   },
   "id_str" : "483089402110173184",
   "text" : "I'm at @BigTimeBrewery &amp; Alehouse w\/ @danielbachhuber https:\/\/t.co\/ZmjHjRppBU",
@@ -705,7 +705,7 @@ Grailbird.data.tweets_2014_06 =
     },
     "geo" : {
       "type" : "Point",
-      "coordinates" : [ 47.65543850609985, -122.3051004623731 ]
+      "coordinates" : [ 47.6554385061, -122.3051004624 ]
     },
     "id_str" : "483034574360825856",
     "text" : "#WordPress is going to improve multisite. THANK GOD! #wcsea",
@@ -2170,7 +2170,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "trepmal",
       "protected" : false,
       "id_str" : "19574066",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/478689986489749505\/Amr7WExb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/487346135300706304\/9B4_sy_g_normal.jpeg",
       "id" : 19574066,
       "verified" : false
     }
@@ -4337,7 +4337,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Blackbourn \u272A",
+      "name" : "John Blackbourn \u23C7",
       "screen_name" : "johnbillion",
       "indices" : [ 3, 15 ],
       "id_str" : "79053835",
@@ -4364,7 +4364,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 480098624979107840,
     "created_at" : "2014-06-20 21:23:26 +0000",
     "user" : {
-      "name" : "John Blackbourn \u23C7",
+      "name" : "John Blackbourn \u27A4",
       "screen_name" : "johnbillion",
       "protected" : false,
       "id_str" : "79053835",
@@ -4485,7 +4485,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "4371541",
       "id" : 4371541
     }, {
-      "name" : "John Blackbourn \u272A",
+      "name" : "John Blackbourn \u23C7",
       "screen_name" : "johnbillion",
       "indices" : [ 15, 27 ],
       "id_str" : "79053835",
@@ -9122,7 +9122,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "cgrymala",
       "protected" : false,
       "id_str" : "24093368",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000678903988\/0dd22581014480703be7dca1a61903f9_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/485516717800435714\/ob-j8mbB_normal.jpeg",
       "id" : 24093368,
       "verified" : false
     }

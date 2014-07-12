@@ -655,7 +655,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "#[doc(steveklabnik)]",
+      "name" : "![doc(steveklabnik)]",
       "screen_name" : "steveklabnik",
       "indices" : [ 3, 16 ],
       "id_str" : "22386062",
@@ -704,7 +704,7 @@ Grailbird.data.tweets_2011_11 =
     "id" : 138698219755536385,
     "created_at" : "2011-11-21 19:20:07 +0000",
     "user" : {
-      "name" : "#[doc(steveklabnik)]",
+      "name" : "![doc(steveklabnik)]",
       "screen_name" : "steveklabnik",
       "protected" : false,
       "id_str" : "22386062",
@@ -1943,7 +1943,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anchorage Daily News",
+      "name" : "Alaska Dispatch News",
       "screen_name" : "adndotcom",
       "indices" : [ 3, 13 ],
       "id_str" : "15828025",
@@ -1986,11 +1986,11 @@ Grailbird.data.tweets_2011_11 =
     "id" : 134420785719803905,
     "created_at" : "2011-11-10 00:03:07 +0000",
     "user" : {
-      "name" : "Anchorage Daily News",
+      "name" : "Alaska Dispatch News",
       "screen_name" : "adndotcom",
       "protected" : false,
       "id_str" : "15828025",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/209277472\/adn_normal.gif",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/485112369412980736\/SJldw3c7_normal.jpeg",
       "id" : 15828025,
       "verified" : true
     }

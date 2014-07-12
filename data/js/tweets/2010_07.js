@@ -1252,7 +1252,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Abraham Vegh",
+      "name" : "Abraham  Vegh ",
       "screen_name" : "abrahamvegh",
       "indices" : [ 3, 15 ],
       "id_str" : "19140065",
@@ -1279,7 +1279,7 @@ Grailbird.data.tweets_2010_07 =
     "id" : 18960616525,
     "created_at" : "2010-07-20 02:20:48 +0000",
     "user" : {
-      "name" : "Abraham Vegh",
+      "name" : "Abraham  Vegh ",
       "screen_name" : "abrahamvegh",
       "protected" : false,
       "id_str" : "19140065",
@@ -1522,7 +1522,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Abraham Vegh",
+      "name" : "Abraham  Vegh ",
       "screen_name" : "abrahamvegh",
       "indices" : [ 0, 12 ],
       "id_str" : "19140065",
