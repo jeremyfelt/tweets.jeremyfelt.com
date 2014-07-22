@@ -1,112 +1,5 @@
 Grailbird.data.tweets_2012_05 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Daniel Bachhuber",
-      "screen_name" : "danielbachhuber",
-      "indices" : [ 0, 16 ],
-      "id_str" : "272166936",
-      "id" : 272166936
-    }, {
-      "name" : "Rinat",
-      "screen_name" : "rrinat",
-      "indices" : [ 17, 24 ],
-      "id_str" : "111000305",
-      "id" : 111000305
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "208304298482868225",
-  "geo" : { },
-  "id_str" : "208305227965800448",
-  "in_reply_to_user_id" : 272166936,
-  "text" : "@danielbachhuber @rrinat Monday should be doable. I'll have some time to poke at the ad_code_args tonight\/tomorrow.",
-  "id" : 208305227965800448,
-  "in_reply_to_status_id" : 208304298482868225,
-  "created_at" : "2012-05-31 21:13:31 +0000",
-  "in_reply_to_screen_name" : "danielbachhuber",
-  "in_reply_to_user_id_str" : "272166936",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "T. Boone Pickens",
-      "screen_name" : "boonepickens",
-      "indices" : [ 3, 16 ],
-      "id_str" : "25330246",
-      "id" : 25330246
-    }, {
-      "name" : "Drizzy",
-      "screen_name" : "Drake",
-      "indices" : [ 63, 69 ],
-      "id_str" : "27195114",
-      "id" : 27195114
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "208235027232858113",
-  "text" : "RT @boonepickens: The first billion is a helluva lot harder RT @Drake: The first million is the hardest.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Drizzy",
-        "screen_name" : "Drake",
-        "indices" : [ 45, 51 ],
-        "id_str" : "27195114",
-        "id" : 27195114
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "207777078622420992",
-    "geo" : { },
-    "id_str" : "207984741260070914",
-    "in_reply_to_user_id" : 27195114,
-    "text" : "The first billion is a helluva lot harder RT @Drake: The first million is the hardest.",
-    "id" : 207984741260070914,
-    "in_reply_to_status_id" : 207777078622420992,
-    "created_at" : "2012-05-31 00:00:01 +0000",
-    "in_reply_to_screen_name" : "Drake",
-    "in_reply_to_user_id_str" : "27195114",
-    "user" : {
-      "name" : "T. Boone Pickens",
-      "screen_name" : "boonepickens",
-      "protected" : false,
-      "id_str" : "25330246",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3366851082\/dbe92dbca0868c55562f063cbb921295_normal.jpeg",
-      "id" : 25330246,
-      "verified" : true
-    }
-  },
-  "id" : 208235027232858113,
-  "created_at" : "2012-05-31 16:34:33 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -5894,6 +5787,28 @@ Grailbird.data.tweets_2012_05 =
   "text" : "Maybe I'm Amazed that I can't listen to Maybe I'm Amazed on Rdio but delorianfan1981 on Youtube has 5 million views.",
   "id" : 198317243359166464,
   "created_at" : "2012-05-04 07:44:50 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "197147504880529409",
+  "text" : "And then you look up and realize you just spent WAY too much time filing an AG complaint on a company that just don't care.",
+  "id" : 197147504880529409,
+  "created_at" : "2012-05-01 02:16:42 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

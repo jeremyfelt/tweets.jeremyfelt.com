@@ -1,103 +1,5 @@
 Grailbird.data.tweets_2012_07 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/www.apple.com\/\" rel=\"nofollow\"\u003EOS X\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 45.528145, -122.694974 ]
-  },
-  "id_str" : "230532923982491649",
-  "text" : "Obligatory tweet from the Mountain Lion notifications bar.",
-  "id" : 230532923982491649,
-  "created_at" : "2012-08-01 05:18:26 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Matt Cutts",
-      "screen_name" : "mattcutts",
-      "indices" : [ 3, 13 ],
-      "id_str" : "3080761",
-      "id" : 3080761
-    }, {
-      "name" : "Jolie O'Dell",
-      "screen_name" : "jolieodell",
-      "indices" : [ 90, 101 ],
-      "id_str" : "19417850",
-      "id" : 19417850
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 65, 85 ],
-      "url" : "http:\/\/t.co\/r5CfHkqU",
-      "expanded_url" : "http:\/\/explore.org\/#!\/live-cams\/player\/brown-bear-salmon-cam-brooks-falls",
-      "display_url" : "explore.org\/#!\/live-cams\/p\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "230385236142333952",
-  "text" : "RT @mattcutts: Wild live (!) cam of brown bears catching salmon: http:\/\/t.co\/r5CfHkqU via @jolieodell",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Jolie O'Dell",
-        "screen_name" : "jolieodell",
-        "indices" : [ 75, 86 ],
-        "id_str" : "19417850",
-        "id" : 19417850
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 50, 70 ],
-        "url" : "http:\/\/t.co\/r5CfHkqU",
-        "expanded_url" : "http:\/\/explore.org\/#!\/live-cams\/player\/brown-bear-salmon-cam-brooks-falls",
-        "display_url" : "explore.org\/#!\/live-cams\/p\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "230383518331572224",
-    "text" : "Wild live (!) cam of brown bears catching salmon: http:\/\/t.co\/r5CfHkqU via @jolieodell",
-    "id" : 230383518331572224,
-    "created_at" : "2012-07-31 19:24:45 +0000",
-    "user" : {
-      "name" : "Matt Cutts",
-      "screen_name" : "mattcutts",
-      "protected" : false,
-      "id_str" : "3080761",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3570465295\/b2d56caae1ce11258301a5946a1d9a9e_normal.jpeg",
-      "id" : 3080761,
-      "verified" : true
-    }
-  },
-  "id" : 230385236142333952,
-  "created_at" : "2012-07-31 19:31:35 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -4283,7 +4185,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@sweden \/ Evelina",
+      "name" : "@sweden \/ Ida",
       "screen_name" : "sweden",
       "indices" : [ 3, 10 ],
       "id_str" : "19663706",
@@ -4310,11 +4212,11 @@ Grailbird.data.tweets_2012_07 =
     "id" : 221571629128499200,
     "created_at" : "2012-07-07 11:49:27 +0000",
     "user" : {
-      "name" : "@sweden \/ Evelina",
+      "name" : "@sweden \/ Ida",
       "screen_name" : "sweden",
       "protected" : false,
       "id_str" : "19663706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486049527716012032\/CcYFVSN-_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/491114706090733568\/s9tXCsSE_normal.png",
       "id" : 19663706,
       "verified" : false
     }
@@ -5049,6 +4951,205 @@ Grailbird.data.tweets_2012_07 =
   "text" : "Merry X-ray Corporation http:\/\/t.co\/VXOKnFWA #easilyamused",
   "id" : 219512346094219264,
   "created_at" : "2012-07-01 19:26:36 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Zack Tollman",
+      "screen_name" : "tollmanz",
+      "indices" : [ 3, 12 ],
+      "id_str" : "335110427",
+      "id" : 335110427
+    }, {
+      "name" : "Helen Hou-Sand\u00ED",
+      "screen_name" : "helenhousandi",
+      "indices" : [ 133, 140 ],
+      "id_str" : "21204689",
+      "id" : 21204689
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 86, 106 ],
+      "url" : "http:\/\/t.co\/ZoL40ZVq",
+      "expanded_url" : "http:\/\/cl.ly\/1m241k281Y0a3G3u2B1D",
+      "display_url" : "cl.ly\/1m241k281Y0a3G\u2026"
+    }, {
+      "indices" : [ 107, 128 ],
+      "url" : "https:\/\/t.co\/HeBqbah2",
+      "expanded_url" : "https:\/\/github.com\/tollmanz\/debug-bar-cron",
+      "display_url" : "github.com\/tollmanz\/debug\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "219252981923708929",
+  "text" : "RT @tollmanz: Updated Debug Bar Cron to better indicate missed events; lots more red! http:\/\/t.co\/ZoL40ZVq https:\/\/t.co\/HeBqbah2 \/cc @he ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Helen Hou-Sand\u00ED",
+        "screen_name" : "helenhousandi",
+        "indices" : [ 119, 133 ],
+        "id_str" : "21204689",
+        "id" : 21204689
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 72, 92 ],
+        "url" : "http:\/\/t.co\/ZoL40ZVq",
+        "expanded_url" : "http:\/\/cl.ly\/1m241k281Y0a3G3u2B1D",
+        "display_url" : "cl.ly\/1m241k281Y0a3G\u2026"
+      }, {
+        "indices" : [ 93, 114 ],
+        "url" : "https:\/\/t.co\/HeBqbah2",
+        "expanded_url" : "https:\/\/github.com\/tollmanz\/debug-bar-cron",
+        "display_url" : "github.com\/tollmanz\/debug\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "219241461902876672",
+    "text" : "Updated Debug Bar Cron to better indicate missed events; lots more red! http:\/\/t.co\/ZoL40ZVq https:\/\/t.co\/HeBqbah2 \/cc @helenhousandi",
+    "id" : 219241461902876672,
+    "created_at" : "2012-07-01 01:30:12 +0000",
+    "user" : {
+      "name" : "Zack Tollman",
+      "screen_name" : "tollmanz",
+      "protected" : false,
+      "id_str" : "335110427",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/435843708445941762\/_-pWIndR_normal.jpeg",
+      "id" : 335110427,
+      "verified" : false
+    }
+  },
+  "id" : 219252981923708929,
+  "created_at" : "2012-07-01 02:15:59 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 38, 58 ],
+      "url" : "http:\/\/t.co\/NNDxmkQC",
+      "expanded_url" : "http:\/\/googleblog.blogspot.com\/2011\/09\/time-technology-and-leaping-seconds.html",
+      "display_url" : "googleblog.blogspot.com\/2011\/09\/time-t\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "219234828246200321",
+  "text" : "Google's leap smear. AKA time smudge? http:\/\/t.co\/NNDxmkQC",
+  "id" : 219234828246200321,
+  "created_at" : "2012-07-01 01:03:50 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jeff Larson",
+      "screen_name" : "thejefflarson",
+      "indices" : [ 3, 17 ],
+      "id_str" : "15081317",
+      "id" : 15081317
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 66, 86 ],
+      "url" : "http:\/\/t.co\/taa94oBO",
+      "expanded_url" : "http:\/\/www.telegraph.co.uk\/news\/obituaries\/9365640\/Count-Robert-de-La-Rochefoucauld.html",
+      "display_url" : "telegraph.co.uk\/news\/obituarie\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "219228642033672192",
+  "text" : "RT @thejefflarson: This is the craziest obituary I\u2019ve ever read:\n\nhttp:\/\/t.co\/taa94oBO",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 47, 67 ],
+        "url" : "http:\/\/t.co\/taa94oBO",
+        "expanded_url" : "http:\/\/www.telegraph.co.uk\/news\/obituaries\/9365640\/Count-Robert-de-La-Rochefoucauld.html",
+        "display_url" : "telegraph.co.uk\/news\/obituarie\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "219061239110844419",
+    "text" : "This is the craziest obituary I\u2019ve ever read:\n\nhttp:\/\/t.co\/taa94oBO",
+    "id" : 219061239110844419,
+    "created_at" : "2012-06-30 13:34:04 +0000",
+    "user" : {
+      "name" : "Jeff Larson",
+      "screen_name" : "thejefflarson",
+      "protected" : false,
+      "id_str" : "15081317",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/419493280334635009\/UkpxTe_e_normal.jpeg",
+      "id" : 15081317,
+      "verified" : false
+    }
+  },
+  "id" : 219228642033672192,
+  "created_at" : "2012-07-01 00:39:15 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Instagram",
+      "screen_name" : "instagram",
+      "indices" : [ 26, 36 ],
+      "id_str" : "180505807",
+      "id" : 180505807
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "219164690536865792",
+  "text" : "Huh. You can now login to @instagram and like\/comment from the web on single photo pages.",
+  "id" : 219164690536865792,
+  "created_at" : "2012-06-30 20:25:08 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

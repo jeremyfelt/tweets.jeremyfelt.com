@@ -2,433 +2,6 @@ Grailbird.data.tweets_2012_09 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Rdio",
-      "screen_name" : "Rdio",
-      "indices" : [ 5, 10 ],
-      "id_str" : "54205414",
-      "id" : 54205414
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "252642805401395201",
-  "text" : "Hmm. @rdio embeds appear to not work in mobile Safari? Weirdish.",
-  "id" : 252642805401395201,
-  "created_at" : "2012-10-01 05:35:13 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "11albums",
-      "indices" : [ 49, 58 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 28, 48 ],
-      "url" : "http:\/\/t.co\/pszS28fb",
-      "expanded_url" : "http:\/\/jeremyfelt.com\/music\/2012\/09\/30\/a-steve-earle-listening-day\/",
-      "display_url" : "jeremyfelt.com\/music\/2012\/09\/\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "252641385520459777",
-  "text" : "A Steve Earle Listening Day http:\/\/t.co\/pszS28fb #11albums!",
-  "id" : 252641385520459777,
-  "created_at" : "2012-10-01 05:29:34 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "252627135141928960",
-  "text" : "Oooh, Apple released a carrier update for Verizon and my LTE started working. Sweet!",
-  "id" : 252627135141928960,
-  "created_at" : "2012-10-01 04:32:57 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/instagram.com\" rel=\"nofollow\"\u003EInstagram\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 69, 89 ],
-      "url" : "http:\/\/t.co\/8i3opVQb",
-      "expanded_url" : "http:\/\/instagr.am\/p\/QOWjgupHjj\/",
-      "display_url" : "instagr.am\/p\/QOWjgupHjj\/"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "252607903154978816",
-  "text" : "Even Guinness from a can should be enjoyed with the right glassware. http:\/\/t.co\/8i3opVQb",
-  "id" : 252607903154978816,
-  "created_at" : "2012-10-01 03:16:31 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Tim Carmody",
-      "screen_name" : "tcarmody",
-      "indices" : [ 3, 12 ],
-      "id_str" : "14439168",
-      "id" : 14439168
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "RomneyStyle",
-      "indices" : [ 73, 85 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 52, 72 ],
-      "url" : "http:\/\/t.co\/Hr8BsiLc",
-      "expanded_url" : "http:\/\/yfrog.com\/od3uxop",
-      "display_url" : "yfrog.com\/od3uxop"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "252589007551217664",
-  "text" : "RT @tcarmody: This is life on the internet in 2012: http:\/\/t.co\/Hr8BsiLc #RomneyStyle",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sites.google.com\/site\/yorufukurou\/\" rel=\"nofollow\"\u003EYoruFukurou\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "RomneyStyle",
-        "indices" : [ 59, 71 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 38, 58 ],
-        "url" : "http:\/\/t.co\/Hr8BsiLc",
-        "expanded_url" : "http:\/\/yfrog.com\/od3uxop",
-        "display_url" : "yfrog.com\/od3uxop"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "252588219726712832",
-    "text" : "This is life on the internet in 2012: http:\/\/t.co\/Hr8BsiLc #RomneyStyle",
-    "id" : 252588219726712832,
-    "created_at" : "2012-10-01 01:58:19 +0000",
-    "user" : {
-      "name" : "Tim Carmody",
-      "screen_name" : "tcarmody",
-      "protected" : false,
-      "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458867362851069952\/NHH8UZks_normal.jpeg",
-      "id" : 14439168,
-      "verified" : true
-    }
-  },
-  "id" : 252589007551217664,
-  "created_at" : "2012-10-01 02:01:26 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Zack Tollman",
-      "screen_name" : "tollmanz",
-      "indices" : [ 0, 9 ],
-      "id_str" : "335110427",
-      "id" : 335110427
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "252581862160093184",
-  "geo" : { },
-  "id_str" : "252585147914915840",
-  "in_reply_to_user_id" : 335110427,
-  "text" : "@tollmanz I can imagine something involving scheduled posts in WordPress. Though that's inconvenient if you're talking personal mail.",
-  "id" : 252585147914915840,
-  "in_reply_to_status_id" : 252581862160093184,
-  "created_at" : "2012-10-01 01:46:06 +0000",
-  "in_reply_to_screen_name" : "tollmanz",
-  "in_reply_to_user_id_str" : "335110427",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 117, 137 ],
-      "url" : "http:\/\/t.co\/MK2Js2We",
-      "expanded_url" : "http:\/\/www.steveearle.net\/biblio\/americanmusic.php",
-      "display_url" : "steveearle.net\/biblio\/america\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "252569821017960448",
-  "text" : "\"I'll come down from the mountain and make a record as loud as New York City and as lonesome as the Cumberland Gap.\" http:\/\/t.co\/MK2Js2We",
-  "id" : 252569821017960448,
-  "created_at" : "2012-10-01 00:45:12 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "United",
-      "screen_name" : "united",
-      "indices" : [ 36, 43 ],
-      "id_str" : "260907612",
-      "id" : 260907612
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "252533000921825283",
-  "text" : "What do you have against the world, @united?",
-  "id" : 252533000921825283,
-  "created_at" : "2012-09-30 22:18:53 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Daniel Bachhuber",
-      "screen_name" : "danielbachhuber",
-      "indices" : [ 3, 19 ],
-      "id_str" : "272166936",
-      "id" : 272166936
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 94, 114 ],
-      "url" : "http:\/\/t.co\/CReGXW5C",
-      "expanded_url" : "http:\/\/blog.appfog.com\/could-portland-be-the-best-city-in-the-country-for-developers-right-now\/",
-      "display_url" : "blog.appfog.com\/could-portland\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "252514376546938881",
-  "text" : "RT @danielbachhuber: Could Portland be the best city in the country for developers right now? http:\/\/t.co\/CReGXW5C",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 73, 93 ],
-        "url" : "http:\/\/t.co\/CReGXW5C",
-        "expanded_url" : "http:\/\/blog.appfog.com\/could-portland-be-the-best-city-in-the-country-for-developers-right-now\/",
-        "display_url" : "blog.appfog.com\/could-portland\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "252512794199601152",
-    "text" : "Could Portland be the best city in the country for developers right now? http:\/\/t.co\/CReGXW5C",
-    "id" : 252512794199601152,
-    "created_at" : "2012-09-30 20:58:36 +0000",
-    "user" : {
-      "name" : "Daniel Bachhuber",
-      "screen_name" : "danielbachhuber",
-      "protected" : false,
-      "id_str" : "272166936",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423234303116341248\/TrO4M3zb_normal.jpeg",
-      "id" : 272166936,
-      "verified" : false
-    }
-  },
-  "id" : 252514376546938881,
-  "created_at" : "2012-09-30 21:04:53 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "252471502329503744",
-  "text" : "It is now a Steve Earle day.",
-  "id" : 252471502329503744,
-  "created_at" : "2012-09-30 18:14:31 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 102, 122 ],
-      "url" : "http:\/\/t.co\/cwi3GbxR",
-      "expanded_url" : "http:\/\/www.youtube.com\/watch?feature=player_embedded&v=m3DdCivmSWU",
-      "display_url" : "youtube.com\/watch?feature=\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "252468610931490816",
-  "text" : "Last night's rock celebration with Neil Young. I love how happy everyone on the stage is to be there. http:\/\/t.co\/cwi3GbxR",
-  "id" : 252468610931490816,
-  "created_at" : "2012-09-30 18:03:02 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 94, 114 ],
-      "url" : "http:\/\/t.co\/6COCcTv9",
-      "expanded_url" : "http:\/\/nyti.ms\/OwdWPX",
-      "display_url" : "nyti.ms\/OwdWPX"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "252439767281713152",
-  "text" : "RT @nytjim: Think your last flight was bad? Read this: A Trans-Atlantic Trip Turns Kafkaesque http:\/\/t.co\/6COCcTv9",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 82, 102 ],
-        "url" : "http:\/\/t.co\/6COCcTv9",
-        "expanded_url" : "http:\/\/nyti.ms\/OwdWPX",
-        "display_url" : "nyti.ms\/OwdWPX"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "252420595600478210",
-    "text" : "Think your last flight was bad? Read this: A Trans-Atlantic Trip Turns Kafkaesque http:\/\/t.co\/6COCcTv9",
-    "id" : 252420595600478210,
-    "created_at" : "2012-09-30 14:52:14 +0000",
-    "user" : {
-      "name" : "Jim Roberts",
-      "screen_name" : "nycjim",
-      "protected" : false,
-      "id_str" : "14940354",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3002160609\/84b88a8e6a4fff0cd9b5fb0075bf9fc5_normal.png",
-      "id" : 14940354,
-      "verified" : true
-    }
-  },
-  "id" : 252439767281713152,
-  "created_at" : "2012-09-30 16:08:25 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1972,7 +1545,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@sweden \/ Evelina",
+      "name" : "@sweden \/ Ida",
       "screen_name" : "sweden",
       "indices" : [ 3, 10 ],
       "id_str" : "19663706",
@@ -1999,11 +1572,11 @@ Grailbird.data.tweets_2012_09 =
     "id" : 247404378800140288,
     "created_at" : "2012-09-16 18:39:35 +0000",
     "user" : {
-      "name" : "@sweden \/ Evelina",
+      "name" : "@sweden \/ Ida",
       "screen_name" : "sweden",
       "protected" : false,
       "id_str" : "19663706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486049527716012032\/CcYFVSN-_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/491114706090733568\/s9tXCsSE_normal.png",
       "id" : 19663706,
       "verified" : false
     }
@@ -5110,7 +4683,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "783214",
       "id" : 783214
     }, {
-      "name" : "@sweden \/ Evelina",
+      "name" : "@sweden \/ Ida",
       "screen_name" : "sweden",
       "indices" : [ 42, 49 ],
       "id_str" : "19663706",
@@ -6295,6 +5868,484 @@ Grailbird.data.tweets_2012_09 =
   "text" : "And stuff like that.",
   "id" : 241998321965731841,
   "created_at" : "2012-09-01 20:37:50 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Kailey Lampert",
+      "screen_name" : "trepmal",
+      "indices" : [ 0, 8 ],
+      "id_str" : "19574066",
+      "id" : 19574066
+    }, {
+      "name" : "Namecheap.com",
+      "screen_name" : "Namecheap",
+      "indices" : [ 9, 19 ],
+      "id_str" : "15351161",
+      "id" : 15351161
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "241764679209328641",
+  "geo" : { },
+  "id_str" : "241765716779491328",
+  "in_reply_to_user_id" : 19574066,
+  "text" : "@trepmal @Namecheap $12.88 in the search, $22.99 in the cart. Weird.",
+  "id" : 241765716779491328,
+  "in_reply_to_status_id" : 241764679209328641,
+  "created_at" : "2012-09-01 05:13:33 +0000",
+  "in_reply_to_screen_name" : "trepmal",
+  "in_reply_to_user_id_str" : "19574066",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Josh Elman",
+      "screen_name" : "joshelman",
+      "indices" : [ 3, 13 ],
+      "id_str" : "1979921",
+      "id" : 1979921
+    }, {
+      "name" : "Om Malik",
+      "screen_name" : "om",
+      "indices" : [ 16, 19 ],
+      "id_str" : "989",
+      "id" : 989
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/Pu2zzfBt",
+      "expanded_url" : "http:\/\/trib.al\/lmdhpD",
+      "display_url" : "trib.al\/lmdhpD"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "241742469841182722",
+  "text" : "RT @joshelman: \u201C@om: In 1950s, Being photographed was an event not a default setting. My musing on the problem of  plenty. http:\/\/t.co\/P ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Om Malik",
+        "screen_name" : "om",
+        "indices" : [ 1, 4 ],
+        "id_str" : "989",
+        "id" : 989
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 108, 128 ],
+        "url" : "http:\/\/t.co\/Pu2zzfBt",
+        "expanded_url" : "http:\/\/trib.al\/lmdhpD",
+        "display_url" : "trib.al\/lmdhpD"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "241740968859144192",
+    "text" : "\u201C@om: In 1950s, Being photographed was an event not a default setting. My musing on the problem of  plenty. http:\/\/t.co\/Pu2zzfBt\u201D brilliant",
+    "id" : 241740968859144192,
+    "created_at" : "2012-09-01 03:35:12 +0000",
+    "user" : {
+      "name" : "Josh Elman",
+      "screen_name" : "joshelman",
+      "protected" : false,
+      "id_str" : "1979921",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477934957981999104\/erBXeCYO_normal.jpeg",
+      "id" : 1979921,
+      "verified" : false
+    }
+  },
+  "id" : 241742469841182722,
+  "created_at" : "2012-09-01 03:41:10 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Zack Tollman",
+      "screen_name" : "tollmanz",
+      "indices" : [ 15, 24 ],
+      "id_str" : "335110427",
+      "id" : 335110427
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 107, 127 ],
+      "url" : "http:\/\/t.co\/uis1zrz7",
+      "expanded_url" : "http:\/\/www.youtube.com\/watch?v=py_30jZGUYk",
+      "display_url" : "youtube.com\/watch?v=py_30j\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "241739528799404033",
+  "text" : "Major props to @tollmanz for sharing this video earlier today. I'm still laughing.\n\nAnd stuff like that. \n\nhttp:\/\/t.co\/uis1zrz7",
+  "id" : 241739528799404033,
+  "created_at" : "2012-09-01 03:29:29 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.rdio.com\" rel=\"nofollow\"\u003ERdio\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "KANYE WEST",
+      "screen_name" : "kanyewest",
+      "indices" : [ 21, 31 ],
+      "id_str" : "169686021",
+      "id" : 169686021
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 35, 55 ],
+      "url" : "http:\/\/t.co\/eHhfp3NQ",
+      "expanded_url" : "http:\/\/rd.io\/x\/QU-g8Tc2aHg",
+      "display_url" : "rd.io\/x\/QU-g8Tc2aHg"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "241738301164376064",
+  "text" : "Labor Day tunes from @kanyewest ;) http:\/\/t.co\/eHhfp3NQ",
+  "id" : 241738301164376064,
+  "created_at" : "2012-09-01 03:24:36 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "241728952744431616",
+  "text" : "They all just want to be bubbles.",
+  "id" : 241728952744431616,
+  "created_at" : "2012-09-01 02:47:28 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Michelle Felt",
+      "screen_name" : "meeshfelt",
+      "indices" : [ 19, 29 ],
+      "id_str" : "32924315",
+      "id" : 32924315
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "241717273243578368",
+  "text" : "I love arugula! RT @meeshfelt: Who loves arugula???",
+  "id" : 241717273243578368,
+  "created_at" : "2012-09-01 02:01:03 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jessica Jurick",
+      "screen_name" : "jessjurick",
+      "indices" : [ 0, 11 ],
+      "id_str" : "21618405",
+      "id" : 21618405
+    }, {
+      "name" : "curtismchale",
+      "screen_name" : "curtismchale",
+      "indices" : [ 12, 25 ],
+      "id_str" : "12916912",
+      "id" : 12916912
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 42, 62 ],
+      "url" : "http:\/\/t.co\/oCMlTLah",
+      "expanded_url" : "http:\/\/i.qkme.me\/3ojlxp.jpg",
+      "display_url" : "i.qkme.me\/3ojlxp.jpg"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "241707280888918016",
+  "geo" : { },
+  "id_str" : "241717086307635201",
+  "in_reply_to_user_id" : 12916912,
+  "text" : "@jessjurick @curtismchale Oh, it happens. http:\/\/t.co\/oCMlTLah :)",
+  "id" : 241717086307635201,
+  "in_reply_to_status_id" : 241707280888918016,
+  "created_at" : "2012-09-01 02:00:18 +0000",
+  "in_reply_to_screen_name" : "curtismchale",
+  "in_reply_to_user_id_str" : "12916912",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jessica Jurick",
+      "screen_name" : "jessjurick",
+      "indices" : [ 3, 14 ],
+      "id_str" : "21618405",
+      "id" : 21618405
+    }, {
+      "name" : "Jeremy Felt",
+      "screen_name" : "jeremyfelt",
+      "indices" : [ 40, 51 ],
+      "id_str" : "1741681",
+      "id" : 1741681
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "team10up",
+      "indices" : [ 139, 140 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "241716919827320832",
+  "text" : "RT @jessjurick: May have been caught by @jeremyfelt with \"ball so hard\" in my search bar during a screen sharing session this afternoon. ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Jeremy Felt",
+        "screen_name" : "jeremyfelt",
+        "indices" : [ 24, 35 ],
+        "id_str" : "1741681",
+        "id" : 1741681
+      } ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "team10up",
+        "indices" : [ 121, 130 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "241705551199866880",
+    "text" : "May have been caught by @jeremyfelt with \"ball so hard\" in my search bar during a screen sharing session this afternoon. #team10up",
+    "id" : 241705551199866880,
+    "created_at" : "2012-09-01 01:14:28 +0000",
+    "user" : {
+      "name" : "Jessica Jurick",
+      "screen_name" : "jessjurick",
+      "protected" : false,
+      "id_str" : "21618405",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472819658224336897\/-u76WZTj_normal.jpeg",
+      "id" : 21618405,
+      "verified" : false
+    }
+  },
+  "id" : 241716919827320832,
+  "created_at" : "2012-09-01 01:59:39 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Schmizza Pub on 21st",
+      "screen_name" : "SchmizzaPG21",
+      "indices" : [ 18, 31 ],
+      "id_str" : "398886653",
+      "id" : 398886653
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "241641080460820480",
+  "text" : "The soundtrack at @schmizzapg21 today is so epic. Thanks guys!",
+  "id" : 241641080460820480,
+  "created_at" : "2012-08-31 20:58:17 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Fake AP Stylebook",
+      "screen_name" : "FakeAPStylebook",
+      "indices" : [ 3, 19 ],
+      "id_str" : "83883736",
+      "id" : 83883736
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "241596517767598082",
+  "text" : "RT @FakeAPStylebook: Referring to lies as \"lies\" may hurt someone's feelings. Instead call them \"freedom truths.\"",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "241596329548210179",
+    "text" : "Referring to lies as \"lies\" may hurt someone's feelings. Instead call them \"freedom truths.\"",
+    "id" : 241596329548210179,
+    "created_at" : "2012-08-31 18:00:28 +0000",
+    "user" : {
+      "name" : "Fake AP Stylebook",
+      "screen_name" : "FakeAPStylebook",
+      "protected" : false,
+      "id_str" : "83883736",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1857799558\/faps-interro-twitavatar_normal.jpg",
+      "id" : 83883736,
+      "verified" : false
+    }
+  },
+  "id" : 241596517767598082,
+  "created_at" : "2012-08-31 18:01:13 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "241596245515313152",
+  "text" : "ack really is better than grep.",
+  "id" : 241596245515313152,
+  "created_at" : "2012-08-31 18:00:08 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Daniel Bachhuber",
+      "screen_name" : "danielbachhuber",
+      "indices" : [ 0, 16 ],
+      "id_str" : "272166936",
+      "id" : 272166936
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "241541856515735552",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 45.52827653, -122.69489538 ]
+  },
+  "id_str" : "241557332687982592",
+  "in_reply_to_user_id" : 272166936,
+  "text" : "@danielbachhuber share! :)",
+  "id" : 241557332687982592,
+  "in_reply_to_status_id" : 241541856515735552,
+  "created_at" : "2012-08-31 15:25:30 +0000",
+  "in_reply_to_screen_name" : "danielbachhuber",
+  "in_reply_to_user_id_str" : "272166936",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

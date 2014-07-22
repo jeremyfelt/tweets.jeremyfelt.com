@@ -1,203 +1,5 @@
 Grailbird.data.tweets_2013_03 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "318539693908185088",
-  "text" : "This new Strokes album is much more enjoyable than I assumed it would be.",
-  "id" : 318539693908185088,
-  "created_at" : "2013-04-01 01:45:55 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "K.Adam White",
-      "screen_name" : "kadamwhite",
-      "indices" : [ 0, 11 ],
-      "id_str" : "20061604",
-      "id" : 20061604
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 114, 136 ],
-      "url" : "http:\/\/t.co\/uKzugScnjc",
-      "expanded_url" : "http:\/\/blog.a2o.si\/2009\/06\/24\/apache-mod_php-compared-to-nginx-php-fpm\/",
-      "display_url" : "blog.a2o.si\/2009\/06\/24\/apa\u2026"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "318488371557187586",
-  "geo" : { },
-  "id_str" : "318517942088253440",
-  "in_reply_to_user_id" : 20061604,
-  "text" : "@kadamwhite The two are comparable when processing php with php-fpm, but nginx blows apache away on static files. http:\/\/t.co\/uKzugScnjc",
-  "id" : 318517942088253440,
-  "in_reply_to_status_id" : 318488371557187586,
-  "created_at" : "2013-04-01 00:19:29 +0000",
-  "in_reply_to_screen_name" : "kadamwhite",
-  "in_reply_to_user_id_str" : "20061604",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Christine Rondeau",
-      "screen_name" : "bluelimemedia",
-      "indices" : [ 0, 14 ],
-      "id_str" : "19277037",
-      "id" : 19277037
-    }, {
-      "name" : "Mike Bijon",
-      "screen_name" : "geekcode",
-      "indices" : [ 15, 24 ],
-      "id_str" : "132978921",
-      "id" : 132978921
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 54, 76 ],
-      "url" : "http:\/\/t.co\/N0PdjqrIMH",
-      "expanded_url" : "http:\/\/www.amazon.com\/Bionaire-BSSP101-U-Febreze-Scentstories-Player\/dp\/B000682AVS",
-      "display_url" : "amazon.com\/Bionaire-BSSP1\u2026"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "318515190943604739",
-  "geo" : { },
-  "id_str" : "318516155079864321",
-  "in_reply_to_user_id" : 19277037,
-  "text" : "@bluelimemedia @geekcode You can actually buy it. Ha! http:\/\/t.co\/N0PdjqrIMH",
-  "id" : 318516155079864321,
-  "in_reply_to_status_id" : 318515190943604739,
-  "created_at" : "2013-04-01 00:12:23 +0000",
-  "in_reply_to_screen_name" : "bluelimemedia",
-  "in_reply_to_user_id_str" : "19277037",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Mike Bijon",
-      "screen_name" : "geekcode",
-      "indices" : [ 0, 9 ],
-      "id_str" : "132978921",
-      "id" : 132978921
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "318508481164484609",
-  "geo" : { },
-  "id_str" : "318514395623849984",
-  "in_reply_to_user_id" : 132978921,
-  "text" : "@geekcode I've actually thought a similar product should be built one day. Few realistic applications though: perfume, flower shopping...",
-  "id" : 318514395623849984,
-  "in_reply_to_status_id" : 318508481164484609,
-  "created_at" : "2013-04-01 00:05:24 +0000",
-  "in_reply_to_screen_name" : "geekcode",
-  "in_reply_to_user_id_str" : "132978921",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Code with me",
-      "screen_name" : "codewithme",
-      "indices" : [ 3, 14 ],
-      "id_str" : "231119941",
-      "id" : 231119941
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 112, 134 ],
-      "url" : "http:\/\/t.co\/W3rV9PPPz2",
-      "expanded_url" : "http:\/\/codewithme.us\/portland\/",
-      "display_url" : "codewithme.us\/portland\/"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "318496435224072192",
-  "text" : "RT @codewithme: Our third and biggest workshop yet will be in Portland, Ore. on May 4-5! Apply by Sat. April 6! http:\/\/t.co\/W3rV9PPPz2",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 96, 118 ],
-        "url" : "http:\/\/t.co\/W3rV9PPPz2",
-        "expanded_url" : "http:\/\/codewithme.us\/portland\/",
-        "display_url" : "codewithme.us\/portland\/"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "318410941576396801",
-    "text" : "Our third and biggest workshop yet will be in Portland, Ore. on May 4-5! Apply by Sat. April 6! http:\/\/t.co\/W3rV9PPPz2",
-    "id" : 318410941576396801,
-    "created_at" : "2013-03-31 17:14:18 +0000",
-    "user" : {
-      "name" : "Code with me",
-      "screen_name" : "codewithme",
-      "protected" : false,
-      "id_str" : "231119941",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2426065058\/4x3ko8w0n6820pvevzur_normal.png",
-      "id" : 231119941,
-      "verified" : false
-    }
-  },
-  "id" : 318496435224072192,
-  "created_at" : "2013-03-31 22:54:02 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -4168,7 +3970,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "![doc(steveklabnik)]",
+      "name" : "lim x \u2192 y f(x) = BwO",
       "screen_name" : "steveklabnik",
       "indices" : [ 3, 16 ],
       "id_str" : "22386062",
@@ -4195,7 +3997,7 @@ Grailbird.data.tweets_2013_03 =
     "id" : 314102444747538432,
     "created_at" : "2013-03-19 19:53:53 +0000",
     "user" : {
-      "name" : "![doc(steveklabnik)]",
+      "name" : "lim x \u2192 y f(x) = BwO",
       "screen_name" : "steveklabnik",
       "protected" : false,
       "id_str" : "22386062",
@@ -6183,7 +5985,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "![doc(steveklabnik)]",
+      "name" : "lim x \u2192 y f(x) = BwO",
       "screen_name" : "steveklabnik",
       "indices" : [ 3, 16 ],
       "id_str" : "22386062",
@@ -6210,7 +6012,7 @@ Grailbird.data.tweets_2013_03 =
     "id" : 311989200369115136,
     "created_at" : "2013-03-13 23:56:36 +0000",
     "user" : {
-      "name" : "![doc(steveklabnik)]",
+      "name" : "lim x \u2192 y f(x) = BwO",
       "screen_name" : "steveklabnik",
       "protected" : false,
       "id_str" : "22386062",
@@ -7704,7 +7506,7 @@ Grailbird.data.tweets_2013_03 =
       "screen_name" : "BenBalter",
       "protected" : false,
       "id_str" : "16211142",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3481835953\/4b95cd3db21fb14ab6ac1cbde2cffc4d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/488443519019671554\/iI7XOICJ_normal.jpeg",
       "id" : 16211142,
       "verified" : false
     }
@@ -8806,6 +8608,195 @@ Grailbird.data.tweets_2013_03 =
   "text" : "When you \"rm -rf\" an empty looking directory and it takes 5 seconds. I wonder what was there....",
   "id" : 307733216352157696,
   "created_at" : "2013-03-02 06:04:50 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 116, 138 ],
+      "url" : "http:\/\/t.co\/MwXdbF68L7",
+      "expanded_url" : "http:\/\/cl.ly\/image\/0W2C0A1H2M0s",
+      "display_url" : "cl.ly\/image\/0W2C0A1H\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "307381878061678593",
+  "text" : "Capital One 360's rebranding for ING is so horrid to look at. How did ugly red become the primary color for a bank? http:\/\/t.co\/MwXdbF68L7",
+  "id" : 307381878061678593,
+  "created_at" : "2013-03-01 06:48:45 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Mitchell Hashimoto",
+      "screen_name" : "mitchellh",
+      "indices" : [ 0, 10 ],
+      "id_str" : "12819682",
+      "id" : 12819682
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "307361264915595264",
+  "geo" : { },
+  "id_str" : "307367289097949184",
+  "in_reply_to_user_id" : 12819682,
+  "text" : "@mitchellh Yes! Shell has been so much more approachable when trying to learn from scratch.",
+  "id" : 307367289097949184,
+  "in_reply_to_status_id" : 307361264915595264,
+  "created_at" : "2013-03-01 05:50:46 +0000",
+  "in_reply_to_screen_name" : "mitchellh",
+  "in_reply_to_user_id_str" : "12819682",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Mitchell Hashimoto",
+      "screen_name" : "mitchellh",
+      "indices" : [ 3, 13 ],
+      "id_str" : "12819682",
+      "id" : 12819682
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "307366996486545408",
+  "text" : "RT @mitchellh: TIL quite a few people think you must use Vagrant with Chef. I think this is due to the getting started guide. Switching  ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "307361264915595264",
+    "text" : "TIL quite a few people think you must use Vagrant with Chef. I think this is due to the getting started guide. Switching to shell for 1.1.",
+    "id" : 307361264915595264,
+    "created_at" : "2013-03-01 05:26:50 +0000",
+    "user" : {
+      "name" : "Mitchell Hashimoto",
+      "screen_name" : "mitchellh",
+      "protected" : false,
+      "id_str" : "12819682",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2707460527\/252a64411a339184ff375a96fb68dcb0_normal.png",
+      "id" : 12819682,
+      "verified" : false
+    }
+  },
+  "id" : 307366996486545408,
+  "created_at" : "2013-03-01 05:49:37 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jake Goldman",
+      "screen_name" : "jakemgold",
+      "indices" : [ 15, 25 ],
+      "id_str" : "10672622",
+      "id" : 10672622
+    }, {
+      "name" : "Deschutes PDX Pub",
+      "screen_name" : "DeschutesPDXPub",
+      "indices" : [ 44, 60 ],
+      "id_str" : "259863561",
+      "id" : 259863561
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "team10up",
+      "indices" : [ 0, 9 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 74, 96 ],
+      "url" : "http:\/\/t.co\/uAOiH6z0Uu",
+      "expanded_url" : "http:\/\/4sq.com\/YD4g42",
+      "display_url" : "4sq.com\/YD4g42"
+    } ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 45.524542044, -122.6819497347 ]
+  },
+  "id_str" : "307303317581746176",
+  "text" : "#team10up with @jakemgold in the house! (at @deschutespdxpub w\/ 5 others) http:\/\/t.co\/uAOiH6z0Uu",
+  "id" : 307303317581746176,
+  "created_at" : "2013-03-01 01:36:34 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Bryan Witherwax",
+      "screen_name" : "tweeterwax",
+      "indices" : [ 0, 11 ],
+      "id_str" : "21047903",
+      "id" : 21047903
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "306955249720111104",
+  "geo" : { },
+  "id_str" : "307170126933925889",
+  "in_reply_to_user_id" : 21047903,
+  "text" : "@tweeterwax I knew that wasn't a real radiator shop!",
+  "id" : 307170126933925889,
+  "in_reply_to_status_id" : 306955249720111104,
+  "created_at" : "2013-02-28 16:47:19 +0000",
+  "in_reply_to_screen_name" : "tweeterwax",
+  "in_reply_to_user_id_str" : "21047903",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

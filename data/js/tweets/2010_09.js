@@ -1,381 +1,5 @@
 Grailbird.data.tweets_2010_09 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "26030734873",
-  "text" : "Mossy Tree Trunk http:\/\/flic.kr\/p\/8EWCwA",
-  "id" : 26030734873,
-  "created_at" : "2010-10-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Matt Cutts",
-      "screen_name" : "mattcutts",
-      "indices" : [ 0, 10 ],
-      "id_str" : "3080761",
-      "id" : 3080761
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "26013156847",
-  "geo" : { },
-  "id_str" : "26030965083",
-  "in_reply_to_user_id" : 3080761,
-  "text" : "@mattcutts Any plans to combine youtu.be link data in with the new goo.gl landing page?",
-  "id" : 26030965083,
-  "in_reply_to_status_id" : 26013156847,
-  "created_at" : "2010-10-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "mattcutts",
-  "in_reply_to_user_id_str" : "3080761",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "26034953086",
-  "text" : "Totally have the market on starfish pictures right now. Running out of non-creative titles.",
-  "id" : 26034953086,
-  "created_at" : "2010-10-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "26035102143",
-  "text" : "Starfish Queue http:\/\/flic.kr\/p\/8EX5NU",
-  "id" : 26035102143,
-  "created_at" : "2010-10-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "26037839065",
-  "text" : "Facebook may match Flickr with quantity and a lightbox, but they'd have to revamp a lot to catch up on interface.",
-  "id" : 26037839065,
-  "created_at" : "2010-10-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "26038267040",
-  "text" : "I just finished putting tags, titles, and map info on 222 pictures in Flickr post-upload with almost no interface annoyance.",
-  "id" : 26038267040,
-  "created_at" : "2010-10-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "26038442251",
-  "text" : "Would have ripped my hair out using Facebook (if I didn't already shave it).",
-  "id" : 26038442251,
-  "created_at" : "2010-10-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "26039427589",
-  "text" : "Storage http:\/\/flic.kr\/p\/8EThBX",
-  "id" : 26039427589,
-  "created_at" : "2010-10-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Matt Terenzio",
-      "screen_name" : "mterenzio",
-      "indices" : [ 0, 10 ],
-      "id_str" : "820002",
-      "id" : 820002
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "26044901766",
-  "geo" : { },
-  "id_str" : "26046220026",
-  "in_reply_to_user_id" : 820002,
-  "text" : "@mterenzio Similarity to big IT vs Corp.  \"Not our prob. The system design is right, you just have to change your business rules to fit.\"",
-  "id" : 26046220026,
-  "in_reply_to_status_id" : 26044901766,
-  "created_at" : "2010-10-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "mterenzio",
-  "in_reply_to_user_id_str" : "820002",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Damon Cortesi",
-      "screen_name" : "dacort",
-      "indices" : [ 3, 10 ],
-      "id_str" : "99723",
-      "id" : 99723
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "26047448296",
-  "text" : "RT @dacort: Coconut porter, eh?  http:\/\/yfrog.com\/83cw8dj",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "26044040763",
-    "text" : "Coconut porter, eh?  http:\/\/yfrog.com\/83cw8dj",
-    "id" : 26044040763,
-    "created_at" : "2010-10-01 03:10:17 +0000",
-    "user" : {
-      "name" : "Damon Cortesi",
-      "screen_name" : "dacort",
-      "protected" : false,
-      "id_str" : "99723",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/476959608364609536\/NO1P7qW5_normal.jpeg",
-      "id" : 99723,
-      "verified" : false
-    }
-  },
-  "id" : 26047448296,
-  "created_at" : "2010-10-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "26068580790",
-  "text" : "Guess I'll go for a walk outside, the um... Fall early morning is calling my name, I hear ya now.",
-  "id" : 26068580790,
-  "created_at" : "2010-10-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "26085668203",
-  "text" : "Dilbert - \"Marketing isn't a real thing, is it?\" \"It's mostly guessing.\" http:\/\/goo.gl\/HAHw",
-  "id" : 26085668203,
-  "created_at" : "2010-10-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Google Reader",
-      "screen_name" : "googlereader",
-      "indices" : [ 7, 20 ],
-      "id_str" : "19002481",
-      "id" : 19002481
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "26100159181",
-  "text" : "Weird. @googlereader has crashed its Chrome tab twice today.",
-  "id" : 26100159181,
-  "created_at" : "2010-10-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Dave Winer \u262E",
-      "screen_name" : "davewiner",
-      "indices" : [ 0, 10 ],
-      "id_str" : "3839",
-      "id" : 3839
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "26110022677",
-  "geo" : { },
-  "id_str" : "26110352712",
-  "in_reply_to_user_id" : 3839,
-  "text" : "@davewiner Seems that all feed links (even meta) disappeared with the new interface. Switching to the old interface brings them back.",
-  "id" : 26110352712,
-  "in_reply_to_status_id" : 26110022677,
-  "created_at" : "2010-10-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "davewiner",
-  "in_reply_to_user_id_str" : "3839",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -4636,6 +4260,364 @@ Grailbird.data.tweets_2010_09 =
   "text" : "Everyone's Ping profile looks the same when I click on their links in Twitter. #fencedin http:\/\/post.ly\/vFy2",
   "id" : 22817920901,
   "created_at" : "2010-09-02 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "22662383080",
+  "text" : "Still no Gmail Priority Inbox? Check.",
+  "id" : 22662383080,
+  "created_at" : "2010-09-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "somethingiswrong",
+      "indices" : [ 80, 97 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "22663408519",
+  "text" : "\"Freedom: A Novel\" on Amazon. $15.12 for hard cover, $14.99 for Kindle version. #somethingiswrong Macmillan",
+  "id" : 22663408519,
+  "created_at" : "2010-09-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "nothingiswrong",
+      "indices" : [ 106, 121 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "22663658036",
+  "text" : "Although, I guess that point would be hard to argue. Freedom is #4 in the top 100 Kindle books right now. #nothingiswrong for Macmillan.",
+  "id" : 22663658036,
+  "created_at" : "2010-09-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "22663701987",
+  "text" : "Argh. Library breaks the tie.",
+  "id" : 22663701987,
+  "created_at" : "2010-09-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Gizmodo",
+      "screen_name" : "Gizmodo",
+      "indices" : [ 34, 42 ],
+      "id_str" : "2890961",
+      "id" : 2890961
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "22664594683",
+  "text" : "Hey, looks like Apple has invited @gizmodo back to watch the event tomorrow. Ha. http:\/\/bit.ly\/bRBFTz",
+  "id" : 22664594683,
+  "created_at" : "2010-09-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "22665142453",
+  "text" : "Current Status http:\/\/post.ly\/utUN",
+  "id" : 22665142453,
+  "created_at" : "2010-09-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "22668813260",
+  "text" : "Has Amazon ever said why newspapers and magazines aren't supported in the ipod\/ipad\/pc Kindle apps?",
+  "id" : 22668813260,
+  "created_at" : "2010-09-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "22724074431",
+  "text" : "Really? \"Streaming video requires Safari 4 or 5 on Mac OS X Snow Leopard or Safari on iOS 3 or later.\" http:\/\/bit.ly\/ckQkdL",
+  "id" : 22724074431,
+  "created_at" : "2010-09-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "gdgt",
+      "screen_name" : "gdgt",
+      "indices" : [ 46, 51 ],
+      "id_str" : "15738725",
+      "id" : 15738725
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "22724661020",
+  "text" : "Bah, the live stream on my iPod is behind the @gdgt live blog. Nevermind.",
+  "id" : 22724661020,
+  "created_at" : "2010-09-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Ryan Mark",
+      "screen_name" : "ryanmark",
+      "indices" : [ 3, 12 ],
+      "id_str" : "14550756",
+      "id" : 14550756
+    }, {
+      "name" : "Scott Klein",
+      "screen_name" : "kleinmatic",
+      "indices" : [ 67, 78 ],
+      "id_str" : "6183492",
+      "id" : 6183492
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "22728462992",
+  "text" : "RT @ryanmark: That's going to be a problem. Lawsuits forthwith! RT @kleinmatic: Isn't \"Ping\" (ping.fm) already taken as a social media b ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Scott Klein",
+        "screen_name" : "kleinmatic",
+        "indices" : [ 53, 64 ],
+        "id_str" : "6183492",
+        "id" : 6183492
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "22728279916",
+    "text" : "That's going to be a problem. Lawsuits forthwith! RT @kleinmatic: Isn't \"Ping\" (ping.fm) already taken as a social media brand name?",
+    "id" : 22728279916,
+    "created_at" : "2010-09-01 17:54:59 +0000",
+    "user" : {
+      "name" : "Ryan Mark",
+      "screen_name" : "ryanmark",
+      "protected" : false,
+      "id_str" : "14550756",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1491555364\/me_normal.jpg",
+      "id" : 14550756,
+      "verified" : false
+    }
+  },
+  "id" : 22728462992,
+  "created_at" : "2010-09-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Loic Le Meur",
+      "screen_name" : "loic",
+      "indices" : [ 12, 17 ],
+      "id_str" : "740983",
+      "id" : 740983
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "22728562231",
+  "text" : "Wonder what @loic thinks about Apple's Ping....",
+  "id" : 22728562231,
+  "created_at" : "2010-09-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Loic Le Meur",
+      "screen_name" : "loic",
+      "indices" : [ 3, 8 ],
+      "id_str" : "740983",
+      "id" : 740983
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "22729858257",
+  "text" : "RT @loic: \"itunes ping\" nice ping.fm has been around for 4 years and #2 search result for ping on Google after the Golf brand. mmmmmmm....",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/ping.fm\/\" rel=\"nofollow\"\u003EPing.fm\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "22729407750",
+    "text" : "\"itunes ping\" nice ping.fm has been around for 4 years and #2 search result for ping on Google after the Golf brand. mmmmmmm....",
+    "id" : 22729407750,
+    "created_at" : "2010-09-01 18:11:20 +0000",
+    "user" : {
+      "name" : "Loic Le Meur",
+      "screen_name" : "loic",
+      "protected" : false,
+      "id_str" : "740983",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477838412074848257\/lvBjaz-R_normal.jpeg",
+      "id" : 740983,
+      "verified" : true
+    }
+  },
+  "id" : 22729858257,
+  "created_at" : "2010-09-01 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

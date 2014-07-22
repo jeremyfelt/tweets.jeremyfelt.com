@@ -655,7 +655,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "![doc(steveklabnik)]",
+      "name" : "lim x \u2192 y f(x) = BwO",
       "screen_name" : "steveklabnik",
       "indices" : [ 3, 16 ],
       "id_str" : "22386062",
@@ -704,7 +704,7 @@ Grailbird.data.tweets_2011_11 =
     "id" : 138698219755536385,
     "created_at" : "2011-11-21 19:20:07 +0000",
     "user" : {
-      "name" : "![doc(steveklabnik)]",
+      "name" : "lim x \u2192 y f(x) = BwO",
       "screen_name" : "steveklabnik",
       "protected" : false,
       "id_str" : "22386062",
@@ -4037,6 +4037,218 @@ Grailbird.data.tweets_2011_11 =
   "created_at" : "2011-11-01 07:25:54 +0000",
   "in_reply_to_screen_name" : "scan_boy",
   "in_reply_to_user_id_str" : "260360173",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Samuel Hulick",
+      "screen_name" : "SamuelHulick",
+      "indices" : [ 0, 13 ],
+      "id_str" : "58961325",
+      "id" : 58961325
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "131151183124508672",
+  "in_reply_to_user_id" : 58961325,
+  "text" : "@SamuelHulick The Twitter says you need some rush WP theme work done. I could be up for it. Toss details to my name at gmail if you'd like.",
+  "id" : 131151183124508672,
+  "created_at" : "2011-10-31 23:30:53 +0000",
+  "in_reply_to_screen_name" : "SamuelHulick",
+  "in_reply_to_user_id_str" : "58961325",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Louis Gray",
+      "screen_name" : "louisgray",
+      "indices" : [ 117, 127 ],
+      "id_str" : "12454882",
+      "id" : 12454882
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "131128646290255873",
+  "text" : "I love how FAST the new Google Reader design is. Wish I could hide the top 160px without removing the left side. \/cc @louisgray",
+  "id" : 131128646290255873,
+  "created_at" : "2011-10-31 22:01:20 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 29, 49 ],
+      "url" : "http:\/\/t.co\/m8ueTsKs",
+      "expanded_url" : "http:\/\/marginalrevolution.com\/marginalrevolution\/2011\/10\/the-cuddle-theory-of-horror.html",
+      "display_url" : "marginalrevolution.com\/marginalrevolu\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "131127135258677248",
+  "text" : "The Snuggle Theory of Horror http:\/\/t.co\/m8ueTsKs",
+  "id" : 131127135258677248,
+  "created_at" : "2011-10-31 21:55:19 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "131126818399993856",
+  "text" : "2pm (blue skies): Decide to leave for store at 3pm. | 2:52pm: rainfall | Nicely done, atmosphere. Nicely done.",
+  "id" : 131126818399993856,
+  "created_at" : "2011-10-31 21:54:04 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "131124316434739200",
+  "text" : "Yay! The refreshing of Google Reader every 5 minutes paid off. New version activated. Let's see if it's any good. :)",
+  "id" : 131124316434739200,
+  "created_at" : "2011-10-31 21:44:07 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 113, 133 ],
+      "url" : "http:\/\/t.co\/ar8iDtHG",
+      "expanded_url" : "http:\/\/apnews.myway.com\/article\/20111029\/D9QM956O0.html",
+      "display_url" : "apnews.myway.com\/article\/201110\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "131124076906414081",
+  "text" : "I don't often visit Drudge, but when I do... \"The battle for pizza supremacy has taken a wrong turn in Florida.\" http:\/\/t.co\/ar8iDtHG",
+  "id" : 131124076906414081,
+  "created_at" : "2011-10-31 21:43:10 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "131110077510856705",
+  "text" : "Random scene from Poolhall Junkies appears in my head out of nowhere. With music. Interesting.",
+  "id" : 131110077510856705,
+  "created_at" : "2011-10-31 20:47:33 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Dave Winer \u262E",
+      "screen_name" : "davewiner",
+      "indices" : [ 10, 20 ],
+      "id_str" : "3839",
+      "id" : 3839
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 53, 73 ],
+      "url" : "http:\/\/t.co\/ClJIGkIf",
+      "expanded_url" : "http:\/\/scripting.com\/stories\/2011\/10\/31\/whyIStandUpForStallman.html",
+      "display_url" : "scripting.com\/stories\/2011\/1\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "131098534576529408",
+  "text" : "Well put, @davewiner - \"Why I stand up for Stallman\" http:\/\/t.co\/ClJIGkIf",
+  "id" : 131098534576529408,
+  "created_at" : "2011-10-31 20:01:40 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

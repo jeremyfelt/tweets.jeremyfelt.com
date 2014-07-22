@@ -8,66 +8,6 @@ Grailbird.data.tweets_2012_01 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "164575112161533952",
-  "text" : "When in doubt, divide by 0.",
-  "id" : 164575112161533952,
-  "created_at" : "2012-02-01 05:05:39 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Tom Coates",
-      "screen_name" : "tomcoates",
-      "indices" : [ 30, 40 ],
-      "id_str" : "12514",
-      "id" : 12514
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 120, 140 ],
-      "url" : "http:\/\/t.co\/zFhry1O7",
-      "expanded_url" : "http:\/\/tum.hitherto.net\/post\/16824396517\/the-front-line",
-      "display_url" : "tum.hitherto.net\/post\/168243965\u2026"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "164402651608518656",
-  "geo" : { },
-  "id_str" : "164404176829431808",
-  "in_reply_to_user_id" : 12514,
-  "text" : "+10 on defenestration use. RT @tomcoates Yet another stage in Yahoo's slow defenestration of Flickr happened yesterday: http:\/\/t.co\/zFhry1O7",
-  "id" : 164404176829431808,
-  "in_reply_to_status_id" : 164402651608518656,
-  "created_at" : "2012-01-31 17:46:24 +0000",
-  "in_reply_to_screen_name" : "tomcoates",
-  "in_reply_to_user_id_str" : "12514",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "164236115212124160",
   "text" : "Can't believe I never got through State of Play before. This is a fantastic series so far.",
   "id" : 164236115212124160,
@@ -3992,6 +3932,83 @@ Grailbird.data.tweets_2012_01 =
   "created_at" : "2012-01-05 04:09:58 +0000",
   "in_reply_to_screen_name" : "helenhousandi",
   "in_reply_to_user_id_str" : "21204689",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/jeremyfelt\/status\/153203459133419520\/photo\/1",
+      "indices" : [ 92, 112 ],
+      "url" : "http:\/\/t.co\/iRdCOoLy",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/AiBJvACCMAAnZz-.png",
+      "id_str" : "153203459141808128",
+      "id" : 153203459141808128,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AiBJvACCMAAnZz-.png",
+      "sizes" : [ {
+        "h" : 110,
+        "resize" : "fit",
+        "w" : 291
+      }, {
+        "h" : 110,
+        "resize" : "fit",
+        "w" : 291
+      }, {
+        "h" : 110,
+        "resize" : "fit",
+        "w" : 291
+      }, {
+        "h" : 110,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 110,
+        "resize" : "fit",
+        "w" : 291
+      } ],
+      "display_url" : "pic.twitter.com\/iRdCOoLy"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "153203459133419520",
+  "text" : "Facebook is asking if photos in an album titled Stonehenge were taken in England, Arkansas. http:\/\/t.co\/iRdCOoLy",
+  "id" : 153203459133419520,
+  "created_at" : "2011-12-31 19:58:46 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "randomshotinthetwitterdark",
+      "indices" : [ 81, 108 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "153198188512292864",
+  "text" : "Any word on a shoe shine stand in downtown PDX open today before I go buy a kit? #randomshotinthetwitterdark",
+  "id" : 153198188512292864,
+  "created_at" : "2011-12-31 19:37:49 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

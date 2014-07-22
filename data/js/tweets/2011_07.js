@@ -1,27 +1,5 @@
 Grailbird.data.tweets_2011_07 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "97706359629418498",
-  "text" : "iTunes has gone seriously flaky with the bug fixing 10.4 update.",
-  "id" : 97706359629418498,
-  "created_at" : "2011-07-31 16:33:06 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -2665,7 +2643,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "hchamp",
       "protected" : false,
       "id_str" : "14701006",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477479935632609281\/Ot5-S79D_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/490481376064335872\/TqRjqtye_normal.jpeg",
       "id" : 14701006,
       "verified" : false
     }
@@ -5363,6 +5341,403 @@ Grailbird.data.tweets_2011_07 =
   "text" : "This Tsonga vs Djokovic match is the most fun yet. Both are earning it today.",
   "id" : 86800572497399809,
   "created_at" : "2011-07-01 14:17:23 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "86654784647606272",
+  "text" : "\"I was afraid, I'd eat your brains. 'Cause I'm evil.\"",
+  "id" : 86654784647606272,
+  "created_at" : "2011-07-01 04:38:05 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "circles",
+      "indices" : [ 79, 87 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "86650545879793664",
+  "text" : "This happened because of curiosity.\n\nfont-size: 3.14159265em; color: #314159;\n\n#circles",
+  "id" : 86650545879793664,
+  "created_at" : "2011-07-01 04:21:14 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "86646421893287936",
+  "text" : "Why did I even have to decide to use a 'sticky footer'? Meh.",
+  "id" : 86646421893287936,
+  "created_at" : "2011-07-01 04:04:51 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jay Rosen ",
+      "screen_name" : "jayrosen_nyu",
+      "indices" : [ 3, 16 ],
+      "id_str" : "14834340",
+      "id" : 14834340
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "86640768982331394",
+  "text" : "RT @jayrosen_nyu: Danny Ocean for treasury secretary... would be my thought.",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "86638921525633024",
+    "text" : "Danny Ocean for treasury secretary... would be my thought.",
+    "id" : 86638921525633024,
+    "created_at" : "2011-07-01 03:35:03 +0000",
+    "user" : {
+      "name" : "Jay Rosen ",
+      "screen_name" : "jayrosen_nyu",
+      "protected" : false,
+      "id_str" : "14834340",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472914265737658368\/6o7dqE39_normal.jpeg",
+      "id" : 14834340,
+      "verified" : true
+    }
+  },
+  "id" : 86640768982331394,
+  "created_at" : "2011-07-01 03:42:23 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Michelle Felt",
+      "screen_name" : "meeshfelt",
+      "indices" : [ 19, 29 ],
+      "id_str" : "32924315",
+      "id" : 32924315
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 113, 132 ],
+      "url" : "http:\/\/t.co\/w6lcscq",
+      "expanded_url" : "http:\/\/en.wikipedia.org\/wiki\/The_Two_Coreys",
+      "display_url" : "en.wikipedia.org\/wiki\/The_Two_C\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "86621030222807040",
+  "geo" : { },
+  "id_str" : "86621330073591808",
+  "in_reply_to_user_id" : 32924315,
+  "text" : "Who'd of thunk. RT @meeshfelt I searched google \"The two Coreys\" and deservedly enough it has its own wiki page: http:\/\/t.co\/w6lcscq",
+  "id" : 86621330073591808,
+  "in_reply_to_status_id" : 86621030222807040,
+  "created_at" : "2011-07-01 02:25:09 +0000",
+  "in_reply_to_screen_name" : "meeshfelt",
+  "in_reply_to_user_id_str" : "32924315",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "86618992726384641",
+  "text" : "\"Here come a riddle, here come a clue. If you were really smart you'd know what to do.\"",
+  "id" : 86618992726384641,
+  "created_at" : "2011-07-01 02:15:51 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "DD4B39",
+      "indices" : [ 35, 42 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "86596421477875712",
+  "text" : "Digging Google's new found love of #DD4B39",
+  "id" : 86596421477875712,
+  "created_at" : "2011-07-01 00:46:10 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "86581597947707393",
+  "text" : "Conclusion: I should stop clicking on links that are obviously early reactionary nonsense.",
+  "id" : 86581597947707393,
+  "created_at" : "2011-06-30 23:47:16 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "86581132086362113",
+  "text" : "In depth critiques based on in depth use are always interesting. Months later, usually.",
+  "id" : 86581132086362113,
+  "created_at" : "2011-06-30 23:45:25 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "86580873260052480",
+  "text" : "That's what politics is for.",
+  "id" : 86580873260052480,
+  "created_at" : "2011-06-30 23:44:23 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "86580744385871872",
+  "text" : "Loud critiques of new tools that are based on what other critics think it will or should be rather than in depth use are annoying.",
+  "id" : 86580744385871872,
+  "created_at" : "2011-06-30 23:43:52 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 75, 94 ],
+      "url" : "http:\/\/t.co\/y0DQ2qR",
+      "expanded_url" : "http:\/\/www.businessinsider.com\/mark-zuckerberg-facebook-is-going-to-launch-something-awesome-next-week-2011-6#ixzz1QnRyuFwL",
+      "display_url" : "businessinsider.com\/mark-zuckerber\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "86544636969095168",
+  "text" : "Mark Zuckerberg: Facebook Is Going To \"Launch Something Awesome\" Next Week http:\/\/t.co\/y0DQ2qR",
+  "id" : 86544636969095168,
+  "created_at" : "2011-06-30 21:20:24 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Marco Arment",
+      "screen_name" : "marcoarment",
+      "indices" : [ 0, 12 ],
+      "id_str" : "14231571",
+      "id" : 14231571
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "86542265371205632",
+  "geo" : { },
+  "id_str" : "86542745136676864",
+  "in_reply_to_user_id" : 14231571,
+  "text" : "@marcoarment Amazon has a physical presence in NY, so it's required to pay sales tax anyway. With or without affiliates.",
+  "id" : 86542745136676864,
+  "in_reply_to_status_id" : 86542265371205632,
+  "created_at" : "2011-06-30 21:12:52 +0000",
+  "in_reply_to_screen_name" : "marcoarment",
+  "in_reply_to_user_id_str" : "14231571",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "86541069298307074",
+  "text" : "Made a WP plugin to add rel=\"author\" to posts after the 3.1.4 update wiped my quick hack. Now see that 3.2 will have it built in. Ha.",
+  "id" : 86541069298307074,
+  "created_at" : "2011-06-30 21:06:13 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "86470513643368448",
+  "text" : "Pangram from Google's web font tool - \"Grumpy wizards make toxic brew for the evil Queen and Jack.\" Nice.",
+  "id" : 86470513643368448,
+  "created_at" : "2011-06-30 16:25:51 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

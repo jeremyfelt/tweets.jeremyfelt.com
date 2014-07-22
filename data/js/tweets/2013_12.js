@@ -439,7 +439,7 @@ Grailbird.data.tweets_2013_12 =
       "id_str" : "21204689",
       "id" : 21204689
     }, {
-      "name" : "John Blackbourn \u23C7",
+      "name" : "John Blackbourn \u27A4",
       "screen_name" : "johnbillion",
       "indices" : [ 80, 92 ],
       "id_str" : "79053835",
@@ -473,7 +473,7 @@ Grailbird.data.tweets_2013_12 =
         "id_str" : "21204689",
         "id" : 21204689
       }, {
-        "name" : "John Blackbourn \u23C7",
+        "name" : "John Blackbourn \u27A4",
         "screen_name" : "johnbillion",
         "indices" : [ 69, 81 ],
         "id_str" : "79053835",

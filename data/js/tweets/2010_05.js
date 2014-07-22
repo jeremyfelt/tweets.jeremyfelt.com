@@ -1,33 +1,5 @@
 Grailbird.data.tweets_2010_05 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jack Dorsey",
-      "screen_name" : "jack",
-      "indices" : [ 13, 18 ],
-      "id_str" : "12",
-      "id" : 12
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "15193332371",
-  "text" : "Companies by @Jack doing good in the app store.  http:\/\/yfrog.com\/623c7j",
-  "id" : 15193332371,
-  "created_at" : "2010-06-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -4492,6 +4464,28 @@ Grailbird.data.tweets_2010_05 =
   "text" : "Now I'm about to buy \"In The Neighborhood: The Search for Community on an American Street, One Sleepover at a Time\" http:\/\/amzn.to\/aNrvw4",
   "id" : 13270393938,
   "created_at" : "2010-05-02 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "13186202121",
+  "text" : "Garage sale. Day two.",
+  "id" : 13186202121,
+  "created_at" : "2010-05-01 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

@@ -2119,7 +2119,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "ESPNStatsInfo",
       "protected" : false,
       "id_str" : "53120768",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3188908390\/17e4accf124403c0b6cb741ebefbdb83_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489762140568293376\/6OVMqsBJ_normal.jpeg",
       "id" : 53120768,
       "verified" : true
     }
@@ -4337,7 +4337,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Blackbourn \u23C7",
+      "name" : "John Blackbourn \u27A4",
       "screen_name" : "johnbillion",
       "indices" : [ 3, 15 ],
       "id_str" : "79053835",
@@ -4485,7 +4485,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "4371541",
       "id" : 4371541
     }, {
-      "name" : "John Blackbourn \u23C7",
+      "name" : "John Blackbourn \u27A4",
       "screen_name" : "johnbillion",
       "indices" : [ 15, 27 ],
       "id_str" : "79053835",
@@ -7735,7 +7735,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Davis Shaver",
+      "name" : "davis shaver",
       "screen_name" : "davisshaver",
       "indices" : [ 0, 12 ],
       "id_str" : "7521012",
@@ -8466,7 +8466,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Davis Shaver",
+      "name" : "davis shaver",
       "screen_name" : "davisshaver",
       "indices" : [ 0, 12 ],
       "id_str" : "7521012",
@@ -8541,7 +8541,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Davis Shaver",
+      "name" : "davis shaver",
       "screen_name" : "davisshaver",
       "indices" : [ 0, 12 ],
       "id_str" : "7521012",
@@ -9122,7 +9122,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "cgrymala",
       "protected" : false,
       "id_str" : "24093368",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/485516717800435714\/ob-j8mbB_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/490302776044298240\/WL1B4LgB_normal.jpeg",
       "id" : 24093368,
       "verified" : false
     }
@@ -11132,7 +11132,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "BenBalter",
       "protected" : false,
       "id_str" : "16211142",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3481835953\/4b95cd3db21fb14ab6ac1cbde2cffc4d_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/488443519019671554\/iI7XOICJ_normal.jpeg",
       "id" : 16211142,
       "verified" : false
     }

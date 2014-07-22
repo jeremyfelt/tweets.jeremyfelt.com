@@ -1,483 +1,5 @@
 Grailbird.data.tweets_2012_08 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kailey Lampert",
-      "screen_name" : "trepmal",
-      "indices" : [ 0, 8 ],
-      "id_str" : "19574066",
-      "id" : 19574066
-    }, {
-      "name" : "Namecheap.com",
-      "screen_name" : "Namecheap",
-      "indices" : [ 9, 19 ],
-      "id_str" : "15351161",
-      "id" : 15351161
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "241764679209328641",
-  "geo" : { },
-  "id_str" : "241765716779491328",
-  "in_reply_to_user_id" : 19574066,
-  "text" : "@trepmal @Namecheap $12.88 in the search, $22.99 in the cart. Weird.",
-  "id" : 241765716779491328,
-  "in_reply_to_status_id" : 241764679209328641,
-  "created_at" : "2012-09-01 05:13:33 +0000",
-  "in_reply_to_screen_name" : "trepmal",
-  "in_reply_to_user_id_str" : "19574066",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Josh Elman",
-      "screen_name" : "joshelman",
-      "indices" : [ 3, 13 ],
-      "id_str" : "1979921",
-      "id" : 1979921
-    }, {
-      "name" : "Om Malik",
-      "screen_name" : "om",
-      "indices" : [ 16, 19 ],
-      "id_str" : "989",
-      "id" : 989
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/Pu2zzfBt",
-      "expanded_url" : "http:\/\/trib.al\/lmdhpD",
-      "display_url" : "trib.al\/lmdhpD"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "241742469841182722",
-  "text" : "RT @joshelman: \u201C@om: In 1950s, Being photographed was an event not a default setting. My musing on the problem of  plenty. http:\/\/t.co\/P ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Om Malik",
-        "screen_name" : "om",
-        "indices" : [ 1, 4 ],
-        "id_str" : "989",
-        "id" : 989
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 108, 128 ],
-        "url" : "http:\/\/t.co\/Pu2zzfBt",
-        "expanded_url" : "http:\/\/trib.al\/lmdhpD",
-        "display_url" : "trib.al\/lmdhpD"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "241740968859144192",
-    "text" : "\u201C@om: In 1950s, Being photographed was an event not a default setting. My musing on the problem of  plenty. http:\/\/t.co\/Pu2zzfBt\u201D brilliant",
-    "id" : 241740968859144192,
-    "created_at" : "2012-09-01 03:35:12 +0000",
-    "user" : {
-      "name" : "Josh Elman",
-      "screen_name" : "joshelman",
-      "protected" : false,
-      "id_str" : "1979921",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477934957981999104\/erBXeCYO_normal.jpeg",
-      "id" : 1979921,
-      "verified" : false
-    }
-  },
-  "id" : 241742469841182722,
-  "created_at" : "2012-09-01 03:41:10 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Zack Tollman",
-      "screen_name" : "tollmanz",
-      "indices" : [ 15, 24 ],
-      "id_str" : "335110427",
-      "id" : 335110427
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 107, 127 ],
-      "url" : "http:\/\/t.co\/uis1zrz7",
-      "expanded_url" : "http:\/\/www.youtube.com\/watch?v=py_30jZGUYk",
-      "display_url" : "youtube.com\/watch?v=py_30j\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "241739528799404033",
-  "text" : "Major props to @tollmanz for sharing this video earlier today. I'm still laughing.\n\nAnd stuff like that. \n\nhttp:\/\/t.co\/uis1zrz7",
-  "id" : 241739528799404033,
-  "created_at" : "2012-09-01 03:29:29 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.rdio.com\" rel=\"nofollow\"\u003ERdio\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "KANYE WEST",
-      "screen_name" : "kanyewest",
-      "indices" : [ 21, 31 ],
-      "id_str" : "169686021",
-      "id" : 169686021
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 35, 55 ],
-      "url" : "http:\/\/t.co\/eHhfp3NQ",
-      "expanded_url" : "http:\/\/rd.io\/x\/QU-g8Tc2aHg",
-      "display_url" : "rd.io\/x\/QU-g8Tc2aHg"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "241738301164376064",
-  "text" : "Labor Day tunes from @kanyewest ;) http:\/\/t.co\/eHhfp3NQ",
-  "id" : 241738301164376064,
-  "created_at" : "2012-09-01 03:24:36 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "241728952744431616",
-  "text" : "They all just want to be bubbles.",
-  "id" : 241728952744431616,
-  "created_at" : "2012-09-01 02:47:28 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Michelle Felt",
-      "screen_name" : "meeshfelt",
-      "indices" : [ 19, 29 ],
-      "id_str" : "32924315",
-      "id" : 32924315
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "241717273243578368",
-  "text" : "I love arugula! RT @meeshfelt: Who loves arugula???",
-  "id" : 241717273243578368,
-  "created_at" : "2012-09-01 02:01:03 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jessica Jurick",
-      "screen_name" : "jessjurick",
-      "indices" : [ 0, 11 ],
-      "id_str" : "21618405",
-      "id" : 21618405
-    }, {
-      "name" : "curtismchale",
-      "screen_name" : "curtismchale",
-      "indices" : [ 12, 25 ],
-      "id_str" : "12916912",
-      "id" : 12916912
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 42, 62 ],
-      "url" : "http:\/\/t.co\/oCMlTLah",
-      "expanded_url" : "http:\/\/i.qkme.me\/3ojlxp.jpg",
-      "display_url" : "i.qkme.me\/3ojlxp.jpg"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "241707280888918016",
-  "geo" : { },
-  "id_str" : "241717086307635201",
-  "in_reply_to_user_id" : 12916912,
-  "text" : "@jessjurick @curtismchale Oh, it happens. http:\/\/t.co\/oCMlTLah :)",
-  "id" : 241717086307635201,
-  "in_reply_to_status_id" : 241707280888918016,
-  "created_at" : "2012-09-01 02:00:18 +0000",
-  "in_reply_to_screen_name" : "curtismchale",
-  "in_reply_to_user_id_str" : "12916912",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jessica Jurick",
-      "screen_name" : "jessjurick",
-      "indices" : [ 3, 14 ],
-      "id_str" : "21618405",
-      "id" : 21618405
-    }, {
-      "name" : "Jeremy Felt",
-      "screen_name" : "jeremyfelt",
-      "indices" : [ 40, 51 ],
-      "id_str" : "1741681",
-      "id" : 1741681
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "team10up",
-      "indices" : [ 139, 140 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "241716919827320832",
-  "text" : "RT @jessjurick: May have been caught by @jeremyfelt with \"ball so hard\" in my search bar during a screen sharing session this afternoon. ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Jeremy Felt",
-        "screen_name" : "jeremyfelt",
-        "indices" : [ 24, 35 ],
-        "id_str" : "1741681",
-        "id" : 1741681
-      } ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "team10up",
-        "indices" : [ 121, 130 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "241705551199866880",
-    "text" : "May have been caught by @jeremyfelt with \"ball so hard\" in my search bar during a screen sharing session this afternoon. #team10up",
-    "id" : 241705551199866880,
-    "created_at" : "2012-09-01 01:14:28 +0000",
-    "user" : {
-      "name" : "Jessica Jurick",
-      "screen_name" : "jessjurick",
-      "protected" : false,
-      "id_str" : "21618405",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472819658224336897\/-u76WZTj_normal.jpeg",
-      "id" : 21618405,
-      "verified" : false
-    }
-  },
-  "id" : 241716919827320832,
-  "created_at" : "2012-09-01 01:59:39 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Schmizza Pub on 21st",
-      "screen_name" : "SchmizzaPG21",
-      "indices" : [ 18, 31 ],
-      "id_str" : "398886653",
-      "id" : 398886653
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "241641080460820480",
-  "text" : "The soundtrack at @schmizzapg21 today is so epic. Thanks guys!",
-  "id" : 241641080460820480,
-  "created_at" : "2012-08-31 20:58:17 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Fake AP Stylebook",
-      "screen_name" : "FakeAPStylebook",
-      "indices" : [ 3, 19 ],
-      "id_str" : "83883736",
-      "id" : 83883736
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "241596517767598082",
-  "text" : "RT @FakeAPStylebook: Referring to lies as \"lies\" may hurt someone's feelings. Instead call them \"freedom truths.\"",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "241596329548210179",
-    "text" : "Referring to lies as \"lies\" may hurt someone's feelings. Instead call them \"freedom truths.\"",
-    "id" : 241596329548210179,
-    "created_at" : "2012-08-31 18:00:28 +0000",
-    "user" : {
-      "name" : "Fake AP Stylebook",
-      "screen_name" : "FakeAPStylebook",
-      "protected" : false,
-      "id_str" : "83883736",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1857799558\/faps-interro-twitavatar_normal.jpg",
-      "id" : 83883736,
-      "verified" : false
-    }
-  },
-  "id" : 241596517767598082,
-  "created_at" : "2012-08-31 18:01:13 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "241596245515313152",
-  "text" : "ack really is better than grep.",
-  "id" : 241596245515313152,
-  "created_at" : "2012-08-31 18:00:08 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Daniel Bachhuber",
-      "screen_name" : "danielbachhuber",
-      "indices" : [ 0, 16 ],
-      "id_str" : "272166936",
-      "id" : 272166936
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "241541856515735552",
-  "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 45.52827653, -122.69489538 ]
-  },
-  "id_str" : "241557332687982592",
-  "in_reply_to_user_id" : 272166936,
-  "text" : "@danielbachhuber share! :)",
-  "id" : 241557332687982592,
-  "in_reply_to_status_id" : 241541856515735552,
-  "created_at" : "2012-08-31 15:25:30 +0000",
-  "in_reply_to_screen_name" : "danielbachhuber",
-  "in_reply_to_user_id_str" : "272166936",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -5714,7 +5236,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "heidi ggggggggg!",
+      "name" : "heidi g!",
       "screen_name" : "heidigerhardt",
       "indices" : [ 3, 17 ],
       "id_str" : "17105784",
@@ -5759,11 +5281,11 @@ Grailbird.data.tweets_2012_08 =
     "id" : 236930558825988097,
     "created_at" : "2012-08-18 21:00:21 +0000",
     "user" : {
-      "name" : "heidi ggggggggg!",
+      "name" : "heidi g!",
       "screen_name" : "heidigerhardt",
       "protected" : false,
       "id_str" : "17105784",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/433725523819130880\/nMcTbJH4_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/488732660936609793\/94KT4V1h_normal.jpeg",
       "id" : 17105784,
       "verified" : false
     }
@@ -12427,6 +11949,104 @@ Grailbird.data.tweets_2012_08 =
   "text" : "This Is How Olympic Divers Really Look While Diving http:\/\/t.co\/V8y5jtr4",
   "id" : 230714193668632576,
   "created_at" : "2012-08-01 17:18:44 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.apple.com\/\" rel=\"nofollow\"\u003EOS X\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 45.528145, -122.694974 ]
+  },
+  "id_str" : "230532923982491649",
+  "text" : "Obligatory tweet from the Mountain Lion notifications bar.",
+  "id" : 230532923982491649,
+  "created_at" : "2012-08-01 05:18:26 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Matt Cutts",
+      "screen_name" : "mattcutts",
+      "indices" : [ 3, 13 ],
+      "id_str" : "3080761",
+      "id" : 3080761
+    }, {
+      "name" : "Jolie O'Dell",
+      "screen_name" : "jolieodell",
+      "indices" : [ 90, 101 ],
+      "id_str" : "19417850",
+      "id" : 19417850
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 65, 85 ],
+      "url" : "http:\/\/t.co\/r5CfHkqU",
+      "expanded_url" : "http:\/\/explore.org\/#!\/live-cams\/player\/brown-bear-salmon-cam-brooks-falls",
+      "display_url" : "explore.org\/#!\/live-cams\/p\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "230385236142333952",
+  "text" : "RT @mattcutts: Wild live (!) cam of brown bears catching salmon: http:\/\/t.co\/r5CfHkqU via @jolieodell",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Jolie O'Dell",
+        "screen_name" : "jolieodell",
+        "indices" : [ 75, 86 ],
+        "id_str" : "19417850",
+        "id" : 19417850
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 50, 70 ],
+        "url" : "http:\/\/t.co\/r5CfHkqU",
+        "expanded_url" : "http:\/\/explore.org\/#!\/live-cams\/player\/brown-bear-salmon-cam-brooks-falls",
+        "display_url" : "explore.org\/#!\/live-cams\/p\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "230383518331572224",
+    "text" : "Wild live (!) cam of brown bears catching salmon: http:\/\/t.co\/r5CfHkqU via @jolieodell",
+    "id" : 230383518331572224,
+    "created_at" : "2012-07-31 19:24:45 +0000",
+    "user" : {
+      "name" : "Matt Cutts",
+      "screen_name" : "mattcutts",
+      "protected" : false,
+      "id_str" : "3080761",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3570465295\/b2d56caae1ce11258301a5946a1d9a9e_normal.jpeg",
+      "id" : 3080761,
+      "verified" : true
+    }
+  },
+  "id" : 230385236142333952,
+  "created_at" : "2012-07-31 19:31:35 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

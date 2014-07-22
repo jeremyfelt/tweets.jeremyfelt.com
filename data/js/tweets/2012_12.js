@@ -3,72 +3,6 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zack Tollman",
-      "screen_name" : "tollmanz",
-      "indices" : [ 0, 9 ],
-      "id_str" : "335110427",
-      "id" : 335110427
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "285951932835721216",
-  "geo" : { },
-  "id_str" : "285952185529933824",
-  "in_reply_to_user_id" : 335110427,
-  "text" : "@tollmanz I just finished my feta wrapped in steak from Trader Joe\u2019s. you chose wiser than I.",
-  "id" : 285952185529933824,
-  "in_reply_to_status_id" : 285951932835721216,
-  "created_at" : "2013-01-01 03:34:48 +0000",
-  "in_reply_to_screen_name" : "tollmanz",
-  "in_reply_to_user_id_str" : "335110427",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Zack Tollman",
-      "screen_name" : "tollmanz",
-      "indices" : [ 0, 9 ],
-      "id_str" : "335110427",
-      "id" : 335110427
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "285947107007938560",
-  "geo" : { },
-  "id_str" : "285951585798983680",
-  "in_reply_to_user_id" : 335110427,
-  "text" : "@tollmanz nice decision! Which place?",
-  "id" : 285951585798983680,
-  "in_reply_to_status_id" : 285947107007938560,
-  "created_at" : "2013-01-01 03:32:25 +0000",
-  "in_reply_to_screen_name" : "tollmanz",
-  "in_reply_to_user_id_str" : "335110427",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Helen Hou-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
@@ -6641,6 +6575,225 @@ Grailbird.data.tweets_2012_12 =
   "text" : "tabIntent.js is what I want so many times in textareas. http:\/\/t.co\/ACw5ZbHV",
   "id" : 274794210815791104,
   "created_at" : "2012-12-01 08:36:59 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Zach Brown",
+      "screen_name" : "TheLastCicada",
+      "indices" : [ 0, 14 ],
+      "id_str" : "15436236",
+      "id" : 15436236
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "274715974807216128",
+  "geo" : { },
+  "id_str" : "274781562405523456",
+  "in_reply_to_user_id" : 15436236,
+  "text" : "@TheLastCicada Thank you! Well, I have other candidates for best ever, but still - this one is fantastic.",
+  "id" : 274781562405523456,
+  "in_reply_to_status_id" : 274715974807216128,
+  "created_at" : "2012-12-01 07:46:44 +0000",
+  "in_reply_to_screen_name" : "TheLastCicada",
+  "in_reply_to_user_id_str" : "15436236",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "274763329728290816",
+  "text" : "Jubel Ale on nitro is a pleasant experience.",
+  "id" : 274763329728290816,
+  "created_at" : "2012-12-01 06:34:17 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 62, 82 ],
+      "url" : "http:\/\/t.co\/SELgxxec",
+      "expanded_url" : "http:\/\/4sq.com\/WzJbat",
+      "display_url" : "4sq.com\/WzJbat"
+    } ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 45.5273402005, -122.6944380713 ]
+  },
+  "id_str" : "274703423205679104",
+  "text" : "A visionary film! (@ Cinema 21 Theatre for Casablanca (1942)) http:\/\/t.co\/SELgxxec",
+  "id" : 274703423205679104,
+  "created_at" : "2012-12-01 02:36:14 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Sarah Lacy",
+      "screen_name" : "sarahcuda",
+      "indices" : [ 3, 13 ],
+      "id_str" : "5668942",
+      "id" : 5668942
+    }, {
+      "name" : "Pando",
+      "screen_name" : "PandoDaily",
+      "indices" : [ 120, 131 ],
+      "id_str" : "419710142",
+      "id" : 419710142
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 95, 115 ],
+      "url" : "http:\/\/t.co\/zcfQ6LAK",
+      "expanded_url" : "http:\/\/pandodaily.com\/2012\/11\/30\/attention-founders-heres-how-you-respond-to-an-unfair-post-about-your-company\/",
+      "display_url" : "pandodaily.com\/2012\/11\/30\/att\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "274695547594625024",
+  "text" : "RT @sarahcuda: Attention founders: Here\u2019s how you respond to an unfair post about your company http:\/\/t.co\/zcfQ6LAK via @pandodaily",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Pando",
+        "screen_name" : "PandoDaily",
+        "indices" : [ 105, 116 ],
+        "id_str" : "419710142",
+        "id" : 419710142
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 80, 100 ],
+        "url" : "http:\/\/t.co\/zcfQ6LAK",
+        "expanded_url" : "http:\/\/pandodaily.com\/2012\/11\/30\/attention-founders-heres-how-you-respond-to-an-unfair-post-about-your-company\/",
+        "display_url" : "pandodaily.com\/2012\/11\/30\/att\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "274682233019846656",
+    "text" : "Attention founders: Here\u2019s how you respond to an unfair post about your company http:\/\/t.co\/zcfQ6LAK via @pandodaily",
+    "id" : 274682233019846656,
+    "created_at" : "2012-12-01 01:12:02 +0000",
+    "user" : {
+      "name" : "Sarah Lacy",
+      "screen_name" : "sarahcuda",
+      "protected" : false,
+      "id_str" : "5668942",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1763460129\/lacy_normal.jpg",
+      "id" : 5668942,
+      "verified" : false
+    }
+  },
+  "id" : 274695547594625024,
+  "created_at" : "2012-12-01 02:04:56 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Matt Haughey \u1555( \u141B )\u1557",
+      "screen_name" : "mathowie",
+      "indices" : [ 3, 12 ],
+      "id_str" : "761975",
+      "id" : 761975
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 95, 116 ],
+      "url" : "https:\/\/t.co\/tUTJyl3M",
+      "expanded_url" : "https:\/\/medium.com\/i-m-h-o\/52a20d7a17de",
+      "display_url" : "medium.com\/i-m-h-o\/52a20d\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "274592186396459008",
+  "text" : "RT @mathowie: I wrote my first post on Medium: Why I love Twitter and barely tolerate Facebook https:\/\/t.co\/tUTJyl3M",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 81, 102 ],
+        "url" : "https:\/\/t.co\/tUTJyl3M",
+        "expanded_url" : "https:\/\/medium.com\/i-m-h-o\/52a20d7a17de",
+        "display_url" : "medium.com\/i-m-h-o\/52a20d\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "274581134669656064",
+    "text" : "I wrote my first post on Medium: Why I love Twitter and barely tolerate Facebook https:\/\/t.co\/tUTJyl3M",
+    "id" : 274581134669656064,
+    "created_at" : "2012-11-30 18:30:18 +0000",
+    "user" : {
+      "name" : "Matt Haughey \u1555( \u141B )\u1557",
+      "screen_name" : "mathowie",
+      "protected" : false,
+      "id_str" : "761975",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477343679107985408\/d1EhVCcQ_normal.jpeg",
+      "id" : 761975,
+      "verified" : false
+    }
+  },
+  "id" : 274592186396459008,
+  "created_at" : "2012-11-30 19:14:13 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
