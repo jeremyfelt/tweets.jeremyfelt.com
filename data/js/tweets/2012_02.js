@@ -2,6 +2,45 @@ Grailbird.data.tweets_2012_02 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Eric Mann",
+      "screen_name" : "EricMann",
+      "indices" : [ 0, 9 ],
+      "id_str" : "14132756",
+      "id" : 14132756
+    }, {
+      "name" : "Helen Hou-Sand\u00ED",
+      "screen_name" : "helenhousandi",
+      "indices" : [ 10, 24 ],
+      "id_str" : "21204689",
+      "id" : 21204689
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "174968409560326144",
+  "geo" : { },
+  "id_str" : "174968932678119425",
+  "in_reply_to_user_id" : 14132756,
+  "text" : "@EricMann @helenhousandi My major takeaway was 'does this faster, does this faster, does this faster, does this faster.....'",
+  "id" : 174968932678119425,
+  "in_reply_to_status_id" : 174968409560326144,
+  "created_at" : "2012-02-29 21:26:58 +0000",
+  "in_reply_to_screen_name" : "EricMann",
+  "in_reply_to_user_id_str" : "14132756",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1097,7 +1136,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "piersmorgan",
       "protected" : false,
       "id_str" : "216299334",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1170122820\/Piers_profile_twitter_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/495891065799335937\/qrevuC57_normal.jpeg",
       "id" : 216299334,
       "verified" : true
     }
@@ -3819,66 +3858,6 @@ Grailbird.data.tweets_2012_02 =
   "text" : "Is reporting all promoted tweets as spam a bad thing? It seems to work just fine.",
   "id" : 164951546889641984,
   "created_at" : "2012-02-02 06:01:28 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "164575112161533952",
-  "text" : "When in doubt, divide by 0.",
-  "id" : 164575112161533952,
-  "created_at" : "2012-02-01 05:05:39 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Tom Coates",
-      "screen_name" : "tomcoates",
-      "indices" : [ 30, 40 ],
-      "id_str" : "12514",
-      "id" : 12514
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 120, 140 ],
-      "url" : "http:\/\/t.co\/zFhry1O7",
-      "expanded_url" : "http:\/\/tum.hitherto.net\/post\/16824396517\/the-front-line",
-      "display_url" : "tum.hitherto.net\/post\/168243965\u2026"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "164402651608518656",
-  "geo" : { },
-  "id_str" : "164404176829431808",
-  "in_reply_to_user_id" : 12514,
-  "text" : "+10 on defenestration use. RT @tomcoates Yet another stage in Yahoo's slow defenestration of Flickr happened yesterday: http:\/\/t.co\/zFhry1O7",
-  "id" : 164404176829431808,
-  "in_reply_to_status_id" : 164402651608518656,
-  "created_at" : "2012-01-31 17:46:24 +0000",
-  "in_reply_to_screen_name" : "tomcoates",
-  "in_reply_to_user_id_str" : "12514",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

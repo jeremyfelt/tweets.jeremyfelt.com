@@ -2,6 +2,366 @@ Grailbird.data.tweets_2011_08 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Taylor Singletary",
+      "screen_name" : "episod",
+      "indices" : [ 3, 10 ],
+      "id_str" : "819797",
+      "id" : 819797
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "109126731914412032",
+  "text" : "RT @episod: When formulating a twoosh, it's best not to abbreviate words and to use all useful punctuation rules. It is ok to leave out  ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "109124901524357120",
+    "text" : "When formulating a twoosh, it's best not to abbreviate words and to use all useful punctuation rules. It is ok to leave out the final period",
+    "id" : 109124901524357120,
+    "created_at" : "2011-09-01 04:46:18 +0000",
+    "user" : {
+      "name" : "Taylor Singletary",
+      "screen_name" : "episod",
+      "protected" : false,
+      "id_str" : "819797",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/496331554558205952\/XieePKjB_normal.png",
+      "id" : 819797,
+      "verified" : false
+    }
+  },
+  "id" : 109126731914412032,
+  "created_at" : "2011-09-01 04:53:35 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Taylor Singletary",
+      "screen_name" : "episod",
+      "indices" : [ 43, 50 ],
+      "id_str" : "819797",
+      "id" : 819797
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "109126713153290240",
+  "text" : "Last tweet, a twoosh, stolen directly from @episod, only because I like the final period. ;)",
+  "id" : 109126713153290240,
+  "created_at" : "2011-09-01 04:53:30 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "109126531640598528",
+  "text" : "When formulating a twoosh, it's best not to abbreviate words and to use all useful punctuation rules. It's ok to leave out the final period.",
+  "id" : 109126531640598528,
+  "created_at" : "2011-09-01 04:52:47 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Sarah Kurth",
+      "screen_name" : "sarahmkurth",
+      "indices" : [ 0, 12 ],
+      "id_str" : "40764402",
+      "id" : 40764402
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "109118839261896704",
+  "geo" : { },
+  "id_str" : "109119217726537728",
+  "in_reply_to_user_id" : 40764402,
+  "text" : "@sarahmkurth Yup. Sounded\/felt like it was at St Clair \/ Park. Meant to say transformer. Huge white explosion.",
+  "id" : 109119217726537728,
+  "in_reply_to_status_id" : 109118839261896704,
+  "created_at" : "2011-09-01 04:23:43 +0000",
+  "in_reply_to_screen_name" : "sarahmkurth",
+  "in_reply_to_user_id_str" : "40764402",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "PDX",
+      "indices" : [ 127, 131 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "109117967953956864",
+  "text" : "Massive generator explosion right outside our apartment window just now. Power cables going down the street are still shaking. #PDX",
+  "id" : 109117967953956864,
+  "created_at" : "2011-09-01 04:18:45 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 16, 35 ],
+      "url" : "http:\/\/t.co\/PVLByPc",
+      "expanded_url" : "http:\/\/smackwhacked.tumblr.com\/#9645035602",
+      "display_url" : "smackwhacked.tumblr.com\/#9645035602"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "109048763959623680",
+  "text" : "Current Status: http:\/\/t.co\/PVLByPc",
+  "id" : 109048763959623680,
+  "created_at" : "2011-08-31 23:43:46 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Kevin Fox",
+      "screen_name" : "kfury",
+      "indices" : [ 55, 61 ],
+      "id_str" : "785",
+      "id" : 785
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 31, 50 ],
+      "url" : "http:\/\/t.co\/ZLN0GOU",
+      "expanded_url" : "http:\/\/fury.com\/2011\/08\/cancel-the-ipod-touch-lunacy\/",
+      "display_url" : "fury.com\/2011\/08\/cancel\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "109046560163241984",
+  "text" : "Cancel the iPod Touch? Lunacy. http:\/\/t.co\/ZLN0GOU via @kfury \/\/ Note - important missing Touch features - good camera & GPS.",
+  "id" : 109046560163241984,
+  "created_at" : "2011-08-31 23:35:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "109024119756046336",
+  "text" : "Can't change PayPal password, phone, or address without SMS verification. I have to call customer service to change a freaking password.",
+  "id" : 109024119756046336,
+  "created_at" : "2011-08-31 22:05:50 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 77, 96 ],
+      "url" : "http:\/\/t.co\/pCNwJdo",
+      "expanded_url" : "http:\/\/daringfireball.net\/linked\/2011\/08\/31\/vintagezen",
+      "display_url" : "daringfireball.net\/linked\/2011\/08\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "108973163555209216",
+  "text" : "\"Down that path lies the end of their business model of selling phone time.\" http:\/\/t.co\/pCNwJdo \/\/ MUST happen some day. Voice = data.",
+  "id" : 108973163555209216,
+  "created_at" : "2011-08-31 18:43:21 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "108967105503825921",
+  "text" : "Why have I not used LastPass until now?",
+  "id" : 108967105503825921,
+  "created_at" : "2011-08-31 18:19:17 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Will Osborne",
+      "screen_name" : "ComcastWill",
+      "indices" : [ 0, 12 ],
+      "id_str" : "198519537",
+      "id" : 198519537
+    }, {
+      "name" : "Will Osborne",
+      "screen_name" : "comcastcares",
+      "indices" : [ 13, 26 ],
+      "id_str" : "14104847",
+      "id" : 14104847
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "108957388295520258",
+  "geo" : { },
+  "id_str" : "108957545095376896",
+  "in_reply_to_user_id" : 198519537,
+  "text" : "@ComcastWill @comcastcares Just started working for me too... go figure. Thanks!",
+  "id" : 108957545095376896,
+  "in_reply_to_status_id" : 108957388295520258,
+  "created_at" : "2011-08-31 17:41:17 +0000",
+  "in_reply_to_screen_name" : "ComcastWill",
+  "in_reply_to_user_id_str" : "198519537",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Will Osborne",
+      "screen_name" : "comcastcares",
+      "indices" : [ 0, 13 ],
+      "id_str" : "14104847",
+      "id" : 14104847
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "108956506350829568",
+  "in_reply_to_user_id" : 14104847,
+  "text" : "@comcastcares customer.comcast.com isn't loading for me. Is this a known issue, back up in ...?",
+  "id" : 108956506350829568,
+  "created_at" : "2011-08-31 17:37:10 +0000",
+  "in_reply_to_screen_name" : "comcastcares",
+  "in_reply_to_user_id_str" : "14104847",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -539,7 +899,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/488719677397282816\/5QTO0TTN_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/496331554558205952\/XieePKjB_normal.png",
       "id" : 819797,
       "verified" : false
     }
@@ -2537,7 +2897,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "Harpers",
       "protected" : false,
       "id_str" : "14287094",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/487280944718442496\/Bwynr4u__normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/499692572512509952\/3qExSgpT_normal.png",
       "id" : 14287094,
       "verified" : false
     }
@@ -3850,7 +4210,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "MLB",
       "protected" : false,
       "id_str" : "18479513",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/487688920130260992\/VmkxHTr__normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/497835266904584192\/jXMM1yUs_normal.jpeg",
       "id" : 18479513,
       "verified" : true
     }
@@ -4043,7 +4403,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/488719677397282816\/5QTO0TTN_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/496331554558205952\/XieePKjB_normal.png",
       "id" : 819797,
       "verified" : false
     }
@@ -4166,7 +4526,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "Harpers",
       "protected" : false,
       "id_str" : "14287094",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/487280944718442496\/Bwynr4u__normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/499692572512509952\/3qExSgpT_normal.png",
       "id" : 14287094,
       "verified" : false
     }
@@ -4467,28 +4827,6 @@ Grailbird.data.tweets_2011_08 =
   },
   "id" : 98130341386141696,
   "created_at" : "2011-08-01 20:37:51 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "97706359629418498",
-  "text" : "iTunes has gone seriously flaky with the bug fixing 10.4 update.",
-  "id" : 97706359629418498,
-  "created_at" : "2011-07-31 16:33:06 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

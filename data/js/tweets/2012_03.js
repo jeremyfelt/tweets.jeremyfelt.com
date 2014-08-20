@@ -1,5 +1,27 @@
 Grailbird.data.tweets_2012_03 = 
  [ {
+  "source" : "\u003Ca href=\"http:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003EMobile Web\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "186143694687174656",
+  "text" : "Killing time at the airport is easy with T-slowMobile WiFi.",
+  "id" : 186143694687174656,
+  "created_at" : "2012-03-31 17:31:29 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -1530,7 +1552,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "caffyrelf",
       "protected" : false,
       "id_str" : "52349764",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/469784022642470912\/XATbwlZS_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/500307267674075136\/NLX6dKdz_normal.jpeg",
       "id" : 52349764,
       "verified" : false
     }
@@ -1977,45 +1999,6 @@ Grailbird.data.tweets_2012_03 =
   "text" : "Boom. Over 12 hours away from code, 8.5 hours of sleep, first 10 min mile since ???, coffee, and ridiculously good oatmeal. \n\nLet's do this.",
   "id" : 175272192983040000,
   "created_at" : "2012-03-01 17:32:01 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Eric Mann",
-      "screen_name" : "EricMann",
-      "indices" : [ 0, 9 ],
-      "id_str" : "14132756",
-      "id" : 14132756
-    }, {
-      "name" : "Helen Hou-Sand\u00ED",
-      "screen_name" : "helenhousandi",
-      "indices" : [ 10, 24 ],
-      "id_str" : "21204689",
-      "id" : 21204689
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "174968409560326144",
-  "geo" : { },
-  "id_str" : "174968932678119425",
-  "in_reply_to_user_id" : 14132756,
-  "text" : "@EricMann @helenhousandi My major takeaway was 'does this faster, does this faster, does this faster, does this faster.....'",
-  "id" : 174968932678119425,
-  "in_reply_to_status_id" : 174968409560326144,
-  "created_at" : "2012-02-29 21:26:58 +0000",
-  "in_reply_to_screen_name" : "EricMann",
-  "in_reply_to_user_id_str" : "14132756",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

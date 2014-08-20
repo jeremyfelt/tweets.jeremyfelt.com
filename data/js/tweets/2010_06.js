@@ -1,5 +1,128 @@
 Grailbird.data.tweets_2010_06 = 
  [ {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17466280545",
+  "text" : "Oregon trail... Possible new fix.  http:\/\/yfrog.com\/mk15346951j",
+  "id" : 17466280545,
+  "created_at" : "2010-07-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17470470130",
+  "text" : "I don't remember super eagles in the original. Thelma!  http:\/\/yfrog.com\/iyf21j",
+  "id" : 17470470130,
+  "created_at" : "2010-07-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "The Orwell Prize",
+      "screen_name" : "TheOrwellPrize",
+      "indices" : [ 3, 18 ],
+      "id_str" : "19651183",
+      "id" : 19651183
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17487428996",
+  "text" : "RT @TheOrwellPrize: 1.7.40: Newspapers now reduced to 6 pages, i.e., 3 sheets[1]. Print reduced in size. Rough analysis of to-day\u2019s... h ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "17478215932",
+    "text" : "1.7.40: Newspapers now reduced to 6 pages, i.e., 3 sheets[1]. Print reduced in size. Rough analysis of to-day\u2019s... http:\/\/bit.ly\/9uQlGN",
+    "id" : 17478215932,
+    "created_at" : "2010-07-01 08:07:52 +0000",
+    "user" : {
+      "name" : "The Orwell Prize",
+      "screen_name" : "TheOrwellPrize",
+      "protected" : false,
+      "id_str" : "19651183",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1812607882\/Orwell_Prize_twitter_normal.jpg",
+      "id" : 19651183,
+      "verified" : false
+    }
+  },
+  "id" : 17487428996,
+  "created_at" : "2010-07-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Mike Tyson",
+      "screen_name" : "MikeTyson",
+      "indices" : [ 5, 15 ],
+      "id_str" : "156132825",
+      "id" : 156132825
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17499893599",
+  "text" : "Yes, @miketyson is now on Twitter. Carry on.",
+  "id" : 17499893599,
+  "created_at" : "2010-07-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -485,7 +608,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "lancearmstrong",
       "protected" : false,
       "id_str" : "16727535",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/448848936246075392\/ccMQzI_0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/501370245664108544\/EsWXMI1j_normal.jpeg",
       "id" : 16727535,
       "verified" : true
     }
@@ -3838,7 +3961,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451536931013140480\/X30xZjxY_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/498503236265848833\/LFjZ6YyQ_normal.jpeg",
       "id" : 18713,
       "verified" : false
     }
@@ -4138,7 +4261,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "cubanalaf",
       "protected" : false,
       "id_str" : "15377897",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/480467027954376704\/FVZcHR_a_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/499557505064632322\/tU9618jj_normal.jpeg",
       "id" : 15377897,
       "verified" : false
     }
@@ -4591,7 +4714,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "marshallk",
       "protected" : false,
       "id_str" : "818340",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459130034192515072\/BG5-NO9z_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492745459421556736\/wGyWE2xf_normal.jpeg",
       "id" : 818340,
       "verified" : true
     }
@@ -5021,7 +5144,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484147315863605248\/fs2-V1Hi_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/501761058931871745\/PMhWqb5m_normal.jpeg",
       "id" : 22872643,
       "verified" : true
     }
@@ -5510,34 +5633,6 @@ Grailbird.data.tweets_2010_06 =
   },
   "id" : 15229902859,
   "created_at" : "2010-06-02 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jack Dorsey",
-      "screen_name" : "jack",
-      "indices" : [ 13, 18 ],
-      "id_str" : "12",
-      "id" : 12
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "15193332371",
-  "text" : "Companies by @Jack doing good in the app store.  http:\/\/yfrog.com\/623c7j",
-  "id" : 15193332371,
-  "created_at" : "2010-06-01 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

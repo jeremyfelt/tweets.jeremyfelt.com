@@ -505,7 +505,7 @@ Grailbird.data.tweets_2014_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Impact Hub Seattle",
@@ -625,7 +625,7 @@ Grailbird.data.tweets_2014_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Big Time Brewery",
@@ -716,7 +716,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "anna_gallegos",
       "protected" : false,
       "id_str" : "367226291",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/455173194312192000\/a5rDtv92_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/499241932246110208\/_6XZrH0a_normal.jpeg",
       "id" : 367226291,
       "verified" : false
     }
@@ -1036,7 +1036,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shenoa Lawrence",
+      "name" : "Shenoa *stands up*",
       "screen_name" : "ShenoaLawrence",
       "indices" : [ 3, 18 ],
       "id_str" : "37127416",
@@ -1141,11 +1141,11 @@ Grailbird.data.tweets_2014_06 =
     "id" : 483002282649206784,
     "created_at" : "2014-06-28 21:41:32 +0000",
     "user" : {
-      "name" : "Shenoa Lawrence",
+      "name" : "Shenoa *stands up*",
       "screen_name" : "ShenoaLawrence",
       "protected" : false,
       "id_str" : "37127416",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/475106561744855040\/tzwdKLHK_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/496174645347770368\/pYmU4phg_normal.jpeg",
       "id" : 37127416,
       "verified" : false
     }
@@ -6605,7 +6605,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "mreinhardt11",
       "protected" : false,
       "id_str" : "55397571",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3324759106\/8957442e09f2f9b25547841d60e4ffee_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/501726190600585217\/i4FlQo4Q_normal.jpeg",
       "id" : 55397571,
       "verified" : false
     }
@@ -9503,7 +9503,7 @@ Grailbird.data.tweets_2014_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -10338,7 +10338,7 @@ Grailbird.data.tweets_2014_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -11132,7 +11132,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "BenBalter",
       "protected" : false,
       "id_str" : "16211142",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/488443519019671554\/iI7XOICJ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/493249125169647616\/qMMoLpN7_normal.jpeg",
       "id" : 16211142,
       "verified" : false
     }

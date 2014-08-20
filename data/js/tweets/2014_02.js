@@ -101,7 +101,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scott Taylor",
+      "name" : "$cott",
       "screen_name" : "wonderboymusic",
       "indices" : [ 0, 15 ],
       "id_str" : "15473031",
@@ -1021,7 +1021,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steve Streza \u26BD\uFE0F",
+      "name" : "Steve Streza ",
       "screen_name" : "SteveStreza",
       "indices" : [ 3, 15 ],
       "id_str" : "658643",
@@ -1118,7 +1118,7 @@ Grailbird.data.tweets_2014_02 =
     "id" : 437264007628460032,
     "created_at" : "2014-02-22 16:33:58 +0000",
     "user" : {
-      "name" : "Steve Streza \u26BD\uFE0F",
+      "name" : "Steve Streza ",
       "screen_name" : "SteveStreza",
       "protected" : false,
       "id_str" : "658643",
@@ -4739,7 +4739,7 @@ Grailbird.data.tweets_2014_02 =
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477276032827809792\/qL2pbQzx_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/498998080872538112\/sLnE8rmj_normal.jpeg",
       "id" : 767,
       "verified" : true
     }
@@ -5990,7 +5990,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Haughey \u1555( \u141B )\u1557",
+      "name" : "Matt Haughey",
       "screen_name" : "mathowie",
       "indices" : [ 3, 12 ],
       "id_str" : "761975",
@@ -6017,7 +6017,7 @@ Grailbird.data.tweets_2014_02 =
     "id" : 430126030330658816,
     "created_at" : "2014-02-02 23:50:11 +0000",
     "user" : {
-      "name" : "Matt Haughey \u1555( \u141B )\u1557",
+      "name" : "Matt Haughey",
       "screen_name" : "mathowie",
       "protected" : false,
       "id_str" : "761975",

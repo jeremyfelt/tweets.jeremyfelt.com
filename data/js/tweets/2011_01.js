@@ -2,6 +2,310 @@ Grailbird.data.tweets_2011_01 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Mona Eltahawy",
+      "screen_name" : "monaeltahawy",
+      "indices" : [ 3, 16 ],
+      "id_str" : "29979814",
+      "id" : 29979814
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "Egyptians",
+      "indices" : [ 75, 85 ]
+    }, {
+      "text" : "Jan25",
+      "indices" : [ 139, 140 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "32278602548514816",
+  "text" : "RT @monaeltahawy: I've had it up to here with western \"experts\" telling us #Egyptians can't pull  off a revolution. Naysayers go to hell ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "Egyptians",
+        "indices" : [ 57, 67 ]
+      }, {
+        "text" : "Jan25",
+        "indices" : [ 120, 126 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "32268502458966016",
+    "text" : "I've had it up to here with western \"experts\" telling us #Egyptians can't pull  off a revolution. Naysayers go to hell! #Jan25",
+    "id" : 32268502458966016,
+    "created_at" : "2011-02-01 02:46:25 +0000",
+    "user" : {
+      "name" : "Mona Eltahawy",
+      "screen_name" : "monaeltahawy",
+      "protected" : false,
+      "id_str" : "29979814",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477614003901194241\/ky3NQf23_normal.jpeg",
+      "id" : 29979814,
+      "verified" : true
+    }
+  },
+  "id" : 32278602548514816,
+  "created_at" : "2011-02-01 03:26:33 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "32266298759053312",
+  "text" : "Dropbox auto sync to Flickr? Tell me I'm missing something obvious or having an off night in search engine land...",
+  "id" : 32266298759053312,
+  "created_at" : "2011-02-01 02:37:39 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Andy Carvin",
+      "screen_name" : "acarvin",
+      "indices" : [ 3, 11 ],
+      "id_str" : "778057",
+      "id" : 778057
+    }, {
+      "name" : "\u062A\u0628\u0627\u064B \u0644\u0643\u0645 \u064A\u0627\u0637\u0648\u0627\u063A\u064A\u062A",
+      "screen_name" : "ArabRevolution",
+      "indices" : [ 16, 31 ],
+      "id_str" : "239152755",
+      "id" : 239152755
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "32254097474191360",
+  "text" : "RT @acarvin: RT @ArabRevolution: I wish we on Twitter, and the media would change the phrase \"Million Man March\" to \"Million Egyptian March\"",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "\u062A\u0628\u0627\u064B \u0644\u0643\u0645 \u064A\u0627\u0637\u0648\u0627\u063A\u064A\u062A",
+        "screen_name" : "ArabRevolution",
+        "indices" : [ 3, 18 ],
+        "id_str" : "239152755",
+        "id" : 239152755
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "32243431904387072",
+    "text" : "RT @ArabRevolution: I wish we on Twitter, and the media would change the phrase \"Million Man March\" to \"Million Egyptian March\"",
+    "id" : 32243431904387072,
+    "created_at" : "2011-02-01 01:06:47 +0000",
+    "user" : {
+      "name" : "Andy Carvin",
+      "screen_name" : "acarvin",
+      "protected" : false,
+      "id_str" : "778057",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/462931239855337472\/4NrByYB8_normal.jpeg",
+      "id" : 778057,
+      "verified" : true
+    }
+  },
+  "id" : 32254097474191360,
+  "created_at" : "2011-02-01 01:49:10 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Arne Roomann-Kurrik",
+      "screen_name" : "kurrik",
+      "indices" : [ 45, 52 ],
+      "id_str" : "7588892",
+      "id" : 7588892
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "32185559224950785",
+  "geo" : { },
+  "id_str" : "32198478327193600",
+  "in_reply_to_user_id" : 7588892,
+  "text" : "Nice! Was wondering why this didn't work. RT @kurrik New in Chrome's Dev Channel - Now you can drag and reorder your New Tab Page icons!",
+  "id" : 32198478327193600,
+  "in_reply_to_status_id" : 32185559224950785,
+  "created_at" : "2011-01-31 22:08:10 +0000",
+  "in_reply_to_screen_name" : "kurrik",
+  "in_reply_to_user_id_str" : "7588892",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Stan Carey",
+      "screen_name" : "StanCarey",
+      "indices" : [ 122, 132 ],
+      "id_str" : "34347535",
+      "id" : 34347535
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "32193301394235392",
+  "text" : "Literally centuries of non-literal \u2018literally\u2019 http:\/\/bit.ly\/hgRO6X &lt;&lt; Literally a huge writeup on 'literally' from @StanCarey",
+  "id" : 32193301394235392,
+  "created_at" : "2011-01-31 21:47:35 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "WikiLeaks",
+      "screen_name" : "wikileaks",
+      "indices" : [ 3, 13 ],
+      "id_str" : "16589206",
+      "id" : 16589206
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "32191435746836482",
+  "text" : "RT @wikileaks: Cable: \"Mubarak to name VP\" http:\/\/wikileaks.ch\/cable\/2005\/06\/05CAIRO4534.html",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "32190742730379264",
+    "text" : "Cable: \"Mubarak to name VP\" http:\/\/wikileaks.ch\/cable\/2005\/06\/05CAIRO4534.html",
+    "id" : 32190742730379264,
+    "created_at" : "2011-01-31 21:37:25 +0000",
+    "user" : {
+      "name" : "WikiLeaks",
+      "screen_name" : "wikileaks",
+      "protected" : false,
+      "id_str" : "16589206",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/475961420828258305\/51dJrUAT_normal.png",
+      "id" : 16589206,
+      "verified" : true
+    }
+  },
+  "id" : 32191435746836482,
+  "created_at" : "2011-01-31 21:40:11 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "32135646223011840",
+  "text" : "Homer, before Twitter - \"Your ideas are intriguing to me and I wish to subscribe to your newsletter...\" http:\/\/bit.ly\/exRwKP",
+  "id" : 32135646223011840,
+  "created_at" : "2011-01-31 17:58:29 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "32129809907720192",
+  "text" : "\"camel ride around the pyramids: 10 dollars. Entrance to the pyramids: 50 dollars. Witnessing a revolution: priceless.\" http:\/\/nyr.kr\/i5WgyA",
+  "id" : 32129809907720192,
+  "created_at" : "2011-01-31 17:35:18 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -141,7 +445,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "EthanZ",
       "protected" : false,
       "id_str" : "1051171",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477214510403420160\/HhlxqZPt_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/495282787708989440\/azID9JnB_normal.jpeg",
       "id" : 1051171,
       "verified" : false
     }
@@ -883,7 +1187,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "EthanZ",
       "protected" : false,
       "id_str" : "1051171",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477214510403420160\/HhlxqZPt_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/495282787708989440\/azID9JnB_normal.jpeg",
       "id" : 1051171,
       "verified" : false
     }
@@ -1012,7 +1316,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "EthanZ",
       "protected" : false,
       "id_str" : "1051171",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477214510403420160\/HhlxqZPt_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/495282787708989440\/azID9JnB_normal.jpeg",
       "id" : 1051171,
       "verified" : false
     }
@@ -1656,7 +1960,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "KeithOlbermann",
       "protected" : false,
       "id_str" : "130617778",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/487753911067881472\/CIBtLl4U_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/500159259062333440\/2dbdF3vS_normal.jpeg",
       "id" : 130617778,
       "verified" : true
     }
@@ -1701,7 +2005,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Abraham  Vegh ",
+      "name" : "Abraham Vegh",
       "screen_name" : "abrahamvegh",
       "indices" : [ 3, 15 ],
       "id_str" : "19140065",
@@ -1734,7 +2038,7 @@ Grailbird.data.tweets_2011_01 =
     "id" : 30090767603081216,
     "created_at" : "2011-01-26 02:32:52 +0000",
     "user" : {
-      "name" : "Abraham  Vegh ",
+      "name" : "Abraham Vegh",
       "screen_name" : "abrahamvegh",
       "protected" : false,
       "id_str" : "19140065",
@@ -4079,7 +4383,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "MyLittleBloggie",
       "protected" : false,
       "id_str" : "17737025",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459057000597307392\/bAK_crE-_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/497756501344153600\/mKUoQqwZ_normal.jpeg",
       "id" : 17737025,
       "verified" : false
     }
@@ -6772,28 +7076,6 @@ Grailbird.data.tweets_2011_01 =
   "text" : "I knew I had set an alarm last night. Strange bug. http:\/\/bit.ly\/e4IGZu",
   "id" : 21237366127595521,
   "created_at" : "2011-01-01 16:12:37 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "21066800141701120",
-  "text" : "I feel like I'm missing something. No Times Square on network TV?",
-  "id" : 21066800141701120,
-  "created_at" : "2011-01-01 04:54:51 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

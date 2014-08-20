@@ -2,6 +2,205 @@ Grailbird.data.tweets_2012_06 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Zack Tollman",
+      "screen_name" : "tollmanz",
+      "indices" : [ 3, 12 ],
+      "id_str" : "335110427",
+      "id" : 335110427
+    }, {
+      "name" : "Helen Hou-Sand\u00ED",
+      "screen_name" : "helenhousandi",
+      "indices" : [ 133, 140 ],
+      "id_str" : "21204689",
+      "id" : 21204689
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 86, 106 ],
+      "url" : "http:\/\/t.co\/ZoL40ZVq",
+      "expanded_url" : "http:\/\/cl.ly\/1m241k281Y0a3G3u2B1D",
+      "display_url" : "cl.ly\/1m241k281Y0a3G\u2026"
+    }, {
+      "indices" : [ 107, 128 ],
+      "url" : "https:\/\/t.co\/HeBqbah2",
+      "expanded_url" : "https:\/\/github.com\/tollmanz\/debug-bar-cron",
+      "display_url" : "github.com\/tollmanz\/debug\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "219252981923708929",
+  "text" : "RT @tollmanz: Updated Debug Bar Cron to better indicate missed events; lots more red! http:\/\/t.co\/ZoL40ZVq https:\/\/t.co\/HeBqbah2 \/cc @he ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Helen Hou-Sand\u00ED",
+        "screen_name" : "helenhousandi",
+        "indices" : [ 119, 133 ],
+        "id_str" : "21204689",
+        "id" : 21204689
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 72, 92 ],
+        "url" : "http:\/\/t.co\/ZoL40ZVq",
+        "expanded_url" : "http:\/\/cl.ly\/1m241k281Y0a3G3u2B1D",
+        "display_url" : "cl.ly\/1m241k281Y0a3G\u2026"
+      }, {
+        "indices" : [ 93, 114 ],
+        "url" : "https:\/\/t.co\/HeBqbah2",
+        "expanded_url" : "https:\/\/github.com\/tollmanz\/debug-bar-cron",
+        "display_url" : "github.com\/tollmanz\/debug\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "219241461902876672",
+    "text" : "Updated Debug Bar Cron to better indicate missed events; lots more red! http:\/\/t.co\/ZoL40ZVq https:\/\/t.co\/HeBqbah2 \/cc @helenhousandi",
+    "id" : 219241461902876672,
+    "created_at" : "2012-07-01 01:30:12 +0000",
+    "user" : {
+      "name" : "Zack Tollman",
+      "screen_name" : "tollmanz",
+      "protected" : false,
+      "id_str" : "335110427",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/435843708445941762\/_-pWIndR_normal.jpeg",
+      "id" : 335110427,
+      "verified" : false
+    }
+  },
+  "id" : 219252981923708929,
+  "created_at" : "2012-07-01 02:15:59 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 38, 58 ],
+      "url" : "http:\/\/t.co\/NNDxmkQC",
+      "expanded_url" : "http:\/\/googleblog.blogspot.com\/2011\/09\/time-technology-and-leaping-seconds.html",
+      "display_url" : "googleblog.blogspot.com\/2011\/09\/time-t\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "219234828246200321",
+  "text" : "Google's leap smear. AKA time smudge? http:\/\/t.co\/NNDxmkQC",
+  "id" : 219234828246200321,
+  "created_at" : "2012-07-01 01:03:50 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jeff Larson",
+      "screen_name" : "thejefflarson",
+      "indices" : [ 3, 17 ],
+      "id_str" : "15081317",
+      "id" : 15081317
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 66, 86 ],
+      "url" : "http:\/\/t.co\/taa94oBO",
+      "expanded_url" : "http:\/\/www.telegraph.co.uk\/news\/obituaries\/9365640\/Count-Robert-de-La-Rochefoucauld.html",
+      "display_url" : "telegraph.co.uk\/news\/obituarie\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "219228642033672192",
+  "text" : "RT @thejefflarson: This is the craziest obituary I\u2019ve ever read:\n\nhttp:\/\/t.co\/taa94oBO",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 47, 67 ],
+        "url" : "http:\/\/t.co\/taa94oBO",
+        "expanded_url" : "http:\/\/www.telegraph.co.uk\/news\/obituaries\/9365640\/Count-Robert-de-La-Rochefoucauld.html",
+        "display_url" : "telegraph.co.uk\/news\/obituarie\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "219061239110844419",
+    "text" : "This is the craziest obituary I\u2019ve ever read:\n\nhttp:\/\/t.co\/taa94oBO",
+    "id" : 219061239110844419,
+    "created_at" : "2012-06-30 13:34:04 +0000",
+    "user" : {
+      "name" : "Jeff Larson",
+      "screen_name" : "thejefflarson",
+      "protected" : false,
+      "id_str" : "15081317",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/419493280334635009\/UkpxTe_e_normal.jpeg",
+      "id" : 15081317,
+      "verified" : false
+    }
+  },
+  "id" : 219228642033672192,
+  "created_at" : "2012-07-01 00:39:15 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Instagram",
+      "screen_name" : "instagram",
+      "indices" : [ 26, 36 ],
+      "id_str" : "180505807",
+      "id" : 180505807
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "219164690536865792",
+  "text" : "Huh. You can now login to @instagram and like\/comment from the web on single photo pages.",
+  "id" : 219164690536865792,
+  "created_at" : "2012-06-30 20:25:08 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -466,7 +665,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "derekwillis",
       "protected" : false,
       "id_str" : "14517538",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458614828391604224\/7DNPKGxJ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492346787080851456\/sNvis_r-_normal.jpeg",
       "id" : 14517538,
       "verified" : true
     }
@@ -3473,113 +3672,6 @@ Grailbird.data.tweets_2012_06 =
   "created_at" : "2012-06-01 18:15:41 +0000",
   "in_reply_to_screen_name" : "nacin",
   "in_reply_to_user_id_str" : "16213079",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Daniel Bachhuber",
-      "screen_name" : "danielbachhuber",
-      "indices" : [ 0, 16 ],
-      "id_str" : "272166936",
-      "id" : 272166936
-    }, {
-      "name" : "Rinat",
-      "screen_name" : "rrinat",
-      "indices" : [ 17, 24 ],
-      "id_str" : "111000305",
-      "id" : 111000305
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "208304298482868225",
-  "geo" : { },
-  "id_str" : "208305227965800448",
-  "in_reply_to_user_id" : 272166936,
-  "text" : "@danielbachhuber @rrinat Monday should be doable. I'll have some time to poke at the ad_code_args tonight\/tomorrow.",
-  "id" : 208305227965800448,
-  "in_reply_to_status_id" : 208304298482868225,
-  "created_at" : "2012-05-31 21:13:31 +0000",
-  "in_reply_to_screen_name" : "danielbachhuber",
-  "in_reply_to_user_id_str" : "272166936",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "T. Boone Pickens",
-      "screen_name" : "boonepickens",
-      "indices" : [ 3, 16 ],
-      "id_str" : "25330246",
-      "id" : 25330246
-    }, {
-      "name" : "Drizzy",
-      "screen_name" : "Drake",
-      "indices" : [ 63, 69 ],
-      "id_str" : "27195114",
-      "id" : 27195114
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "208235027232858113",
-  "text" : "RT @boonepickens: The first billion is a helluva lot harder RT @Drake: The first million is the hardest.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Drizzy",
-        "screen_name" : "Drake",
-        "indices" : [ 45, 51 ],
-        "id_str" : "27195114",
-        "id" : 27195114
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "207777078622420992",
-    "geo" : { },
-    "id_str" : "207984741260070914",
-    "in_reply_to_user_id" : 27195114,
-    "text" : "The first billion is a helluva lot harder RT @Drake: The first million is the hardest.",
-    "id" : 207984741260070914,
-    "in_reply_to_status_id" : 207777078622420992,
-    "created_at" : "2012-05-31 00:00:01 +0000",
-    "in_reply_to_screen_name" : "Drake",
-    "in_reply_to_user_id_str" : "27195114",
-    "user" : {
-      "name" : "T. Boone Pickens",
-      "screen_name" : "boonepickens",
-      "protected" : false,
-      "id_str" : "25330246",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3366851082\/dbe92dbca0868c55562f063cbb921295_normal.jpeg",
-      "id" : 25330246,
-      "verified" : true
-    }
-  },
-  "id" : 208235027232858113,
-  "created_at" : "2012-05-31 16:34:33 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

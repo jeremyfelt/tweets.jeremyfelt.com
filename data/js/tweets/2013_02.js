@@ -2,6 +2,195 @@ Grailbird.data.tweets_2013_02 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 116, 138 ],
+      "url" : "http:\/\/t.co\/MwXdbF68L7",
+      "expanded_url" : "http:\/\/cl.ly\/image\/0W2C0A1H2M0s",
+      "display_url" : "cl.ly\/image\/0W2C0A1H\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "307381878061678593",
+  "text" : "Capital One 360's rebranding for ING is so horrid to look at. How did ugly red become the primary color for a bank? http:\/\/t.co\/MwXdbF68L7",
+  "id" : 307381878061678593,
+  "created_at" : "2013-03-01 06:48:45 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Mitchell Hashimoto",
+      "screen_name" : "mitchellh",
+      "indices" : [ 0, 10 ],
+      "id_str" : "12819682",
+      "id" : 12819682
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "307361264915595264",
+  "geo" : { },
+  "id_str" : "307367289097949184",
+  "in_reply_to_user_id" : 12819682,
+  "text" : "@mitchellh Yes! Shell has been so much more approachable when trying to learn from scratch.",
+  "id" : 307367289097949184,
+  "in_reply_to_status_id" : 307361264915595264,
+  "created_at" : "2013-03-01 05:50:46 +0000",
+  "in_reply_to_screen_name" : "mitchellh",
+  "in_reply_to_user_id_str" : "12819682",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Mitchell Hashimoto",
+      "screen_name" : "mitchellh",
+      "indices" : [ 3, 13 ],
+      "id_str" : "12819682",
+      "id" : 12819682
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "307366996486545408",
+  "text" : "RT @mitchellh: TIL quite a few people think you must use Vagrant with Chef. I think this is due to the getting started guide. Switching  ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "307361264915595264",
+    "text" : "TIL quite a few people think you must use Vagrant with Chef. I think this is due to the getting started guide. Switching to shell for 1.1.",
+    "id" : 307361264915595264,
+    "created_at" : "2013-03-01 05:26:50 +0000",
+    "user" : {
+      "name" : "Mitchell Hashimoto",
+      "screen_name" : "mitchellh",
+      "protected" : false,
+      "id_str" : "12819682",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2707460527\/252a64411a339184ff375a96fb68dcb0_normal.png",
+      "id" : 12819682,
+      "verified" : false
+    }
+  },
+  "id" : 307366996486545408,
+  "created_at" : "2013-03-01 05:49:37 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jake Goldman",
+      "screen_name" : "jakemgold",
+      "indices" : [ 15, 25 ],
+      "id_str" : "10672622",
+      "id" : 10672622
+    }, {
+      "name" : "Deschutes PDX Pub",
+      "screen_name" : "DeschutesPDXPub",
+      "indices" : [ 44, 60 ],
+      "id_str" : "259863561",
+      "id" : 259863561
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "team10up",
+      "indices" : [ 0, 9 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 74, 96 ],
+      "url" : "http:\/\/t.co\/uAOiH6z0Uu",
+      "expanded_url" : "http:\/\/4sq.com\/YD4g42",
+      "display_url" : "4sq.com\/YD4g42"
+    } ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 45.524542044, -122.6819497347 ]
+  },
+  "id_str" : "307303317581746176",
+  "text" : "#team10up with @jakemgold in the house! (at @deschutespdxpub w\/ 5 others) http:\/\/t.co\/uAOiH6z0Uu",
+  "id" : 307303317581746176,
+  "created_at" : "2013-03-01 01:36:34 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Bryan Witherwax",
+      "screen_name" : "tweeterwax",
+      "indices" : [ 0, 11 ],
+      "id_str" : "21047903",
+      "id" : 21047903
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "306955249720111104",
+  "geo" : { },
+  "id_str" : "307170126933925889",
+  "in_reply_to_user_id" : 21047903,
+  "text" : "@tweeterwax I knew that wasn't a real radiator shop!",
+  "id" : 307170126933925889,
+  "in_reply_to_status_id" : 306955249720111104,
+  "created_at" : "2013-02-28 16:47:19 +0000",
+  "in_reply_to_screen_name" : "tweeterwax",
+  "in_reply_to_user_id_str" : "21047903",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Samuel Wood (Otto)",
       "screen_name" : "Otto42",
@@ -213,7 +402,7 @@ Grailbird.data.tweets_2013_02 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1333,7 +1522,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "rboren",
       "protected" : false,
       "id_str" : "362383",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/457900295859601408\/neQzYA8g_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/500353332473389056\/U-NXTtNg_normal.jpeg",
       "id" : 362383,
       "verified" : false
     }
@@ -2874,7 +3063,7 @@ Grailbird.data.tweets_2013_02 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "A crystal ball",
@@ -3580,7 +3769,7 @@ Grailbird.data.tweets_2013_02 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3682,7 +3871,7 @@ Grailbird.data.tweets_2013_02 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4424,7 +4613,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "ellmcgirt",
       "protected" : false,
       "id_str" : "8406952",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/468780079078600705\/_nBJu7Vt_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/497094753637253120\/fpwi6e2m_normal.jpeg",
       "id" : 8406952,
       "verified" : true
     }
@@ -7518,7 +7707,7 @@ Grailbird.data.tweets_2013_02 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7981,180 +8170,6 @@ Grailbird.data.tweets_2013_02 =
   "text" : "Does @netflix know that these full screen iPad ads for House of Cards lead to a trailer that won\u2019t play? So weird. http:\/\/t.co\/9x9EW9wv",
   "id" : 297253063255785472,
   "created_at" : "2013-02-01 08:00:27 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "297207429970665472",
-  "text" : "The format of your file names really *does* matter. Go figure. :)",
-  "id" : 297207429970665472,
-  "created_at" : "2013-02-01 04:59:07 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "297201777630146562",
-  "text" : "Tries to get Jekyll working via brute force, wonders why it's not up after 10 minutes.",
-  "id" : 297201777630146562,
-  "created_at" : "2013-02-01 04:36:40 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Daniel Bachhuber",
-      "screen_name" : "danielbachhuber",
-      "indices" : [ 0, 16 ],
-      "id_str" : "272166936",
-      "id" : 272166936
-    }, {
-      "name" : "Zack Tollman",
-      "screen_name" : "tollmanz",
-      "indices" : [ 17, 26 ],
-      "id_str" : "335110427",
-      "id" : 335110427
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "297187087449477121",
-  "geo" : { },
-  "id_str" : "297188147584962560",
-  "in_reply_to_user_id" : 272166936,
-  "text" : "@danielbachhuber @tollmanz I am on board with this plan.",
-  "id" : 297188147584962560,
-  "in_reply_to_status_id" : 297187087449477121,
-  "created_at" : "2013-02-01 03:42:30 +0000",
-  "in_reply_to_screen_name" : "danielbachhuber",
-  "in_reply_to_user_id_str" : "272166936",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Skype",
-      "screen_name" : "Skype",
-      "indices" : [ 65, 71 ],
-      "id_str" : "2459371",
-      "id" : 2459371
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "297144020411506690",
-  "text" : "\"Your subscription will expire in days on Aug 2, 2013\" - Thanks, @Skype!",
-  "id" : 297144020411506690,
-  "created_at" : "2013-02-01 00:47:09 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Luke Woodward",
-      "screen_name" : "Lkwdwrd",
-      "indices" : [ 3, 11 ],
-      "id_str" : "552844848",
-      "id" : 552844848
-    }, {
-      "name" : "Jeremy Felt",
-      "screen_name" : "jeremyfelt",
-      "indices" : [ 114, 125 ],
-      "id_str" : "1741681",
-      "id" : 1741681
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "297044862400876544",
-  "text" : "RT @Lkwdwrd: Running vagrant up to start work in the morning makes me so much happier than MAMP ever did.\n\nThanks @jeremyfelt!",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Jeremy Felt",
-        "screen_name" : "jeremyfelt",
-        "indices" : [ 101, 112 ],
-        "id_str" : "1741681",
-        "id" : 1741681
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "297018375199137793",
-    "text" : "Running vagrant up to start work in the morning makes me so much happier than MAMP ever did.\n\nThanks @jeremyfelt!",
-    "id" : 297018375199137793,
-    "created_at" : "2013-01-31 16:27:53 +0000",
-    "user" : {
-      "name" : "Luke Woodward",
-      "screen_name" : "Lkwdwrd",
-      "protected" : false,
-      "id_str" : "552844848",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477886020923322369\/CEhqJJYJ_normal.jpeg",
-      "id" : 552844848,
-      "verified" : false
-    }
-  },
-  "id" : 297044862400876544,
-  "created_at" : "2013-01-31 18:13:08 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

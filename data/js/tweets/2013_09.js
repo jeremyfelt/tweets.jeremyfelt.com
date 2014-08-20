@@ -1,5 +1,49 @@
 Grailbird.data.tweets_2013_09 = 
  [ {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "384904276243263488",
+  "text" : "Pretty sure I just quadruple level upped my shirt folding game. Because it\u2019s a game.",
+  "id" : 384904276243263488,
+  "created_at" : "2013-10-01 04:55:05 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "384864956811718656",
+  "text" : "Yesterday we had a hawk hit our window. \n\nJust now we had two hawks start fighting in mid-air 20 feet above us.\n\nUniverse is cray.",
+  "id" : 384864956811718656,
+  "created_at" : "2013-10-01 02:18:50 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -567,7 +611,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "markoheijnen",
       "protected" : false,
       "id_str" : "41816908",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1162043618\/5153265841_179ff96e11_b_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/491959100326940672\/4P1BWho2_normal.png",
       "id" : 41816908,
       "verified" : false
     }
@@ -846,7 +890,7 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1211,7 +1255,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "ev",
       "protected" : false,
       "id_str" : "20",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000541049107\/3b6dcbd9c0182688457f372b40483e50_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/498602514775023619\/uRe4YdeQ_normal.jpeg",
       "id" : 20,
       "verified" : true
     }
@@ -2945,7 +2989,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "14763721",
       "id" : 14763721
     }, {
-      "name" : "Matt Haughey \u1555( \u141B )\u1557",
+      "name" : "Matt Haughey",
       "screen_name" : "mathowie",
       "indices" : [ 45, 54 ],
       "id_str" : "761975",
@@ -2977,7 +3021,7 @@ Grailbird.data.tweets_2013_09 =
         "id_str" : "14763721",
         "id" : 14763721
       }, {
-        "name" : "Matt Haughey \u1555( \u141B )\u1557",
+        "name" : "Matt Haughey",
         "screen_name" : "mathowie",
         "indices" : [ 31, 40 ],
         "id_str" : "761975",
@@ -3298,7 +3342,7 @@ Grailbird.data.tweets_2013_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Crimson & Gray",
@@ -4053,7 +4097,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Angelina Fabbro",
+      "name" : "ok",
       "screen_name" : "angelinamagnum",
       "indices" : [ 3, 18 ],
       "id_str" : "58708498",
@@ -4102,7 +4146,7 @@ Grailbird.data.tweets_2013_09 =
     "id" : 380855255472164864,
     "created_at" : "2013-09-20 00:45:43 +0000",
     "user" : {
-      "name" : "Angelina Fabbro",
+      "name" : "ok",
       "screen_name" : "angelinamagnum",
       "protected" : false,
       "id_str" : "58708498",
@@ -6892,7 +6936,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451536931013140480\/X30xZjxY_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/498503236265848833\/LFjZ6YyQ_normal.jpeg",
       "id" : 18713,
       "verified" : false
     }

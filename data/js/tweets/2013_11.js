@@ -2322,7 +2322,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "wsmagazine",
       "protected" : false,
       "id_str" : "20574680",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/461923252583927809\/O0mc-wP-_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/494889743444742144\/Vrvdxe9e_normal.jpeg",
       "id" : 20574680,
       "verified" : false
     }
@@ -3939,7 +3939,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "ArianFoster",
       "protected" : false,
       "id_str" : "110839423",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484897627712942080\/qE1dpTBw_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/491935983638548480\/H1IAgYPj_normal.jpeg",
       "id" : 110839423,
       "verified" : true
     }
@@ -5108,7 +5108,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Angelina Fabbro",
+      "name" : "ok",
       "screen_name" : "angelinamagnum",
       "indices" : [ 3, 18 ],
       "id_str" : "58708498",
@@ -5157,7 +5157,7 @@ Grailbird.data.tweets_2013_11 =
     "id" : 402120784505618433,
     "created_at" : "2013-11-17 17:07:20 +0000",
     "user" : {
-      "name" : "Angelina Fabbro",
+      "name" : "ok",
       "screen_name" : "angelinamagnum",
       "protected" : false,
       "id_str" : "58708498",
@@ -5429,7 +5429,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "Jaffe75",
       "protected" : false,
       "id_str" : "138816363",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/478973985372123136\/9BytkG-I_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/500331056428359680\/npyP78Ht_normal.jpeg",
       "id" : 138816363,
       "verified" : false
     }
@@ -7786,7 +7786,7 @@ Grailbird.data.tweets_2013_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Michelle Felt",
@@ -9472,7 +9472,7 @@ Grailbird.data.tweets_2013_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -11351,212 +11351,6 @@ Grailbird.data.tweets_2013_11 =
   "created_at" : "2013-11-01 14:31:22 +0000",
   "in_reply_to_screen_name" : "simonwheatley",
   "in_reply_to_user_id_str" : "4371541",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Tim O'Reilly",
-      "screen_name" : "timoreilly",
-      "indices" : [ 3, 14 ],
-      "id_str" : "2384071",
-      "id" : 2384071
-    }, {
-      "name" : "Slashdot",
-      "screen_name" : "slashdot",
-      "indices" : [ 94, 103 ],
-      "id_str" : "1068831",
-      "id" : 1068831
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 67, 89 ],
-      "url" : "http:\/\/t.co\/MgZBS7tyFI",
-      "expanded_url" : "http:\/\/wrd.cm\/16qPINB",
-      "display_url" : "wrd.cm\/16qPINB"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "396137970341642240",
-  "text" : "RT @timoreilly: Cool idea: MIT Wristband Is a Personal Climatizer  http:\/\/t.co\/MgZBS7tyFI via @slashdot",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Slashdot",
-        "screen_name" : "slashdot",
-        "indices" : [ 78, 87 ],
-        "id_str" : "1068831",
-        "id" : 1068831
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 51, 73 ],
-        "url" : "http:\/\/t.co\/MgZBS7tyFI",
-        "expanded_url" : "http:\/\/wrd.cm\/16qPINB",
-        "display_url" : "wrd.cm\/16qPINB"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "396133927535923200",
-    "text" : "Cool idea: MIT Wristband Is a Personal Climatizer  http:\/\/t.co\/MgZBS7tyFI via @slashdot",
-    "id" : 396133927535923200,
-    "created_at" : "2013-11-01 04:37:42 +0000",
-    "user" : {
-      "name" : "Tim O'Reilly",
-      "screen_name" : "timoreilly",
-      "protected" : false,
-      "id_str" : "2384071",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2823681988\/f4f6f2bed8ab4d5a48dea4b9ea85d5f1_normal.jpeg",
-      "id" : 2384071,
-      "verified" : true
-    }
-  },
-  "id" : 396137970341642240,
-  "created_at" : "2013-11-01 04:53:46 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Patrick Stewart",
-      "screen_name" : "SirPatStew",
-      "indices" : [ 3, 14 ],
-      "id_str" : "602317143",
-      "id" : 602317143
-    } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/SirPatStew\/status\/395960502083276801\/photo\/1",
-      "indices" : [ 33, 55 ],
-      "url" : "http:\/\/t.co\/ugLBMzAeNF",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BX67-ogCIAA9eg7.jpg",
-      "id_str" : "395960501953241088",
-      "id" : 395960501953241088,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BX67-ogCIAA9eg7.jpg",
-      "sizes" : [ {
-        "h" : 1024,
-        "resize" : "fit",
-        "w" : 768
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 453,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 800,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 1024,
-        "resize" : "fit",
-        "w" : 768
-      } ],
-      "display_url" : "pic.twitter.com\/ugLBMzAeNF"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "396075067097894912",
-  "text" : "RT @SirPatStew: Happy Halloween. http:\/\/t.co\/ugLBMzAeNF",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/SirPatStew\/status\/395960502083276801\/photo\/1",
-        "indices" : [ 17, 39 ],
-        "url" : "http:\/\/t.co\/ugLBMzAeNF",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BX67-ogCIAA9eg7.jpg",
-        "id_str" : "395960501953241088",
-        "id" : 395960501953241088,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BX67-ogCIAA9eg7.jpg",
-        "sizes" : [ {
-          "h" : 1024,
-          "resize" : "fit",
-          "w" : 768
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 453,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 800,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 1024,
-          "resize" : "fit",
-          "w" : 768
-        } ],
-        "display_url" : "pic.twitter.com\/ugLBMzAeNF"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "395960502083276801",
-    "text" : "Happy Halloween. http:\/\/t.co\/ugLBMzAeNF",
-    "id" : 395960502083276801,
-    "created_at" : "2013-10-31 17:08:34 +0000",
-    "user" : {
-      "name" : "Patrick Stewart",
-      "screen_name" : "SirPatStew",
-      "protected" : false,
-      "id_str" : "602317143",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2426849993\/9qnn5my52akyrly2kj98_normal.jpeg",
-      "id" : 602317143,
-      "verified" : true
-    }
-  },
-  "id" : 396075067097894912,
-  "created_at" : "2013-11-01 00:43:49 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "396016713340166144",
-  "text" : "It's pretty awesome that I just corrected the clock on the coffee maker two days before DST ends.",
-  "id" : 396016713340166144,
-  "created_at" : "2013-10-31 20:51:56 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

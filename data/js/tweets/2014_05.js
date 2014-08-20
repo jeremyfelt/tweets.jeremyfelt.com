@@ -4045,7 +4045,7 @@ Grailbird.data.tweets_2014_05 =
       "id_str" : "15908706",
       "id" : 15908706
     }, {
-      "name" : "Scott Taylor",
+      "name" : "K. Andy Nacin",
       "screen_name" : "wonderboymusic",
       "indices" : [ 22, 37 ],
       "id_str" : "15473031",
@@ -4073,7 +4073,7 @@ Grailbird.data.tweets_2014_05 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Scott Taylor",
+        "name" : "K. Andy Nacin",
         "screen_name" : "wonderboymusic",
         "indices" : [ 13, 28 ],
         "id_str" : "15473031",
@@ -4507,7 +4507,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scott Taylor",
+      "name" : "$cott",
       "screen_name" : "wonderboymusic",
       "indices" : [ 15, 30 ],
       "id_str" : "15473031",

@@ -3,6 +3,83 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/jeremyfelt\/status\/153203459133419520\/photo\/1",
+      "indices" : [ 92, 112 ],
+      "url" : "http:\/\/t.co\/iRdCOoLy",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/AiBJvACCMAAnZz-.png",
+      "id_str" : "153203459141808128",
+      "id" : 153203459141808128,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AiBJvACCMAAnZz-.png",
+      "sizes" : [ {
+        "h" : 110,
+        "resize" : "fit",
+        "w" : 291
+      }, {
+        "h" : 110,
+        "resize" : "fit",
+        "w" : 291
+      }, {
+        "h" : 110,
+        "resize" : "fit",
+        "w" : 291
+      }, {
+        "h" : 110,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 110,
+        "resize" : "fit",
+        "w" : 291
+      } ],
+      "display_url" : "pic.twitter.com\/iRdCOoLy"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "153203459133419520",
+  "text" : "Facebook is asking if photos in an album titled Stonehenge were taken in England, Arkansas. http:\/\/t.co\/iRdCOoLy",
+  "id" : 153203459133419520,
+  "created_at" : "2011-12-31 19:58:46 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "randomshotinthetwitterdark",
+      "indices" : [ 81, 108 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "153198188512292864",
+  "text" : "Any word on a shoe shine stand in downtown PDX open today before I go buy a kit? #randomshotinthetwitterdark",
+  "id" : 153198188512292864,
+  "created_at" : "2011-12-31 19:37:49 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

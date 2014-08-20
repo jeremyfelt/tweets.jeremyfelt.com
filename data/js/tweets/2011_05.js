@@ -599,7 +599,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : " peter clark",
+      "name" : "plc",
       "screen_name" : "plc",
       "indices" : [ 14, 18 ],
       "id_str" : "5029791",
