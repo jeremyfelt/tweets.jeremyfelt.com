@@ -334,7 +334,7 @@ Grailbird.data.tweets_2013_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/untappd.com\" rel=\"nofollow\"\u003EUntappd\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/untappd.com\" rel=\"nofollow\"\u003EUntappd\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Deschutes Brewery",
@@ -1225,7 +1225,7 @@ Grailbird.data.tweets_2013_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/untappd.com\" rel=\"nofollow\"\u003EUntappd\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/untappd.com\" rel=\"nofollow\"\u003EUntappd\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Odin Brewing Company",
@@ -3794,7 +3794,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/462463741334810624\/sCiRFelL_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/505551432880488448\/kGi4McS8_normal.jpeg",
       "id" : 21204689,
       "verified" : false
     }
@@ -3939,7 +3939,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "ArianFoster",
       "protected" : false,
       "id_str" : "110839423",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/491935983638548480\/H1IAgYPj_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/506041806728232960\/Mygw4JFP_normal.jpeg",
       "id" : 110839423,
       "verified" : true
     }
@@ -4735,7 +4735,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "BoingBoing",
       "protected" : false,
       "id_str" : "5971922",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3096579761\/a3c23a9715fe1add47f17e2ae101f53f_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/504445056237842432\/PxYzLwez_normal.png",
       "id" : 5971922,
       "verified" : true
     }
@@ -5108,7 +5108,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ok",
+      "name" : "Angelina Fabbro",
       "screen_name" : "angelinamagnum",
       "indices" : [ 3, 18 ],
       "id_str" : "58708498",
@@ -5157,7 +5157,7 @@ Grailbird.data.tweets_2013_11 =
     "id" : 402120784505618433,
     "created_at" : "2013-11-17 17:07:20 +0000",
     "user" : {
-      "name" : "ok",
+      "name" : "Angelina Fabbro",
       "screen_name" : "angelinamagnum",
       "protected" : false,
       "id_str" : "58708498",
@@ -7878,7 +7878,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/462463741334810624\/sCiRFelL_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/505551432880488448\/kGi4McS8_normal.jpeg",
       "id" : 21204689,
       "verified" : false
     }
@@ -7953,7 +7953,7 @@ Grailbird.data.tweets_2013_11 =
       "id_str" : "17673012",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/461720239235796992\/Wd1FA_pU_normal.jpeg",
       "id" : 17673012,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 399412513688674304,

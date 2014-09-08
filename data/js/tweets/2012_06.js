@@ -3652,7 +3652,7 @@ Grailbird.data.tweets_2012_06 =
       "id_str" : "16213079",
       "id" : 16213079
     }, {
-      "name" : "Keri Kae Nacin",
+      "name" : "Keri Kae Nacin, CFRE",
       "screen_name" : "kerikaeindc",
       "indices" : [ 7, 19 ],
       "id_str" : "17083778",

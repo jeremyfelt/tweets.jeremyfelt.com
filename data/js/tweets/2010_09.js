@@ -2704,7 +2704,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "acarvin",
       "protected" : false,
       "id_str" : "778057",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/462931239855337472\/4NrByYB8_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/506868547297886208\/oaBqJ1Fp_normal.jpeg",
       "id" : 778057,
       "verified" : true
     }
@@ -3758,7 +3758,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "jack",
       "protected" : false,
       "id_str" : "12",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/499180142590042112\/zS-BFOYS_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/503321969224204288\/Xu_12TGU_normal.jpeg",
       "id" : 12,
       "verified" : true
     }

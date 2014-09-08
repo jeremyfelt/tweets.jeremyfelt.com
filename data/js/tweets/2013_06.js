@@ -1355,7 +1355,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "JS_Zao",
       "protected" : false,
       "id_str" : "27740025",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1110789571\/S_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/504862660152668161\/RBfRQdyP_normal.jpeg",
       "id" : 27740025,
       "verified" : false
     }
@@ -1691,7 +1691,7 @@ Grailbird.data.tweets_2013_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/untappd.com\" rel=\"nofollow\"\u003EUntappd\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/untappd.com\" rel=\"nofollow\"\u003EUntappd\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Goose Island Brewpub",
@@ -2020,7 +2020,7 @@ Grailbird.data.tweets_2013_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/untappd.com\" rel=\"nofollow\"\u003EUntappd\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/untappd.com\" rel=\"nofollow\"\u003EUntappd\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Goose Island Brewpub",
@@ -4337,7 +4337,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "JS_Zao",
       "protected" : false,
       "id_str" : "27740025",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1110789571\/S_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/504862660152668161\/RBfRQdyP_normal.jpeg",
       "id" : 27740025,
       "verified" : false
     }
@@ -4718,7 +4718,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/462463741334810624\/sCiRFelL_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/505551432880488448\/kGi4McS8_normal.jpeg",
       "id" : 21204689,
       "verified" : false
     }
@@ -5394,7 +5394,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ok",
+      "name" : "Angelina Fabbro",
       "screen_name" : "angelinamagnum",
       "indices" : [ 90, 105 ],
       "id_str" : "58708498",
@@ -6730,7 +6730,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/462463741334810624\/sCiRFelL_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/505551432880488448\/kGi4McS8_normal.jpeg",
       "id" : 21204689,
       "verified" : false
     }
@@ -9528,7 +9528,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "necolas",
       "protected" : false,
       "id_str" : "24974216",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000746054514\/cdaa6db20293e4072ba46a44461276eb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/502221176303677441\/GSqbi_0I_normal.jpeg",
       "id" : 24974216,
       "verified" : false
     }

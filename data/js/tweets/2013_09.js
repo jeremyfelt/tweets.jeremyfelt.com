@@ -2319,7 +2319,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "JS_Zao",
       "protected" : false,
       "id_str" : "27740025",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1110789571\/S_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/504862660152668161\/RBfRQdyP_normal.jpeg",
       "id" : 27740025,
       "verified" : false
     }
@@ -4097,7 +4097,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ok",
+      "name" : "Angelina Fabbro",
       "screen_name" : "angelinamagnum",
       "indices" : [ 3, 18 ],
       "id_str" : "58708498",
@@ -4146,7 +4146,7 @@ Grailbird.data.tweets_2013_09 =
     "id" : 380855255472164864,
     "created_at" : "2013-09-20 00:45:43 +0000",
     "user" : {
-      "name" : "ok",
+      "name" : "Angelina Fabbro",
       "screen_name" : "angelinamagnum",
       "protected" : false,
       "id_str" : "58708498",

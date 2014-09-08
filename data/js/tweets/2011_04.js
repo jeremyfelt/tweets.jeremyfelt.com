@@ -1019,7 +1019,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "joelhousman",
       "protected" : false,
       "id_str" : "685763",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477799893856038912\/DvZkhCFL_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/504008698277011457\/nNEfTapw_normal.jpeg",
       "id" : 685763,
       "verified" : false
     }

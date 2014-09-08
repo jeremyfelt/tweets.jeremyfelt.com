@@ -1036,7 +1036,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shenoa *stands up*",
+      "name" : "Shenoa *away*",
       "screen_name" : "ShenoaLawrence",
       "indices" : [ 3, 18 ],
       "id_str" : "37127416",
@@ -1141,7 +1141,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 483002282649206784,
     "created_at" : "2014-06-28 21:41:32 +0000",
     "user" : {
-      "name" : "Shenoa *stands up*",
+      "name" : "Shenoa *away*",
       "screen_name" : "ShenoaLawrence",
       "protected" : false,
       "id_str" : "37127416",
@@ -9360,7 +9360,7 @@ Grailbird.data.tweets_2014_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/untappd.com\" rel=\"nofollow\"\u003EUntappd\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/untappd.com\" rel=\"nofollow\"\u003EUntappd\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Yuengling Brewery ",
@@ -11132,7 +11132,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "BenBalter",
       "protected" : false,
       "id_str" : "16211142",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/493249125169647616\/qMMoLpN7_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/504989503564443648\/rWZu4dnD_normal.jpeg",
       "id" : 16211142,
       "verified" : false
     }

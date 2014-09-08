@@ -4172,7 +4172,7 @@ Grailbird.data.tweets_2013_04 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/untappd.com\" rel=\"nofollow\"\u003EUntappd\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/untappd.com\" rel=\"nofollow\"\u003EUntappd\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Breakside Brewery",
@@ -4720,7 +4720,7 @@ Grailbird.data.tweets_2013_04 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/untappd.com\" rel=\"nofollow\"\u003EUntappd\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/untappd.com\" rel=\"nofollow\"\u003EUntappd\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Base Camp Brewing Co",
@@ -8732,7 +8732,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/462463741334810624\/sCiRFelL_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/505551432880488448\/kGi4McS8_normal.jpeg",
       "id" : 21204689,
       "verified" : false
     }
@@ -9052,7 +9052,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "bittman",
       "protected" : false,
       "id_str" : "20778387",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/444878467721482240\/QpeoNoKv_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/502825965811007488\/WxXw0fZA_normal.jpeg",
       "id" : 20778387,
       "verified" : true
     }
@@ -9478,7 +9478,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ireland \/ Roxanna",
+      "name" : "Ireland \/ Kate",
       "screen_name" : "ireland",
       "indices" : [ 3, 11 ],
       "id_str" : "1143551",
@@ -9565,11 +9565,11 @@ Grailbird.data.tweets_2013_04 =
     "id" : 318863079725228033,
     "created_at" : "2013-04-01 23:10:57 +0000",
     "user" : {
-      "name" : "Ireland \/ Roxanna",
+      "name" : "Ireland \/ Kate",
       "screen_name" : "ireland",
       "protected" : false,
       "id_str" : "1143551",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/501160939471646721\/wcPORL8u_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/506209607258091521\/IjCSsnfF_normal.png",
       "id" : 1143551,
       "verified" : false
     }
@@ -9589,7 +9589,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ireland \/ Roxanna",
+      "name" : "Ireland \/ Kate",
       "screen_name" : "ireland",
       "indices" : [ 0, 8 ],
       "id_str" : "1143551",
@@ -9663,7 +9663,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "CarterRabasa",
       "protected" : false,
       "id_str" : "89318473",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/495658193482416128\/3U2tqOM8_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/503951466311057410\/KKKByTp3_normal.jpeg",
       "id" : 89318473,
       "verified" : false
     }

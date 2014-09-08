@@ -1279,7 +1279,7 @@ Grailbird.data.tweets_2014_02 =
       "screen_name" : "JS_Zao",
       "protected" : false,
       "id_str" : "27740025",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1110789571\/S_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/504862660152668161\/RBfRQdyP_normal.jpeg",
       "id" : 27740025,
       "verified" : false
     }
@@ -4049,7 +4049,7 @@ Grailbird.data.tweets_2014_02 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/462463741334810624\/sCiRFelL_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/505551432880488448\/kGi4McS8_normal.jpeg",
       "id" : 21204689,
       "verified" : false
     }
@@ -4739,7 +4739,7 @@ Grailbird.data.tweets_2014_02 =
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/498998080872538112\/sLnE8rmj_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/507308738554773504\/N3k8yDZi_normal.jpeg",
       "id" : 767,
       "verified" : true
     }
@@ -5207,7 +5207,7 @@ Grailbird.data.tweets_2014_02 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/462463741334810624\/sCiRFelL_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/505551432880488448\/kGi4McS8_normal.jpeg",
       "id" : 21204689,
       "verified" : false
     }
@@ -5630,37 +5630,7 @@ Grailbird.data.tweets_2014_02 =
       "id_str" : "14352556",
       "id" : 14352556
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/seattletimes\/status\/430172701106253824\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/gBx4I7VlUf",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BfhHyuICMAAJPlI.jpg",
-      "id_str" : "430172701114642432",
-      "id" : 430172701114642432,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BfhHyuICMAAJPlI.jpg",
-      "sizes" : [ {
-        "h" : 428,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 243,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 714,
-        "resize" : "fit",
-        "w" : 1000
-      }, {
-        "h" : 714,
-        "resize" : "fit",
-        "w" : 1000
-      } ],
-      "display_url" : "pic.twitter.com\/gBx4I7VlUf"
-    } ],
+    "media" : [ ],
     "hashtags" : [ {
       "text" : "SB48",
       "indices" : [ 130, 135 ]
@@ -5679,37 +5649,7 @@ Grailbird.data.tweets_2014_02 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/seattletimes\/status\/430172701106253824\/photo\/1",
-        "indices" : [ 118, 140 ],
-        "url" : "http:\/\/t.co\/gBx4I7VlUf",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BfhHyuICMAAJPlI.jpg",
-        "id_str" : "430172701114642432",
-        "id" : 430172701114642432,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BfhHyuICMAAJPlI.jpg",
-        "sizes" : [ {
-          "h" : 428,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 243,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 714,
-          "resize" : "fit",
-          "w" : 1000
-        }, {
-          "h" : 714,
-          "resize" : "fit",
-          "w" : 1000
-        } ],
-        "display_url" : "pic.twitter.com\/gBx4I7VlUf"
-      } ],
+      "media" : [ ],
       "hashtags" : [ {
         "text" : "SB48",
         "indices" : [ 112, 117 ]
@@ -6021,7 +5961,7 @@ Grailbird.data.tweets_2014_02 =
       "screen_name" : "mathowie",
       "protected" : false,
       "id_str" : "761975",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477343679107985408\/d1EhVCcQ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/507269970305118208\/CEHCYAZ0_normal.jpeg",
       "id" : 761975,
       "verified" : false
     }

@@ -2275,7 +2275,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "technosailor",
       "protected" : false,
       "id_str" : "789158",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/496112419102416896\/9txIK1sB_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/505847567683686400\/T2DG6ks5_normal.jpeg",
       "id" : 789158,
       "verified" : false
     }

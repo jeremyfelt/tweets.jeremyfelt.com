@@ -857,7 +857,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/462463741334810624\/sCiRFelL_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/505551432880488448\/kGi4McS8_normal.jpeg",
       "id" : 21204689,
       "verified" : false
     }
@@ -1972,7 +1972,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@sweden \/ Kent",
+      "name" : "@sweden \/ Anna",
       "screen_name" : "sweden",
       "indices" : [ 3, 10 ],
       "id_str" : "19663706",
@@ -1999,11 +1999,11 @@ Grailbird.data.tweets_2012_09 =
     "id" : 247404378800140288,
     "created_at" : "2012-09-16 18:39:35 +0000",
     "user" : {
-      "name" : "@sweden \/ Kent",
+      "name" : "@sweden \/ Anna",
       "screen_name" : "sweden",
       "protected" : false,
       "id_str" : "19663706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/501269831308427264\/NgyasxnX_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/506338786494513152\/9YVn0mXJ_normal.png",
       "id" : 19663706,
       "verified" : false
     }
@@ -5110,7 +5110,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "783214",
       "id" : 783214
     }, {
-      "name" : "@sweden \/ Kent",
+      "name" : "@sweden \/ Anna",
       "screen_name" : "sweden",
       "indices" : [ 42, 49 ],
       "id_str" : "19663706",
@@ -5238,7 +5238,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "auteurian",
       "protected" : false,
       "id_str" : "38790060",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/495196766191353856\/iPyRrGba_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/506320974162042880\/l9mtlJ6T_normal.jpeg",
       "id" : 38790060,
       "verified" : false
     }
