@@ -1404,7 +1404,7 @@ Grailbird.data.tweets_2009_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne",
+      "name" : "Unmanageable Payne",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -1431,11 +1431,11 @@ Grailbird.data.tweets_2009_12 =
     "id" : 6313327688,
     "created_at" : "2009-12-03 20:00:16 +0000",
     "user" : {
-      "name" : "Alex Payne",
+      "name" : "Unmanageable Payne",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/498503236265848833\/LFjZ6YyQ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/513088789585993728\/s1DnFxP6_normal.jpeg",
       "id" : 18713,
       "verified" : false
     }

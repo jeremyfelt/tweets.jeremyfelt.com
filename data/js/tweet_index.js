@@ -1,8 +1,14 @@
 var tweet_index =  [ {
+  "file_name" : "data\/js\/tweets\/2014_10.js",
+  "year" : 2014,
+  "var_name" : "tweets_2014_10",
+  "tweet_count" : 29,
+  "month" : 10
+}, {
   "file_name" : "data\/js\/tweets\/2014_09.js",
   "year" : 2014,
   "var_name" : "tweets_2014_09",
-  "tweet_count" : 12,
+  "tweet_count" : 178,
   "month" : 9
 }, {
   "file_name" : "data\/js\/tweets\/2014_08.js",
@@ -26,7 +32,7 @@ var tweet_index =  [ {
   "file_name" : "data\/js\/tweets\/2014_05.js",
   "year" : 2014,
   "var_name" : "tweets_2014_05",
-  "tweet_count" : 184,
+  "tweet_count" : 183,
   "month" : 5
 }, {
   "file_name" : "data\/js\/tweets\/2014_04.js",

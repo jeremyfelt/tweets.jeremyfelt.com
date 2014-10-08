@@ -809,7 +809,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne",
+      "name" : "Unmanageable Payne",
       "screen_name" : "al3x",
       "indices" : [ 0, 5 ],
       "id_str" : "18713",
@@ -1541,7 +1541,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne",
+      "name" : "Unmanageable Payne",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -1568,11 +1568,11 @@ Grailbird.data.tweets_2011_06 =
     "id" : 85528159373623298,
     "created_at" : "2011-06-28 02:01:16 +0000",
     "user" : {
-      "name" : "Alex Payne",
+      "name" : "Unmanageable Payne",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/498503236265848833\/LFjZ6YyQ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/513088789585993728\/s1DnFxP6_normal.jpeg",
       "id" : 18713,
       "verified" : false
     }
@@ -1707,7 +1707,7 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "818340",
       "id" : 818340
     }, {
-      "name" : "Patrick LaForge",
+      "name" : "Patrick LaForge, NYT",
       "screen_name" : "palafo",
       "indices" : [ 42, 49 ],
       "id_str" : "2020351",
@@ -2152,7 +2152,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "acarvin",
       "protected" : false,
       "id_str" : "778057",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/506868547297886208\/oaBqJ1Fp_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/509337318793048064\/_3srb_Vd_normal.jpeg",
       "id" : 778057,
       "verified" : true
     }
@@ -4576,7 +4576,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "ryantate",
       "protected" : false,
       "id_str" : "2128391",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/498260300873740290\/q3qyUsIc_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/512408904693583872\/adqYpEzh_normal.jpeg",
       "id" : 2128391,
       "verified" : false
     }

@@ -1351,25 +1351,16 @@ Grailbird.data.tweets_2009_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Pedro",
-      "screen_name" : "medecau",
-      "indices" : [ 0, 8 ],
-      "id_str" : "10887202",
-      "id" : 10887202
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "4374375526",
-  "in_reply_to_user_id" : 10887202,
   "text" : "@medecau getting \"protocol not supported\" when trying to subscribe to a feed via rssgrandcentral with http-post",
   "id" : 4374375526,
   "created_at" : "2009-09-25 00:00:00 +0000",
-  "in_reply_to_screen_name" : "medecau",
-  "in_reply_to_user_id_str" : "10887202",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1382,25 +1373,16 @@ Grailbird.data.tweets_2009_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Pedro",
-      "screen_name" : "medecau",
-      "indices" : [ 0, 8 ],
-      "id_str" : "10887202",
-      "id" : 10887202
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "4374574133",
-  "in_reply_to_user_id" : 10887202,
   "text" : "@medecau Nope, My Status Cloud :)",
   "id" : 4374574133,
   "created_at" : "2009-09-25 00:00:00 +0000",
-  "in_reply_to_screen_name" : "medecau",
-  "in_reply_to_user_id_str" : "10887202",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2802,7 +2784,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hugh MacLeod",
+      "name" : "Hugh MacLeod ",
       "screen_name" : "gapingvoid",
       "indices" : [ 16, 27 ],
       "id_str" : "50193",

@@ -1686,7 +1686,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "dougw",
       "protected" : false,
       "id_str" : "1401881",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1947332700\/dougw_avatar_can2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/517264387581956098\/EkmZ-B0S_normal.jpeg",
       "id" : 1401881,
       "verified" : false
     }

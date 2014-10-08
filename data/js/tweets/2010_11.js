@@ -1764,7 +1764,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "lachlan",
       "protected" : false,
       "id_str" : "15742985",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/427184798918914048\/rXz3uNYJ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/513705702259716096\/B6zQfE4v_normal.jpeg",
       "id" : 15742985,
       "verified" : false
     }
@@ -2187,7 +2187,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ladama",
+      "name" : "Ladamua-ah-ah-ah-ah",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -3425,7 +3425,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "Schwarzenegger",
       "protected" : false,
       "id_str" : "12044602",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/432948090199220224\/5a0-AuoQ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/513792243275034625\/5mqGh801_normal.jpeg",
       "id" : 12044602,
       "verified" : true
     }

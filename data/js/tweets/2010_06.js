@@ -801,7 +801,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick LaForge",
+      "name" : "Patrick LaForge, NYT",
       "screen_name" : "palafo",
       "indices" : [ 3, 10 ],
       "id_str" : "2020351",
@@ -840,7 +840,7 @@ Grailbird.data.tweets_2010_06 =
     "id" : 17169239818,
     "created_at" : "2010-06-27 14:42:17 +0000",
     "user" : {
-      "name" : "Patrick LaForge",
+      "name" : "Patrick LaForge, NYT",
       "screen_name" : "palafo",
       "protected" : false,
       "id_str" : "2020351",
@@ -2584,7 +2584,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "acarvin",
       "protected" : false,
       "id_str" : "778057",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/506868547297886208\/oaBqJ1Fp_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/509337318793048064\/_3srb_Vd_normal.jpeg",
       "id" : 778057,
       "verified" : true
     }
@@ -3930,7 +3930,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne",
+      "name" : "Unmanageable Payne",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -3957,11 +3957,11 @@ Grailbird.data.tweets_2010_06 =
     "id" : 15801693813,
     "created_at" : "2010-06-09 20:53:54 +0000",
     "user" : {
-      "name" : "Alex Payne",
+      "name" : "Unmanageable Payne",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/498503236265848833\/LFjZ6YyQ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/513088789585993728\/s1DnFxP6_normal.jpeg",
       "id" : 18713,
       "verified" : false
     }
@@ -4261,7 +4261,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "cubanalaf",
       "protected" : false,
       "id_str" : "15377897",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/499557505064632322\/tU9618jj_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/519596392667312128\/-lBvYsXd_normal.jpeg",
       "id" : 15377897,
       "verified" : false
     }
@@ -4629,8 +4629,8 @@ Grailbird.data.tweets_2010_06 =
       "name" : "The Caucus",
       "screen_name" : "thecaucus",
       "indices" : [ 66, 76 ],
-      "id_str" : "14434063",
-      "id" : 14434063
+      "id_str" : "2771285805",
+      "id" : 2771285805
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4646,8 +4646,8 @@ Grailbird.data.tweets_2010_06 =
         "name" : "The Caucus",
         "screen_name" : "thecaucus",
         "indices" : [ 48, 58 ],
-        "id_str" : "14434063",
-        "id" : 14434063
+        "id_str" : "2771285805",
+        "id" : 2771285805
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -4897,7 +4897,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "NiemanLab",
       "protected" : false,
       "id_str" : "15865878",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/208769717\/TwitterNgood_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/512664555827126272\/pzZXwZC8_normal.jpeg",
       "id" : 15865878,
       "verified" : true
     }

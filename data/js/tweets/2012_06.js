@@ -2443,10 +2443,6 @@ Grailbird.data.tweets_2012_06 =
         "resize" : "fit",
         "w" : 1024
       }, {
-        "h" : 254,
-        "resize" : "fit",
-        "w" : 340
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -2458,6 +2454,10 @@ Grailbird.data.tweets_2012_06 =
         "h" : 765,
         "resize" : "fit",
         "w" : 1024
+      }, {
+        "h" : 254,
+        "resize" : "fit",
+        "w" : 340
       } ],
       "display_url" : "pic.twitter.com\/r11c8FaT"
     } ],
@@ -2487,10 +2487,6 @@ Grailbird.data.tweets_2012_06 =
           "resize" : "fit",
           "w" : 1024
         }, {
-          "h" : 254,
-          "resize" : "fit",
-          "w" : 340
-        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
@@ -2502,6 +2498,10 @@ Grailbird.data.tweets_2012_06 =
           "h" : 765,
           "resize" : "fit",
           "w" : 1024
+        }, {
+          "h" : 254,
+          "resize" : "fit",
+          "w" : 340
         } ],
         "display_url" : "pic.twitter.com\/r11c8FaT"
       } ],
@@ -2629,21 +2629,21 @@ Grailbird.data.tweets_2012_06 =
       "id" : 210892536837971968,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Au09pRgCIAAHCgj.jpg",
       "sizes" : [ {
-        "h" : 1365,
+        "h" : 453,
         "resize" : "fit",
-        "w" : 1024
+        "w" : 340
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 453,
-        "resize" : "fit",
-        "w" : 340
-      }, {
         "h" : 800,
         "resize" : "fit",
         "w" : 600
+      }, {
+        "h" : 1365,
+        "resize" : "fit",
+        "w" : 1024
       }, {
         "h" : 2048,
         "resize" : "fit",
@@ -2814,21 +2814,21 @@ Grailbird.data.tweets_2012_06 =
       "id" : 210727587981430784,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Auynn_ICEAAPxf0.jpg",
       "sizes" : [ {
-        "h" : 1365,
+        "h" : 453,
         "resize" : "fit",
-        "w" : 1024
+        "w" : 340
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 453,
-        "resize" : "fit",
-        "w" : 340
-      }, {
         "h" : 800,
         "resize" : "fit",
         "w" : 600
+      }, {
+        "h" : 1365,
+        "resize" : "fit",
+        "w" : 1024
       }, {
         "h" : 2048,
         "resize" : "fit",

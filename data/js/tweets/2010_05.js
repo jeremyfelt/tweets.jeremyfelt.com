@@ -880,7 +880,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick LaForge",
+      "name" : "Patrick LaForge, NYT",
       "screen_name" : "palafo",
       "indices" : [ 3, 10 ],
       "id_str" : "2020351",
@@ -925,7 +925,7 @@ Grailbird.data.tweets_2010_05 =
     "id" : 14475851571,
     "created_at" : "2010-05-22 05:11:51 +0000",
     "user" : {
-      "name" : "Patrick LaForge",
+      "name" : "Patrick LaForge, NYT",
       "screen_name" : "palafo",
       "protected" : false,
       "id_str" : "2020351",
@@ -1390,7 +1390,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "brianboyer",
       "protected" : false,
       "id_str" : "14570738",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/479321376466030592\/lszKuYPy_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/508121738140319744\/Ff_UFtbA_normal.png",
       "id" : 14570738,
       "verified" : true
     }
@@ -1806,7 +1806,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne",
+      "name" : "Unmanageable Payne",
       "screen_name" : "al3x",
       "indices" : [ 10, 15 ],
       "id_str" : "18713",
@@ -1887,7 +1887,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "BR3NDA",
       "protected" : false,
       "id_str" : "778337",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/498049751372136448\/FNb1dKS9_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/517937035575697408\/kJ2nfaEs_normal.jpeg",
       "id" : 778337,
       "verified" : false
     }
@@ -2065,7 +2065,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne",
+      "name" : "Unmanageable Payne",
       "screen_name" : "al3x",
       "indices" : [ 18, 23 ],
       "id_str" : "18713",
@@ -2082,7 +2082,7 @@ Grailbird.data.tweets_2010_05 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Alex Payne",
+        "name" : "Unmanageable Payne",
         "screen_name" : "al3x",
         "indices" : [ 2, 7 ],
         "id_str" : "18713",
@@ -2158,7 +2158,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "ryantate",
       "protected" : false,
       "id_str" : "2128391",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/498260300873740290\/q3qyUsIc_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/512408904693583872\/adqYpEzh_normal.jpeg",
       "id" : 2128391,
       "verified" : false
     }
@@ -2559,7 +2559,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "iA",
       "protected" : false,
       "id_str" : "2087371",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2638233931\/4083bf1f0bd6d9d548d6843dde32f0c0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/510071324580909056\/PGyJp57__normal.png",
       "id" : 2087371,
       "verified" : false
     }
@@ -2855,7 +2855,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "acarvin",
       "protected" : false,
       "id_str" : "778057",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/506868547297886208\/oaBqJ1Fp_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/509337318793048064\/_3srb_Vd_normal.jpeg",
       "id" : 778057,
       "verified" : true
     }
@@ -3265,7 +3265,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ladama",
+      "name" : "Ladamua-ah-ah-ah-ah",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -3459,7 +3459,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Blaine Cook",
+      "name" : "\u262D Blaine Cook",
       "screen_name" : "blaine",
       "indices" : [ 37, 44 ],
       "id_str" : "246",
@@ -3993,7 +3993,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "NiemanLab",
       "protected" : false,
       "id_str" : "15865878",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/208769717\/TwitterNgood_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/512664555827126272\/pzZXwZC8_normal.jpeg",
       "id" : 15865878,
       "verified" : true
     }

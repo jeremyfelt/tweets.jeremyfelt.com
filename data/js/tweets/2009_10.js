@@ -439,7 +439,7 @@ Grailbird.data.tweets_2009_10 =
       "id_str" : "18431396",
       "id" : 18431396
     }, {
-      "name" : "Kim Sherrell",
+      "name" : "Kim   ",
       "screen_name" : "kim",
       "indices" : [ 30, 34 ],
       "id_str" : "17243913",

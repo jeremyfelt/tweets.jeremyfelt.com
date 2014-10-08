@@ -2277,7 +2277,7 @@ Grailbird.data.tweets_2010_07 =
     "id" : 18650476926,
     "created_at" : "2010-07-16 02:19:47 +0000",
     "user" : {
-      "name" : "Dave Schumaker",
+      "name" : "Dave SPOOKmaker",
       "screen_name" : "davely",
       "protected" : false,
       "id_str" : "11779882",
@@ -2581,7 +2581,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Glenn Fleishman",
+      "name" : "Poison Sugar",
       "screen_name" : "GlennF",
       "indices" : [ 3, 10 ],
       "id_str" : "8315692",
@@ -2608,7 +2608,7 @@ Grailbird.data.tweets_2010_07 =
     "id" : 18564211655,
     "created_at" : "2010-07-15 01:28:55 +0000",
     "user" : {
-      "name" : "Glenn Fleishman",
+      "name" : "Poison Sugar",
       "screen_name" : "GlennF",
       "protected" : false,
       "id_str" : "8315692",
@@ -4011,7 +4011,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "brianboyer",
       "protected" : false,
       "id_str" : "14570738",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/479321376466030592\/lszKuYPy_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/508121738140319744\/Ff_UFtbA_normal.png",
       "id" : 14570738,
       "verified" : true
     }

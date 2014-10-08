@@ -1492,7 +1492,7 @@ Grailbird.data.tweets_2010_01 =
       "id_str" : "14055301",
       "id" : 14055301
     }, {
-      "name" : "CAREUSA (care.org)",
+      "name" : "CARE (care.org)",
       "screen_name" : "CARE",
       "indices" : [ 139, 140 ],
       "id_str" : "16834046",
@@ -1539,7 +1539,7 @@ Grailbird.data.tweets_2010_01 =
         "id_str" : "14055301",
         "id" : 14055301
       }, {
-        "name" : "CAREUSA (care.org)",
+        "name" : "CARE (care.org)",
         "screen_name" : "CARE",
         "indices" : [ 134, 139 ],
         "id_str" : "16834046",
@@ -1559,7 +1559,7 @@ Grailbird.data.tweets_2010_01 =
       "screen_name" : "jack",
       "protected" : false,
       "id_str" : "12",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/503321969224204288\/Xu_12TGU_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/509904801665007616\/l8a_yuBO_normal.jpeg",
       "id" : 12,
       "verified" : true
     }
@@ -2735,7 +2735,7 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ladama",
+      "name" : "Ladamua-ah-ah-ah-ah",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",

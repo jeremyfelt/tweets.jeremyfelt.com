@@ -64,7 +64,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ladama",
+      "name" : "Ladamua-ah-ah-ah-ah",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -335,17 +335,17 @@ Grailbird.data.tweets_2012_02 =
       "id" : 173666898628718592,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Amj9H8oCMAAFEG_.jpg",
       "sizes" : [ {
-        "h" : 320,
+        "h" : 255,
         "resize" : "fit",
-        "w" : 426
+        "w" : 340
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 255,
+        "h" : 320,
         "resize" : "fit",
-        "w" : 340
+        "w" : 426
       }, {
         "h" : 320,
         "resize" : "fit",
@@ -645,7 +645,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ladama",
+      "name" : "Ladamua-ah-ah-ah-ah",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -2984,25 +2984,25 @@ Grailbird.data.tweets_2012_02 =
       "id" : 167794061636403203,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AlQfz19CAAMOTOD.png",
       "sizes" : [ {
-        "h" : 316,
+        "h" : 562,
         "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 539,
-        "resize" : "fit",
-        "w" : 1024
+        "w" : 1068
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 562,
-        "resize" : "fit",
-        "w" : 1068
-      }, {
-        "h" : 179,
+        "h" : 178,
         "resize" : "fit",
         "w" : 340
+      }, {
+        "h" : 315,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 538,
+        "resize" : "fit",
+        "w" : 1024
       } ],
       "display_url" : "pic.twitter.com\/3S9EJVGS"
     } ],
@@ -3101,9 +3101,9 @@ Grailbird.data.tweets_2012_02 =
       "id" : 167757373497282561,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AlP-cT_CEAE-SR2.jpg",
       "sizes" : [ {
-        "h" : 450,
+        "h" : 255,
         "resize" : "fit",
-        "w" : 600
+        "w" : 340
       }, {
         "h" : 768,
         "resize" : "fit",
@@ -3113,13 +3113,13 @@ Grailbird.data.tweets_2012_02 =
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 255,
-        "resize" : "fit",
-        "w" : 340
-      }, {
         "h" : 1536,
         "resize" : "fit",
         "w" : 2048
+      }, {
+        "h" : 450,
+        "resize" : "fit",
+        "w" : 600
       } ],
       "display_url" : "pic.twitter.com\/U8iAHn0P"
     } ],
@@ -3571,17 +3571,17 @@ Grailbird.data.tweets_2012_02 =
       "id" : 166320664599461888,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Ak7jw2RCAAAA9lI.jpg",
       "sizes" : [ {
-        "h" : 320,
+        "h" : 255,
         "resize" : "fit",
-        "w" : 426
+        "w" : 340
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 255,
+        "h" : 320,
         "resize" : "fit",
-        "w" : 340
+        "w" : 426
       }, {
         "h" : 320,
         "resize" : "fit",
@@ -3720,17 +3720,17 @@ Grailbird.data.tweets_2012_02 =
       "id" : 165661673624055809,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AkyMahlCMAE6Uou.jpg",
       "sizes" : [ {
-        "h" : 320,
+        "h" : 255,
         "resize" : "fit",
-        "w" : 426
+        "w" : 340
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 255,
+        "h" : 320,
         "resize" : "fit",
-        "w" : 340
+        "w" : 426
       }, {
         "h" : 320,
         "resize" : "fit",
@@ -3775,17 +3775,17 @@ Grailbird.data.tweets_2012_02 =
       "id" : 165656697443065857,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AkyH433CIAE_Yb_.jpg",
       "sizes" : [ {
-        "h" : 320,
+        "h" : 255,
         "resize" : "fit",
-        "w" : 426
+        "w" : 340
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 255,
+        "h" : 320,
         "resize" : "fit",
-        "w" : 340
+        "w" : 426
       }, {
         "h" : 320,
         "resize" : "fit",

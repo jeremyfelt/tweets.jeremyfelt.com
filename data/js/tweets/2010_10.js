@@ -207,7 +207,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "brianboyer",
       "protected" : false,
       "id_str" : "14570738",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/479321376466030592\/lszKuYPy_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/508121738140319744\/Ff_UFtbA_normal.png",
       "id" : 14570738,
       "verified" : true
     }
@@ -817,7 +817,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "Stepto",
       "protected" : false,
       "id_str" : "3443591",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/485325635808550913\/Xu_rjLfj_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/512357184764522496\/GRjbyqVu_normal.jpeg",
       "id" : 3443591,
       "verified" : false
     }
@@ -1810,7 +1810,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "iaindodsworth",
       "protected" : false,
       "id_str" : "14148963",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/505043570487603200\/DaG4SFWu_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/509805348954570752\/mVuQwI5q_normal.jpeg",
       "id" : 14148963,
       "verified" : false
     }
@@ -2024,7 +2024,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "brianboyer",
       "protected" : false,
       "id_str" : "14570738",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/479321376466030592\/lszKuYPy_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/508121738140319744\/Ff_UFtbA_normal.png",
       "id" : 14570738,
       "verified" : true
     }
@@ -2304,7 +2304,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ladama",
+      "name" : "Ladamua-ah-ah-ah-ah",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -3918,7 +3918,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick LaForge",
+      "name" : "Patrick LaForge, NYT",
       "screen_name" : "palafo",
       "indices" : [ 3, 10 ],
       "id_str" : "2020351",
@@ -3930,7 +3930,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "15736557",
       "id" : 15736557
     }, {
-      "name" : "Patrick LaForge",
+      "name" : "Patrick LaForge, NYT",
       "screen_name" : "palafo",
       "indices" : [ 30, 37 ],
       "id_str" : "2020351",
@@ -3953,7 +3953,7 @@ Grailbird.data.tweets_2010_10 =
         "id_str" : "15736557",
         "id" : 15736557
       }, {
-        "name" : "Patrick LaForge",
+        "name" : "Patrick LaForge, NYT",
         "screen_name" : "palafo",
         "indices" : [ 18, 25 ],
         "id_str" : "2020351",
@@ -3969,7 +3969,7 @@ Grailbird.data.tweets_2010_10 =
     "id" : 26857669853,
     "created_at" : "2010-10-09 16:33:25 +0000",
     "user" : {
-      "name" : "Patrick LaForge",
+      "name" : "Patrick LaForge, NYT",
       "screen_name" : "palafo",
       "protected" : false,
       "id_str" : "2020351",
@@ -5040,7 +5040,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "6385432",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000652285709\/060bd6527bd63a4e3f241c954edd0e6f_normal.jpeg",
       "id" : 6385432,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 26391973655,
