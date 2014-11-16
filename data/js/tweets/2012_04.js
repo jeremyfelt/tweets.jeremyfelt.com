@@ -1926,7 +1926,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Will Osborne",
+      "name" : "ComcastCares",
       "screen_name" : "comcastcares",
       "indices" : [ 37, 50 ],
       "id_str" : "14104847",
@@ -3182,7 +3182,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "jessjurick",
       "protected" : false,
       "id_str" : "21618405",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472819658224336897\/-u76WZTj_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/520956719917441025\/o-lCcXJt_normal.jpeg",
       "id" : 21618405,
       "verified" : false
     }

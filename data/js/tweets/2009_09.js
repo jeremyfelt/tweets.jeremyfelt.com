@@ -169,7 +169,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Mastracci",
+      "name" : "Matt Mastracci^M",
       "screen_name" : "mmastrac",
       "indices" : [ 0, 9 ],
       "id_str" : "16873352",
@@ -1064,7 +1064,7 @@ Grailbird.data.tweets_2009_09 =
       "id_str" : "5485192",
       "id" : 5485192
     }, {
-      "name" : "Matt Mastracci",
+      "name" : "Matt Mastracci^M",
       "screen_name" : "mmastrac",
       "indices" : [ 14, 23 ],
       "id_str" : "16873352",
@@ -1484,7 +1484,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Mastracci",
+      "name" : "Matt Mastracci^M",
       "screen_name" : "mmastrac",
       "indices" : [ 0, 9 ],
       "id_str" : "16873352",
@@ -2221,7 +2221,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "A Googler",
+      "name" : "Google",
       "screen_name" : "google",
       "indices" : [ 20, 27 ],
       "id_str" : "20536157",
@@ -3448,7 +3448,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Mastracci",
+      "name" : "Matt Mastracci^M",
       "screen_name" : "mmastrac",
       "indices" : [ 30, 39 ],
       "id_str" : "16873352",

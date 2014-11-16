@@ -3908,7 +3908,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arian Foster",
+      "name" : "Feeno",
       "screen_name" : "ArianFoster",
       "indices" : [ 3, 15 ],
       "id_str" : "110839423",
@@ -3935,7 +3935,7 @@ Grailbird.data.tweets_2013_11 =
     "id" : 240589589193039875,
     "created_at" : "2012-08-28 23:20:02 +0000",
     "user" : {
-      "name" : "Arian Foster",
+      "name" : "Feeno",
       "screen_name" : "ArianFoster",
       "protected" : false,
       "id_str" : "110839423",
@@ -4803,7 +4803,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "ValEKilmer",
       "protected" : false,
       "id_str" : "25545512",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/518879139865296897\/PnmhdgNE_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/530487292893626368\/hKdeHj_r_normal.jpeg",
       "id" : 25545512,
       "verified" : true
     }
@@ -5110,7 +5110,7 @@ Grailbird.data.tweets_2013_11 =
     "user_mentions" : [ {
       "name" : "Robin Mehner",
       "screen_name" : "rmehner",
-      "indices" : [ 85, 86 ],
+      "indices" : [ 78, 86 ],
       "id_str" : "15376182",
       "id" : 15376182
     } ],
@@ -5155,7 +5155,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "hopefulcyborg",
       "protected" : false,
       "id_str" : "58708498",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/511804615025647616\/boLwIq7C_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/530676632550666240\/mLqIPtBp_normal.jpeg",
       "id" : 58708498,
       "verified" : false
     }
@@ -5559,7 +5559,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "daljo628",
       "protected" : false,
       "id_str" : "15982239",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/516587140482736128\/cz-UonVc_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/530328119874301953\/dE-6ESrC_normal.jpeg",
       "id" : 15982239,
       "verified" : false
     }
@@ -6813,7 +6813,7 @@ Grailbird.data.tweets_2013_11 =
       "id_str" : "16213079",
       "id" : 16213079
     }, {
-      "name" : "\u0B05\u0B28\u0B3F\u0B32 (Anil)",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "indices" : [ 11, 20 ],
       "id_str" : "36823",
@@ -6836,7 +6836,7 @@ Grailbird.data.tweets_2013_11 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u0B05\u0B28\u0B3F\u0B32 (Anil)",
+        "name" : "Anil Dash",
         "screen_name" : "anildash",
         "indices" : [ 0, 9 ],
         "id_str" : "36823",
@@ -6954,7 +6954,7 @@ Grailbird.data.tweets_2013_11 =
       "id_str" : "14834340",
       "id" : 14834340
     }, {
-      "name" : "\u0B05\u0B28\u0B3F\u0B32 (Anil)",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "indices" : [ 14, 23 ],
       "id_str" : "36823",
@@ -6993,7 +6993,7 @@ Grailbird.data.tweets_2013_11 =
       "id_str" : "14834340",
       "id" : 14834340
     }, {
-      "name" : "\u0B05\u0B28\u0B3F\u0B32 (Anil)",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "indices" : [ 121, 130 ],
       "id_str" : "36823",
@@ -7945,7 +7945,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "veltman",
       "protected" : false,
       "id_str" : "17673012",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/461720239235796992\/Wd1FA_pU_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/531084573191323648\/2gIVaCJr_normal.jpeg",
       "id" : 17673012,
       "verified" : true
     }
@@ -9381,7 +9381,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Student Loans",
+      "name" : "Aaron Bady",
       "screen_name" : "zunguzungu",
       "indices" : [ 3, 14 ],
       "id_str" : "47951511",
@@ -9418,11 +9418,11 @@ Grailbird.data.tweets_2013_11 =
     "id" : 398178522365063168,
     "created_at" : "2013-11-06 20:02:12 +0000",
     "user" : {
-      "name" : "Student Loans",
+      "name" : "Aaron Bady",
       "screen_name" : "zunguzungu",
       "protected" : false,
       "id_str" : "47951511",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/453112348098584579\/n3w-lLNt_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/527646728967577600\/nwhqUIfF_normal.jpeg",
       "id" : 47951511,
       "verified" : false
     }

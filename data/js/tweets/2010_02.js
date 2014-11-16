@@ -120,7 +120,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Mastracci",
+      "name" : "Matt Mastracci^M",
       "screen_name" : "mmastrac",
       "indices" : [ 3, 12 ],
       "id_str" : "16873352",
@@ -147,7 +147,7 @@ Grailbird.data.tweets_2010_02 =
     "id" : 9807380939,
     "created_at" : "2010-03-01 03:23:45 +0000",
     "user" : {
-      "name" : "Matt Mastracci",
+      "name" : "Matt Mastracci^M",
       "screen_name" : "mmastrac",
       "protected" : false,
       "id_str" : "16873352",
@@ -343,7 +343,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "acarvin",
       "protected" : false,
       "id_str" : "778057",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/509337318793048064\/_3srb_Vd_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528555203360878592\/RtBzJElP_normal.png",
       "id" : 778057,
       "verified" : true
     }
@@ -973,7 +973,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "A Googler",
+      "name" : "Google",
       "screen_name" : "google",
       "indices" : [ 6, 13 ],
       "id_str" : "20536157",
@@ -1051,7 +1051,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "A Googler",
+      "name" : "Google",
       "screen_name" : "google",
       "indices" : [ 3, 10 ],
       "id_str" : "20536157",
@@ -1181,7 +1181,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Mastracci",
+      "name" : "Matt Mastracci^M",
       "screen_name" : "mmastrac",
       "indices" : [ 0, 9 ],
       "id_str" : "16873352",
@@ -1330,7 +1330,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Unmanageable Payne",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 0, 5 ],
       "id_str" : "18713",
@@ -1672,7 +1672,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "avram",
       "protected" : false,
       "id_str" : "6547392",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1480244677\/Post-It_self-portrait_100_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/531969507539963905\/1oubpjsm_normal.jpeg",
       "id" : 6547392,
       "verified" : false
     }
@@ -1954,7 +1954,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "twitter",
       "protected" : false,
       "id_str" : "783214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2284174758\/v65oai7fxn47qv9nectx_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/530553072594874368\/7f9QErOD_normal.png",
       "id" : 783214,
       "verified" : true
     }
@@ -2105,7 +2105,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Mastracci",
+      "name" : "Matt Mastracci^M",
       "screen_name" : "mmastrac",
       "indices" : [ 3, 12 ],
       "id_str" : "16873352",
@@ -2132,7 +2132,7 @@ Grailbird.data.tweets_2010_02 =
     "id" : 8570775615,
     "created_at" : "2010-02-03 02:49:32 +0000",
     "user" : {
-      "name" : "Matt Mastracci",
+      "name" : "Matt Mastracci^M",
       "screen_name" : "mmastrac",
       "protected" : false,
       "id_str" : "16873352",
@@ -2178,7 +2178,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "A Googler",
+      "name" : "Google",
       "screen_name" : "google",
       "indices" : [ 88, 95 ],
       "id_str" : "20536157",

@@ -1404,7 +1404,7 @@ Grailbird.data.tweets_2009_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Unmanageable Payne",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -1431,7 +1431,7 @@ Grailbird.data.tweets_2009_12 =
     "id" : 6313327688,
     "created_at" : "2009-12-03 20:00:16 +0000",
     "user" : {
-      "name" : "Unmanageable Payne",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",

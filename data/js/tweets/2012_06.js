@@ -1211,7 +1211,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/476939811702718464\/Qq0LPfRy_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/529664614863101952\/yBQgCUMW_normal.png",
       "id" : 36823,
       "verified" : true
     }
@@ -3356,7 +3356,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/476939811702718464\/Qq0LPfRy_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/529664614863101952\/yBQgCUMW_normal.png",
       "id" : 36823,
       "verified" : true
     }
@@ -3652,7 +3652,7 @@ Grailbird.data.tweets_2012_06 =
       "id_str" : "16213079",
       "id" : 16213079
     }, {
-      "name" : "Keri Kae Nacin, CFRE",
+      "name" : "Keri Kae Nacin",
       "screen_name" : "kerikaeindc",
       "indices" : [ 7, 19 ],
       "id_str" : "17083778",

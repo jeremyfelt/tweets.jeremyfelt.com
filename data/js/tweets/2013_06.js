@@ -228,7 +228,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "pourmecoffee",
       "protected" : false,
       "id_str" : "16906137",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/421566216\/coffee1242220886_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528514130257657856\/Ki8MgmBV_normal.jpeg",
       "id" : 16906137,
       "verified" : true
     }
@@ -800,7 +800,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "mike.rap.in",
+      "name" : "mike.inter.net",
       "screen_name" : "mikerapin",
       "indices" : [ 3, 13 ],
       "id_str" : "1144581",
@@ -857,11 +857,11 @@ Grailbird.data.tweets_2013_06 =
     "id" : 351366377015214083,
     "created_at" : "2013-06-30 15:47:27 +0000",
     "user" : {
-      "name" : "mike.rap.in",
+      "name" : "mike.inter.net",
       "screen_name" : "mikerapin",
       "protected" : false,
       "id_str" : "1144581",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/511071419816767489\/FSHH0Zxw_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/524648904894464000\/jS4G6v7V_normal.jpeg",
       "id" : 1144581,
       "verified" : false
     }
@@ -2098,7 +2098,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rami 2: Lost in NY",
+      "name" : "Rami",
       "screen_name" : "ramiabraham",
       "indices" : [ 3, 15 ],
       "id_str" : "45810221",
@@ -2166,11 +2166,11 @@ Grailbird.data.tweets_2013_06 =
     "in_reply_to_screen_name" : "WordCampChicago",
     "in_reply_to_user_id_str" : "16584183",
     "user" : {
-      "name" : "Rami 2: Lost in NY",
+      "name" : "Rami",
       "screen_name" : "ramiabraham",
       "protected" : false,
       "id_str" : "45810221",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/496296722612891650\/r30zJbMV_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/532261767108235264\/3Zf_elCa_normal.png",
       "id" : 45810221,
       "verified" : false
     }
@@ -4532,7 +4532,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "berkun",
       "protected" : false,
       "id_str" : "30495974",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000825792839\/f028b7a5a19718e0e4bcad31b1db6ddf_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/520607062376452096\/S2sTpNE-_normal.jpeg",
       "id" : 30495974,
       "verified" : false
     }
@@ -5393,7 +5393,13 @@ Grailbird.data.tweets_2013_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "\u041F\u0435\u043F\u0435\u043B\u0435\u0432a \u0415\u043B\u0435\u043D\u0430",
+      "screen_name" : "angelinamagnum",
+      "indices" : [ 90, 105 ],
+      "id_str" : "2833368891",
+      "id" : 2833368891
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -9522,7 +9528,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "necolas",
       "protected" : false,
       "id_str" : "24974216",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/502221176303677441\/GSqbi_0I_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/529444560179449857\/eKdCJhvp_normal.jpeg",
       "id" : 24974216,
       "verified" : false
     }
@@ -10948,7 +10954,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/476939811702718464\/Qq0LPfRy_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/529664614863101952\/yBQgCUMW_normal.png",
       "id" : 36823,
       "verified" : true
     }
@@ -12522,11 +12528,11 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "90022172",
       "id" : 90022172
     }, {
-      "name" : "Vine",
+      "name" : "Vine App",
       "screen_name" : "vineapp",
       "indices" : [ 23, 31 ],
-      "id_str" : "586671909",
-      "id" : 586671909
+      "id_str" : "2817472030",
+      "id" : 2817472030
     } ],
     "media" : [ ],
     "hashtags" : [ ],

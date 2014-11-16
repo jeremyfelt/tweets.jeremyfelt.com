@@ -1359,7 +1359,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Cloudvox SRL",
+      "name" : "Cloudvox",
       "screen_name" : "cloudvox",
       "indices" : [ 15, 24 ],
       "id_str" : "1974167708",
@@ -1810,7 +1810,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "iaindodsworth",
       "protected" : false,
       "id_str" : "14148963",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/509805348954570752\/mVuQwI5q_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/530135084053962752\/l3FUn096_normal.jpeg",
       "id" : 14148963,
       "verified" : false
     }

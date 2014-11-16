@@ -992,7 +992,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/476939811702718464\/Qq0LPfRy_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/529664614863101952\/yBQgCUMW_normal.png",
       "id" : 36823,
       "verified" : true
     }
@@ -2424,7 +2424,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Victor Vampire \u2665",
+      "name" : "yuri victor \u2665",
       "screen_name" : "yurivictor",
       "indices" : [ 3, 14 ],
       "id_str" : "5511932",
@@ -2461,7 +2461,7 @@ Grailbird.data.tweets_2014_05 =
     "id" : 469405619024592896,
     "created_at" : "2014-05-22 09:13:15 +0000",
     "user" : {
-      "name" : "Victor Vampire \u2665",
+      "name" : "yuri victor \u2665",
       "screen_name" : "yurivictor",
       "protected" : false,
       "id_str" : "5511932",
@@ -4221,7 +4221,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "creativecommons",
+      "name" : "Creative Commons",
       "screen_name" : "creativecommons",
       "indices" : [ 3, 19 ],
       "id_str" : "17462723",
@@ -4338,11 +4338,11 @@ Grailbird.data.tweets_2014_05 =
     "id" : 464505531290238977,
     "created_at" : "2014-05-08 20:42:03 +0000",
     "user" : {
-      "name" : "creativecommons",
+      "name" : "Creative Commons",
       "screen_name" : "creativecommons",
       "protected" : false,
       "id_str" : "17462723",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/70370524\/cc_white_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/525970164341153792\/vbReKnbf_normal.png",
       "id" : 17462723,
       "verified" : true
     }
@@ -6253,7 +6253,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "digiphile",
       "protected" : false,
       "id_str" : "1175221",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/467136413092151296\/4m6R9jR-_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528362814176759808\/O4uc5aWK_normal.jpeg",
       "id" : 1175221,
       "verified" : false
     }

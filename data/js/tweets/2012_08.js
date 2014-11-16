@@ -324,7 +324,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "jessjurick",
       "protected" : false,
       "id_str" : "21618405",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472819658224336897\/-u76WZTj_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/520956719917441025\/o-lCcXJt_normal.jpeg",
       "id" : 21618405,
       "verified" : false
     }
@@ -2452,7 +2452,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "maryslosson",
       "protected" : false,
       "id_str" : "37978965",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3440131456\/08444b06738a5d6a9e8771d3c7bc80e4_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/527842031461089283\/O9ueBpG5_normal.jpeg",
       "id" : 37978965,
       "verified" : false
     }
@@ -2519,7 +2519,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "vegasgeek",
       "protected" : false,
       "id_str" : "7721592",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000253832710\/b03441ec683a6994a2f4b5c46fd82a36_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/529127814981632001\/PCgNIVL8_normal.jpeg",
       "id" : 7721592,
       "verified" : false
     }
@@ -5523,7 +5523,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "dimensionmedia",
       "protected" : false,
       "id_str" : "13831362",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477904270017048576\/QWcEzNSL_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/525628971413557248\/kO3bhWBZ_normal.jpeg",
       "id" : 13831362,
       "verified" : false
     }
@@ -5820,7 +5820,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "aley",
       "protected" : false,
       "id_str" : "48901814",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/507750023497404416\/I1X5bQCa_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/525513013646749697\/Wvxl21vU_normal.jpeg",
       "id" : 48901814,
       "verified" : false
     }
@@ -8864,7 +8864,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "theory",
       "protected" : false,
       "id_str" : "656233",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477986383668453376\/u0xjhzlR_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/532223298315108352\/nVLtRf3q_normal.jpeg",
       "id" : 656233,
       "verified" : false
     }
@@ -11026,7 +11026,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Xeni",
+      "name" : "Xeni Jardin",
       "screen_name" : "xeni",
       "indices" : [ 3, 8 ],
       "id_str" : "767",
@@ -11053,11 +11053,11 @@ Grailbird.data.tweets_2012_08 =
     "id" : 232352466316955649,
     "created_at" : "2012-08-06 05:48:39 +0000",
     "user" : {
-      "name" : "Xeni",
+      "name" : "Xeni Jardin",
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/513564034684428288\/KIGpXvbx_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/532315827253411840\/nXFy3vu3_normal.jpeg",
       "id" : 767,
       "verified" : true
     }
@@ -11922,7 +11922,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "jessjurick",
       "protected" : false,
       "id_str" : "21618405",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472819658224336897\/-u76WZTj_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/520956719917441025\/o-lCcXJt_normal.jpeg",
       "id" : 21618405,
       "verified" : false
     }

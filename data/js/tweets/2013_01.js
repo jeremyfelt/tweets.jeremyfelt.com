@@ -1133,7 +1133,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "DallasPD",
       "protected" : false,
       "id_str" : "28758060",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3468348758\/9bb1069654ecf9a9d3c738045f2acb1c_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/532594701635842048\/Gp7DLefk_normal.jpeg",
       "id" : 28758060,
       "verified" : true
     }
@@ -3316,7 +3316,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "jessjurick",
       "protected" : false,
       "id_str" : "21618405",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472819658224336897\/-u76WZTj_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/520956719917441025\/o-lCcXJt_normal.jpeg",
       "id" : 21618405,
       "verified" : false
     }
@@ -4384,7 +4384,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KiersEEEE!",
+      "name" : "Kiersi",
       "screen_name" : "kiersi",
       "indices" : [ 0, 7 ],
       "id_str" : "1335391",
@@ -4826,7 +4826,7 @@ Grailbird.data.tweets_2013_01 =
       "id_str" : "8940312",
       "id" : 8940312
     }, {
-      "name" : "Kelly GHOULmont",
+      "name" : "Kelly Guimont",
       "screen_name" : "verso",
       "indices" : [ 64, 70 ],
       "id_str" : "786750",
@@ -4857,7 +4857,7 @@ Grailbird.data.tweets_2013_01 =
         "id_str" : "8940312",
         "id" : 8940312
       }, {
-        "name" : "Kelly GHOULmont",
+        "name" : "Kelly Guimont",
         "screen_name" : "verso",
         "indices" : [ 51, 57 ],
         "id_str" : "786750",
@@ -4958,7 +4958,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "tcarmody",
       "protected" : false,
       "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458867362851069952\/NHH8UZks_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/529084725017587714\/x8iT5kEN_normal.jpeg",
       "id" : 14439168,
       "verified" : true
     }
@@ -5537,7 +5537,7 @@ Grailbird.data.tweets_2013_01 =
   "id_str" : "289590891214168064",
   "text" : "RT @abraham: You Don't Need the DOM Ready Event http:\/\/t.co\/mfvrk8rg #javascript #performance",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/addvocate.com\" rel=\"nofollow\"\u003EAddvocate\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/addvocate.com\" rel=\"nofollow\"\u003EOld Addvocate\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -6639,7 +6639,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KiersEEEE!",
+      "name" : "Kiersi",
       "screen_name" : "kiersi",
       "indices" : [ 0, 7 ],
       "id_str" : "1335391",
@@ -7083,7 +7083,7 @@ Grailbird.data.tweets_2013_01 =
       "id_str" : "14834340",
       "id" : 14834340
     }, {
-      "name" : "deleuzional",
+      "name" : "\/\/\/ @steveklabnik",
       "screen_name" : "steveklabnik",
       "indices" : [ 123, 136 ],
       "id_str" : "22386062",
@@ -7105,7 +7105,7 @@ Grailbird.data.tweets_2013_01 =
     "source" : "\u003Ca href=\"http:\/\/bitly.com\" rel=\"nofollow\"\u003Ebitly bitlink\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "deleuzional",
+        "name" : "\/\/\/ @steveklabnik",
         "screen_name" : "steveklabnik",
         "indices" : [ 105, 118 ],
         "id_str" : "22386062",

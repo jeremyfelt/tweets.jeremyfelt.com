@@ -4542,7 +4542,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Vanadia",
+      "name" : "David",
       "screen_name" : "Vanadia",
       "indices" : [ 3, 11 ],
       "id_str" : "15406144",
@@ -4635,11 +4635,11 @@ Grailbird.data.tweets_2011_10 =
     "id" : 122077452104237056,
     "created_at" : "2011-10-06 22:35:08 +0000",
     "user" : {
-      "name" : "David Vanadia",
+      "name" : "David",
       "screen_name" : "Vanadia",
       "protected" : false,
       "id_str" : "15406144",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/425486126548144128\/Cy2XfzY1_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528669188810752001\/X8ICMtfA_normal.jpeg",
       "id" : 15406144,
       "verified" : false
     }
@@ -5018,7 +5018,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "waxpancake",
       "protected" : false,
       "id_str" : "13461",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416642320574844928\/Gz7V2B6r_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/530876023768752128\/rK4a2drO_normal.png",
       "id" : 13461,
       "verified" : false
     }
@@ -5124,7 +5124,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "mathowie",
       "protected" : false,
       "id_str" : "761975",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/507269970305118208\/CEHCYAZ0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/523226616957530112\/JECOzLlD_normal.jpeg",
       "id" : 761975,
       "verified" : false
     }
@@ -5515,7 +5515,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "alex",
       "protected" : false,
       "id_str" : "7380362",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/514661099682025472\/SgzU1SW7_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/531895207629819904\/BZD7u2qG_normal.png",
       "id" : 7380362,
       "verified" : true
     }

@@ -1887,7 +1887,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "noeltock",
       "protected" : false,
       "id_str" : "49040332",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/442637625766051840\/5VDJCOzU_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/530405863568068610\/rZdD5cm7_normal.jpeg",
       "id" : 49040332,
       "verified" : false
     }

@@ -419,7 +419,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "jessjurick",
       "protected" : false,
       "id_str" : "21618405",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472819658224336897\/-u76WZTj_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/520956719917441025\/o-lCcXJt_normal.jpeg",
       "id" : 21618405,
       "verified" : false
     }
@@ -2056,7 +2056,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "hashicorp",
       "protected" : false,
       "id_str" : "290900886",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2896588467\/114c224f23fba2777441968df27c71ce_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/525656622308143104\/0pPm3Eov_normal.png",
       "id" : 290900886,
       "verified" : false
     }
@@ -6223,7 +6223,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "jessjurick",
       "protected" : false,
       "id_str" : "21618405",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472819658224336897\/-u76WZTj_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/520956719917441025\/o-lCcXJt_normal.jpeg",
       "id" : 21618405,
       "verified" : false
     }
@@ -6560,7 +6560,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Victor Vampire \u2665",
+      "name" : "yuri victor \u2665",
       "screen_name" : "yurivictor",
       "indices" : [ 3, 14 ],
       "id_str" : "5511932",
@@ -6597,7 +6597,7 @@ Grailbird.data.tweets_2013_04 =
     "id" : 321695971610341376,
     "created_at" : "2013-04-09 18:47:51 +0000",
     "user" : {
-      "name" : "Victor Vampire \u2665",
+      "name" : "yuri victor \u2665",
       "screen_name" : "yurivictor",
       "protected" : false,
       "id_str" : "5511932",
@@ -9569,7 +9569,7 @@ Grailbird.data.tweets_2013_04 =
       "screen_name" : "ireland",
       "protected" : false,
       "id_str" : "1143551",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/518990656375488514\/y07wnT9o_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/531586171441143808\/FEk1aiRf_normal.jpeg",
       "id" : 1143551,
       "verified" : false
     }
@@ -9621,13 +9621,7 @@ Grailbird.data.tweets_2013_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u0CA0_\u0CA0 Carter",
-      "screen_name" : "CarterRabasa",
-      "indices" : [ 3, 16 ],
-      "id_str" : "89318473",
-      "id" : 89318473
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -9660,7 +9654,7 @@ Grailbird.data.tweets_2013_04 =
     "created_at" : "2013-04-01 22:13:18 +0000",
     "user" : {
       "name" : "\u0CA0_\u0CA0 Carter",
-      "screen_name" : "CarterRabasa",
+      "screen_name" : "crtr0",
       "protected" : false,
       "id_str" : "89318473",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/503951466311057410\/KKKByTp3_normal.jpeg",

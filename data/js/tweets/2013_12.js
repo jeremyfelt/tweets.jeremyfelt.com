@@ -1050,7 +1050,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wes Koopmans",
+      "name" : "Wes Koop",
       "screen_name" : "weskoop",
       "indices" : [ 0, 8 ],
       "id_str" : "12424882",
@@ -1083,7 +1083,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wes Koopmans",
+      "name" : "Wes Koop",
       "screen_name" : "weskoop",
       "indices" : [ 0, 8 ],
       "id_str" : "12424882",
@@ -1116,7 +1116,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wes Koopmans",
+      "name" : "Wes Koop",
       "screen_name" : "weskoop",
       "indices" : [ 3, 11 ],
       "id_str" : "12424882",
@@ -1170,7 +1170,7 @@ Grailbird.data.tweets_2013_12 =
     "in_reply_to_screen_name" : "jeremyfelt",
     "in_reply_to_user_id_str" : "1741681",
     "user" : {
-      "name" : "Wes Koopmans",
+      "name" : "Wes Koop",
       "screen_name" : "weskoop",
       "protected" : false,
       "id_str" : "12424882",
@@ -6147,7 +6147,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "mathowie",
       "protected" : false,
       "id_str" : "761975",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/507269970305118208\/CEHCYAZ0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/523226616957530112\/JECOzLlD_normal.jpeg",
       "id" : 761975,
       "verified" : false
     }
@@ -6258,7 +6258,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "pourmecoffee",
       "protected" : false,
       "id_str" : "16906137",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/421566216\/coffee1242220886_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528514130257657856\/Ki8MgmBV_normal.jpeg",
       "id" : 16906137,
       "verified" : true
     }
@@ -7591,7 +7591,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "nyknicks",
       "protected" : false,
       "id_str" : "20265254",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/502470637760151552\/OlTWyWuQ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/525860532385882112\/VOn5ZUD1_normal.png",
       "id" : 20265254,
       "verified" : true
     }

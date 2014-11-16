@@ -305,11 +305,11 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MG Siegler",
+      "name" : "ParisLemon",
       "screen_name" : "parislemon",
       "indices" : [ 69, 80 ],
-      "id_str" : "652193",
-      "id" : 652193
+      "id_str" : "134665872",
+      "id" : 134665872
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -328,7 +328,7 @@ Grailbird.data.tweets_2012_01 =
   "id" : 162746647695204353,
   "in_reply_to_status_id" : 162744234313646080,
   "created_at" : "2012-01-27 03:59:59 +0000",
-  "in_reply_to_screen_name" : "parislemon",
+  "in_reply_to_screen_name" : "mgsiegler",
   "in_reply_to_user_id_str" : "652193",
   "user" : {
     "name" : "Jeremy Felt",
@@ -2536,7 +2536,7 @@ Grailbird.data.tweets_2012_01 =
       "id_str" : "783214",
       "id" : 783214
     }, {
-      "name" : "A Googler",
+      "name" : "Google",
       "screen_name" : "google",
       "indices" : [ 51, 58 ],
       "id_str" : "20536157",
