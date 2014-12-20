@@ -1085,7 +1085,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "mrgan",
       "protected" : false,
       "id_str" : "35293",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528584540571570177\/iAuwRFdM_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545652102702170112\/--Z6gHZR_normal.png",
       "id" : 35293,
       "verified" : false
     }
@@ -1283,7 +1283,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "abrahamvegh",
       "protected" : false,
       "id_str" : "19140065",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/526764184047202305\/UgZ9yjlx_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539686617221312512\/CH9wHfe7_normal.jpeg",
       "id" : 19140065,
       "verified" : false
     }
@@ -2281,7 +2281,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "davely",
       "protected" : false,
       "id_str" : "11779882",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000674439004\/2015727483106d3af3ca79e2e6a70218_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/543137306995990528\/Gv_5VZQz_normal.jpeg",
       "id" : 11779882,
       "verified" : false
     }
@@ -2612,7 +2612,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "GlennF",
       "protected" : false,
       "id_str" : "8315692",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528579512271765504\/z1_YHAgI_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/541006677693063168\/ozKLT7O6_normal.jpeg",
       "id" : 8315692,
       "verified" : false
     }
@@ -3845,7 +3845,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "philae minion",
+      "name" : "James Governor",
       "screen_name" : "monkchips",
       "indices" : [ 3, 13 ],
       "id_str" : "61233",
@@ -3872,7 +3872,7 @@ Grailbird.data.tweets_2010_07 =
     "id" : 17872127385,
     "created_at" : "2010-07-06 14:45:44 +0000",
     "user" : {
-      "name" : "philae minion",
+      "name" : "James Governor",
       "screen_name" : "monkchips",
       "protected" : false,
       "id_str" : "61233",

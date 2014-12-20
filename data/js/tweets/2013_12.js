@@ -152,7 +152,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "Lana",
       "protected" : false,
       "id_str" : "15838676",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486352161186406400\/kAdHljRy_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538950651318116352\/fpEA1x1-_normal.jpeg",
       "id" : 15838676,
       "verified" : false
     }
@@ -2343,7 +2343,7 @@ Grailbird.data.tweets_2013_12 =
       "id_str" : "552844848",
       "id" : 552844848
     }, {
-      "name" : "Sarah Pressler",
+      "name" : "S WPGangsta Pressler",
       "screen_name" : "sarahpressler",
       "indices" : [ 23, 37 ],
       "id_str" : "32732360",
@@ -2382,7 +2382,7 @@ Grailbird.data.tweets_2013_12 =
       "id_str" : "552844848",
       "id" : 552844848
     }, {
-      "name" : "Sarah Pressler",
+      "name" : "S WPGangsta Pressler",
       "screen_name" : "sarahpressler",
       "indices" : [ 9, 23 ],
       "id_str" : "32732360",
@@ -3560,7 +3560,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joost de Valk",
+      "name" : "Yoast",
       "screen_name" : "yoast",
       "indices" : [ 0, 6 ],
       "id_str" : "6453512",
@@ -3593,7 +3593,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joost de Valk",
+      "name" : "Yoast",
       "screen_name" : "yoast",
       "indices" : [ 0, 6 ],
       "id_str" : "6453512",
@@ -5528,7 +5528,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/505551432880488448\/kGi4McS8_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538186547024367616\/zXjvQKED_normal.jpeg",
       "id" : 21204689,
       "verified" : false
     }
@@ -9747,7 +9747,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John James Jacoby",
+      "name" : "\u26C4\uFE0F",
       "screen_name" : "JJJ",
       "indices" : [ 0, 4 ],
       "id_str" : "15908706",

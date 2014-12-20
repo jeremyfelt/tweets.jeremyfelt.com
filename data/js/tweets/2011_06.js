@@ -955,7 +955,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "kevinmarks",
       "protected" : false,
       "id_str" : "57203",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2309131403\/xailq7cl8vzr30pr53u7_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/546420657190219776\/-MacEGsX_normal.jpeg",
       "id" : 57203,
       "verified" : false
     }
@@ -3119,7 +3119,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "kevinmarks",
       "protected" : false,
       "id_str" : "57203",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2309131403\/xailq7cl8vzr30pr53u7_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/546420657190219776\/-MacEGsX_normal.jpeg",
       "id" : 57203,
       "verified" : false
     }
@@ -3521,7 +3521,7 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "10917372",
       "id" : 10917372
     }, {
-      "name" : "Greg Cooper",
+      "name" : "Cooper",
       "screen_name" : "awfy",
       "indices" : [ 12, 17 ],
       "id_str" : "9854542",
@@ -3538,7 +3538,7 @@ Grailbird.data.tweets_2011_06 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Greg Cooper",
+        "name" : "Cooper",
         "screen_name" : "awfy",
         "indices" : [ 3, 8 ],
         "id_str" : "9854542",

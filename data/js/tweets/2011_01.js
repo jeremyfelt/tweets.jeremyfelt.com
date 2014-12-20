@@ -151,7 +151,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arnvember Thankurrik",
+      "name" : "U+1F385 ",
       "screen_name" : "kurrik",
       "indices" : [ 45, 52 ],
       "id_str" : "7588892",
@@ -1480,7 +1480,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "cshirky",
       "protected" : false,
       "id_str" : "6141832",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/478562587567607809\/qNDAdOpD_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/536827114771578881\/tWr8z9im_normal.png",
       "id" : 6141832,
       "verified" : true
     }
@@ -1960,7 +1960,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "KeithOlbermann",
       "protected" : false,
       "id_str" : "130617778",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/521716401548296192\/KbtIyetn_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539926094695399425\/9NbFBlKD_normal.jpeg",
       "id" : 130617778,
       "verified" : true
     }
@@ -2042,7 +2042,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "abrahamvegh",
       "protected" : false,
       "id_str" : "19140065",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/526764184047202305\/UgZ9yjlx_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539686617221312512\/CH9wHfe7_normal.jpeg",
       "id" : 19140065,
       "verified" : false
     }
@@ -2707,7 +2707,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "mathewi",
       "protected" : false,
       "id_str" : "824157",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000637695880\/2c9f68efe2c2c7e1ee9d3a86f020eb7f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/543976310180028417\/ULMYHd0T_normal.jpeg",
       "id" : 824157,
       "verified" : true
     }
@@ -3440,7 +3440,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "JoseCanseco",
       "protected" : false,
       "id_str" : "19715003",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/474217755932393474\/PU_z4-JX_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/536226682391498752\/oIgTc67O_normal.jpeg",
       "id" : 19715003,
       "verified" : true
     }
@@ -4081,7 +4081,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "weareyourfek",
       "protected" : false,
       "id_str" : "15190832",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/533384017240793088\/fRVvtRWc_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538592151131942912\/KRMUMoHR_normal.jpeg",
       "id" : 15190832,
       "verified" : false
     }
@@ -5045,10 +5045,7 @@ Grailbird.data.tweets_2011_01 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-      "type" : "Point",
-      "coordinates" : [ 37.7908606, -122.4106604 ]
-    },
+    "geo" : { },
     "id_str" : "24660542786379776",
     "text" : "This is one big reason why I love working for Twitter: http:\/\/bit.ly\/f5yS23",
     "id" : 24660542786379776,
@@ -6577,7 +6574,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "BadAstronomer",
       "protected" : false,
       "id_str" : "4620451",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/430393993273171968\/-NVa7fTv_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/540709722077143040\/ZnY5hj9o_normal.jpeg",
       "id" : 4620451,
       "verified" : true
     }

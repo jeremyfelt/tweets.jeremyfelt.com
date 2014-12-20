@@ -326,10 +326,7 @@ Grailbird.data.tweets_2010_11 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-      "type" : "Point",
-      "coordinates" : [ 40.758408, -73.981826 ]
-    },
+    "geo" : { },
     "id_str" : "9380453903499265",
     "text" : "Whoa, spotted by @joemurph: NYT implemented Winer Links. Hit shift twice on any article. | cc @davewiner, and someone tell Daniel Bachhuber.",
     "id" : 9380453903499265,
@@ -2187,7 +2184,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ladamua-ah-ah-ah-ah",
+      "name" : "Falalalala-la-Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -3235,7 +3232,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "monteiro",
       "protected" : false,
       "id_str" : "2426",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/480334642566803457\/2HgLwJHi_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539211010993700864\/aHVsuWK9_normal.jpeg",
       "id" : 2426,
       "verified" : false
     }

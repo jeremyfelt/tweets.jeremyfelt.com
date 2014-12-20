@@ -233,7 +233,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "cshirky",
       "protected" : false,
       "id_str" : "6141832",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/478562587567607809\/qNDAdOpD_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/536827114771578881\/tWr8z9im_normal.png",
       "id" : 6141832,
       "verified" : true
     }
@@ -404,7 +404,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "mccanner",
       "protected" : false,
       "id_str" : "42313640",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/518910116188651520\/6U4wBI_0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/540318733588504576\/4wfedRe3_normal.jpeg",
       "id" : 42313640,
       "verified" : true
     }
@@ -4747,7 +4747,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John James Jacoby",
+      "name" : "\u26C4\uFE0F",
       "screen_name" : "JJJ",
       "indices" : [ 69, 73 ],
       "id_str" : "15908706",

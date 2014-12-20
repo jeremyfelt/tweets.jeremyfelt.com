@@ -1632,7 +1632,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "craigmod",
       "protected" : false,
       "id_str" : "1835951",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2644801549\/787bf94df02d213d1359133d48d673b6_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/543307852870217729\/vrM-6ys5_normal.jpeg",
       "id" : 1835951,
       "verified" : false
     }
@@ -1856,7 +1856,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hipster Wallace",
+      "name" : "Hipster Wallace \u2615",
       "screen_name" : "BR3NDA",
       "indices" : [ 3, 10 ],
       "id_str" : "778337",
@@ -1883,11 +1883,11 @@ Grailbird.data.tweets_2010_05 =
     "id" : 14202235366,
     "created_at" : "2010-05-18 02:57:52 +0000",
     "user" : {
-      "name" : "Hipster Wallace",
+      "name" : "Hipster Wallace \u2615",
       "screen_name" : "BR3NDA",
       "protected" : false,
       "id_str" : "778337",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/532071047030243328\/2aCpJgHS_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/546397882933182464\/8d-nlysK_normal.jpeg",
       "id" : 778337,
       "verified" : false
     }
@@ -1950,7 +1950,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "chrismessina",
       "protected" : false,
       "id_str" : "1186",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473101179686100993\/DNYjvY64_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/540697175609454592\/tMtgCBAj_normal.jpeg",
       "id" : 1186,
       "verified" : false
     }
@@ -2404,7 +2404,7 @@ Grailbird.data.tweets_2010_05 =
       "id_str" : "6253282",
       "id" : 6253282
     }, {
-      "name" : "Science!",
+      "name" : "Science doe.",
       "screen_name" : "s",
       "indices" : [ 77, 79 ],
       "id_str" : "347002675",
@@ -3265,7 +3265,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ladamua-ah-ah-ah-ah",
+      "name" : "Falalalala-la-Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",

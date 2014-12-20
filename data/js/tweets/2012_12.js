@@ -643,7 +643,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ladamua-ah-ah-ah-ah",
+      "name" : "Falalalala-la-Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -1457,7 +1457,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "Alex_Ogle",
       "protected" : false,
       "id_str" : "26957009",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416362326070030336\/dnm8M0IT_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/542559046608224257\/WfHtleAg_normal.jpeg",
       "id" : 26957009,
       "verified" : true
     }
@@ -1745,7 +1745,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/505551432880488448\/kGi4McS8_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538186547024367616\/zXjvQKED_normal.jpeg",
       "id" : 21204689,
       "verified" : false
     }
@@ -3609,7 +3609,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/505551432880488448\/kGi4McS8_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538186547024367616\/zXjvQKED_normal.jpeg",
       "id" : 21204689,
       "verified" : false
     }
@@ -6578,7 +6578,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/532315827253411840\/nXFy3vu3_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/542192783075704832\/03eDUAO2_normal.jpeg",
       "id" : 767,
       "verified" : true
     }

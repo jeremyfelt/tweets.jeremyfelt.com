@@ -34,7 +34,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "jack",
       "protected" : false,
       "id_str" : "12",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/509904801665007616\/l8a_yuBO_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539479004370444288\/Lc2Wp5y5_normal.jpeg",
       "id" : 12,
       "verified" : true
     }
@@ -1489,7 +1489,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "mathewi",
       "protected" : false,
       "id_str" : "824157",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000637695880\/2c9f68efe2c2c7e1ee9d3a86f020eb7f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/543976310180028417\/ULMYHd0T_normal.jpeg",
       "id" : 824157,
       "verified" : true
     }
@@ -1714,7 +1714,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ladamua-ah-ah-ah-ah",
+      "name" : "Falalalala-la-Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",

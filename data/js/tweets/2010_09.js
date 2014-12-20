@@ -995,7 +995,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ladamua-ah-ah-ah-ah",
+      "name" : "Falalalala-la-Ladama",
       "screen_name" : "ladama",
       "indices" : [ 3, 10 ],
       "id_str" : "16390477",
@@ -1022,7 +1022,7 @@ Grailbird.data.tweets_2010_09 =
     "id" : 25848375149,
     "created_at" : "2010-09-29 03:11:34 +0000",
     "user" : {
-      "name" : "Ladamua-ah-ah-ah-ah",
+      "name" : "Falalalala-la-Ladama",
       "screen_name" : "ladama",
       "protected" : false,
       "id_str" : "16390477",
@@ -1240,10 +1240,7 @@ Grailbird.data.tweets_2010_09 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-      "type" : "Point",
-      "coordinates" : [ 40.7332156028, -73.9786698367 ]
-    },
+    "geo" : { },
     "id_str" : "25791273246",
     "text" : "Yo, I already have a promoted Twitter account. Anybody wanna buy the password? $100k, cheap!",
     "id" : 25791273246,
@@ -3016,7 +3013,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "loic",
       "protected" : false,
       "id_str" : "740983",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/530505522911666176\/E9hrj_iS_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/542619246040084480\/5p0SPdwM_normal.jpeg",
       "id" : 740983,
       "verified" : true
     }
@@ -3758,7 +3755,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "jack",
       "protected" : false,
       "id_str" : "12",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/509904801665007616\/l8a_yuBO_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539479004370444288\/Lc2Wp5y5_normal.jpeg",
       "id" : 12,
       "verified" : true
     }

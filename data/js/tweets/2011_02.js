@@ -156,7 +156,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "andyellwood",
       "protected" : false,
       "id_str" : "38269159",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486212762142388224\/MxXtmeHC_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538845837930287104\/to71iGF__normal.jpeg",
       "id" : 38269159,
       "verified" : true
     }
@@ -343,7 +343,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ladamua-ah-ah-ah-ah",
+      "name" : "Falalalala-la-Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -470,10 +470,7 @@ Grailbird.data.tweets_2011_02 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-      "type" : "Point",
-      "coordinates" : [ 40.7334663665, -73.9786950488 ]
-    },
+    "geo" : { },
     "id_str" : "42058679830183936",
     "text" : "I thought when I became a parent I'd get whatever mental disorder causes people to tolerate Randy Newman songs. Nope, still sucks.",
     "id" : 42058679830183936,
@@ -1285,7 +1282,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "jilliancyork",
       "protected" : false,
       "id_str" : "14048901",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/522718242683363328\/1ohAn72w_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538878867268595712\/WMZmQk73_normal.jpeg",
       "id" : 14048901,
       "verified" : false
     }

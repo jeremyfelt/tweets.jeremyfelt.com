@@ -1133,7 +1133,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "DallasPD",
       "protected" : false,
       "id_str" : "28758060",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/532594701635842048\/Gp7DLefk_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539454691201933312\/QY9SiS7Y_normal.jpeg",
       "id" : 28758060,
       "verified" : true
     }
@@ -4958,7 +4958,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "tcarmody",
       "protected" : false,
       "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/529084725017587714\/x8iT5kEN_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/544568675689197568\/jxpxRZOy_normal.jpeg",
       "id" : 14439168,
       "verified" : true
     }
@@ -6236,7 +6236,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "harrisj",
       "protected" : false,
       "id_str" : "681473",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/439485476643549184\/0jTb8uJs_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/542092737626271744\/AWcKdy-l_normal.jpeg",
       "id" : 681473,
       "verified" : true
     }

@@ -2213,7 +2213,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "adamgurri",
       "protected" : false,
       "id_str" : "14564016",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/465233237581631490\/amIvmc8s_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/544607548850982913\/BSjdnwtK_normal.jpeg",
       "id" : 14564016,
       "verified" : false
     }

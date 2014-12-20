@@ -1310,7 +1310,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jennvember",
+      "name" : "literally santa",
       "screen_name" : "jennschiffer",
       "indices" : [ 3, 16 ],
       "id_str" : "12524622",
@@ -1322,7 +1322,7 @@ Grailbird.data.tweets_2014_10 =
       "id_str" : "21204689",
       "id" : 21204689
     }, {
-      "name" : "hackula",
+      "name" : "Captain Sue Albano",
       "screen_name" : "deathbearbrown",
       "indices" : [ 66, 81 ],
       "id_str" : "21491212",
@@ -1378,7 +1378,7 @@ Grailbird.data.tweets_2014_10 =
         "id_str" : "21204689",
         "id" : 21204689
       }, {
-        "name" : "hackula",
+        "name" : "Captain Sue Albano",
         "screen_name" : "deathbearbrown",
         "indices" : [ 48, 63 ],
         "id_str" : "21491212",
@@ -1427,11 +1427,11 @@ Grailbird.data.tweets_2014_10 =
     "id" : 526129539588833280,
     "created_at" : "2014-10-25 21:53:51 +0000",
     "user" : {
-      "name" : "jennmoneyscript",
+      "name" : "literally santa",
       "screen_name" : "jennschiffer",
       "protected" : false,
       "id_str" : "12524622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/531112223460950016\/_5WlVFeJ_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/543446349191319554\/21ZmhFRi_normal.jpeg",
       "id" : 12524622,
       "verified" : false
     }
@@ -1995,7 +1995,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/505551432880488448\/kGi4McS8_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538186547024367616\/zXjvQKED_normal.jpeg",
       "id" : 21204689,
       "verified" : false
     }
@@ -2015,7 +2015,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John James Jacoby",
+      "name" : "\u26C4\uFE0F",
       "screen_name" : "JJJ",
       "indices" : [ 3, 7 ],
       "id_str" : "15908706",
@@ -2051,7 +2051,7 @@ Grailbird.data.tweets_2014_10 =
     "id" : 525674971943952384,
     "created_at" : "2014-10-24 15:47:34 +0000",
     "user" : {
-      "name" : "John James Jacoby",
+      "name" : "\u26C4\uFE0F",
       "screen_name" : "JJJ",
       "protected" : false,
       "id_str" : "15908706",
@@ -3014,7 +3014,7 @@ Grailbird.data.tweets_2014_10 =
     "id" : 524259477659217920,
     "created_at" : "2014-10-20 18:02:54 +0000",
     "user" : {
-      "name" : "John James Jacoby",
+      "name" : "\u26C4\uFE0F",
       "screen_name" : "JJJ",
       "protected" : false,
       "id_str" : "15908706",
@@ -3374,7 +3374,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "norcross",
       "protected" : false,
       "id_str" : "14558147",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/511287203985911809\/b9NuoP31_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539278982995517440\/8UrBccIm_normal.jpeg",
       "id" : 14558147,
       "verified" : false
     }
@@ -4948,7 +4948,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "latimes",
       "protected" : false,
       "id_str" : "16664681",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1894745045\/LAT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/546329819919560704\/XMWy2Z50_normal.jpeg",
       "id" : 16664681,
       "verified" : true
     }
@@ -5594,7 +5594,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Haley Elder",
+      "name" : "Haley ",
       "screen_name" : "haley_elder",
       "indices" : [ 0, 12 ],
       "id_str" : "362092295",
@@ -5627,7 +5627,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Haley Elder",
+      "name" : "Haley ",
       "screen_name" : "haley_elder",
       "indices" : [ 0, 12 ],
       "id_str" : "362092295",
@@ -5956,7 +5956,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "jsnell",
       "protected" : false,
       "id_str" : "784912",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489563542136180738\/fdgx0t03_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539992431496667136\/qblx7qeY_normal.png",
       "id" : 784912,
       "verified" : true
     }

@@ -4542,7 +4542,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David",
+      "name" : "Vanadia",
       "screen_name" : "Vanadia",
       "indices" : [ 3, 11 ],
       "id_str" : "15406144",
@@ -4635,7 +4635,7 @@ Grailbird.data.tweets_2011_10 =
     "id" : 122077452104237056,
     "created_at" : "2011-10-06 22:35:08 +0000",
     "user" : {
-      "name" : "David",
+      "name" : "Vanadia",
       "screen_name" : "Vanadia",
       "protected" : false,
       "id_str" : "15406144",
@@ -5018,7 +5018,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "waxpancake",
       "protected" : false,
       "id_str" : "13461",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/530876023768752128\/rK4a2drO_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539845905889775616\/_tilXA5z_normal.png",
       "id" : 13461,
       "verified" : false
     }
@@ -5063,7 +5063,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "monteiro",
       "protected" : false,
       "id_str" : "2426",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/480334642566803457\/2HgLwJHi_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539211010993700864\/aHVsuWK9_normal.jpeg",
       "id" : 2426,
       "verified" : false
     }
@@ -5515,7 +5515,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "alex",
       "protected" : false,
       "id_str" : "7380362",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/531895207629819904\/BZD7u2qG_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/541003891320442880\/B4wqEdDy_normal.png",
       "id" : 7380362,
       "verified" : true
     }

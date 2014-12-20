@@ -313,7 +313,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "boonsri",
       "protected" : false,
       "id_str" : "14538938",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/525139144805449728\/FqXaooR7_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545613311379656704\/72lmifnI_normal.jpeg",
       "id" : 14538938,
       "verified" : false
     }
@@ -1356,7 +1356,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "NatGeo",
       "protected" : false,
       "id_str" : "17471979",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/516977577836027905\/-YIa4G2R_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/535809862244892672\/ha3Rj5Dq_normal.jpeg",
       "id" : 17471979,
       "verified" : true
     }
@@ -1834,57 +1834,6 @@ Grailbird.data.tweets_2010_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Google Voice",
-      "screen_name" : "googlevoice",
-      "indices" : [ 3, 15 ],
-      "id_str" : "22193651",
-      "id" : 22193651
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "14714432106004480",
-  "text" : "RT @googlevoice: The Google Voice app now supports iPad & iPod Touch: http:\/\/goo.gl\/7FMRd",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "14712888891539457",
-    "text" : "The Google Voice app now supports iPad & iPod Touch: http:\/\/goo.gl\/7FMRd",
-    "id" : 14712888891539457,
-    "created_at" : "2010-12-14 16:06:40 +0000",
-    "user" : {
-      "name" : "Google Voice",
-      "screen_name" : "googlevoice",
-      "protected" : false,
-      "id_str" : "22193651",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1083725699\/bubble_normal.jpg",
-      "id" : 22193651,
-      "verified" : true
-    }
-  },
-  "id" : 14714432106004480,
-  "created_at" : "2010-12-14 16:12:48 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1955,7 +1904,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "adamgurri",
       "protected" : false,
       "id_str" : "14564016",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/465233237581631490\/amIvmc8s_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/544607548850982913\/BSjdnwtK_normal.jpeg",
       "id" : 14564016,
       "verified" : false
     }
@@ -3889,7 +3838,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "Anametheus",
       "protected" : false,
       "id_str" : "5444662",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/507849779834281984\/FG6Ac0so_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/535208062642954240\/l9f1dvdh_normal.jpeg",
       "id" : 5444662,
       "verified" : false
     }

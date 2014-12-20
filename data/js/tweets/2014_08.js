@@ -773,7 +773,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/505551432880488448\/kGi4McS8_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538186547024367616\/zXjvQKED_normal.jpeg",
       "id" : 21204689,
       "verified" : false
     }
@@ -3043,7 +3043,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "AnnieLowrey",
       "protected" : false,
       "id_str" : "37281592",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/518475397013331968\/qWGZuMOn_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/546022287531454464\/jTRRNz_Q_normal.jpeg",
       "id" : 37281592,
       "verified" : true
     }
@@ -3632,7 +3632,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/505551432880488448\/kGi4McS8_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538186547024367616\/zXjvQKED_normal.jpeg",
       "id" : 21204689,
       "verified" : false
     }
@@ -4008,7 +4008,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "ryanjreilly",
       "protected" : false,
       "id_str" : "7768402",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/461276428886368256\/rnVwzrRW_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/533683197851095040\/Oy80QLrK_normal.jpeg",
       "id" : 7768402,
       "verified" : true
     }
@@ -5691,7 +5691,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "YohanaDesta",
       "protected" : false,
       "id_str" : "124306015",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/440184377511653376\/UnqfTAns_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539428540932841473\/XKnoyC6L_normal.jpeg",
       "id" : 124306015,
       "verified" : false
     }
@@ -5846,7 +5846,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Adam Serwer",
+      "name" : "Ujamaadam Serwer",
       "screen_name" : "AdamSerwer",
       "indices" : [ 3, 14 ],
       "id_str" : "16326882",
@@ -5955,11 +5955,11 @@ Grailbird.data.tweets_2014_08 =
     "id" : 499265462400999425,
     "created_at" : "2014-08-12 18:45:36 +0000",
     "user" : {
-      "name" : "Adam Serwer",
+      "name" : "Ujamaadam Serwer",
       "screen_name" : "AdamSerwer",
       "protected" : false,
       "id_str" : "16326882",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/530208592465776640\/VSzlYcS9_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/544260890384924672\/1Q_rr3XH_normal.jpeg",
       "id" : 16326882,
       "verified" : true
     }
@@ -6152,7 +6152,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "tcarmody",
       "protected" : false,
       "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/529084725017587714\/x8iT5kEN_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/544568675689197568\/jxpxRZOy_normal.jpeg",
       "id" : 14439168,
       "verified" : true
     }
@@ -6201,12 +6201,6 @@ Grailbird.data.tweets_2014_08 =
       "indices" : [ 136, 144 ],
       "id_str" : "373566752",
       "id" : 373566752
-    }, {
-      "name" : "Danielle Dirks",
-      "screen_name" : "danielledirks",
-      "indices" : [ 143, 144 ],
-      "id_str" : "259365255",
-      "id" : 259365255
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6247,12 +6241,6 @@ Grailbird.data.tweets_2014_08 =
         "indices" : [ 115, 127 ],
         "id_str" : "373566752",
         "id" : 373566752
-      }, {
-        "name" : "Danielle Dirks",
-        "screen_name" : "danielledirks",
-        "indices" : [ 128, 142 ],
-        "id_str" : "259365255",
-        "id" : 259365255
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -6273,7 +6261,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "drdavidjleonard",
       "protected" : false,
       "id_str" : "352779756",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/525874906194391040\/Mlz10dy8_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/544569457335476224\/ciQ5zo9i_normal.jpeg",
       "id" : 352779756,
       "verified" : false
     }
@@ -6293,7 +6281,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brianna Wu aka LW3",
+      "name" : "Brianna Wu",
       "screen_name" : "Spacekatgal",
       "indices" : [ 3, 15 ],
       "id_str" : "17264476",
@@ -6330,7 +6318,7 @@ Grailbird.data.tweets_2014_08 =
     "id" : 499060913497194499,
     "created_at" : "2014-08-12 05:12:48 +0000",
     "user" : {
-      "name" : "Brianna Wu aka LW3",
+      "name" : "Brianna Wu",
       "screen_name" : "Spacekatgal",
       "protected" : false,
       "id_str" : "17264476",
@@ -6501,79 +6489,6 @@ Grailbird.data.tweets_2014_08 =
   "text" : "Silicon Valley North: Vancouver tech surges as U.S. immigration reform idles http:\/\/t.co\/Jd63WqDeD4",
   "id" : 498617641158721536,
   "created_at" : "2014-08-10 23:51:24 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Nadim Kobeissi ",
-      "screen_name" : "kaepora",
-      "indices" : [ 3, 11 ],
-      "id_str" : "11728992",
-      "id" : 11728992
-    }, {
-      "name" : "EFF",
-      "screen_name" : "EFF",
-      "indices" : [ 118, 122 ],
-      "id_str" : "4816",
-      "id" : 4816
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 90, 113 ],
-      "url" : "https:\/\/t.co\/sTNua7LT6W",
-      "expanded_url" : "https:\/\/www.eff.org\/opportunities\/jobs\/staff-technologist",
-      "display_url" : "eff.org\/opportunities\/\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "498603057752469504",
-  "text" : "RT @kaepora: No pressure, but the world's best job is currently available for the taking: https:\/\/t.co\/sTNua7LT6W cc. @EFF",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "EFF",
-        "screen_name" : "EFF",
-        "indices" : [ 105, 109 ],
-        "id_str" : "4816",
-        "id" : 4816
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 77, 100 ],
-        "url" : "https:\/\/t.co\/sTNua7LT6W",
-        "expanded_url" : "https:\/\/www.eff.org\/opportunities\/jobs\/staff-technologist",
-        "display_url" : "eff.org\/opportunities\/\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "498585458398748673",
-    "text" : "No pressure, but the world's best job is currently available for the taking: https:\/\/t.co\/sTNua7LT6W cc. @EFF",
-    "id" : 498585458398748673,
-    "created_at" : "2014-08-10 21:43:31 +0000",
-    "user" : {
-      "name" : "Nadim Kobeissi ",
-      "screen_name" : "kaepora",
-      "protected" : false,
-      "id_str" : "11728992",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/512226812705767424\/hbM-toth_normal.png",
-      "id" : 11728992,
-      "verified" : false
-    }
-  },
-  "id" : 498603057752469504,
-  "created_at" : "2014-08-10 22:53:27 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
