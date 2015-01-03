@@ -2714,7 +2714,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "ericuman",
       "protected" : false,
       "id_str" : "14619527",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3083414066\/cfe37f2029f3af6cd6c3cc2044cc45fb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/547199315845087232\/oDS94X7Y_normal.jpeg",
       "id" : 14619527,
       "verified" : true
     }

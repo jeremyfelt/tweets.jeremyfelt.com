@@ -404,7 +404,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "mccanner",
       "protected" : false,
       "id_str" : "42313640",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/540318733588504576\/4wfedRe3_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/548615517133864960\/KrLq7Kkf_normal.jpeg",
       "id" : 42313640,
       "verified" : true
     }

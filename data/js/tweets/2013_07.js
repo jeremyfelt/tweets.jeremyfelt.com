@@ -6384,7 +6384,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "indices" : [ 0, 9 ],
       "id_str" : "36823",
@@ -9716,7 +9716,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -9765,7 +9765,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 354785237064089600,
     "created_at" : "2013-07-10 02:12:46 +0000",
     "user" : {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
@@ -11319,7 +11319,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Simon Wheatley",
+      "name" : " Simon Wheatley",
       "screen_name" : "simonwheatley",
       "indices" : [ 0, 14 ],
       "id_str" : "4371541",

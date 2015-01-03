@@ -97,7 +97,7 @@ Grailbird.data.tweets_2010_04 =
       "id_str" : "14515799",
       "id" : 14515799
     }, {
-      "name" : "\u2207 \u25BCJenna Wortham \u25BC\u2207",
+      "name" : "Jenna Wortham ",
       "screen_name" : "jennydeluxe",
       "indices" : [ 21, 33 ],
       "id_str" : "10454572",
@@ -114,7 +114,7 @@ Grailbird.data.tweets_2010_04 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u2207 \u25BCJenna Wortham \u25BC\u2207",
+        "name" : "Jenna Wortham ",
         "screen_name" : "jennydeluxe",
         "indices" : [ 3, 15 ],
         "id_str" : "10454572",
@@ -337,7 +337,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -364,7 +364,7 @@ Grailbird.data.tweets_2010_04 =
     "id" : 12905893217,
     "created_at" : "2010-04-26 21:34:56 +0000",
     "user" : {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
@@ -1361,7 +1361,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "adamgurri",
       "protected" : false,
       "id_str" : "14564016",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/544607548850982913\/BSjdnwtK_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549648781218557952\/fT9cETS8_normal.jpeg",
       "id" : 14564016,
       "verified" : false
     }
@@ -3243,7 +3243,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -3282,7 +3282,7 @@ Grailbird.data.tweets_2010_04 =
     "id" : 11914561810,
     "created_at" : "2010-04-10 02:12:28 +0000",
     "user" : {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",

@@ -2064,7 +2064,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -2091,7 +2091,7 @@ Grailbird.data.tweets_2011_06 =
     "id" : 84450885589151745,
     "created_at" : "2011-06-25 02:40:34 +0000",
     "user" : {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
@@ -2295,8 +2295,8 @@ Grailbird.data.tweets_2011_06 =
       "name" : "The Lulz Boat",
       "screen_name" : "LulzSec",
       "indices" : [ 77, 85 ],
-      "id_str" : "294325981",
-      "id" : 294325981
+      "id_str" : "253095533",
+      "id" : 253095533
     }, {
       "name" : "WikiLeaks",
       "screen_name" : "wikileaks",
@@ -3085,8 +3085,8 @@ Grailbird.data.tweets_2011_06 =
       "name" : "The Lulz Boat",
       "screen_name" : "LulzSec",
       "indices" : [ 49, 57 ],
-      "id_str" : "294325981",
-      "id" : 294325981
+      "id_str" : "253095533",
+      "id" : 253095533
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3102,8 +3102,8 @@ Grailbird.data.tweets_2011_06 =
         "name" : "The Lulz Boat",
         "screen_name" : "LulzSec",
         "indices" : [ 33, 41 ],
-        "id_str" : "294325981",
-        "id" : 294325981
+        "id_str" : "253095533",
+        "id" : 253095533
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -5318,7 +5318,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -5345,7 +5345,7 @@ Grailbird.data.tweets_2011_06 =
     "id" : 79217822693199872,
     "created_at" : "2011-06-10 16:06:15 +0000",
     "user" : {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
@@ -5495,7 +5495,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -5522,7 +5522,7 @@ Grailbird.data.tweets_2011_06 =
     "id" : 78524639852244992,
     "created_at" : "2011-06-08 18:11:47 +0000",
     "user" : {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",

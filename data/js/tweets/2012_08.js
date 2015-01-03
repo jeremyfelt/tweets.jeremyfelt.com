@@ -1229,7 +1229,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "harrisj",
       "protected" : false,
       "id_str" : "681473",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/542092737626271744\/AWcKdy-l_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/548478820236681216\/pFQasJYU_normal.jpeg",
       "id" : 681473,
       "verified" : true
     }
@@ -2452,7 +2452,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "maryslosson",
       "protected" : false,
       "id_str" : "37978965",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/527842031461089283\/O9ueBpG5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/547121405863952384\/dsw0Rh_X_normal.jpeg",
       "id" : 37978965,
       "verified" : false
     }
@@ -5889,7 +5889,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "matro",
       "protected" : false,
       "id_str" : "9427242",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/491776072170487808\/nYwp0eKC_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/551290527627214848\/BcAhHMCR_normal.jpeg",
       "id" : 9427242,
       "verified" : false
     }
@@ -7630,7 +7630,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "indices" : [ 0, 9 ],
       "id_str" : "36823",

@@ -2013,7 +2013,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "harrisj",
       "protected" : false,
       "id_str" : "681473",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/542092737626271744\/AWcKdy-l_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/548478820236681216\/pFQasJYU_normal.jpeg",
       "id" : 681473,
       "verified" : true
     }
@@ -2971,7 +2971,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -3040,7 +3040,7 @@ Grailbird.data.tweets_2013_09 =
     "id" : 381826777280032768,
     "created_at" : "2013-09-22 17:06:12 +0000",
     "user" : {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
@@ -4140,7 +4140,7 @@ Grailbird.data.tweets_2013_09 =
     "id" : 380855255472164864,
     "created_at" : "2013-09-20 00:45:43 +0000",
     "user" : {
-      "name" : "Angelina Fabbro",
+      "name" : "Ghost in the Machine",
       "screen_name" : "hopefulcyborg",
       "protected" : false,
       "id_str" : "58708498",
@@ -9612,7 +9612,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "beep",
       "protected" : false,
       "id_str" : "12534",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539051775999741952\/ZU5jx-Zf_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549944912330780674\/xzIo85Z8_normal.jpeg",
       "id" : 12534,
       "verified" : false
     }

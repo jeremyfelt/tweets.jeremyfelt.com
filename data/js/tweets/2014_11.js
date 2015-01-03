@@ -277,7 +277,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "NickKristof",
       "protected" : false,
       "id_str" : "17004618",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/540311690378633216\/paSx3WpH_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/550815420601479168\/RUsdNBCL_normal.jpeg",
       "id" : 17004618,
       "verified" : true
     }
@@ -421,6 +421,97 @@ Grailbird.data.tweets_2014_11 =
   "text" : "Every printer. http:\/\/t.co\/hcooDDcU3G",
   "id" : 538035582677417984,
   "created_at" : "2014-11-27 18:24:13 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Johnathan Fields",
+      "screen_name" : "JohnnyGolightly",
+      "indices" : [ 3, 19 ],
+      "id_str" : "37483728",
+      "id" : 37483728
+    }, {
+      "name" : "joe osmundson",
+      "screen_name" : "reluctantlyjoe",
+      "indices" : [ 104, 119 ],
+      "id_str" : "2184848684",
+      "id" : 2184848684
+    }, {
+      "name" : "David Leonard",
+      "screen_name" : "drdavidjleonard",
+      "indices" : [ 120, 136 ],
+      "id_str" : "352779756",
+      "id" : 352779756
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "Ferguson",
+      "indices" : [ 66, 75 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 77, 99 ],
+      "url" : "http:\/\/t.co\/APpm4JYZ5D",
+      "expanded_url" : "http:\/\/www.huffingtonpost.com\/dr-david-j-leonard\/12-things-white-people-ca_b_6222784.html",
+      "display_url" : "huffingtonpost.com\/dr-david-j-leo\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "537817245519335425",
+  "text" : "RT @JohnnyGolightly: 12 Things White People Can Do in the Wake of #Ferguson \nhttp:\/\/t.co\/APpm4JYZ5D via @reluctantlyjoe @drdavidjleonard",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "joe osmundson",
+        "screen_name" : "reluctantlyjoe",
+        "indices" : [ 83, 98 ],
+        "id_str" : "2184848684",
+        "id" : 2184848684
+      }, {
+        "name" : "David Leonard",
+        "screen_name" : "drdavidjleonard",
+        "indices" : [ 99, 115 ],
+        "id_str" : "352779756",
+        "id" : 352779756
+      } ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "Ferguson",
+        "indices" : [ 45, 54 ]
+      } ],
+      "urls" : [ {
+        "indices" : [ 56, 78 ],
+        "url" : "http:\/\/t.co\/APpm4JYZ5D",
+        "expanded_url" : "http:\/\/www.huffingtonpost.com\/dr-david-j-leonard\/12-things-white-people-ca_b_6222784.html",
+        "display_url" : "huffingtonpost.com\/dr-david-j-leo\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "537797076957298688",
+    "text" : "12 Things White People Can Do in the Wake of #Ferguson \nhttp:\/\/t.co\/APpm4JYZ5D via @reluctantlyjoe @drdavidjleonard",
+    "id" : 537797076957298688,
+    "created_at" : "2014-11-27 02:36:29 +0000",
+    "user" : {
+      "name" : "Johnathan Fields",
+      "screen_name" : "JohnnyGolightly",
+      "protected" : false,
+      "id_str" : "37483728",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538391721043034112\/KCmN37sz_normal.jpeg",
+      "id" : 37483728,
+      "verified" : false
+    }
+  },
+  "id" : 537817245519335425,
+  "created_at" : "2014-11-27 03:56:38 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -636,7 +727,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "JRhodesPianist",
       "protected" : false,
       "id_str" : "21869922",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/533620671067086850\/_6eOL3Eb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/547816338081599489\/HwJ-oDiy_normal.jpeg",
       "id" : 21869922,
       "verified" : true
     }
@@ -1063,7 +1154,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -1106,7 +1197,7 @@ Grailbird.data.tweets_2014_11 =
     "id" : 537105519736262657,
     "created_at" : "2014-11-25 04:48:29 +0000",
     "user" : {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
@@ -4389,7 +4480,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John James Jacoby",
+      "name" : "\u26C4\uFE0F",
       "screen_name" : "JJJ",
       "indices" : [ 5, 9 ],
       "id_str" : "15908706",
@@ -4604,7 +4695,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -4653,7 +4744,7 @@ Grailbird.data.tweets_2014_11 =
     "id" : 532175639559012352,
     "created_at" : "2014-11-11 14:18:54 +0000",
     "user" : {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
@@ -5177,7 +5268,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Simon Wheatley",
+      "name" : " Simon Wheatley",
       "screen_name" : "simonwheatley",
       "indices" : [ 0, 14 ],
       "id_str" : "4371541",

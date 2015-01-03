@@ -1887,7 +1887,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "BR3NDA",
       "protected" : false,
       "id_str" : "778337",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/546397882933182464\/8d-nlysK_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549841732230078464\/YIpbO__A_normal.jpeg",
       "id" : 778337,
       "verified" : false
     }
@@ -2404,7 +2404,7 @@ Grailbird.data.tweets_2010_05 =
       "id_str" : "6253282",
       "id" : 6253282
     }, {
-      "name" : "Science doe.",
+      "name" : "Science",
       "screen_name" : "s",
       "indices" : [ 77, 79 ],
       "id_str" : "347002675",
@@ -4104,7 +4104,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -4131,7 +4131,7 @@ Grailbird.data.tweets_2010_05 =
     "id" : 13513237308,
     "created_at" : "2010-05-06 23:00:09 +0000",
     "user" : {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",

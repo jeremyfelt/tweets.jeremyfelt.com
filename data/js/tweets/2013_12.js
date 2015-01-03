@@ -152,7 +152,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "Lana",
       "protected" : false,
       "id_str" : "15838676",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538950651318116352\/fpEA1x1-_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/548634161956024320\/BikcgEcc_normal.jpeg",
       "id" : 15838676,
       "verified" : false
     }
@@ -1050,7 +1050,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wes Koop",
+      "name" : "Wes for 2015",
       "screen_name" : "weskoop",
       "indices" : [ 0, 8 ],
       "id_str" : "12424882",
@@ -1083,7 +1083,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wes Koop",
+      "name" : "Wes for 2015",
       "screen_name" : "weskoop",
       "indices" : [ 0, 8 ],
       "id_str" : "12424882",
@@ -1116,7 +1116,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wes Koop",
+      "name" : "Wes for 2015",
       "screen_name" : "weskoop",
       "indices" : [ 3, 11 ],
       "id_str" : "12424882",
@@ -1170,7 +1170,7 @@ Grailbird.data.tweets_2013_12 =
     "in_reply_to_screen_name" : "jeremyfelt",
     "in_reply_to_user_id_str" : "1741681",
     "user" : {
-      "name" : "Wes Koop",
+      "name" : "Wes for 2015",
       "screen_name" : "weskoop",
       "protected" : false,
       "id_str" : "12424882",
@@ -2343,7 +2343,7 @@ Grailbird.data.tweets_2013_12 =
       "id_str" : "552844848",
       "id" : 552844848
     }, {
-      "name" : "S WPGangsta Pressler",
+      "name" : "Sarah Pressler",
       "screen_name" : "sarahpressler",
       "indices" : [ 23, 37 ],
       "id_str" : "32732360",
@@ -2382,7 +2382,7 @@ Grailbird.data.tweets_2013_12 =
       "id_str" : "552844848",
       "id" : 552844848
     }, {
-      "name" : "S WPGangsta Pressler",
+      "name" : "Sarah Pressler",
       "screen_name" : "sarahpressler",
       "indices" : [ 9, 23 ],
       "id_str" : "32732360",
@@ -6005,7 +6005,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jer",
+      "name" : "happy new jer!",
       "screen_name" : "JerMeansWell",
       "indices" : [ 3, 16 ],
       "id_str" : "15011877",
@@ -6092,7 +6092,7 @@ Grailbird.data.tweets_2013_12 =
     "id" : 411971794040418304,
     "created_at" : "2013-12-14 21:31:44 +0000",
     "user" : {
-      "name" : "jer",
+      "name" : "happy new jer!",
       "screen_name" : "JerMeansWell",
       "protected" : false,
       "id_str" : "15011877",

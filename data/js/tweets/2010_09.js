@@ -1219,7 +1219,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -1246,7 +1246,7 @@ Grailbird.data.tweets_2010_09 =
     "id" : 25791273246,
     "created_at" : "2010-09-28 14:49:25 +0000",
     "user" : {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
@@ -2362,7 +2362,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "indices" : [ 0, 9 ],
       "id_str" : "36823",
@@ -4266,7 +4266,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -4293,7 +4293,7 @@ Grailbird.data.tweets_2010_09 =
     "id" : 22896163171,
     "created_at" : "2010-09-03 15:23:16 +0000",
     "user" : {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
@@ -4568,7 +4568,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "fraying",
       "protected" : false,
       "id_str" : "4999",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/529763548621053953\/mxQ1MxKK_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/547280237499666434\/udq2mELC_normal.png",
       "id" : 4999,
       "verified" : false
     }

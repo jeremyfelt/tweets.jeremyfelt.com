@@ -4464,7 +4464,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -4515,7 +4515,7 @@ Grailbird.data.tweets_2012_11 =
     "id" : 266060759501529088,
     "created_at" : "2012-11-07 06:13:22 +0000",
     "user" : {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
@@ -6041,7 +6041,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "15808765",
       "id" : 15808765
     }, {
-      "name" : "Christmas Twee Daly",
+      "name" : "manicpixiedreambro",
       "screen_name" : "leedalyire",
       "indices" : [ 115, 126 ],
       "id_str" : "186015269",
@@ -6058,7 +6058,7 @@ Grailbird.data.tweets_2012_11 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Christmas Twee Daly",
+        "name" : "manicpixiedreambro",
         "screen_name" : "leedalyire",
         "indices" : [ 99, 110 ],
         "id_str" : "186015269",

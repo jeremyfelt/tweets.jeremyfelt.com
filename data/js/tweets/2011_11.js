@@ -1777,7 +1777,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -1816,7 +1816,7 @@ Grailbird.data.tweets_2011_11 =
     "id" : 134498756270886912,
     "created_at" : "2011-11-10 05:12:57 +0000",
     "user" : {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
@@ -1895,7 +1895,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/529468539020017664\/rMZavdpl_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549058359526432769\/0XAhLsvI_normal.jpeg",
       "id" : 22872643,
       "verified" : true
     }

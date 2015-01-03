@@ -5151,7 +5151,7 @@ Grailbird.data.tweets_2013_11 =
     "id" : 402120784505618433,
     "created_at" : "2013-11-17 17:07:20 +0000",
     "user" : {
-      "name" : "Angelina Fabbro",
+      "name" : "Ghost in the Machine",
       "screen_name" : "hopefulcyborg",
       "protected" : false,
       "id_str" : "58708498",
@@ -6813,7 +6813,7 @@ Grailbird.data.tweets_2013_11 =
       "id_str" : "16213079",
       "id" : 16213079
     }, {
-      "name" : "Anil Dash",
+      "name" : "I love Anil, but...",
       "screen_name" : "anildash",
       "indices" : [ 11, 20 ],
       "id_str" : "36823",
@@ -6836,7 +6836,7 @@ Grailbird.data.tweets_2013_11 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Anil Dash",
+        "name" : "I love Anil, but...",
         "screen_name" : "anildash",
         "indices" : [ 0, 9 ],
         "id_str" : "36823",
@@ -6954,7 +6954,7 @@ Grailbird.data.tweets_2013_11 =
       "id_str" : "14834340",
       "id" : 14834340
     }, {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "indices" : [ 14, 23 ],
       "id_str" : "36823",
@@ -6993,7 +6993,7 @@ Grailbird.data.tweets_2013_11 =
       "id_str" : "14834340",
       "id" : 14834340
     }, {
-      "name" : "Anil Dash",
+      "name" : "I love Anil, but...",
       "screen_name" : "anildash",
       "indices" : [ 121, 130 ],
       "id_str" : "36823",
@@ -10706,7 +10706,7 @@ Grailbird.data.tweets_2013_11 =
       "id_str" : "12887432",
       "id" : 12887432
     }, {
-      "name" : "Simon Wheatley",
+      "name" : " Simon Wheatley",
       "screen_name" : "simonwheatley",
       "indices" : [ 57, 71 ],
       "id_str" : "4371541",

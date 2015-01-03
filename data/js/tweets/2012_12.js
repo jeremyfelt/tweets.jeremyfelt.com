@@ -1457,7 +1457,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "Alex_Ogle",
       "protected" : false,
       "id_str" : "26957009",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/542559046608224257\/WfHtleAg_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/551043290783444992\/G69TpR5D_normal.jpeg",
       "id" : 26957009,
       "verified" : true
     }
@@ -1995,7 +1995,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "maryslosson",
       "protected" : false,
       "id_str" : "37978965",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/527842031461089283\/O9ueBpG5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/547121405863952384\/dsw0Rh_X_normal.jpeg",
       "id" : 37978965,
       "verified" : false
     }
@@ -2925,7 +2925,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/publicize.wp.com\/\" rel=\"nofollow\"\u003EWordPress.com\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "indices" : [ 42, 51 ],
       "id_str" : "36823",

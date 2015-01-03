@@ -1021,7 +1021,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sleigh Streza",
+      "name" : "Steve Streza",
       "screen_name" : "SteveStreza",
       "indices" : [ 3, 15 ],
       "id_str" : "658643",
@@ -1118,7 +1118,7 @@ Grailbird.data.tweets_2014_02 =
     "id" : 437264007628460032,
     "created_at" : "2014-02-22 16:33:58 +0000",
     "user" : {
-      "name" : "Sleigh Streza",
+      "name" : "Steve Streza",
       "screen_name" : "SteveStreza",
       "protected" : false,
       "id_str" : "658643",
@@ -2673,7 +2673,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wes Koop",
+      "name" : "Wes for 2015",
       "screen_name" : "weskoop",
       "indices" : [ 0, 8 ],
       "id_str" : "12424882",
@@ -3654,7 +3654,7 @@ Grailbird.data.tweets_2014_02 =
       "screen_name" : "mor10",
       "protected" : false,
       "id_str" : "14611891",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539575940519436288\/n1JnpYAk_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/550415231105515520\/NfTF9HVd_normal.jpeg",
       "id" : 14611891,
       "verified" : false
     }

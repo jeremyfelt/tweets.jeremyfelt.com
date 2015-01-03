@@ -1322,7 +1322,7 @@ Grailbird.data.tweets_2014_10 =
       "id_str" : "21204689",
       "id" : 21204689
     }, {
-      "name" : "Captain Sue Albano",
+      "name" : "Grumpus",
       "screen_name" : "deathbearbrown",
       "indices" : [ 66, 81 ],
       "id_str" : "21491212",
@@ -1378,7 +1378,7 @@ Grailbird.data.tweets_2014_10 =
         "id_str" : "21204689",
         "id" : 21204689
       }, {
-        "name" : "Captain Sue Albano",
+        "name" : "Grumpus",
         "screen_name" : "deathbearbrown",
         "indices" : [ 48, 63 ],
         "id_str" : "21491212",
@@ -1427,11 +1427,11 @@ Grailbird.data.tweets_2014_10 =
     "id" : 526129539588833280,
     "created_at" : "2014-10-25 21:53:51 +0000",
     "user" : {
-      "name" : "literally santa",
+      "name" : "j$",
       "screen_name" : "jennschiffer",
       "protected" : false,
       "id_str" : "12524622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/543446349191319554\/21ZmhFRi_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/550890574316728323\/4OUnwW1A_normal.png",
       "id" : 12524622,
       "verified" : false
     }
@@ -2974,7 +2974,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John James Jacoby",
+      "name" : "\u26C4\uFE0F",
       "screen_name" : "JJJ",
       "indices" : [ 3, 7 ],
       "id_str" : "15908706",
@@ -3374,7 +3374,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "norcross",
       "protected" : false,
       "id_str" : "14558147",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539278982995517440\/8UrBccIm_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/550539255349805056\/PgoXcKp2_normal.jpeg",
       "id" : 14558147,
       "verified" : false
     }
@@ -6258,7 +6258,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -6324,7 +6324,7 @@ Grailbird.data.tweets_2014_10 =
     "in_reply_to_screen_name" : "anildash",
     "in_reply_to_user_id_str" : "36823",
     "user" : {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
@@ -6348,7 +6348,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -6386,7 +6386,7 @@ Grailbird.data.tweets_2014_10 =
     "in_reply_to_screen_name" : "anildash",
     "in_reply_to_user_id_str" : "36823",
     "user" : {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",

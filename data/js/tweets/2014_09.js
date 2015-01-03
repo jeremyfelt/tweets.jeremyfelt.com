@@ -1576,7 +1576,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "pmarca",
       "protected" : false,
       "id_str" : "5943622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/436973293053034496\/Rc_YcyTy_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/548402836212436992\/PZXSVGn-_normal.jpeg",
       "id" : 5943622,
       "verified" : true
     }
@@ -2738,7 +2738,7 @@ Grailbird.data.tweets_2014_09 =
     }, {
       "name" : "Flynn O'Connor",
       "screen_name" : "thoronas",
-      "indices" : [ 139, 140 ],
+      "indices" : [ 132, 140 ],
       "id_str" : "22232652",
       "id" : 22232652
     } ],
@@ -3389,7 +3389,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "literally santa",
+      "name" : "j$",
       "screen_name" : "jennschiffer",
       "indices" : [ 3, 16 ],
       "id_str" : "12524622",
@@ -3426,11 +3426,11 @@ Grailbird.data.tweets_2014_09 =
     "id" : 514061629810835456,
     "created_at" : "2014-09-22 14:40:18 +0000",
     "user" : {
-      "name" : "literally santa",
+      "name" : "j$",
       "screen_name" : "jennschiffer",
       "protected" : false,
       "id_str" : "12524622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/543446349191319554\/21ZmhFRi_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/550890574316728323\/4OUnwW1A_normal.png",
       "id" : 12524622,
       "verified" : false
     }
@@ -3631,7 +3631,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "fmanjoo",
       "protected" : false,
       "id_str" : "2195241",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/479008652532002816\/frZsgGRP_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/550380517493710848\/jRodvBGa_normal.jpeg",
       "id" : 2195241,
       "verified" : true
     }
@@ -6462,7 +6462,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "MeredithFrost",
       "protected" : false,
       "id_str" : "26659703",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538802049203597312\/h5oenl00_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/548963350772977664\/MxjfBClU_normal.jpeg",
       "id" : 26659703,
       "verified" : true
     }
@@ -6752,7 +6752,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -6803,7 +6803,7 @@ Grailbird.data.tweets_2014_09 =
     "id" : 507708598936682496,
     "created_at" : "2014-09-05 01:55:37 +0000",
     "user" : {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",

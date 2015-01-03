@@ -2983,7 +2983,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -3010,7 +3010,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 393172286758748160,
     "created_at" : "2013-10-24 00:29:12 +0000",
     "user" : {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
@@ -3244,7 +3244,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wes Koop",
+      "name" : "Wes for 2015",
       "screen_name" : "weskoop",
       "indices" : [ 0, 8 ],
       "id_str" : "12424882",
@@ -4036,7 +4036,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 392160483995709440,
     "created_at" : "2013-10-21 05:28:40 +0000",
     "user" : {
-      "name" : "Angelina Fabbro",
+      "name" : "Ghost in the Machine",
       "screen_name" : "hopefulcyborg",
       "protected" : false,
       "id_str" : "58708498",
@@ -4133,7 +4133,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike Davidsgrinch",
+      "name" : "Mike Davidson",
       "screen_name" : "mikeindustries",
       "indices" : [ 3, 18 ],
       "id_str" : "74523",
@@ -4170,7 +4170,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 392111989490589697,
     "created_at" : "2013-10-21 02:15:58 +0000",
     "user" : {
-      "name" : "Mike Davidsgrinch",
+      "name" : "Mike Davidson",
       "screen_name" : "mikeindustries",
       "protected" : false,
       "id_str" : "74523",
@@ -5239,7 +5239,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -5276,7 +5276,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 390838573517529088,
     "created_at" : "2013-10-17 13:55:52 +0000",
     "user" : {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
@@ -5658,7 +5658,7 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "2502594218",
       "id" : 2502594218
     }, {
-      "name" : "Simon Wheatley",
+      "name" : " Simon Wheatley",
       "screen_name" : "simonwheatley",
       "indices" : [ 113, 127 ],
       "id_str" : "4371541",
@@ -5692,7 +5692,7 @@ Grailbird.data.tweets_2013_10 =
         "id_str" : "2502594218",
         "id" : 2502594218
       }, {
-        "name" : "Simon Wheatley",
+        "name" : " Simon Wheatley",
         "screen_name" : "simonwheatley",
         "indices" : [ 96, 110 ],
         "id_str" : "4371541",
@@ -6208,7 +6208,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "ginatrapani",
       "protected" : false,
       "id_str" : "930061",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000094875503\/88ec3120528d2e75172814a05cc19243_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/550825678673682432\/YRqb4FJE_normal.png",
       "id" : 930061,
       "verified" : true
     }
@@ -12815,7 +12815,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TFR",
+      "name" : "Tracy F. Rotton",
       "screen_name" : "taupecat",
       "indices" : [ 0, 9 ],
       "id_str" : "12041542",
@@ -12848,7 +12848,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TFR",
+      "name" : "Tracy F. Rotton",
       "screen_name" : "taupecat",
       "indices" : [ 0, 9 ],
       "id_str" : "12041542",
@@ -12884,7 +12884,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TFR",
+      "name" : "Tracy F. Rotton",
       "screen_name" : "taupecat",
       "indices" : [ 0, 9 ],
       "id_str" : "12041542",
@@ -13686,7 +13686,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Driedel Pollack",
+      "name" : "Neal Pollack",
       "screen_name" : "nealpollack",
       "indices" : [ 3, 15 ],
       "id_str" : "15828077",
@@ -13773,7 +13773,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 385032208508940289,
     "created_at" : "2013-10-01 13:23:26 +0000",
     "user" : {
-      "name" : "Driedel Pollack",
+      "name" : "Neal Pollack",
       "screen_name" : "nealpollack",
       "protected" : false,
       "id_str" : "15828077",

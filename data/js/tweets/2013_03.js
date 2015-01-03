@@ -8310,7 +8310,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lindsey Adler ",
+      "name" : "Lindsey Adler",
       "screen_name" : "Lahlahlindsey",
       "indices" : [ 3, 17 ],
       "id_str" : "356752859",
@@ -8397,13 +8397,13 @@ Grailbird.data.tweets_2013_03 =
     "id" : 308005626032828416,
     "created_at" : "2013-03-03 00:07:18 +0000",
     "user" : {
-      "name" : "Lindsey Adler ",
+      "name" : "Lindsey Adler",
       "screen_name" : "Lahlahlindsey",
       "protected" : false,
       "id_str" : "356752859",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538495514463846400\/IOBpnwOE_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/548523493865062400\/_N3cMIOZ_normal.jpeg",
       "id" : 356752859,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 308353804464705536,

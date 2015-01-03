@@ -857,11 +857,11 @@ Grailbird.data.tweets_2013_06 =
     "id" : 351366377015214083,
     "created_at" : "2013-06-30 15:47:27 +0000",
     "user" : {
-      "name" : "Sweater Weather",
+      "name" : "name:\/\/mike.rap.in",
       "screen_name" : "mikerapin",
       "protected" : false,
       "id_str" : "1144581",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/524648904894464000\/jS4G6v7V_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/550629852156805120\/p5kso_cY_normal.jpeg",
       "id" : 1144581,
       "verified" : false
     }
@@ -10923,7 +10923,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -10950,7 +10950,7 @@ Grailbird.data.tweets_2013_06 =
     "id" : 342856255343300608,
     "created_at" : "2013-06-07 04:11:15 +0000",
     "user" : {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",

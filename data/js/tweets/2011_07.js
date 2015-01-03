@@ -521,7 +521,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "harrisj",
       "protected" : false,
       "id_str" : "681473",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/542092737626271744\/AWcKdy-l_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/548478820236681216\/pFQasJYU_normal.jpeg",
       "id" : 681473,
       "verified" : true
     }
@@ -1291,12 +1291,6 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "80617430",
       "id" : 80617430
     }, {
-      "name" : "Emma Gilbey Keller",
-      "screen_name" : "emmagkeller",
-      "indices" : [ 23, 35 ],
-      "id_str" : "21053056",
-      "id" : 21053056
-    }, {
       "name" : "nytkeller",
       "screen_name" : "nytkeller",
       "indices" : [ 37, 47 ],
@@ -1314,12 +1308,6 @@ Grailbird.data.tweets_2011_07 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Emma Gilbey Keller",
-        "screen_name" : "emmagkeller",
-        "indices" : [ 8, 20 ],
-        "id_str" : "21053056",
-        "id" : 21053056
-      }, {
         "name" : "nytkeller",
         "screen_name" : "nytkeller",
         "indices" : [ 22, 32 ],
@@ -2581,7 +2569,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "AntDeRosa",
       "protected" : false,
       "id_str" : "1140451",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/546287618305323008\/WeBRKxNn_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549067377300627456\/A5KupXjG_normal.png",
       "id" : 1140451,
       "verified" : true
     }
@@ -3775,7 +3763,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "Nero",
       "protected" : false,
       "id_str" : "6160792",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/535882304590462976\/DxGK14S9_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/547189268548812800\/nOVFRdBN_normal.png",
       "id" : 6160792,
       "verified" : false
     }

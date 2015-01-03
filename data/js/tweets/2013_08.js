@@ -1789,7 +1789,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wes Koop",
+      "name" : "Wes for 2015",
       "screen_name" : "weskoop",
       "indices" : [ 0, 8 ],
       "id_str" : "12424882",
@@ -2180,7 +2180,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wes Koop",
+      "name" : "Wes for 2015",
       "screen_name" : "weskoop",
       "indices" : [ 0, 8 ],
       "id_str" : "12424882",

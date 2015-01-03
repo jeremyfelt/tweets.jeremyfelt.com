@@ -766,7 +766,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "indices" : [ 0, 9 ],
       "id_str" : "36823",
@@ -5853,7 +5853,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545247199928397825\/WkgI2mRR_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549584389684723712\/yWjkHMSw_normal.jpeg",
       "id" : 819797,
       "verified" : false
     }
@@ -5906,7 +5906,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -5933,7 +5933,7 @@ Grailbird.data.tweets_2011_09 =
     "id" : 111961311226765312,
     "created_at" : "2011-09-09 00:37:11 +0000",
     "user" : {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",

@@ -1145,7 +1145,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "ShenoaLawrence",
       "protected" : false,
       "id_str" : "37127416",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/533405819534970880\/8EoUamjR_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/547563487799410688\/UOBoiloY_normal.jpeg",
       "id" : 37127416,
       "verified" : false
     }
@@ -2249,7 +2249,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "mor10",
       "protected" : false,
       "id_str" : "14611891",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539575940519436288\/n1JnpYAk_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/550415231105515520\/NfTF9HVd_normal.jpeg",
       "id" : 14611891,
       "verified" : false
     }
@@ -2738,7 +2738,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "mor10",
       "protected" : false,
       "id_str" : "14611891",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539575940519436288\/n1JnpYAk_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/550415231105515520\/NfTF9HVd_normal.jpeg",
       "id" : 14611891,
       "verified" : false
     }
@@ -4479,7 +4479,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Simon Wheatley",
+      "name" : " Simon Wheatley",
       "screen_name" : "simonwheatley",
       "indices" : [ 0, 14 ],
       "id_str" : "4371541",

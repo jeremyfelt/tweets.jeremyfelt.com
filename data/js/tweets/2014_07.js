@@ -2960,7 +2960,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Simon Wheatley",
+      "name" : " Simon Wheatley",
       "screen_name" : "simonwheatley",
       "indices" : [ 110, 124 ],
       "id_str" : "4371541",
@@ -3471,7 +3471,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "petosagan",
       "protected" : false,
       "id_str" : "992789466",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3114194682\/92726a4616bd628233dac53155f25819_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/550982538295246848\/AzgLmkNd_normal.jpeg",
       "id" : 992789466,
       "verified" : true
     }
@@ -3798,7 +3798,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -3871,7 +3871,7 @@ Grailbird.data.tweets_2014_07 =
     "id" : 489056453735763968,
     "created_at" : "2014-07-15 14:38:39 +0000",
     "user" : {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
@@ -6979,7 +6979,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "edyong209",
       "protected" : false,
       "id_str" : "19767193",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539945031092543488\/cXwIgq2T_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/551081327240290304\/42JbmjR4_normal.jpeg",
       "id" : 19767193,
       "verified" : false
     }

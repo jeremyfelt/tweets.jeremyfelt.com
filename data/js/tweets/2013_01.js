@@ -661,7 +661,7 @@ Grailbird.data.tweets_2013_01 =
       "id_str" : "912311",
       "id" : 912311
     }, {
-      "name" : " GOAT.",
+      "name" : " #GOAT2.",
       "screen_name" : "llcoolj",
       "indices" : [ 40, 48 ],
       "id_str" : "19330043",
@@ -683,7 +683,7 @@ Grailbird.data.tweets_2013_01 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : " GOAT.",
+        "name" : " #GOAT2.",
         "screen_name" : "llcoolj",
         "indices" : [ 24, 32 ],
         "id_str" : "19330043",
@@ -1133,7 +1133,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "DallasPD",
       "protected" : false,
       "id_str" : "28758060",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539454691201933312\/QY9SiS7Y_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549697919830339584\/Vw1eBPIO_normal.jpeg",
       "id" : 28758060,
       "verified" : true
     }
@@ -6236,7 +6236,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "harrisj",
       "protected" : false,
       "id_str" : "681473",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/542092737626271744\/AWcKdy-l_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/548478820236681216\/pFQasJYU_normal.jpeg",
       "id" : 681473,
       "verified" : true
     }
