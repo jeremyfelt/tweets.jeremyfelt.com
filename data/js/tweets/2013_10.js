@@ -2695,7 +2695,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mark Jaquith",
+      "name" : "Mark Jaquith ",
       "screen_name" : "markjaquith",
       "indices" : [ 0, 12 ],
       "id_str" : "821042",
@@ -2728,7 +2728,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mark Jaquith",
+      "name" : "Mark Jaquith ",
       "screen_name" : "markjaquith",
       "indices" : [ 0, 12 ],
       "id_str" : "821042",
@@ -4174,7 +4174,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "mikeindustries",
       "protected" : false,
       "id_str" : "74523",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/481675513098809344\/FfV9Mi85_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/556325820617072640\/oDKRukv4_normal.jpeg",
       "id" : 74523,
       "verified" : false
     }
@@ -4718,7 +4718,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mark Jaquith",
+      "name" : "Mark Jaquith ",
       "screen_name" : "markjaquith",
       "indices" : [ 3, 15 ],
       "id_str" : "821042",
@@ -4769,7 +4769,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 391304924258394112,
     "created_at" : "2013-10-18 20:48:58 +0000",
     "user" : {
-      "name" : "Mark Jaquith",
+      "name" : "Mark Jaquith ",
       "screen_name" : "markjaquith",
       "protected" : false,
       "id_str" : "821042",
@@ -9660,7 +9660,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mark Jaquith",
+      "name" : "Mark Jaquith ",
       "screen_name" : "markjaquith",
       "indices" : [ 0, 12 ],
       "id_str" : "821042",
@@ -9699,7 +9699,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mark Jaquith",
+      "name" : "Mark Jaquith ",
       "screen_name" : "markjaquith",
       "indices" : [ 0, 12 ],
       "id_str" : "821042",
@@ -9820,7 +9820,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mark Jaquith",
+      "name" : "Mark Jaquith ",
       "screen_name" : "markjaquith",
       "indices" : [ 0, 12 ],
       "id_str" : "821042",

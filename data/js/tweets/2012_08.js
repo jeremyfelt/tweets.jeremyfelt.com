@@ -1290,7 +1290,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "dansinker",
       "protected" : false,
       "id_str" : "8119452",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538900783098769408\/CnU3IAaB_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552597001393561600\/vhKa2xDz_normal.jpeg",
       "id" : 8119452,
       "verified" : false
     }
@@ -1763,6 +1763,12 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 25, 35 ],
       "id_str" : "10672622",
       "id" : 10672622
+    }, {
+      "name" : "Kevinjohn Gallagher",
+      "screen_name" : "KevinjohnG",
+      "indices" : [ 36, 47 ],
+      "id_str" : "2968419555",
+      "id" : 2968419555
     }, {
       "name" : "Taylor Lovett",
       "screen_name" : "tlovett12",
@@ -3422,7 +3428,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "meeshfelt",
       "protected" : false,
       "id_str" : "32924315",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/454493606317801472\/XzVXSO85_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553671214997053440\/UAU9dG0z_normal.jpeg",
       "id" : 32924315,
       "verified" : false
     }

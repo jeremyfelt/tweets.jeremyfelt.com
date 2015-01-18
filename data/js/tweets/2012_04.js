@@ -1353,7 +1353,7 @@ Grailbird.data.tweets_2012_04 =
       "id_str" : "930061",
       "id" : 930061
     }, {
-      "name" : "I love Anil, but...",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "indices" : [ 109, 118 ],
       "id_str" : "36823",
@@ -1375,7 +1375,7 @@ Grailbird.data.tweets_2012_04 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "I love Anil, but...",
+        "name" : "Anil Dash Dot Com",
         "screen_name" : "anildash",
         "indices" : [ 92, 101 ],
         "id_str" : "36823",
@@ -1543,7 +1543,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "StanCarey",
       "protected" : false,
       "id_str" : "34347535",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1161761330\/Stan_Carey_profile_bwbs_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553296209704517632\/0dPvLB8t_normal.jpeg",
       "id" : 34347535,
       "verified" : false
     }

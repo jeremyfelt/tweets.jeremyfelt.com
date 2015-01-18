@@ -141,7 +141,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "sarahcuda",
       "protected" : false,
       "id_str" : "5668942",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1763460129\/lacy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/554050410604797952\/bH2ZyGY8_normal.jpeg",
       "id" : 5668942,
       "verified" : false
     }
@@ -1731,7 +1731,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "berkun",
       "protected" : false,
       "id_str" : "30495974",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/520607062376452096\/S2sTpNE-_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553404565974810624\/-W0w3VbD_normal.jpeg",
       "id" : 30495974,
       "verified" : false
     }
@@ -6041,7 +6041,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "15808765",
       "id" : 15808765
     }, {
-      "name" : "manicpixiedreambro",
+      "name" : "Lee Daly ",
       "screen_name" : "leedalyire",
       "indices" : [ 115, 126 ],
       "id_str" : "186015269",
@@ -6058,7 +6058,7 @@ Grailbird.data.tweets_2012_11 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "manicpixiedreambro",
+        "name" : "Lee Daly ",
         "screen_name" : "leedalyire",
         "indices" : [ 99, 110 ],
         "id_str" : "186015269",

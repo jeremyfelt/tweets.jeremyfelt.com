@@ -85,7 +85,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Falalalala-la-Ladama",
+      "name" : "Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -6425,7 +6425,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "tcarmody",
       "protected" : false,
       "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/544568675689197568\/jxpxRZOy_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553945946955202561\/jR6MMaz2_normal.jpeg",
       "id" : 14439168,
       "verified" : true
     }
@@ -7937,7 +7937,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "tcarmody",
       "protected" : false,
       "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/544568675689197568\/jxpxRZOy_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553945946955202561\/jR6MMaz2_normal.jpeg",
       "id" : 14439168,
       "verified" : true
     }
@@ -7990,7 +7990,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Falalalala-la-Ladama",
+      "name" : "Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -8023,7 +8023,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Falalalala-la-Ladama",
+      "name" : "Ladama",
       "screen_name" : "ladama",
       "indices" : [ 3, 10 ],
       "id_str" : "16390477",
@@ -8060,7 +8060,7 @@ Grailbird.data.tweets_2011_09 =
     "id" : 109313633892315137,
     "created_at" : "2011-09-01 17:16:15 +0000",
     "user" : {
-      "name" : "Falalalala-la-Ladama",
+      "name" : "Ladama",
       "screen_name" : "ladama",
       "protected" : false,
       "id_str" : "16390477",

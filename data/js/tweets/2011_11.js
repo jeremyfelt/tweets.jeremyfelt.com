@@ -2487,7 +2487,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "meeshfelt",
       "protected" : false,
       "id_str" : "32924315",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/454493606317801472\/XzVXSO85_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553671214997053440\/UAU9dG0z_normal.jpeg",
       "id" : 32924315,
       "verified" : false
     }
@@ -2507,7 +2507,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mark Jaquith",
+      "name" : "Mark Jaquith ",
       "screen_name" : "markjaquith",
       "indices" : [ 0, 12 ],
       "id_str" : "821042",
@@ -3543,7 +3543,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "StanCarey",
       "protected" : false,
       "id_str" : "34347535",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1161761330\/Stan_Carey_profile_bwbs_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553296209704517632\/0dPvLB8t_normal.jpeg",
       "id" : 34347535,
       "verified" : false
     }

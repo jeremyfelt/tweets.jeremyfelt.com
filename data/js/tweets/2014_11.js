@@ -505,7 +505,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "JohnnyGolightly",
       "protected" : false,
       "id_str" : "37483728",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538391721043034112\/KCmN37sz_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552326273419059200\/78dgqjDz_normal.jpeg",
       "id" : 37483728,
       "verified" : false
     }
@@ -1443,7 +1443,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "tcarmody",
       "protected" : false,
       "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/544568675689197568\/jxpxRZOy_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553945946955202561\/jR6MMaz2_normal.jpeg",
       "id" : 14439168,
       "verified" : true
     }

@@ -987,11 +987,11 @@ Grailbird.data.tweets_2009_11 =
       "id_str" : "56436449",
       "id" : 56436449
     }, {
-      "name" : "Seesmic ",
+      "name" : "Hootsuite",
       "screen_name" : "Seesmic",
       "indices" : [ 31, 39 ],
-      "id_str" : "8039442",
-      "id" : 8039442
+      "id_str" : "2678027538",
+      "id" : 2678027538
     } ],
     "media" : [ ],
     "hashtags" : [ ],

@@ -2047,7 +2047,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "2015 jacob",
+      "name" : "mid-jan jacob",
       "screen_name" : "jacob_saxton",
       "indices" : [ 3, 16 ],
       "id_str" : "501207116",
@@ -2091,7 +2091,7 @@ Grailbird.data.tweets_2013_02 =
     "in_reply_to_screen_name" : "ChuckGrassley",
     "in_reply_to_user_id_str" : "10615232",
     "user" : {
-      "name" : "2015 jacob",
+      "name" : "mid-jan jacob",
       "screen_name" : "jacob_saxton",
       "protected" : false,
       "id_str" : "501207116",
@@ -6154,7 +6154,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "meeshfelt",
       "protected" : false,
       "id_str" : "32924315",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/454493606317801472\/XzVXSO85_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553671214997053440\/UAU9dG0z_normal.jpeg",
       "id" : 32924315,
       "verified" : false
     }
@@ -7677,7 +7677,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mark Jaquith",
+      "name" : "Mark Jaquith ",
       "screen_name" : "markjaquith",
       "indices" : [ 0, 12 ],
       "id_str" : "821042",
@@ -7817,7 +7817,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mark Jaquith",
+      "name" : "Mark Jaquith ",
       "screen_name" : "markjaquith",
       "indices" : [ 0, 12 ],
       "id_str" : "821042",

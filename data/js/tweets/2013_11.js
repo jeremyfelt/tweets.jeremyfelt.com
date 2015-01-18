@@ -370,7 +370,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mark Jaquith",
+      "name" : "Mark Jaquith ",
       "screen_name" : "markjaquith",
       "indices" : [ 0, 12 ],
       "id_str" : "821042",
@@ -3939,7 +3939,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "ArianFoster",
       "protected" : false,
       "id_str" : "110839423",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/506041806728232960\/Mygw4JFP_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/556458186312409088\/q2RGTPBN_normal.jpeg",
       "id" : 110839423,
       "verified" : true
     }
@@ -4898,7 +4898,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "dansinker",
       "protected" : false,
       "id_str" : "8119452",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538900783098769408\/CnU3IAaB_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552597001393561600\/vhKa2xDz_normal.jpeg",
       "id" : 8119452,
       "verified" : false
     }
@@ -6813,7 +6813,7 @@ Grailbird.data.tweets_2013_11 =
       "id_str" : "16213079",
       "id" : 16213079
     }, {
-      "name" : "I love Anil, but...",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "indices" : [ 11, 20 ],
       "id_str" : "36823",
@@ -6836,7 +6836,7 @@ Grailbird.data.tweets_2013_11 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "I love Anil, but...",
+        "name" : "Anil Dash Dot Com",
         "screen_name" : "anildash",
         "indices" : [ 0, 9 ],
         "id_str" : "36823",
@@ -6993,7 +6993,7 @@ Grailbird.data.tweets_2013_11 =
       "id_str" : "14834340",
       "id" : 14834340
     }, {
-      "name" : "I love Anil, but...",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "indices" : [ 121, 130 ],
       "id_str" : "36823",
@@ -9293,7 +9293,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mark Jaquith",
+      "name" : "Mark Jaquith ",
       "screen_name" : "markjaquith",
       "indices" : [ 3, 15 ],
       "id_str" : "821042",
@@ -9330,7 +9330,7 @@ Grailbird.data.tweets_2013_11 =
     "id" : 398287611837808641,
     "created_at" : "2013-11-07 03:15:41 +0000",
     "user" : {
-      "name" : "Mark Jaquith",
+      "name" : "Mark Jaquith ",
       "screen_name" : "markjaquith",
       "protected" : false,
       "id_str" : "821042",
@@ -9788,7 +9788,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "dansinker",
       "protected" : false,
       "id_str" : "8119452",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538900783098769408\/CnU3IAaB_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552597001393561600\/vhKa2xDz_normal.jpeg",
       "id" : 8119452,
       "verified" : false
     }

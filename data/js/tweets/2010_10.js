@@ -1090,7 +1090,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "dannysullivan",
       "protected" : false,
       "id_str" : "858051",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477576391630659585\/acgrnKzx_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553314476452089856\/TH6pkcce_normal.jpeg",
       "id" : 858051,
       "verified" : true
     }
@@ -1486,7 +1486,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "dannysullivan",
       "protected" : false,
       "id_str" : "858051",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477576391630659585\/acgrnKzx_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553314476452089856\/TH6pkcce_normal.jpeg",
       "id" : 858051,
       "verified" : true
     }
@@ -2304,7 +2304,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Falalalala-la-Ladama",
+      "name" : "Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -3773,7 +3773,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "824157",
       "id" : 824157
     }, {
-      "name" : "Jason Jordan",
+      "name" : "JJ",
       "screen_name" : "jasonjordan",
       "indices" : [ 16, 28 ],
       "id_str" : "18114168",
@@ -3790,7 +3790,7 @@ Grailbird.data.tweets_2010_10 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Jason Jordan",
+        "name" : "JJ",
         "screen_name" : "jasonjordan",
         "indices" : [ 3, 15 ],
         "id_str" : "18114168",

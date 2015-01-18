@@ -1940,7 +1940,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "WSUMensHoops",
       "protected" : false,
       "id_str" : "199536925",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/466635640654688256\/rWsqHwzt_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552586186821083138\/HQHLkBuy_normal.jpeg",
       "id" : 199536925,
       "verified" : false
     }
@@ -3224,7 +3224,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "TheAPJournalist",
       "protected" : false,
       "id_str" : "1543801099",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/551148314498850816\/sOCIKBiw_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/551790170966478849\/_GyaZ15v_normal.png",
       "id" : 1543801099,
       "verified" : false
     }
@@ -5846,7 +5846,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ujamaadam Serwer",
+      "name" : "Adam Serwer",
       "screen_name" : "AdamSerwer",
       "indices" : [ 3, 14 ],
       "id_str" : "16326882",
@@ -5955,11 +5955,11 @@ Grailbird.data.tweets_2014_08 =
     "id" : 499265462400999425,
     "created_at" : "2014-08-12 18:45:36 +0000",
     "user" : {
-      "name" : "Ujamaadam Serwer",
+      "name" : "Adam Serwer",
       "screen_name" : "AdamSerwer",
       "protected" : false,
       "id_str" : "16326882",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/544260890384924672\/1Q_rr3XH_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/555077084507164672\/Ic_b3LPg_normal.jpeg",
       "id" : 16326882,
       "verified" : true
     }
@@ -6152,7 +6152,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "tcarmody",
       "protected" : false,
       "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/544568675689197568\/jxpxRZOy_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553945946955202561\/jR6MMaz2_normal.jpeg",
       "id" : 14439168,
       "verified" : true
     }
@@ -6201,6 +6201,12 @@ Grailbird.data.tweets_2014_08 =
       "indices" : [ 136, 144 ],
       "id_str" : "373566752",
       "id" : 373566752
+    }, {
+      "name" : "Danielle Dirks",
+      "screen_name" : "danielledirks",
+      "indices" : [ 143, 144 ],
+      "id_str" : "2982148739",
+      "id" : 2982148739
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6241,6 +6247,12 @@ Grailbird.data.tweets_2014_08 =
         "indices" : [ 115, 127 ],
         "id_str" : "373566752",
         "id" : 373566752
+      }, {
+        "name" : "Danielle Dirks",
+        "screen_name" : "danielledirks",
+        "indices" : [ 128, 142 ],
+        "id_str" : "2982148739",
+        "id" : 2982148739
       } ],
       "media" : [ ],
       "hashtags" : [ ],

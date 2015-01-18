@@ -3389,7 +3389,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "j$",
+      "name" : "jam scheffir",
       "screen_name" : "jennschiffer",
       "indices" : [ 3, 16 ],
       "id_str" : "12524622",
@@ -3426,11 +3426,11 @@ Grailbird.data.tweets_2014_09 =
     "id" : 514061629810835456,
     "created_at" : "2014-09-22 14:40:18 +0000",
     "user" : {
-      "name" : "j$",
+      "name" : "jam scheffir",
       "screen_name" : "jennschiffer",
       "protected" : false,
       "id_str" : "12524622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/550890574316728323\/4OUnwW1A_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/554333521016532994\/7vlovlei_normal.jpeg",
       "id" : 12524622,
       "verified" : false
     }
@@ -3570,7 +3570,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "TimKarr",
       "protected" : false,
       "id_str" : "15902877",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/462288975936241668\/W4UJqPZH_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/554756774880768000\/KjpuHPhj_normal.jpeg",
       "id" : 15902877,
       "verified" : false
     }
@@ -6462,7 +6462,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "MeredithFrost",
       "protected" : false,
       "id_str" : "26659703",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/548963350772977664\/MxjfBClU_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/554122317262241792\/y3ni33W__normal.jpeg",
       "id" : 26659703,
       "verified" : true
     }

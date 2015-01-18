@@ -1552,7 +1552,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "fredbenenson",
       "protected" : false,
       "id_str" : "2254561",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/541477713115381761\/-w5YvAAC_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/554362110495309824\/ItDPPfBY_normal.jpeg",
       "id" : 2254561,
       "verified" : false
     }

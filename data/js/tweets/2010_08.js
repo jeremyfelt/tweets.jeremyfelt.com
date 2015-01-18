@@ -2474,7 +2474,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Furrier .....",
+      "name" : "John Furrier :-)",
       "screen_name" : "furrier",
       "indices" : [ 3, 11 ],
       "id_str" : "833071",
@@ -2501,7 +2501,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 22042021356,
     "created_at" : "2010-08-24 23:49:38 +0000",
     "user" : {
-      "name" : "John Furrier .....",
+      "name" : "John Furrier :-)",
       "screen_name" : "furrier",
       "protected" : false,
       "id_str" : "833071",

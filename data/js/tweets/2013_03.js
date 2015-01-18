@@ -1007,7 +1007,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Falalalala-la-Ladama",
+      "name" : "Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -4032,7 +4032,7 @@ Grailbird.data.tweets_2013_03 =
       "screen_name" : "elea",
       "protected" : false,
       "id_str" : "9457",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/518273424205291520\/qPRgAEwl_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/555235256328916993\/CPi5yZXu_normal.jpeg",
       "id" : 9457,
       "verified" : false
     }

@@ -883,7 +883,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Daniel Immke",
+      "name" : "Dan Immke",
       "screen_name" : "danielimmke",
       "indices" : [ 0, 12 ],
       "id_str" : "229286623",
@@ -3009,7 +3009,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Daniel Immke",
+      "name" : "Dan Immke",
       "screen_name" : "danielimmke",
       "indices" : [ 0, 12 ],
       "id_str" : "229286623",
@@ -3054,7 +3054,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Daniel Immke",
+      "name" : "Dan Immke",
       "screen_name" : "danielimmke",
       "indices" : [ 0, 12 ],
       "id_str" : "229286623",
@@ -6005,7 +6005,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "happy new jer!",
+      "name" : "jer",
       "screen_name" : "JerMeansWell",
       "indices" : [ 3, 16 ],
       "id_str" : "15011877",
@@ -6092,7 +6092,7 @@ Grailbird.data.tweets_2013_12 =
     "id" : 411971794040418304,
     "created_at" : "2013-12-14 21:31:44 +0000",
     "user" : {
-      "name" : "happy new jer!",
+      "name" : "jer",
       "screen_name" : "JerMeansWell",
       "protected" : false,
       "id_str" : "15011877",
@@ -7020,7 +7020,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Daniel Immke",
+      "name" : "Dan Immke",
       "screen_name" : "danielimmke",
       "indices" : [ 0, 12 ],
       "id_str" : "229286623",
@@ -7110,7 +7110,7 @@ Grailbird.data.tweets_2013_12 =
       "id_str" : "21204689",
       "id" : 21204689
     }, {
-      "name" : "Daniel Immke",
+      "name" : "Dan Immke",
       "screen_name" : "danielimmke",
       "indices" : [ 51, 63 ],
       "id_str" : "229286623",
@@ -9019,7 +9019,7 @@ Grailbird.data.tweets_2013_12 =
       "id_str" : "138816363",
       "id" : 138816363
     }, {
-      "name" : "Daniel Immke",
+      "name" : "Dan Immke",
       "screen_name" : "danielimmke",
       "indices" : [ 49, 61 ],
       "id_str" : "229286623",
@@ -9076,7 +9076,7 @@ Grailbird.data.tweets_2013_12 =
       "id_str" : "138816363",
       "id" : 138816363
     }, {
-      "name" : "Daniel Immke",
+      "name" : "Dan Immke",
       "screen_name" : "danielimmke",
       "indices" : [ 49, 61 ],
       "id_str" : "229286623",
@@ -9133,7 +9133,7 @@ Grailbird.data.tweets_2013_12 =
       "id_str" : "138816363",
       "id" : 138816363
     }, {
-      "name" : "Daniel Immke",
+      "name" : "Dan Immke",
       "screen_name" : "danielimmke",
       "indices" : [ 49, 61 ],
       "id_str" : "229286623",
@@ -9190,7 +9190,7 @@ Grailbird.data.tweets_2013_12 =
       "id_str" : "356861615",
       "id" : 356861615
     }, {
-      "name" : "Daniel Immke",
+      "name" : "Dan Immke",
       "screen_name" : "danielimmke",
       "indices" : [ 49, 61 ],
       "id_str" : "229286623",

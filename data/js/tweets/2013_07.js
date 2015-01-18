@@ -2546,7 +2546,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mark Jaquith",
+      "name" : "Mark Jaquith ",
       "screen_name" : "markjaquith",
       "indices" : [ 0, 12 ],
       "id_str" : "821042",
@@ -2594,7 +2594,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "6306542",
       "id" : 6306542
     }, {
-      "name" : "Mark Jaquith",
+      "name" : "Mark Jaquith ",
       "screen_name" : "markjaquith",
       "indices" : [ 29, 41 ],
       "id_str" : "821042",
@@ -2614,7 +2614,7 @@ Grailbird.data.tweets_2013_07 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Mark Jaquith",
+        "name" : "Mark Jaquith ",
         "screen_name" : "markjaquith",
         "indices" : [ 17, 29 ],
         "id_str" : "821042",
@@ -3002,7 +3002,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "12819682",
       "id" : 12819682
     }, {
-      "name" : "Mark Jaquith",
+      "name" : "Mark Jaquith ",
       "screen_name" : "markjaquith",
       "indices" : [ 124, 136 ],
       "id_str" : "821042",
@@ -7578,11 +7578,11 @@ Grailbird.data.tweets_2013_07 =
     "id" : 355759031949860864,
     "created_at" : "2013-07-12 18:42:17 +0000",
     "user" : {
-      "name" : "Daniel Immke",
+      "name" : "Dan Immke",
       "screen_name" : "danielimmke",
       "protected" : false,
       "id_str" : "229286623",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/460322227175817216\/mdfpqUOI_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/555852738920083456\/gAxpTilX_normal.jpeg",
       "id" : 229286623,
       "verified" : false
     }
@@ -7702,7 +7702,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "21204689",
       "id" : 21204689
     }, {
-      "name" : "Mark Jaquith",
+      "name" : "Mark Jaquith ",
       "screen_name" : "markjaquith",
       "indices" : [ 29, 41 ],
       "id_str" : "821042",

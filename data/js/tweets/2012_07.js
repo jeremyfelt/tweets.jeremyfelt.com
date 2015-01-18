@@ -793,7 +793,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "tcarmody",
       "protected" : false,
       "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/544568675689197568\/jxpxRZOy_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553945946955202561\/jR6MMaz2_normal.jpeg",
       "id" : 14439168,
       "verified" : true
     }
@@ -2692,7 +2692,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mark Jaquith",
+      "name" : "Mark Jaquith ",
       "screen_name" : "markjaquith",
       "indices" : [ 0, 12 ],
       "id_str" : "821042",
@@ -4283,7 +4283,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@sweden \/ Elinor",
+      "name" : "@sweden \/ Margit",
       "screen_name" : "sweden",
       "indices" : [ 3, 10 ],
       "id_str" : "19663706",
@@ -4310,11 +4310,11 @@ Grailbird.data.tweets_2012_07 =
     "id" : 221571629128499200,
     "created_at" : "2012-07-07 11:49:27 +0000",
     "user" : {
-      "name" : "@sweden \/ Elinor",
+      "name" : "@sweden \/ Margit",
       "screen_name" : "sweden",
       "protected" : false,
       "id_str" : "19663706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549482893060227073\/sYzubTDF_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/554555827319603200\/1XVyL5cP_normal.png",
       "id" : 19663706,
       "verified" : false
     }
@@ -4942,7 +4942,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "d",
+      "name" : "dddddd",
       "screen_name" : "dddagradi",
       "indices" : [ 3, 13 ],
       "id_str" : "13237062",
@@ -4981,7 +4981,7 @@ Grailbird.data.tweets_2012_07 =
     "id" : 219910065828802560,
     "created_at" : "2012-07-02 21:47:00 +0000",
     "user" : {
-      "name" : "d",
+      "name" : "dddddd",
       "screen_name" : "dddagradi",
       "protected" : false,
       "id_str" : "13237062",

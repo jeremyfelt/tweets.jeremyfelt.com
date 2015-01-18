@@ -287,7 +287,7 @@ Grailbird.data.tweets_2014_03 =
       "screen_name" : "CateMartel",
       "protected" : false,
       "id_str" : "1493053800",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539046296620138496\/cCxZyqjE_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553343308374605825\/2y-yjOGJ_normal.png",
       "id" : 1493053800,
       "verified" : false
     }
@@ -5928,7 +5928,7 @@ Grailbird.data.tweets_2014_03 =
       "screen_name" : "dronelaws",
       "protected" : false,
       "id_str" : "1653755071",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413156622366547968\/RVAuQWnt_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/555095504439099392\/JRZmhjbj_normal.jpeg",
       "id" : 1653755071,
       "verified" : false
     }
@@ -5984,7 +5984,7 @@ Grailbird.data.tweets_2014_03 =
       "id_str" : "6306542",
       "id" : 6306542
     }, {
-      "name" : "Mark Jaquith",
+      "name" : "Mark Jaquith ",
       "screen_name" : "markjaquith",
       "indices" : [ 8, 20 ],
       "id_str" : "821042",

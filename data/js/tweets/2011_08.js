@@ -1281,67 +1281,6 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Justin Stahl",
-      "screen_name" : "justahl",
-      "indices" : [ 3, 11 ],
-      "id_str" : "39295667",
-      "id" : 39295667
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/DPgZP9b",
-      "expanded_url" : "http:\/\/www.apple.com\/pr\/bios\/",
-      "display_url" : "apple.com\/pr\/bios\/"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "106790594390663168",
-  "text" : "RT @justahl: Appalled by the frivolous exposed screws on the Nikon facing him, unlike the others, Jonathan Ive cannot force a smile. htt ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 120, 139 ],
-        "url" : "http:\/\/t.co\/DPgZP9b",
-        "expanded_url" : "http:\/\/www.apple.com\/pr\/bios\/",
-        "display_url" : "apple.com\/pr\/bios\/"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "106789360019570688",
-    "text" : "Appalled by the frivolous exposed screws on the Nikon facing him, unlike the others, Jonathan Ive cannot force a smile. http:\/\/t.co\/DPgZP9b",
-    "id" : 106789360019570688,
-    "created_at" : "2011-08-25 18:05:42 +0000",
-    "user" : {
-      "name" : "Justin Stahl",
-      "screen_name" : "justahl",
-      "protected" : false,
-      "id_str" : "39295667",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000776842364\/98a0b392d7deb3fdbcd167f5c47ca1fb_normal.jpeg",
-      "id" : 39295667,
-      "verified" : false
-    }
-  },
-  "id" : 106790594390663168,
-  "created_at" : "2011-08-25 18:10:36 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Jack Schofield",
       "screen_name" : "jackschofield",
       "indices" : [ 3, 17 ],
@@ -2121,7 +2060,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Falalalala-la-Ladama",
+      "name" : "Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -2897,7 +2836,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "Harpers",
       "protected" : false,
       "id_str" : "14287094",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/543154683775156225\/soooXwTm_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/556168580077600768\/FQz6b-oc_normal.png",
       "id" : 14287094,
       "verified" : false
     }
@@ -4106,7 +4045,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "tcarmody",
       "protected" : false,
       "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/544568675689197568\/jxpxRZOy_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553945946955202561\/jR6MMaz2_normal.jpeg",
       "id" : 14439168,
       "verified" : true
     }
@@ -4526,7 +4465,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "Harpers",
       "protected" : false,
       "id_str" : "14287094",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/543154683775156225\/soooXwTm_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/556168580077600768\/FQz6b-oc_normal.png",
       "id" : 14287094,
       "verified" : false
     }

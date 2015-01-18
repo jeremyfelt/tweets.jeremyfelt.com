@@ -643,7 +643,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Falalalala-la-Ladama",
+      "name" : "Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -2677,7 +2677,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "luclegay",
       "protected" : false,
       "id_str" : "607643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3658952425\/5f56d18ef4c81f43628ab9c6f5c15583_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/554966623040176128\/zTq4WPBc_normal.jpeg",
       "id" : 607643,
       "verified" : false
     }
@@ -4882,7 +4882,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mark Jaquith",
+      "name" : "Mark Jaquith ",
       "screen_name" : "markjaquith",
       "indices" : [ 3, 15 ],
       "id_str" : "821042",
@@ -4915,7 +4915,7 @@ Grailbird.data.tweets_2012_12 =
     "id" : 277148942951673856,
     "created_at" : "2012-12-07 20:33:51 +0000",
     "user" : {
-      "name" : "Mark Jaquith",
+      "name" : "Mark Jaquith ",
       "screen_name" : "markjaquith",
       "protected" : false,
       "id_str" : "821042",

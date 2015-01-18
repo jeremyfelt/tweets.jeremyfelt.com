@@ -1742,7 +1742,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mark Jaquith",
+      "name" : "Mark Jaquith ",
       "screen_name" : "markjaquith",
       "indices" : [ 3, 15 ],
       "id_str" : "821042",
@@ -1769,7 +1769,7 @@ Grailbird.data.tweets_2011_10 =
     "id" : 127599618853830656,
     "created_at" : "2011-10-22 04:18:14 +0000",
     "user" : {
-      "name" : "Mark Jaquith",
+      "name" : "Mark Jaquith ",
       "screen_name" : "markjaquith",
       "protected" : false,
       "id_str" : "821042",
@@ -2609,7 +2609,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "StanCarey",
       "protected" : false,
       "id_str" : "34347535",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1161761330\/Stan_Carey_profile_bwbs_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553296209704517632\/0dPvLB8t_normal.jpeg",
       "id" : 34347535,
       "verified" : false
     }
@@ -5063,7 +5063,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "monteiro",
       "protected" : false,
       "id_str" : "2426",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539211010993700864\/aHVsuWK9_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552632215503245312\/jtlGzC07_normal.jpeg",
       "id" : 2426,
       "verified" : false
     }
@@ -6804,7 +6804,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "meeshfelt",
       "protected" : false,
       "id_str" : "32924315",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/454493606317801472\/XzVXSO85_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553671214997053440\/UAU9dG0z_normal.jpeg",
       "id" : 32924315,
       "verified" : false
     }

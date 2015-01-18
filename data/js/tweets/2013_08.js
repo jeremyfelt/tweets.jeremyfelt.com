@@ -9215,7 +9215,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Falalalala-la-Ladama",
+      "name" : "Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -11974,7 +11974,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "JoseCanseco",
       "protected" : false,
       "id_str" : "19715003",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/536226682391498752\/oIgTc67O_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/551485878468476928\/D5FNOPJ4_normal.jpeg",
       "id" : 19715003,
       "verified" : true
     }

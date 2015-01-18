@@ -131,7 +131,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "acarvin",
       "protected" : false,
       "id_str" : "778057",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528555203360878592\/RtBzJElP_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/555380281494884356\/B1_Vb4Ti_normal.png",
       "id" : 778057,
       "verified" : true
     }
@@ -151,7 +151,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "U+1F385 ",
+      "name" : "Arne R\u0CA0_\u0CA0mann-Kurrik",
       "screen_name" : "kurrik",
       "indices" : [ 45, 52 ],
       "id_str" : "7588892",
@@ -536,7 +536,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "acarvin",
       "protected" : false,
       "id_str" : "778057",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528555203360878592\/RtBzJElP_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/555380281494884356\/B1_Vb4Ti_normal.png",
       "id" : 778057,
       "verified" : true
     }
@@ -1401,7 +1401,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "TimKarr",
       "protected" : false,
       "id_str" : "15902877",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/462288975936241668\/W4UJqPZH_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/554756774880768000\/KjpuHPhj_normal.jpeg",
       "id" : 15902877,
       "verified" : false
     }
@@ -1814,12 +1814,6 @@ Grailbird.data.tweets_2011_01 =
       "indices" : [ 3, 14 ],
       "id_str" : "14529929",
       "id" : 14529929
-    }, {
-      "name" : "Paul Broun",
-      "screen_name" : "RepPaulBrounMD",
-      "indices" : [ 139, 140 ],
-      "id_str" : "18811140",
-      "id" : 18811140
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1831,13 +1825,7 @@ Grailbird.data.tweets_2011_01 =
   "retweeted_status" : {
     "source" : "\u003Ca href=\"http:\/\/www.ubertwitter.com\/bb\/download.php\" rel=\"nofollow\"\u003E\u00DCberSocialOrig\u003C\/a\u003E",
     "entities" : {
-      "user_mentions" : [ {
-        "name" : "Paul Broun",
-        "screen_name" : "RepPaulBrounMD",
-        "indices" : [ 41, 56 ],
-        "id_str" : "18811140",
-        "id" : 18811140
-      } ],
+      "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
@@ -1960,7 +1948,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "KeithOlbermann",
       "protected" : false,
       "id_str" : "130617778",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539926094695399425\/9NbFBlKD_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552226019634319361\/71CLfexL_normal.jpeg",
       "id" : 130617778,
       "verified" : true
     }
@@ -3440,7 +3428,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "JoseCanseco",
       "protected" : false,
       "id_str" : "19715003",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/536226682391498752\/oIgTc67O_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/551485878468476928\/D5FNOPJ4_normal.jpeg",
       "id" : 19715003,
       "verified" : true
     }
@@ -4526,13 +4514,7 @@ Grailbird.data.tweets_2011_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James Rainey",
-      "screen_name" : "LATimesrainey",
-      "indices" : [ 15, 29 ],
-      "id_str" : "14478046",
-      "id" : 14478046
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "Giffords",
@@ -4546,13 +4528,7 @@ Grailbird.data.tweets_2011_01 =
   "retweeted_status" : {
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
-      "user_mentions" : [ {
-        "name" : "James Rainey",
-        "screen_name" : "LATimesrainey",
-        "indices" : [ 3, 17 ],
-        "id_str" : "14478046",
-        "id" : 14478046
-      } ],
+      "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ {
         "text" : "Giffords",
