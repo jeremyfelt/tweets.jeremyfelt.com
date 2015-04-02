@@ -1969,6 +1969,12 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "zooey deschanel.",
+      "screen_name" : "therealzooeyd",
+      "indices" : [ 3, 17 ],
+      "id_str" : "721792410",
+      "id" : 721792410
+    }, {
       "name" : "Kate Harmer",
       "screen_name" : "katehrmr",
       "indices" : [ 26, 35 ],
@@ -2064,7 +2070,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash Dot Com",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -2091,7 +2097,7 @@ Grailbird.data.tweets_2011_06 =
     "id" : 84450885589151745,
     "created_at" : "2011-06-25 02:40:34 +0000",
     "user" : {
-      "name" : "Anil Dash Dot Com",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
@@ -2936,7 +2942,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "bittman",
       "protected" : false,
       "id_str" : "20778387",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/502825965811007488\/WxXw0fZA_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/578588269379608576\/bFQMrriz_normal.jpeg",
       "id" : 20778387,
       "verified" : true
     }
@@ -3265,7 +3271,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "brainpicker",
       "protected" : false,
       "id_str" : "9207632",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/125575833\/twitter_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/577255253852065794\/qGnSwsBR_normal.jpg",
       "id" : 9207632,
       "verified" : true
     }
@@ -3521,7 +3527,7 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "10917372",
       "id" : 10917372
     }, {
-      "name" : "Cooper",
+      "name" : "Greg Cooper",
       "screen_name" : "awfy",
       "indices" : [ 12, 17 ],
       "id_str" : "9854542",
@@ -3538,7 +3544,7 @@ Grailbird.data.tweets_2011_06 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Cooper",
+        "name" : "Greg Cooper",
         "screen_name" : "awfy",
         "indices" : [ 3, 8 ],
         "id_str" : "9854542",
@@ -5192,7 +5198,7 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "9207632",
       "id" : 9207632
     }, {
-      "name" : "The Guardian",
+      "name" : "The Guardian ",
       "screen_name" : "guardian",
       "indices" : [ 29, 38 ],
       "id_str" : "87818409",
@@ -5215,7 +5221,7 @@ Grailbird.data.tweets_2011_06 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "The Guardian",
+        "name" : "The Guardian ",
         "screen_name" : "guardian",
         "indices" : [ 12, 21 ],
         "id_str" : "87818409",
@@ -5241,7 +5247,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "brainpicker",
       "protected" : false,
       "id_str" : "9207632",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/125575833\/twitter_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/577255253852065794\/qGnSwsBR_normal.jpg",
       "id" : 9207632,
       "verified" : true
     }
@@ -5318,7 +5324,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash Dot Com",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -5345,7 +5351,7 @@ Grailbird.data.tweets_2011_06 =
     "id" : 79217822693199872,
     "created_at" : "2011-06-10 16:06:15 +0000",
     "user" : {
-      "name" : "Anil Dash Dot Com",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
@@ -5495,7 +5501,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash Dot Com",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -5522,7 +5528,7 @@ Grailbird.data.tweets_2011_06 =
     "id" : 78524639852244992,
     "created_at" : "2011-06-08 18:11:47 +0000",
     "user" : {
-      "name" : "Anil Dash Dot Com",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",

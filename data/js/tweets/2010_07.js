@@ -652,13 +652,13 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Blekko Search",
+      "name" : "Blekko",
       "screen_name" : "blekko",
       "indices" : [ 3, 10 ],
       "id_str" : "35816344",
       "id" : 35816344
     }, {
-      "name" : "Blekko Search",
+      "name" : "Blekko",
       "screen_name" : "blekko",
       "indices" : [ 19, 26 ],
       "id_str" : "35816344",
@@ -675,7 +675,7 @@ Grailbird.data.tweets_2010_07 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Blekko Search",
+        "name" : "Blekko",
         "screen_name" : "blekko",
         "indices" : [ 7, 14 ],
         "id_str" : "35816344",
@@ -691,7 +691,7 @@ Grailbird.data.tweets_2010_07 =
     "id" : 19221371540,
     "created_at" : "2010-07-22 02:48:04 +0000",
     "user" : {
-      "name" : "Blekko Search",
+      "name" : "Blekko",
       "screen_name" : "blekko",
       "protected" : false,
       "id_str" : "35816344",
@@ -1059,7 +1059,13 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Neven Mrgan",
+      "screen_name" : "nevenmrgan",
+      "indices" : [ 3, 14 ],
+      "id_str" : "189184020",
+      "id" : 189184020
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1085,7 +1091,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "mrgan",
       "protected" : false,
       "id_str" : "35293",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545652102702170112\/--Z6gHZR_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/564092871871959040\/b2w9o5gs_normal.png",
       "id" : 35293,
       "verified" : false
     }
@@ -1309,7 +1315,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "816653",
       "id" : 816653
     }, {
-      "name" : "Blekko Search",
+      "name" : "Blekko",
       "screen_name" : "blekko",
       "indices" : [ 28, 35 ],
       "id_str" : "35816344",
@@ -1371,7 +1377,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Blekko Search",
+      "name" : "Blekko",
       "screen_name" : "blekko",
       "indices" : [ 0, 7 ],
       "id_str" : "35816344",
@@ -2149,7 +2155,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Pell",
+      "name" : "Pell Grants",
       "screen_name" : "davepell",
       "indices" : [ 3, 12 ],
       "id_str" : "224",
@@ -2176,7 +2182,7 @@ Grailbird.data.tweets_2010_07 =
     "id" : 18705516837,
     "created_at" : "2010-07-16 18:07:43 +0000",
     "user" : {
-      "name" : "Dave Pell",
+      "name" : "Pell Grants",
       "screen_name" : "davepell",
       "protected" : false,
       "id_str" : "224",
@@ -2244,6 +2250,12 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Dave Schumaker",
+      "screen_name" : "rockbandit",
+      "indices" : [ 3, 14 ],
+      "id_str" : "335120271",
+      "id" : 335120271
+    }, {
       "name" : "Old Spice",
       "screen_name" : "OldSpice",
       "indices" : [ 96, 105 ],
@@ -2281,7 +2293,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "davely",
       "protected" : false,
       "id_str" : "11779882",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/543137306995990528\/Gv_5VZQz_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/572930526042812416\/ssE2qm-__normal.jpeg",
       "id" : 11779882,
       "verified" : false
     }
@@ -2388,7 +2400,13 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Matt (Thomas) Miklic",
+      "screen_name" : "iammattthomas",
+      "indices" : [ 3, 17 ],
+      "id_str" : "2395558698",
+      "id" : 2395558698
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2614,7 +2632,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "8315692",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553651457820356608\/j-szzxwZ_normal.jpeg",
       "id" : 8315692,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 18615252864,
@@ -3381,13 +3399,13 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "NewsHour",
+      "name" : "PBS NewsHour",
       "screen_name" : "NewsHour",
       "indices" : [ 3, 12 ],
       "id_str" : "14437914",
       "id" : 14437914
     }, {
-      "name" : "NewsHour",
+      "name" : "PBS NewsHour",
       "screen_name" : "NewsHour",
       "indices" : [ 70, 79 ],
       "id_str" : "14437914",
@@ -3404,7 +3422,7 @@ Grailbird.data.tweets_2010_07 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "NewsHour",
+        "name" : "PBS NewsHour",
         "screen_name" : "NewsHour",
         "indices" : [ 56, 65 ],
         "id_str" : "14437914",
@@ -3420,7 +3438,7 @@ Grailbird.data.tweets_2010_07 =
     "id" : 17986291687,
     "created_at" : "2010-07-07 22:31:20 +0000",
     "user" : {
-      "name" : "NewsHour",
+      "name" : "PBS NewsHour",
       "screen_name" : "NewsHour",
       "protected" : false,
       "id_str" : "14437914",
@@ -4043,7 +4061,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "421523",
       "id" : 421523
     }, {
-      "name" : "Haje Jan Kamps",
+      "name" : "Photocritic.org",
       "screen_name" : "Photocritic",
       "indices" : [ 30, 42 ],
       "id_str" : "17879299",
@@ -4066,7 +4084,7 @@ Grailbird.data.tweets_2010_07 =
         "id_str" : "421523",
         "id" : 421523
       }, {
-        "name" : "Haje Jan Kamps",
+        "name" : "Photocritic.org",
         "screen_name" : "Photocritic",
         "indices" : [ 15, 27 ],
         "id_str" : "17879299",
@@ -4159,7 +4177,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "shellen",
       "protected" : false,
       "id_str" : "422",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477546080142237696\/cwG6-2LH_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/563212823962980353\/EEDscIja_normal.jpeg",
       "id" : 422,
       "verified" : false
     }

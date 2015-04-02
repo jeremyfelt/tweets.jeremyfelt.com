@@ -258,7 +258,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "shellen",
       "protected" : false,
       "id_str" : "422",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477546080142237696\/cwG6-2LH_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/563212823962980353\/EEDscIja_normal.jpeg",
       "id" : 422,
       "verified" : false
     }
@@ -1810,7 +1810,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "iaindodsworth",
       "protected" : false,
       "id_str" : "14148963",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549718602094743554\/PuyFEaNE_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/571975943434944512\/Ae_WLwTb_normal.jpeg",
       "id" : 14148963,
       "verified" : false
     }
@@ -4885,7 +4885,13 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "The Atlantic Wire",
+      "screen_name" : "TheAtlanticWire",
+      "indices" : [ 3, 19 ],
+      "id_str" : "1947084786",
+      "id" : 1947084786
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

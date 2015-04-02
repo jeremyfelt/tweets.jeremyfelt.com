@@ -397,7 +397,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "raffi",
       "protected" : false,
       "id_str" : "8285392",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1270234259\/raffi-headshot-casual_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/580773852613087232\/Z_hMxnZO_normal.jpg",
       "id" : 8285392,
       "verified" : false
     }
@@ -781,7 +781,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "sambrook",
       "protected" : false,
       "id_str" : "781674",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553155655847002113\/lBF-hsky_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/578896208707612672\/UE9UFY6E_normal.jpeg",
       "id" : 781674,
       "verified" : false
     }
@@ -1258,7 +1258,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "shellen",
       "protected" : false,
       "id_str" : "422",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477546080142237696\/cwG6-2LH_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/563212823962980353\/EEDscIja_normal.jpeg",
       "id" : 422,
       "verified" : false
     }
@@ -1539,7 +1539,7 @@ Grailbird.data.tweets_2010_06 =
     "user_mentions" : [ {
       "name" : "Steve",
       "screen_name" : "ceoSteveJobs",
-      "indices" : [ 139, 140 ],
+      "indices" : [ 41, 54 ],
       "id_str" : "259829550",
       "id" : 259829550
     } ],
@@ -2394,7 +2394,13 @@ Grailbird.data.tweets_2010_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "\u0421\u0435\u0440\u0433\u0435\u0439 \u041F\u0430\u043D\u043E\u0432",
+      "screen_name" : "afg85",
+      "indices" : [ 3, 9 ],
+      "id_str" : "457631513",
+      "id" : 457631513
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2465,8 +2471,8 @@ Grailbird.data.tweets_2010_06 =
       "name" : "BP Public Relations",
       "screen_name" : "BPGlobalPR",
       "indices" : [ 3, 14 ],
-      "id_str" : "145753059",
-      "id" : 145753059
+      "id_str" : "179903443",
+      "id" : 179903443
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2489,11 +2495,11 @@ Grailbird.data.tweets_2010_06 =
     "id" : 16515715440,
     "created_at" : "2010-06-19 02:38:27 +0000",
     "user" : {
-      "name" : "BP Public Relations",
-      "screen_name" : "BPGlobalPR",
+      "name" : "Take It From Us PR",
+      "screen_name" : "TakeItFromUsPR",
       "protected" : false,
       "id_str" : "145753059",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927416334\/bptwitterlogo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/557290862254624768\/rLp4Nv18_normal.png",
       "id" : 145753059,
       "verified" : false
     }
@@ -4261,7 +4267,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "cubanalaf",
       "protected" : false,
       "id_str" : "15377897",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/519596392667312128\/-lBvYsXd_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/572379714272161792\/rIlp5j4N_normal.jpeg",
       "id" : 15377897,
       "verified" : false
     }
@@ -4499,7 +4505,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "Suntimes",
       "protected" : false,
       "id_str" : "12811952",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000017045313\/4c086389309e56de6fefcf8a0a0e8d43_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/575531934157119488\/9TaaXkIc_normal.jpeg",
       "id" : 12811952,
       "verified" : true
     }
@@ -4556,7 +4562,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "Suntimes",
       "protected" : false,
       "id_str" : "12811952",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000017045313\/4c086389309e56de6fefcf8a0a0e8d43_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/575531934157119488\/9TaaXkIc_normal.jpeg",
       "id" : 12811952,
       "verified" : true
     }
@@ -4771,7 +4777,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "shellen",
       "protected" : false,
       "id_str" : "422",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477546080142237696\/cwG6-2LH_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/563212823962980353\/EEDscIja_normal.jpeg",
       "id" : 422,
       "verified" : false
     }
@@ -5037,8 +5043,8 @@ Grailbird.data.tweets_2010_06 =
       "name" : "BP Public Relations",
       "screen_name" : "BPGlobalPR",
       "indices" : [ 3, 14 ],
-      "id_str" : "145753059",
-      "id" : 145753059
+      "id_str" : "179903443",
+      "id" : 179903443
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -5067,11 +5073,11 @@ Grailbird.data.tweets_2010_06 =
     "id" : 15458753113,
     "created_at" : "2010-06-05 02:20:50 +0000",
     "user" : {
-      "name" : "BP Public Relations",
-      "screen_name" : "BPGlobalPR",
+      "name" : "Take It From Us PR",
+      "screen_name" : "TakeItFromUsPR",
       "protected" : false,
       "id_str" : "145753059",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927416334\/bptwitterlogo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/557290862254624768\/rLp4Nv18_normal.png",
       "id" : 145753059,
       "verified" : false
     }
@@ -5144,7 +5150,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549058359526432769\/0XAhLsvI_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/581139992388337665\/qbBxqMwP_normal.jpg",
       "id" : 22872643,
       "verified" : true
     }
@@ -5211,8 +5217,8 @@ Grailbird.data.tweets_2010_06 =
       "name" : "BP Public Relations",
       "screen_name" : "BPGlobalPR",
       "indices" : [ 3, 14 ],
-      "id_str" : "145753059",
-      "id" : 145753059
+      "id_str" : "179903443",
+      "id" : 179903443
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5235,11 +5241,11 @@ Grailbird.data.tweets_2010_06 =
     "id" : 15504031663,
     "created_at" : "2010-06-05 18:27:13 +0000",
     "user" : {
-      "name" : "BP Public Relations",
-      "screen_name" : "BPGlobalPR",
+      "name" : "Take It From Us PR",
+      "screen_name" : "TakeItFromUsPR",
       "protected" : false,
       "id_str" : "145753059",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927416334\/bptwitterlogo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/557290862254624768\/rLp4Nv18_normal.png",
       "id" : 145753059,
       "verified" : false
     }
@@ -5262,8 +5268,8 @@ Grailbird.data.tweets_2010_06 =
       "name" : "BP Public Relations",
       "screen_name" : "BPGlobalPR",
       "indices" : [ 99, 110 ],
-      "id_str" : "145753059",
-      "id" : 145753059
+      "id_str" : "179903443",
+      "id" : 179903443
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5399,7 +5405,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "loic",
       "protected" : false,
       "id_str" : "740983",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/542619246040084480\/5p0SPdwM_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/581367401670918144\/ACNqFV8Q_normal.jpg",
       "id" : 740983,
       "verified" : true
     }
@@ -5568,8 +5574,8 @@ Grailbird.data.tweets_2010_06 =
       "name" : "BP Public Relations",
       "screen_name" : "BPGlobalPR",
       "indices" : [ 3, 14 ],
-      "id_str" : "145753059",
-      "id" : 145753059
+      "id_str" : "179903443",
+      "id" : 179903443
     }, {
       "name" : "Sarah Palin",
       "screen_name" : "SarahPalinUSA",
@@ -5622,11 +5628,11 @@ Grailbird.data.tweets_2010_06 =
     "id" : 15229148228,
     "created_at" : "2010-06-02 04:40:24 +0000",
     "user" : {
-      "name" : "BP Public Relations",
-      "screen_name" : "BPGlobalPR",
+      "name" : "Take It From Us PR",
+      "screen_name" : "TakeItFromUsPR",
       "protected" : false,
       "id_str" : "145753059",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927416334\/bptwitterlogo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/557290862254624768\/rLp4Nv18_normal.png",
       "id" : 145753059,
       "verified" : false
     }

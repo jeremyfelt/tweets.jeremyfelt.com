@@ -2547,13 +2547,7 @@ Grailbird.data.tweets_2009_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Stephanie Felt",
-      "screen_name" : "Steph_Travels",
-      "indices" : [ 0, 14 ],
-      "id_str" : "29011647",
-      "id" : 29011647
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2564,7 +2558,7 @@ Grailbird.data.tweets_2009_04 =
   "text" : "@Steph_Travels always good things too, right? :)",
   "id" : 1494177782,
   "created_at" : "2009-04-11 00:00:00 +0000",
-  "in_reply_to_screen_name" : "Steph_Travels",
+  "in_reply_to_screen_name" : "stephaniefelt",
   "in_reply_to_user_id_str" : "29011647",
   "user" : {
     "name" : "Jeremy Felt",

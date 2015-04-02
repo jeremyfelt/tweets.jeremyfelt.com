@@ -97,7 +97,7 @@ Grailbird.data.tweets_2010_04 =
       "id_str" : "14515799",
       "id" : 14515799
     }, {
-      "name" : "Jenna Wortham ",
+      "name" : "Jenna \/\/\\\\ Wortham",
       "screen_name" : "jennydeluxe",
       "indices" : [ 21, 33 ],
       "id_str" : "10454572",
@@ -114,7 +114,7 @@ Grailbird.data.tweets_2010_04 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Jenna Wortham ",
+        "name" : "Jenna \/\/\\\\ Wortham",
         "screen_name" : "jennydeluxe",
         "indices" : [ 3, 15 ],
         "id_str" : "10454572",
@@ -337,7 +337,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash Dot Com",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -364,7 +364,7 @@ Grailbird.data.tweets_2010_04 =
     "id" : 12905893217,
     "created_at" : "2010-04-26 21:34:56 +0000",
     "user" : {
-      "name" : "Anil Dash Dot Com",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
@@ -627,7 +627,13 @@ Grailbird.data.tweets_2010_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Jamie Oliver",
+      "screen_name" : "jamie_oliver",
+      "indices" : [ 3, 16 ],
+      "id_str" : "277545015",
+      "id" : 277545015
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -653,7 +659,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "jamieoliver",
       "protected" : false,
       "id_str" : "18676177",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/499231946929483776\/2ShNv0sL_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/582085129365037056\/FqjPOsnD_normal.jpg",
       "id" : 18676177,
       "verified" : true
     }
@@ -1329,7 +1335,13 @@ Grailbird.data.tweets_2010_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "\u0421\u0435\u0440\u0433\u0435\u0439 \u041F\u0430\u043D\u043E\u0432",
+      "screen_name" : "afg85",
+      "indices" : [ 3, 9 ],
+      "id_str" : "457631513",
+      "id" : 457631513
+    } ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "f8summarized",
@@ -1637,7 +1649,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "cw",
       "protected" : false,
       "id_str" : "292",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/476151059115548672\/MoVnKAcd_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/564649912764076033\/LeSnVk-r_normal.png",
       "id" : 292,
       "verified" : false
     }
@@ -1862,7 +1874,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chris Messina\u2122",
+      "name" : "Chris Messina \u2620",
       "screen_name" : "chrismessina",
       "indices" : [ 3, 16 ],
       "id_str" : "1186",
@@ -1919,13 +1931,13 @@ Grailbird.data.tweets_2010_04 =
     "id" : 12598081338,
     "created_at" : "2010-04-21 21:12:24 +0000",
     "user" : {
-      "name" : "Chris Messina\u2122",
+      "name" : "Chris Messina \u2620",
       "screen_name" : "chrismessina",
       "protected" : false,
       "id_str" : "1186",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/540697175609454592\/tMtgCBAj_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/581107728489136128\/b4Unk-p0_normal.jpg",
       "id" : 1186,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 12598238714,
@@ -2147,7 +2159,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "mattwaite",
       "protected" : false,
       "id_str" : "8839152",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/555137354176802818\/98QaY4VB_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/557594943858827264\/TqfCWS56_normal.jpeg",
       "id" : 8839152,
       "verified" : false
     }
@@ -2593,7 +2605,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "shellen",
       "protected" : false,
       "id_str" : "422",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477546080142237696\/cwG6-2LH_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/563212823962980353\/EEDscIja_normal.jpeg",
       "id" : 422,
       "verified" : false
     }
@@ -3243,7 +3255,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash Dot Com",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -3282,7 +3294,7 @@ Grailbird.data.tweets_2010_04 =
     "id" : 11914561810,
     "created_at" : "2010-04-10 02:12:28 +0000",
     "user" : {
-      "name" : "Anil Dash Dot Com",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",

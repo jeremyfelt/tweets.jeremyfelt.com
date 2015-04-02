@@ -1569,13 +1569,7 @@ Grailbird.data.tweets_2009_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Stephanie Felt",
-      "screen_name" : "Steph_Travels",
-      "indices" : [ 0, 14 ],
-      "id_str" : "29011647",
-      "id" : 29011647
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1586,7 +1580,7 @@ Grailbird.data.tweets_2009_06 =
   "text" : "@steph_travels Mufasa, Simba, Lil Wayne... what combination could be better? LOL!",
   "id" : 2232309288,
   "created_at" : "2009-06-19 00:00:00 +0000",
-  "in_reply_to_screen_name" : "Steph_Travels",
+  "in_reply_to_screen_name" : "stephaniefelt",
   "in_reply_to_user_id_str" : "29011647",
   "user" : {
     "name" : "Jeremy Felt",
@@ -5847,7 +5841,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash Dot Com",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "indices" : [ 17, 26 ],
       "id_str" : "36823",

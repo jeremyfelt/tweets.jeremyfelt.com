@@ -181,7 +181,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549058359526432769\/0XAhLsvI_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/581139992388337665\/qbBxqMwP_normal.jpg",
       "id" : 22872643,
       "verified" : true
     }
@@ -2275,7 +2275,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "technosailor",
       "protected" : false,
       "id_str" : "789158",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549933083873800192\/KbjzioFq_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/571649510700654592\/0h5GGAg2_normal.jpeg",
       "id" : 789158,
       "verified" : false
     }
@@ -3510,7 +3510,7 @@ Grailbird.data.tweets_2012_10 =
       "id_str" : "21545434",
       "id" : 21545434
     }, {
-      "name" : "Helen Hou-Sand\u00ED",
+      "name" : "Helen",
       "screen_name" : "helenhousandi",
       "indices" : [ 9, 23 ],
       "id_str" : "21204689",
@@ -3633,7 +3633,7 @@ Grailbird.data.tweets_2012_10 =
       "id_str" : "21545434",
       "id" : 21545434
     }, {
-      "name" : "Helen Hou-Sand\u00ED",
+      "name" : "Helen",
       "screen_name" : "helenhousandi",
       "indices" : [ 62, 76 ],
       "id_str" : "21204689",
@@ -3756,7 +3756,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andy Boyle",
+      "name" : "Andy Boyle is cool",
       "screen_name" : "andymboyle",
       "indices" : [ 3, 14 ],
       "id_str" : "17687524",
@@ -3793,7 +3793,7 @@ Grailbird.data.tweets_2012_10 =
     "id" : 258605467004174336,
     "created_at" : "2012-10-17 16:28:42 +0000",
     "user" : {
-      "name" : "Andy Boyle",
+      "name" : "Andy Boyle is cool",
       "screen_name" : "andymboyle",
       "protected" : false,
       "id_str" : "17687524",
@@ -4049,7 +4049,7 @@ Grailbird.data.tweets_2012_10 =
     }, {
       "name" : "Carl Danley",
       "screen_name" : "carldanley",
-      "indices" : [ 132, 140 ],
+      "indices" : [ 139, 140 ],
       "id_str" : "37747812",
       "id" : 37747812
     } ],
@@ -4126,7 +4126,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen Hou-Sand\u00ED",
+      "name" : "Helen",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -4159,7 +4159,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen Hou-Sand\u00ED",
+      "name" : "Helen",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -4855,7 +4855,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "waxpancake",
       "protected" : false,
       "id_str" : "13461",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539845905889775616\/_tilXA5z_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/576821448322334720\/dr9IqHlY_normal.jpeg",
       "id" : 13461,
       "verified" : false
     }
@@ -5668,7 +5668,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andy Boyle",
+      "name" : "Andy Boyle is cool",
       "screen_name" : "andymboyle",
       "indices" : [ 3, 14 ],
       "id_str" : "17687524",
@@ -5705,7 +5705,7 @@ Grailbird.data.tweets_2012_10 =
     "id" : 256521906138783744,
     "created_at" : "2012-10-11 22:29:23 +0000",
     "user" : {
-      "name" : "Andy Boyle",
+      "name" : "Andy Boyle is cool",
       "screen_name" : "andymboyle",
       "protected" : false,
       "id_str" : "17687524",
@@ -7654,7 +7654,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "StephenAtHome",
       "protected" : false,
       "id_str" : "16303106",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3291883997\/fae26d278dac0db23cc44e0465f42c4a_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/557419112012734464\/_TQ4NmZO_normal.jpeg",
       "id" : 16303106,
       "verified" : true
     }
@@ -7833,7 +7833,13 @@ Grailbird.data.tweets_2012_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : " .",
+      "screen_name" : "FIREDBIGBIRD",
+      "indices" : [ 3, 16 ],
+      "id_str" : "2192230986",
+      "id" : 2192230986
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -7865,11 +7871,11 @@ Grailbird.data.tweets_2012_10 =
     "id" : 253673106097451008,
     "created_at" : "2012-10-04 01:49:16 +0000",
     "user" : {
-      "name" : "Political Line",
+      "name" : "Political Line ",
       "screen_name" : "PoliticaILine",
       "protected" : false,
       "id_str" : "858646280",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/525621226375368704\/N_FMx-EB_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/581806618641362944\/Xb9cG7w-_normal.jpg",
       "id" : 858646280,
       "verified" : false
     }

@@ -34,7 +34,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549584389684723712\/yWjkHMSw_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/583266369329741824\/Zf8TE1G9_normal.jpg",
       "id" : 819797,
       "verified" : false
     }
@@ -103,27 +103,16 @@ Grailbird.data.tweets_2011_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sarah Kurth",
-      "screen_name" : "sarahmkurth",
-      "indices" : [ 0, 12 ],
-      "id_str" : "40764402",
-      "id" : 40764402
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "109118839261896704",
   "geo" : { },
   "id_str" : "109119217726537728",
-  "in_reply_to_user_id" : 40764402,
   "text" : "@sarahmkurth Yup. Sounded\/felt like it was at St Clair \/ Park. Meant to say transformer. Huge white explosion.",
   "id" : 109119217726537728,
-  "in_reply_to_status_id" : 109118839261896704,
   "created_at" : "2011-09-01 04:23:43 +0000",
-  "in_reply_to_screen_name" : "sarahmkurth",
-  "in_reply_to_user_id_str" : "40764402",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -498,57 +487,6 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "scharpling",
-      "screen_name" : "scharpling",
-      "indices" : [ 3, 14 ],
-      "id_str" : "17769258",
-      "id" : 17769258
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "107597836761317377",
-  "text" : "RT @scharpling: Brian Williams is the world's funniest anchorman and the 71,338,832th funniest American.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "107594394022064128",
-    "text" : "Brian Williams is the world's funniest anchorman and the 71,338,832th funniest American.",
-    "id" : 107594394022064128,
-    "created_at" : "2011-08-27 23:24:37 +0000",
-    "user" : {
-      "name" : "scharpling",
-      "screen_name" : "scharpling",
-      "protected" : false,
-      "id_str" : "17769258",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1139063161\/photo_normal.jpg",
-      "id" : 17769258,
-      "verified" : true
-    }
-  },
-  "id" : 107597836761317377,
-  "created_at" : "2011-08-27 23:38:18 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Andrew Logemann",
       "screen_name" : "alogemann",
       "indices" : [ 3, 13 ],
@@ -899,7 +837,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549584389684723712\/yWjkHMSw_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/583266369329741824\/Zf8TE1G9_normal.jpg",
       "id" : 819797,
       "verified" : false
     }
@@ -982,7 +920,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "kfury",
       "protected" : false,
       "id_str" : "785",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/481664359957929985\/CE4GLyGZ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/562002900235190272\/ID4el4mf_normal.jpeg",
       "id" : 785,
       "verified" : false
     }
@@ -1268,6 +1206,67 @@ Grailbird.data.tweets_2011_08 =
   "created_at" : "2011-08-25 18:33:44 +0000",
   "in_reply_to_screen_name" : "scan_boy",
   "in_reply_to_user_id_str" : "260360173",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Justin Stahl",
+      "screen_name" : "justahl",
+      "indices" : [ 3, 11 ],
+      "id_str" : "39295667",
+      "id" : 39295667
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/DPgZP9b",
+      "expanded_url" : "http:\/\/www.apple.com\/pr\/bios\/",
+      "display_url" : "apple.com\/pr\/bios\/"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "106790594390663168",
+  "text" : "RT @justahl: Appalled by the frivolous exposed screws on the Nikon facing him, unlike the others, Jonathan Ive cannot force a smile. htt ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 120, 139 ],
+        "url" : "http:\/\/t.co\/DPgZP9b",
+        "expanded_url" : "http:\/\/www.apple.com\/pr\/bios\/",
+        "display_url" : "apple.com\/pr\/bios\/"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "106789360019570688",
+    "text" : "Appalled by the frivolous exposed screws on the Nikon facing him, unlike the others, Jonathan Ive cannot force a smile. http:\/\/t.co\/DPgZP9b",
+    "id" : 106789360019570688,
+    "created_at" : "2011-08-25 18:05:42 +0000",
+    "user" : {
+      "name" : "Justin Stahl",
+      "screen_name" : "justahl",
+      "protected" : false,
+      "id_str" : "39295667",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000776842364\/98a0b392d7deb3fdbcd167f5c47ca1fb_normal.jpeg",
+      "id" : 39295667,
+      "verified" : false
+    }
+  },
+  "id" : 106790594390663168,
+  "created_at" : "2011-08-25 18:10:36 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2836,7 +2835,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "Harpers",
       "protected" : false,
       "id_str" : "14287094",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/556168580077600768\/FQz6b-oc_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/576033492087099393\/8gY5A0-I_normal.png",
       "id" : 14287094,
       "verified" : false
     }
@@ -3511,7 +3510,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "rainnwilson",
       "protected" : false,
       "id_str" : "19637934",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/443822644001910784\/J3rP_RAg_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/562366107802034176\/eM77KsFy_normal.jpeg",
       "id" : 19637934,
       "verified" : true
     }
@@ -4045,7 +4044,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "tcarmody",
       "protected" : false,
       "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553945946955202561\/jR6MMaz2_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/580950219380142080\/doOxxmEh_normal.jpg",
       "id" : 14439168,
       "verified" : true
     }
@@ -4149,7 +4148,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "MLB",
       "protected" : false,
       "id_str" : "18479513",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/527697465646936067\/HBUXlyMe_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/582227697922772993\/ZGndtES9_normal.jpg",
       "id" : 18479513,
       "verified" : true
     }
@@ -4342,7 +4341,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549584389684723712\/yWjkHMSw_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/583266369329741824\/Zf8TE1G9_normal.jpg",
       "id" : 819797,
       "verified" : false
     }
@@ -4465,7 +4464,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "Harpers",
       "protected" : false,
       "id_str" : "14287094",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/556168580077600768\/FQz6b-oc_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/576033492087099393\/8gY5A0-I_normal.png",
       "id" : 14287094,
       "verified" : false
     }
@@ -4587,7 +4586,13 @@ Grailbird.data.tweets_2011_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "zooey deschanel.",
+      "screen_name" : "therealzooeyd",
+      "indices" : [ 3, 17 ],
+      "id_str" : "721792410",
+      "id" : 721792410
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

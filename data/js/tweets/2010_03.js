@@ -78,7 +78,7 @@ Grailbird.data.tweets_2010_03 =
       "screen_name" : "mattwaite",
       "protected" : false,
       "id_str" : "8839152",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/555137354176802818\/98QaY4VB_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/557594943858827264\/TqfCWS56_normal.jpeg",
       "id" : 8839152,
       "verified" : false
     }
@@ -196,7 +196,13 @@ Grailbird.data.tweets_2010_03 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Rachel Haot",
+      "screen_name" : "rachelsterne",
+      "indices" : [ 3, 16 ],
+      "id_str" : "772303807",
+      "id" : 772303807
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -222,7 +228,7 @@ Grailbird.data.tweets_2010_03 =
       "screen_name" : "rachelhaot",
       "protected" : false,
       "id_str" : "15066958",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000331578687\/c5ad75ba8221fa4393759658be007dcd_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/565600639112081408\/dbazfLOl_normal.jpeg",
       "id" : 15066958,
       "verified" : false
     }
@@ -463,7 +469,7 @@ Grailbird.data.tweets_2010_03 =
       "id_str" : "43166813",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458726768468180992\/AbY9O7eH_normal.jpeg",
       "id" : 43166813,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 10223188938,

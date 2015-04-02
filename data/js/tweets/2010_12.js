@@ -56,7 +56,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "50cent",
       "protected" : false,
       "id_str" : "18222378",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/504047853572861952\/gYewkwPI_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/563771003960975360\/DsB0EFbn_normal.jpeg",
       "id" : 18222378,
       "verified" : true
     }
@@ -287,7 +287,13 @@ Grailbird.data.tweets_2010_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Quick Millions",
+      "screen_name" : "boonspoon",
+      "indices" : [ 3, 13 ],
+      "id_str" : "2503569572",
+      "id" : 2503569572
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -313,7 +319,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "boonsri",
       "protected" : false,
       "id_str" : "14538938",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/551614631471763457\/WBd4nuAU_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/577098134637031425\/nWszGhmi_normal.jpeg",
       "id" : 14538938,
       "verified" : false
     }
@@ -386,7 +392,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash Dot Com",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -425,7 +431,7 @@ Grailbird.data.tweets_2010_12 =
     "id" : 18323230309748736,
     "created_at" : "2010-12-24 15:12:53 +0000",
     "user" : {
-      "name" : "Anil Dash Dot Com",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
@@ -470,7 +476,13 @@ Grailbird.data.tweets_2010_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Copyblogger",
+      "screen_name" : "copyblogger",
+      "indices" : [ 3, 15 ],
+      "id_str" : "15029970",
+      "id" : 15029970
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -496,7 +508,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "brianclark",
       "protected" : false,
       "id_str" : "10367",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/411634914002345984\/oBiPEtOO_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/582974821983604736\/6D94Ql-G_normal.jpg",
       "id" : 10367,
       "verified" : false
     }
@@ -699,7 +711,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "digiphile",
       "protected" : false,
       "id_str" : "1175221",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528362814176759808\/O4uc5aWK_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/577822622299328512\/ZAmXFHil_normal.jpeg",
       "id" : 1175221,
       "verified" : false
     }
@@ -893,7 +905,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash Dot Com",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "indices" : [ 0, 9 ],
       "id_str" : "36823",
@@ -926,7 +938,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash Dot Com",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "indices" : [ 0, 9 ],
       "id_str" : "36823",
@@ -959,7 +971,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash Dot Com",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -986,7 +998,7 @@ Grailbird.data.tweets_2010_12 =
     "id" : 17325860868591616,
     "created_at" : "2010-12-21 21:09:41 +0000",
     "user" : {
-      "name" : "Anil Dash Dot Com",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
@@ -1318,7 +1330,13 @@ Grailbird.data.tweets_2010_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "National Geographic",
+      "screen_name" : "NatGeoSociety",
+      "indices" : [ 3, 17 ],
+      "id_str" : "300974581",
+      "id" : 300974581
+    } ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "video",
@@ -1878,7 +1896,13 @@ Grailbird.data.tweets_2010_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "\u0421\u0435\u0440\u0433\u0435\u0439 \u041F\u0430\u043D\u043E\u0432",
+      "screen_name" : "afg85",
+      "indices" : [ 3, 9 ],
+      "id_str" : "457631513",
+      "id" : 457631513
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3140,7 +3164,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "digiphile",
       "protected" : false,
       "id_str" : "1175221",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528362814176759808\/O4uc5aWK_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/577822622299328512\/ZAmXFHil_normal.jpeg",
       "id" : 1175221,
       "verified" : false
     }
@@ -3838,7 +3862,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "Anametheus",
       "protected" : false,
       "id_str" : "5444662",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/535208062642954240\/l9f1dvdh_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/565019070911627264\/P9CVJqDF_normal.jpeg",
       "id" : 5444662,
       "verified" : false
     }

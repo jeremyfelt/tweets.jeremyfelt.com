@@ -766,7 +766,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash Dot Com",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "indices" : [ 0, 9 ],
       "id_str" : "36823",
@@ -2385,7 +2385,7 @@ Grailbird.data.tweets_2011_09 =
       "id_str" : "791916175",
       "id" : 791916175
     }, {
-      "name" : "Sara",
+      "name" : "Sara Tetreault",
       "screen_name" : "GoGingham",
       "indices" : [ 15, 25 ],
       "id_str" : "158432473",
@@ -2512,7 +2512,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "weareyourfek",
       "protected" : false,
       "id_str" : "15190832",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538592151131942912\/KRMUMoHR_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/565613426920009728\/dY3eHpkv_normal.png",
       "id" : 15190832,
       "verified" : false
     }
@@ -4152,7 +4152,7 @@ Grailbird.data.tweets_2011_09 =
       "id_str" : "310342631",
       "id" : 310342631
     }, {
-      "name" : "Sara",
+      "name" : "Sara Tetreault",
       "screen_name" : "GoGingham",
       "indices" : [ 15, 25 ],
       "id_str" : "158432473",
@@ -5853,7 +5853,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549584389684723712\/yWjkHMSw_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/583266369329741824\/Zf8TE1G9_normal.jpg",
       "id" : 819797,
       "verified" : false
     }
@@ -5906,7 +5906,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash Dot Com",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -5933,7 +5933,7 @@ Grailbird.data.tweets_2011_09 =
     "id" : 111961311226765312,
     "created_at" : "2011-09-09 00:37:11 +0000",
     "user" : {
-      "name" : "Anil Dash Dot Com",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
@@ -6192,7 +6192,13 @@ Grailbird.data.tweets_2011_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "AlecBaldwin",
+      "screen_name" : "AlecBaldwin",
+      "indices" : [ 3, 15 ],
+      "id_str" : "703808448",
+      "id" : 703808448
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -6425,7 +6431,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "tcarmody",
       "protected" : false,
       "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553945946955202561\/jR6MMaz2_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/580950219380142080\/doOxxmEh_normal.jpg",
       "id" : 14439168,
       "verified" : true
     }
@@ -6672,7 +6678,13 @@ Grailbird.data.tweets_2011_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "FiveThirtyEight",
+      "screen_name" : "FiveThirtyEight",
+      "indices" : [ 3, 19 ],
+      "id_str" : "2303751216",
+      "id" : 2303751216
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -7937,7 +7949,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "tcarmody",
       "protected" : false,
       "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553945946955202561\/jR6MMaz2_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/580950219380142080\/doOxxmEh_normal.jpg",
       "id" : 14439168,
       "verified" : true
     }

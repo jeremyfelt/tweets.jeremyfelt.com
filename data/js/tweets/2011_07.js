@@ -63,7 +63,13 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "FiveThirtyEight",
+      "screen_name" : "FiveThirtyEight",
+      "indices" : [ 3, 19 ],
+      "id_str" : "2303751216",
+      "id" : 2303751216
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -895,7 +901,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "manikarthik",
       "protected" : false,
       "id_str" : "6022912",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/460177989490073600\/IXQQ30C-_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/580381044592898048\/aERbCHwE_normal.png",
       "id" : 6022912,
       "verified" : false
     }
@@ -1291,6 +1297,12 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "80617430",
       "id" : 80617430
     }, {
+      "name" : "\u0418\u0437\u043E\u043B\u044C\u0434\u0430\r\n ",
+      "screen_name" : "emmagkeller",
+      "indices" : [ 23, 35 ],
+      "id_str" : "2982190547",
+      "id" : 2982190547
+    }, {
       "name" : "nytkeller",
       "screen_name" : "nytkeller",
       "indices" : [ 37, 47 ],
@@ -1308,6 +1320,12 @@ Grailbird.data.tweets_2011_07 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
+        "name" : "\u0418\u0437\u043E\u043B\u044C\u0434\u0430\r\n ",
+        "screen_name" : "emmagkeller",
+        "indices" : [ 8, 20 ],
+        "id_str" : "2982190547",
+        "id" : 2982190547
+      }, {
         "name" : "nytkeller",
         "screen_name" : "nytkeller",
         "indices" : [ 22, 32 ],
@@ -1429,7 +1447,13 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "AlecBaldwin",
+      "screen_name" : "AlecBaldwin",
+      "indices" : [ 3, 15 ],
+      "id_str" : "703808448",
+      "id" : 703808448
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1858,7 +1882,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "50cent",
       "protected" : false,
       "id_str" : "18222378",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/504047853572861952\/gYewkwPI_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/563771003960975360\/DsB0EFbn_normal.jpeg",
       "id" : 18222378,
       "verified" : true
     }
@@ -2030,7 +2054,13 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "debloove",
+      "screen_name" : "mayorsamadams",
+      "indices" : [ 3, 17 ],
+      "id_str" : "2559911402",
+      "id" : 2559911402
+    } ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "pdx",
@@ -2064,8 +2094,8 @@ Grailbird.data.tweets_2011_07 =
     "id" : 91693439598600192,
     "created_at" : "2011-07-15 02:19:54 +0000",
     "user" : {
-      "name" : "Fmr Mayor Sam Adams ",
-      "screen_name" : "PDXSamAdams",
+      "name" : "Fmr Mayor Sam Adams",
+      "screen_name" : "SamAdamsWRI",
       "protected" : false,
       "id_str" : "18731529",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3588600467\/4c53a257f93f8abb5d20cef534e6edad_normal.jpeg",
@@ -2443,7 +2473,13 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "AlecBaldwin",
+      "screen_name" : "AlecBaldwin",
+      "indices" : [ 3, 15 ],
+      "id_str" : "703808448",
+      "id" : 703808448
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3468,7 +3504,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "14570738",
       "id" : 14570738
     }, {
-      "name" : "Andy Boyle",
+      "name" : "Andy Boyle is cool",
       "screen_name" : "andymboyle",
       "indices" : [ 24, 35 ],
       "id_str" : "17687524",
@@ -3501,7 +3537,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andy Boyle",
+      "name" : "Andy Boyle is cool",
       "screen_name" : "andymboyle",
       "indices" : [ 3, 14 ],
       "id_str" : "17687524",
@@ -3569,7 +3605,7 @@ Grailbird.data.tweets_2011_07 =
     "in_reply_to_screen_name" : "jeremyfelt",
     "in_reply_to_user_id_str" : "1741681",
     "user" : {
-      "name" : "Andy Boyle",
+      "name" : "Andy Boyle is cool",
       "screen_name" : "andymboyle",
       "protected" : false,
       "id_str" : "17687524",
@@ -3605,7 +3641,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "14570738",
       "id" : 14570738
     }, {
-      "name" : "Andy Boyle",
+      "name" : "Andy Boyle is cool",
       "screen_name" : "andymboyle",
       "indices" : [ 24, 35 ],
       "id_str" : "17687524",
@@ -3644,7 +3680,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "14570738",
       "id" : 14570738
     }, {
-      "name" : "Andy Boyle",
+      "name" : "Andy Boyle is cool",
       "screen_name" : "andymboyle",
       "indices" : [ 12, 23 ],
       "id_str" : "17687524",
@@ -3765,7 +3801,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "6160792",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/552451566741909504\/LewAkrUL_normal.jpeg",
       "id" : 6160792,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 90533211725242369,
@@ -4176,7 +4212,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "tcarmody",
       "protected" : false,
       "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553945946955202561\/jR6MMaz2_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/580950219380142080\/doOxxmEh_normal.jpg",
       "id" : 14439168,
       "verified" : true
     }
@@ -4840,10 +4876,10 @@ Grailbird.data.tweets_2011_07 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Apartments.com",
-      "screen_name" : "Apartmentscom",
+      "screen_name" : "apartmentscom",
       "indices" : [ 0, 14 ],
-      "id_str" : "20263526",
-      "id" : 20263526
+      "id_str" : "43192684",
+      "id" : 43192684
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4857,7 +4893,7 @@ Grailbird.data.tweets_2011_07 =
   "id" : 88647848874348544,
   "in_reply_to_status_id" : 88610533049253888,
   "created_at" : "2011-07-06 16:37:48 +0000",
-  "in_reply_to_screen_name" : "Apartmentscom",
+  "in_reply_to_screen_name" : "APTScom",
   "in_reply_to_user_id_str" : "20263526",
   "user" : {
     "name" : "Jeremy Felt",
@@ -4873,10 +4909,10 @@ Grailbird.data.tweets_2011_07 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Apartments.com",
-      "screen_name" : "Apartmentscom",
+      "screen_name" : "apartmentscom",
       "indices" : [ 0, 14 ],
-      "id_str" : "20263526",
-      "id" : 20263526
+      "id_str" : "43192684",
+      "id" : 43192684
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4890,7 +4926,7 @@ Grailbird.data.tweets_2011_07 =
   "id" : 88647683279036416,
   "in_reply_to_status_id" : 88610533049253888,
   "created_at" : "2011-07-06 16:37:09 +0000",
-  "in_reply_to_screen_name" : "Apartmentscom",
+  "in_reply_to_screen_name" : "APTScom",
   "in_reply_to_user_id_str" : "20263526",
   "user" : {
     "name" : "Jeremy Felt",
@@ -4906,10 +4942,10 @@ Grailbird.data.tweets_2011_07 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Apartments.com",
-      "screen_name" : "Apartmentscom",
+      "screen_name" : "apartmentscom",
       "indices" : [ 0, 14 ],
-      "id_str" : "20263526",
-      "id" : 20263526
+      "id_str" : "43192684",
+      "id" : 43192684
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4923,7 +4959,7 @@ Grailbird.data.tweets_2011_07 =
   "id" : 88647362960048128,
   "in_reply_to_status_id" : 88610533049253888,
   "created_at" : "2011-07-06 16:35:52 +0000",
-  "in_reply_to_screen_name" : "Apartmentscom",
+  "in_reply_to_screen_name" : "APTScom",
   "in_reply_to_user_id_str" : "20263526",
   "user" : {
     "name" : "Jeremy Felt",
