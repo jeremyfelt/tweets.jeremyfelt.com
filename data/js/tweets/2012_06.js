@@ -9,7 +9,7 @@ Grailbird.data.tweets_2012_06 =
       "id_str" : "335110427",
       "id" : 335110427
     }, {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 139, 140 ],
       "id_str" : "21204689",
@@ -36,7 +36,7 @@ Grailbird.data.tweets_2012_06 =
     "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Helen",
+        "name" : "Helen \u4FAF-Sand\u00ED",
         "screen_name" : "helenhousandi",
         "indices" : [ 119, 133 ],
         "id_str" : "21204689",
@@ -257,7 +257,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -1147,7 +1147,7 @@ Grailbird.data.tweets_2012_06 =
       "id_str" : "335110427",
       "id" : 335110427
     }, {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 10, 24 ],
       "id_str" : "21204689",
@@ -1243,7 +1243,7 @@ Grailbird.data.tweets_2012_06 =
       "id_str" : "199845847",
       "id" : 199845847
     }, {
-      "name" : "Andy Boyle is cool",
+      "name" : "Andy Boyle is single",
       "screen_name" : "andymboyle",
       "indices" : [ 51, 62 ],
       "id_str" : "17687524",
@@ -1266,7 +1266,7 @@ Grailbird.data.tweets_2012_06 =
         "id_str" : "199845847",
         "id" : 199845847
       }, {
-        "name" : "Andy Boyle is cool",
+        "name" : "Andy Boyle is single",
         "screen_name" : "andymboyle",
         "indices" : [ 36, 47 ],
         "id_str" : "17687524",
@@ -2672,7 +2672,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -3398,7 +3398,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -3431,7 +3431,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -3552,7 +3552,7 @@ Grailbird.data.tweets_2012_06 =
       "id_str" : "132978921",
       "id" : 132978921
     }, {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 10, 24 ],
       "id_str" : "21204689",
@@ -3652,7 +3652,7 @@ Grailbird.data.tweets_2012_06 =
       "id_str" : "16213079",
       "id" : 16213079
     }, {
-      "name" : "Keri Kae Nacin, CFRE",
+      "name" : "Keri Kae Nacin",
       "screen_name" : "kerikaeindc",
       "indices" : [ 7, 19 ],
       "id_str" : "17083778",

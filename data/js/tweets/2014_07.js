@@ -2132,7 +2132,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 3, 17 ],
       "id_str" : "21204689",
@@ -2169,11 +2169,11 @@ Grailbird.data.tweets_2014_07 =
     "id" : 491757703849857025,
     "created_at" : "2014-07-23 01:32:27 +0000",
     "user" : {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/572954749613563904\/1fk7ZrLm_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/584017484417667073\/Hz7Q8nyc_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }
@@ -3895,7 +3895,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Duster Bouglas.",
+      "name" : "Dougstar",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -3928,7 +3928,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Duster Bouglas.",
+      "name" : "MacDougal",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -4016,7 +4016,7 @@ Grailbird.data.tweets_2014_07 =
       "id_str" : "16213079",
       "id" : 16213079
     }, {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 7, 21 ],
       "id_str" : "21204689",
@@ -4049,7 +4049,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -4688,7 +4688,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -6270,7 +6270,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -6357,7 +6357,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -6635,7 +6635,7 @@ Grailbird.data.tweets_2014_07 =
       "id_str" : "27740025",
       "id" : 27740025
     }, {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 8, 22 ],
       "id_str" : "21204689",
@@ -6673,7 +6673,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -6843,7 +6843,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Duster Bouglas.",
+      "name" : "MacDougal",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -7767,7 +7767,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -7800,7 +7800,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -8044,7 +8044,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -8806,7 +8806,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "VincentKompany",
       "protected" : false,
       "id_str" : "436702610",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/580381598014636033\/R0fyC9p6_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/584005970704998400\/pX7ZF2tT_normal.jpg",
       "id" : 436702610,
       "verified" : true
     }

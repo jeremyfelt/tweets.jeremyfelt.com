@@ -1766,7 +1766,7 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "21618405",
       "id" : 21618405
     }, {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 12, 26 ],
       "id_str" : "21204689",
@@ -2472,7 +2472,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 49, 63 ],
       "id_str" : "21204689",
@@ -3355,7 +3355,7 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "29752531",
       "id" : 29752531
     }, {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 89, 103 ],
       "id_str" : "21204689",
@@ -3427,7 +3427,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -3851,7 +3851,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -4042,7 +4042,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 392160483995709440,
     "created_at" : "2013-10-21 05:28:40 +0000",
     "user" : {
-      "name" : "~",
+      "name" : "Angelina Fabbro",
       "screen_name" : "hopefulcyborg",
       "protected" : false,
       "id_str" : "58708498",
@@ -6548,7 +6548,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -7081,7 +7081,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 3, 17 ],
       "id_str" : "21204689",
@@ -7118,11 +7118,11 @@ Grailbird.data.tweets_2013_10 =
     "id" : 389221352650985472,
     "created_at" : "2013-10-13 02:49:36 +0000",
     "user" : {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/572954749613563904\/1fk7ZrLm_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/584017484417667073\/Hz7Q8nyc_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }
@@ -8631,7 +8631,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -13860,7 +13860,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",

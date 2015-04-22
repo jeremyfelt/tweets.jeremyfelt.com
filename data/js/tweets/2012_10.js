@@ -181,7 +181,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/581139992388337665\/qbBxqMwP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/583769950591909888\/3RfEdTLh_normal.jpg",
       "id" : 22872643,
       "verified" : true
     }
@@ -2275,7 +2275,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "technosailor",
       "protected" : false,
       "id_str" : "789158",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/571649510700654592\/0h5GGAg2_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/585566169278590976\/NWoazpTE_normal.jpg",
       "id" : 789158,
       "verified" : false
     }
@@ -3510,7 +3510,7 @@ Grailbird.data.tweets_2012_10 =
       "id_str" : "21545434",
       "id" : 21545434
     }, {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 9, 23 ],
       "id_str" : "21204689",
@@ -3756,7 +3756,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andy Boyle is cool",
+      "name" : "Andy Boyle is single",
       "screen_name" : "andymboyle",
       "indices" : [ 3, 14 ],
       "id_str" : "17687524",
@@ -3793,11 +3793,11 @@ Grailbird.data.tweets_2012_10 =
     "id" : 258605467004174336,
     "created_at" : "2012-10-17 16:28:42 +0000",
     "user" : {
-      "name" : "Andy Boyle is cool",
+      "name" : "Andy Boyle is single",
       "screen_name" : "andymboyle",
       "protected" : false,
       "id_str" : "17687524",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459059020251144192\/xgGbi1HK_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/590591356294328321\/sXoKIh98_normal.jpg",
       "id" : 17687524,
       "verified" : false
     }
@@ -4126,7 +4126,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -4159,7 +4159,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -4855,7 +4855,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "waxpancake",
       "protected" : false,
       "id_str" : "13461",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/576821448322334720\/dr9IqHlY_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/590385501179289602\/qvTvxmCX_normal.png",
       "id" : 13461,
       "verified" : false
     }
@@ -5668,7 +5668,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andy Boyle is cool",
+      "name" : "Andy Boyle is single",
       "screen_name" : "andymboyle",
       "indices" : [ 3, 14 ],
       "id_str" : "17687524",
@@ -5705,11 +5705,11 @@ Grailbird.data.tweets_2012_10 =
     "id" : 256521906138783744,
     "created_at" : "2012-10-11 22:29:23 +0000",
     "user" : {
-      "name" : "Andy Boyle is cool",
+      "name" : "Andy Boyle is single",
       "screen_name" : "andymboyle",
       "protected" : false,
       "id_str" : "17687524",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459059020251144192\/xgGbi1HK_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/590591356294328321\/sXoKIh98_normal.jpg",
       "id" : 17687524,
       "verified" : false
     }
@@ -6005,67 +6005,6 @@ Grailbird.data.tweets_2012_10 =
   "text" : "Magic has been performed. Version control, level up.",
   "id" : 256420058706882560,
   "created_at" : "2012-10-11 15:44:40 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Michael Fields",
-      "screen_name" : "_mfields",
-      "indices" : [ 3, 12 ],
-      "id_str" : "17112549",
-      "id" : 17112549
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 103, 123 ],
-      "url" : "http:\/\/t.co\/W9mCT9YJ",
-      "expanded_url" : "http:\/\/www.meetup.com\/pdx-wp\/events\/85028862\/",
-      "display_url" : "meetup.com\/pdx-wp\/events\/\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "256395870470303745",
-  "text" : "RT @_mfields: Got some WordPress code that needs reviewing? Are you in Portland, Oregon? Send it in :) http:\/\/t.co\/W9mCT9YJ",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 89, 109 ],
-        "url" : "http:\/\/t.co\/W9mCT9YJ",
-        "expanded_url" : "http:\/\/www.meetup.com\/pdx-wp\/events\/85028862\/",
-        "display_url" : "meetup.com\/pdx-wp\/events\/\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "256187616905539584",
-    "text" : "Got some WordPress code that needs reviewing? Are you in Portland, Oregon? Send it in :) http:\/\/t.co\/W9mCT9YJ",
-    "id" : 256187616905539584,
-    "created_at" : "2012-10-11 00:21:02 +0000",
-    "user" : {
-      "name" : "Michael Fields",
-      "screen_name" : "_mfields",
-      "protected" : false,
-      "id_str" : "17112549",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/438221825634349056\/dfXJmUKK_normal.jpeg",
-      "id" : 17112549,
-      "verified" : false
-    }
-  },
-  "id" : 256395870470303745,
-  "created_at" : "2012-10-11 14:08:33 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -7637,7 +7576,7 @@ Grailbird.data.tweets_2012_10 =
   "id_str" : "254064878787117056",
   "text" : "RT @StephenAtHome: I wish Jim Lehrer moderated Twitter so we could all ignore the character limit.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.socialoomph.com\" rel=\"nofollow\"\u003ESocialOomph\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.socialoomph.com\" rel=\"nofollow\"\u003ESocialOomph\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -7872,10 +7811,10 @@ Grailbird.data.tweets_2012_10 =
     "created_at" : "2012-10-04 01:49:16 +0000",
     "user" : {
       "name" : "Political Line ",
-      "screen_name" : "PoliticaILine",
+      "screen_name" : "PoIiticalLine",
       "protected" : false,
       "id_str" : "858646280",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/581806618641362944\/Xb9cG7w-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/588097296035905538\/koad8lys_normal.png",
       "id" : 858646280,
       "verified" : false
     }

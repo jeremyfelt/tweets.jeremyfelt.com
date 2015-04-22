@@ -661,7 +661,7 @@ Grailbird.data.tweets_2013_01 =
       "id_str" : "912311",
       "id" : 912311
     }, {
-      "name" : "LipSyncBattleApril2",
+      "name" : "LipSyncBattle",
       "screen_name" : "llcoolj",
       "indices" : [ 40, 48 ],
       "id_str" : "19330043",
@@ -683,7 +683,7 @@ Grailbird.data.tweets_2013_01 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "LipSyncBattleApril2",
+        "name" : "LipSyncBattle",
         "screen_name" : "llcoolj",
         "indices" : [ 24, 32 ],
         "id_str" : "19330043",
@@ -3255,7 +3255,7 @@ Grailbird.data.tweets_2013_01 =
       "id_str" : "1741681",
       "id" : 1741681
     }, {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 108, 122 ],
       "id_str" : "21204689",
@@ -3299,7 +3299,7 @@ Grailbird.data.tweets_2013_01 =
         "id_str" : "1741681",
         "id" : 1741681
       }, {
-        "name" : "Helen",
+        "name" : "Helen \u4FAF-Sand\u00ED",
         "screen_name" : "helenhousandi",
         "indices" : [ 92, 106 ],
         "id_str" : "21204689",
@@ -4976,7 +4976,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "tcarmody",
       "protected" : false,
       "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/580950219380142080\/doOxxmEh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/588497157583405056\/1JSJUsAq_normal.png",
       "id" : 14439168,
       "verified" : true
     }
@@ -6541,7 +6541,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -7101,7 +7101,7 @@ Grailbird.data.tweets_2013_01 =
       "id_str" : "14834340",
       "id" : 14834340
     }, {
-      "name" : "ambient monad",
+      "name" : "Some(@steveklabnik)",
       "screen_name" : "steveklabnik",
       "indices" : [ 123, 136 ],
       "id_str" : "22386062",
@@ -7123,7 +7123,7 @@ Grailbird.data.tweets_2013_01 =
     "source" : "\u003Ca href=\"http:\/\/bitly.com\" rel=\"nofollow\"\u003Ebitly bitlink\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "ambient monad",
+        "name" : "Some(@steveklabnik)",
         "screen_name" : "steveklabnik",
         "indices" : [ 105, 118 ],
         "id_str" : "22386062",
@@ -7521,7 +7521,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -7844,7 +7844,7 @@ Grailbird.data.tweets_2013_01 =
       "id_str" : "27740025",
       "id" : 27740025
     }, {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 8, 22 ],
       "id_str" : "21204689",
@@ -7883,7 +7883,7 @@ Grailbird.data.tweets_2013_01 =
       "id_str" : "27740025",
       "id" : 27740025
     }, {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 112, 126 ],
       "id_str" : "21204689",

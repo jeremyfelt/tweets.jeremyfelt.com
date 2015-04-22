@@ -319,7 +319,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "boonsri",
       "protected" : false,
       "id_str" : "14538938",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/577098134637031425\/nWszGhmi_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/588381795013365760\/MvPj8VLd_normal.jpg",
       "id" : 14538938,
       "verified" : false
     }
@@ -711,7 +711,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "digiphile",
       "protected" : false,
       "id_str" : "1175221",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/577822622299328512\/ZAmXFHil_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/587053647034474496\/RoT9TtTr_normal.jpg",
       "id" : 1175221,
       "verified" : false
     }
@@ -1606,7 +1606,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "palafo",
       "protected" : false,
       "id_str" : "2020351",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000735594920\/f1724ecfaf8bcb4a4ec4fcaeb7929f10_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/585520866336894976\/AGNb456h_normal.jpg",
       "id" : 2020351,
       "verified" : true
     }
@@ -3164,7 +3164,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "digiphile",
       "protected" : false,
       "id_str" : "1175221",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/577822622299328512\/ZAmXFHil_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/587053647034474496\/RoT9TtTr_normal.jpg",
       "id" : 1175221,
       "verified" : false
     }
@@ -3962,7 +3962,7 @@ Grailbird.data.tweets_2010_12 =
   "id_str" : "10720874021789696",
   "text" : "RT @ebertchicago: Heroic Chicago Cubs legend Ron Santo is dead at 70. Played every day as a diabetic. http:\/\/j.mp\/fsub7y",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.socialoomph.com\" rel=\"nofollow\"\u003ESocialOomph\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.socialoomph.com\" rel=\"nofollow\"\u003ESocialOomph\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

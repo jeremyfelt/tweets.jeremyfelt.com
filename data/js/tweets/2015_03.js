@@ -1177,7 +1177,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -1271,7 +1271,7 @@ Grailbird.data.tweets_2015_03 =
   },
   "geo" : {
     "type" : "Point",
-    "coordinates" : [ 47.445305596, -122.2998435395 ]
+    "coordinates" : [ 47.44530559601295, -122.2998435394574 ]
   },
   "id_str" : "582361939545747456",
   "text" : "Stan Lee doesn't have TSA Pre if you were wondering.",
@@ -3939,7 +3939,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Watch_dougs",
+      "name" : "Fairless Dougbanks",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -4712,7 +4712,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Duster Bouglas.",
+      "name" : "MacDougal",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -4751,7 +4751,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Duster Bouglas.",
+      "name" : "Fairless Dougbanks",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -6209,9 +6209,9 @@ Grailbird.data.tweets_2015_03 =
       "screen_name" : "maggieserota",
       "protected" : false,
       "id_str" : "88826456",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/567077464779018241\/zEsbCvLS_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/586405116036550657\/skODgqM-_normal.jpg",
       "id" : 88826456,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 577317585651310592,
@@ -6933,7 +6933,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "A Doug's Breakfast",
+      "name" : "MacDougal",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -6966,7 +6966,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "A Doug's Breakfast",
+      "name" : "MacDougal",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -7396,7 +7396,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -8484,7 +8484,7 @@ Grailbird.data.tweets_2015_03 =
       "id_str" : "79053835",
       "id" : 79053835
     }, {
-      "name" : "Human Made Limited",
+      "name" : "Human Made",
       "screen_name" : "humanmadeltd",
       "indices" : [ 13, 26 ],
       "id_str" : "9105522",
@@ -8523,7 +8523,7 @@ Grailbird.data.tweets_2015_03 =
       "id_str" : "79053835",
       "id" : 79053835
     }, {
-      "name" : "Human Made Limited",
+      "name" : "Human Made",
       "screen_name" : "humanmadeltd",
       "indices" : [ 67, 80 ],
       "id_str" : "9105522",
@@ -8545,7 +8545,7 @@ Grailbird.data.tweets_2015_03 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Human Made Limited",
+        "name" : "Human Made",
         "screen_name" : "humanmadeltd",
         "indices" : [ 50, 63 ],
         "id_str" : "9105522",
@@ -8806,7 +8806,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "A Doug's Breakfast",
+      "name" : "MacDougal",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",

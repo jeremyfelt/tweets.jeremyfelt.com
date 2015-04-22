@@ -1290,79 +1290,6 @@ Grailbird.data.tweets_2011_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Michael Fields",
-      "screen_name" : "_mfields",
-      "indices" : [ 3, 12 ],
-      "id_str" : "17112549",
-      "id" : 17112549
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "wow",
-      "indices" : [ 139, 140 ]
-    }, {
-      "text" : "pdxwp",
-      "indices" : [ 139, 140 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/19gWTHvQ",
-      "expanded_url" : "http:\/\/www.meetup.com\/pdx-wp\/events\/32554712\/",
-      "display_url" : "meetup.com\/pdx-wp\/events\/\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "118348519991017472",
-  "text" : "RT @_mfields: 51 people attending the Portland WordPress Users Group tonight! This is EPIC and you should not miss it! http:\/\/t.co\/19gWT ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "wow",
-        "indices" : [ 126, 130 ]
-      }, {
-        "text" : "pdxwp",
-        "indices" : [ 131, 137 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 105, 125 ],
-        "url" : "http:\/\/t.co\/19gWTHvQ",
-        "expanded_url" : "http:\/\/www.meetup.com\/pdx-wp\/events\/32554712\/",
-        "display_url" : "meetup.com\/pdx-wp\/events\/\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "118305960908427265",
-    "text" : "51 people attending the Portland WordPress Users Group tonight! This is EPIC and you should not miss it! http:\/\/t.co\/19gWTHvQ #wow #pdxwp",
-    "id" : 118305960908427265,
-    "created_at" : "2011-09-26 12:48:33 +0000",
-    "user" : {
-      "name" : "Michael Fields",
-      "screen_name" : "_mfields",
-      "protected" : false,
-      "id_str" : "17112549",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/438221825634349056\/dfXJmUKK_normal.jpeg",
-      "id" : 17112549,
-      "verified" : false
-    }
-  },
-  "id" : 118348519991017472,
-  "created_at" : "2011-09-26 15:37:40 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -5853,7 +5780,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/583266369329741824\/Zf8TE1G9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/586556910930788352\/8eMAF7vv_normal.jpg",
       "id" : 819797,
       "verified" : false
     }
@@ -6431,7 +6358,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "tcarmody",
       "protected" : false,
       "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/580950219380142080\/doOxxmEh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/588497157583405056\/1JSJUsAq_normal.png",
       "id" : 14439168,
       "verified" : true
     }
@@ -7949,7 +7876,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "tcarmody",
       "protected" : false,
       "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/580950219380142080\/doOxxmEh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/588497157583405056\/1JSJUsAq_normal.png",
       "id" : 14439168,
       "verified" : true
     }

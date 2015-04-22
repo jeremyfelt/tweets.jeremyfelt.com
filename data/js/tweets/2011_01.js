@@ -46,7 +46,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "monaeltahawy",
       "protected" : false,
       "id_str" : "29979814",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/578983036613701632\/pwvghAq7_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/587255329127329793\/O4TcFP9X_normal.jpg",
       "id" : 29979814,
       "verified" : true
     }
@@ -599,7 +599,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "maryslosson",
       "protected" : false,
       "id_str" : "37978965",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/547121405863952384\/dsw0Rh_X_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/585182890079588352\/ZjXT_Eoh_normal.jpg",
       "id" : 37978965,
       "verified" : false
     }
@@ -2941,7 +2941,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "palafo",
       "protected" : false,
       "id_str" : "2020351",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000735594920\/f1724ecfaf8bcb4a4ec4fcaeb7929f10_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/585520866336894976\/AGNb456h_normal.jpg",
       "id" : 2020351,
       "verified" : true
     }
@@ -3328,7 +3328,7 @@ Grailbird.data.tweets_2011_01 =
   "id_str" : "26800788735000576",
   "text" : "RT @ebertchicago: Note to critics of my twitstream: Life is not a banquet you catered. Here's what I'm serving. Dine here or eat elsewhere.",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.socialoomph.com\" rel=\"nofollow\"\u003ESocialOomph\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.socialoomph.com\" rel=\"nofollow\"\u003ESocialOomph\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4243,7 +4243,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "palafo",
       "protected" : false,
       "id_str" : "2020351",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000735594920\/f1724ecfaf8bcb4a4ec4fcaeb7929f10_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/585520866336894976\/AGNb456h_normal.jpg",
       "id" : 2020351,
       "verified" : true
     }
@@ -4496,7 +4496,7 @@ Grailbird.data.tweets_2011_01 =
   "id_str" : "25364571048906753",
   "text" : "RT @ebertchicago: Gov. Palin needs better advice before she issues statements. Every copy editor would have flagged \"blood libel.\"",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.socialoomph.com\" rel=\"nofollow\"\u003ESocialOomph\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.socialoomph.com\" rel=\"nofollow\"\u003ESocialOomph\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -6086,7 +6086,7 @@ Grailbird.data.tweets_2011_01 =
   "id_str" : "22877184767041536",
   "text" : "RT @StephenAtHome: It's great that they took the N-word out of \"Huckleberry Finn.\" Now get to work on \"Moby D-Word.\"",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.socialoomph.com\" rel=\"nofollow\"\u003ESocialOomph\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.socialoomph.com\" rel=\"nofollow\"\u003ESocialOomph\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -6405,7 +6405,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "palafo",
       "protected" : false,
       "id_str" : "2020351",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000735594920\/f1724ecfaf8bcb4a4ec4fcaeb7929f10_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/585520866336894976\/AGNb456h_normal.jpg",
       "id" : 2020351,
       "verified" : true
     }

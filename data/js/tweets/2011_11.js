@@ -655,7 +655,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ambient monad",
+      "name" : "Some(@steveklabnik)",
       "screen_name" : "steveklabnik",
       "indices" : [ 3, 16 ],
       "id_str" : "22386062",
@@ -704,7 +704,7 @@ Grailbird.data.tweets_2011_11 =
     "id" : 138698219755536385,
     "created_at" : "2011-11-21 19:20:07 +0000",
     "user" : {
-      "name" : "ambient monad",
+      "name" : "Some(@steveklabnik)",
       "screen_name" : "steveklabnik",
       "protected" : false,
       "id_str" : "22386062",
@@ -1597,7 +1597,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andy Boyle is cool",
+      "name" : "Andy Boyle is single",
       "screen_name" : "andymboyle",
       "indices" : [ 0, 11 ],
       "id_str" : "17687524",
@@ -1895,7 +1895,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/581139992388337665\/qbBxqMwP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/583769950591909888\/3RfEdTLh_normal.jpg",
       "id" : 22872643,
       "verified" : true
     }
@@ -2686,7 +2686,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andy Boyle is cool",
+      "name" : "Andy Boyle is single",
       "screen_name" : "andymboyle",
       "indices" : [ 0, 11 ],
       "id_str" : "17687524",

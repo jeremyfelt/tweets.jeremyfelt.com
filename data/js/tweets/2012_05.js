@@ -325,7 +325,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -3039,7 +3039,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "petemall",
       "protected" : false,
       "id_str" : "43847317",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/463549587349716993\/Jo1SyPQf_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/590044822280384513\/rhYJtw72_normal.jpg",
       "id" : 43847317,
       "verified" : false
     }
@@ -3506,7 +3506,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "335110427",
       "id" : 335110427
     }, {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 31, 45 ],
       "id_str" : "21204689",
@@ -4780,7 +4780,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -5375,13 +5375,13 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "9412542",
       "id" : 9412542
     }, {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 9, 23 ],
       "id_str" : "21204689",
       "id" : 21204689
     }, {
-      "name" : "Duster Bouglas.",
+      "name" : "MacDougal",
       "screen_name" : "zamoose",
       "indices" : [ 24, 32 ],
       "id_str" : "819148",

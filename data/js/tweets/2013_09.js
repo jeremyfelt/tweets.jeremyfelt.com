@@ -1929,7 +1929,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "Jeff_Daniels",
       "protected" : false,
       "id_str" : "506652594",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/544479806835163136\/NRQ39e8f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/589623882190958592\/287JQRGx_normal.jpg",
       "id" : 506652594,
       "verified" : true
     }
@@ -3577,79 +3577,6 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Michael Fields",
-      "screen_name" : "_mfields",
-      "indices" : [ 3, 12 ],
-      "id_str" : "17112549",
-      "id" : 17112549
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "tba",
-      "indices" : [ 55, 59 ]
-    }, {
-      "text" : "holdyourownhand",
-      "indices" : [ 60, 76 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 32, 54 ],
-      "url" : "http:\/\/t.co\/DpWZ3HfxP5",
-      "expanded_url" : "http:\/\/mfields.org\/hyoh\/",
-      "display_url" : "mfields.org\/hyoh\/"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "381257305443942402",
-  "text" : "RT @_mfields: Read this please! http:\/\/t.co\/DpWZ3HfxP5 #tba #holdyourownhand",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "tba",
-        "indices" : [ 41, 45 ]
-      }, {
-        "text" : "holdyourownhand",
-        "indices" : [ 46, 62 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 18, 40 ],
-        "url" : "http:\/\/t.co\/DpWZ3HfxP5",
-        "expanded_url" : "http:\/\/mfields.org\/hyoh\/",
-        "display_url" : "mfields.org\/hyoh\/"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "381255029224517632",
-    "text" : "Read this please! http:\/\/t.co\/DpWZ3HfxP5 #tba #holdyourownhand",
-    "id" : 381255029224517632,
-    "created_at" : "2013-09-21 03:14:17 +0000",
-    "user" : {
-      "name" : "Michael Fields",
-      "screen_name" : "_mfields",
-      "protected" : false,
-      "id_str" : "17112549",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/438221825634349056\/dfXJmUKK_normal.jpeg",
-      "id" : 17112549,
-      "verified" : false
-    }
-  },
-  "id" : 381257305443942402,
-  "created_at" : "2013-09-21 03:23:19 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Megan Gray",
       "screen_name" : "HouseofGrays",
       "indices" : [ 0, 13 ],
@@ -3855,7 +3782,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -4146,7 +4073,7 @@ Grailbird.data.tweets_2013_09 =
     "id" : 380855255472164864,
     "created_at" : "2013-09-20 00:45:43 +0000",
     "user" : {
-      "name" : "~",
+      "name" : "Angelina Fabbro",
       "screen_name" : "hopefulcyborg",
       "protected" : false,
       "id_str" : "58708498",
@@ -8923,7 +8850,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -8956,7 +8883,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -8994,7 +8921,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -10079,7 +10006,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -10112,7 +10039,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",

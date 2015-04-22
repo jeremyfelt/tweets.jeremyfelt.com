@@ -1669,7 +1669,7 @@ Grailbird.data.tweets_2010_07 =
   "id_str" : "18861399312",
   "text" : "RT @ebertchicago: Hunter S. Thompson's birthday. \"When the going gets weird, the weird turn pro.\" http:\/\/j.mp\/aP8QBp",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.socialoomph.com\" rel=\"nofollow\"\u003ESocialOomph\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.socialoomph.com\" rel=\"nofollow\"\u003ESocialOomph\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2155,7 +2155,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pell Grants",
+      "name" : "Dave Pell",
       "screen_name" : "davepell",
       "indices" : [ 3, 12 ],
       "id_str" : "224",
@@ -2182,7 +2182,7 @@ Grailbird.data.tweets_2010_07 =
     "id" : 18705516837,
     "created_at" : "2010-07-16 18:07:43 +0000",
     "user" : {
-      "name" : "Pell Grants",
+      "name" : "Dave Pell",
       "screen_name" : "davepell",
       "protected" : false,
       "id_str" : "224",
@@ -2630,7 +2630,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "GlennF",
       "protected" : false,
       "id_str" : "8315692",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553651457820356608\/j-szzxwZ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/590370073535057920\/xsn0y2NQ_normal.jpg",
       "id" : 8315692,
       "verified" : true
     }
@@ -3863,7 +3863,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James Governor",
+      "name" : "Legacy Boy",
       "screen_name" : "monkchips",
       "indices" : [ 3, 13 ],
       "id_str" : "61233",
@@ -3890,7 +3890,7 @@ Grailbird.data.tweets_2010_07 =
     "id" : 17872127385,
     "created_at" : "2010-07-06 14:45:44 +0000",
     "user" : {
-      "name" : "James Governor",
+      "name" : "Legacy Boy",
       "screen_name" : "monkchips",
       "protected" : false,
       "id_str" : "61233",

@@ -4897,7 +4897,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 3, 17 ],
       "id_str" : "21204689",
@@ -4946,11 +4946,11 @@ Grailbird.data.tweets_2013_05 =
     "id" : 332705267160592386,
     "created_at" : "2013-05-10 03:54:51 +0000",
     "user" : {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/572954749613563904\/1fk7ZrLm_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/584017484417667073\/Hz7Q8nyc_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }
@@ -5048,7 +5048,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -6210,7 +6210,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "HouseofGrays",
       "protected" : false,
       "id_str" : "356861615",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/535478939259396096\/NIhENKKq_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/588078628614893569\/-vMDT6Wu_normal.jpg",
       "id" : 356861615,
       "verified" : false
     }
@@ -6690,7 +6690,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "waxpancake",
       "protected" : false,
       "id_str" : "13461",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/576821448322334720\/dr9IqHlY_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/590385501179289602\/qvTvxmCX_normal.png",
       "id" : 13461,
       "verified" : false
     }
@@ -7797,7 +7797,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "HouseofGrays",
       "protected" : false,
       "id_str" : "356861615",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/535478939259396096\/NIhENKKq_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/588078628614893569\/-vMDT6Wu_normal.jpg",
       "id" : 356861615,
       "verified" : false
     }

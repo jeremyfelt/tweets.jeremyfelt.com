@@ -903,7 +903,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "HouseofGrays",
       "protected" : false,
       "id_str" : "356861615",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/535478939259396096\/NIhENKKq_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/588078628614893569\/-vMDT6Wu_normal.jpg",
       "id" : 356861615,
       "verified" : false
     }
@@ -1034,7 +1034,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "digiphile",
       "protected" : false,
       "id_str" : "1175221",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/577822622299328512\/ZAmXFHil_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/587053647034474496\/RoT9TtTr_normal.jpg",
       "id" : 1175221,
       "verified" : false
     }
@@ -1240,7 +1240,7 @@ Grailbird.data.tweets_2014_11 =
   "in_reply_to_status_id_str" : "537034622333231104",
   "geo" : {
     "type" : "Point",
-    "coordinates" : [ 46.7342376709, -117.1658172607 ]
+    "coordinates" : [ 46.73423767089974, -117.1658172607273 ]
   },
   "id_str" : "537039880425963521",
   "in_reply_to_user_id" : 22232652,
@@ -1443,7 +1443,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "tcarmody",
       "protected" : false,
       "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/580950219380142080\/doOxxmEh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/588497157583405056\/1JSJUsAq_normal.png",
       "id" : 14439168,
       "verified" : true
     }
@@ -1463,7 +1463,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Duster Bouglas.",
+      "name" : "MacDougal",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -2629,7 +2629,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "waxpancake",
       "protected" : false,
       "id_str" : "13461",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/576821448322334720\/dr9IqHlY_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/590385501179289602\/qvTvxmCX_normal.png",
       "id" : 13461,
       "verified" : false
     }
@@ -3273,7 +3273,7 @@ Grailbird.data.tweets_2014_11 =
   "in_reply_to_status_id_str" : "533328977512120320",
   "geo" : {
     "type" : "Point",
-    "coordinates" : [ 46.73423767089842, -117.1658172607421 ]
+    "coordinates" : [ 46.7342376709, -117.1658172607 ]
   },
   "id_str" : "533334203531005952",
   "in_reply_to_user_id" : 79053835,
@@ -3471,7 +3471,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Duster Bouglas.",
+      "name" : "MacDougal",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -3784,7 +3784,7 @@ Grailbird.data.tweets_2014_11 =
   },
   "geo" : {
     "type" : "Point",
-    "coordinates" : [ 46.73423767089842, -117.1658172607421 ]
+    "coordinates" : [ 46.7342376709, -117.1658172607 ]
   },
   "id_str" : "533066678754889728",
   "text" : "The joys of office living http:\/\/t.co\/2EHjFiac3v",
@@ -4480,7 +4480,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John James Jacoby ",
+      "name" : "John James Jacoby",
       "screen_name" : "JJJ",
       "indices" : [ 5, 9 ],
       "id_str" : "15908706",
@@ -5108,7 +5108,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "waxpancake",
       "protected" : false,
       "id_str" : "13461",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/576821448322334720\/dr9IqHlY_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/590385501179289602\/qvTvxmCX_normal.png",
       "id" : 13461,
       "verified" : false
     }
@@ -5552,7 +5552,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 3, 17 ],
       "id_str" : "21204689",
@@ -5595,11 +5595,11 @@ Grailbird.data.tweets_2014_11 =
     "id" : 529381073193402368,
     "created_at" : "2014-11-03 21:14:17 +0000",
     "user" : {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/572954749613563904\/1fk7ZrLm_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/584017484417667073\/Hz7Q8nyc_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }

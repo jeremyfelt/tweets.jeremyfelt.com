@@ -69,7 +69,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -917,7 +917,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -1704,7 +1704,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 3, 17 ],
       "id_str" : "21204689",
@@ -1741,11 +1741,11 @@ Grailbird.data.tweets_2012_12 =
     "id" : 281124596000911361,
     "created_at" : "2012-12-18 19:51:41 +0000",
     "user" : {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/572954749613563904\/1fk7ZrLm_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/584017484417667073\/Hz7Q8nyc_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }
@@ -1995,7 +1995,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "maryslosson",
       "protected" : false,
       "id_str" : "37978965",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/547121405863952384\/dsw0Rh_X_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/585182890079588352\/ZjXT_Eoh_normal.jpg",
       "id" : 37978965,
       "verified" : false
     }
@@ -2297,7 +2297,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "28174907",
       "id" : 28174907
     }, {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 79, 93 ],
       "id_str" : "21204689",
@@ -2495,7 +2495,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "18741447",
       "id" : 18741447
     }, {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 11, 25 ],
       "id_str" : "21204689",
@@ -2980,7 +2980,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 0, 14 ],
       "id_str" : "21204689",
@@ -3560,7 +3560,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "indices" : [ 3, 17 ],
       "id_str" : "21204689",
@@ -3605,11 +3605,11 @@ Grailbird.data.tweets_2012_12 =
     "id" : 278554127905193984,
     "created_at" : "2012-12-11 17:37:34 +0000",
     "user" : {
-      "name" : "Helen",
+      "name" : "Helen \u4FAF-Sand\u00ED",
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/572954749613563904\/1fk7ZrLm_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/584017484417667073\/Hz7Q8nyc_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }
@@ -5208,85 +5208,6 @@ Grailbird.data.tweets_2012_12 =
   "text" : "So. Unwashed sliced mushrooms. Because slicing is the annoying part and rinsing 100 little slices is fun?",
   "id" : 276885048739909634,
   "created_at" : "2012-12-07 03:05:14 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Michael Fields",
-      "screen_name" : "_mfields",
-      "indices" : [ 3, 12 ],
-      "id_str" : "17112549",
-      "id" : 17112549
-    }, {
-      "name" : "WP Engine",
-      "screen_name" : "wpengine",
-      "indices" : [ 88, 97 ],
-      "id_str" : "121880027",
-      "id" : 121880027
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "ihidefromcameras",
-      "indices" : [ 101, 118 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 23, 43 ],
-      "url" : "http:\/\/t.co\/L6Rz8iRC",
-      "expanded_url" : "http:\/\/www.youtube.com\/watch?feature=player_embedded&v=uY4uPRd7edQ",
-      "display_url" : "youtube.com\/watch?feature=\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "276826717438488578",
-  "text" : "RT @_mfields: Whoa!!!! http:\/\/t.co\/L6Rz8iRC WordCamp Portland video for the win! Thanks @wpengine :) #ihidefromcameras",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "WP Engine",
-        "screen_name" : "wpengine",
-        "indices" : [ 74, 83 ],
-        "id_str" : "121880027",
-        "id" : 121880027
-      } ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "ihidefromcameras",
-        "indices" : [ 87, 104 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 9, 29 ],
-        "url" : "http:\/\/t.co\/L6Rz8iRC",
-        "expanded_url" : "http:\/\/www.youtube.com\/watch?feature=player_embedded&v=uY4uPRd7edQ",
-        "display_url" : "youtube.com\/watch?feature=\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "276814709737525248",
-    "text" : "Whoa!!!! http:\/\/t.co\/L6Rz8iRC WordCamp Portland video for the win! Thanks @wpengine :) #ihidefromcameras",
-    "id" : 276814709737525248,
-    "created_at" : "2012-12-06 22:25:44 +0000",
-    "user" : {
-      "name" : "Michael Fields",
-      "screen_name" : "_mfields",
-      "protected" : false,
-      "id_str" : "17112549",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/438221825634349056\/dfXJmUKK_normal.jpeg",
-      "id" : 17112549,
-      "verified" : false
-    }
-  },
-  "id" : 276826717438488578,
-  "created_at" : "2012-12-06 23:13:27 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

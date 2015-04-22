@@ -506,7 +506,7 @@ Grailbird.data.tweets_2010_10 =
   "id_str" : "28507378090",
   "text" : "RT @ebertchicago: There is one bookstore in the world that everyone must visit. http:\/\/j.mp\/bjrt0t",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.socialoomph.com\" rel=\"nofollow\"\u003ESocialOomph\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.socialoomph.com\" rel=\"nofollow\"\u003ESocialOomph\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2351,7 +2351,7 @@ Grailbird.data.tweets_2010_10 =
   "id_str" : "27394961152",
   "text" : "RT @ebertchicago: \"Our food can definitely spoil!\" -- claims McDonald's. http:\/\/j.mp\/cbAIui",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.socialoomph.com\" rel=\"nofollow\"\u003ESocialOomph\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.socialoomph.com\" rel=\"nofollow\"\u003ESocialOomph\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2864,7 +2864,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "anthonydb",
       "protected" : false,
       "id_str" : "18682941",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000833644618\/f416d9ce48e213be187c0bf0ef32f4d1_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/588795115763798016\/wgwl4GPd_normal.jpg",
       "id" : 18682941,
       "verified" : false
     }
@@ -3973,7 +3973,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "palafo",
       "protected" : false,
       "id_str" : "2020351",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000735594920\/f1724ecfaf8bcb4a4ec4fcaeb7929f10_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/585520866336894976\/AGNb456h_normal.jpg",
       "id" : 2020351,
       "verified" : true
     }

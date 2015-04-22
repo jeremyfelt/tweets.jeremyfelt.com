@@ -1554,7 +1554,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "1489691",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/476863749601898496\/wqOOvffd_normal.jpeg",
       "id" : 1489691,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 93349892650573824,
@@ -3504,7 +3504,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "14570738",
       "id" : 14570738
     }, {
-      "name" : "Andy Boyle is cool",
+      "name" : "Andy Boyle is single",
       "screen_name" : "andymboyle",
       "indices" : [ 24, 35 ],
       "id_str" : "17687524",
@@ -3537,7 +3537,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andy Boyle is cool",
+      "name" : "Andy Boyle is single",
       "screen_name" : "andymboyle",
       "indices" : [ 3, 14 ],
       "id_str" : "17687524",
@@ -3605,11 +3605,11 @@ Grailbird.data.tweets_2011_07 =
     "in_reply_to_screen_name" : "jeremyfelt",
     "in_reply_to_user_id_str" : "1741681",
     "user" : {
-      "name" : "Andy Boyle is cool",
+      "name" : "Andy Boyle is single",
       "screen_name" : "andymboyle",
       "protected" : false,
       "id_str" : "17687524",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459059020251144192\/xgGbi1HK_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/590591356294328321\/sXoKIh98_normal.jpg",
       "id" : 17687524,
       "verified" : false
     }
@@ -3641,7 +3641,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "14570738",
       "id" : 14570738
     }, {
-      "name" : "Andy Boyle is cool",
+      "name" : "Andy Boyle is single",
       "screen_name" : "andymboyle",
       "indices" : [ 24, 35 ],
       "id_str" : "17687524",
@@ -3680,7 +3680,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "14570738",
       "id" : 14570738
     }, {
-      "name" : "Andy Boyle is cool",
+      "name" : "Andy Boyle is single",
       "screen_name" : "andymboyle",
       "indices" : [ 12, 23 ],
       "id_str" : "17687524",
@@ -4212,7 +4212,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "tcarmody",
       "protected" : false,
       "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/580950219380142080\/doOxxmEh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/588497157583405056\/1JSJUsAq_normal.png",
       "id" : 14439168,
       "verified" : true
     }
@@ -4893,7 +4893,7 @@ Grailbird.data.tweets_2011_07 =
   "id" : 88647848874348544,
   "in_reply_to_status_id" : 88610533049253888,
   "created_at" : "2011-07-06 16:37:48 +0000",
-  "in_reply_to_screen_name" : "APTScom",
+  "in_reply_to_screen_name" : "ApartmentsBiz",
   "in_reply_to_user_id_str" : "20263526",
   "user" : {
     "name" : "Jeremy Felt",
@@ -4926,7 +4926,7 @@ Grailbird.data.tweets_2011_07 =
   "id" : 88647683279036416,
   "in_reply_to_status_id" : 88610533049253888,
   "created_at" : "2011-07-06 16:37:09 +0000",
-  "in_reply_to_screen_name" : "APTScom",
+  "in_reply_to_screen_name" : "ApartmentsBiz",
   "in_reply_to_user_id_str" : "20263526",
   "user" : {
     "name" : "Jeremy Felt",
@@ -4959,7 +4959,7 @@ Grailbird.data.tweets_2011_07 =
   "id" : 88647362960048128,
   "in_reply_to_status_id" : 88610533049253888,
   "created_at" : "2011-07-06 16:35:52 +0000",
-  "in_reply_to_screen_name" : "APTScom",
+  "in_reply_to_screen_name" : "ApartmentsBiz",
   "in_reply_to_user_id_str" : "20263526",
   "user" : {
     "name" : "Jeremy Felt",

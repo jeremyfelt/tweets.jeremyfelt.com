@@ -834,7 +834,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/581139992388337665\/qbBxqMwP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/583769950591909888\/3RfEdTLh_normal.jpg",
       "id" : 22872643,
       "verified" : true
     }
@@ -963,7 +963,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "chrismessina",
       "protected" : false,
       "id_str" : "1186",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/581107728489136128\/b4Unk-p0_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/584808961083310081\/t6kOuzrQ_normal.jpg",
       "id" : 1186,
       "verified" : true
     }
@@ -4012,7 +4012,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/583266369329741824\/Zf8TE1G9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/586556910930788352\/8eMAF7vv_normal.jpg",
       "id" : 819797,
       "verified" : false
     }
@@ -4208,7 +4208,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/583266369329741824\/Zf8TE1G9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/586556910930788352\/8eMAF7vv_normal.jpg",
       "id" : 819797,
       "verified" : false
     }
@@ -5497,7 +5497,7 @@ Grailbird.data.tweets_2010_08 =
   "id_str" : "20439609891",
   "text" : "RT @ebertchicago: Did Scrooge inspire \"Inception?\" Nolan wrote for 20 years. Disney strip 8 years ago. Don Rosa raided *Nolan's* dreams? ...",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.socialoomph.com\" rel=\"nofollow\"\u003ESocialOomph\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.socialoomph.com\" rel=\"nofollow\"\u003ESocialOomph\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
