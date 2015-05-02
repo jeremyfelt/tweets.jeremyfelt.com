@@ -4032,7 +4032,7 @@ Grailbird.data.tweets_2013_03 =
       "screen_name" : "elea",
       "protected" : false,
       "id_str" : "9457",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/555235256328916993\/CPi5yZXu_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/594005258747023360\/HAc_9fBM_normal.jpg",
       "id" : 9457,
       "verified" : false
     }
@@ -4168,7 +4168,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Some(@steveklabnik)",
+      "name" : "steve.rs klabnik.rb",
       "screen_name" : "steveklabnik",
       "indices" : [ 3, 16 ],
       "id_str" : "22386062",
@@ -4195,7 +4195,7 @@ Grailbird.data.tweets_2013_03 =
     "id" : 314102444747538432,
     "created_at" : "2013-03-19 19:53:53 +0000",
     "user" : {
-      "name" : "Some(@steveklabnik)",
+      "name" : "steve.rs klabnik.rb",
       "screen_name" : "steveklabnik",
       "protected" : false,
       "id_str" : "22386062",
@@ -4584,67 +4584,6 @@ Grailbird.data.tweets_2013_03 =
   "text" : "Evolving WordPress Development With Vagrant http:\/\/t.co\/wEoHlberdi",
   "id" : 313512536744001536,
   "created_at" : "2013-03-18 04:49:48 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Brent Simmons",
-      "screen_name" : "brentsimmons",
-      "indices" : [ 3, 16 ],
-      "id_str" : "652293",
-      "id" : 652293
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 41, 63 ],
-      "url" : "http:\/\/t.co\/k5QE7aIdFb",
-      "expanded_url" : "http:\/\/inessential.com\/2013\/03\/17\/rss-sync_mailing_list",
-      "display_url" : "inessential.com\/2013\/03\/17\/rss\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "313373699292151808",
-  "text" : "RT @brentsimmons: RSS-Sync mailing list: http:\/\/t.co\/k5QE7aIdFb",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 23, 45 ],
-        "url" : "http:\/\/t.co\/k5QE7aIdFb",
-        "expanded_url" : "http:\/\/inessential.com\/2013\/03\/17\/rss-sync_mailing_list",
-        "display_url" : "inessential.com\/2013\/03\/17\/rss\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "313373377274449921",
-    "text" : "RSS-Sync mailing list: http:\/\/t.co\/k5QE7aIdFb",
-    "id" : 313373377274449921,
-    "created_at" : "2013-03-17 19:36:49 +0000",
-    "user" : {
-      "name" : "Brent Simmons",
-      "screen_name" : "brentsimmons",
-      "protected" : false,
-      "id_str" : "652293",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1608701783\/GoldenGardens_Cropped_normal.png",
-      "id" : 652293,
-      "verified" : false
-    }
-  },
-  "id" : 313373699292151808,
-  "created_at" : "2013-03-17 19:38:06 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -6122,7 +6061,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Some(@steveklabnik)",
+      "name" : "steve.rs klabnik.rb",
       "screen_name" : "steveklabnik",
       "indices" : [ 3, 16 ],
       "id_str" : "22386062",
@@ -6149,7 +6088,7 @@ Grailbird.data.tweets_2013_03 =
     "id" : 311989200369115136,
     "created_at" : "2013-03-13 23:56:36 +0000",
     "user" : {
-      "name" : "Some(@steveklabnik)",
+      "name" : "steve.rs klabnik.rb",
       "screen_name" : "steveklabnik",
       "protected" : false,
       "id_str" : "22386062",

@@ -3385,7 +3385,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "alisothegeek",
       "protected" : false,
       "id_str" : "17487111",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472426274544054272\/QBtnoKHc_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/593547177449795584\/HA4vMwUo_normal.jpg",
       "id" : 17487111,
       "verified" : false
     }

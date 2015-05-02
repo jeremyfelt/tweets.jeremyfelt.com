@@ -1964,7 +1964,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "CodyBrown",
       "protected" : false,
       "id_str" : "10950722",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458700056141385728\/08ZY3X02_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/592575773497765889\/PByrX3Cs_normal.jpg",
       "id" : 10950722,
       "verified" : false
     }
@@ -2480,7 +2480,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Furrier :-)",
+      "name" : "John Furrier",
       "screen_name" : "furrier",
       "indices" : [ 3, 11 ],
       "id_str" : "833071",
@@ -2507,7 +2507,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 22042021356,
     "created_at" : "2010-08-24 23:49:38 +0000",
     "user" : {
-      "name" : "John Furrier :-)",
+      "name" : "John Furrier",
       "screen_name" : "furrier",
       "protected" : false,
       "id_str" : "833071",
@@ -4012,7 +4012,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/586556910930788352\/8eMAF7vv_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/592446995027005440\/Z5yHm96E_normal.jpg",
       "id" : 819797,
       "verified" : false
     }
@@ -4208,7 +4208,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/586556910930788352\/8eMAF7vv_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/592446995027005440\/Z5yHm96E_normal.jpg",
       "id" : 819797,
       "verified" : false
     }

@@ -608,7 +608,7 @@ Grailbird.data.tweets_2014_10 =
   },
   "geo" : {
     "type" : "Point",
-    "coordinates" : [ 37.79073961114487, -122.40379502864249 ]
+    "coordinates" : [ 37.7907396111, -122.4037950286 ]
   },
   "id_str" : "527663406137229312",
   "text" : "This place is lovely (at @SFWraps in San Francisco, CA) https:\/\/t.co\/UpEANXvJpi",
@@ -1431,7 +1431,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "jennschiffer",
       "protected" : false,
       "id_str" : "12524622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/587037474326720512\/E1vmU1UB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/594590299118280704\/W3iUu6jA_normal.jpg",
       "id" : 12524622,
       "verified" : false
     }

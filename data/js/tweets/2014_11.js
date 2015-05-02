@@ -34,7 +34,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "kfury",
       "protected" : false,
       "id_str" : "785",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/562002900235190272\/ID4el4mf_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/593841586573692930\/XY2_NLrT_normal.jpg",
       "id" : 785,
       "verified" : false
     }
@@ -1463,7 +1463,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MacDougal",
+      "name" : "Digg Dougg",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -3273,7 +3273,7 @@ Grailbird.data.tweets_2014_11 =
   "in_reply_to_status_id_str" : "533328977512120320",
   "geo" : {
     "type" : "Point",
-    "coordinates" : [ 46.7342376709, -117.1658172607 ]
+    "coordinates" : [ 46.73423767089842, -117.1658172607421 ]
   },
   "id_str" : "533334203531005952",
   "in_reply_to_user_id" : 79053835,
@@ -3307,7 +3307,7 @@ Grailbird.data.tweets_2014_11 =
   },
   "geo" : {
     "type" : "Point",
-    "coordinates" : [ 46.7342376709, -117.1658172607 ]
+    "coordinates" : [ 46.7342376708984, -117.1658172607421 ]
   },
   "id_str" : "533311663223869442",
   "text" : "Hey, we made a \u201Cspiffy\u201D website! http:\/\/t.co\/lNj06f4iRE",
@@ -3471,7 +3471,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MacDougal",
+      "name" : "Digg Dougg",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",

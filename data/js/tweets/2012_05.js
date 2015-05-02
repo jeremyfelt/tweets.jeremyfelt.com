@@ -4116,12 +4116,6 @@ Grailbird.data.tweets_2012_05 =
       "indices" : [ 9, 17 ],
       "id_str" : "11146602",
       "id" : 11146602
-    }, {
-      "name" : "Steve Ryan",
-      "screen_name" : "sryan_az",
-      "indices" : [ 18, 27 ],
-      "id_str" : "149280226",
-      "id" : 149280226
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4150,12 +4144,6 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steve Ryan",
-      "screen_name" : "sryan_az",
-      "indices" : [ 0, 9 ],
-      "id_str" : "149280226",
-      "id" : 149280226
-    }, {
       "name" : "Zack Tollman",
       "screen_name" : "tollmanz",
       "indices" : [ 10, 19 ],
@@ -4180,7 +4168,7 @@ Grailbird.data.tweets_2012_05 =
   "id" : 203265861669236737,
   "in_reply_to_status_id" : 203264851974430721,
   "created_at" : "2012-05-17 23:28:52 +0000",
-  "in_reply_to_screen_name" : "sryan_az",
+  "in_reply_to_screen_name" : "sryandotus",
   "in_reply_to_user_id_str" : "149280226",
   "user" : {
     "name" : "Jeremy Felt",
@@ -5381,7 +5369,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "21204689",
       "id" : 21204689
     }, {
-      "name" : "MacDougal",
+      "name" : "Digg Dougg",
       "screen_name" : "zamoose",
       "indices" : [ 24, 32 ],
       "id_str" : "819148",

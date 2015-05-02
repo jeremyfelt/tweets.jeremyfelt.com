@@ -150,7 +150,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "335110427",
       "id" : 335110427
     }, {
-      "name" : "morTEN",
+      "name" : "Morten the Northman",
       "screen_name" : "mor10",
       "indices" : [ 44, 50 ],
       "id_str" : "14611891",
@@ -1307,7 +1307,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "11134232",
       "id" : 11134232
     }, {
-      "name" : "morTEN",
+      "name" : "Morten the Northman",
       "screen_name" : "mor10",
       "indices" : [ 117, 123 ],
       "id_str" : "14611891",
@@ -1351,7 +1351,7 @@ Grailbird.data.tweets_2014_06 =
         "id_str" : "11134232",
         "id" : 11134232
       }, {
-        "name" : "morTEN",
+        "name" : "Morten the Northman",
         "screen_name" : "mor10",
         "indices" : [ 96, 102 ],
         "id_str" : "14611891",
@@ -1910,7 +1910,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "24700353",
       "id" : 24700353
     }, {
-      "name" : "MacDougal",
+      "name" : "Digg Dougg",
       "screen_name" : "zamoose",
       "indices" : [ 12, 20 ],
       "id_str" : "819148",
@@ -1994,7 +1994,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MacDougal",
+      "name" : "Digg Dougg",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -2190,7 +2190,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "morTEN",
+      "name" : "Morten the Northman",
       "screen_name" : "mor10",
       "indices" : [ 3, 9 ],
       "id_str" : "14611891",
@@ -2245,11 +2245,11 @@ Grailbird.data.tweets_2014_06 =
     "id" : 481906080516042753,
     "created_at" : "2014-06-25 21:05:37 +0000",
     "user" : {
-      "name" : "morTEN",
+      "name" : "Morten the Northman",
       "screen_name" : "mor10",
       "protected" : false,
       "id_str" : "14611891",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/586231137841741824\/CLkDGgpG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/591485526718320640\/7n7iKsO3_normal.jpg",
       "id" : 14611891,
       "verified" : false
     }
@@ -2637,7 +2637,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "morTEN",
+      "name" : "Morten the Northman",
       "screen_name" : "mor10",
       "indices" : [ 3, 9 ],
       "id_str" : "14611891",
@@ -2734,11 +2734,11 @@ Grailbird.data.tweets_2014_06 =
     "id" : 481187958297333763,
     "created_at" : "2014-06-23 21:32:03 +0000",
     "user" : {
-      "name" : "morTEN",
+      "name" : "Morten the Northman",
       "screen_name" : "mor10",
       "protected" : false,
       "id_str" : "14611891",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/586231137841741824\/CLkDGgpG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/591485526718320640\/7n7iKsO3_normal.jpg",
       "id" : 14611891,
       "verified" : false
     }
@@ -9041,7 +9041,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "tarbyM",
       "protected" : false,
       "id_str" : "45925742",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1301104159\/tarby_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/592680835268157440\/CTJdyiQj_normal.png",
       "id" : 45925742,
       "verified" : false
     }
@@ -9330,7 +9330,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "21204689",
       "id" : 21204689
     }, {
-      "name" : "MacDougal",
+      "name" : "Digg Dougg",
       "screen_name" : "zamoose",
       "indices" : [ 15, 23 ],
       "id_str" : "819148",

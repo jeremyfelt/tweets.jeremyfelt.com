@@ -319,7 +319,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "boonsri",
       "protected" : false,
       "id_str" : "14538938",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/588381795013365760\/MvPj8VLd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/591986481188573185\/4PhWMuq6_normal.jpg",
       "id" : 14538938,
       "verified" : false
     }

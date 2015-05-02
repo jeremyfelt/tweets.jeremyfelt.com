@@ -2170,7 +2170,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "ramiabraham",
       "protected" : false,
       "id_str" : "45810221",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/586576800911855617\/OTKMBz6Y_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/591136561976188928\/ytKmqIrP_normal.jpg",
       "id" : 45810221,
       "verified" : false
     }
@@ -8805,7 +8805,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "22232652",
       "id" : 22232652
     }, {
-      "name" : "morTEN",
+      "name" : "Morten the Northman",
       "screen_name" : "mor10",
       "indices" : [ 10, 16 ],
       "id_str" : "14611891",

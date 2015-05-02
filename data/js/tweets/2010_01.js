@@ -549,7 +549,7 @@ Grailbird.data.tweets_2010_01 =
       "id_str" : "697163",
       "id" : 697163
     }, {
-      "name" : "G",
+      "name" : "Eater of Germs",
       "screen_name" : "GraemeF",
       "indices" : [ 42, 50 ],
       "id_str" : "664333",
@@ -566,7 +566,7 @@ Grailbird.data.tweets_2010_01 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "G",
+        "name" : "Eater of Germs",
         "screen_name" : "GraemeF",
         "indices" : [ 27, 35 ],
         "id_str" : "664333",

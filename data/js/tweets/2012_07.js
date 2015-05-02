@@ -1463,11 +1463,11 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Will Osborne",
-      "screen_name" : "ComcastWill",
+      "name" : "comcastwill",
+      "screen_name" : "comcastwill",
       "indices" : [ 0, 12 ],
-      "id_str" : "198519537",
-      "id" : 198519537
+      "id_str" : "3225941537",
+      "id" : 3225941537
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1481,7 +1481,7 @@ Grailbird.data.tweets_2012_07 =
   "id" : 226340853554221056,
   "in_reply_to_status_id" : 226340436669775872,
   "created_at" : "2012-07-20 15:40:39 +0000",
-  "in_reply_to_screen_name" : "ComcastWill",
+  "in_reply_to_screen_name" : "Tao_of_Will",
   "in_reply_to_user_id_str" : "198519537",
   "user" : {
     "name" : "Jeremy Felt",
@@ -1496,11 +1496,11 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Will Osborne",
-      "screen_name" : "ComcastWill",
+      "name" : "comcastwill",
+      "screen_name" : "comcastwill",
       "indices" : [ 0, 12 ],
-      "id_str" : "198519537",
-      "id" : 198519537
+      "id_str" : "3225941537",
+      "id" : 3225941537
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1514,7 +1514,7 @@ Grailbird.data.tweets_2012_07 =
   "id" : 226340249406668800,
   "in_reply_to_status_id" : 226340004950073344,
   "created_at" : "2012-07-20 15:38:15 +0000",
-  "in_reply_to_screen_name" : "ComcastWill",
+  "in_reply_to_screen_name" : "Tao_of_Will",
   "in_reply_to_user_id_str" : "198519537",
   "user" : {
     "name" : "Jeremy Felt",
@@ -4289,7 +4289,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@sweden \/ Pauline",
+      "name" : "@sweden \/ Patrik",
       "screen_name" : "sweden",
       "indices" : [ 3, 10 ],
       "id_str" : "19663706",
@@ -4316,11 +4316,11 @@ Grailbird.data.tweets_2012_07 =
     "id" : 221571629128499200,
     "created_at" : "2012-07-07 11:49:27 +0000",
     "user" : {
-      "name" : "@sweden \/ Pauline",
+      "name" : "@sweden \/ Patrik",
       "screen_name" : "sweden",
       "protected" : false,
       "id_str" : "19663706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/590055322271649792\/w-svD6Hr_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/592591973451628544\/U74E-kr9_normal.png",
       "id" : 19663706,
       "verified" : false
     }

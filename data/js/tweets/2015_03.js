@@ -180,7 +180,7 @@ Grailbird.data.tweets_2015_03 =
       "screen_name" : "oregonstateuniv",
       "protected" : false,
       "id_str" : "18178876",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3443813867\/509568aab78b9fc337669de40b9fe107_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/591387280872316928\/yqe7BR-I_normal.jpg",
       "id" : 18178876,
       "verified" : true
     }
@@ -1190,7 +1190,7 @@ Grailbird.data.tweets_2015_03 =
   "in_reply_to_status_id_str" : "582409295414857728",
   "geo" : {
     "type" : "Point",
-    "coordinates" : [ 46.74135231896024, -117.1520986800956 ]
+    "coordinates" : [ 46.741352319, -117.1520986801 ]
   },
   "id_str" : "582423648755044355",
   "in_reply_to_user_id" : 21204689,
@@ -1271,7 +1271,7 @@ Grailbird.data.tweets_2015_03 =
   },
   "geo" : {
     "type" : "Point",
-    "coordinates" : [ 47.44530559601295, -122.2998435394574 ]
+    "coordinates" : [ 47.445305596, -122.2998435395 ]
   },
   "id_str" : "582361939545747456",
   "text" : "Stan Lee doesn't have TSA Pre if you were wondering.",
@@ -3939,7 +3939,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Fairless Dougbanks",
+      "name" : "DougOps",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -4712,7 +4712,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MacDougal",
+      "name" : "TeachMe2Douggie",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -4751,7 +4751,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Fairless Dougbanks",
+      "name" : "TeachMe2Douggie",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -6209,7 +6209,7 @@ Grailbird.data.tweets_2015_03 =
       "screen_name" : "maggieserota",
       "protected" : false,
       "id_str" : "88826456",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/586405116036550657\/skODgqM-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/593870797082603521\/WI3XeoFS_normal.jpg",
       "id" : 88826456,
       "verified" : true
     }
@@ -6933,7 +6933,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MacDougal",
+      "name" : "TeachMe2Douggie",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -6966,7 +6966,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MacDougal",
+      "name" : "TeachMe2Douggie",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -8806,7 +8806,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MacDougal",
+      "name" : "Digg Dougg",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
