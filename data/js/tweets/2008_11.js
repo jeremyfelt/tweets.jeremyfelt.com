@@ -28,7 +28,7 @@ Grailbird.data.tweets_2008_11 =
     "screen_name" : "jeremyfelt",
     "protected" : false,
     "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2263955063\/m35is74pnstiik5o6qia_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
     "id" : 1741681,
     "verified" : false
   }
