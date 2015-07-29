@@ -1645,7 +1645,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Doug's not here, man",
+      "name" : "TenH.S. D.",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -3220,7 +3220,7 @@ Grailbird.data.tweets_2014_12 =
       "screen_name" : "pollyplummer",
       "protected" : false,
       "id_str" : "14332095",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/510119378734436353\/W9CvB1gU_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625720294993334273\/mbGSqRB9_normal.jpg",
       "id" : 14332095,
       "verified" : false
     }
@@ -3914,7 +3914,7 @@ Grailbird.data.tweets_2014_12 =
       "screen_name" : "jennschiffer",
       "protected" : false,
       "id_str" : "12524622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/621016154761490433\/xz4JYPCg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625502807186124800\/2Hzq6nAS_normal.jpg",
       "id" : 12524622,
       "verified" : false
     }
@@ -4385,7 +4385,7 @@ Grailbird.data.tweets_2014_12 =
       "id_str" : "234916025",
       "id" : 234916025
     }, {
-      "name" : "kristin",
+      "name" : "Kristin",
       "screen_name" : "KristinJVal",
       "indices" : [ 10, 22 ],
       "id_str" : "13696162",
@@ -6825,7 +6825,7 @@ Grailbird.data.tweets_2014_12 =
       "screen_name" : "danielbachhuber",
       "protected" : false,
       "id_str" : "272166936",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423234303116341248\/TrO4M3zb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625687156221046784\/fivKx8oz_normal.jpg",
       "id" : 272166936,
       "verified" : false
     }
@@ -7338,7 +7338,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "the greatest satan",
+      "name" : "one of ten haters",
       "screen_name" : "onekade",
       "indices" : [ 3, 11 ],
       "id_str" : "15982292",
@@ -7387,7 +7387,7 @@ Grailbird.data.tweets_2014_12 =
     "id" : 540896691072016384,
     "created_at" : "2014-12-05 15:53:15 +0000",
     "user" : {
-      "name" : "the greatest satan",
+      "name" : "one of ten haters",
       "screen_name" : "onekade",
       "protected" : false,
       "id_str" : "15982292",
@@ -7616,11 +7616,11 @@ Grailbird.data.tweets_2014_12 =
       "id_str" : "14570738",
       "id" : 14570738
     }, {
-      "name" : "NPR RAD",
+      "name" : "librarians r RAD",
       "screen_name" : "nprlibrary",
       "indices" : [ 47, 58 ],
-      "id_str" : "18724720",
-      "id" : 18724720
+      "id_str" : "3386534705",
+      "id" : 3386534705
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -7638,11 +7638,11 @@ Grailbird.data.tweets_2014_12 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "NPR RAD",
+        "name" : "librarians r RAD",
         "screen_name" : "nprlibrary",
         "indices" : [ 31, 42 ],
-        "id_str" : "18724720",
-        "id" : 18724720
+        "id_str" : "3386534705",
+        "id" : 3386534705
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -8176,7 +8176,7 @@ Grailbird.data.tweets_2014_12 =
       "screen_name" : "danielbachhuber",
       "protected" : false,
       "id_str" : "272166936",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423234303116341248\/TrO4M3zb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625687156221046784\/fivKx8oz_normal.jpg",
       "id" : 272166936,
       "verified" : false
     }

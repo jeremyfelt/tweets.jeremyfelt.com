@@ -5505,7 +5505,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@sweden \/ Sebastian",
+      "name" : "@sweden \/ Ilse",
       "screen_name" : "sweden",
       "indices" : [ 3, 10 ],
       "id_str" : "19663706",
@@ -5542,11 +5542,11 @@ Grailbird.data.tweets_2015_06 =
     "id" : 611422193063456768,
     "created_at" : "2015-06-18 06:36:25 +0000",
     "user" : {
-      "name" : "@sweden \/ Sebastian",
+      "name" : "@sweden \/ Moa",
       "screen_name" : "sweden",
       "protected" : false,
       "id_str" : "19663706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/620497377988857856\/hB2hM804_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625568583683149824\/NQDztOXd_normal.png",
       "id" : 19663706,
       "verified" : true
     }
@@ -9117,7 +9117,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Int'l Margarita Fund",
+      "name" : "Margarita Noriega ",
       "screen_name" : "margarita",
       "indices" : [ 3, 13 ],
       "id_str" : "58524428",
@@ -9154,11 +9154,11 @@ Grailbird.data.tweets_2015_06 =
     "id" : 607350632245293057,
     "created_at" : "2015-06-07 00:57:29 +0000",
     "user" : {
-      "name" : "#ThisIsACoup\u00E9",
+      "name" : "Margarita Noriega ",
       "screen_name" : "margarita",
       "protected" : false,
       "id_str" : "58524428",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617729154524573696\/iE8JdMiN_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/623996778975772672\/b-agkHGc_normal.jpg",
       "id" : 58524428,
       "verified" : true
     }
@@ -10787,7 +10787,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John,000,000,000",
+      "name" : "John\u00D710^9",
       "screen_name" : "johnbillion",
       "indices" : [ 0, 12 ],
       "id_str" : "79053835",
@@ -11551,7 +11551,7 @@ Grailbird.data.tweets_2015_06 =
       "screen_name" : "danielbachhuber",
       "protected" : false,
       "id_str" : "272166936",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423234303116341248\/TrO4M3zb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625687156221046784\/fivKx8oz_normal.jpg",
       "id" : 272166936,
       "verified" : false
     }

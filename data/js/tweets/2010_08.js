@@ -957,7 +957,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "chrismessina",
       "protected" : false,
       "id_str" : "1186",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618578455505051649\/0ETKYpsv_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/624387887665016832\/xS9_Z8YF_normal.jpg",
       "id" : 1186,
       "verified" : true
     }
@@ -1958,7 +1958,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "CodyBrown",
       "protected" : false,
       "id_str" : "10950722",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/592575773497765889\/PByrX3Cs_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/622903024051032064\/dcnVbgR8_normal.jpg",
       "id" : 10950722,
       "verified" : false
     }
@@ -2011,11 +2011,11 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "NPR News",
+      "name" : "NPR",
       "screen_name" : "nprnews",
       "indices" : [ 54, 62 ],
-      "id_str" : "5392522",
-      "id" : 5392522
+      "id_str" : "3386439610",
+      "id" : 3386439610
     } ],
     "media" : [ ],
     "hashtags" : [ ],

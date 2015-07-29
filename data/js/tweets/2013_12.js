@@ -4119,7 +4119,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Doug's not here, man",
+      "name" : "TenH.S. D.",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -5418,7 +5418,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "danielbachhuber",
       "protected" : false,
       "id_str" : "272166936",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423234303116341248\/TrO4M3zb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625687156221046784\/fivKx8oz_normal.jpg",
       "id" : 272166936,
       "verified" : false
     }
@@ -8048,7 +8048,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "danielbachhuber",
       "protected" : false,
       "id_str" : "272166936",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423234303116341248\/TrO4M3zb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625687156221046784\/fivKx8oz_normal.jpg",
       "id" : 272166936,
       "verified" : false
     }
@@ -8461,7 +8461,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kailey Lampert",
+      "name" : "kailey lampert",
       "screen_name" : "trepmal",
       "indices" : [ 0, 8 ],
       "id_str" : "19574066",

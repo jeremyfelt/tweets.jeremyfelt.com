@@ -227,7 +227,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "danielbachhuber",
       "protected" : false,
       "id_str" : "272166936",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423234303116341248\/TrO4M3zb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625687156221046784\/fivKx8oz_normal.jpg",
       "id" : 272166936,
       "verified" : false
     }
@@ -379,7 +379,7 @@ Grailbird.data.tweets_2014_07 =
       "id_str" : "15436236",
       "id" : 15436236
     }, {
-      "name" : "Kailey Lampert",
+      "name" : "kailey lampert",
       "screen_name" : "trepmal",
       "indices" : [ 69, 77 ],
       "id_str" : "19574066",
@@ -3638,7 +3638,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "danielbachhuber",
       "protected" : false,
       "id_str" : "272166936",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423234303116341248\/TrO4M3zb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625687156221046784\/fivKx8oz_normal.jpg",
       "id" : 272166936,
       "verified" : false
     }
@@ -3889,7 +3889,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Doug's not here, man",
+      "name" : "HeaVVVy D. ",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -3922,7 +3922,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Doug's not here, man",
+      "name" : "TenH.S. D.",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -6837,7 +6837,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Doug's not here, man",
+      "name" : "TenH.S. D.",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -8551,7 +8551,7 @@ Grailbird.data.tweets_2014_07 =
       "id_str" : "16132641",
       "id" : 16132641
     }, {
-      "name" : "John,000,000,000",
+      "name" : "John\u00D710^9",
       "screen_name" : "johnbillion",
       "indices" : [ 58, 70 ],
       "id_str" : "79053835",

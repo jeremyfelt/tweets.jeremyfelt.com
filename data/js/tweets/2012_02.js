@@ -2180,7 +2180,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "14132756",
       "id" : 14132756
     }, {
-      "name" : "Kailey Lampert",
+      "name" : "kailey lampert",
       "screen_name" : "trepmal",
       "indices" : [ 24, 32 ],
       "id_str" : "19574066",

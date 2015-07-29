@@ -306,7 +306,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "danielbachhuber",
       "protected" : false,
       "id_str" : "272166936",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423234303116341248\/TrO4M3zb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625687156221046784\/fivKx8oz_normal.jpg",
       "id" : 272166936,
       "verified" : false
     }
@@ -1978,7 +1978,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@sweden \/ Sebastian",
+      "name" : "@sweden \/ Moa",
       "screen_name" : "sweden",
       "indices" : [ 3, 10 ],
       "id_str" : "19663706",
@@ -2005,11 +2005,11 @@ Grailbird.data.tweets_2012_09 =
     "id" : 247404378800140288,
     "created_at" : "2012-09-16 18:39:35 +0000",
     "user" : {
-      "name" : "@sweden \/ Sebastian",
+      "name" : "@sweden \/ Moa",
       "screen_name" : "sweden",
       "protected" : false,
       "id_str" : "19663706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/620497377988857856\/hB2hM804_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625568583683149824\/NQDztOXd_normal.png",
       "id" : 19663706,
       "verified" : true
     }
@@ -3204,7 +3204,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "kimberlypdx",
       "protected" : false,
       "id_str" : "59308637",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617894658132344832\/AKjhLh9Q_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625095183785435136\/nX5hPpE0_normal.jpg",
       "id" : 59308637,
       "verified" : false
     }
@@ -5104,7 +5104,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "783214",
       "id" : 783214
     }, {
-      "name" : "@sweden \/ Sebastian",
+      "name" : "@sweden \/ Moa",
       "screen_name" : "sweden",
       "indices" : [ 42, 49 ],
       "id_str" : "19663706",

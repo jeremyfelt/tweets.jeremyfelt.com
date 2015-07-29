@@ -718,11 +718,11 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "NPR News",
+      "name" : "NPR",
       "screen_name" : "nprnews",
       "indices" : [ 24, 32 ],
-      "id_str" : "5392522",
-      "id" : 5392522
+      "id_str" : "3386439610",
+      "id" : 3386439610
     } ],
     "media" : [ ],
     "hashtags" : [ ],

@@ -1096,11 +1096,11 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "NPR News",
+      "name" : "NPR",
       "screen_name" : "nprnews",
       "indices" : [ 42, 50 ],
-      "id_str" : "5392522",
-      "id" : 5392522
+      "id_str" : "3386439610",
+      "id" : 3386439610
     }, {
       "name" : "Colonel Tribune",
       "screen_name" : "ColonelTribune",
@@ -1120,7 +1120,7 @@ Grailbird.data.tweets_2011_04 =
   "id" : 57610952761294848,
   "in_reply_to_status_id" : 57596592638795777,
   "created_at" : "2011-04-12 01:08:16 +0000",
-  "in_reply_to_screen_name" : "nprnews",
+  "in_reply_to_screen_name" : "NPR",
   "in_reply_to_user_id_str" : "5392522",
   "user" : {
     "name" : "Jeremy Felt",
@@ -1698,7 +1698,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "dougw",
       "protected" : false,
       "id_str" : "1401881",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617711066982690816\/nlfzhdyj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/624704994915188736\/vAcUYfSF_normal.jpg",
       "id" : 1401881,
       "verified" : false
     }

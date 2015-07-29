@@ -1335,7 +1335,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617847851742138368\/6EBNL2MJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/621869962265669632\/udi1waj4_normal.jpg",
       "id" : 767,
       "verified" : true
     }
@@ -1639,7 +1639,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "buster",
       "protected" : false,
       "id_str" : "2185",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/596779047134199808\/IBpBry99_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625571140455366656\/cIzvnfhe_normal.jpg",
       "id" : 2185,
       "verified" : false
     }
@@ -4289,7 +4289,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@sweden \/ Sebastian",
+      "name" : "@sweden \/ Moa",
       "screen_name" : "sweden",
       "indices" : [ 3, 10 ],
       "id_str" : "19663706",
@@ -4316,11 +4316,11 @@ Grailbird.data.tweets_2012_07 =
     "id" : 221571629128499200,
     "created_at" : "2012-07-07 11:49:27 +0000",
     "user" : {
-      "name" : "@sweden \/ Sebastian",
+      "name" : "@sweden \/ Moa",
       "screen_name" : "sweden",
       "protected" : false,
       "id_str" : "19663706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/620497377988857856\/hB2hM804_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625568583683149824\/NQDztOXd_normal.png",
       "id" : 19663706,
       "verified" : true
     }

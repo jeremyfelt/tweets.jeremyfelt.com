@@ -4798,7 +4798,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "buster",
       "protected" : false,
       "id_str" : "2185",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/596779047134199808\/IBpBry99_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625571140455366656\/cIzvnfhe_normal.jpg",
       "id" : 2185,
       "verified" : false
     }

@@ -307,7 +307,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "danielbachhuber",
       "protected" : false,
       "id_str" : "272166936",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423234303116341248\/TrO4M3zb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625687156221046784\/fivKx8oz_normal.jpg",
       "id" : 272166936,
       "verified" : false
     }
@@ -657,7 +657,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "pollyplummer",
       "protected" : false,
       "id_str" : "14332095",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/510119378734436353\/W9CvB1gU_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625720294993334273\/mbGSqRB9_normal.jpg",
       "id" : 14332095,
       "verified" : false
     }
@@ -2333,7 +2333,7 @@ Grailbird.data.tweets_2014_09 =
       "id_str" : "7016582",
       "id" : 7016582
     }, {
-      "name" : "Doug's not here, man",
+      "name" : "TenH.S. D.",
       "screen_name" : "zamoose",
       "indices" : [ 12, 20 ],
       "id_str" : "819148",
@@ -2361,7 +2361,7 @@ Grailbird.data.tweets_2014_09 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Doug's not here, man",
+        "name" : "TenH.S. D.",
         "screen_name" : "zamoose",
         "indices" : [ 0, 8 ],
         "id_str" : "819148",
@@ -2978,7 +2978,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "danielbachhuber",
       "protected" : false,
       "id_str" : "272166936",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423234303116341248\/TrO4M3zb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625687156221046784\/fivKx8oz_normal.jpg",
       "id" : 272166936,
       "verified" : false
     }
@@ -3029,7 +3029,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "danielbachhuber",
       "protected" : false,
       "id_str" : "272166936",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423234303116341248\/TrO4M3zb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625687156221046784\/fivKx8oz_normal.jpg",
       "id" : 272166936,
       "verified" : false
     }
@@ -3430,7 +3430,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "jennschiffer",
       "protected" : false,
       "id_str" : "12524622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/621016154761490433\/xz4JYPCg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625502807186124800\/2Hzq6nAS_normal.jpg",
       "id" : 12524622,
       "verified" : false
     }
@@ -4060,7 +4060,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Doug's not here, man",
+      "name" : "HeaVVVy D. ",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -4644,7 +4644,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Doug's not here, man",
+      "name" : "TenH.S. D.",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -4749,7 +4749,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Doug's not here, man",
+      "name" : "HeaVVVy D. ",
       "screen_name" : "zamoose",
       "indices" : [ 31, 39 ],
       "id_str" : "819148",
@@ -6222,7 +6222,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Doug's not here, man",
+      "name" : "HeaVVVy D. ",
       "screen_name" : "zamoose",
       "indices" : [ 12, 20 ],
       "id_str" : "819148",
@@ -6462,7 +6462,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "MeredithFrost",
       "protected" : false,
       "id_str" : "26659703",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/619382264858836992\/IaNG1nkM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/621504050543116288\/FE5OjfBw_normal.jpg",
       "id" : 26659703,
       "verified" : true
     }

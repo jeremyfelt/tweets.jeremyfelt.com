@@ -1140,7 +1140,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "sull",
       "protected" : false,
       "id_str" : "1202561",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/606488263491092482\/tzwLA5wx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/624915833479929856\/Uk23mCeE_normal.jpg",
       "id" : 1202561,
       "verified" : false
     }

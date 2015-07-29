@@ -788,11 +788,11 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "NPR News",
+      "name" : "NPR",
       "screen_name" : "nprnews",
       "indices" : [ 37, 45 ],
-      "id_str" : "5392522",
-      "id" : 5392522
+      "id_str" : "3386439610",
+      "id" : 3386439610
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -991,11 +991,11 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "16950711",
       "id" : 16950711
     }, {
-      "name" : "NPR News",
+      "name" : "NPR",
       "screen_name" : "nprnews",
       "indices" : [ 20, 28 ],
-      "id_str" : "5392522",
-      "id" : 5392522
+      "id_str" : "3386439610",
+      "id" : 3386439610
     }, {
       "name" : "The NPR Tech Team",
       "screen_name" : "NPRTechTeam",
@@ -1014,11 +1014,11 @@ Grailbird.data.tweets_2010_07 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "NPR News",
+        "name" : "NPR",
         "screen_name" : "nprnews",
         "indices" : [ 3, 11 ],
-        "id_str" : "5392522",
-        "id" : 5392522
+        "id_str" : "3386439610",
+        "id" : 3386439610
       }, {
         "name" : "The NPR Tech Team",
         "screen_name" : "NPRTechTeam",
@@ -3442,7 +3442,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "NewsHour",
       "protected" : false,
       "id_str" : "14437914",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2611709114\/718naveh0kooaooee8ex_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/623157438213193728\/uHftFQIG_normal.png",
       "id" : 14437914,
       "verified" : true
     }
@@ -3863,7 +3863,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Evercloser Union",
+      "name" : "Sumuch Deadwood",
       "screen_name" : "monkchips",
       "indices" : [ 3, 13 ],
       "id_str" : "61233",
@@ -3890,7 +3890,7 @@ Grailbird.data.tweets_2010_07 =
     "id" : 17872127385,
     "created_at" : "2010-07-06 14:45:44 +0000",
     "user" : {
-      "name" : "Evercloser Union",
+      "name" : "Sumuch Deadwood",
       "screen_name" : "monkchips",
       "protected" : false,
       "id_str" : "61233",

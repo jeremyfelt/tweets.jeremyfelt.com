@@ -800,7 +800,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "name:\/\/mike.rap.in",
+      "name" : "Mike Rapin",
       "screen_name" : "mikerapin",
       "indices" : [ 3, 13 ],
       "id_str" : "1144581",
@@ -857,11 +857,11 @@ Grailbird.data.tweets_2013_06 =
     "id" : 351366377015214083,
     "created_at" : "2013-06-30 15:47:27 +0000",
     "user" : {
-      "name" : "name:\/\/mike.rap.in",
+      "name" : "Mike Rapin",
       "screen_name" : "mikerapin",
       "protected" : false,
       "id_str" : "1144581",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/619387611145179136\/lovIjcSG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/623984397952360449\/QGWbv75E_normal.jpg",
       "id" : 1144581,
       "verified" : false
     }
@@ -1896,7 +1896,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kailey Lampert",
+      "name" : "kailey lampert",
       "screen_name" : "trepmal",
       "indices" : [ 0, 8 ],
       "id_str" : "19574066",
@@ -3417,7 +3417,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kailey Lampert",
+      "name" : "kailey lampert",
       "screen_name" : "trepmal",
       "indices" : [ 0, 8 ],
       "id_str" : "19574066",
@@ -3491,7 +3491,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "danielbachhuber",
       "protected" : false,
       "id_str" : "272166936",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423234303116341248\/TrO4M3zb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625687156221046784\/fivKx8oz_normal.jpg",
       "id" : 272166936,
       "verified" : false
     }
@@ -3563,7 +3563,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Katie Sweeney",
+      "name" : "Who wrote that ad?",
       "screen_name" : "k8iedid",
       "indices" : [ 3, 11 ],
       "id_str" : "15148132",
@@ -3590,7 +3590,7 @@ Grailbird.data.tweets_2013_06 =
     "id" : 349120939239276546,
     "created_at" : "2013-06-24 11:04:52 +0000",
     "user" : {
-      "name" : "Katie Sweeney",
+      "name" : "Who wrote that ad?",
       "screen_name" : "k8iedid",
       "protected" : false,
       "id_str" : "15148132",
@@ -7203,7 +7203,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kailey Lampert",
+      "name" : "kailey lampert",
       "screen_name" : "trepmal",
       "indices" : [ 0, 8 ],
       "id_str" : "19574066",
@@ -8837,7 +8837,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kailey Lampert",
+      "name" : "kailey lampert",
       "screen_name" : "trepmal",
       "indices" : [ 0, 8 ],
       "id_str" : "19574066",
@@ -9548,7 +9548,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "15436236",
       "id" : 15436236
     }, {
-      "name" : "Kailey Lampert",
+      "name" : "kailey lampert",
       "screen_name" : "trepmal",
       "indices" : [ 15, 23 ],
       "id_str" : "19574066",
@@ -9634,7 +9634,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "danielbachhuber",
       "protected" : false,
       "id_str" : "272166936",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423234303116341248\/TrO4M3zb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625687156221046784\/fivKx8oz_normal.jpg",
       "id" : 272166936,
       "verified" : false
     }
@@ -9886,7 +9886,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "danielbachhuber",
       "protected" : false,
       "id_str" : "272166936",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423234303116341248\/TrO4M3zb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625687156221046784\/fivKx8oz_normal.jpg",
       "id" : 272166936,
       "verified" : false
     }
@@ -10252,7 +10252,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kailey Lampert",
+      "name" : "kailey lampert",
       "screen_name" : "trepmal",
       "indices" : [ 27, 35 ],
       "id_str" : "19574066",
@@ -11339,7 +11339,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "411977369",
       "id" : 411977369
     }, {
-      "name" : "Kailey Lampert",
+      "name" : "kailey lampert",
       "screen_name" : "trepmal",
       "indices" : [ 15, 23 ],
       "id_str" : "19574066",
@@ -11372,7 +11372,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kailey Lampert",
+      "name" : "kailey lampert",
       "screen_name" : "trepmal",
       "indices" : [ 0, 8 ],
       "id_str" : "19574066",
@@ -11784,133 +11784,6 @@ Grailbird.data.tweets_2013_06 =
   "text" : "IE wins the first promoted tweet retweeted award.",
   "id" : 342144232536014849,
   "created_at" : "2013-06-05 05:01:56 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Internet Explorer",
-      "screen_name" : "IE",
-      "indices" : [ 3, 6 ],
-      "id_str" : "19315174",
-      "id" : 19315174
-    } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/IE\/status\/339048377041973249\/photo\/1",
-      "indices" : [ 101, 123 ],
-      "url" : "http:\/\/t.co\/upX8ANMQy1",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BLSKs9vCcAEs8Vk.png",
-      "id_str" : "339048377050361857",
-      "id" : 339048377050361857,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BLSKs9vCcAEs8Vk.png",
-      "sizes" : [ {
-        "h" : 375,
-        "resize" : "fit",
-        "w" : 375
-      }, {
-        "h" : 375,
-        "resize" : "fit",
-        "w" : 375
-      }, {
-        "h" : 340,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 375,
-        "resize" : "fit",
-        "w" : 375
-      } ],
-      "display_url" : "pic.twitter.com\/upX8ANMQy1"
-    } ],
-    "hashtags" : [ {
-      "text" : "modernIE",
-      "indices" : [ 21, 30 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 78, 100 ],
-      "url" : "http:\/\/t.co\/we0IHqfzvL",
-      "expanded_url" : "http:\/\/bit.ly\/10nSks5",
-      "display_url" : "bit.ly\/10nSks5"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "342144057839058945",
-  "text" : "RT @IE: Free VM's at #modernIE. Because apparently some developers have Macs? http:\/\/t.co\/we0IHqfzvL http:\/\/t.co\/upX8ANMQy1",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.sprinklr.com\" rel=\"nofollow\"\u003ESprinklr\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/IE\/status\/339048377041973249\/photo\/1",
-        "indices" : [ 93, 115 ],
-        "url" : "http:\/\/t.co\/upX8ANMQy1",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BLSKs9vCcAEs8Vk.png",
-        "id_str" : "339048377050361857",
-        "id" : 339048377050361857,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BLSKs9vCcAEs8Vk.png",
-        "sizes" : [ {
-          "h" : 375,
-          "resize" : "fit",
-          "w" : 375
-        }, {
-          "h" : 375,
-          "resize" : "fit",
-          "w" : 375
-        }, {
-          "h" : 340,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 375,
-          "resize" : "fit",
-          "w" : 375
-        } ],
-        "display_url" : "pic.twitter.com\/upX8ANMQy1"
-      } ],
-      "hashtags" : [ {
-        "text" : "modernIE",
-        "indices" : [ 13, 22 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 70, 92 ],
-        "url" : "http:\/\/t.co\/we0IHqfzvL",
-        "expanded_url" : "http:\/\/bit.ly\/10nSks5",
-        "display_url" : "bit.ly\/10nSks5"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "339048377041973249",
-    "text" : "Free VM's at #modernIE. Because apparently some developers have Macs? http:\/\/t.co\/we0IHqfzvL http:\/\/t.co\/upX8ANMQy1",
-    "id" : 339048377041973249,
-    "created_at" : "2013-05-27 16:00:07 +0000",
-    "user" : {
-      "name" : "Internet Explorer",
-      "screen_name" : "IE",
-      "protected" : false,
-      "id_str" : "19315174",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000859413957\/H7zBWwEm_normal.png",
-      "id" : 19315174,
-      "verified" : true
-    }
-  },
-  "id" : 342144057839058945,
-  "created_at" : "2013-06-05 05:01:14 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -12975,7 +12848,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "390320946",
       "id" : 390320946
     }, {
-      "name" : "WeThePeople",
+      "name" : "We the People",
       "screen_name" : "wethepeople",
       "indices" : [ 63, 75 ],
       "id_str" : "369507958",
@@ -13025,7 +12898,7 @@ Grailbird.data.tweets_2013_06 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "WeThePeople",
+        "name" : "We the People",
         "screen_name" : "wethepeople",
         "indices" : [ 52, 64 ],
         "id_str" : "369507958",

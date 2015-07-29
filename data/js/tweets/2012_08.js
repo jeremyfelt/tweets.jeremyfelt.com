@@ -3,7 +3,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kailey Lampert",
+      "name" : "kailey lampert",
       "screen_name" : "trepmal",
       "indices" : [ 0, 8 ],
       "id_str" : "19574066",
@@ -814,7 +814,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Katie Sweeney",
+      "name" : "Who wrote that ad?",
       "screen_name" : "k8iedid",
       "indices" : [ 0, 8 ],
       "id_str" : "15148132",
@@ -3807,7 +3807,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "danielbachhuber",
       "protected" : false,
       "id_str" : "272166936",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423234303116341248\/TrO4M3zb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625687156221046784\/fivKx8oz_normal.jpg",
       "id" : 272166936,
       "verified" : false
     }
@@ -5041,7 +5041,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kailey Lampert",
+      "name" : "kailey lampert",
       "screen_name" : "trepmal",
       "indices" : [ 0, 8 ],
       "id_str" : "19574066",
@@ -5315,7 +5315,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "danielbachhuber",
       "protected" : false,
       "id_str" : "272166936",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423234303116341248\/TrO4M3zb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625687156221046784\/fivKx8oz_normal.jpg",
       "id" : 272166936,
       "verified" : false
     }
@@ -5368,7 +5368,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kailey Lampert",
+      "name" : "kailey lampert",
       "screen_name" : "trepmal",
       "indices" : [ 0, 8 ],
       "id_str" : "19574066",
@@ -6445,7 +6445,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "danielbachhuber",
       "protected" : false,
       "id_str" : "272166936",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423234303116341248\/TrO4M3zb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625687156221046784\/fivKx8oz_normal.jpg",
       "id" : 272166936,
       "verified" : false
     }
@@ -6682,7 +6682,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kailey Lampert",
+      "name" : "kailey lampert",
       "screen_name" : "trepmal",
       "indices" : [ 3, 11 ],
       "id_str" : "19574066",
@@ -6727,7 +6727,7 @@ Grailbird.data.tweets_2012_08 =
     "id" : 236867012750622720,
     "created_at" : "2012-08-18 16:47:51 +0000",
     "user" : {
-      "name" : "Kailey Lampert",
+      "name" : "kailey lampert",
       "screen_name" : "trepmal",
       "protected" : false,
       "id_str" : "19574066",
@@ -7513,7 +7513,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "sull",
       "protected" : false,
       "id_str" : "1202561",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/606488263491092482\/tzwLA5wx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/624915833479929856\/Uk23mCeE_normal.jpg",
       "id" : 1202561,
       "verified" : false
     }
@@ -9012,7 +9012,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "danielbachhuber",
       "protected" : false,
       "id_str" : "272166936",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423234303116341248\/TrO4M3zb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625687156221046784\/fivKx8oz_normal.jpg",
       "id" : 272166936,
       "verified" : false
     }
@@ -11039,7 +11039,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617847851742138368\/6EBNL2MJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/621869962265669632\/udi1waj4_normal.jpg",
       "id" : 767,
       "verified" : true
     }
@@ -11764,7 +11764,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "danielbachhuber",
       "protected" : false,
       "id_str" : "272166936",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423234303116341248\/TrO4M3zb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625687156221046784\/fivKx8oz_normal.jpg",
       "id" : 272166936,
       "verified" : false
     }

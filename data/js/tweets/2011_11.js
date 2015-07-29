@@ -649,7 +649,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "sick :(",
+      "name" : "Rust + Node = \u2764",
       "screen_name" : "steveklabnik",
       "indices" : [ 3, 16 ],
       "id_str" : "22386062",
@@ -698,7 +698,7 @@ Grailbird.data.tweets_2011_11 =
     "id" : 138698219755536385,
     "created_at" : "2011-11-21 19:20:07 +0000",
     "user" : {
-      "name" : "sick :(",
+      "name" : "Rust + Node = \u2764",
       "screen_name" : "steveklabnik",
       "protected" : false,
       "id_str" : "22386062",
@@ -900,7 +900,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "mcsweeneys",
       "protected" : false,
       "id_str" : "30109507",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/619225974962565120\/QH-1NfGT_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/624728725356044292\/De-c9wAC_normal.png",
       "id" : 30109507,
       "verified" : true
     }
@@ -1292,7 +1292,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "sull",
       "protected" : false,
       "id_str" : "1202561",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/606488263491092482\/tzwLA5wx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/624915833479929856\/Uk23mCeE_normal.jpg",
       "id" : 1202561,
       "verified" : false
     }
@@ -2398,7 +2398,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "sull",
       "protected" : false,
       "id_str" : "1202561",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/606488263491092482\/tzwLA5wx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/624915833479929856\/Uk23mCeE_normal.jpg",
       "id" : 1202561,
       "verified" : false
     }

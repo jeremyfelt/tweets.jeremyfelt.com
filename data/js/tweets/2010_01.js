@@ -855,11 +855,11 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "NPR News",
+      "name" : "NPR",
       "screen_name" : "nprnews",
       "indices" : [ 3, 11 ],
-      "id_str" : "5392522",
-      "id" : 5392522
+      "id_str" : "3386439610",
+      "id" : 3386439610
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -882,11 +882,11 @@ Grailbird.data.tweets_2010_01 =
     "id" : 8138504794,
     "created_at" : "2010-01-24 05:05:08 +0000",
     "user" : {
-      "name" : "NPR News",
-      "screen_name" : "nprnews",
+      "name" : "NPR",
+      "screen_name" : "NPR",
       "protected" : false,
       "id_str" : "5392522",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1796148436\/nprnews_icon_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/623858585295044608\/WvWe4dKg_normal.png",
       "id" : 5392522,
       "verified" : true
     }
@@ -2523,11 +2523,11 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "NPR News",
+      "name" : "NPR",
       "screen_name" : "nprnews",
       "indices" : [ 4, 12 ],
-      "id_str" : "5392522",
-      "id" : 5392522
+      "id_str" : "3386439610",
+      "id" : 3386439610
     } ],
     "media" : [ ],
     "hashtags" : [ ],

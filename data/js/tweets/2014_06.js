@@ -1295,7 +1295,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "17046363",
       "id" : 17046363
     }, {
-      "name" : "Kailey Lampert",
+      "name" : "kailey lampert",
       "screen_name" : "trepmal",
       "indices" : [ 100, 108 ],
       "id_str" : "19574066",
@@ -1339,7 +1339,7 @@ Grailbird.data.tweets_2014_06 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Kailey Lampert",
+        "name" : "kailey lampert",
         "screen_name" : "trepmal",
         "indices" : [ 79, 87 ],
         "id_str" : "19574066",
@@ -1412,7 +1412,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "14886552",
       "id" : 14886552
     }, {
-      "name" : "Kailey Lampert",
+      "name" : "kailey lampert",
       "screen_name" : "trepmal",
       "indices" : [ 39, 47 ],
       "id_str" : "19574066",
@@ -1437,7 +1437,7 @@ Grailbird.data.tweets_2014_06 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Kailey Lampert",
+        "name" : "kailey lampert",
         "screen_name" : "trepmal",
         "indices" : [ 22, 30 ],
         "id_str" : "19574066",
@@ -1509,7 +1509,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "18512632",
       "id" : 18512632
     }, {
-      "name" : "Kailey Lampert",
+      "name" : "my ill parakeet",
       "screen_name" : "trepmal",
       "indices" : [ 112, 120 ],
       "id_str" : "19574066",
@@ -1559,7 +1559,7 @@ Grailbird.data.tweets_2014_06 =
         "id_str" : "18512632",
         "id" : 18512632
       }, {
-        "name" : "Kailey Lampert",
+        "name" : "my ill parakeet",
         "screen_name" : "trepmal",
         "indices" : [ 92, 100 ],
         "id_str" : "19574066",
@@ -1910,7 +1910,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "24700353",
       "id" : 24700353
     }, {
-      "name" : "Doug's not here, man",
+      "name" : "TenH.S. D.",
       "screen_name" : "zamoose",
       "indices" : [ 12, 20 ],
       "id_str" : "819148",
@@ -1994,7 +1994,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Doug's not here, man",
+      "name" : "TenH.S. D.",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -2139,7 +2139,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kailey Lampert",
+      "name" : "my ill parakeet",
       "screen_name" : "trepmal",
       "indices" : [ 3, 11 ],
       "id_str" : "19574066",
@@ -2166,7 +2166,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 481903695932583936,
     "created_at" : "2014-06-25 20:56:09 +0000",
     "user" : {
-      "name" : "Kailey Lampert",
+      "name" : "kailey lampert",
       "screen_name" : "trepmal",
       "protected" : false,
       "id_str" : "19574066",
@@ -2649,7 +2649,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "17046363",
       "id" : 17046363
     }, {
-      "name" : "Kailey Lampert",
+      "name" : "kailey lampert",
       "screen_name" : "trepmal",
       "indices" : [ 60, 68 ],
       "id_str" : "19574066",
@@ -2695,7 +2695,7 @@ Grailbird.data.tweets_2014_06 =
         "id_str" : "17046363",
         "id" : 17046363
       }, {
-        "name" : "Kailey Lampert",
+        "name" : "kailey lampert",
         "screen_name" : "trepmal",
         "indices" : [ 49, 57 ],
         "id_str" : "19574066",
@@ -3517,7 +3517,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "danielbachhuber",
       "protected" : false,
       "id_str" : "272166936",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/423234303116341248\/TrO4M3zb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625687156221046784\/fivKx8oz_normal.jpg",
       "id" : 272166936,
       "verified" : false
     }
@@ -4485,7 +4485,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "4371541",
       "id" : 4371541
     }, {
-      "name" : "John,000,000,000",
+      "name" : "John\u00D710^9",
       "screen_name" : "johnbillion",
       "indices" : [ 15, 27 ],
       "id_str" : "79053835",
@@ -7699,7 +7699,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "15190832",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/565613426920009728\/dY3eHpkv_normal.png",
       "id" : 15190832,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 476589770957922304,
@@ -9312,7 +9312,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "21204689",
       "id" : 21204689
     }, {
-      "name" : "Doug's not here, man",
+      "name" : "TenH.S. D.",
       "screen_name" : "zamoose",
       "indices" : [ 15, 23 ],
       "id_str" : "819148",

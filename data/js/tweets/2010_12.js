@@ -1374,7 +1374,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "NatGeo",
       "protected" : false,
       "id_str" : "17471979",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618554466703417345\/kFJ8xVzn_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625670647713169408\/GfT0EYV__normal.jpg",
       "id" : 17471979,
       "verified" : true
     }

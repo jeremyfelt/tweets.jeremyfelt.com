@@ -2435,7 +2435,7 @@ Grailbird.data.tweets_2011_09 =
       "id_str" : "15190832",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/565613426920009728\/dY3eHpkv_normal.png",
       "id" : 15190832,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 117018660928880640,
@@ -3594,7 +3594,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kailey Lampert",
+      "name" : "kailey lampert",
       "screen_name" : "trepmal",
       "indices" : [ 3, 11 ],
       "id_str" : "19574066",
@@ -3649,7 +3649,7 @@ Grailbird.data.tweets_2011_09 =
     "id" : 115587937864925184,
     "created_at" : "2011-09-19 00:48:06 +0000",
     "user" : {
-      "name" : "Kailey Lampert",
+      "name" : "kailey lampert",
       "screen_name" : "trepmal",
       "protected" : false,
       "id_str" : "19574066",
@@ -4862,7 +4862,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stefan Wehrmeyer",
+      "name" : "Mapnificent",
       "screen_name" : "mapnificent",
       "indices" : [ 0, 12 ],
       "id_str" : "117861743",

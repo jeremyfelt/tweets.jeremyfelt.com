@@ -1924,7 +1924,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Doug's not here, man",
+      "name" : "TenH.S. D.",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -3371,7 +3371,7 @@ Grailbird.data.tweets_2013_11 =
       "id_str" : "24203273",
       "id" : 24203273
     }, {
-      "name" : "Doug's not here, man",
+      "name" : "TenH.S. D.",
       "screen_name" : "zamoose",
       "indices" : [ 94, 102 ],
       "id_str" : "819148",
@@ -3410,7 +3410,7 @@ Grailbird.data.tweets_2013_11 =
       "id_str" : "24203273",
       "id" : 24203273
     }, {
-      "name" : "Doug's not here, man",
+      "name" : "TenH.S. D.",
       "screen_name" : "zamoose",
       "indices" : [ 13, 21 ],
       "id_str" : "819148",
@@ -3589,7 +3589,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Doug's not here, man",
+      "name" : "TenH.S. D.",
       "screen_name" : "zamoose",
       "indices" : [ 8, 16 ],
       "id_str" : "819148",

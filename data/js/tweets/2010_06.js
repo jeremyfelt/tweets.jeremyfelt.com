@@ -608,7 +608,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "lancearmstrong",
       "protected" : false,
       "id_str" : "16727535",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/501370245664108544\/EsWXMI1j_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/621925158857519104\/LFySJWMa_normal.jpg",
       "id" : 16727535,
       "verified" : true
     }

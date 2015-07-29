@@ -1508,7 +1508,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "monaeltahawy",
       "protected" : false,
       "id_str" : "29979814",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/612737370333577217\/EkWuP9ew_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/622732215676485632\/4DD5_xGt_normal.jpg",
       "id" : 29979814,
       "verified" : true
     }
@@ -2251,7 +2251,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "meg_kerr",
       "protected" : false,
       "id_str" : "36765600",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615949572741828608\/QTl9bju2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/622049379436736512\/8rnA820w_normal.jpg",
       "id" : 36765600,
       "verified" : false
     }
@@ -2592,11 +2592,11 @@ Grailbird.data.tweets_2011_02 =
       "id_str" : "778057",
       "id" : 778057
     }, {
-      "name" : "NPR News",
+      "name" : "NPR",
       "screen_name" : "nprnews",
       "indices" : [ 82, 90 ],
-      "id_str" : "5392522",
-      "id" : 5392522
+      "id_str" : "3386439610",
+      "id" : 3386439610
     } ],
     "media" : [ ],
     "hashtags" : [ {

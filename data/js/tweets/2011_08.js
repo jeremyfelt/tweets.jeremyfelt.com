@@ -1852,7 +1852,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "johnpopham",
       "protected" : false,
       "id_str" : "11841062",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/598764043441147904\/FrWgnCPe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/624257559873126400\/2dtnE6VB_normal.jpg",
       "id" : 11841062,
       "verified" : false
     }
@@ -2337,8 +2337,8 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "RunKeeper",
-      "screen_name" : "RunKeeper",
+      "name" : "Runkeeper",
+      "screen_name" : "Runkeeper",
       "indices" : [ 8, 18 ],
       "id_str" : "15445811",
       "id" : 15445811

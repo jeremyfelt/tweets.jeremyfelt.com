@@ -1428,7 +1428,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "JonnieMarbLes",
       "protected" : false,
       "id_str" : "17201202",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/461893342981140484\/tvAT6euv_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/623766503079309312\/Wy8djkBc_normal.png",
       "id" : 17201202,
       "verified" : false
     }
@@ -3799,7 +3799,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "Nero",
       "protected" : false,
       "id_str" : "6160792",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618114409886556160\/Yszo74k2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625714606858743809\/san33gTY_normal.png",
       "id" : 6160792,
       "verified" : true
     }
@@ -4649,7 +4649,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Katie Sweeney",
+      "name" : "Who wrote that ad?",
       "screen_name" : "k8iedid",
       "indices" : [ 3, 11 ],
       "id_str" : "15148132",
@@ -4688,7 +4688,7 @@ Grailbird.data.tweets_2011_07 =
     "id" : 88795099185676289,
     "created_at" : "2011-07-07 02:22:56 +0000",
     "user" : {
-      "name" : "Katie Sweeney",
+      "name" : "Who wrote that ad?",
       "screen_name" : "k8iedid",
       "protected" : false,
       "id_str" : "15148132",

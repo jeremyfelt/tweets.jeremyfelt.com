@@ -4036,8 +4036,8 @@ Grailbird.data.tweets_2010_09 =
       "name" : "NPR",
       "screen_name" : "NPR",
       "indices" : [ 13, 17 ],
-      "id_str" : "14062180",
-      "id" : 14062180
+      "id_str" : "5392522",
+      "id" : 5392522
     } ],
     "media" : [ ],
     "hashtags" : [ ],
