@@ -724,7 +724,7 @@ Grailbird.data.tweets_2011_03 =
       "screen_name" : "NekoCase",
       "protected" : false,
       "id_str" : "126406217",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539600484227510272\/UUuJ9EPh_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/631656976473300992\/9RB54NFm_normal.jpg",
       "id" : 126406217,
       "verified" : true
     }
@@ -1545,7 +1545,7 @@ Grailbird.data.tweets_2011_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer \u262E",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",
@@ -3877,7 +3877,7 @@ Grailbird.data.tweets_2011_03 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618056554349092864\/4FPfVpbo_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/636546764401545217\/oQ1PcZzL_normal.png",
       "id" : 819797,
       "verified" : false
     }
@@ -4080,7 +4080,7 @@ Grailbird.data.tweets_2011_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer \u262E",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",

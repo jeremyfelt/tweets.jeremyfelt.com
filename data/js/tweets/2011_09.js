@@ -2633,7 +2633,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer \u262E",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 56, 66 ],
       "id_str" : "3839",
@@ -4395,7 +4395,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer \u262E",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 71, 81 ],
       "id_str" : "3839",
@@ -5774,7 +5774,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618056554349092864\/4FPfVpbo_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/636546764401545217\/oQ1PcZzL_normal.png",
       "id" : 819797,
       "verified" : false
     }
@@ -6308,57 +6308,6 @@ Grailbird.data.tweets_2011_09 =
   "text" : "Romeny's Border Plan:  1) Build really big fence. 2) Ban ladders! 3) Ban magnets!",
   "id" : 111607474993377280,
   "created_at" : "2011-09-08 01:11:10 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Tim Carmody",
-      "screen_name" : "tcarmody",
-      "indices" : [ 3, 12 ],
-      "id_str" : "14439168",
-      "id" : 14439168
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "111606304484761601",
-  "text" : "RT @tcarmody: \"Governor Perry, which fatal & debilitating diseases don't you hate enough to actively support their prevention?\"",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "111606061705854977",
-    "text" : "\"Governor Perry, which fatal & debilitating diseases don't you hate enough to actively support their prevention?\"",
-    "id" : 111606061705854977,
-    "created_at" : "2011-09-08 01:05:33 +0000",
-    "user" : {
-      "name" : "Tim Carmody",
-      "screen_name" : "tcarmody",
-      "protected" : false,
-      "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/602713583823298560\/-zUyNRJT_normal.jpg",
-      "id" : 14439168,
-      "verified" : true
-    }
-  },
-  "id" : 111606304484761601,
-  "created_at" : "2011-09-08 01:06:31 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -7814,69 +7763,6 @@ Grailbird.data.tweets_2011_09 =
   "created_at" : "2011-09-01 20:05:19 +0000",
   "in_reply_to_screen_name" : "scan_boy",
   "in_reply_to_user_id_str" : "260360173",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Tim Carmody",
-      "screen_name" : "tcarmody",
-      "indices" : [ 3, 12 ],
-      "id_str" : "14439168",
-      "id" : 14439168
-    }, {
-      "name" : "Alex Blagg",
-      "screen_name" : "alexblagg",
-      "indices" : [ 42, 52 ],
-      "id_str" : "14148063",
-      "id" : 14148063
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "109340473746927616",
-  "text" : "RT @tcarmody: 0 criminally overlooked! RT @alexblagg: The Huffington Post just did a fascinating piece on the 9 Greatest Single-Digit Nu ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sites.google.com\/site\/yorufukurou\/\" rel=\"nofollow\"\u003EYoruFukurou\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Alex Blagg",
-        "screen_name" : "alexblagg",
-        "indices" : [ 28, 38 ],
-        "id_str" : "14148063",
-        "id" : 14148063
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "109339954198491136",
-    "text" : "0 criminally overlooked! RT @alexblagg: The Huffington Post just did a fascinating piece on the 9 Greatest Single-Digit Numbers of All Time.",
-    "id" : 109339954198491136,
-    "created_at" : "2011-09-01 19:00:51 +0000",
-    "user" : {
-      "name" : "Tim Carmody",
-      "screen_name" : "tcarmody",
-      "protected" : false,
-      "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/602713583823298560\/-zUyNRJT_normal.jpg",
-      "id" : 14439168,
-      "verified" : true
-    }
-  },
-  "id" : 109340473746927616,
-  "created_at" : "2011-09-01 19:02:55 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

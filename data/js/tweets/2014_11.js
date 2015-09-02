@@ -812,7 +812,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "HouseofGrays",
       "protected" : false,
       "id_str" : "356861615",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/588078628614893569\/-vMDT6Wu_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626926627465773056\/i9uyz8J6_normal.jpg",
       "id" : 356861615,
       "verified" : false
     }
@@ -1311,68 +1311,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tim Carmody",
-      "screen_name" : "tcarmody",
-      "indices" : [ 3, 12 ],
-      "id_str" : "14439168",
-      "id" : 14439168
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "https:\/\/t.co\/rdI4lIMLPp",
-      "expanded_url" : "https:\/\/vine.co\/v\/O1MTXXzm3WU",
-      "display_url" : "vine.co\/v\/O1MTXXzm3WU"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "536705123779883009",
-  "text" : "RT @tcarmody: \u201CFor just this play, we\u2019ve replaced the ordinary fully-inflated leather football with a substitute made by NERF\u201D https:\/\/t.co\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sites.google.com\/site\/yorufukurou\/\" rel=\"nofollow\"\u003EYoruFukurou\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 113, 136 ],
-        "url" : "https:\/\/t.co\/rdI4lIMLPp",
-        "expanded_url" : "https:\/\/vine.co\/v\/O1MTXXzm3WU",
-        "display_url" : "vine.co\/v\/O1MTXXzm3WU"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "536703834500784128",
-    "text" : "\u201CFor just this play, we\u2019ve replaced the ordinary fully-inflated leather football with a substitute made by NERF\u201D https:\/\/t.co\/rdI4lIMLPp",
-    "id" : 536703834500784128,
-    "created_at" : "2014-11-24 02:12:20 +0000",
-    "user" : {
-      "name" : "Tim Carmody",
-      "screen_name" : "tcarmody",
-      "protected" : false,
-      "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/602713583823298560\/-zUyNRJT_normal.jpg",
-      "id" : 14439168,
-      "verified" : true
-    }
-  },
-  "id" : 536705123779883009,
-  "created_at" : "2014-11-24 02:17:27 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "TenH.S. D.",
+      "name" : "DougDougGreyDoug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -1718,7 +1657,7 @@ Grailbird.data.tweets_2014_11 =
       "id_str" : "27740025",
       "id" : 27740025
     }, {
-      "name" : "Norcross",
+      "name" : "Norcross \u2615\uFE0F",
       "screen_name" : "norcross",
       "indices" : [ 8, 17 ],
       "id_str" : "14558147",
@@ -2269,7 +2208,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Norcross",
+      "name" : "Norcross \u2615\uFE0F",
       "screen_name" : "norcross",
       "indices" : [ 0, 9 ],
       "id_str" : "14558147",
@@ -3380,7 +3319,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TenH.S. D.",
+      "name" : "DougDougGreyDoug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -5508,7 +5447,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618184206967943169\/aIM0KgkU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/627691711418998784\/8Q8FCD1J_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }

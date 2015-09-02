@@ -1348,7 +1348,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "80617430",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000678098575\/32cfd203a100c4b1db9b9c8ce5bb21cc_normal.jpeg",
       "id" : 80617430,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 93355272738844674,
@@ -1882,7 +1882,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "50cent",
       "protected" : false,
       "id_str" : "18222378",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/601607748078411776\/nZLcUeV5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/632211164362108928\/TUzqK0BV_normal.jpg",
       "id" : 18222378,
       "verified" : true
     }
@@ -4174,57 +4174,6 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Tim Carmody",
-      "screen_name" : "tcarmody",
-      "indices" : [ 3, 12 ],
-      "id_str" : "14439168",
-      "id" : 14439168
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "89904155606515712",
-  "text" : "RT @tcarmody: People of the Internet: when we all finally get together, we should totally get a pizza.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sites.google.com\/site\/yorufukurou\/\" rel=\"nofollow\"\u003EYoruFukurou\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "89902592305537024",
-    "text" : "People of the Internet: when we all finally get together, we should totally get a pizza.",
-    "id" : 89902592305537024,
-    "created_at" : "2011-07-10 03:43:42 +0000",
-    "user" : {
-      "name" : "Tim Carmody",
-      "screen_name" : "tcarmody",
-      "protected" : false,
-      "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/602713583823298560\/-zUyNRJT_normal.jpg",
-      "id" : 14439168,
-      "verified" : true
-    }
-  },
-  "id" : 89904155606515712,
-  "created_at" : "2011-07-10 03:49:55 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4649,7 +4598,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Who wrote that ad?",
+      "name" : "Katie Sweeney",
       "screen_name" : "k8iedid",
       "indices" : [ 3, 11 ],
       "id_str" : "15148132",
@@ -4688,7 +4637,7 @@ Grailbird.data.tweets_2011_07 =
     "id" : 88795099185676289,
     "created_at" : "2011-07-07 02:22:56 +0000",
     "user" : {
-      "name" : "Who wrote that ad?",
+      "name" : "Katie Sweeney",
       "screen_name" : "k8iedid",
       "protected" : false,
       "id_str" : "15148132",

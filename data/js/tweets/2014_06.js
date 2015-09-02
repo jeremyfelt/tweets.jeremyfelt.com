@@ -1145,7 +1145,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "ShenoaLawrence",
       "protected" : false,
       "id_str" : "37127416",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/611748352481296385\/fZQDuGWq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/633169399130681344\/6DXwmKc6_normal.jpg",
       "id" : 37127416,
       "verified" : false
     }
@@ -1509,7 +1509,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "18512632",
       "id" : 18512632
     }, {
-      "name" : "my ill parakeet",
+      "name" : "kailey lampert",
       "screen_name" : "trepmal",
       "indices" : [ 112, 120 ],
       "id_str" : "19574066",
@@ -1559,7 +1559,7 @@ Grailbird.data.tweets_2014_06 =
         "id_str" : "18512632",
         "id" : 18512632
       }, {
-        "name" : "my ill parakeet",
+        "name" : "kailey lampert",
         "screen_name" : "trepmal",
         "indices" : [ 92, 100 ],
         "id_str" : "19574066",
@@ -1910,7 +1910,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "24700353",
       "id" : 24700353
     }, {
-      "name" : "TenH.S. D.",
+      "name" : "DougDougGreyDoug",
       "screen_name" : "zamoose",
       "indices" : [ 12, 20 ],
       "id_str" : "819148",
@@ -1994,7 +1994,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TenH.S. D.",
+      "name" : "DougDougGreyDoug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -2139,7 +2139,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "my ill parakeet",
+      "name" : "kailey lampert",
       "screen_name" : "trepmal",
       "indices" : [ 3, 11 ],
       "id_str" : "19574066",
@@ -2430,7 +2430,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "tannermoushey",
       "protected" : false,
       "id_str" : "411977369",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/604266855964901376\/0ID17hB2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/628261426579148800\/LRs1bE-3_normal.jpg",
       "id" : 411977369,
       "verified" : false
     }
@@ -5311,7 +5311,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "Krogsgard",
       "protected" : false,
       "id_str" : "29752531",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/581884826027851776\/51O7eEWl_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/633343792674906112\/VayuoUbS_normal.jpg",
       "id" : 29752531,
       "verified" : false
     }
@@ -6142,7 +6142,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Norcross",
+      "name" : "Norcross \u2615\uFE0F",
       "screen_name" : "norcross",
       "indices" : [ 0, 9 ],
       "id_str" : "14558147",
@@ -6722,7 +6722,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "kiersi",
       "protected" : false,
       "id_str" : "1335391",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/598320165915217920\/dKa1V3P2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/634453184132415488\/Qruq9ak1_normal.jpg",
       "id" : 1335391,
       "verified" : false
     }
@@ -9312,7 +9312,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "21204689",
       "id" : 21204689
     }, {
-      "name" : "TenH.S. D.",
+      "name" : "DougDougGreyDoug",
       "screen_name" : "zamoose",
       "indices" : [ 15, 23 ],
       "id_str" : "819148",
@@ -9701,79 +9701,6 @@ Grailbird.data.tweets_2014_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Tim Carmody",
-      "screen_name" : "tcarmody",
-      "indices" : [ 3, 12 ],
-      "id_str" : "14439168",
-      "id" : 14439168
-    }, {
-      "name" : "Stephan Pastis",
-      "screen_name" : "stephanpastis",
-      "indices" : [ 84, 98 ],
-      "id_str" : "225232485",
-      "id" : 225232485
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/v1mBVbJcaS",
-      "expanded_url" : "http:\/\/stephanpastis.wordpress.com\/2014\/06\/07\/ever-wished-that-calvin-and-hobbes-creator-bill-watterson-would-return-to-the-comics-page-well-he-just-did\/",
-      "display_url" : "stephanpastis.wordpress.com\/2014\/06\/07\/eve\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "475150184792350720",
-  "text" : "RT @tcarmody: The story of how Bill Watterson quietly came back to collaborate with @stephanpastis on a few very good comic strips: http:\/\/\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sites.google.com\/site\/yorufukurou\/\" rel=\"nofollow\"\u003EYoruFukurou\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Stephan Pastis",
-        "screen_name" : "stephanpastis",
-        "indices" : [ 70, 84 ],
-        "id_str" : "225232485",
-        "id" : 225232485
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 118, 140 ],
-        "url" : "http:\/\/t.co\/v1mBVbJcaS",
-        "expanded_url" : "http:\/\/stephanpastis.wordpress.com\/2014\/06\/07\/ever-wished-that-calvin-and-hobbes-creator-bill-watterson-would-return-to-the-comics-page-well-he-just-did\/",
-        "display_url" : "stephanpastis.wordpress.com\/2014\/06\/07\/eve\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "475142831187574785",
-    "text" : "The story of how Bill Watterson quietly came back to collaborate with @stephanpastis on a few very good comic strips: http:\/\/t.co\/v1mBVbJcaS",
-    "id" : 475142831187574785,
-    "created_at" : "2014-06-07 05:10:53 +0000",
-    "user" : {
-      "name" : "Tim Carmody",
-      "screen_name" : "tcarmody",
-      "protected" : false,
-      "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/602713583823298560\/-zUyNRJT_normal.jpg",
-      "id" : 14439168,
-      "verified" : true
-    }
-  },
-  "id" : 475150184792350720,
-  "created_at" : "2014-06-07 05:40:06 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -9903,7 +9830,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "palafo",
       "protected" : false,
       "id_str" : "2020351",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/585520866336894976\/AGNb456h_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/637733572615409664\/t10rPLH0_normal.jpg",
       "id" : 2020351,
       "verified" : true
     }

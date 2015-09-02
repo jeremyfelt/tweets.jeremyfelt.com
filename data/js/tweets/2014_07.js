@@ -1207,12 +1207,6 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Priscilla Biju",
-      "screen_name" : "PriscillaBiju",
-      "indices" : [ 0, 14 ],
-      "id_str" : "377406322",
-      "id" : 377406322
-    }, {
       "name" : "Samuel Sidler",
       "screen_name" : "samuelsidler",
       "indices" : [ 15, 28 ],
@@ -1234,7 +1228,7 @@ Grailbird.data.tweets_2014_07 =
   "id" : 493529202411319296,
   "in_reply_to_status_id" : 493527372520386561,
   "created_at" : "2014-07-27 22:51:45 +0000",
-  "in_reply_to_screen_name" : "PriscillaBiju",
+  "in_reply_to_screen_name" : "PriscillaThen",
   "in_reply_to_user_id_str" : "377406322",
   "user" : {
     "name" : "Jeremy Felt",
@@ -1356,7 +1350,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Norcross",
+      "name" : "Norcross \u2615\uFE0F",
       "screen_name" : "norcross",
       "indices" : [ 0, 9 ],
       "id_str" : "14558147",
@@ -2167,7 +2161,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618184206967943169\/aIM0KgkU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/627691711418998784\/8Q8FCD1J_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }
@@ -2606,63 +2600,6 @@ Grailbird.data.tweets_2014_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Dave Lozo",
-      "screen_name" : "DaveLozo",
-      "indices" : [ 3, 12 ],
-      "id_str" : "28333369",
-      "id" : 28333369
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "RemoveALetterRuinABand",
-      "indices" : [ 131, 140 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "490693534739988480",
-  "text" : "RT @DaveLozo: *goes to Eddie Vedder's house*\n*steals notice from IRS about overdue taxes from mailbox*\n*Eddie jailed for 15 years*\n#RemoveA\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "RemoveALetterRuinABand",
-        "indices" : [ 117, 140 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "490662171442184192",
-    "text" : "*goes to Eddie Vedder's house*\n*steals notice from IRS about overdue taxes from mailbox*\n*Eddie jailed for 15 years*\n#RemoveALetterRuinABand",
-    "id" : 490662171442184192,
-    "created_at" : "2014-07-20 00:59:12 +0000",
-    "user" : {
-      "name" : "Dave Lozo",
-      "screen_name" : "DaveLozo",
-      "protected" : false,
-      "id_str" : "28333369",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/557363477044424705\/GIuoeNqD_normal.png",
-      "id" : 28333369,
-      "verified" : true
-    }
-  },
-  "id" : 490693534739988480,
-  "created_at" : "2014-07-20 03:03:50 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"https:\/\/untappd.com\" rel=\"nofollow\"\u003EUntappd\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -2849,7 +2786,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "TheRealBuzz",
       "protected" : false,
       "id_str" : "46220856",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1737960971\/Buzz_Twitter_Pic2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/627688107853369344\/R0mRzwb6_normal.jpg",
       "id" : 46220856,
       "verified" : true
     }
@@ -3889,7 +3826,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "HeaVVVy D. ",
+      "name" : "DougDougGreyDoug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -3922,7 +3859,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TenH.S. D.",
+      "name" : "DougDougGreyDoug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -4473,7 +4410,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "Podolski10",
       "protected" : false,
       "id_str" : "19596687",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/525662307331092480\/ZhacrBmD_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/629926343069814784\/K71ajEdU_normal.jpg",
       "id" : 19596687,
       "verified" : true
     }
@@ -6837,7 +6774,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TenH.S. D.",
+      "name" : "DougDougGreyDoug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -8954,7 +8891,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "sportsmatters",
       "protected" : false,
       "id_str" : "22652339",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614449497284870144\/nW0A-peN_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/634389879112122368\/WdGM0VME_normal.jpg",
       "id" : 22652339,
       "verified" : false
     }

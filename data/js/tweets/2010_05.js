@@ -316,7 +316,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer \u262E",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -343,7 +343,7 @@ Grailbird.data.tweets_2010_05 =
     "id" : 14657255044,
     "created_at" : "2010-05-25 00:19:22 +0000",
     "user" : {
-      "name" : "Dave Winer \u262E",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
@@ -759,7 +759,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "KSJILL",
       "protected" : false,
       "id_str" : "12740812",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3517656995\/e25c4fe7a2724498b04fd59565660cdb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/628029115657003008\/o5xYaEJ1_normal.jpg",
       "id" : 12740812,
       "verified" : false
     }
@@ -860,7 +860,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "NPR",
       "protected" : false,
       "id_str" : "5392522",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/623858585295044608\/WvWe4dKg_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/634111760480534528\/Ncd0jpS9_normal.png",
       "id" : 5392522,
       "verified" : true
     }
@@ -929,7 +929,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "palafo",
       "protected" : false,
       "id_str" : "2020351",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/585520866336894976\/AGNb456h_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/637733572615409664\/t10rPLH0_normal.jpg",
       "id" : 2020351,
       "verified" : true
     }
@@ -1299,7 +1299,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "NPR",
       "protected" : false,
       "id_str" : "5392522",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/623858585295044608\/WvWe4dKg_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/634111760480534528\/Ncd0jpS9_normal.png",
       "id" : 5392522,
       "verified" : true
     }
@@ -1887,7 +1887,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "BR3NDA",
       "protected" : false,
       "id_str" : "778337",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/606769739709313025\/LEs3GWUz_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/633741577349804032\/19wcpiE2_normal.jpg",
       "id" : 778337,
       "verified" : false
     }

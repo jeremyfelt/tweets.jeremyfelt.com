@@ -1255,7 +1255,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "ev",
       "protected" : false,
       "id_str" : "20",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538565270621536256\/tKhwikp3_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/637828066664837121\/1SC7FXli_normal.jpg",
       "id" : 20,
       "verified" : true
     }
@@ -6157,7 +6157,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer \u262E",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -6194,7 +6194,7 @@ Grailbird.data.tweets_2013_09 =
     "id" : 378690984194097152,
     "created_at" : "2013-09-14 01:25:41 +0000",
     "user" : {
-      "name" : "Dave Winer \u262E",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
@@ -7705,7 +7705,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "dannysullivan",
       "protected" : false,
       "id_str" : "858051",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553314476452089856\/TH6pkcce_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/636399545820123136\/UkEU0K2x_normal.jpg",
       "id" : 858051,
       "verified" : true
     }

@@ -1174,7 +1174,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "weskoop",
       "protected" : false,
       "id_str" : "12424882",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614540430089162752\/jMZrzEwT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/629443768932958208\/6t-ABlRc_normal.jpg",
       "id" : 12424882,
       "verified" : false
     }
@@ -4119,7 +4119,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TenH.S. D.",
+      "name" : "DougDougGreyDoug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -5522,7 +5522,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618184206967943169\/aIM0KgkU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/627691711418998784\/8Q8FCD1J_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }
@@ -7452,7 +7452,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "NBA New York Knicks",
+      "name" : "NEW YORK KNICKS",
       "screen_name" : "nyknicks",
       "indices" : [ 0, 9 ],
       "id_str" : "20265254",
@@ -7488,7 +7488,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "NBA New York Knicks",
+      "name" : "NEW YORK KNICKS",
       "screen_name" : "nyknicks",
       "indices" : [ 3, 12 ],
       "id_str" : "20265254",
@@ -7581,11 +7581,11 @@ Grailbird.data.tweets_2013_12 =
     "id" : 410963347941490689,
     "created_at" : "2013-12-12 02:44:32 +0000",
     "user" : {
-      "name" : "NBA New York Knicks",
+      "name" : "NEW YORK KNICKS",
       "screen_name" : "nyknicks",
       "protected" : false,
       "id_str" : "20265254",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/525860532385882112\/VOn5ZUD1_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/631608079935631360\/nSdah2ou_normal.jpg",
       "id" : 20265254,
       "verified" : true
     }

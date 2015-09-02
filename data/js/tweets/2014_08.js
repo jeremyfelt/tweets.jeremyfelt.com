@@ -773,7 +773,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618184206967943169\/aIM0KgkU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/627691711418998784\/8Q8FCD1J_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }
@@ -3632,7 +3632,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618184206967943169\/aIM0KgkU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/627691711418998784\/8Q8FCD1J_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }
@@ -5959,7 +5959,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "AdamSerwer",
       "protected" : false,
       "id_str" : "16326882",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/609336692567355392\/KAJ0hTz3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/634380425411067906\/1LlvUGKk_normal.jpg",
       "id" : 16326882,
       "verified" : true
     }
@@ -6105,73 +6105,6 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tim Carmody",
-      "screen_name" : "tcarmody",
-      "indices" : [ 3, 12 ],
-      "id_str" : "14439168",
-      "id" : 14439168
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "Ferguson",
-      "indices" : [ 139, 140 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 86, 108 ],
-      "url" : "http:\/\/t.co\/9sWe6A9kav",
-      "expanded_url" : "http:\/\/www.fbi.gov\/stats-services\/publications\/law-enforcement-bulletin\/august-2012\/crowd-management",
-      "display_url" : "fbi.gov\/stats-services\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "499069100690120704",
-  "text" : "RT @tcarmody: The FBI's best practices for crowd control (written by a police chief): http:\/\/t.co\/9sWe6A9kav NONE of this has been followed\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sites.google.com\/site\/yorufukurou\/\" rel=\"nofollow\"\u003EYoruFukurou\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "Ferguson",
-        "indices" : [ 129, 138 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 72, 94 ],
-        "url" : "http:\/\/t.co\/9sWe6A9kav",
-        "expanded_url" : "http:\/\/www.fbi.gov\/stats-services\/publications\/law-enforcement-bulletin\/august-2012\/crowd-management",
-        "display_url" : "fbi.gov\/stats-services\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "499067560814338048",
-    "text" : "The FBI's best practices for crowd control (written by a police chief): http:\/\/t.co\/9sWe6A9kav NONE of this has been followed in #Ferguson.",
-    "id" : 499067560814338048,
-    "created_at" : "2014-08-12 05:39:13 +0000",
-    "user" : {
-      "name" : "Tim Carmody",
-      "screen_name" : "tcarmody",
-      "protected" : false,
-      "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/602713583823298560\/-zUyNRJT_normal.jpg",
-      "id" : 14439168,
-      "verified" : true
-    }
-  },
-  "id" : 499069100690120704,
-  "created_at" : "2014-08-12 05:45:20 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "David Leonard",
       "screen_name" : "drdavidjleonard",
       "indices" : [ 3, 19 ],
@@ -6273,7 +6206,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "drdavidjleonard",
       "protected" : false,
       "id_str" : "352779756",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/623530915944230912\/0iGnj3vb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626525810833272832\/oNbynxyL_normal.jpg",
       "id" : 352779756,
       "verified" : false
     }
@@ -6293,7 +6226,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brianna Wu",
+      "name" : "Brianna Wu ",
       "screen_name" : "Spacekatgal",
       "indices" : [ 3, 15 ],
       "id_str" : "17264476",
@@ -6330,7 +6263,7 @@ Grailbird.data.tweets_2014_08 =
     "id" : 499060913497194499,
     "created_at" : "2014-08-12 05:12:48 +0000",
     "user" : {
-      "name" : "Brianna Wu",
+      "name" : "Brianna Wu ",
       "screen_name" : "Spacekatgal",
       "protected" : false,
       "id_str" : "17264476",

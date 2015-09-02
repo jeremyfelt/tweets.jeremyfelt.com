@@ -1087,7 +1087,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618184206967943169\/aIM0KgkU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/627691711418998784\/8Q8FCD1J_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }
@@ -3640,7 +3640,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Norcross",
+      "name" : "Norcross \u2615\uFE0F",
       "screen_name" : "norcross",
       "indices" : [ 0, 9 ],
       "id_str" : "14558147",
@@ -4713,7 +4713,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "PSUWebConf",
       "protected" : false,
       "id_str" : "67600886",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/517387006385467392\/nVOdsFN3_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/631075668609101824\/xFGSahLM_normal.png",
       "id" : 67600886,
       "verified" : false
     }
@@ -4798,7 +4798,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "buster",
       "protected" : false,
       "id_str" : "2185",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625571140455366656\/cIzvnfhe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626652183400853504\/92WXHKwl_normal.jpg",
       "id" : 2185,
       "verified" : false
     }
@@ -5737,7 +5737,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618184206967943169\/aIM0KgkU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/627691711418998784\/8Q8FCD1J_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }
@@ -7188,7 +7188,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "Krogsgard",
       "protected" : false,
       "id_str" : "29752531",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/581884826027851776\/51O7eEWl_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/633343792674906112\/VayuoUbS_normal.jpg",
       "id" : 29752531,
       "verified" : false
     }

@@ -2243,7 +2243,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Who wrote that ad?",
+      "name" : "Katie Sweeney",
       "screen_name" : "k8iedid",
       "indices" : [ 3, 11 ],
       "id_str" : "15148132",
@@ -2270,7 +2270,7 @@ Grailbird.data.tweets_2013_01 =
     "id" : 294511056653516800,
     "created_at" : "2013-01-24 18:24:42 +0000",
     "user" : {
-      "name" : "Who wrote that ad?",
+      "name" : "Katie Sweeney",
       "screen_name" : "k8iedid",
       "protected" : false,
       "id_str" : "15148132",
@@ -3043,7 +3043,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer \u262E",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -3080,7 +3080,7 @@ Grailbird.data.tweets_2013_01 =
     "id" : 293238932823494656,
     "created_at" : "2013-01-21 06:09:44 +0000",
     "user" : {
-      "name" : "Dave Winer \u262E",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
@@ -3805,7 +3805,7 @@ Grailbird.data.tweets_2013_01 =
       "id_str" : "14132756",
       "id" : 14132756
     }, {
-      "name" : "Norcross",
+      "name" : "Norcross \u2615\uFE0F",
       "screen_name" : "norcross",
       "indices" : [ 25, 34 ],
       "id_str" : "14558147",
@@ -4910,79 +4910,6 @@ Grailbird.data.tweets_2013_01 =
   },
   "id" : 290946761583890432,
   "created_at" : "2013-01-14 22:21:28 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Tim Carmody",
-      "screen_name" : "tcarmody",
-      "indices" : [ 3, 12 ],
-      "id_str" : "14439168",
-      "id" : 14439168
-    }, {
-      "name" : "david carr",
-      "screen_name" : "carr2n",
-      "indices" : [ 84, 91 ],
-      "id_str" : "24773177",
-      "id" : 24773177
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 92, 112 ],
-      "url" : "http:\/\/t.co\/RA4kuQaQ",
-      "expanded_url" : "http:\/\/mediadecoder.blogs.nytimes.com\/2013\/01\/14\/armstrong-and-winfrey-familiar-names-in-a-time-honored-ritual\/",
-      "display_url" : "mediadecoder.blogs.nytimes.com\/2013\/01\/14\/arm\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "290944625793978368",
-  "text" : "RT @tcarmody: \u201CIs [Lance Armstrong] sorry for what he did or sorry he got caught?\u201D -@carr2n http:\/\/t.co\/RA4kuQaQ",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "david carr",
-        "screen_name" : "carr2n",
-        "indices" : [ 70, 77 ],
-        "id_str" : "24773177",
-        "id" : 24773177
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 78, 98 ],
-        "url" : "http:\/\/t.co\/RA4kuQaQ",
-        "expanded_url" : "http:\/\/mediadecoder.blogs.nytimes.com\/2013\/01\/14\/armstrong-and-winfrey-familiar-names-in-a-time-honored-ritual\/",
-        "display_url" : "mediadecoder.blogs.nytimes.com\/2013\/01\/14\/arm\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "290943379573993472",
-    "text" : "\u201CIs [Lance Armstrong] sorry for what he did or sorry he got caught?\u201D -@carr2n http:\/\/t.co\/RA4kuQaQ",
-    "id" : 290943379573993472,
-    "created_at" : "2013-01-14 22:08:01 +0000",
-    "user" : {
-      "name" : "Tim Carmody",
-      "screen_name" : "tcarmody",
-      "protected" : false,
-      "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/602713583823298560\/-zUyNRJT_normal.jpg",
-      "id" : 14439168,
-      "verified" : true
-    }
-  },
-  "id" : 290944625793978368,
-  "created_at" : "2013-01-14 22:12:58 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -7034,7 +6961,7 @@ Grailbird.data.tweets_2013_01 =
       "id_str" : "14834340",
       "id" : 14834340
     }, {
-      "name" : "\/crates\/v8-sys",
+      "name" : "JSON :sob:",
       "screen_name" : "steveklabnik",
       "indices" : [ 123, 136 ],
       "id_str" : "22386062",
@@ -7056,7 +6983,7 @@ Grailbird.data.tweets_2013_01 =
     "source" : "\u003Ca href=\"http:\/\/bitly.com\" rel=\"nofollow\"\u003Ebitly bitlink\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\/crates\/v8-sys",
+        "name" : "JSON :sob:",
         "screen_name" : "steveklabnik",
         "indices" : [ 105, 118 ],
         "id_str" : "22386062",

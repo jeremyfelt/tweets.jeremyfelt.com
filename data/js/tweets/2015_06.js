@@ -506,7 +506,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Norcross",
+      "name" : "Norcross \u2615\uFE0F",
       "screen_name" : "norcross",
       "indices" : [ 3, 12 ],
       "id_str" : "14558147",
@@ -550,7 +550,7 @@ Grailbird.data.tweets_2015_06 =
     "in_reply_to_screen_name" : "jeremyfelt",
     "in_reply_to_user_id_str" : "1741681",
     "user" : {
-      "name" : "Norcross",
+      "name" : "Norcross \u2615\uFE0F",
       "screen_name" : "norcross",
       "protected" : false,
       "id_str" : "14558147",
@@ -642,7 +642,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Norcross",
+      "name" : "Norcross \u2615\uFE0F",
       "screen_name" : "norcross",
       "indices" : [ 0, 9 ],
       "id_str" : "14558147",
@@ -1935,7 +1935,7 @@ Grailbird.data.tweets_2015_06 =
       "screen_name" : "pang",
       "protected" : false,
       "id_str" : "17542767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/479666799764443136\/eO8cfsY-_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626470992819449856\/dBpOepsS_normal.jpg",
       "id" : 17542767,
       "verified" : false
     }
@@ -2807,7 +2807,7 @@ Grailbird.data.tweets_2015_06 =
       "screen_name" : "WhiteHouse",
       "protected" : false,
       "id_str" : "30313925",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615874736317296640\/vy2uAgkm_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/628554883512168449\/ayVDK7Fj_normal.jpg",
       "id" : 30313925,
       "verified" : true
     }
@@ -3779,7 +3779,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "darth!\u2122 ",
+      "name" : "darth\u2122 ",
       "screen_name" : "darth",
       "indices" : [ 3, 9 ],
       "id_str" : "1337271",
@@ -3811,7 +3811,7 @@ Grailbird.data.tweets_2015_06 =
     "in_reply_to_screen_name" : "darth",
     "in_reply_to_user_id_str" : "1337271",
     "user" : {
-      "name" : "darth!\u2122 ",
+      "name" : "darth\u2122 ",
       "screen_name" : "darth",
       "protected" : false,
       "id_str" : "1337271",
@@ -5505,7 +5505,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@sweden \/ Ilse",
+      "name" : "@sweden \/ Henrik",
       "screen_name" : "sweden",
       "indices" : [ 3, 10 ],
       "id_str" : "19663706",
@@ -5542,11 +5542,11 @@ Grailbird.data.tweets_2015_06 =
     "id" : 611422193063456768,
     "created_at" : "2015-06-18 06:36:25 +0000",
     "user" : {
-      "name" : "@sweden \/ Moa",
+      "name" : "@sweden \/ Henrik",
       "screen_name" : "sweden",
       "protected" : false,
       "id_str" : "19663706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625568583683149824\/NQDztOXd_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638253104002043904\/WSlK9KzI_normal.png",
       "id" : 19663706,
       "verified" : true
     }
@@ -6129,7 +6129,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Norcross",
+      "name" : "Norcross \u2615\uFE0F",
       "screen_name" : "norcross",
       "indices" : [ 3, 12 ],
       "id_str" : "14558147",
@@ -6156,7 +6156,7 @@ Grailbird.data.tweets_2015_06 =
     "id" : 610998867350421505,
     "created_at" : "2015-06-17 02:34:16 +0000",
     "user" : {
-      "name" : "Norcross",
+      "name" : "Norcross \u2615\uFE0F",
       "screen_name" : "norcross",
       "protected" : false,
       "id_str" : "14558147",
@@ -7648,7 +7648,7 @@ Grailbird.data.tweets_2015_06 =
       "screen_name" : "WSUCougarSoccer",
       "protected" : false,
       "id_str" : "125768146",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/484028354396307456\/ZT0gFa-Q_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/631613682057805824\/LrWB35aW_normal.png",
       "id" : 125768146,
       "verified" : false
     }
@@ -9117,7 +9117,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Margarita Noriega ",
+      "name" : "Chill Relleno",
       "screen_name" : "margarita",
       "indices" : [ 3, 13 ],
       "id_str" : "58524428",
@@ -9154,11 +9154,11 @@ Grailbird.data.tweets_2015_06 =
     "id" : 607350632245293057,
     "created_at" : "2015-06-07 00:57:29 +0000",
     "user" : {
-      "name" : "Margarita Noriega ",
+      "name" : "Chill Relleno",
       "screen_name" : "margarita",
       "protected" : false,
       "id_str" : "58524428",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/623996778975772672\/b-agkHGc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/637672504803336192\/GIg_GNuX_normal.jpg",
       "id" : 58524428,
       "verified" : true
     }
@@ -10622,7 +10622,7 @@ Grailbird.data.tweets_2015_06 =
       "screen_name" : "xor",
       "protected" : false,
       "id_str" : "24500377",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/616174379643211776\/nmEqpkTj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/633364510208737280\/fau6cxuX_normal.jpg",
       "id" : 24500377,
       "verified" : false
     }

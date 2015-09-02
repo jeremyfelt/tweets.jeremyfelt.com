@@ -627,7 +627,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "davidcaolo",
       "protected" : false,
       "id_str" : "641333",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615300928888008704\/yInhiAgW_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/627859605993996288\/45K-zAci_normal.png",
       "id" : 641333,
       "verified" : false
     }
@@ -731,7 +731,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer \u262E",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -768,7 +768,7 @@ Grailbird.data.tweets_2012_08 =
     "id" : 241379998915780609,
     "created_at" : "2012-08-31 03:40:51 +0000",
     "user" : {
-      "name" : "Dave Winer \u262E",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
@@ -814,7 +814,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Who wrote that ad?",
+      "name" : "Katie Sweeney",
       "screen_name" : "k8iedid",
       "indices" : [ 0, 8 ],
       "id_str" : "15148132",
@@ -1092,7 +1092,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer \u262E",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -1129,7 +1129,7 @@ Grailbird.data.tweets_2012_08 =
     "id" : 240984034610655232,
     "created_at" : "2012-08-30 01:27:25 +0000",
     "user" : {
-      "name" : "Dave Winer \u262E",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
@@ -1746,7 +1746,7 @@ Grailbird.data.tweets_2012_08 =
       "id_str" : "21204689",
       "id" : 21204689
     }, {
-      "name" : "Norcross",
+      "name" : "Norcross \u2615\uFE0F",
       "screen_name" : "norcross",
       "indices" : [ 15, 24 ],
       "id_str" : "14558147",
@@ -1990,7 +1990,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "holyfield",
       "protected" : false,
       "id_str" : "77841951",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000785548548\/b855d62b21618e721bb01429f0484c26_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630036731635593218\/I-l86Lqq_normal.jpg",
       "id" : 77841951,
       "verified" : true
     }
@@ -3111,8 +3111,8 @@ Grailbird.data.tweets_2012_08 =
       "name" : "Branch",
       "screen_name" : "branch",
       "indices" : [ 26, 33 ],
-      "id_str" : "494518813",
-      "id" : 494518813
+      "id_str" : "3430070889",
+      "id" : 3430070889
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -7693,7 +7693,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer \u262E",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",
@@ -7753,7 +7753,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer \u262E",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 22, 32 ],
       "id_str" : "3839",
@@ -7838,7 +7838,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer \u262E",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -7865,7 +7865,7 @@ Grailbird.data.tweets_2012_08 =
     "id" : 236302718216593408,
     "created_at" : "2012-08-17 03:25:32 +0000",
     "user" : {
-      "name" : "Dave Winer \u262E",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
@@ -8805,7 +8805,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David E. Wheeler",
+      "name" : "Imperator Theoriosa",
       "screen_name" : "theory",
       "indices" : [ 3, 10 ],
       "id_str" : "656233",
@@ -8842,7 +8842,7 @@ Grailbird.data.tweets_2012_08 =
     "id" : 235028504712982529,
     "created_at" : "2012-08-13 15:02:16 +0000",
     "user" : {
-      "name" : "David E. Wheeler",
+      "name" : "Imperator Theoriosa",
       "screen_name" : "theory",
       "protected" : false,
       "id_str" : "656233",
@@ -9493,7 +9493,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618184206967943169\/aIM0KgkU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/627691711418998784\/8Q8FCD1J_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }
@@ -11039,7 +11039,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/621869962265669632\/udi1waj4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/634391612710260738\/UqLDAYpF_normal.jpg",
       "id" : 767,
       "verified" : true
     }
@@ -11330,7 +11330,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618184206967943169\/aIM0KgkU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/627691711418998784\/8Q8FCD1J_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }

@@ -698,7 +698,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brett",
+      "name" : "Brett Michael",
       "screen_name" : "thecajunboy",
       "indices" : [ 3, 15 ],
       "id_str" : "17281876",
@@ -725,7 +725,7 @@ Grailbird.data.tweets_2011_06 =
     "id" : 86200214054117377,
     "created_at" : "2011-06-29 22:31:47 +0000",
     "user" : {
-      "name" : "Brett",
+      "name" : "Brett Michael",
       "screen_name" : "thecajunboy",
       "protected" : false,
       "id_str" : "17281876",
@@ -2936,7 +2936,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "bittman",
       "protected" : false,
       "id_str" : "20778387",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/578588269379608576\/bFQMrriz_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/633676198644596736\/eeZlRiEr_normal.jpg",
       "id" : 20778387,
       "verified" : true
     }
@@ -3715,7 +3715,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer \u262E",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -3748,7 +3748,7 @@ Grailbird.data.tweets_2011_06 =
     "id" : 82227586532511744,
     "created_at" : "2011-06-18 23:25:59 +0000",
     "user" : {
-      "name" : "Dave Winer \u262E",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
@@ -3794,7 +3794,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Who wrote that ad?",
+      "name" : "Katie Sweeney",
       "screen_name" : "k8iedid",
       "indices" : [ 0, 8 ],
       "id_str" : "15148132",
@@ -4539,7 +4539,7 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "2128391",
       "id" : 2128391
     }, {
-      "name" : "Dave Winer \u262E",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 15, 25 ],
       "id_str" : "3839",
@@ -4556,7 +4556,7 @@ Grailbird.data.tweets_2011_06 =
     "source" : "\u003Ca href=\"http:\/\/reederapp.com\" rel=\"nofollow\"\u003EReeder\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Dave Winer \u262E",
+        "name" : "Dave Winer",
         "screen_name" : "davewiner",
         "indices" : [ 1, 11 ],
         "id_str" : "3839",
@@ -4596,7 +4596,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer \u262E",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -4629,7 +4629,7 @@ Grailbird.data.tweets_2011_06 =
     "id" : 81393520438550528,
     "created_at" : "2011-06-16 16:11:42 +0000",
     "user" : {
-      "name" : "Dave Winer \u262E",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",

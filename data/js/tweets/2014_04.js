@@ -1054,79 +1054,6 @@ Grailbird.data.tweets_2014_04 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Tim Carmody",
-      "screen_name" : "tcarmody",
-      "indices" : [ 3, 12 ],
-      "id_str" : "14439168",
-      "id" : 14439168
-    }, {
-      "name" : "NYPL Labs",
-      "screen_name" : "nypl_labs",
-      "indices" : [ 39, 49 ],
-      "id_str" : "275031945",
-      "id" : 275031945
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 123, 140 ],
-      "url" : "http:\/\/t.co\/GGpj1gRgbs",
-      "expanded_url" : "http:\/\/projectnaptha.com",
-      "display_url" : "projectnaptha.com"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "458742867205169152",
-  "text" : "RT @tcarmody: You have my attention RT @nypl_labs: Copying and pasting text from any image on the web. It\u2019s now a reality: http:\/\/t.co\/GGpj\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sites.google.com\/site\/yorufukurou\/\" rel=\"nofollow\"\u003EYoruFukurou\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "NYPL Labs",
-        "screen_name" : "nypl_labs",
-        "indices" : [ 25, 35 ],
-        "id_str" : "275031945",
-        "id" : 275031945
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 109, 131 ],
-        "url" : "http:\/\/t.co\/GGpj1gRgbs",
-        "expanded_url" : "http:\/\/projectnaptha.com",
-        "display_url" : "projectnaptha.com"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "458734991095001088",
-    "text" : "You have my attention RT @nypl_labs: Copying and pasting text from any image on the web. It\u2019s now a reality: http:\/\/t.co\/GGpj1gRgbs",
-    "id" : 458734991095001088,
-    "created_at" : "2014-04-22 22:31:59 +0000",
-    "user" : {
-      "name" : "Tim Carmody",
-      "screen_name" : "tcarmody",
-      "protected" : false,
-      "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/602713583823298560\/-zUyNRJT_normal.jpg",
-      "id" : 14439168,
-      "verified" : true
-    }
-  },
-  "id" : 458742867205169152,
-  "created_at" : "2014-04-22 23:03:17 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -2700,7 +2627,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618184206967943169\/aIM0KgkU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/627691711418998784\/8Q8FCD1J_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }
@@ -3276,7 +3203,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TenH.S. D.",
+      "name" : "DougDougGreyDoug",
       "screen_name" : "zamoose",
       "indices" : [ 3, 11 ],
       "id_str" : "819148",
@@ -3335,7 +3262,7 @@ Grailbird.data.tweets_2014_04 =
     "id" : 456044153311592448,
     "created_at" : "2014-04-15 12:19:33 +0000",
     "user" : {
-      "name" : "TenH.S. D.",
+      "name" : "DougDougGreyDoug",
       "screen_name" : "zamoose",
       "protected" : false,
       "id_str" : "819148",
@@ -3562,7 +3489,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt!",
+      "name" : "Matthew Yglesias",
       "screen_name" : "mattyglesias",
       "indices" : [ 3, 16 ],
       "id_str" : "15446531",
@@ -3659,7 +3586,7 @@ Grailbird.data.tweets_2014_04 =
     "id" : 455779943595900928,
     "created_at" : "2014-04-14 18:49:41 +0000",
     "user" : {
-      "name" : "Matt!",
+      "name" : "Matthew Yglesias",
       "screen_name" : "mattyglesias",
       "protected" : false,
       "id_str" : "15446531",
@@ -5543,7 +5470,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "jm",
       "protected" : false,
       "id_str" : "937561",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/620069052837425153\/kKZBVlkN_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/631823465021108224\/jov6s7aC_normal.jpg",
       "id" : 937561,
       "verified" : false
     }
@@ -7009,7 +6936,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TenH.S. D.",
+      "name" : "DougDougGreyDoug",
       "screen_name" : "zamoose",
       "indices" : [ 97, 105 ],
       "id_str" : "819148",
@@ -7271,7 +7198,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "PSUWebConf",
       "protected" : false,
       "id_str" : "67600886",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/517387006385467392\/nVOdsFN3_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/631075668609101824\/xFGSahLM_normal.png",
       "id" : 67600886,
       "verified" : false
     }

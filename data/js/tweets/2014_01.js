@@ -203,7 +203,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ross Rader (\u00AE\u00AE)",
+      "name" : "Ross Rader",
       "screen_name" : "rossrader",
       "indices" : [ 3, 13 ],
       "id_str" : "1366341",
@@ -314,7 +314,7 @@ Grailbird.data.tweets_2014_01 =
     "id" : 429429265948364802,
     "created_at" : "2014-02-01 01:41:30 +0000",
     "user" : {
-      "name" : "Ross Rader (\u00AE\u00AE)",
+      "name" : "Ross Rader",
       "screen_name" : "rossrader",
       "protected" : false,
       "id_str" : "1366341",
@@ -1038,7 +1038,7 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618184206967943169\/aIM0KgkU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/627691711418998784\/8Q8FCD1J_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }
@@ -1085,7 +1085,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TenH.S. D.",
+      "name" : "DougDougGreyDoug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -1960,7 +1960,7 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "PSUWebConf",
       "protected" : false,
       "id_str" : "67600886",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/517387006385467392\/nVOdsFN3_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/631075668609101824\/xFGSahLM_normal.png",
       "id" : 67600886,
       "verified" : false
     }
@@ -9681,7 +9681,7 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "melchoyce",
       "protected" : false,
       "id_str" : "204901030",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/530862980036964352\/NtEo3E3t_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/629746711850786816\/PUDH1Ac3_normal.jpg",
       "id" : 204901030,
       "verified" : false
     }

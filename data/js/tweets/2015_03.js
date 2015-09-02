@@ -48,7 +48,7 @@ Grailbird.data.tweets_2015_03 =
       "id_str" : "22080148",
       "id" : 22080148
     }, {
-      "name" : "Univ. of Arizona ",
+      "name" : "Univ. of Arizona",
       "screen_name" : "UofA",
       "indices" : [ 33, 38 ],
       "id_str" : "14862639",
@@ -113,7 +113,7 @@ Grailbird.data.tweets_2015_03 =
         "id_str" : "22080148",
         "id" : 22080148
       }, {
-        "name" : "Univ. of Arizona ",
+        "name" : "Univ. of Arizona",
         "screen_name" : "UofA",
         "indices" : [ 12, 17 ],
         "id_str" : "14862639",
@@ -206,7 +206,7 @@ Grailbird.data.tweets_2015_03 =
       "id_str" : "22080148",
       "id" : 22080148
     }, {
-      "name" : "Univ. of Arizona ",
+      "name" : "Univ. of Arizona",
       "screen_name" : "UofA",
       "indices" : [ 16, 21 ],
       "id_str" : "14862639",
@@ -271,7 +271,7 @@ Grailbird.data.tweets_2015_03 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Univ. of Arizona ",
+        "name" : "Univ. of Arizona",
         "screen_name" : "UofA",
         "indices" : [ 0, 5 ],
         "id_str" : "14862639",
@@ -364,7 +364,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Univ. of Arizona ",
+      "name" : "Univ. of Arizona",
       "screen_name" : "UofA",
       "indices" : [ 3, 8 ],
       "id_str" : "14862639",
@@ -480,7 +480,7 @@ Grailbird.data.tweets_2015_03 =
     "in_reply_to_screen_name" : "Univ_Of_Oregon",
     "in_reply_to_user_id_str" : "40940457",
     "user" : {
-      "name" : "Univ. of Arizona ",
+      "name" : "Univ. of Arizona",
       "screen_name" : "UofA",
       "protected" : false,
       "id_str" : "14862639",
@@ -1925,7 +1925,7 @@ Grailbird.data.tweets_2015_03 =
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/621869962265669632\/udi1waj4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/634391612710260738\/UqLDAYpF_normal.jpg",
       "id" : 767,
       "verified" : true
     }
@@ -3939,7 +3939,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TenH.S. D.",
+      "name" : "DougDougGreyDoug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -4692,7 +4692,7 @@ Grailbird.data.tweets_2015_03 =
       "screen_name" : "Krogsgard",
       "protected" : false,
       "id_str" : "29752531",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/581884826027851776\/51O7eEWl_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/633343792674906112\/VayuoUbS_normal.jpg",
       "id" : 29752531,
       "verified" : false
     }
@@ -4712,7 +4712,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TenH.S. D.",
+      "name" : "DougDougGreyDoug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -4751,7 +4751,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TenH.S. D.",
+      "name" : "DougDougGreyDoug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -5435,7 +5435,7 @@ Grailbird.data.tweets_2015_03 =
       "screen_name" : "kathleencodes",
       "protected" : false,
       "id_str" : "18689607",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/572282638062387201\/4HScZBGd_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/632062914556399616\/ZWLfwC4M_normal.jpg",
       "id" : 18689607,
       "verified" : false
     }
@@ -6739,7 +6739,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Owen Williams",
+      "name" : "it me ",
       "screen_name" : "ow",
       "indices" : [ 3, 6 ],
       "id_str" : "14767730",
@@ -6776,11 +6776,11 @@ Grailbird.data.tweets_2015_03 =
     "id" : 575798953502867456,
     "created_at" : "2015-03-11 23:22:22 +0000",
     "user" : {
-      "name" : "Owen Williams",
+      "name" : "it me ",
       "screen_name" : "ow",
       "protected" : false,
       "id_str" : "14767730",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/620317092202442752\/sNwsCjNG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630625993980407808\/3mwUlQaU_normal.png",
       "id" : 14767730,
       "verified" : true
     }
@@ -6927,7 +6927,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "HeaVVVy D. ",
+      "name" : "DougDougGreyDoug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -6960,7 +6960,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TenH.S. D.",
+      "name" : "Howard the Doug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -7402,7 +7402,7 @@ Grailbird.data.tweets_2015_03 =
       "id_str" : "114494866",
       "id" : 114494866
     }, {
-      "name" : "Norcross",
+      "name" : "Norcross \u2615\uFE0F",
       "screen_name" : "norcross",
       "indices" : [ 28, 37 ],
       "id_str" : "14558147",
@@ -8794,7 +8794,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TenH.S. D.",
+      "name" : "DougDougGreyDoug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -8939,7 +8939,7 @@ Grailbird.data.tweets_2015_03 =
       "screen_name" : "kathleencodes",
       "protected" : false,
       "id_str" : "18689607",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/572282638062387201\/4HScZBGd_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/632062914556399616\/ZWLfwC4M_normal.jpg",
       "id" : 18689607,
       "verified" : false
     }

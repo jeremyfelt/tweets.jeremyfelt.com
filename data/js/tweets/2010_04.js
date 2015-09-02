@@ -597,7 +597,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer \u262E",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",
@@ -659,7 +659,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "jamieoliver",
       "protected" : false,
       "id_str" : "18676177",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/600222681976446976\/JOL0p2tu_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/636527109490495488\/-V1srRWi_normal.jpg",
       "id" : 18676177,
       "verified" : true
     }
@@ -1753,7 +1753,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer \u262E",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 78, 88 ],
       "id_str" : "3839",

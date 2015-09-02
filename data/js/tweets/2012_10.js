@@ -175,7 +175,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/613065254482776064\/eA6uaTD8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638202296392810503\/y3pNvBNH_normal.jpg",
       "id" : 22872643,
       "verified" : true
     }
@@ -2257,7 +2257,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "technosailor",
       "protected" : false,
       "id_str" : "789158",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/622424887542419457\/zHcPSJL1_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/629883952405180416\/xncs5ItD_normal.jpg",
       "id" : 789158,
       "verified" : false
     }
@@ -5283,75 +5283,6 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brandon Labb\u00E9",
-      "screen_name" : "brandonlabbe",
-      "indices" : [ 3, 16 ],
-      "id_str" : "188874674",
-      "id" : 188874674
-    }, {
-      "name" : "Zack Tollman",
-      "screen_name" : "tollmanz",
-      "indices" : [ 53, 62 ],
-      "id_str" : "335110427",
-      "id" : 335110427
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "wcyvr",
-      "indices" : [ 80, 86 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "257231344332075008",
-  "text" : "RT @brandonlabbe: Mo' money (cache), mo' problems... @tollmanz talk is awesome! #wcyvr Cashing in WordPress.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Zack Tollman",
-        "screen_name" : "tollmanz",
-        "indices" : [ 35, 44 ],
-        "id_str" : "335110427",
-        "id" : 335110427
-      } ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "wcyvr",
-        "indices" : [ 62, 68 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "257230897496088577",
-    "text" : "Mo' money (cache), mo' problems... @tollmanz talk is awesome! #wcyvr Cashing in WordPress.",
-    "id" : 257230897496088577,
-    "created_at" : "2012-10-13 21:26:39 +0000",
-    "user" : {
-      "name" : "Brandon Labb\u00E9",
-      "screen_name" : "brandonlabbe",
-      "protected" : false,
-      "id_str" : "188874674",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3322427504\/a3e32efc9c900e1e18fcc14cc743c3ff_normal.jpeg",
-      "id" : 188874674,
-      "verified" : false
-    }
-  },
-  "id" : 257231344332075008,
-  "created_at" : "2012-10-13 21:28:26 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Joey Kudish",
       "screen_name" : "jkudish",
       "indices" : [ 3, 11 ],
@@ -6290,7 +6221,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer \u262E",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 24, 34 ],
       "id_str" : "3839",
@@ -6328,7 +6259,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer \u262E",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -6365,7 +6296,7 @@ Grailbird.data.tweets_2012_10 =
     "id" : 255808617654149120,
     "created_at" : "2012-10-09 23:15:01 +0000",
     "user" : {
-      "name" : "Dave Winer \u262E",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
@@ -6389,7 +6320,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer \u262E",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",
@@ -7147,7 +7078,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer \u262E",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -7184,7 +7115,7 @@ Grailbird.data.tweets_2012_10 =
     "id" : 254662602171482112,
     "created_at" : "2012-10-06 19:21:10 +0000",
     "user" : {
-      "name" : "Dave Winer \u262E",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
@@ -7569,7 +7500,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "StephenAtHome",
       "protected" : false,
       "id_str" : "16303106",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/624761232508252160\/QrSvD8BV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/627669832549441536\/hv1AMpO0_normal.jpg",
       "id" : 16303106,
       "verified" : true
     }

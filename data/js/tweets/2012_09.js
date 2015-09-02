@@ -110,73 +110,6 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tim Carmody",
-      "screen_name" : "tcarmody",
-      "indices" : [ 3, 12 ],
-      "id_str" : "14439168",
-      "id" : 14439168
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "RomneyStyle",
-      "indices" : [ 73, 85 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 52, 72 ],
-      "url" : "http:\/\/t.co\/Hr8BsiLc",
-      "expanded_url" : "http:\/\/yfrog.com\/od3uxop",
-      "display_url" : "yfrog.com\/od3uxop"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "252589007551217664",
-  "text" : "RT @tcarmody: This is life on the internet in 2012: http:\/\/t.co\/Hr8BsiLc #RomneyStyle",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sites.google.com\/site\/yorufukurou\/\" rel=\"nofollow\"\u003EYoruFukurou\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "RomneyStyle",
-        "indices" : [ 59, 71 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 38, 58 ],
-        "url" : "http:\/\/t.co\/Hr8BsiLc",
-        "expanded_url" : "http:\/\/yfrog.com\/od3uxop",
-        "display_url" : "yfrog.com\/od3uxop"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "252588219726712832",
-    "text" : "This is life on the internet in 2012: http:\/\/t.co\/Hr8BsiLc #RomneyStyle",
-    "id" : 252588219726712832,
-    "created_at" : "2012-10-01 01:58:19 +0000",
-    "user" : {
-      "name" : "Tim Carmody",
-      "screen_name" : "tcarmody",
-      "protected" : false,
-      "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/602713583823298560\/-zUyNRJT_normal.jpg",
-      "id" : 14439168,
-      "verified" : true
-    }
-  },
-  "id" : 252589007551217664,
-  "created_at" : "2012-10-01 02:01:26 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Zack Tollman",
       "screen_name" : "tollmanz",
       "indices" : [ 0, 9 ],
@@ -771,7 +704,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kailey Lampert",
+      "name" : "kailey lampert",
       "screen_name" : "trepmal",
       "indices" : [ 0, 8 ],
       "id_str" : "19574066",
@@ -863,7 +796,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/618184206967943169\/aIM0KgkU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/627691711418998784\/8Q8FCD1J_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }
@@ -1978,7 +1911,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@sweden \/ Moa",
+      "name" : "@sweden \/ Henrik",
       "screen_name" : "sweden",
       "indices" : [ 3, 10 ],
       "id_str" : "19663706",
@@ -2005,11 +1938,11 @@ Grailbird.data.tweets_2012_09 =
     "id" : 247404378800140288,
     "created_at" : "2012-09-16 18:39:35 +0000",
     "user" : {
-      "name" : "@sweden \/ Moa",
+      "name" : "@sweden \/ Henrik",
       "screen_name" : "sweden",
       "protected" : false,
       "id_str" : "19663706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625568583683149824\/NQDztOXd_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638253104002043904\/WSlK9KzI_normal.png",
       "id" : 19663706,
       "verified" : true
     }
@@ -3565,6 +3498,57 @@ Grailbird.data.tweets_2012_09 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
+    "hashtags" : [ {
+      "text" : "mfnw",
+      "indices" : [ 114, 119 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "244727863708880896",
+  "text" : "RT @mrui_pdx: \"I'm just a little Swedish guy. I can't do this forever, I'll wear myself out.\" - Kristian Matsson. #mfnw",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "mfnw",
+        "indices" : [ 100, 105 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "244726014578671616",
+    "text" : "\"I'm just a little Swedish guy. I can't do this forever, I'll wear myself out.\" - Kristian Matsson. #mfnw",
+    "id" : 244726014578671616,
+    "created_at" : "2012-09-09 09:16:43 +0000",
+    "user" : {
+      "name" : "m",
+      "screen_name" : "mrui_",
+      "protected" : false,
+      "id_str" : "16415390",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/541282583959457792\/_jjyYw2Q_normal.jpeg",
+      "id" : 16415390,
+      "verified" : false
+    }
+  },
+  "id" : 244727863708880896,
+  "created_at" : "2012-09-09 09:24:04 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
@@ -5104,7 +5088,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "783214",
       "id" : 783214
     }, {
-      "name" : "@sweden \/ Moa",
+      "name" : "@sweden \/ Henrik",
       "screen_name" : "sweden",
       "indices" : [ 42, 49 ],
       "id_str" : "19663706",
@@ -5767,7 +5751,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "Krogsgard",
       "protected" : false,
       "id_str" : "29752531",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/581884826027851776\/51O7eEWl_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/633343792674906112\/VayuoUbS_normal.jpg",
       "id" : 29752531,
       "verified" : false
     }
@@ -6086,67 +6070,6 @@ Grailbird.data.tweets_2012_09 =
   "text" : "The very impressive TechCrunch Disrupt lineup is very impressive. Also interesting - the big tech companies not represented.",
   "id" : 243209416613195776,
   "created_at" : "2012-09-05 04:50:18 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Tim Carmody",
-      "screen_name" : "tcarmody",
-      "indices" : [ 3, 12 ],
-      "id_str" : "14439168",
-      "id" : 14439168
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/Zmn6qyfT",
-      "expanded_url" : "http:\/\/www.newyorker.com\/reporting\/2012\/09\/10\/120910fa_fact_lizza?currentPage=all",
-      "display_url" : "newyorker.com\/reporting\/2012\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "243204479162388480",
-  "text" : "RT @tcarmody: Only two living political figures have favorable ratings in the 60s right now: Bill Clinton &amp; Michelle Obama. http:\/\/t ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sites.google.com\/site\/yorufukurou\/\" rel=\"nofollow\"\u003EYoruFukurou\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 114, 134 ],
-        "url" : "http:\/\/t.co\/Zmn6qyfT",
-        "expanded_url" : "http:\/\/www.newyorker.com\/reporting\/2012\/09\/10\/120910fa_fact_lizza?currentPage=all",
-        "display_url" : "newyorker.com\/reporting\/2012\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "243198331315187713",
-    "text" : "Only two living political figures have favorable ratings in the 60s right now: Bill Clinton &amp; Michelle Obama. http:\/\/t.co\/Zmn6qyfT",
-    "id" : 243198331315187713,
-    "created_at" : "2012-09-05 04:06:15 +0000",
-    "user" : {
-      "name" : "Tim Carmody",
-      "screen_name" : "tcarmody",
-      "protected" : false,
-      "id_str" : "14439168",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/602713583823298560\/-zUyNRJT_normal.jpg",
-      "id" : 14439168,
-      "verified" : true
-    }
-  },
-  "id" : 243204479162388480,
-  "created_at" : "2012-09-05 04:30:41 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
