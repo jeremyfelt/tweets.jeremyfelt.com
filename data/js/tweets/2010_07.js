@@ -2,6 +2,31 @@ Grailbird.data.tweets_2010_07 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "justsayin",
+      "indices" : [ 36, 46 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19878988987",
+  "text" : "I know it's flawed logic, but still #justsayin.",
+  "id" : 19878988987,
+  "created_at" : "2010-07-30 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "KANYE WEST",
       "screen_name" : "kanyewest",
@@ -204,31 +229,6 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "justsayin",
-      "indices" : [ 36, 46 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19878988987",
-  "text" : "I know it's flawed logic, but still #justsayin.",
-  "id" : 19878988987,
-  "created_at" : "2010-07-30 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -338,7 +338,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WordPress ",
+      "name" : "WordPress",
       "screen_name" : "WordPress",
       "indices" : [ 16, 26 ],
       "id_str" : "685513",
@@ -1091,7 +1091,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "mrgan",
       "protected" : false,
       "id_str" : "35293",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614456959643717632\/r7vo2M9M_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/681498475612143616\/Rxas3KO__normal.jpg",
       "id" : 35293,
       "verified" : false
     }
@@ -1505,6 +1505,39 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jeff Kozlowski",
+      "screen_name" : "JeffKozlowski",
+      "indices" : [ 0, 14 ],
+      "id_str" : "15778399",
+      "id" : 15778399
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "18803443172",
+  "geo" : { },
+  "id_str" : "18811683166",
+  "in_reply_to_user_id" : 15778399,
+  "text" : "@JeffKozlowski Worked out pretty good. It's not *that* different overall. Feels wicked weird though. http:\/\/flic.kr\/p\/8jryfr",
+  "id" : 18811683166,
+  "in_reply_to_status_id" : 18803443172,
+  "created_at" : "2010-07-18 00:00:00 +0000",
+  "in_reply_to_screen_name" : "JeffKozlowski",
+  "in_reply_to_user_id_str" : "15778399",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1845,39 +1878,6 @@ Grailbird.data.tweets_2010_07 =
   "text" : "Hendrick's And Q - http:\/\/flic.kr\/p\/8juFx9 - The first sip of Q Tonic water destroyed all possibilities of buying Schweppes again. Wow.",
   "id" : 18811052379,
   "created_at" : "2010-07-18 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jeff Kozlowski",
-      "screen_name" : "JeffKozlowski",
-      "indices" : [ 0, 14 ],
-      "id_str" : "15778399",
-      "id" : 15778399
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "18803443172",
-  "geo" : { },
-  "id_str" : "18811683166",
-  "in_reply_to_user_id" : 15778399,
-  "text" : "@JeffKozlowski Worked out pretty good. It's not *that* different overall. Feels wicked weird though. http:\/\/flic.kr\/p\/8jryfr",
-  "id" : 18811683166,
-  "in_reply_to_status_id" : 18803443172,
-  "created_at" : "2010-07-18 00:00:00 +0000",
-  "in_reply_to_screen_name" : "JeffKozlowski",
-  "in_reply_to_user_id_str" : "15778399",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2293,7 +2293,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "davely",
       "protected" : false,
       "id_str" : "11779882",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/572930526042812416\/ssE2qm-__normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/646383182057639936\/zGghpPHD_normal.jpg",
       "id" : 11779882,
       "verified" : false
     }
@@ -2432,7 +2432,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "mattmiklic",
       "protected" : false,
       "id_str" : "7562432",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/616093007415083008\/lMAFd_Qe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/685215519969046528\/Wnviwy2A_normal.jpg",
       "id" : 7562432,
       "verified" : false
     }
@@ -2630,7 +2630,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "GlennF",
       "protected" : false,
       "id_str" : "8315692",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/590751632364822528\/JclMiB7-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/682797459072876544\/2hqQ9JqP_normal.jpg",
       "id" : 8315692,
       "verified" : true
     }
@@ -3091,6 +3091,28 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "18214873064",
+  "text" : "We will get through this. Time to code a Virgin Mobile email parser \/ tweeter \/ flickrer. :)",
+  "id" : 18214873064,
+  "created_at" : "2010-07-10 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "18214968747",
   "text" : "Even better. When sent straight to Gmail, Virgin Mobile pops a watermark on my image. That's disappointing.",
   "id" : 18214968747,
@@ -3207,28 +3229,6 @@ Grailbird.data.tweets_2010_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "18214873064",
-  "text" : "We will get through this. Time to code a Virgin Mobile email parser \/ tweeter \/ flickrer. :)",
-  "id" : 18214873064,
-  "created_at" : "2010-07-10 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "18126782391",
   "text" : "Wow. I heard about Dan Gilbert's \"cowardly betrayal\" letter, but nobody mentioned it was posted in Comic Sans! http:\/\/bit.ly\/cPn3jE",
   "id" : 18126782391,
@@ -3299,7 +3299,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "typekit",
       "protected" : false,
       "id_str" : "30065033",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/611919736603947008\/QYxUiLeK_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/643421965072625664\/yz2FenTh_normal.png",
       "id" : 30065033,
       "verified" : true
     }
@@ -3442,7 +3442,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "NewsHour",
       "protected" : false,
       "id_str" : "14437914",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/623157438213193728\/uHftFQIG_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/648496414624903169\/3jLZ5hHA_normal.jpg",
       "id" : 14437914,
       "verified" : true
     }
@@ -3863,7 +3863,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James Handwaver ",
+      "name" : "Medea Fawning",
       "screen_name" : "monkchips",
       "indices" : [ 3, 13 ],
       "id_str" : "61233",
@@ -3890,11 +3890,11 @@ Grailbird.data.tweets_2010_07 =
     "id" : 17872127385,
     "created_at" : "2010-07-06 14:45:44 +0000",
     "user" : {
-      "name" : "James Handwaver ",
+      "name" : "Medea Fawning",
       "screen_name" : "monkchips",
       "protected" : false,
       "id_str" : "61233",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/616900503042174976\/RN7_bmIL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/676347239518699520\/mRAGOQdV_normal.jpg",
       "id" : 61233,
       "verified" : false
     }
@@ -4177,7 +4177,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "shellen",
       "protected" : false,
       "id_str" : "422",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/563212823962980353\/EEDscIja_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/667119738703646720\/ZL2LOLf7_normal.png",
       "id" : 422,
       "verified" : false
     }

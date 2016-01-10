@@ -1011,7 +1011,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "sonniesedge",
       "protected" : false,
       "id_str" : "160687830",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/629313658850516992\/5Mmps7G__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/665166745292963840\/7zZSARnt_normal.jpg",
       "id" : 160687830,
       "verified" : false
     }
@@ -2219,7 +2219,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "272166936",
       "id" : 272166936
     }, {
-      "name" : "      \u2665      ",
+      "name" : "\u2665\uFE0E",
       "screen_name" : "yurivictor",
       "indices" : [ 17, 28 ],
       "id_str" : "5511932",
@@ -2258,7 +2258,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "272166936",
       "id" : 272166936
     }, {
-      "name" : "      \u2665      ",
+      "name" : "\u2665\uFE0E",
       "screen_name" : "yurivictor",
       "indices" : [ 139, 140 ],
       "id_str" : "5511932",
@@ -2278,7 +2278,7 @@ Grailbird.data.tweets_2013_07 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "      \u2665      ",
+        "name" : "\u2665\uFE0E",
         "screen_name" : "yurivictor",
         "indices" : [ 123, 134 ],
         "id_str" : "5511932",
@@ -2291,10 +2291,7 @@ Grailbird.data.tweets_2013_07 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-      "type" : "Point",
-      "coordinates" : [ 37.7656549276, -122.3971453692 ]
-    },
+    "geo" : { },
     "id_str" : "360911566486507522",
     "text" : "\u201CEvery time we moved a blog to WordPress, productivity went up. Plus, we gained an advocate to the rest of the newsroom\u201D - @yurivictor #wcsf",
     "id" : 360911566486507522,
@@ -2330,7 +2327,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "272166936",
       "id" : 272166936
     }, {
-      "name" : "      \u2665      ",
+      "name" : "\u2665\uFE0E",
       "screen_name" : "yurivictor",
       "indices" : [ 139, 140 ],
       "id_str" : "5511932",
@@ -2350,7 +2347,7 @@ Grailbird.data.tweets_2013_07 =
     "source" : "\u003Ca href=\"http:\/\/www.apple.com\" rel=\"nofollow\"\u003EiOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "      \u2665      ",
+        "name" : "\u2665\uFE0E",
         "screen_name" : "yurivictor",
         "indices" : [ 122, 133 ],
         "id_str" : "5511932",
@@ -2363,10 +2360,7 @@ Grailbird.data.tweets_2013_07 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-      "type" : "Point",
-      "coordinates" : [ 37.76545, -122.392104 ]
-    },
+    "geo" : { },
     "id_str" : "360912988011626497",
     "text" : "\"NY Times' Snowfall was 17 people for six months. We don't have that kind of resources, so we built it into WordPress.\" - @yurivictor #wcsf",
     "id" : 360912988011626497,
@@ -2546,7 +2540,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mark Jaquith ",
+      "name" : "Mark Jaquith",
       "screen_name" : "markjaquith",
       "indices" : [ 0, 12 ],
       "id_str" : "821042",
@@ -2594,7 +2588,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "6306542",
       "id" : 6306542
     }, {
-      "name" : "Mark Jaquith ",
+      "name" : "Mark Jaquith",
       "screen_name" : "markjaquith",
       "indices" : [ 29, 41 ],
       "id_str" : "821042",
@@ -2614,7 +2608,7 @@ Grailbird.data.tweets_2013_07 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Mark Jaquith ",
+        "name" : "Mark Jaquith",
         "screen_name" : "markjaquith",
         "indices" : [ 17, 29 ],
         "id_str" : "821042",
@@ -3002,7 +2996,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "12819682",
       "id" : 12819682
     }, {
-      "name" : "Mark Jaquith ",
+      "name" : "Mark Jaquith",
       "screen_name" : "markjaquith",
       "indices" : [ 124, 136 ],
       "id_str" : "821042",
@@ -3175,7 +3169,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "AriyaHidayat",
       "protected" : false,
       "id_str" : "15608761",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/607759631428034560\/kUqMAMVr_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/656199304437100544\/5ca1XTq1_normal.jpg",
       "id" : 15608761,
       "verified" : false
     }
@@ -3511,7 +3505,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Samuel Wood (Otto)",
+      "name" : "Otto (Samuel Wood)",
       "screen_name" : "Otto42",
       "indices" : [ 3, 10 ],
       "id_str" : "7016582",
@@ -3555,7 +3549,7 @@ Grailbird.data.tweets_2013_07 =
     "in_reply_to_screen_name" : "jeremyfelt",
     "in_reply_to_user_id_str" : "1741681",
     "user" : {
-      "name" : "Samuel Wood (Otto)",
+      "name" : "Otto (Samuel Wood)",
       "screen_name" : "Otto42",
       "protected" : false,
       "id_str" : "7016582",
@@ -3627,7 +3621,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "HouseofGrays",
       "protected" : false,
       "id_str" : "356861615",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626926627465773056\/i9uyz8J6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/658742073932185600\/80Tvqwsl_normal.jpg",
       "id" : 356861615,
       "verified" : false
     }
@@ -4264,7 +4258,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000705453175\/798b66aa97060b8c728771d5b0399aa1_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/664118709599002624\/dzNffUNM_normal.png",
       "id" : 3839,
       "verified" : true
     }
@@ -4704,7 +4698,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "NateSilver538",
       "protected" : false,
       "id_str" : "16017475",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000188475595\/9048bff5190578d8e2c558dca3606fbb_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668814368008708096\/5HABV7bJ_normal.png",
       "id" : 16017475,
       "verified" : true
     }
@@ -5688,7 +5682,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "HouseofGrays",
       "protected" : false,
       "id_str" : "356861615",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626926627465773056\/i9uyz8J6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/658742073932185600\/80Tvqwsl_normal.jpg",
       "id" : 356861615,
       "verified" : false
     }
@@ -6370,7 +6364,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "scribu",
       "protected" : false,
       "id_str" : "9738582",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/630290677654491136\/sl-t_AJ1_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/648077502859091968\/7AWQjTvq_normal.jpg",
       "id" : 9738582,
       "verified" : false
     }
@@ -6530,7 +6524,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WordPress ",
+      "name" : "WordPress",
       "screen_name" : "WordPress",
       "indices" : [ 3, 13 ],
       "id_str" : "685513",
@@ -6567,7 +6561,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 356075386997710852,
     "created_at" : "2013-07-13 15:39:22 +0000",
     "user" : {
-      "name" : "WordPress ",
+      "name" : "WordPress",
       "screen_name" : "WordPress",
       "protected" : false,
       "id_str" : "685513",
@@ -7585,10 +7579,10 @@ Grailbird.data.tweets_2013_07 =
     "created_at" : "2013-07-12 18:42:17 +0000",
     "user" : {
       "name" : "Dan Immke",
-      "screen_name" : "danielimmke",
+      "screen_name" : "danimmke",
       "protected" : false,
       "id_str" : "229286623",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/582448909328449536\/ASyBiVS__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/680977253233115140\/K3mvpXNj_normal.jpg",
       "id" : 229286623,
       "verified" : false
     }
@@ -7649,7 +7643,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "HouseofGrays",
       "protected" : false,
       "id_str" : "356861615",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/626926627465773056\/i9uyz8J6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/658742073932185600\/80Tvqwsl_normal.jpg",
       "id" : 356861615,
       "verified" : false
     }
@@ -7708,7 +7702,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "21204689",
       "id" : 21204689
     }, {
-      "name" : "Mark Jaquith ",
+      "name" : "Mark Jaquith",
       "screen_name" : "markjaquith",
       "indices" : [ 29, 41 ],
       "id_str" : "821042",
@@ -9580,7 +9574,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "wcpdx",
       "protected" : false,
       "id_str" : "15926367",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/339090161\/2009Logo-NoText_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/641394218791927808\/Q_7FIdRj_normal.jpg",
       "id" : 15926367,
       "verified" : false
     }
@@ -9769,7 +9763,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/529664614863101952\/yBQgCUMW_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/678402398981775361\/xeju7Lqg_normal.jpg",
       "id" : 36823,
       "verified" : true
     }

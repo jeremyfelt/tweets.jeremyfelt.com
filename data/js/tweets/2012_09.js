@@ -1182,7 +1182,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jay Rosen ",
+      "name" : "Jay Rosen",
       "screen_name" : "jayrosen_nyu",
       "indices" : [ 91, 104 ],
       "id_str" : "14834340",
@@ -1911,7 +1911,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@sweden \/ Henrik",
+      "name" : "@sweden \/ Elise",
       "screen_name" : "sweden",
       "indices" : [ 3, 10 ],
       "id_str" : "19663706",
@@ -1938,11 +1938,11 @@ Grailbird.data.tweets_2012_09 =
     "id" : 247404378800140288,
     "created_at" : "2012-09-16 18:39:35 +0000",
     "user" : {
-      "name" : "@sweden \/ Henrik",
+      "name" : "@sweden \/ Elise",
       "screen_name" : "sweden",
       "protected" : false,
       "id_str" : "19663706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638253104002043904\/WSlK9KzI_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/683930232609464320\/fIeVUnZH_normal.png",
       "id" : 19663706,
       "verified" : true
     }
@@ -2060,7 +2060,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Samuel Wood (Otto)",
+      "name" : "Otto (Samuel Wood)",
       "screen_name" : "Otto42",
       "indices" : [ 0, 7 ],
       "id_str" : "7016582",
@@ -2379,7 +2379,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "michellefelt",
       "protected" : false,
       "id_str" : "32924315",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/606305384106582016\/xmF_-faH_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/646902525224861696\/nNSLB-g8_normal.jpg",
       "id" : 32924315,
       "verified" : false
     }
@@ -2727,7 +2727,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "carldanley",
       "protected" : false,
       "id_str" : "37747812",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/475100130815647744\/ewgkWSxm_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/674873824165437441\/p9MU6CeY_normal.jpg",
       "id" : 37747812,
       "verified" : false
     }
@@ -3137,7 +3137,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "kimberlypdx",
       "protected" : false,
       "id_str" : "59308637",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/625095183785435136\/nX5hPpE0_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/683241314272428032\/SKJzXGKx_normal.jpg",
       "id" : 59308637,
       "verified" : false
     }
@@ -3484,57 +3484,6 @@ Grailbird.data.tweets_2012_09 =
   "text" : "\u201CYou were born in Hawaii?\u201D Mr. Obama asked, then broke out into a smile. \u201CYou have a birth certificate?\u201D http:\/\/t.co\/cj0xYdHd Nice.",
   "id" : 244872866280112128,
   "created_at" : "2012-09-09 19:00:15 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "mfnw",
-      "indices" : [ 114, 119 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "244727863708880896",
-  "text" : "RT @mrui_pdx: \"I'm just a little Swedish guy. I can't do this forever, I'll wear myself out.\" - Kristian Matsson. #mfnw",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "mfnw",
-        "indices" : [ 100, 105 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "244726014578671616",
-    "text" : "\"I'm just a little Swedish guy. I can't do this forever, I'll wear myself out.\" - Kristian Matsson. #mfnw",
-    "id" : 244726014578671616,
-    "created_at" : "2012-09-09 09:16:43 +0000",
-    "user" : {
-      "name" : "m",
-      "screen_name" : "mrui_",
-      "protected" : false,
-      "id_str" : "16415390",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/541282583959457792\/_jjyYw2Q_normal.jpeg",
-      "id" : 16415390,
-      "verified" : false
-    }
-  },
-  "id" : 244727863708880896,
-  "created_at" : "2012-09-09 09:24:04 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3943,7 +3892,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "carldanley",
       "protected" : false,
       "id_str" : "37747812",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/475100130815647744\/ewgkWSxm_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/674873824165437441\/p9MU6CeY_normal.jpg",
       "id" : 37747812,
       "verified" : false
     }
@@ -5088,7 +5037,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "783214",
       "id" : 783214
     }, {
-      "name" : "@sweden \/ Henrik",
+      "name" : "@sweden \/ Elise",
       "screen_name" : "sweden",
       "indices" : [ 42, 49 ],
       "id_str" : "19663706",
@@ -5216,7 +5165,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "auteurian",
       "protected" : false,
       "id_str" : "38790060",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/616076665148411904\/zxVMwLAz_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/677946284485959680\/ZTxwItiM_normal.jpg",
       "id" : 38790060,
       "verified" : false
     }

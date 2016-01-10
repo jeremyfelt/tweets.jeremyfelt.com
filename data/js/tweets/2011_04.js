@@ -1025,64 +1025,13 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "joelhousman",
       "protected" : false,
       "id_str" : "685763",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/550443487980965888\/gH_h5NwL_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/647378312721993728\/8O0B8tqn_normal.jpg",
       "id" : 685763,
       "verified" : false
     }
   },
   "id" : 57617563571593217,
   "created_at" : "2011-04-12 01:34:32 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Steve Agee",
-      "screen_name" : "steveagee",
-      "indices" : [ 3, 13 ],
-      "id_str" : "167421762",
-      "id" : 167421762
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "57611692510679040",
-  "text" : "RT @steveagee: New favorite Tumblr page! Chicks w\/ Steve Buscemi's eyes! http:\/\/chickswithstevebuscemeyes.tumblr.com\/",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "57593571301277696",
-    "text" : "New favorite Tumblr page! Chicks w\/ Steve Buscemi's eyes! http:\/\/chickswithstevebuscemeyes.tumblr.com\/",
-    "id" : 57593571301277696,
-    "created_at" : "2011-04-11 23:59:12 +0000",
-    "user" : {
-      "name" : "Steve Agee",
-      "screen_name" : "steveagee",
-      "protected" : false,
-      "id_str" : "167421762",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451232635830816768\/qUhmB9NZ_normal.png",
-      "id" : 167421762,
-      "verified" : true
-    }
-  },
-  "id" : 57611692510679040,
-  "created_at" : "2011-04-12 01:11:12 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2061,7 +2010,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638202296392810503\/y3pNvBNH_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/678321508289142784\/CETndfNg_normal.jpg",
       "id" : 22872643,
       "verified" : true
     }

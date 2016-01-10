@@ -822,7 +822,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "michellefelt",
       "protected" : false,
       "id_str" : "32924315",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/606305384106582016\/xmF_-faH_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/646902525224861696\/nNSLB-g8_normal.jpg",
       "id" : 32924315,
       "verified" : false
     }
@@ -2118,7 +2118,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "joshelman",
       "protected" : false,
       "id_str" : "1979921",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477934957981999104\/erBXeCYO_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/642325773454434304\/StRyH6B6_normal.jpg",
       "id" : 1979921,
       "verified" : false
     }
@@ -2710,7 +2710,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "15333584",
       "id" : 15333584
     }, {
-      "name" : "WordPress ",
+      "name" : "WordPress",
       "screen_name" : "WordPress",
       "indices" : [ 45, 55 ],
       "id_str" : "685513",
@@ -2766,7 +2766,7 @@ Grailbird.data.tweets_2012_05 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "WordPress ",
+        "name" : "WordPress",
         "screen_name" : "WordPress",
         "indices" : [ 24, 34 ],
         "id_str" : "685513",
@@ -2825,7 +2825,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "LaurenMAlbrecht",
       "protected" : false,
       "id_str" : "15333584",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/628686885376753665\/-UG9LF6H_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/674120171015958528\/f1vVk8Td_normal.jpg",
       "id" : 15333584,
       "verified" : false
     }
@@ -3501,36 +3501,6 @@ Grailbird.data.tweets_2012_05 =
       "id" : 21204689
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/jeremyfelt\/status\/203633744295370752\/photo\/1",
-      "indices" : [ 65, 85 ],
-      "url" : "http:\/\/t.co\/2W51GjTk",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/AtNzz8FCIAE_k6J.jpg",
-      "id_str" : "203633744299565057",
-      "id" : 203633744299565057,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AtNzz8FCIAE_k6J.jpg",
-      "sizes" : [ {
-        "h" : 255,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 768,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 1536,
-        "resize" : "fit",
-        "w" : 2048
-      } ],
-      "display_url" : "pic.twitter.com\/2W51GjTk"
-    }, {
       "expanded_url" : "http:\/\/twitter.com\/jeremyfelt\/status\/203633744295370752\/photo\/1",
       "indices" : [ 65, 85 ],
       "url" : "http:\/\/t.co\/2W51GjTk",
@@ -4629,74 +4599,6 @@ Grailbird.data.tweets_2012_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Rdio Support",
-      "screen_name" : "RdioHelp",
-      "indices" : [ 3, 12 ],
-      "id_str" : "144950141",
-      "id" : 144950141
-    }, {
-      "name" : "Jeremy Felt",
-      "screen_name" : "jeremyfelt",
-      "indices" : [ 14, 25 ],
-      "id_str" : "1741681",
-      "id" : 1741681
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "202162320326148096",
-  "text" : "RT @RdioHelp: @jeremyfelt Apologies! We're looking into the slowness\/etc. now.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.desk.com\" rel=\"nofollow\"\u003EDesk.com\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Jeremy Felt",
-        "screen_name" : "jeremyfelt",
-        "indices" : [ 0, 11 ],
-        "id_str" : "1741681",
-        "id" : 1741681
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "202158636552818689",
-    "geo" : { },
-    "id_str" : "202161674743058432",
-    "in_reply_to_user_id" : 1741681,
-    "text" : "@jeremyfelt Apologies! We're looking into the slowness\/etc. now.",
-    "id" : 202161674743058432,
-    "in_reply_to_status_id" : 202158636552818689,
-    "created_at" : "2012-05-14 22:21:13 +0000",
-    "in_reply_to_screen_name" : "jeremyfelt",
-    "in_reply_to_user_id_str" : "1741681",
-    "user" : {
-      "name" : "Rdio Support",
-      "screen_name" : "RdioHelp",
-      "protected" : false,
-      "id_str" : "144950141",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/496698124836941824\/yHfZ3rU1_normal.png",
-      "id" : 144950141,
-      "verified" : false
-    }
-  },
-  "id" : 202162320326148096,
-  "created_at" : "2012-05-14 22:23:47 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5387,7 +5289,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "21204689",
       "id" : 21204689
     }, {
-      "name" : "DougDougGreyDoug",
+      "name" : "Nate Dougg",
       "screen_name" : "zamoose",
       "indices" : [ 24, 32 ],
       "id_str" : "819148",
@@ -5523,7 +5425,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "240438328",
       "id" : 240438328
     }, {
-      "name" : "New Belgium \u2764\uFE0F",
+      "name" : "New Belgium Brewing",
       "screen_name" : "newbelgium",
       "indices" : [ 26, 37 ],
       "id_str" : "18057459",

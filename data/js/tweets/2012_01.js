@@ -1312,7 +1312,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rupert Murdoch ",
+      "name" : "Rupert Murdoch",
       "screen_name" : "rupertmurdoch",
       "indices" : [ 25, 39 ],
       "id_str" : "451586190",
@@ -1831,7 +1831,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rupert Murdoch ",
+      "name" : "Rupert Murdoch",
       "screen_name" : "rupertmurdoch",
       "indices" : [ 96, 110 ],
       "id_str" : "451586190",
@@ -1896,7 +1896,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rupert Murdoch ",
+      "name" : "Rupert Murdoch",
       "screen_name" : "rupertmurdoch",
       "indices" : [ 10, 24 ],
       "id_str" : "451586190",
@@ -2216,7 +2216,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rupert Murdoch ",
+      "name" : "Rupert Murdoch",
       "screen_name" : "rupertmurdoch",
       "indices" : [ 3, 17 ],
       "id_str" : "451586190",
@@ -2243,7 +2243,7 @@ Grailbird.data.tweets_2012_01 =
     "id" : 157719858904174592,
     "created_at" : "2012-01-13 07:05:19 +0000",
     "user" : {
-      "name" : "Rupert Murdoch ",
+      "name" : "Rupert Murdoch",
       "screen_name" : "rupertmurdoch",
       "protected" : false,
       "id_str" : "451586190",
@@ -3255,7 +3255,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "General Electric ",
+      "name" : "General Electric",
       "screen_name" : "generalelectric",
       "indices" : [ 68, 84 ],
       "id_str" : "267399199",

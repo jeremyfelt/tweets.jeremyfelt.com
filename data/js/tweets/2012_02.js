@@ -64,7 +64,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ladama",
+      "name" : "Lada-muahahaha!",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -279,7 +279,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "michellefelt",
       "protected" : false,
       "id_str" : "32924315",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/606305384106582016\/xmF_-faH_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/646902525224861696\/nNSLB-g8_normal.jpg",
       "id" : 32924315,
       "verified" : false
     }
@@ -651,7 +651,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ladama",
+      "name" : "Lada-muahahaha!",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -777,7 +777,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "12514",
       "id" : 12514
     }, {
-      "name" : "Rupert Murdoch ",
+      "name" : "Rupert Murdoch",
       "screen_name" : "rupertmurdoch",
       "indices" : [ 43, 57 ],
       "id_str" : "451586190",
@@ -794,7 +794,7 @@ Grailbird.data.tweets_2012_02 =
     "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Rupert Murdoch ",
+        "name" : "Rupert Murdoch",
         "screen_name" : "rupertmurdoch",
         "indices" : [ 28, 42 ],
         "id_str" : "451586190",
@@ -2148,7 +2148,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "michellefelt",
       "protected" : false,
       "id_str" : "32924315",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/606305384106582016\/xmF_-faH_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/646902525224861696\/nNSLB-g8_normal.jpg",
       "id" : 32924315,
       "verified" : false
     }
@@ -3201,7 +3201,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rupert Murdoch ",
+      "name" : "Rupert Murdoch",
       "screen_name" : "rupertmurdoch",
       "indices" : [ 12, 26 ],
       "id_str" : "451586190",

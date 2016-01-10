@@ -448,6 +448,39 @@ Grailbird.data.tweets_2009_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Spirit and Oppy ",
+      "screen_name" : "MarsRovers",
+      "indices" : [ 18, 29 ],
+      "id_str" : "15165502",
+      "id" : 15165502
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "1965063596",
+  "geo" : { },
+  "id_str" : "1965077432",
+  "in_reply_to_user_id" : 15165502,
+  "text" : "Damn. Too bad! RT @MarsRovers Although Julian's idea won't work, my drivers love  his enthusiasm & sent him a big thank you & invite to JPL",
+  "id" : 1965077432,
+  "in_reply_to_status_id" : 1965063596,
+  "created_at" : "2009-05-29 00:00:00 +0000",
+  "in_reply_to_screen_name" : "MarsRovers",
+  "in_reply_to_user_id_str" : "15165502",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -894,40 +927,7 @@ Grailbird.data.tweets_2009_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Spirit and Oppy ",
-      "screen_name" : "MarsRovers",
-      "indices" : [ 18, 29 ],
-      "id_str" : "15165502",
-      "id" : 15165502
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "1965063596",
-  "geo" : { },
-  "id_str" : "1965077432",
-  "in_reply_to_user_id" : 15165502,
-  "text" : "Damn. Too bad! RT @MarsRovers Although Julian's idea won't work, my drivers love  his enthusiasm & sent him a big thank you & invite to JPL",
-  "id" : 1965077432,
-  "in_reply_to_status_id" : 1965063596,
-  "created_at" : "2009-05-29 00:00:00 +0000",
-  "in_reply_to_screen_name" : "MarsRovers",
-  "in_reply_to_user_id_str" : "15165502",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Puff Daddy",
+      "name" : "Sean Diddy Combs",
       "screen_name" : "iamdiddy",
       "indices" : [ 11, 20 ],
       "id_str" : "18220175",
@@ -986,7 +986,7 @@ Grailbird.data.tweets_2009_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Puff Daddy",
+      "name" : "Sean Diddy Combs",
       "screen_name" : "iamdiddy",
       "indices" : [ 12, 21 ],
       "id_str" : "18220175",
@@ -1036,7 +1036,7 @@ Grailbird.data.tweets_2009_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Puff Daddy",
+      "name" : "Sean Diddy Combs",
       "screen_name" : "iamdiddy",
       "indices" : [ 6, 15 ],
       "id_str" : "18220175",
@@ -1396,6 +1396,28 @@ Grailbird.data.tweets_2009_05 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1929728873",
+  "text" : "Topsy introductory blog post. My first 5 minute impression = Cool! http:\/\/bit.ly\/13lNxB",
+  "id" : 1929728873,
+  "created_at" : "2009-05-27 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -1663,28 +1685,6 @@ Grailbird.data.tweets_2009_05 =
   "id_str" : "1940410771",
   "text" : "Twitter Might Start Adding Comments & Location-Based Information to Each Tweet (via @rww) http:\/\/bit.ly\/8Af8",
   "id" : 1940410771,
-  "created_at" : "2009-05-27 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1929728873",
-  "text" : "Topsy introductory blog post. My first 5 minute impression = Cool! http:\/\/bit.ly\/13lNxB",
-  "id" : 1929728873,
   "created_at" : "2009-05-27 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -2839,6 +2839,28 @@ Grailbird.data.tweets_2009_05 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "1829074525",
+  "text" : "Now with bit.ly support - my 40 Most Recent Links on Twitter http:\/\/bit.ly\/2mqCgC",
+  "id" : 1829074525,
+  "created_at" : "2009-05-17 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "1829450581",
   "text" : "\"While the media may have found Twitter, only 5% of Americans are currently using it\" http:\/\/bit.ly\/JBXGf",
   "id" : 1829450581,
@@ -3029,28 +3051,6 @@ Grailbird.data.tweets_2009_05 =
   "id_str" : "1826761368",
   "text" : "Playing around with the bit.ly API. http:\/\/bit.ly\/S7ywP",
   "id" : 1826761368,
-  "created_at" : "2009-05-17 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1829074525",
-  "text" : "Now with bit.ly support - my 40 Most Recent Links on Twitter http:\/\/bit.ly\/2mqCgC",
-  "id" : 1829074525,
   "created_at" : "2009-05-17 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",

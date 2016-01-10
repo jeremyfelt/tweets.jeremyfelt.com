@@ -144,7 +144,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jay Rosen ",
+      "name" : "Jay Rosen",
       "screen_name" : "jayrosen_nyu",
       "indices" : [ 46, 59 ],
       "id_str" : "14834340",
@@ -297,6 +297,28 @@ Grailbird.data.tweets_2009_06 =
   "text" : "Protesters trade rocks with police, and then run them away.  http:\/\/bit.ly\/kbaSa",
   "id" : 2271591525,
   "created_at" : "2009-06-21 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2256171759",
+  "text" : "Statement from the President on Iran http:\/\/bit.ly\/z0Tbf",
+  "id" : 2256171759,
+  "created_at" : "2009-06-20 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -674,7 +696,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jay Rosen ",
+      "name" : "Jay Rosen",
       "screen_name" : "jayrosen_nyu",
       "indices" : [ 0, 13 ],
       "id_str" : "14834340",
@@ -1023,16 +1045,25 @@ Grailbird.data.tweets_2009_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Steph",
+      "screen_name" : "Steph_Travels",
+      "indices" : [ 0, 14 ],
+      "id_str" : "24651876",
+      "id" : 24651876
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "2256171759",
-  "text" : "Statement from the President on Iran http:\/\/bit.ly\/z0Tbf",
-  "id" : 2256171759,
-  "created_at" : "2009-06-20 00:00:00 +0000",
+  "id_str" : "2232309288",
+  "in_reply_to_user_id" : 29011647,
+  "text" : "@steph_travels Mufasa, Simba, Lil Wayne... what combination could be better? LOL!",
+  "id" : 2232309288,
+  "created_at" : "2009-06-19 00:00:00 +0000",
+  "in_reply_to_screen_name" : "stephaniefelt",
+  "in_reply_to_user_id_str" : "29011647",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1557,37 +1588,6 @@ Grailbird.data.tweets_2009_06 =
   "text" : "Google is launching a Farsi to English translator tomorrow. Yes!",
   "id" : 2231322425,
   "created_at" : "2009-06-19 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Steph",
-      "screen_name" : "Steph_Travels",
-      "indices" : [ 0, 14 ],
-      "id_str" : "24651876",
-      "id" : 24651876
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2232309288",
-  "in_reply_to_user_id" : 29011647,
-  "text" : "@steph_travels Mufasa, Simba, Lil Wayne... what combination could be better? LOL!",
-  "id" : 2232309288,
-  "created_at" : "2009-06-19 00:00:00 +0000",
-  "in_reply_to_screen_name" : "stephaniefelt",
-  "in_reply_to_user_id_str" : "29011647",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2398,7 +2398,38 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jay Rosen ",
+      "name" : "Neil Gorman",
+      "screen_name" : "neilgorman",
+      "indices" : [ 0, 11 ],
+      "id_str" : "721853",
+      "id" : 721853
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2196563473",
+  "in_reply_to_user_id" : 721853,
+  "text" : "@neilgorman True to that!",
+  "id" : 2196563473,
+  "created_at" : "2009-06-16 00:00:00 +0000",
+  "in_reply_to_screen_name" : "neilgorman",
+  "in_reply_to_user_id_str" : "721853",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jay Rosen",
       "screen_name" : "jayrosen_nyu",
       "indices" : [ 85, 98 ],
       "id_str" : "14834340",
@@ -2816,7 +2847,7 @@ Grailbird.data.tweets_2009_06 =
       "id_str" : "3839",
       "id" : 3839
     }, {
-      "name" : "Jay Rosen ",
+      "name" : "Jay Rosen",
       "screen_name" : "jayrosen_nyu",
       "indices" : [ 28, 41 ],
       "id_str" : "14834340",
@@ -3139,25 +3170,16 @@ Grailbird.data.tweets_2009_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Neil Gorman",
-      "screen_name" : "neilgorman",
-      "indices" : [ 0, 11 ],
-      "id_str" : "721853",
-      "id" : 721853
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "2196563473",
-  "in_reply_to_user_id" : 721853,
-  "text" : "@neilgorman True to that!",
-  "id" : 2196563473,
-  "created_at" : "2009-06-16 00:00:00 +0000",
-  "in_reply_to_screen_name" : "neilgorman",
-  "in_reply_to_user_id_str" : "721853",
+  "id_str" : "2173417410",
+  "text" : "In 1999, cell phones were the big \"new\" communication tool for the student uprising. Now it is twitter, gov has shut down SMS and cell svc.",
+  "id" : 2173417410,
+  "created_at" : "2009-06-15 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4270,28 +4292,6 @@ Grailbird.data.tweets_2009_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2173417410",
-  "text" : "In 1999, cell phones were the big \"new\" communication tool for the student uprising. Now it is twitter, gov has shut down SMS and cell svc.",
-  "id" : 2173417410,
-  "created_at" : "2009-06-15 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -5124,6 +5124,28 @@ Grailbird.data.tweets_2009_06 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "2149982787",
+  "text" : "I think tinychat vs. chrome is a bad combo. Now whenever I ctrl-tab, a new tab comes up with a twitter user that's in the chat room.",
+  "id" : 2149982787,
+  "created_at" : "2009-06-13 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "2150023861",
   "text" : "YES!  I got facebook.com\/usernames as my username.  Jeremy was taken. :)",
   "id" : 2150023861,
@@ -5207,7 +5229,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jay Rosen ",
+      "name" : "Jay Rosen",
       "screen_name" : "jayrosen_nyu",
       "indices" : [ 98, 111 ],
       "id_str" : "14834340",
@@ -5476,28 +5498,6 @@ Grailbird.data.tweets_2009_06 =
   "id_str" : "2149966561",
   "text" : "Now tinychat is randomly popping up a new twitter\/oauth tab.  Highly annoying.",
   "id" : 2149966561,
-  "created_at" : "2009-06-13 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2149982787",
-  "text" : "I think tinychat vs. chrome is a bad combo. Now whenever I ctrl-tab, a new tab comes up with a twitter user that's in the chat room.",
-  "id" : 2149982787,
   "created_at" : "2009-06-13 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -5985,7 +5985,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jay Rosen ",
+      "name" : "Jay Rosen",
       "screen_name" : "jayrosen_nyu",
       "indices" : [ 0, 13 ],
       "id_str" : "14834340",
@@ -6210,7 +6210,7 @@ Grailbird.data.tweets_2009_06 =
       "id_str" : "15234886",
       "id" : 15234886
     }, {
-      "name" : "Jay Rosen ",
+      "name" : "Jay Rosen",
       "screen_name" : "jayrosen_nyu",
       "indices" : [ 44, 57 ],
       "id_str" : "14834340",
@@ -6247,7 +6247,7 @@ Grailbird.data.tweets_2009_06 =
       "id_str" : "97711078",
       "id" : 97711078
     }, {
-      "name" : "Jay Rosen ",
+      "name" : "Jay Rosen",
       "screen_name" : "jayrosen_nyu",
       "indices" : [ 47, 60 ],
       "id_str" : "14834340",
@@ -6278,7 +6278,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jay Rosen ",
+      "name" : "Jay Rosen",
       "screen_name" : "jayrosen_nyu",
       "indices" : [ 28, 41 ],
       "id_str" : "14834340",
@@ -6548,6 +6548,28 @@ Grailbird.data.tweets_2009_06 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "2079366475",
+  "text" : "James Madison said \"philosophy is common sense with big words.\" What could be said about Twitter Boot Camp? http:\/\/tr.im\/nOvm",
+  "id" : 2079366475,
+  "created_at" : "2009-06-08 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "2080926637",
   "text" : "Yeesh, geek APIs are so much easier to play with than CC processing APIs. Seem to be better documented too, funny enough.",
   "id" : 2080926637,
@@ -6754,28 +6776,6 @@ Grailbird.data.tweets_2009_06 =
   "id_str" : "2077025666",
   "text" : "60 years ago today, Orwell's 1984 was published. 70 years ago today, Orwell \"weeded & hoed the French and runner beans.\" http:\/\/tr.im\/nMZA",
   "id" : 2077025666,
-  "created_at" : "2009-06-08 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2079366475",
-  "text" : "James Madison said \"philosophy is common sense with big words.\" What could be said about Twitter Boot Camp? http:\/\/tr.im\/nOvm",
-  "id" : 2079366475,
   "created_at" : "2009-06-08 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -7638,6 +7638,28 @@ Grailbird.data.tweets_2009_06 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "2024911869",
+  "text" : "\"Why NPR is the Future of Mainstream Media\" http:\/\/tr.im\/nmwZ",
+  "id" : 2024911869,
+  "created_at" : "2009-06-04 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "2031984488",
   "text" : "Apparently, thanks to \"Tweeters\", underdog Microsoft was able to crush Wolfram Alpha. http:\/\/tr.im\/nr9i",
   "id" : 2031984488,
@@ -7773,28 +7795,6 @@ Grailbird.data.tweets_2009_06 =
   "id_str" : "2024733774",
   "text" : "Google Squared has completely blown my mind after just two searches. I love it! http:\/\/tr.im\/nmt7",
   "id" : 2024733774,
-  "created_at" : "2009-06-04 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2024911869",
-  "text" : "\"Why NPR is the Future of Mainstream Media\" http:\/\/tr.im\/nmwZ",
-  "id" : 2024911869,
   "created_at" : "2009-06-04 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",

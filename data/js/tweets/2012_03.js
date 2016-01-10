@@ -1351,7 +1351,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Samuel Wood (Otto)",
+      "name" : "Otto (Samuel Wood)",
       "screen_name" : "Otto42",
       "indices" : [ 0, 7 ],
       "id_str" : "7016582",
@@ -1935,7 +1935,7 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "783214",
       "id" : 783214
     }, {
-      "name" : "Not Found",
+      "name" : "SATAN \/ ANTHONY",
       "screen_name" : "404",
       "indices" : [ 95, 99 ],
       "id_str" : "863873378",

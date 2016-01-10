@@ -981,7 +981,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chris Wetherell",
+      "name" : "insect puns bug me",
       "screen_name" : "cw",
       "indices" : [ 3, 6 ],
       "id_str" : "292",
@@ -1018,11 +1018,11 @@ Grailbird.data.tweets_2012_06 =
     "id" : 216975388587470848,
     "created_at" : "2012-06-24 19:25:38 +0000",
     "user" : {
-      "name" : "Chris Wetherell",
+      "name" : "insect puns bug me",
       "screen_name" : "cw",
       "protected" : false,
       "id_str" : "292",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/608984237241446401\/aW9n_PKT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/685910604058460160\/HDb17J0t_normal.jpg",
       "id" : 292,
       "verified" : false
     }
@@ -1211,7 +1211,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/529664614863101952\/yBQgCUMW_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/678402398981775361\/xeju7Lqg_normal.jpg",
       "id" : 36823,
       "verified" : true
     }
@@ -1243,7 +1243,7 @@ Grailbird.data.tweets_2012_06 =
       "id_str" : "199845847",
       "id" : 199845847
     }, {
-      "name" : "A$AP Andy Boyle",
+      "name" : "Happy Andy Boyle",
       "screen_name" : "andymboyle",
       "indices" : [ 51, 62 ],
       "id_str" : "17687524",
@@ -1266,7 +1266,7 @@ Grailbird.data.tweets_2012_06 =
         "id_str" : "199845847",
         "id" : 199845847
       }, {
-        "name" : "A$AP Andy Boyle",
+        "name" : "Happy Andy Boyle",
         "screen_name" : "andymboyle",
         "indices" : [ 36, 47 ],
         "id_str" : "17687524",
@@ -1709,7 +1709,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mark Jaquith ",
+      "name" : "Mark Jaquith",
       "screen_name" : "markjaquith",
       "indices" : [ 79, 91 ],
       "id_str" : "821042",
@@ -2049,7 +2049,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Inc. ",
+      "name" : "Inc.",
       "screen_name" : "Inc",
       "indices" : [ 11, 15 ],
       "id_str" : "16896485",
@@ -2154,7 +2154,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "wcpdx",
       "protected" : false,
       "id_str" : "15926367",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/339090161\/2009Logo-NoText_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/641394218791927808\/Q_7FIdRj_normal.jpg",
       "id" : 15926367,
       "verified" : false
     }
@@ -3072,7 +3072,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Samuel Wood (Otto)",
+      "name" : "Otto (Samuel Wood)",
       "screen_name" : "Otto42",
       "indices" : [ 0, 7 ],
       "id_str" : "7016582",
@@ -3305,7 +3305,7 @@ Grailbird.data.tweets_2012_06 =
       "id_str" : "36823",
       "id" : 36823
     }, {
-      "name" : "Rupert Murdoch ",
+      "name" : "Rupert Murdoch",
       "screen_name" : "rupertmurdoch",
       "indices" : [ 14, 28 ],
       "id_str" : "451586190",
@@ -3322,7 +3322,7 @@ Grailbird.data.tweets_2012_06 =
     "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Rupert Murdoch ",
+        "name" : "Rupert Murdoch",
         "screen_name" : "rupertmurdoch",
         "indices" : [ 0, 14 ],
         "id_str" : "451586190",
@@ -3350,7 +3350,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/529664614863101952\/yBQgCUMW_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/678402398981775361\/xeju7Lqg_normal.jpg",
       "id" : 36823,
       "verified" : true
     }
@@ -3552,7 +3552,7 @@ Grailbird.data.tweets_2012_06 =
       "id_str" : "21204689",
       "id" : 21204689
     }, {
-      "name" : "Samuel Wood (Otto)",
+      "name" : "Otto (Samuel Wood)",
       "screen_name" : "Otto42",
       "indices" : [ 25, 32 ],
       "id_str" : "7016582",
@@ -3646,7 +3646,7 @@ Grailbird.data.tweets_2012_06 =
       "id_str" : "16213079",
       "id" : 16213079
     }, {
-      "name" : "Keri Kae Nacin",
+      "name" : "Keri Kae Almstead",
       "screen_name" : "kerikaeindc",
       "indices" : [ 7, 19 ],
       "id_str" : "17083778",

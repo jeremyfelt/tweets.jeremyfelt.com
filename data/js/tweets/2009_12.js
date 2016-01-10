@@ -1049,6 +1049,28 @@ Grailbird.data.tweets_2009_12 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "6351388096",
+  "text" : "Anybody use phpMyAdmin in Google Chrome? Have been seeing weird frame shrinking issues since the beginning.",
+  "id" : 6351388096,
+  "created_at" : "2009-12-04 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "6322867648",
   "text" : "Just ran the DNS benchmark at home too. Same results, 4.2.2.x is fastest, OpenDNS (my current) is next, and Google right after.",
   "id" : 6322867648,
@@ -1302,28 +1324,6 @@ Grailbird.data.tweets_2009_12 =
   "id_str" : "6346127961",
   "text" : "June 29th, 1950 - The \"Miracle On Grass\" - http:\/\/tr.im\/GE9R",
   "id" : 6346127961,
-  "created_at" : "2009-12-04 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "6351388096",
-  "text" : "Anybody use phpMyAdmin in Google Chrome? Have been seeing weird frame shrinking issues since the beginning.",
-  "id" : 6351388096,
   "created_at" : "2009-12-04 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",

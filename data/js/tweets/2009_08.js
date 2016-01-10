@@ -688,6 +688,28 @@ Grailbird.data.tweets_2009_08 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "3426960575",
+  "text" : "Looks like a good handful of testers signed up at mystatuscloud.com - Awesome!",
+  "id" : 3426960575,
+  "created_at" : "2009-08-20 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "3428058758",
   "text" : "Would be cool if providers gave users control over the RSS elements they choose not to provide.",
   "id" : 3428058758,
@@ -801,28 +823,6 @@ Grailbird.data.tweets_2009_08 =
   "id_str" : "3421423488",
   "text" : "A Multi-User rssCloud Implementation [Educer] http:\/\/tr.im\/wJJ7",
   "id" : 3421423488,
-  "created_at" : "2009-08-20 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "3426960575",
-  "text" : "Looks like a good handful of testers signed up at mystatuscloud.com - Awesome!",
-  "id" : 3426960575,
   "created_at" : "2009-08-20 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -1726,6 +1726,28 @@ Grailbird.data.tweets_2009_08 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "3258173335",
+  "text" : "Brizzly does a wicked good job of embedding images and youtube on the fly.",
+  "id" : 3258173335,
+  "created_at" : "2009-08-12 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -1947,28 +1969,6 @@ Grailbird.data.tweets_2009_08 =
   "id_str" : "3258111744",
   "text" : "Giving @brizzly a shot. Slightly better UI than @twitter so far. Let's see what else it can do.",
   "id" : 3258111744,
-  "created_at" : "2009-08-12 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "3258173335",
-  "text" : "Brizzly does a wicked good job of embedding images and youtube on the fly.",
-  "id" : 3258173335,
   "created_at" : "2009-08-12 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",

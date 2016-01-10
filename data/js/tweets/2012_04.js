@@ -532,67 +532,6 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Justin Wiese",
-      "screen_name" : "NOFUNJUSTIN",
-      "indices" : [ 3, 15 ],
-      "id_str" : "21971978",
-      "id" : 21971978
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 52, 72 ],
-      "url" : "http:\/\/t.co\/Mv8gef75",
-      "expanded_url" : "http:\/\/twitpic.com\/9dar71",
-      "display_url" : "twitpic.com\/9dar71"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "194653417539506177",
-  "text" : "RT @NOFUNJUSTIN: Portland never ceases to amaze me. http:\/\/t.co\/Mv8gef75",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 35, 55 ],
-        "url" : "http:\/\/t.co\/Mv8gef75",
-        "expanded_url" : "http:\/\/twitpic.com\/9dar71",
-        "display_url" : "twitpic.com\/9dar71"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "194640466233401345",
-    "text" : "Portland never ceases to amaze me. http:\/\/t.co\/Mv8gef75",
-    "id" : 194640466233401345,
-    "created_at" : "2012-04-24 04:14:38 +0000",
-    "user" : {
-      "name" : "Justin Wiese",
-      "screen_name" : "NOFUNJUSTIN",
-      "protected" : false,
-      "id_str" : "21971978",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/447434602404003840\/lLUhWrs2_normal.jpeg",
-      "id" : 21971978,
-      "verified" : false
-    }
-  },
-  "id" : 194653417539506177,
-  "created_at" : "2012-04-24 05:06:05 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Mike Bijon",
       "screen_name" : "geekcode",
       "indices" : [ 3, 12 ],

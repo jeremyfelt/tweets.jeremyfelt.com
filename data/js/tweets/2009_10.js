@@ -439,7 +439,7 @@ Grailbird.data.tweets_2009_10 =
       "id_str" : "18431396",
       "id" : 18431396
     }, {
-      "name" : "kim",
+      "name" : "Kim",
       "screen_name" : "kim",
       "indices" : [ 30, 34 ],
       "id_str" : "17243913",
@@ -804,6 +804,28 @@ Grailbird.data.tweets_2009_10 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "5083980629",
+  "text" : "Nothing bad to say about this Epson 4490 photo scanner. Archiving has been a breeze so far. :)",
+  "id" : 5083980629,
+  "created_at" : "2009-10-23 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -843,28 +865,6 @@ Grailbird.data.tweets_2009_10 =
   "id_str" : "5098885793",
   "text" : "Awesome. I want one now! RT @dailyherald: Kane Co. may allow backyard windmills http:\/\/bit.ly\/qmMPc",
   "id" : 5098885793,
-  "created_at" : "2009-10-23 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "5083980629",
-  "text" : "Nothing bad to say about this Epson 4490 photo scanner. Archiving has been a breeze so far. :)",
-  "id" : 5083980629,
   "created_at" : "2009-10-23 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",

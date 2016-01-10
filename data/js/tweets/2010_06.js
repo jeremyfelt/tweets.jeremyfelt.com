@@ -314,6 +314,28 @@ Grailbird.data.tweets_2010_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17343006664",
+  "text" : "Turned on UAC in Vista to get access to the awesome Dropbox context menus. Now remembering why I turned UAC off. Prompt happy.",
+  "id" : 17343006664,
+  "created_at" : "2010-06-29 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "FIFA.com",
       "screen_name" : "FIFAcom",
@@ -519,28 +541,6 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "17336413030",
   "text" : "\"Accused Russian Spy a \"Practiced Deceiver\" http:\/\/bit.ly\/c8qQ9R And one with an impressive Linked In profile. http:\/\/bit.ly\/aUcxLC",
   "id" : 17336413030,
-  "created_at" : "2010-06-29 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17343006664",
-  "text" : "Turned on UAC in Vista to get access to the awesome Dropbox context menus. Now remembering why I turned UAC off. Prompt happy.",
-  "id" : 17343006664,
   "created_at" : "2010-06-29 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -801,7 +801,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick LaForge, NYT",
+      "name" : "Patrick LaForge NYT",
       "screen_name" : "palafo",
       "indices" : [ 3, 10 ],
       "id_str" : "2020351",
@@ -840,11 +840,11 @@ Grailbird.data.tweets_2010_06 =
     "id" : 17169239818,
     "created_at" : "2010-06-27 14:42:17 +0000",
     "user" : {
-      "name" : "Patrick LaForge, NYT",
+      "name" : "Patrick LaForge NYT",
       "screen_name" : "palafo",
       "protected" : false,
       "id_str" : "2020351",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/637733572615409664\/t10rPLH0_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/681245272077414400\/jiQ_xOJ__normal.jpg",
       "id" : 2020351,
       "verified" : true
     }
@@ -945,7 +945,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "steveray",
       "protected" : false,
       "id_str" : "887861",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/588108538825854977\/PKYWwkD0_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/647207961127817217\/VkXAgkn0_normal.jpg",
       "id" : 887861,
       "verified" : false
     }
@@ -1187,7 +1187,7 @@ Grailbird.data.tweets_2010_06 =
       "id_str" : "21237045",
       "id" : 21237045
     }, {
-      "name" : "JC Van Damme",
+      "name" : "JC VAN DAMME",
       "screen_name" : "JCVD",
       "indices" : [ 109, 114 ],
       "id_str" : "390216128",
@@ -1258,7 +1258,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "shellen",
       "protected" : false,
       "id_str" : "422",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/563212823962980353\/EEDscIja_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/667119738703646720\/ZL2LOLf7_normal.png",
       "id" : 422,
       "verified" : false
     }
@@ -1646,6 +1646,28 @@ Grailbird.data.tweets_2010_06 =
   "created_at" : "2010-06-25 00:00:00 +0000",
   "in_reply_to_screen_name" : "davewiner",
   "in_reply_to_user_id_str" : "3839",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "16895906869",
+  "text" : "Seriously cool. And. (1) There should be a donate option via in app purchase. (2) Bottle Rocket has great app abilities.",
+  "id" : 16895906869,
+  "created_at" : "2010-06-24 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2189,28 +2211,6 @@ Grailbird.data.tweets_2010_06 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "16895906869",
-  "text" : "Seriously cool. And. (1) There should be a donate option via in app purchase. (2) Bottle Rocket has great app abilities.",
-  "id" : 16895906869,
-  "created_at" : "2010-06-24 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "16821957176",
   "text" : "Spain to reopen access to prehistoric cave paintings http:\/\/bit.ly\/avgsnv",
   "id" : 16821957176,
@@ -2331,7 +2331,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "DougBernards",
       "protected" : false,
       "id_str" : "37241860",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/616117533305782272\/qr9v2Alx_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/664160782582616064\/9U8fvfzo_normal.jpg",
       "id" : 37241860,
       "verified" : false
     }
@@ -2590,7 +2590,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "acarvin",
       "protected" : false,
       "id_str" : "778057",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/555380281494884356\/B1_Vb4Ti_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/684003517200216064\/NJMKRdsp_normal.jpg",
       "id" : 778057,
       "verified" : true
     }
@@ -2944,7 +2944,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000705453175\/798b66aa97060b8c728771d5b0399aa1_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/664118709599002624\/dzNffUNM_normal.png",
       "id" : 3839,
       "verified" : true
     }
@@ -2995,7 +2995,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000705453175\/798b66aa97060b8c728771d5b0399aa1_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/664118709599002624\/dzNffUNM_normal.png",
       "id" : 3839,
       "verified" : true
     }
@@ -3168,7 +3168,7 @@ Grailbird.data.tweets_2010_06 =
       "id_str" : "3839",
       "id" : 3839
     }, {
-      "name" : "Jay Rosen ",
+      "name" : "Jay Rosen",
       "screen_name" : "jayrosen_nyu",
       "indices" : [ 76, 89 ],
       "id_str" : "14834340",
@@ -3224,7 +3224,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lisa K. ",
+      "name" : "Lisa K.",
       "screen_name" : "Awapy",
       "indices" : [ 3, 9 ],
       "id_str" : "5963772",
@@ -3257,11 +3257,11 @@ Grailbird.data.tweets_2010_06 =
     "id" : 16189340227,
     "created_at" : "2010-06-15 00:58:38 +0000",
     "user" : {
-      "name" : "Lisa K. ",
+      "name" : "Lisa K.",
       "screen_name" : "Awapy",
       "protected" : false,
       "id_str" : "5963772",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/456862137575411712\/4OzzuCys_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/641790463591219200\/LWf39d7k_normal.jpg",
       "id" : 5963772,
       "verified" : false
     }
@@ -3569,6 +3569,37 @@ Grailbird.data.tweets_2010_06 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Dave Winer",
+      "screen_name" : "davewiner",
+      "indices" : [ 0, 10 ],
+      "id_str" : "3839",
+      "id" : 3839
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "15870198671",
+  "in_reply_to_user_id" : 3839,
+  "text" : "@davewiner They have to remind you of your patience so that it doesn't run out. ;)",
+  "id" : 15870198671,
+  "created_at" : "2010-06-10 00:00:00 +0000",
+  "in_reply_to_screen_name" : "davewiner",
+  "in_reply_to_user_id_str" : "3839",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -3603,7 +3634,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "textfiles",
       "protected" : false,
       "id_str" : "1465481",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000611389472\/eabaeb13befe96decf6785d0aa4cbaa1_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/665625640251584516\/-4Tubhvj_normal.jpg",
       "id" : 1465481,
       "verified" : false
     }
@@ -3683,37 +3714,6 @@ Grailbird.data.tweets_2010_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Dave Winer",
-      "screen_name" : "davewiner",
-      "indices" : [ 0, 10 ],
-      "id_str" : "3839",
-      "id" : 3839
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "15870198671",
-  "in_reply_to_user_id" : 3839,
-  "text" : "@davewiner They have to remind you of your patience so that it doesn't run out. ;)",
-  "id" : 15870198671,
-  "created_at" : "2010-06-10 00:00:00 +0000",
-  "in_reply_to_screen_name" : "davewiner",
-  "in_reply_to_user_id_str" : "3839",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -3748,7 +3748,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "RodBegbie",
       "protected" : false,
       "id_str" : "761",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/585197313175326720\/SHQ6VvTm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/682383953135702016\/jCG-KIYs_normal.jpg",
       "id" : 761,
       "verified" : false
     }
@@ -4236,7 +4236,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lauren Fernandez",
+      "name" : "Lauren F. Meihls",
       "screen_name" : "cubanalaf",
       "indices" : [ 3, 13 ],
       "id_str" : "15377897",
@@ -4263,11 +4263,11 @@ Grailbird.data.tweets_2010_06 =
     "id" : 15671013559,
     "created_at" : "2010-06-08 01:28:49 +0000",
     "user" : {
-      "name" : "Lauren Fernandez",
+      "name" : "Lauren F. Meihls",
       "screen_name" : "cubanalaf",
       "protected" : false,
       "id_str" : "15377897",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/602271779265085440\/ugUNb72o_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/666080054288355330\/3WljioBK_normal.png",
       "id" : 15377897,
       "verified" : false
     }
@@ -4442,7 +4442,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000705453175\/798b66aa97060b8c728771d5b0399aa1_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/664118709599002624\/dzNffUNM_normal.png",
       "id" : 3839,
       "verified" : true
     }
@@ -4777,7 +4777,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "shellen",
       "protected" : false,
       "id_str" : "422",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/563212823962980353\/EEDscIja_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/667119738703646720\/ZL2LOLf7_normal.png",
       "id" : 422,
       "verified" : false
     }
@@ -4976,7 +4976,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000705453175\/798b66aa97060b8c728771d5b0399aa1_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/664118709599002624\/dzNffUNM_normal.png",
       "id" : 3839,
       "verified" : true
     }
@@ -5150,7 +5150,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/638202296392810503\/y3pNvBNH_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/678321508289142784\/CETndfNg_normal.jpg",
       "id" : 22872643,
       "verified" : true
     }
@@ -5312,6 +5312,87 @@ Grailbird.data.tweets_2010_06 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "BP Public Relations",
+      "screen_name" : "BPGlobalPR",
+      "indices" : [ 3, 14 ],
+      "id_str" : "179903443",
+      "id" : 179903443
+    }, {
+      "name" : "Sarah Palin",
+      "screen_name" : "SarahPalinUSA",
+      "indices" : [ 20, 34 ],
+      "id_str" : "65493023",
+      "id" : 65493023
+    }, {
+      "name" : "Terry",
+      "screen_name" : "bpTerry",
+      "indices" : [ 60, 68 ],
+      "id_str" : "147772188",
+      "id" : 147772188
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "gohome",
+      "indices" : [ 139, 140 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "15229902859",
+  "text" : "RT @BPGlobalPR: Hey @SarahPalinUSA you are not helping us.  @bpterry thought that ANWAR tweet was stupid and he laughs at his own farts. ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Sarah Palin",
+        "screen_name" : "SarahPalinUSA",
+        "indices" : [ 4, 18 ],
+        "id_str" : "65493023",
+        "id" : 65493023
+      }, {
+        "name" : "Terry",
+        "screen_name" : "bpTerry",
+        "indices" : [ 44, 52 ],
+        "id_str" : "147772188",
+        "id" : 147772188
+      } ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "gohome",
+        "indices" : [ 121, 128 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "15229148228",
+    "text" : "Hey @SarahPalinUSA you are not helping us.  @bpterry thought that ANWAR tweet was stupid and he laughs at his own farts. #gohome",
+    "id" : 15229148228,
+    "created_at" : "2010-06-02 04:40:24 +0000",
+    "user" : {
+      "name" : "TIFU PublicRelations",
+      "screen_name" : "TakeItFromUsPR",
+      "protected" : false,
+      "id_str" : "145753059",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/557290862254624768\/rLp4Nv18_normal.png",
+      "id" : 145753059,
+      "verified" : false
+    }
+  },
+  "id" : 15229902859,
+  "created_at" : "2010-06-02 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -5405,7 +5486,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "loic",
       "protected" : false,
       "id_str" : "740983",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/581367401670918144\/ACNqFV8Q_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/678768994354991104\/N98nXqy2_normal.jpg",
       "id" : 740983,
       "verified" : true
     }
@@ -5557,87 +5638,6 @@ Grailbird.data.tweets_2010_06 =
     }
   },
   "id" : 15229595817,
-  "created_at" : "2010-06-02 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "BP Public Relations",
-      "screen_name" : "BPGlobalPR",
-      "indices" : [ 3, 14 ],
-      "id_str" : "179903443",
-      "id" : 179903443
-    }, {
-      "name" : "Sarah Palin",
-      "screen_name" : "SarahPalinUSA",
-      "indices" : [ 20, 34 ],
-      "id_str" : "65493023",
-      "id" : 65493023
-    }, {
-      "name" : "Terry",
-      "screen_name" : "bpTerry",
-      "indices" : [ 60, 68 ],
-      "id_str" : "147772188",
-      "id" : 147772188
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "gohome",
-      "indices" : [ 139, 140 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "15229902859",
-  "text" : "RT @BPGlobalPR: Hey @SarahPalinUSA you are not helping us.  @bpterry thought that ANWAR tweet was stupid and he laughs at his own farts. ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Sarah Palin",
-        "screen_name" : "SarahPalinUSA",
-        "indices" : [ 4, 18 ],
-        "id_str" : "65493023",
-        "id" : 65493023
-      }, {
-        "name" : "Terry",
-        "screen_name" : "bpTerry",
-        "indices" : [ 44, 52 ],
-        "id_str" : "147772188",
-        "id" : 147772188
-      } ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "gohome",
-        "indices" : [ 121, 128 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "15229148228",
-    "text" : "Hey @SarahPalinUSA you are not helping us.  @bpterry thought that ANWAR tweet was stupid and he laughs at his own farts. #gohome",
-    "id" : 15229148228,
-    "created_at" : "2010-06-02 04:40:24 +0000",
-    "user" : {
-      "name" : "TIFU PublicRelations",
-      "screen_name" : "TakeItFromUsPR",
-      "protected" : false,
-      "id_str" : "145753059",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/557290862254624768\/rLp4Nv18_normal.png",
-      "id" : 145753059,
-      "verified" : false
-    }
-  },
-  "id" : 15229902859,
   "created_at" : "2010-06-02 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
