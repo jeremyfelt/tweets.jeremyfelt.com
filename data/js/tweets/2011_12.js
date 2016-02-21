@@ -25,12 +25,12 @@ Grailbird.data.tweets_2011_12 =
         "w" : 291
       }, {
         "h" : 110,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 110,
         "resize" : "fit",
         "w" : 291
+      }, {
+        "h" : 110,
+        "resize" : "crop",
+        "w" : 110
       } ],
       "display_url" : "pic.twitter.com\/iRdCOoLy"
     } ],
@@ -273,7 +273,7 @@ Grailbird.data.tweets_2011_12 =
         "resize" : "fit",
         "w" : 868
       }, {
-        "h" : 283,
+        "h" : 284,
         "resize" : "fit",
         "w" : 340
       } ],
@@ -820,13 +820,13 @@ Grailbird.data.tweets_2011_12 =
         "resize" : "fit",
         "w" : 478
       }, {
+        "h" : 154,
+        "resize" : "fit",
+        "w" : 340
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
-      }, {
-        "h" : 153,
-        "resize" : "fit",
-        "w" : 340
       } ],
       "display_url" : "pic.twitter.com\/L06kXuNf"
     } ],
@@ -1995,13 +1995,13 @@ Grailbird.data.tweets_2011_12 =
       "id" : 146352850178551808,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AgfzJE7CMAA1Xcu.jpg",
       "sizes" : [ {
-        "h" : 56,
-        "resize" : "fit",
-        "w" : 340
-      }, {
         "h" : 110,
         "resize" : "crop",
-        "w" : 150
+        "w" : 110
+      }, {
+        "h" : 57,
+        "resize" : "fit",
+        "w" : 340
       }, {
         "h" : 100,
         "resize" : "fit",

@@ -343,7 +343,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "acarvin",
       "protected" : false,
       "id_str" : "778057",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/684003517200216064\/NJMKRdsp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/692889823846146052\/we5MYRM9_normal.jpg",
       "id" : 778057,
       "verified" : true
     }
@@ -596,7 +596,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Terenzio",
+      "name" : "\u26A1\uFE0F Matt Terenzio",
       "screen_name" : "mterenzio",
       "indices" : [ 0, 10 ],
       "id_str" : "820002",

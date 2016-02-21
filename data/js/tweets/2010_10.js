@@ -258,7 +258,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "shellen",
       "protected" : false,
       "id_str" : "422",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/667119738703646720\/ZL2LOLf7_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/700580562809925632\/OtMUGe93_normal.jpg",
       "id" : 422,
       "verified" : false
     }
@@ -1810,7 +1810,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "iaindodsworth",
       "protected" : false,
       "id_str" : "14148963",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/676167384915423232\/PYBROC7b_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/687652694547378176\/TCIqYV1L_normal.jpg",
       "id" : 14148963,
       "verified" : false
     }
@@ -3722,7 +3722,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "824157",
       "id" : 824157
     }, {
-      "name" : "JJ (via VPN)",
+      "name" : "JJ",
       "screen_name" : "jasonjordan",
       "indices" : [ 16, 28 ],
       "id_str" : "18114168",
@@ -3739,7 +3739,7 @@ Grailbird.data.tweets_2010_10 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "JJ (via VPN)",
+        "name" : "JJ",
         "screen_name" : "jasonjordan",
         "indices" : [ 3, 15 ],
         "id_str" : "18114168",
@@ -4317,7 +4317,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Terenzio",
+      "name" : "\u26A1\uFE0F Matt Terenzio",
       "screen_name" : "mterenzio",
       "indices" : [ 0, 10 ],
       "id_str" : "820002",
@@ -4993,7 +4993,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "dickc",
       "protected" : false,
       "id_str" : "6385432",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000652285709\/060bd6527bd63a4e3f241c954edd0e6f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/694413957868625920\/PZNI3yPX_normal.jpg",
       "id" : 6385432,
       "verified" : true
     }

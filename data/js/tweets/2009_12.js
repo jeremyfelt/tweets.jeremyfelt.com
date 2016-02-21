@@ -1435,7 +1435,7 @@ Grailbird.data.tweets_2009_12 =
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/513088789585993728\/s1DnFxP6_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/697959498711830528\/glceGyFI_normal.png",
       "id" : 18713,
       "verified" : false
     }

@@ -264,7 +264,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Paul",
+      "name" : "Paul de Wouters",
       "screen_name" : "paul_wp",
       "indices" : [ 0, 8 ],
       "id_str" : "15728818",
@@ -1863,7 +1863,7 @@ Grailbird.data.tweets_2013_09 =
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 291,
+        "h" : 292,
         "resize" : "fit",
         "w" : 340
       } ],
@@ -1907,7 +1907,7 @@ Grailbird.data.tweets_2013_09 =
           "resize" : "crop",
           "w" : 150
         }, {
-          "h" : 291,
+          "h" : 292,
           "resize" : "fit",
           "w" : 340
         } ],
@@ -2056,13 +2056,13 @@ Grailbird.data.tweets_2013_09 =
         "resize" : "fit",
         "w" : 640
       }, {
+        "h" : 604,
+        "resize" : "fit",
+        "w" : 340
+      }, {
         "h" : 1065,
         "resize" : "fit",
         "w" : 600
-      }, {
-        "h" : 603,
-        "resize" : "fit",
-        "w" : 340
       }, {
         "h" : 1136,
         "resize" : "fit",
@@ -4067,7 +4067,7 @@ Grailbird.data.tweets_2013_09 =
     "id" : 380855255472164864,
     "created_at" : "2013-09-20 00:45:43 +0000",
     "user" : {
-      "name" : "Angelina Fabbro",
+      "name" : "Ghost in the Machine",
       "screen_name" : "hopefulcyborg",
       "protected" : false,
       "id_str" : "58708498",
@@ -4404,17 +4404,17 @@ Grailbird.data.tweets_2013_09 =
         "resize" : "fit",
         "w" : 600
       }, {
-        "h" : 603,
+        "h" : 1136,
+        "resize" : "fit",
+        "w" : 640
+      }, {
+        "h" : 1136,
+        "resize" : "fit",
+        "w" : 640
+      }, {
+        "h" : 604,
         "resize" : "fit",
         "w" : 340
-      }, {
-        "h" : 1136,
-        "resize" : "fit",
-        "w" : 640
-      }, {
-        "h" : 1136,
-        "resize" : "fit",
-        "w" : 640
       } ],
       "display_url" : "pic.twitter.com\/SeJ9EUmhWs"
     } ],
@@ -6857,7 +6857,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/513088789585993728\/s1DnFxP6_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/697959498711830528\/glceGyFI_normal.png",
       "id" : 18713,
       "verified" : false
     }
@@ -7350,13 +7350,13 @@ Grailbird.data.tweets_2013_09 =
       "id" : 377648448390299649,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BT2tQ1BIAAEr2Z1.jpg",
       "sizes" : [ {
-        "h" : 339,
-        "resize" : "fit",
-        "w" : 340
-      }, {
         "h" : 599,
         "resize" : "fit",
         "w" : 600
+      }, {
+        "h" : 340,
+        "resize" : "fit",
+        "w" : 340
       }, {
         "h" : 150,
         "resize" : "crop",
@@ -7611,6 +7611,10 @@ Grailbird.data.tweets_2013_09 =
       "id" : 377483408047230976,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BT0XKN1CUAArIgd.png",
       "sizes" : [ {
+        "h" : 354,
+        "resize" : "fit",
+        "w" : 600
+      }, {
         "h" : 603,
         "resize" : "fit",
         "w" : 1024
@@ -7618,10 +7622,6 @@ Grailbird.data.tweets_2013_09 =
         "h" : 150,
         "resize" : "crop",
         "w" : 150
-      }, {
-        "h" : 353,
-        "resize" : "fit",
-        "w" : 600
       }, {
         "h" : 200,
         "resize" : "fit",
@@ -7661,6 +7661,10 @@ Grailbird.data.tweets_2013_09 =
         "id" : 377483408047230976,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BT0XKN1CUAArIgd.png",
         "sizes" : [ {
+          "h" : 354,
+          "resize" : "fit",
+          "w" : 600
+        }, {
           "h" : 603,
           "resize" : "fit",
           "w" : 1024
@@ -7668,10 +7672,6 @@ Grailbird.data.tweets_2013_09 =
           "h" : 150,
           "resize" : "crop",
           "w" : 150
-        }, {
-          "h" : 353,
-          "resize" : "fit",
-          "w" : 600
         }, {
           "h" : 200,
           "resize" : "fit",
@@ -8042,7 +8042,7 @@ Grailbird.data.tweets_2013_09 =
         "resize" : "fit",
         "w" : 340
       }, {
-        "h" : 600,
+        "h" : 601,
         "resize" : "fit",
         "w" : 600
       }, {

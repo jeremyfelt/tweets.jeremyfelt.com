@@ -665,7 +665,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "derekwillis",
       "protected" : false,
       "id_str" : "14517538",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/628381819705012224\/taaqyVQA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/687703455998316544\/GDZrZF0D_normal.jpg",
       "id" : 14517538,
       "verified" : true
     }
@@ -981,7 +981,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "insect puns bug me",
+      "name" : "hello whirled",
       "screen_name" : "cw",
       "indices" : [ 3, 6 ],
       "id_str" : "292",
@@ -1018,11 +1018,11 @@ Grailbird.data.tweets_2012_06 =
     "id" : 216975388587470848,
     "created_at" : "2012-06-24 19:25:38 +0000",
     "user" : {
-      "name" : "insect puns bug me",
+      "name" : "hello whirled",
       "screen_name" : "cw",
       "protected" : false,
       "id_str" : "292",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/685910604058460160\/HDb17J0t_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/692432164164513792\/CQJskn1Q_normal.jpg",
       "id" : 292,
       "verified" : false
     }

@@ -822,7 +822,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "michellefelt",
       "protected" : false,
       "id_str" : "32924315",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/646902525224861696\/nNSLB-g8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/700529370964725762\/5heR8xyd_normal.jpg",
       "id" : 32924315,
       "verified" : false
     }
@@ -2825,7 +2825,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "LaurenMAlbrecht",
       "protected" : false,
       "id_str" : "15333584",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/674120171015958528\/f1vVk8Td_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/694189516584833024\/kLEAk3H5_normal.jpg",
       "id" : 15333584,
       "verified" : false
     }
@@ -5289,7 +5289,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "21204689",
       "id" : 21204689
     }, {
-      "name" : "Nate Dougg",
+      "name" : "Dougtor Zhivago",
       "screen_name" : "zamoose",
       "indices" : [ 24, 32 ],
       "id_str" : "819148",

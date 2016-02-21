@@ -144,7 +144,7 @@ Grailbird.data.tweets_2013_06 =
         "resize" : "fit",
         "w" : 403
       }, {
-        "h" : 254,
+        "h" : 255,
         "resize" : "fit",
         "w" : 340
       }, {
@@ -194,7 +194,7 @@ Grailbird.data.tweets_2013_06 =
           "resize" : "fit",
           "w" : 403
         }, {
-          "h" : 254,
+          "h" : 255,
           "resize" : "fit",
           "w" : 340
         }, {
@@ -861,7 +861,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "mikerapin",
       "protected" : false,
       "id_str" : "1144581",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/679497244735848448\/0Ys_OllH_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/699819865541054465\/Vgc09tz4_normal.jpg",
       "id" : 1144581,
       "verified" : false
     }
@@ -1265,19 +1265,19 @@ Grailbird.data.tweets_2013_06 =
         "resize" : "fit",
         "w" : 2048
       }, {
-        "h" : 127,
-        "resize" : "fit",
-        "w" : 340
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 385,
+        "h" : 386,
         "resize" : "fit",
         "w" : 1024
       }, {
-        "h" : 225,
+        "h" : 128,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 226,
         "resize" : "fit",
         "w" : 600
       } ],
@@ -2098,7 +2098,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "rami abraham",
+      "name" : "Ramby Abnerham",
       "screen_name" : "ramiabraham",
       "indices" : [ 3, 15 ],
       "id_str" : "45810221",
@@ -2166,11 +2166,11 @@ Grailbird.data.tweets_2013_06 =
     "in_reply_to_screen_name" : "WordCampChicago",
     "in_reply_to_user_id_str" : "16584183",
     "user" : {
-      "name" : "rami abraham",
+      "name" : "Ramby Abnerham",
       "screen_name" : "ramiabraham",
       "protected" : false,
       "id_str" : "45810221",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/677813715564015616\/3NDrapya_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/691297149900853248\/rWOxlBd4_normal.jpg",
       "id" : 45810221,
       "verified" : false
     }
@@ -3637,13 +3637,13 @@ Grailbird.data.tweets_2013_06 =
         "resize" : "fit",
         "w" : 573
       }, {
-        "h" : 455,
-        "resize" : "fit",
-        "w" : 340
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
+      }, {
+        "h" : 456,
+        "resize" : "fit",
+        "w" : 340
       }, {
         "h" : 768,
         "resize" : "fit",
@@ -3678,13 +3678,13 @@ Grailbird.data.tweets_2013_06 =
           "resize" : "fit",
           "w" : 573
         }, {
-          "h" : 455,
-          "resize" : "fit",
-          "w" : 340
-        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
+        }, {
+          "h" : 456,
+          "resize" : "fit",
+          "w" : 340
         }, {
           "h" : 768,
           "resize" : "fit",
@@ -4712,7 +4712,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/627691711418998784\/8Q8FCD1J_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/691655301523726336\/POdI7Zr5_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }
@@ -6724,7 +6724,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/627691711418998784\/8Q8FCD1J_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/691655301523726336\/POdI7Zr5_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }
@@ -7047,7 +7047,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "markjaquith",
       "protected" : false,
       "id_str" : "821042",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/612364438126096384\/zDSDGbh3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/695981502132285441\/ngdJpZBM_normal.jpg",
       "id" : 821042,
       "verified" : false
     }
@@ -9263,17 +9263,17 @@ Grailbird.data.tweets_2013_06 =
         "resize" : "fit",
         "w" : 600
       }, {
-        "h" : 603,
+        "h" : 1136,
+        "resize" : "fit",
+        "w" : 640
+      }, {
+        "h" : 1136,
+        "resize" : "fit",
+        "w" : 640
+      }, {
+        "h" : 604,
         "resize" : "fit",
         "w" : 340
-      }, {
-        "h" : 1136,
-        "resize" : "fit",
-        "w" : 640
-      }, {
-        "h" : 1136,
-        "resize" : "fit",
-        "w" : 640
       } ],
       "display_url" : "pic.twitter.com\/zGbcvSVqtg"
     } ],
@@ -9522,7 +9522,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "necolas",
       "protected" : false,
       "id_str" : "24974216",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/685844295203463168\/BRQXb1xJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/692200947016138759\/L8rBtUHY_normal.jpg",
       "id" : 24974216,
       "verified" : false
     }
@@ -12328,7 +12328,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Richard Esguerra",
+      "name" : "Richard Esguerra \uFE0E",
       "screen_name" : "qubitsu",
       "indices" : [ 3, 11 ],
       "id_str" : "6124282",
@@ -12365,7 +12365,7 @@ Grailbird.data.tweets_2013_06 =
     "id" : 341722116628033539,
     "created_at" : "2013-06-04 01:04:36 +0000",
     "user" : {
-      "name" : "Richard Esguerra",
+      "name" : "Richard Esguerra \uFE0E",
       "screen_name" : "qubitsu",
       "protected" : false,
       "id_str" : "6124282",

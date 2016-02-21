@@ -360,13 +360,13 @@ Grailbird.data.tweets_2012_01 =
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 534,
-        "resize" : "fit",
-        "w" : 600
-      }, {
         "h" : 303,
         "resize" : "fit",
         "w" : 340
+      }, {
+        "h" : 535,
+        "resize" : "fit",
+        "w" : 600
       }, {
         "h" : 798,
         "resize" : "fit",
@@ -1549,7 +1549,7 @@ Grailbird.data.tweets_2012_01 =
       }, {
         "h" : 680,
         "resize" : "fit",
-        "w" : 295
+        "w" : 296
       } ],
       "display_url" : "pic.twitter.com\/U86DluLv"
     } ],
@@ -2551,14 +2551,6 @@ Grailbird.data.tweets_2012_01 =
       "id" : 156933068987432962,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Ai2Jy3aCAAIOloR.png",
       "sizes" : [ {
-        "h" : 66,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 134,
-        "resize" : "crop",
-        "w" : 150
-      }, {
         "h" : 134,
         "resize" : "fit",
         "w" : 685
@@ -2570,6 +2562,14 @@ Grailbird.data.tweets_2012_01 =
         "h" : 134,
         "resize" : "fit",
         "w" : 685
+      }, {
+        "h" : 134,
+        "resize" : "crop",
+        "w" : 134
+      }, {
+        "h" : 67,
+        "resize" : "fit",
+        "w" : 340
       } ],
       "display_url" : "pic.twitter.com\/PNJTLGGQ"
     } ],
@@ -3100,7 +3100,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "craigmod",
       "protected" : false,
       "id_str" : "1835951",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/543307852870217729\/vrM-6ys5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/687466158631424000\/QefMisqI_normal.png",
       "id" : 1835951,
       "verified" : false
     }
@@ -3537,12 +3537,12 @@ Grailbird.data.tweets_2012_01 =
         "w" : 340
       }, {
         "h" : 131,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 131,
         "resize" : "fit",
         "w" : 534
+      }, {
+        "h" : 131,
+        "resize" : "crop",
+        "w" : 131
       }, {
         "h" : 131,
         "resize" : "fit",

@@ -1891,11 +1891,11 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "807095",
       "id" : 807095
     }, {
-      "name" : "Paul Krugman",
-      "screen_name" : "NYTimeskrugman",
+      "name" : "P. Krugman",
+      "screen_name" : "nytimeskrugman",
       "indices" : [ 25, 40 ],
-      "id_str" : "17006157",
-      "id" : 17006157
+      "id_str" : "4886807543",
+      "id" : 4886807543
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1935,7 +1935,7 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "783214",
       "id" : 783214
     }, {
-      "name" : "SATAN \/ ANTHONY",
+      "name" : "satN",
       "screen_name" : "404",
       "indices" : [ 95, 99 ],
       "id_str" : "863873378",

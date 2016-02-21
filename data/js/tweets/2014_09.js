@@ -1082,7 +1082,7 @@ Grailbird.data.tweets_2014_09 =
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 604,
+        "h" : 605,
         "resize" : "fit",
         "w" : 340
       } ],
@@ -1129,7 +1129,7 @@ Grailbird.data.tweets_2014_09 =
           "resize" : "crop",
           "w" : 150
         }, {
-          "h" : 604,
+          "h" : 605,
           "resize" : "fit",
           "w" : 340
         } ],
@@ -2333,7 +2333,7 @@ Grailbird.data.tweets_2014_09 =
       "id_str" : "7016582",
       "id" : 7016582
     }, {
-      "name" : "Nate Dougg",
+      "name" : "Dougtor Zhivago",
       "screen_name" : "zamoose",
       "indices" : [ 12, 20 ],
       "id_str" : "819148",
@@ -2361,7 +2361,7 @@ Grailbird.data.tweets_2014_09 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Nate Dougg",
+        "name" : "Dougtor Zhivago",
         "screen_name" : "zamoose",
         "indices" : [ 0, 8 ],
         "id_str" : "819148",
@@ -2677,7 +2677,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "edial",
       "protected" : false,
       "id_str" : "13068822",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/460073075547971584\/2D75jRfa_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698951774837809153\/2lqFHY1m_normal.jpg",
       "id" : 13068822,
       "verified" : false
     }
@@ -3430,7 +3430,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "jennschiffer",
       "protected" : false,
       "id_str" : "12524622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/685908051694600196\/-Di0wbyG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/701095059802955776\/hMA3B3BQ_normal.jpg",
       "id" : 12524622,
       "verified" : false
     }
@@ -3475,7 +3475,7 @@ Grailbird.data.tweets_2014_09 =
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 604,
+        "h" : 605,
         "resize" : "fit",
         "w" : 340
       } ],
@@ -3631,7 +3631,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "fmanjoo",
       "protected" : false,
       "id_str" : "2195241",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/591787798379831296\/wqE8MJ4m_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/687466703551201280\/QLH5uNuq_normal.jpg",
       "id" : 2195241,
       "verified" : true
     }
@@ -4060,7 +4060,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nate Dougg",
+      "name" : "Dougtor Zhivago",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -4644,7 +4644,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nate Dougg",
+      "name" : "Dougtor Zhivago",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -4749,7 +4749,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nate Dougg",
+      "name" : "Dougtor Zhivago",
       "screen_name" : "zamoose",
       "indices" : [ 31, 39 ],
       "id_str" : "819148",
@@ -4778,7 +4778,7 @@ Grailbird.data.tweets_2014_09 =
       }, {
         "h" : 126,
         "resize" : "crop",
-        "w" : 150
+        "w" : 126
       }, {
         "h" : 126,
         "resize" : "fit",
@@ -5401,13 +5401,13 @@ Grailbird.data.tweets_2014_09 =
         "resize" : "fit",
         "w" : 640
       }, {
+        "h" : 604,
+        "resize" : "fit",
+        "w" : 340
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
-      }, {
-        "h" : 603,
-        "resize" : "fit",
-        "w" : 340
       }, {
         "h" : 1136,
         "resize" : "fit",
@@ -5744,7 +5744,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "shellen",
       "protected" : false,
       "id_str" : "422",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/667119738703646720\/ZL2LOLf7_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/700580562809925632\/OtMUGe93_normal.jpg",
       "id" : 422,
       "verified" : false
     }
@@ -5783,6 +5783,10 @@ Grailbird.data.tweets_2014_09 =
         "resize" : "fit",
         "w" : 340
       }, {
+        "h" : 322,
+        "resize" : "fit",
+        "w" : 600
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -5790,10 +5794,6 @@ Grailbird.data.tweets_2014_09 =
         "h" : 500,
         "resize" : "fit",
         "w" : 933
-      }, {
-        "h" : 321,
-        "resize" : "fit",
-        "w" : 600
       }, {
         "h" : 500,
         "resize" : "fit",
@@ -5824,6 +5824,10 @@ Grailbird.data.tweets_2014_09 =
           "resize" : "fit",
           "w" : 340
         }, {
+          "h" : 322,
+          "resize" : "fit",
+          "w" : 600
+        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
@@ -5831,10 +5835,6 @@ Grailbird.data.tweets_2014_09 =
           "h" : 500,
           "resize" : "fit",
           "w" : 933
-        }, {
-          "h" : 321,
-          "resize" : "fit",
-          "w" : 600
         }, {
           "h" : 500,
           "resize" : "fit",
@@ -5855,7 +5855,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "DennysDiner",
       "protected" : false,
       "id_str" : "23112346",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/685115324090339329\/jlfQXcRP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/688020404754116608\/9YXpqrso_normal.jpg",
       "id" : 23112346,
       "verified" : true
     }
@@ -5938,7 +5938,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "mattoperry",
       "protected" : false,
       "id_str" : "15485308",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/463807011356831745\/aJD98-yP_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/699842600522481664\/5sfM_Bpw_normal.jpg",
       "id" : 15485308,
       "verified" : false
     }
@@ -5981,7 +5981,7 @@ Grailbird.data.tweets_2014_09 =
         "resize" : "fit",
         "w" : 466
       }, {
-        "h" : 305,
+        "h" : 306,
         "resize" : "fit",
         "w" : 340
       }, {
@@ -6027,7 +6027,7 @@ Grailbird.data.tweets_2014_09 =
           "resize" : "fit",
           "w" : 466
         }, {
-          "h" : 305,
+          "h" : 306,
           "resize" : "fit",
           "w" : 340
         }, {
@@ -6222,7 +6222,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nate Dougg",
+      "name" : "Dougtor Zhivago",
       "screen_name" : "zamoose",
       "indices" : [ 12, 20 ],
       "id_str" : "819148",
@@ -6732,7 +6732,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "wonderboymusic",
       "protected" : false,
       "id_str" : "15473031",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614142630520320000\/4aLsu87u_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/696037338720444416\/Yf6EVA_s_normal.jpg",
       "id" : 15473031,
       "verified" : false
     }
@@ -7109,7 +7109,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/627691711418998784\/8Q8FCD1J_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/691655301523726336\/POdI7Zr5_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }

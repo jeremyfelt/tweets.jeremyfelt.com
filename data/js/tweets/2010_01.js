@@ -1297,7 +1297,7 @@ Grailbird.data.tweets_2010_01 =
       "screen_name" : "craignewman",
       "protected" : false,
       "id_str" : "13028322",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/632398231658434560\/X852FtIy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/691823220564086785\/NqfaCJZ8_normal.jpg",
       "id" : 13028322,
       "verified" : true
     }
@@ -1383,7 +1383,7 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Terenzio",
+      "name" : "\u26A1\uFE0F Matt Terenzio",
       "screen_name" : "mterenzio",
       "indices" : [ 3, 13 ],
       "id_str" : "820002",
@@ -1410,11 +1410,11 @@ Grailbird.data.tweets_2010_01 =
     "id" : 7831819815,
     "created_at" : "2010-01-16 16:55:04 +0000",
     "user" : {
-      "name" : "Matt Terenzio",
+      "name" : "\u26A1\uFE0F Matt Terenzio",
       "screen_name" : "mterenzio",
       "protected" : false,
       "id_str" : "820002",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/677588098738294784\/sDMY-AGw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/690327994322284545\/6y0ORK8Y_normal.jpg",
       "id" : 820002,
       "verified" : false
     }
@@ -1708,6 +1708,12 @@ Grailbird.data.tweets_2010_01 =
       "indices" : [ 3, 15 ],
       "id_str" : "2220181",
       "id" : 2220181
+    }, {
+      "name" : "grandjean",
+      "screen_name" : "grosdim",
+      "indices" : [ 20, 28 ],
+      "id_str" : "4858675469",
+      "id" : 4858675469
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1719,7 +1725,13 @@ Grailbird.data.tweets_2010_01 =
   "retweeted_status" : {
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
-      "user_mentions" : [ ],
+      "user_mentions" : [ {
+        "name" : "grandjean",
+        "screen_name" : "grosdim",
+        "indices" : [ 3, 11 ],
+        "id_str" : "4858675469",
+        "id" : 4858675469
+      } ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]

@@ -611,7 +611,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Terenzio",
+      "name" : "\u26A1\uFE0F Matt Terenzio",
       "screen_name" : "mterenzio",
       "indices" : [ 0, 10 ],
       "id_str" : "820002",
@@ -649,7 +649,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "so much writing",
+      "name" : "deleuzian jargon",
       "screen_name" : "steveklabnik",
       "indices" : [ 3, 16 ],
       "id_str" : "22386062",
@@ -698,11 +698,11 @@ Grailbird.data.tweets_2011_11 =
     "id" : 138698219755536385,
     "created_at" : "2011-11-21 19:20:07 +0000",
     "user" : {
-      "name" : "so much writing",
+      "name" : "deleuzian jargon",
       "screen_name" : "steveklabnik",
       "protected" : false,
       "id_str" : "22386062",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/627997258978496512\/IqOkq8Dl_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/695300835295764480\/BFJ0RTYE_normal.png",
       "id" : 22386062,
       "verified" : false
     }
@@ -1162,7 +1162,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Terenzio",
+      "name" : "\u26A1\uFE0F Matt Terenzio",
       "screen_name" : "mterenzio",
       "indices" : [ 41, 51 ],
       "id_str" : "820002",
@@ -1889,7 +1889,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/678321508289142784\/CETndfNg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/700793073006030849\/FAVWdFQT_normal.jpg",
       "id" : 22872643,
       "verified" : true
     }
@@ -2475,7 +2475,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "michellefelt",
       "protected" : false,
       "id_str" : "32924315",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/646902525224861696\/nNSLB-g8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/700529370964725762\/5heR8xyd_normal.jpg",
       "id" : 32924315,
       "verified" : false
     }
@@ -2714,6 +2714,10 @@ Grailbird.data.tweets_2011_11 =
       "id" : 133679647480229889,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Adrs7l3CMAEtk4i.jpg",
       "sizes" : [ {
+        "h" : 422,
+        "resize" : "fit",
+        "w" : 600
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -2725,10 +2729,6 @@ Grailbird.data.tweets_2011_11 =
         "h" : 239,
         "resize" : "fit",
         "w" : 340
-      }, {
-        "h" : 421,
-        "resize" : "fit",
-        "w" : 600
       }, {
         "h" : 448,
         "resize" : "fit",
@@ -2832,21 +2832,21 @@ Grailbird.data.tweets_2011_11 =
       "id" : 133610709899685888,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AdquO5XCMAAS-_b.jpg",
       "sizes" : [ {
-        "h" : 209,
+        "h" : 370,
         "resize" : "fit",
-        "w" : 340
+        "w" : 600
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 369,
-        "resize" : "fit",
-        "w" : 600
-      }, {
         "h" : 397,
         "resize" : "fit",
         "w" : 644
+      }, {
+        "h" : 210,
+        "resize" : "fit",
+        "w" : 340
       }, {
         "h" : 397,
         "resize" : "fit",

@@ -1789,7 +1789,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "wes, sexts.",
+      "name" : "HARGOW, a punk.",
       "screen_name" : "weskoop",
       "indices" : [ 0, 8 ],
       "id_str" : "12424882",
@@ -2180,7 +2180,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "wes, sexts.",
+      "name" : "HARGOW, a punk.",
       "screen_name" : "weskoop",
       "indices" : [ 0, 8 ],
       "id_str" : "12424882",
@@ -2812,7 +2812,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "andymboyle",
       "protected" : false,
       "id_str" : "17687524",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/590591356294328321\/sXoKIh98_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/693159931898277888\/xO6gNuve_normal.jpg",
       "id" : 17687524,
       "verified" : false
     }
@@ -4032,7 +4032,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/513088789585993728\/s1DnFxP6_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/697959498711830528\/glceGyFI_normal.png",
       "id" : 18713,
       "verified" : false
     }
@@ -5731,7 +5731,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Paul",
+      "name" : "Paul de Wouters",
       "screen_name" : "paul_wp",
       "indices" : [ 10, 18 ],
       "id_str" : "15728818",
@@ -5785,7 +5785,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Paul",
+      "name" : "Paul de Wouters",
       "screen_name" : "paul_wp",
       "indices" : [ 0, 8 ],
       "id_str" : "15728818",
@@ -11897,7 +11897,7 @@ Grailbird.data.tweets_2013_08 =
       "id_str" : "19715003",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/619299747954860032\/VOT1jice_normal.jpg",
       "id" : 19715003,
-      "verified" : true
+      "verified" : false
     }
   },
   "id" : 365322805505556480,
@@ -12239,7 +12239,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "Oregonian",
       "protected" : false,
       "id_str" : "2992751",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662043669285830656\/_DYnWJDG_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/687386702915096576\/1li8q0y9_normal.jpg",
       "id" : 2992751,
       "verified" : true
     }
@@ -13811,7 +13811,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/627691711418998784\/8Q8FCD1J_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/691655301523726336\/POdI7Zr5_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }

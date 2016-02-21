@@ -2823,7 +2823,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "Harpers",
       "protected" : false,
       "id_str" : "14287094",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/675050970888445952\/Yn01AYW1_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/697862802673762304\/YA9TxsYU_normal.png",
       "id" : 14287094,
       "verified" : false
     }
@@ -3112,10 +3112,6 @@ Grailbird.data.tweets_2011_08 =
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 152,
-        "resize" : "fit",
-        "w" : 340
-      }, {
         "h" : 269,
         "resize" : "fit",
         "w" : 600
@@ -3123,6 +3119,10 @@ Grailbird.data.tweets_2011_08 =
         "h" : 299,
         "resize" : "fit",
         "w" : 666
+      }, {
+        "h" : 153,
+        "resize" : "fit",
+        "w" : 340
       } ],
       "display_url" : "pic.twitter.com\/y9J55oX"
     } ],
@@ -3323,7 +3323,7 @@ Grailbird.data.tweets_2011_08 =
         "resize" : "fit",
         "w" : 640
       }, {
-        "h" : 389,
+        "h" : 390,
         "resize" : "fit",
         "w" : 340
       }, {
@@ -3358,10 +3358,10 @@ Grailbird.data.tweets_2011_08 =
       "expanded_url" : "http:\/\/twitter.com\/jeremyfelt\/status\/102174523608150018\/photo\/1",
       "indices" : [ 16, 35 ],
       "url" : "http:\/\/t.co\/jyTO7zz",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/AWr_MBkCMAANF3W.gif",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/AWr_MBkCMAANF3W.png",
       "id_str" : "102174523612344320",
       "id" : 102174523612344320,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AWr_MBkCMAANF3W.gif",
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AWr_MBkCMAANF3W.png",
       "sizes" : [ {
         "h" : 156,
         "resize" : "fit",
@@ -3371,17 +3371,17 @@ Grailbird.data.tweets_2011_08 =
         "resize" : "fit",
         "w" : 468
       }, {
-        "h" : 113,
-        "resize" : "fit",
-        "w" : 340
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
       }, {
         "h" : 156,
         "resize" : "fit",
         "w" : 468
       }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
+        "h" : 113,
+        "resize" : "fit",
+        "w" : 340
       } ],
       "display_url" : "pic.twitter.com\/jyTO7zz"
     } ],
@@ -4085,7 +4085,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "MLB",
       "protected" : false,
       "id_str" : "18479513",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/661079712496820224\/nvdjMJqc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/700721867670233088\/5t4HZJ6Y_normal.jpg",
       "id" : 18479513,
       "verified" : true
     }
@@ -4401,7 +4401,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "Harpers",
       "protected" : false,
       "id_str" : "14287094",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/675050970888445952\/Yn01AYW1_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/697862802673762304\/YA9TxsYU_normal.png",
       "id" : 14287094,
       "verified" : false
     }

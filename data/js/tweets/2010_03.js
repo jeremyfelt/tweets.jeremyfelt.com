@@ -818,7 +818,7 @@ Grailbird.data.tweets_2010_03 =
       "screen_name" : "acarvin",
       "protected" : false,
       "id_str" : "778057",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/684003517200216064\/NJMKRdsp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/692889823846146052\/we5MYRM9_normal.jpg",
       "id" : 778057,
       "verified" : true
     }
