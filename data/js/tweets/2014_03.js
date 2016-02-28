@@ -538,6 +538,12 @@ Grailbird.data.tweets_2014_03 =
       "indices" : [ 0, 11 ],
       "id_str" : "330002531",
       "id" : 330002531
+    }, {
+      "name" : "David Stanley",
+      "screen_name" : "davidstanley01",
+      "indices" : [ 101, 116 ],
+      "id_str" : "228804913",
+      "id" : 228804913
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -959,7 +965,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "kailey lampert",
+      "name" : "ka:ley lampert",
       "screen_name" : "trepmal",
       "indices" : [ 3, 11 ],
       "id_str" : "19574066",
@@ -996,7 +1002,7 @@ Grailbird.data.tweets_2014_03 =
     "id" : 449712036117610496,
     "created_at" : "2014-03-29 00:57:59 +0000",
     "user" : {
-      "name" : "kailey lampert",
+      "name" : "ka:ley lampert",
       "screen_name" : "trepmal",
       "protected" : false,
       "id_str" : "19574066",
@@ -1042,7 +1048,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue",
+      "name" : "Ryan McCue \u2368",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -3962,7 +3968,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dougtor Zhivago",
+      "name" : "DougdorTheBurninator",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -4309,25 +4315,25 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "kailey lampert",
+      "name" : "ka:ley lampert",
       "screen_name" : "trepmal",
       "indices" : [ 33, 41 ],
       "id_str" : "19574066",
       "id" : 19574066
     }, {
-      "name" : "kailey lampert",
+      "name" : "ka:ley lampert",
       "screen_name" : "trepmal",
       "indices" : [ 43, 51 ],
       "id_str" : "19574066",
       "id" : 19574066
     }, {
-      "name" : "kailey lampert",
+      "name" : "ka:ley lampert",
       "screen_name" : "trepmal",
       "indices" : [ 53, 61 ],
       "id_str" : "19574066",
       "id" : 19574066
     }, {
-      "name" : "kailey lampert",
+      "name" : "ka:ley lampert",
       "screen_name" : "trepmal",
       "indices" : [ 63, 71 ],
       "id_str" : "19574066",
@@ -5978,7 +5984,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue",
+      "name" : "Ryan McCue \u2368",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",

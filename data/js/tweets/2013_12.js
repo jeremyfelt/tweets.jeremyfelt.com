@@ -1168,7 +1168,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "weskoop",
       "protected" : false,
       "id_str" : "12424882",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/700940428657340416\/Zk3b8KxD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/701616451833036800\/RkePtsBe_normal.jpg",
       "id" : 12424882,
       "verified" : false
     }
@@ -4096,7 +4096,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dougtor Zhivago",
+      "name" : "DougdorTheBurninator",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -5890,7 +5890,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue",
+      "name" : "Ryan McCue \u2368",
       "screen_name" : "rmccue",
       "indices" : [ 3, 10 ],
       "id_str" : "6306542",
@@ -5927,7 +5927,7 @@ Grailbird.data.tweets_2013_12 =
     "id" : 412181766619660288,
     "created_at" : "2013-12-15 11:26:05 +0000",
     "user" : {
-      "name" : "Ryan McCue",
+      "name" : "Ryan McCue \u2368",
       "screen_name" : "rmccue",
       "protected" : false,
       "id_str" : "6306542",
@@ -6352,7 +6352,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "DVNJr",
       "protected" : false,
       "id_str" : "19113374",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/482288152707473408\/x1lCchuQ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/702154681397731328\/c8Qh7wsy_normal.jpg",
       "id" : 19113374,
       "verified" : true
     }
@@ -7684,7 +7684,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue",
+      "name" : "Ryan McCue \u2368",
       "screen_name" : "rmccue",
       "indices" : [ 3, 10 ],
       "id_str" : "6306542",
@@ -7733,7 +7733,7 @@ Grailbird.data.tweets_2013_12 =
     "id" : 410668982719377408,
     "created_at" : "2013-12-11 07:14:50 +0000",
     "user" : {
-      "name" : "Ryan McCue",
+      "name" : "Ryan McCue \u2368",
       "screen_name" : "rmccue",
       "protected" : false,
       "id_str" : "6306542",
@@ -8426,7 +8426,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "kailey lampert",
+      "name" : "ka:ley lampert",
       "screen_name" : "trepmal",
       "indices" : [ 0, 8 ],
       "id_str" : "19574066",
@@ -10302,7 +10302,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue",
+      "name" : "Ryan McCue \u2368",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",

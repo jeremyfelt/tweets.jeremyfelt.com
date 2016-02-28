@@ -3779,7 +3779,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "darth\u2122",
+      "name" : "darth!\u2122",
       "screen_name" : "darth",
       "indices" : [ 3, 9 ],
       "id_str" : "1337271",
@@ -3811,7 +3811,7 @@ Grailbird.data.tweets_2015_06 =
     "in_reply_to_screen_name" : "darth",
     "in_reply_to_user_id_str" : "1337271",
     "user" : {
-      "name" : "darth\u2122",
+      "name" : "darth!\u2122",
       "screen_name" : "darth",
       "protected" : false,
       "id_str" : "1337271",
@@ -5372,7 +5372,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@sweden \/ Imer",
+      "name" : "@sweden \/ Eric",
       "screen_name" : "sweden",
       "indices" : [ 3, 10 ],
       "id_str" : "19663706",
@@ -5409,11 +5409,11 @@ Grailbird.data.tweets_2015_06 =
     "id" : 611422193063456768,
     "created_at" : "2015-06-18 06:36:25 +0000",
     "user" : {
-      "name" : "@sweden \/ Imer",
+      "name" : "@sweden \/ Eric",
       "screen_name" : "sweden",
       "protected" : false,
       "id_str" : "19663706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/699149702156132352\/3o7d7Hnb_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/701685988330962944\/zKhF-AY5_normal.png",
       "id" : 19663706,
       "verified" : true
     }
@@ -8984,7 +8984,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "tfw Margarita just",
+      "name" : "Margarita Noriega",
       "screen_name" : "margarita",
       "indices" : [ 3, 13 ],
       "id_str" : "58524428",
@@ -9021,11 +9021,11 @@ Grailbird.data.tweets_2015_06 =
     "id" : 607350632245293057,
     "created_at" : "2015-06-07 00:57:29 +0000",
     "user" : {
-      "name" : "tfw Margarita just",
+      "name" : "Margarita Noriega",
       "screen_name" : "margarita",
       "protected" : false,
       "id_str" : "58524428",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/699060524848390144\/EGpqNmgq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/702890094097801216\/_Wjq79y1_normal.jpg",
       "id" : 58524428,
       "verified" : true
     }

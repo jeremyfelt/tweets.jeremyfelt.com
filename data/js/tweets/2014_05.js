@@ -1629,7 +1629,7 @@ Grailbird.data.tweets_2014_05 =
       "id_str" : "14074644",
       "id" : 14074644
     }, {
-      "name" : "Ryan McCue",
+      "name" : "Ryan McCue \u2368",
       "screen_name" : "rmccue",
       "indices" : [ 114, 121 ],
       "id_str" : "6306542",
@@ -1646,7 +1646,7 @@ Grailbird.data.tweets_2014_05 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Ryan McCue",
+        "name" : "Ryan McCue \u2368",
         "screen_name" : "rmccue",
         "indices" : [ 97, 104 ],
         "id_str" : "6306542",
@@ -2138,7 +2138,7 @@ Grailbird.data.tweets_2014_05 =
       "id_str" : "14074644",
       "id" : 14074644
     }, {
-      "name" : "Ryan McCue",
+      "name" : "Ryan McCue \u2368",
       "screen_name" : "rmccue",
       "indices" : [ 128, 135 ],
       "id_str" : "6306542",
@@ -2171,7 +2171,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue",
+      "name" : "Ryan McCue \u2368",
       "screen_name" : "rmccue",
       "indices" : [ 105, 112 ],
       "id_str" : "6306542",

@@ -1924,7 +1924,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dougtor Zhivago",
+      "name" : "DougdorTheBurninator",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -3371,7 +3371,7 @@ Grailbird.data.tweets_2013_11 =
       "id_str" : "24203273",
       "id" : 24203273
     }, {
-      "name" : "Dougtor Zhivago",
+      "name" : "DougdorTheBurninator",
       "screen_name" : "zamoose",
       "indices" : [ 94, 102 ],
       "id_str" : "819148",
@@ -3410,7 +3410,7 @@ Grailbird.data.tweets_2013_11 =
       "id_str" : "24203273",
       "id" : 24203273
     }, {
-      "name" : "Dougtor Zhivago",
+      "name" : "DougdorTheBurninator",
       "screen_name" : "zamoose",
       "indices" : [ 13, 21 ],
       "id_str" : "819148",
@@ -3589,7 +3589,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dougtor Zhivago",
+      "name" : "DougdorTheBurninator",
       "screen_name" : "zamoose",
       "indices" : [ 8, 16 ],
       "id_str" : "819148",
@@ -6193,7 +6193,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "charles",
+      "name" : "charlie (cblaze)",
       "screen_name" : "scan_boy",
       "indices" : [ 0, 9 ],
       "id_str" : "260360173",
@@ -6881,7 +6881,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue",
+      "name" : "Ryan McCue \u2368",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",

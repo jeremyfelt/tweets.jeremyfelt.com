@@ -1310,7 +1310,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jennmoneydollars",
+      "name" : "eggs jennedict",
       "screen_name" : "jennschiffer",
       "indices" : [ 3, 16 ],
       "id_str" : "12524622",
@@ -1427,11 +1427,11 @@ Grailbird.data.tweets_2014_10 =
     "id" : 526129539588833280,
     "created_at" : "2014-10-25 21:53:51 +0000",
     "user" : {
-      "name" : "jennmoneydollars",
+      "name" : "eggs jennedict",
       "screen_name" : "jennschiffer",
       "protected" : false,
       "id_str" : "12524622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/701095059802955776\/hMA3B3BQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/703660406431203332\/IR4gBFei_normal.jpg",
       "id" : 12524622,
       "verified" : false
     }

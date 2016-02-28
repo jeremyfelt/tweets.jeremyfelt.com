@@ -1243,7 +1243,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "simond",
       "protected" : false,
       "id_str" : "651123",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/655961504148119553\/fECr2qON_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/702420183512715264\/dXUIZ0Y1_normal.jpg",
       "id" : 651123,
       "verified" : false
     }
@@ -2333,7 +2333,7 @@ Grailbird.data.tweets_2014_09 =
       "id_str" : "7016582",
       "id" : 7016582
     }, {
-      "name" : "Dougtor Zhivago",
+      "name" : "DougdorTheBurninator",
       "screen_name" : "zamoose",
       "indices" : [ 12, 20 ],
       "id_str" : "819148",
@@ -2361,7 +2361,7 @@ Grailbird.data.tweets_2014_09 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Dougtor Zhivago",
+        "name" : "DougdorTheBurninator",
         "screen_name" : "zamoose",
         "indices" : [ 0, 8 ],
         "id_str" : "819148",
@@ -3389,7 +3389,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jennmoneydollars",
+      "name" : "eggs jennedict",
       "screen_name" : "jennschiffer",
       "indices" : [ 3, 16 ],
       "id_str" : "12524622",
@@ -3426,11 +3426,11 @@ Grailbird.data.tweets_2014_09 =
     "id" : 514061629810835456,
     "created_at" : "2014-09-22 14:40:18 +0000",
     "user" : {
-      "name" : "jennmoneydollars",
+      "name" : "eggs jennedict",
       "screen_name" : "jennschiffer",
       "protected" : false,
       "id_str" : "12524622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/701095059802955776\/hMA3B3BQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/703660406431203332\/IR4gBFei_normal.jpg",
       "id" : 12524622,
       "verified" : false
     }
@@ -4060,7 +4060,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dougtor Zhivago",
+      "name" : "DougdorTheBurninator",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -4644,7 +4644,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dougtor Zhivago",
+      "name" : "DougdorTheBurninator",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -4749,7 +4749,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dougtor Zhivago",
+      "name" : "DougdorTheBurninator",
       "screen_name" : "zamoose",
       "indices" : [ 31, 39 ],
       "id_str" : "819148",
@@ -6222,7 +6222,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dougtor Zhivago",
+      "name" : "DougdorTheBurninator",
       "screen_name" : "zamoose",
       "indices" : [ 12, 20 ],
       "id_str" : "819148",

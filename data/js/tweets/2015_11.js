@@ -367,7 +367,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dougtor Zhivago",
+      "name" : "DougdorTheBurninator",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -1183,7 +1183,7 @@ Grailbird.data.tweets_2015_11 =
       "screen_name" : "joshsimmons",
       "protected" : false,
       "id_str" : "3649181",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/701088207673364480\/TLuk93uw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/703580884922925057\/9CEcRx70_normal.jpg",
       "id" : 3649181,
       "verified" : false
     }
@@ -2624,7 +2624,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Christopher",
+      "name" : "Eddie",
       "screen_name" : "The_Molecule",
       "indices" : [ 3, 16 ],
       "id_str" : "17370457",
@@ -2651,11 +2651,11 @@ Grailbird.data.tweets_2015_11 =
     "id" : 666452003812323328,
     "created_at" : "2015-11-17 03:05:14 +0000",
     "user" : {
-      "name" : "Christopher",
+      "name" : "Eddie",
       "screen_name" : "The_Molecule",
       "protected" : false,
       "id_str" : "17370457",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/699664248373268484\/iXEY7GdY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/701507654649184257\/xmCeO5RK_normal.jpg",
       "id" : 17370457,
       "verified" : false
     }

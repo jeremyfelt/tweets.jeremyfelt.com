@@ -1236,7 +1236,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jillian York",
+      "name" : "Jillian C. York",
       "screen_name" : "jilliancyork",
       "indices" : [ 3, 16 ],
       "id_str" : "14048901",
@@ -1278,7 +1278,7 @@ Grailbird.data.tweets_2011_02 =
     "in_reply_to_screen_name" : "cshirky",
     "in_reply_to_user_id_str" : "6141832",
     "user" : {
-      "name" : "Jillian York",
+      "name" : "Jillian C. York",
       "screen_name" : "jilliancyork",
       "protected" : false,
       "id_str" : "14048901",

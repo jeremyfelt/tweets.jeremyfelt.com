@@ -235,7 +235,7 @@ Grailbird.data.tweets_2015_07 =
       "id_str" : "29752531",
       "id" : 29752531
     }, {
-      "name" : "Dougtor Zhivago",
+      "name" : "DougdorTheBurninator",
       "screen_name" : "zamoose",
       "indices" : [ 11, 19 ],
       "id_str" : "819148",
@@ -1471,7 +1471,7 @@ Grailbird.data.tweets_2015_07 =
       "id_str" : "16438790",
       "id" : 16438790
     }, {
-      "name" : "Dougtor Zhivago",
+      "name" : "DougdorTheBurninator",
       "screen_name" : "zamoose",
       "indices" : [ 19, 27 ],
       "id_str" : "819148",
@@ -4656,7 +4656,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue",
+      "name" : "Ryan McCue \u2368",
       "screen_name" : "rmccue",
       "indices" : [ 3, 10 ],
       "id_str" : "6306542",
@@ -4693,7 +4693,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 624007902668423168,
     "created_at" : "2015-07-23 00:07:32 +0000",
     "user" : {
-      "name" : "Ryan McCue",
+      "name" : "Ryan McCue \u2368",
       "screen_name" : "rmccue",
       "protected" : false,
       "id_str" : "6306542",

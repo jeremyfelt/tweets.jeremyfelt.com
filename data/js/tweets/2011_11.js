@@ -151,7 +151,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "charles",
+      "name" : "charlie (cblaze)",
       "screen_name" : "scan_boy",
       "indices" : [ 0, 9 ],
       "id_str" : "260360173",
@@ -649,7 +649,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "deleuzian jargon",
+      "name" : "soviet space dogs",
       "screen_name" : "steveklabnik",
       "indices" : [ 3, 16 ],
       "id_str" : "22386062",
@@ -698,7 +698,7 @@ Grailbird.data.tweets_2011_11 =
     "id" : 138698219755536385,
     "created_at" : "2011-11-21 19:20:07 +0000",
     "user" : {
-      "name" : "deleuzian jargon",
+      "name" : "soviet space dogs",
       "screen_name" : "steveklabnik",
       "protected" : false,
       "id_str" : "22386062",
@@ -3633,7 +3633,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "charles",
+      "name" : "charlie (cblaze)",
       "screen_name" : "scan_boy",
       "indices" : [ 0, 9 ],
       "id_str" : "260360173",
@@ -4001,7 +4001,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "charles",
+      "name" : "charlie (cblaze)",
       "screen_name" : "scan_boy",
       "indices" : [ 0, 9 ],
       "id_str" : "260360173",

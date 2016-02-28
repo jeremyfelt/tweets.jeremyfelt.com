@@ -1196,7 +1196,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dougtor Zhivago",
+      "name" : "DougdorTheBurninator",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -1801,7 +1801,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dougtor Zhivago",
+      "name" : "DougdorTheBurninator",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -1846,7 +1846,7 @@ Grailbird.data.tweets_2014_02 =
       "id_str" : "21204689",
       "id" : 21204689
     }, {
-      "name" : "Dougtor Zhivago",
+      "name" : "DougdorTheBurninator",
       "screen_name" : "zamoose",
       "indices" : [ 15, 23 ],
       "id_str" : "819148",
@@ -4671,7 +4671,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Xeni",
+      "name" : "Xeni Jardin",
       "screen_name" : "xeni",
       "indices" : [ 3, 8 ],
       "id_str" : "767",
@@ -4726,11 +4726,11 @@ Grailbird.data.tweets_2014_02 =
     "id" : 432734136902504448,
     "created_at" : "2014-02-10 04:33:52 +0000",
     "user" : {
-      "name" : "Xeni",
+      "name" : "Xeni Jardin",
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/700470538158772225\/Wz0cPaXW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/702536731807973376\/iDelKqT6_normal.jpg",
       "id" : 767,
       "verified" : true
     }

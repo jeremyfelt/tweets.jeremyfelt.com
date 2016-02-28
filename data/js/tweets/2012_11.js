@@ -4555,7 +4555,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "charles",
+      "name" : "charlie (cblaze)",
       "screen_name" : "scan_boy",
       "indices" : [ 0, 9 ],
       "id_str" : "260360173",
@@ -5984,7 +5984,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "15808765",
       "id" : 15808765
     }, {
-      "name" : "Henry Kissing-Her",
+      "name" : "Lee Daly",
       "screen_name" : "leedalyire",
       "indices" : [ 115, 126 ],
       "id_str" : "186015269",
@@ -6001,7 +6001,7 @@ Grailbird.data.tweets_2012_11 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Henry Kissing-Her",
+        "name" : "Lee Daly",
         "screen_name" : "leedalyire",
         "indices" : [ 99, 110 ],
         "id_str" : "186015269",

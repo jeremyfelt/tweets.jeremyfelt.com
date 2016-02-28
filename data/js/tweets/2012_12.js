@@ -3035,7 +3035,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "charles",
+      "name" : "charlie (cblaze)",
       "screen_name" : "scan_boy",
       "indices" : [ 0, 9 ],
       "id_str" : "260360173",
@@ -3090,7 +3090,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "charles",
+      "name" : "charlie (cblaze)",
       "screen_name" : "scan_boy",
       "indices" : [ 0, 9 ],
       "id_str" : "260360173",
@@ -3123,7 +3123,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "charles",
+      "name" : "charlie (cblaze)",
       "screen_name" : "scan_boy",
       "indices" : [ 0, 9 ],
       "id_str" : "260360173",
@@ -3454,7 +3454,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "kailey lampert",
+      "name" : "ka:ley lampert",
       "screen_name" : "trepmal",
       "indices" : [ 6, 14 ],
       "id_str" : "19574066",
@@ -6405,7 +6405,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Xeni",
+      "name" : "Xeni Jardin",
       "screen_name" : "xeni",
       "indices" : [ 3, 8 ],
       "id_str" : "767",
@@ -6432,11 +6432,11 @@ Grailbird.data.tweets_2012_12 =
     "id" : 275010810064027648,
     "created_at" : "2012-12-01 22:57:41 +0000",
     "user" : {
-      "name" : "Xeni",
+      "name" : "Xeni Jardin",
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/700470538158772225\/Wz0cPaXW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/702536731807973376\/iDelKqT6_normal.jpg",
       "id" : 767,
       "verified" : true
     }

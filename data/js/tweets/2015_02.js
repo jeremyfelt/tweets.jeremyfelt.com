@@ -732,7 +732,7 @@ Grailbird.data.tweets_2015_02 =
       "id_str" : "14558147",
       "id" : 14558147
     }, {
-      "name" : "Dougtor Zhivago",
+      "name" : "DougdorTheBurninator",
       "screen_name" : "zamoose",
       "indices" : [ 10, 18 ],
       "id_str" : "819148",
@@ -1687,7 +1687,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dougtor Zhivago",
+      "name" : "DougdorTheBurninator",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -6289,7 +6289,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue",
+      "name" : "Ryan McCue \u2368",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -6322,7 +6322,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue",
+      "name" : "Ryan McCue \u2368",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -6355,7 +6355,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue",
+      "name" : "Ryan McCue \u2368",
       "screen_name" : "rmccue",
       "indices" : [ 41, 48 ],
       "id_str" : "6306542",
@@ -6388,7 +6388,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue",
+      "name" : "Ryan McCue \u2368",
       "screen_name" : "rmccue",
       "indices" : [ 3, 10 ],
       "id_str" : "6306542",
@@ -6425,7 +6425,7 @@ Grailbird.data.tweets_2015_02 =
     "id" : 564668228924755970,
     "created_at" : "2015-02-09 06:12:51 +0000",
     "user" : {
-      "name" : "Ryan McCue",
+      "name" : "Ryan McCue \u2368",
       "screen_name" : "rmccue",
       "protected" : false,
       "id_str" : "6306542",
@@ -7318,7 +7318,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dougtor Zhivago",
+      "name" : "DougdorTheBurninator",
       "screen_name" : "zamoose",
       "indices" : [ 3, 11 ],
       "id_str" : "819148",
@@ -7367,7 +7367,7 @@ Grailbird.data.tweets_2015_02 =
     "id" : 564157318632583168,
     "created_at" : "2015-02-07 20:22:40 +0000",
     "user" : {
-      "name" : "Dougtor Zhivago",
+      "name" : "DougdorTheBurninator",
       "screen_name" : "zamoose",
       "protected" : false,
       "id_str" : "819148",
@@ -8213,7 +8213,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "narpoleptic beyonc\u00E9",
+      "name" : "Damn Daniel Nguyen",
       "screen_name" : "dancow",
       "indices" : [ 3, 10 ],
       "id_str" : "14335332",
@@ -8272,7 +8272,7 @@ Grailbird.data.tweets_2015_02 =
     "id" : 563516784179822592,
     "created_at" : "2015-02-06 01:57:25 +0000",
     "user" : {
-      "name" : "narpoleptic beyonc\u00E9",
+      "name" : "Damn Daniel Nguyen",
       "screen_name" : "dancow",
       "protected" : false,
       "id_str" : "14335332",
@@ -10205,7 +10205,7 @@ Grailbird.data.tweets_2015_02 =
       "screen_name" : "MarraPat",
       "protected" : false,
       "id_str" : "274598037",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/683805295953461248\/m6I3adIg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/703712893779443712\/gTjF-Xcn_normal.jpg",
       "id" : 274598037,
       "verified" : false
     }

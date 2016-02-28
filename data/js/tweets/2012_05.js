@@ -2825,7 +2825,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "LaurenMAlbrecht",
       "protected" : false,
       "id_str" : "15333584",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/694189516584833024\/kLEAk3H5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/702027794834788352\/DmET2f3-_normal.jpg",
       "id" : 15333584,
       "verified" : false
     }
@@ -3253,7 +3253,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "kailey lampert",
+      "name" : "ka:ley lampert",
       "screen_name" : "trepmal",
       "indices" : [ 0, 8 ],
       "id_str" : "19574066",
@@ -3721,7 +3721,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "kailey lampert",
+      "name" : "ka:ley lampert",
       "screen_name" : "trepmal",
       "indices" : [ 3, 11 ],
       "id_str" : "19574066",
@@ -3754,7 +3754,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 203571638049054720,
     "created_at" : "2012-05-18 19:43:55 +0000",
     "user" : {
-      "name" : "kailey lampert",
+      "name" : "ka:ley lampert",
       "screen_name" : "trepmal",
       "protected" : false,
       "id_str" : "19574066",
@@ -5289,7 +5289,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "21204689",
       "id" : 21204689
     }, {
-      "name" : "Dougtor Zhivago",
+      "name" : "DougdorTheBurninator",
       "screen_name" : "zamoose",
       "indices" : [ 24, 32 ],
       "id_str" : "819148",

@@ -1594,7 +1594,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dougtor Zhivago",
+      "name" : "DougdorTheBurninator",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -3753,7 +3753,7 @@ Grailbird.data.tweets_2014_12 =
       "screen_name" : "ryandonsullivan",
       "protected" : false,
       "id_str" : "87823613",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/679416163017859072\/QE497jk8_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/702487322164506624\/1zwcdFJb_normal.jpg",
       "id" : 87823613,
       "verified" : false
     }
@@ -3827,7 +3827,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jennmoneydollars",
+      "name" : "eggs jennedict",
       "screen_name" : "jennschiffer",
       "indices" : [ 3, 16 ],
       "id_str" : "12524622",
@@ -3859,11 +3859,11 @@ Grailbird.data.tweets_2014_12 =
     "in_reply_to_screen_name" : "jennschiffer",
     "in_reply_to_user_id_str" : "12524622",
     "user" : {
-      "name" : "jennmoneydollars",
+      "name" : "eggs jennedict",
       "screen_name" : "jennschiffer",
       "protected" : false,
       "id_str" : "12524622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/701095059802955776\/hMA3B3BQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/703660406431203332\/IR4gBFei_normal.jpg",
       "id" : 12524622,
       "verified" : false
     }
@@ -7303,7 +7303,7 @@ Grailbird.data.tweets_2014_12 =
       "id_str" : "14606628",
       "id" : 14606628
     }, {
-      "name" : "Ryan McCue",
+      "name" : "Ryan McCue \u2368",
       "screen_name" : "rmccue",
       "indices" : [ 60, 67 ],
       "id_str" : "6306542",
@@ -7331,7 +7331,7 @@ Grailbird.data.tweets_2014_12 =
     "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Ryan McCue",
+        "name" : "Ryan McCue \u2368",
         "screen_name" : "rmccue",
         "indices" : [ 40, 47 ],
         "id_str" : "6306542",

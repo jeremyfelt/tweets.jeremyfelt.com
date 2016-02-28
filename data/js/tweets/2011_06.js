@@ -1968,12 +1968,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 3, 17 ],
       "id_str" : "721792410",
       "id" : 721792410
-    }, {
-      "name" : "Kate Harmer",
-      "screen_name" : "katehrmr",
-      "indices" : [ 26, 35 ],
-      "id_str" : "9113372",
-      "id" : 9113372
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1985,13 +1979,7 @@ Grailbird.data.tweets_2011_06 =
   "retweeted_status" : {
     "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
     "entities" : {
-      "user_mentions" : [ {
-        "name" : "Kate Harmer",
-        "screen_name" : "katehrmr",
-        "indices" : [ 7, 16 ],
-        "id_str" : "9113372",
-        "id" : 9113372
-      } ],
+      "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]

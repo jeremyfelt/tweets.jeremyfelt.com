@@ -650,7 +650,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "nikesoccer",
       "protected" : false,
       "id_str" : "10678292",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/695291272701947906\/r31_KpiW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/701830277216100352\/pcNVqn5M_normal.jpg",
       "id" : 10678292,
       "verified" : true
     }
@@ -670,7 +670,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "kailey lampert",
+      "name" : "ka:ley lampert",
       "screen_name" : "trepmal",
       "indices" : [ 3, 11 ],
       "id_str" : "19574066",
@@ -707,7 +707,7 @@ Grailbird.data.tweets_2014_04 =
     "id" : 459843509843795968,
     "created_at" : "2014-04-25 23:56:50 +0000",
     "user" : {
-      "name" : "kailey lampert",
+      "name" : "ka:ley lampert",
       "screen_name" : "trepmal",
       "protected" : false,
       "id_str" : "19574066",
@@ -2391,7 +2391,7 @@ Grailbird.data.tweets_2014_04 =
       "id_str" : "16213079",
       "id" : 16213079
     }, {
-      "name" : "Pick",
+      "name" : "Michael Pick",
       "screen_name" : "madebypick",
       "indices" : [ 38, 49 ],
       "id_str" : "148658299",
@@ -3203,7 +3203,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dougtor Zhivago",
+      "name" : "DougdorTheBurninator",
       "screen_name" : "zamoose",
       "indices" : [ 3, 11 ],
       "id_str" : "819148",
@@ -3262,7 +3262,7 @@ Grailbird.data.tweets_2014_04 =
     "id" : 456044153311592448,
     "created_at" : "2014-04-15 12:19:33 +0000",
     "user" : {
-      "name" : "Dougtor Zhivago",
+      "name" : "DougdorTheBurninator",
       "screen_name" : "zamoose",
       "protected" : false,
       "id_str" : "819148",
@@ -6930,7 +6930,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dougtor Zhivago",
+      "name" : "DougdorTheBurninator",
       "screen_name" : "zamoose",
       "indices" : [ 97, 105 ],
       "id_str" : "819148",

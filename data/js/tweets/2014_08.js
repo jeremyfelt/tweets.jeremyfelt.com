@@ -6073,7 +6073,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "drdavidjleonard",
       "protected" : false,
       "id_str" : "352779756",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/694739519128489984\/kt9zA-7S_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/703226017825984512\/lYG2iuUz_normal.jpg",
       "id" : 352779756,
       "verified" : false
     }
@@ -7728,7 +7728,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "charles",
+      "name" : "charlie (cblaze)",
       "screen_name" : "scan_boy",
       "indices" : [ 0, 9 ],
       "id_str" : "260360173",

@@ -955,7 +955,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "kailey lampert",
+      "name" : "ka:ley lampert",
       "screen_name" : "trepmal",
       "indices" : [ 0, 8 ],
       "id_str" : "19574066",
@@ -2047,7 +2047,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "a tired man",
+      "name" : "the takes heater",
       "screen_name" : "jacob_saxton",
       "indices" : [ 3, 16 ],
       "id_str" : "501207116",
@@ -2091,7 +2091,7 @@ Grailbird.data.tweets_2013_02 =
     "in_reply_to_screen_name" : "ChuckGrassley",
     "in_reply_to_user_id_str" : "10615232",
     "user" : {
-      "name" : "a tired man",
+      "name" : "the takes heater",
       "screen_name" : "jacob_saxton",
       "protected" : false,
       "id_str" : "501207116",
@@ -4452,7 +4452,7 @@ Grailbird.data.tweets_2013_02 =
       "id_str" : "27740025",
       "id" : 27740025
     }, {
-      "name" : "kailey lampert",
+      "name" : "ka:ley lampert",
       "screen_name" : "trepmal",
       "indices" : [ 8, 16 ],
       "id_str" : "19574066",

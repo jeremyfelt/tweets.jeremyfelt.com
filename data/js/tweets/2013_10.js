@@ -1413,7 +1413,7 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "15908706",
       "id" : 15908706
     }, {
-      "name" : "Ryan McCue",
+      "name" : "Ryan McCue \u2368",
       "screen_name" : "rmccue",
       "indices" : [ 5, 12 ],
       "id_str" : "6306542",
@@ -3282,7 +3282,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue",
+      "name" : "Ryan McCue \u2368",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -3460,7 +3460,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "kailey lampert",
+      "name" : "ka:ley lampert",
       "screen_name" : "trepmal",
       "indices" : [ 0, 8 ],
       "id_str" : "19574066",
@@ -7369,7 +7369,13 @@ Grailbird.data.tweets_2013_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Cyberseer",
+      "screen_name" : "cyberseer",
+      "indices" : [ 0, 10 ],
+      "id_str" : "702849338016468992",
+      "id" : 702849338016468992
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -10184,7 +10190,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "simond",
       "protected" : false,
       "id_str" : "651123",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/655961504148119553\/fECr2qON_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/702420183512715264\/dXUIZ0Y1_normal.jpg",
       "id" : 651123,
       "verified" : false
     }

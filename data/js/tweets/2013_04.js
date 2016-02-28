@@ -5761,7 +5761,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "kailey lampert",
+      "name" : "ka:ley lampert",
       "screen_name" : "trepmal",
       "indices" : [ 0, 8 ],
       "id_str" : "19574066",
@@ -7301,7 +7301,7 @@ Grailbird.data.tweets_2013_04 =
       "id_str" : "9412542",
       "id" : 9412542
     }, {
-      "name" : "Ryan McCue",
+      "name" : "Ryan McCue \u2368",
       "screen_name" : "rmccue",
       "indices" : [ 23, 30 ],
       "id_str" : "6306542",
@@ -7346,7 +7346,7 @@ Grailbird.data.tweets_2013_04 =
       "id_str" : "9412542",
       "id" : 9412542
     }, {
-      "name" : "Ryan McCue",
+      "name" : "Ryan McCue \u2368",
       "screen_name" : "rmccue",
       "indices" : [ 23, 30 ],
       "id_str" : "6306542",
@@ -9178,7 +9178,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "kailey lampert",
+      "name" : "ka:ley lampert",
       "screen_name" : "trepmal",
       "indices" : [ 0, 8 ],
       "id_str" : "19574066",
@@ -9415,7 +9415,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "kailey lampert",
+      "name" : "ka:ley lampert",
       "screen_name" : "trepmal",
       "indices" : [ 0, 8 ],
       "id_str" : "19574066",
@@ -9458,7 +9458,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ireland \/ Val",
+      "name" : "Ireland \/ R\u00F3n\u00E1n",
       "screen_name" : "ireland",
       "indices" : [ 3, 11 ],
       "id_str" : "1143551",
@@ -9545,11 +9545,11 @@ Grailbird.data.tweets_2013_04 =
     "id" : 318863079725228033,
     "created_at" : "2013-04-01 23:10:57 +0000",
     "user" : {
-      "name" : "Ireland \/ Val",
+      "name" : "Ireland \/ R\u00F3n\u00E1n",
       "screen_name" : "ireland",
       "protected" : false,
       "id_str" : "1143551",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/699132086972768256\/hpzX6aVL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/701652358061805568\/SGAk6kbO_normal.jpg",
       "id" : 1143551,
       "verified" : false
     }
@@ -9569,7 +9569,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ireland \/ Val",
+      "name" : "Ireland \/ R\u00F3n\u00E1n",
       "screen_name" : "ireland",
       "indices" : [ 0, 8 ],
       "id_str" : "1143551",

@@ -411,7 +411,7 @@ Grailbird.data.tweets_2012_04 =
       "id_str" : "21204689",
       "id" : 21204689
     }, {
-      "name" : "kailey lampert",
+      "name" : "ka:ley lampert",
       "screen_name" : "trepmal",
       "indices" : [ 15, 23 ],
       "id_str" : "19574066",
@@ -1292,7 +1292,7 @@ Grailbird.data.tweets_2012_04 =
       "id_str" : "930061",
       "id" : 930061
     }, {
-      "name" : "Anil Dash",
+      "name" : "Anil Dash Dot Com",
       "screen_name" : "anildash",
       "indices" : [ 109, 118 ],
       "id_str" : "36823",
@@ -1314,7 +1314,7 @@ Grailbird.data.tweets_2012_04 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Anil Dash",
+        "name" : "Anil Dash Dot Com",
         "screen_name" : "anildash",
         "indices" : [ 92, 101 ],
         "id_str" : "36823",

@@ -5010,7 +5010,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "Magnuson",
       "protected" : false,
       "id_str" : "14273705",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698943958995460096\/-WQMTuTJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/702380561365647360\/XLyZCTd9_normal.jpg",
       "id" : 14273705,
       "verified" : false
     }

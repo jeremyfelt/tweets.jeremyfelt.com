@@ -1935,7 +1935,7 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "783214",
       "id" : 783214
     }, {
-      "name" : "satN",
+      "name" : "Anthony",
       "screen_name" : "404",
       "indices" : [ 95, 99 ],
       "id_str" : "863873378",
