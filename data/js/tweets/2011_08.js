@@ -34,7 +34,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662690681756889088\/kqC9jqiy_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/706892154052816896\/DgYNSyFC_normal.jpg",
       "id" : 819797,
       "verified" : false
     }
@@ -837,7 +837,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662690681756889088\/kqC9jqiy_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/706892154052816896\/DgYNSyFC_normal.jpg",
       "id" : 819797,
       "verified" : false
     }
@@ -2823,7 +2823,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "Harpers",
       "protected" : false,
       "id_str" : "14287094",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/697862802673762304\/YA9TxsYU_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/708055330437988352\/hSJKROR2_normal.jpg",
       "id" : 14287094,
       "verified" : false
     }
@@ -4278,7 +4278,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662690681756889088\/kqC9jqiy_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/706892154052816896\/DgYNSyFC_normal.jpg",
       "id" : 819797,
       "verified" : false
     }
@@ -4401,7 +4401,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "Harpers",
       "protected" : false,
       "id_str" : "14287094",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/697862802673762304\/YA9TxsYU_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/708055330437988352\/hSJKROR2_normal.jpg",
       "id" : 14287094,
       "verified" : false
     }

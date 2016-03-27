@@ -2161,7 +2161,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/691655301523726336\/POdI7Zr5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/708981064438566913\/VR6HB1iM_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }
@@ -3729,7 +3729,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash",
+      "name" : "AnilDashVEVO",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -3802,7 +3802,7 @@ Grailbird.data.tweets_2014_07 =
     "id" : 489056453735763968,
     "created_at" : "2014-07-15 14:38:39 +0000",
     "user" : {
-      "name" : "Anil Dash",
+      "name" : "AnilDashVEVO",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
@@ -3826,7 +3826,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "DougdorTheBurninator",
+      "name" : "Dougth Vader",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -3859,7 +3859,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "DougdorTheBurninator",
+      "name" : "Dougth Vader",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -4709,7 +4709,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "JavaScript Live",
+      "name" : "JavaScript Daily",
       "screen_name" : "JavaScriptDaily",
       "indices" : [ 3, 19 ],
       "id_str" : "459275531",
@@ -4746,11 +4746,11 @@ Grailbird.data.tweets_2014_07 =
     "id" : 488075584988123136,
     "created_at" : "2014-07-12 21:41:02 +0000",
     "user" : {
-      "name" : "JavaScript Live",
+      "name" : "JavaScript Daily",
       "screen_name" : "JavaScriptDaily",
       "protected" : false,
       "id_str" : "459275531",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/612958776312905729\/1D6mR9eF_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/710428065369890816\/ZaHBODSJ_normal.jpg",
       "id" : 459275531,
       "verified" : false
     }
@@ -6774,7 +6774,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "DougdorTheBurninator",
+      "name" : "Dougth Vader",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -8731,7 +8731,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "VincentKompany",
       "protected" : false,
       "id_str" : "436702610",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/666891015513620482\/-Murgb-w_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/713287010254000128\/jm4laJa3_normal.jpg",
       "id" : 436702610,
       "verified" : true
     }
@@ -8891,7 +8891,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "sportsmatters",
       "protected" : false,
       "id_str" : "22652339",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662724637944471552\/iFApKCBY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711322497359200257\/6YkyYDaV_normal.jpg",
       "id" : 22652339,
       "verified" : false
     }

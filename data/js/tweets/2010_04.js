@@ -337,7 +337,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash",
+      "name" : "AnilDashVEVO",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -364,7 +364,7 @@ Grailbird.data.tweets_2010_04 =
     "id" : 12905893217,
     "created_at" : "2010-04-26 21:34:56 +0000",
     "user" : {
-      "name" : "Anil Dash",
+      "name" : "AnilDashVEVO",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
@@ -1490,7 +1490,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chris Messina \u2701_____",
+      "name" : "Chris Messina \u270C\uFE0E",
       "screen_name" : "chrismessina",
       "indices" : [ 3, 16 ],
       "id_str" : "1186",
@@ -1547,7 +1547,7 @@ Grailbird.data.tweets_2010_04 =
     "id" : 12598081338,
     "created_at" : "2010-04-21 21:12:24 +0000",
     "user" : {
-      "name" : "Chris Messina \u2701_____",
+      "name" : "Chris Messina \u270C\uFE0E",
       "screen_name" : "chrismessina",
       "protected" : false,
       "id_str" : "1186",
@@ -3277,7 +3277,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash",
+      "name" : "AnilDashVEVO",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -3316,7 +3316,7 @@ Grailbird.data.tweets_2010_04 =
     "id" : 11914561810,
     "created_at" : "2010-04-10 02:12:28 +0000",
     "user" : {
-      "name" : "Anil Dash",
+      "name" : "AnilDashVEVO",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
@@ -3422,7 +3422,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "mfeathers",
       "protected" : false,
       "id_str" : "14253068",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/540680066460434432\/K2Jgz4OQ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/707587860875112448\/1UdWcivE_normal.jpg",
       "id" : 14253068,
       "verified" : false
     }

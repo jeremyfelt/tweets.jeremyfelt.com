@@ -1219,7 +1219,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash",
+      "name" : "AnilDashVEVO",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -1246,7 +1246,7 @@ Grailbird.data.tweets_2010_09 =
     "id" : 25791273246,
     "created_at" : "2010-09-28 14:49:25 +0000",
     "user" : {
-      "name" : "Anil Dash",
+      "name" : "AnilDashVEVO",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
@@ -1471,7 +1471,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/664118709599002624\/dzNffUNM_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/708705131009863683\/e5MYgfw9_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -1994,11 +1994,11 @@ Grailbird.data.tweets_2010_09 =
       "id_str" : "818340",
       "id" : 818340
     }, {
-      "name" : "Swipely",
-      "screen_name" : "Swipely",
+      "name" : "upserve",
+      "screen_name" : "swipely",
       "indices" : [ 71, 79 ],
-      "id_str" : "43044540",
-      "id" : 43044540
+      "id_str" : "706883857543516160",
+      "id" : 706883857543516160
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2011,11 +2011,11 @@ Grailbird.data.tweets_2010_09 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Swipely",
-        "screen_name" : "Swipely",
+        "name" : "upserve",
+        "screen_name" : "swipely",
         "indices" : [ 56, 64 ],
-        "id_str" : "43044540",
-        "id" : 43044540
+        "id_str" : "706883857543516160",
+        "id" : 706883857543516160
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -2350,7 +2350,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash",
+      "name" : "AnilDashVEVO",
       "screen_name" : "anildash",
       "indices" : [ 0, 9 ],
       "id_str" : "36823",
@@ -4254,7 +4254,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anil Dash",
+      "name" : "AnilDashVEVO",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -4281,7 +4281,7 @@ Grailbird.data.tweets_2010_09 =
     "id" : 22896163171,
     "created_at" : "2010-09-03 15:23:16 +0000",
     "user" : {
-      "name" : "Anil Dash",
+      "name" : "AnilDashVEVO",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",

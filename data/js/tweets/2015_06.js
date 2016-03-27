@@ -1047,7 +1047,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Angela Nguyen",
+      "name" : "Angela Nhi Nguyen",
       "screen_name" : "UltraRadUberFad",
       "indices" : [ 3, 19 ],
       "id_str" : "45777355",
@@ -1164,7 +1164,7 @@ Grailbird.data.tweets_2015_06 =
     "id" : 615727180547424256,
     "created_at" : "2015-06-30 03:42:54 +0000",
     "user" : {
-      "name" : "Angela Nguyen",
+      "name" : "Angela Nhi Nguyen",
       "screen_name" : "UltraRadUberFad",
       "protected" : false,
       "id_str" : "45777355",
@@ -2239,7 +2239,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "charles",
+      "name" : "charlie (cblaze)",
       "screen_name" : "scan_boy",
       "indices" : [ 0, 9 ],
       "id_str" : "260360173",
@@ -4249,6 +4249,139 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "wsu",
+      "screen_name" : "wsu",
+      "indices" : [ 3, 7 ],
+      "id_str" : "3070114339",
+      "id" : 3070114339
+    }, {
+      "name" : "wsu",
+      "screen_name" : "wsu",
+      "indices" : [ 10, 14 ],
+      "id_str" : "3070114339",
+      "id" : 3070114339
+    } ],
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/wsu\/status\/612306482181222401\/photo\/1",
+      "indices" : [ 82, 104 ],
+      "url" : "http:\/\/t.co\/TfU8HT2kXg",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/CH9ZgD8VAAAI98q.jpg",
+      "id_str" : "612306481694703616",
+      "id" : 612306481694703616,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CH9ZgD8VAAAI98q.jpg",
+      "sizes" : [ {
+        "h" : 191,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 576,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
+        "h" : 720,
+        "resize" : "fit",
+        "w" : 1280
+      }, {
+        "h" : 338,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      } ],
+      "display_url" : "pic.twitter.com\/TfU8HT2kXg"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 59, 81 ],
+      "url" : "http:\/\/t.co\/Csacy3KhZm",
+      "expanded_url" : "http:\/\/president.wsu.edu\/eflo\/",
+      "display_url" : "president.wsu.edu\/eflo\/"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "612308505341464576",
+  "text" : "RT @wsu: .@WSU President Elson S. Floyd succumbs to cancer http:\/\/t.co\/Csacy3KhZm http:\/\/t.co\/TfU8HT2kXg",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "wsu",
+        "screen_name" : "wsu",
+        "indices" : [ 1, 5 ],
+        "id_str" : "3070114339",
+        "id" : 3070114339
+      } ],
+      "media" : [ {
+        "expanded_url" : "http:\/\/twitter.com\/wsu\/status\/612306482181222401\/photo\/1",
+        "indices" : [ 73, 95 ],
+        "url" : "http:\/\/t.co\/TfU8HT2kXg",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CH9ZgD8VAAAI98q.jpg",
+        "id_str" : "612306481694703616",
+        "id" : 612306481694703616,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CH9ZgD8VAAAI98q.jpg",
+        "sizes" : [ {
+          "h" : 191,
+          "resize" : "fit",
+          "w" : 340
+        }, {
+          "h" : 576,
+          "resize" : "fit",
+          "w" : 1024
+        }, {
+          "h" : 720,
+          "resize" : "fit",
+          "w" : 1280
+        }, {
+          "h" : 338,
+          "resize" : "fit",
+          "w" : 600
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        } ],
+        "display_url" : "pic.twitter.com\/TfU8HT2kXg"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 50, 72 ],
+        "url" : "http:\/\/t.co\/Csacy3KhZm",
+        "expanded_url" : "http:\/\/president.wsu.edu\/eflo\/",
+        "display_url" : "president.wsu.edu\/eflo\/"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "612306482181222401",
+    "text" : ".@WSU President Elson S. Floyd succumbs to cancer http:\/\/t.co\/Csacy3KhZm http:\/\/t.co\/TfU8HT2kXg",
+    "id" : 612306482181222401,
+    "created_at" : "2015-06-20 17:10:16 +0000",
+    "user" : {
+      "name" : "wsu",
+      "screen_name" : "wsu",
+      "protected" : false,
+      "id_str" : "3070114339",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/576501342081916928\/VAezB_bf_normal.png",
+      "id" : 3070114339,
+      "verified" : false
+    }
+  },
+  "id" : 612308505341464576,
+  "created_at" : "2015-06-20 17:18:18 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "Mitt Romney",
       "screen_name" : "MittRomney",
       "indices" : [ 3, 14 ],
@@ -5372,7 +5505,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@sweden \/ Eric",
+      "name" : "@sweden \/ Elias",
       "screen_name" : "sweden",
       "indices" : [ 3, 10 ],
       "id_str" : "19663706",
@@ -5409,11 +5542,11 @@ Grailbird.data.tweets_2015_06 =
     "id" : 611422193063456768,
     "created_at" : "2015-06-18 06:36:25 +0000",
     "user" : {
-      "name" : "@sweden \/ Eric",
+      "name" : "@sweden \/ Elias",
       "screen_name" : "sweden",
       "protected" : false,
       "id_str" : "19663706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/701685988330962944\/zKhF-AY5_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711833326991118336\/hV8DYRgc_normal.jpg",
       "id" : 19663706,
       "verified" : true
     }
@@ -8984,7 +9117,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Margarita Noriega",
+      "name" : "Marg-a-Lago",
       "screen_name" : "margarita",
       "indices" : [ 3, 13 ],
       "id_str" : "58524428",
@@ -9021,11 +9154,11 @@ Grailbird.data.tweets_2015_06 =
     "id" : 607350632245293057,
     "created_at" : "2015-06-07 00:57:29 +0000",
     "user" : {
-      "name" : "Margarita Noriega",
+      "name" : "Marg-a-Lago",
       "screen_name" : "margarita",
       "protected" : false,
       "id_str" : "58524428",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/702890094097801216\/_Wjq79y1_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711735103714697217\/_b4BFJBm_normal.jpg",
       "id" : 58524428,
       "verified" : true
     }
@@ -9577,6 +9710,159 @@ Grailbird.data.tweets_2015_06 =
   },
   "id" : 607003760053731328,
   "created_at" : "2015-06-06 01:59:08 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "wsu",
+      "screen_name" : "wsu",
+      "indices" : [ 3, 7 ],
+      "id_str" : "3070114339",
+      "id" : 3070114339
+    }, {
+      "name" : "wsu",
+      "screen_name" : "wsu",
+      "indices" : [ 43, 47 ],
+      "id_str" : "3070114339",
+      "id" : 3070114339
+    }, {
+      "name" : "Elson S. Floyd",
+      "screen_name" : "ESFloyd",
+      "indices" : [ 58, 66 ],
+      "id_str" : "403881495",
+      "id" : 403881495
+    } ],
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/wsu\/status\/606989182750179329\/photo\/1",
+      "indices" : [ 114, 136 ],
+      "url" : "http:\/\/t.co\/RHWbSRfqiw",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/CGx1cfNUIAAnW6k.jpg",
+      "id_str" : "606989182062305280",
+      "id" : 606989182062305280,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CGx1cfNUIAAnW6k.jpg",
+      "sizes" : [ {
+        "h" : 400,
+        "resize" : "fit",
+        "w" : 400
+      }, {
+        "h" : 400,
+        "resize" : "fit",
+        "w" : 400
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 340,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 400,
+        "resize" : "fit",
+        "w" : 400
+      } ],
+      "display_url" : "pic.twitter.com\/RHWbSRfqiw"
+    } ],
+    "hashtags" : [ {
+      "text" : "WSU",
+      "indices" : [ 88, 92 ]
+    }, {
+      "text" : "IHeartEFlo",
+      "indices" : [ 93, 104 ]
+    }, {
+      "text" : "GoCougs",
+      "indices" : [ 105, 113 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "607002537212809216",
+  "text" : "RT @wsu: Share &amp; show your support for @WSU President @ESFloyd as he battles cancer #WSU #IHeartEFlo #GoCougs http:\/\/t.co\/RHWbSRfqiw",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "wsu",
+        "screen_name" : "wsu",
+        "indices" : [ 34, 38 ],
+        "id_str" : "3070114339",
+        "id" : 3070114339
+      }, {
+        "name" : "Elson S. Floyd",
+        "screen_name" : "ESFloyd",
+        "indices" : [ 49, 57 ],
+        "id_str" : "403881495",
+        "id" : 403881495
+      } ],
+      "media" : [ {
+        "expanded_url" : "http:\/\/twitter.com\/wsu\/status\/606989182750179329\/photo\/1",
+        "indices" : [ 105, 127 ],
+        "url" : "http:\/\/t.co\/RHWbSRfqiw",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CGx1cfNUIAAnW6k.jpg",
+        "id_str" : "606989182062305280",
+        "id" : 606989182062305280,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CGx1cfNUIAAnW6k.jpg",
+        "sizes" : [ {
+          "h" : 400,
+          "resize" : "fit",
+          "w" : 400
+        }, {
+          "h" : 400,
+          "resize" : "fit",
+          "w" : 400
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 340,
+          "resize" : "fit",
+          "w" : 340
+        }, {
+          "h" : 400,
+          "resize" : "fit",
+          "w" : 400
+        } ],
+        "display_url" : "pic.twitter.com\/RHWbSRfqiw"
+      } ],
+      "hashtags" : [ {
+        "text" : "WSU",
+        "indices" : [ 79, 83 ]
+      }, {
+        "text" : "IHeartEFlo",
+        "indices" : [ 84, 95 ]
+      }, {
+        "text" : "GoCougs",
+        "indices" : [ 96, 104 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "606989182750179329",
+    "text" : "Share &amp; show your support for @WSU President @ESFloyd as he battles cancer #WSU #IHeartEFlo #GoCougs http:\/\/t.co\/RHWbSRfqiw",
+    "id" : 606989182750179329,
+    "created_at" : "2015-06-06 01:01:13 +0000",
+    "user" : {
+      "name" : "wsu",
+      "screen_name" : "wsu",
+      "protected" : false,
+      "id_str" : "3070114339",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/576501342081916928\/VAezB_bf_normal.png",
+      "id" : 3070114339,
+      "verified" : false
+    }
+  },
+  "id" : 607002537212809216,
+  "created_at" : "2015-06-06 01:54:17 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -10336,7 +10622,7 @@ Grailbird.data.tweets_2015_06 =
       "screen_name" : "xor",
       "protected" : false,
       "id_str" : "24500377",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689348466380636160\/h90CbhIi_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/708073844876058624\/glsVIuiZ_normal.jpg",
       "id" : 24500377,
       "verified" : false
     }

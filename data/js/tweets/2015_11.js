@@ -367,7 +367,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "DougdorTheBurninator",
+      "name" : "Dougth Vader",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -1019,7 +1019,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jon",
+      "name" : "Hippy Easter",
       "screen_name" : "hippy_jon",
       "indices" : [ 3, 13 ],
       "id_str" : "303239937",
@@ -1106,11 +1106,11 @@ Grailbird.data.tweets_2015_11 =
     "id" : 668449409496141825,
     "created_at" : "2015-11-22 15:22:13 +0000",
     "user" : {
-      "name" : "Jon",
+      "name" : "Hippy Easter",
       "screen_name" : "hippy_jon",
       "protected" : false,
       "id_str" : "303239937",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/695666351843708928\/ThC9IPz9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/713347775744843776\/nzL2A-ya_normal.jpg",
       "id" : 303239937,
       "verified" : false
     }
@@ -1183,7 +1183,7 @@ Grailbird.data.tweets_2015_11 =
       "screen_name" : "joshsimmons",
       "protected" : false,
       "id_str" : "3649181",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/703580884922925057\/9CEcRx70_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/710730028812611584\/MD7oCYb2_normal.jpg",
       "id" : 3649181,
       "verified" : false
     }
@@ -1644,7 +1644,7 @@ Grailbird.data.tweets_2015_11 =
       "screen_name" : "rafat",
       "protected" : false,
       "id_str" : "15705567",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/674952553700990977\/6brLPq4T_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/707307674300522496\/CaZltx54_normal.jpg",
       "id" : 15705567,
       "verified" : false
     }
@@ -2515,7 +2515,7 @@ Grailbird.data.tweets_2015_11 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/691655301523726336\/POdI7Zr5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/708981064438566913\/VR6HB1iM_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }
@@ -2655,7 +2655,7 @@ Grailbird.data.tweets_2015_11 =
       "screen_name" : "The_Molecule",
       "protected" : false,
       "id_str" : "17370457",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/701507654649184257\/xmCeO5RK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/706310095815073792\/NpCgZNTp_normal.jpg",
       "id" : 17370457,
       "verified" : false
     }
@@ -5313,7 +5313,7 @@ Grailbird.data.tweets_2015_11 =
       "id_str" : "130207978",
       "id" : 130207978
     }, {
-      "name" : "The pirate direwolf",
+      "name" : "Michael Beckwith",
       "screen_name" : "tw2113",
       "indices" : [ 12, 19 ],
       "id_str" : "14354274",
@@ -7137,7 +7137,7 @@ Grailbird.data.tweets_2015_11 =
       "screen_name" : "JLVernonPhD",
       "protected" : false,
       "id_str" : "24939473",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528910068717084672\/fS7yZ1jf_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/704684327443902464\/hVgtP1KI_normal.jpg",
       "id" : 24939473,
       "verified" : false
     }

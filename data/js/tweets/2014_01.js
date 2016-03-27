@@ -183,7 +183,7 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "yurivictor",
       "protected" : false,
       "id_str" : "5511932",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/680854569954455552\/iak23XkY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/708712060675366912\/iyAW6dSu_normal.jpg",
       "id" : 5511932,
       "verified" : true
     }
@@ -1038,7 +1038,7 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/691655301523726336\/POdI7Zr5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/708981064438566913\/VR6HB1iM_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }
@@ -1085,7 +1085,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "DougdorTheBurninator",
+      "name" : "Dougth Vader",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -5502,7 +5502,7 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "yurivictor",
       "protected" : false,
       "id_str" : "5511932",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/680854569954455552\/iak23XkY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/708712060675366912\/iyAW6dSu_normal.jpg",
       "id" : 5511932,
       "verified" : true
     }
@@ -11760,12 +11760,6 @@ Grailbird.data.tweets_2014_01 =
       "indices" : [ 3, 14 ],
       "id_str" : "602317143",
       "id" : 602317143
-    }, {
-      "name" : "TwoPlaysInRep",
-      "screen_name" : "TwoPlaysInRep",
-      "indices" : [ 46, 60 ],
-      "id_str" : "1395680328",
-      "id" : 1395680328
     } ],
     "media" : [ {
       "expanded_url" : "http:\/\/twitter.com\/SirPatStew\/status\/418063614944481280\/photo\/1",
@@ -11810,13 +11804,7 @@ Grailbird.data.tweets_2014_01 =
   "retweeted_status" : {
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
-      "user_mentions" : [ {
-        "name" : "TwoPlaysInRep",
-        "screen_name" : "TwoPlaysInRep",
-        "indices" : [ 30, 44 ],
-        "id_str" : "1395680328",
-        "id" : 1395680328
-      } ],
+      "user_mentions" : [ ],
       "media" : [ {
         "expanded_url" : "http:\/\/twitter.com\/SirPatStew\/status\/418063614944481280\/photo\/1",
         "indices" : [ 45, 67 ],
