@@ -1533,7 +1533,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "kadamwhite",
       "protected" : false,
       "id_str" : "20061604",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/573234563750612992\/EKZlF5Ft_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727685927405912064\/WRTJSg2e_normal.jpg",
       "id" : 20061604,
       "verified" : false
     }
@@ -1789,7 +1789,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "HARGOW, a punk.",
+      "name" : "HARGOW, a punk",
       "screen_name" : "weskoop",
       "indices" : [ 0, 8 ],
       "id_str" : "12424882",
@@ -2080,67 +2080,6 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Grann",
-      "screen_name" : "DavidGrann",
-      "indices" : [ 3, 14 ],
-      "id_str" : "584198802",
-      "id" : 584198802
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 88, 110 ],
-      "url" : "http:\/\/t.co\/KTXwXqB6xm",
-      "expanded_url" : "http:\/\/espn.go.com\/blog\/new-york\/boxing\/post\/_\/id\/4608\/mike-tyson-reveals-sobriety-slip",
-      "display_url" : "espn.go.com\/blog\/new-york\/\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "371463941366374400",
-  "text" : "RT @DavidGrann: Mike Tyson: \"I\u2019m on the verge of dying because I\u2019m a vicious alcoholic\" http:\/\/t.co\/KTXwXqB6xm",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 72, 94 ],
-        "url" : "http:\/\/t.co\/KTXwXqB6xm",
-        "expanded_url" : "http:\/\/espn.go.com\/blog\/new-york\/boxing\/post\/_\/id\/4608\/mike-tyson-reveals-sobriety-slip",
-        "display_url" : "espn.go.com\/blog\/new-york\/\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "371463079155875840",
-    "text" : "Mike Tyson: \"I\u2019m on the verge of dying because I\u2019m a vicious alcoholic\" http:\/\/t.co\/KTXwXqB6xm",
-    "id" : 371463079155875840,
-    "created_at" : "2013-08-25 02:44:34 +0000",
-    "user" : {
-      "name" : "David Grann",
-      "screen_name" : "DavidGrann",
-      "protected" : false,
-      "id_str" : "584198802",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2246611642\/DavidGrannCMattRichman_normal.jpg",
-      "id" : 584198802,
-      "verified" : false
-    }
-  },
-  "id" : 371463941366374400,
-  "created_at" : "2013-08-25 02:47:59 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Flynn O'Connor",
       "screen_name" : "thoronas",
       "indices" : [ 0, 9 ],
@@ -2180,7 +2119,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "HARGOW, a punk.",
+      "name" : "HARGOW, a punk",
       "screen_name" : "weskoop",
       "indices" : [ 0, 8 ],
       "id_str" : "12424882",
@@ -4766,7 +4705,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "elonmusk",
       "protected" : false,
       "id_str" : "44196397",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/648751321026138112\/8z47ePnq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/718273532438966274\/j0h7TkOS_normal.jpg",
       "id" : 44196397,
       "verified" : true
     }
@@ -9609,7 +9548,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "joomla",
       "protected" : false,
       "id_str" : "18924866",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/566319675936485376\/3nQX4VhD_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/717005947315441664\/HXaNK8K4_normal.jpg",
       "id" : 18924866,
       "verified" : true
     }
@@ -11895,9 +11834,9 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "JoseCanseco",
       "protected" : false,
       "id_str" : "19715003",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/619299747954860032\/VOT1jice_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727996762992971776\/2YCmuN4K_normal.jpg",
       "id" : 19715003,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 365322805505556480,
@@ -12239,7 +12178,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "Oregonian",
       "protected" : false,
       "id_str" : "2992751",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/713386496791719937\/GsgQ-T-6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/717507240354123776\/Zj1RHvSN_normal.jpg",
       "id" : 2992751,
       "verified" : true
     }

@@ -1911,7 +1911,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@sweden \/ Elias",
+      "name" : "@sweden \/ Andreas",
       "screen_name" : "sweden",
       "indices" : [ 3, 10 ],
       "id_str" : "19663706",
@@ -1938,11 +1938,11 @@ Grailbird.data.tweets_2012_09 =
     "id" : 247404378800140288,
     "created_at" : "2012-09-16 18:39:35 +0000",
     "user" : {
-      "name" : "@sweden \/ Elias",
+      "name" : "@sweden \/ Andreas",
       "screen_name" : "sweden",
       "protected" : false,
       "id_str" : "19663706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711833326991118336\/hV8DYRgc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/732114486228721664\/YiPd2WPA_normal.jpg",
       "id" : 19663706,
       "verified" : true
     }
@@ -2379,7 +2379,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "michellefelt",
       "protected" : false,
       "id_str" : "32924315",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/700529370964725762\/5heR8xyd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/719643140739571712\/SqThsnf3_normal.jpg",
       "id" : 32924315,
       "verified" : false
     }
@@ -2916,7 +2916,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "21789369",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/560921456964427780\/iXssLomq_normal.png",
       "id" : 21789369,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 245267834731638787,
@@ -3137,7 +3137,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "kimberlypdx",
       "protected" : false,
       "id_str" : "59308637",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/708959266644709376\/JaepPsKm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/723391872144568326\/2ZY6hl4X_normal.jpg",
       "id" : 59308637,
       "verified" : false
     }
@@ -5037,7 +5037,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "783214",
       "id" : 783214
     }, {
-      "name" : "@sweden \/ Elias",
+      "name" : "@sweden \/ Andreas",
       "screen_name" : "sweden",
       "indices" : [ 42, 49 ],
       "id_str" : "19663706",

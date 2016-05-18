@@ -466,8 +466,8 @@ Grailbird.data.tweets_2015_01 =
       "name" : "Fusion",
       "screen_name" : "ThisIsFusion",
       "indices" : [ 83, 96 ],
-      "id_str" : "121817564",
-      "id" : 121817564
+      "id_str" : "726088145180217345",
+      "id" : 726088145180217345
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -488,8 +488,8 @@ Grailbird.data.tweets_2015_01 =
         "name" : "Fusion",
         "screen_name" : "ThisIsFusion",
         "indices" : [ 62, 75 ],
-        "id_str" : "121817564",
-        "id" : 121817564
+        "id_str" : "726088145180217345",
+        "id" : 726088145180217345
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -1102,7 +1102,7 @@ Grailbird.data.tweets_2015_01 =
       "id_str" : "13461",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/590385501179289602\/qvTvxmCX_normal.png",
       "id" : 13461,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 557966870418968576,
@@ -2535,7 +2535,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dougth Vader",
+      "name" : "Prodougtivity Expert",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -2637,7 +2637,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dougth Vader",
+      "name" : "Prodougtivity Expert",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -2670,7 +2670,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dougth Vader",
+      "name" : "Prodougtivity Expert",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -2703,7 +2703,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dougth Vader",
+      "name" : "Prodougtivity Expert",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -2736,7 +2736,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dougth Vader",
+      "name" : "Prodougtivity Expert",
       "screen_name" : "zamoose",
       "indices" : [ 3, 11 ],
       "id_str" : "819148",
@@ -2773,7 +2773,7 @@ Grailbird.data.tweets_2015_01 =
     "id" : 555448941463232514,
     "created_at" : "2015-01-14 19:38:42 +0000",
     "user" : {
-      "name" : "Dougth Vader",
+      "name" : "Prodougtivity Expert",
       "screen_name" : "zamoose",
       "protected" : false,
       "id_str" : "819148",
@@ -3238,8 +3238,8 @@ Grailbird.data.tweets_2015_01 =
       "name" : "Fusion",
       "screen_name" : "ThisIsFusion",
       "indices" : [ 83, 96 ],
-      "id_str" : "121817564",
-      "id" : 121817564
+      "id_str" : "726088145180217345",
+      "id" : 726088145180217345
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3260,8 +3260,8 @@ Grailbird.data.tweets_2015_01 =
         "name" : "Fusion",
         "screen_name" : "ThisIsFusion",
         "indices" : [ 62, 75 ],
-        "id_str" : "121817564",
-        "id" : 121817564
+        "id_str" : "726088145180217345",
+        "id" : 726088145180217345
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -3809,7 +3809,7 @@ Grailbird.data.tweets_2015_01 =
       "id_str" : "13461",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/590385501179289602\/qvTvxmCX_normal.png",
       "id" : 13461,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 554350530604974080,
@@ -4009,7 +4009,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "shokufeyesib",
       "protected" : false,
       "id_str" : "47175021",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711640855279497216\/xnevUEDG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/721375231353483264\/jZxclosi_normal.jpg",
       "id" : 47175021,
       "verified" : false
     }
@@ -4676,7 +4676,7 @@ Grailbird.data.tweets_2015_01 =
       "id_str" : "4371541",
       "id" : 4371541
     }, {
-      "name" : "Joe Saunders",
+      "name" : "Eyebrows on a melon",
       "screen_name" : "JoeTheDough",
       "indices" : [ 32, 44 ],
       "id_str" : "13506",
@@ -4698,7 +4698,7 @@ Grailbird.data.tweets_2015_01 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Joe Saunders",
+        "name" : "Eyebrows on a melon",
         "screen_name" : "JoeTheDough",
         "indices" : [ 13, 25 ],
         "id_str" : "13506",
@@ -5742,7 +5742,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dougth Vader",
+      "name" : "Prodougtivity Expert",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -6153,7 +6153,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dougth Vader",
+      "name" : "Prodougtivity Expert",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -6191,7 +6191,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dougth Vader",
+      "name" : "Prodougtivity Expert",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -6646,7 +6646,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "jennschiffer",
       "protected" : false,
       "id_str" : "12524622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/713818029264617473\/DOcx9VjK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731553360231419904\/AAhMdVvN_normal.jpg",
       "id" : 12524622,
       "verified" : false
     }
@@ -7247,7 +7247,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "kadamwhite",
       "protected" : false,
       "id_str" : "20061604",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/573234563750612992\/EKZlF5Ft_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727685927405912064\/WRTJSg2e_normal.jpg",
       "id" : 20061604,
       "verified" : false
     }
@@ -7363,8 +7363,8 @@ Grailbird.data.tweets_2015_01 =
       "name" : "Fusion",
       "screen_name" : "ThisIsFusion",
       "indices" : [ 17, 30 ],
-      "id_str" : "121817564",
-      "id" : 121817564
+      "id_str" : "726088145180217345",
+      "id" : 726088145180217345
     } ],
     "media" : [ ],
     "hashtags" : [ ],

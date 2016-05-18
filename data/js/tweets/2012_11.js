@@ -202,7 +202,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "mathowie",
       "protected" : false,
       "id_str" : "761975",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/686778776605204480\/2v4IIjP4_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/723632081868185600\/xO52UWRT_normal.jpg",
       "id" : 761975,
       "verified" : false
     }
@@ -2257,7 +2257,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "tw2113",
       "protected" : false,
       "id_str" : "14354274",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/706349576941207552\/rr1c4CKS_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/722320893414780928\/xE7XCZ0H_normal.jpg",
       "id" : 14354274,
       "verified" : false
     }
@@ -4407,7 +4407,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "AnilDashVEVO",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -4458,11 +4458,11 @@ Grailbird.data.tweets_2012_11 =
     "id" : 266060759501529088,
     "created_at" : "2012-11-07 06:13:22 +0000",
     "user" : {
-      "name" : "AnilDashVEVO",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/678402398981775361\/xeju7Lqg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/725706637248368641\/YoilUS58_normal.jpg",
       "id" : 36823,
       "verified" : true
     }
@@ -5652,12 +5652,6 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "6627892",
       "id" : 6627892
     }, {
-      "name" : "Stephanie d.",
-      "screen_name" : "petitchoudc",
-      "indices" : [ 60, 72 ],
-      "id_str" : "17394139",
-      "id" : 17394139
-    }, {
       "name" : "Jeremy Bowers",
       "screen_name" : "jeremybowers",
       "indices" : [ 73, 86 ],
@@ -5984,7 +5978,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "15808765",
       "id" : 15808765
     }, {
-      "name" : "Lee Daly",
+      "name" : "Henry Lee (Daly)",
       "screen_name" : "leedalyire",
       "indices" : [ 115, 126 ],
       "id_str" : "186015269",
@@ -6001,7 +5995,7 @@ Grailbird.data.tweets_2012_11 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Lee Daly",
+        "name" : "Henry Lee (Daly)",
         "screen_name" : "leedalyire",
         "indices" : [ 99, 110 ],
         "id_str" : "186015269",

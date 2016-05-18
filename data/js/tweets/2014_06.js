@@ -1145,7 +1145,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "ShenoaLawrence",
       "protected" : false,
       "id_str" : "37127416",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/713578270692868096\/e1dWIHe6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/723233210461622272\/q5u7-IqP_normal.jpg",
       "id" : 37127416,
       "verified" : false
     }
@@ -1910,7 +1910,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "24700353",
       "id" : 24700353
     }, {
-      "name" : "Dougth Vader",
+      "name" : "Prodougtivity Expert",
       "screen_name" : "zamoose",
       "indices" : [ 12, 20 ],
       "id_str" : "819148",
@@ -1994,7 +1994,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Doug Day Afternoon",
+      "name" : "Prodougtivity Expert",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -2119,7 +2119,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "ESPNStatsInfo",
       "protected" : false,
       "id_str" : "53120768",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489762140568293376\/6OVMqsBJ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/723509984064090113\/4KfPJUTI_normal.jpg",
       "id" : 53120768,
       "verified" : true
     }
@@ -4365,7 +4365,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "johnbillion",
       "protected" : false,
       "id_str" : "79053835",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3311246574\/0f9b90f6db55dde64ff14ccb86b2ea43_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/725638248714911744\/fjMEtfQI_normal.jpg",
       "id" : 79053835,
       "verified" : false
     }
@@ -4737,7 +4737,7 @@ Grailbird.data.tweets_2014_06 =
       "id" : 3140856846
     } ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/benthompson\/status\/479535178243530752\/photo\/1",
+      "expanded_url" : "http:\/\/twitter.com\/monkbent\/status\/479535178243530752\/photo\/1",
       "indices" : [ 139, 140 ],
       "url" : "http:\/\/t.co\/JEsIF8sywA",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/BqemtCSCUAAucx1.png",
@@ -4778,7 +4778,7 @@ Grailbird.data.tweets_2014_06 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http:\/\/twitter.com\/benthompson\/status\/479535178243530752\/photo\/1",
+        "expanded_url" : "http:\/\/twitter.com\/monkbent\/status\/479535178243530752\/photo\/1",
         "indices" : [ 115, 137 ],
         "url" : "http:\/\/t.co\/JEsIF8sywA",
         "media_url" : "http:\/\/pbs.twimg.com\/media\/BqemtCSCUAAucx1.png",
@@ -6915,7 +6915,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "kadamwhite",
       "protected" : false,
       "id_str" : "20061604",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/573234563750612992\/EKZlF5Ft_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727685927405912064\/WRTJSg2e_normal.jpg",
       "id" : 20061604,
       "verified" : false
     }
@@ -9303,7 +9303,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "21204689",
       "id" : 21204689
     }, {
-      "name" : "Dougth Vader",
+      "name" : "Prodougtivity Expert",
       "screen_name" : "zamoose",
       "indices" : [ 15, 23 ],
       "id_str" : "819148",

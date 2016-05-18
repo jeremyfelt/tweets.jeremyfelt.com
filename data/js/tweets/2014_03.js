@@ -3968,7 +3968,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dougth Vader",
+      "name" : "Prodougtivity Expert",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -5494,7 +5494,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "HARGOW, a punk.",
+      "name" : "HARGOW, a punk",
       "screen_name" : "weskoop",
       "indices" : [ 0, 8 ],
       "id_str" : "12424882",
@@ -6790,7 +6790,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Vanilla ISIS",
+      "name" : "Patrick Popoff",
       "screen_name" : "rmichaelthomas",
       "indices" : [ 3, 18 ],
       "id_str" : "14383423",
@@ -6817,7 +6817,7 @@ Grailbird.data.tweets_2014_03 =
     "id" : 440351187120820224,
     "created_at" : "2014-03-03 05:01:18 +0000",
     "user" : {
-      "name" : "Vanilla ISIS",
+      "name" : "Patrick Popoff",
       "screen_name" : "rmichaelthomas",
       "protected" : false,
       "id_str" : "14383423",

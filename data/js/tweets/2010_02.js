@@ -711,7 +711,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/708705131009863683\/e5MYgfw9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716686126254321664\/v3citfg4_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -926,7 +926,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jersey Boy",
+      "name" : "Michael Gartenberg",
       "screen_name" : "Gartenberg",
       "indices" : [ 3, 14 ],
       "id_str" : "174853",
@@ -953,11 +953,11 @@ Grailbird.data.tweets_2010_02 =
     "id" : 9303012999,
     "created_at" : "2010-02-18 21:54:52 +0000",
     "user" : {
-      "name" : "Jersey Boy",
+      "name" : "Michael Gartenberg",
       "screen_name" : "Gartenberg",
       "protected" : false,
       "id_str" : "174853",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/685262333212540928\/tpgsiLJU_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/717393284667219969\/P4VQ60m7_normal.jpg",
       "id" : 174853,
       "verified" : false
     }

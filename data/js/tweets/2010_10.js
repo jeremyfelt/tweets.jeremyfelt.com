@@ -1090,7 +1090,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "dannysullivan",
       "protected" : false,
       "id_str" : "858051",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/666486077767614464\/6mlS6P14_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/728274719649107969\/UKTr16F8_normal.jpg",
       "id" : 858051,
       "verified" : true
     }
@@ -1486,7 +1486,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "dannysullivan",
       "protected" : false,
       "id_str" : "858051",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/666486077767614464\/6mlS6P14_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/728274719649107969\/UKTr16F8_normal.jpg",
       "id" : 858051,
       "verified" : true
     }
@@ -1810,7 +1810,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "iaindodsworth",
       "protected" : false,
       "id_str" : "14148963",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/687652694547378176\/TCIqYV1L_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/715697309829500928\/j_-x_NxI_normal.jpg",
       "id" : 14148963,
       "verified" : false
     }
@@ -3393,7 +3393,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/708705131009863683\/e5MYgfw9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716686126254321664\/v3citfg4_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -3722,7 +3722,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "824157",
       "id" : 824157
     }, {
-      "name" : "JJ",
+      "name" : "Jason Jordan",
       "screen_name" : "jasonjordan",
       "indices" : [ 16, 28 ],
       "id_str" : "18114168",
@@ -3739,7 +3739,7 @@ Grailbird.data.tweets_2010_10 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "JJ",
+        "name" : "Jason Jordan",
         "screen_name" : "jasonjordan",
         "indices" : [ 3, 15 ],
         "id_str" : "18114168",

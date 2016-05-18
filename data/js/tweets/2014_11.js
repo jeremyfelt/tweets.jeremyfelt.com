@@ -692,8 +692,8 @@ Grailbird.data.tweets_2014_11 =
       "name" : "Fusion",
       "screen_name" : "ThisIsFusion",
       "indices" : [ 87, 100 ],
-      "id_str" : "121817564",
-      "id" : 121817564
+      "id_str" : "726088145180217345",
+      "id" : 726088145180217345
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -714,8 +714,8 @@ Grailbird.data.tweets_2014_11 =
         "name" : "Fusion",
         "screen_name" : "ThisIsFusion",
         "indices" : [ 66, 79 ],
-        "id_str" : "121817564",
-        "id" : 121817564
+        "id_str" : "726088145180217345",
+        "id" : 726088145180217345
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -1060,7 +1060,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "AnilDashVEVO",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -1103,11 +1103,11 @@ Grailbird.data.tweets_2014_11 =
     "id" : 537105519736262657,
     "created_at" : "2014-11-25 04:48:29 +0000",
     "user" : {
-      "name" : "AnilDashVEVO",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/678402398981775361\/xeju7Lqg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/725706637248368641\/YoilUS58_normal.jpg",
       "id" : 36823,
       "verified" : true
     }
@@ -1308,7 +1308,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dougth Vader",
+      "name" : "Prodougtivity Expert",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -1444,7 +1444,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Re\/code",
+      "name" : "Recode",
       "screen_name" : "Recode",
       "indices" : [ 3, 10 ],
       "id_str" : "2244340904",
@@ -1553,11 +1553,11 @@ Grailbird.data.tweets_2014_11 =
     "id" : 536244156663070720,
     "created_at" : "2014-11-22 19:45:44 +0000",
     "user" : {
-      "name" : "Re\/code",
+      "name" : "Recode",
       "screen_name" : "Recode",
       "protected" : false,
       "id_str" : "2244340904",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/603296023910354944\/XXJazTH3_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/729365899828989952\/o0AuZCNW_normal.jpg",
       "id" : 2244340904,
       "verified" : true
     }
@@ -2476,7 +2476,7 @@ Grailbird.data.tweets_2014_11 =
       "id_str" : "13461",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/590385501179289602\/qvTvxmCX_normal.png",
       "id" : 13461,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 535195932162527232,
@@ -3024,8 +3024,8 @@ Grailbird.data.tweets_2014_11 =
       "name" : "Fusion",
       "screen_name" : "ThisIsFusion",
       "indices" : [ 68, 81 ],
-      "id_str" : "121817564",
-      "id" : 121817564
+      "id_str" : "726088145180217345",
+      "id" : 726088145180217345
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3041,8 +3041,8 @@ Grailbird.data.tweets_2014_11 =
         "name" : "Fusion",
         "screen_name" : "ThisIsFusion",
         "indices" : [ 47, 60 ],
-        "id_str" : "121817564",
-        "id" : 121817564
+        "id_str" : "726088145180217345",
+        "id" : 726088145180217345
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -3316,7 +3316,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dougth Vader",
+      "name" : "Prodougtivity Expert",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -3390,7 +3390,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "miya0001",
       "protected" : false,
       "id_str" : "69930519",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/662171491140657152\/lHUZco2S_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/723081047320088576\/OL-HcCCJ_normal.jpg",
       "id" : 69930519,
       "verified" : false
     }
@@ -4254,7 +4254,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "mathowie",
       "protected" : false,
       "id_str" : "761975",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/686778776605204480\/2v4IIjP4_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/723632081868185600\/xO52UWRT_normal.jpg",
       "id" : 761975,
       "verified" : false
     }
@@ -4540,7 +4540,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "AnilDashVEVO",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -4589,11 +4589,11 @@ Grailbird.data.tweets_2014_11 =
     "id" : 532175639559012352,
     "created_at" : "2014-11-11 14:18:54 +0000",
     "user" : {
-      "name" : "AnilDashVEVO",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/678402398981775361\/xeju7Lqg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/725706637248368641\/YoilUS58_normal.jpg",
       "id" : 36823,
       "verified" : true
     }
@@ -4955,7 +4955,7 @@ Grailbird.data.tweets_2014_11 =
       "id_str" : "13461",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/590385501179289602\/qvTvxmCX_normal.png",
       "id" : 13461,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 530957144065966081,

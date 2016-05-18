@@ -583,7 +583,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "SnoopDogg",
       "protected" : false,
       "id_str" : "3004231",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/697609552762527744\/pqXpQ7pJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731178613052080128\/ewFEld4y_normal.jpg",
       "id" : 3004231,
       "verified" : true
     }
@@ -650,7 +650,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "nikesoccer",
       "protected" : false,
       "id_str" : "10678292",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/713034084235120640\/1EPJgbxl_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/732622330787074049\/1hJFZ4im_normal.jpg",
       "id" : 10678292,
       "verified" : true
     }
@@ -1365,67 +1365,6 @@ Grailbird.data.tweets_2014_04 =
   "text" : "WHAT!\n\nRT @knowtheory: Hey check it out. A flying snake that eats bats: https:\/\/t.co\/8psjKhjb65 how is this not already a DC comics villain?",
   "id" : 457553464990511104,
   "created_at" : "2014-04-19 16:17:01 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "David Grann",
-      "screen_name" : "DavidGrann",
-      "indices" : [ 3, 14 ],
-      "id_str" : "584198802",
-      "id" : 584198802
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 106, 128 ],
-      "url" : "http:\/\/t.co\/VadLi8MVM4",
-      "expanded_url" : "http:\/\/buff.ly\/1kLMZol",
-      "display_url" : "buff.ly\/1kLMZol"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "457550909480779776",
-  "text" : "RT @DavidGrann: Why this all-but-forgotten autobiography is one of the great works of American literature http:\/\/t.co\/VadLi8MVM4",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 90, 112 ],
-        "url" : "http:\/\/t.co\/VadLi8MVM4",
-        "expanded_url" : "http:\/\/buff.ly\/1kLMZol",
-        "display_url" : "buff.ly\/1kLMZol"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "457493838819782657",
-    "text" : "Why this all-but-forgotten autobiography is one of the great works of American literature http:\/\/t.co\/VadLi8MVM4",
-    "id" : 457493838819782657,
-    "created_at" : "2014-04-19 12:20:05 +0000",
-    "user" : {
-      "name" : "David Grann",
-      "screen_name" : "DavidGrann",
-      "protected" : false,
-      "id_str" : "584198802",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2246611642\/DavidGrannCMattRichman_normal.jpg",
-      "id" : 584198802,
-      "verified" : false
-    }
-  },
-  "id" : 457550909480779776,
-  "created_at" : "2014-04-19 16:06:52 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3203,7 +3142,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dougth Vader",
+      "name" : "Prodougtivity Expert",
       "screen_name" : "zamoose",
       "indices" : [ 3, 11 ],
       "id_str" : "819148",
@@ -3262,7 +3201,7 @@ Grailbird.data.tweets_2014_04 =
     "id" : 456044153311592448,
     "created_at" : "2014-04-15 12:19:33 +0000",
     "user" : {
-      "name" : "Dougth Vader",
+      "name" : "Prodougtivity Expert",
       "screen_name" : "zamoose",
       "protected" : false,
       "id_str" : "819148",
@@ -3651,7 +3590,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "ryantate",
       "protected" : false,
       "id_str" : "2128391",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/713412835615850496\/Nw4ivw48_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/717049723044171777\/obmC5gwE_normal.jpg",
       "id" : 2128391,
       "verified" : false
     }
@@ -4850,7 +4789,7 @@ Grailbird.data.tweets_2014_04 =
       "id_str" : "13461",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/590385501179289602\/qvTvxmCX_normal.png",
       "id" : 13461,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 454126191864057856,
@@ -5124,7 +5063,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "FredericJacobs",
       "protected" : false,
       "id_str" : "18018877",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/563824930580865024\/Sy07lk0E_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/724499902974308352\/OlAsZT0O_normal.jpg",
       "id" : 18018877,
       "verified" : false
     }
@@ -5287,7 +5226,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "ryantate",
       "protected" : false,
       "id_str" : "2128391",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/713412835615850496\/Nw4ivw48_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/717049723044171777\/obmC5gwE_normal.jpg",
       "id" : 2128391,
       "verified" : false
     }
@@ -6930,7 +6869,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dougth Vader",
+      "name" : "Prodougtivity Expert",
       "screen_name" : "zamoose",
       "indices" : [ 97, 105 ],
       "id_str" : "819148",
@@ -7186,7 +7125,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "econfpsu",
       "protected" : false,
       "id_str" : "67600886",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/677922235739455488\/VmsfhY6p_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/722813140807917568\/QOff5CuZ_normal.jpg",
       "id" : 67600886,
       "verified" : false
     }
@@ -7261,7 +7200,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "michellefelt",
       "protected" : false,
       "id_str" : "32924315",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/700529370964725762\/5heR8xyd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/719643140739571712\/SqThsnf3_normal.jpg",
       "id" : 32924315,
       "verified" : false
     }

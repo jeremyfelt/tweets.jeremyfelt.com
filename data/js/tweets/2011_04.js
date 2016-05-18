@@ -1513,7 +1513,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "fredbenenson",
       "protected" : false,
       "id_str" : "2254561",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/595588044654301186\/EXN4L9vT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716249460255227904\/yl0eaUKH_normal.jpg",
       "id" : 2254561,
       "verified" : false
     }
@@ -2010,7 +2010,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/706854042849271809\/tQnPCrg5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/719364396208640000\/MUe0mUCJ_normal.jpg",
       "id" : 22872643,
       "verified" : true
     }

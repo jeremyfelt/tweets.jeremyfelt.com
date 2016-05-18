@@ -235,7 +235,7 @@ Grailbird.data.tweets_2015_07 =
       "id_str" : "29752531",
       "id" : 29752531
     }, {
-      "name" : "Dougth Vader",
+      "name" : "Prodougtivity Expert",
       "screen_name" : "zamoose",
       "indices" : [ 11, 19 ],
       "id_str" : "819148",
@@ -599,7 +599,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "OnePerfectShot",
       "protected" : false,
       "id_str" : "2172922045",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000690592291\/91e2e81234f90efc26f470b252ef6277_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727214297630154752\/JHWWUnef_normal.jpg",
       "id" : 2172922045,
       "verified" : false
     }
@@ -1219,7 +1219,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "computer t shirts",
+      "name" : "beisbol t shirts",
       "screen_name" : "streetlamp",
       "indices" : [ 0, 11 ],
       "id_str" : "15808208",
@@ -1252,7 +1252,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "computer t shirts",
+      "name" : "beisbol t shirts",
       "screen_name" : "streetlamp",
       "indices" : [ 0, 11 ],
       "id_str" : "15808208",
@@ -1471,7 +1471,7 @@ Grailbird.data.tweets_2015_07 =
       "id_str" : "16438790",
       "id" : 16438790
     }, {
-      "name" : "Dougth Vader",
+      "name" : "Prodougtivity Expert",
       "screen_name" : "zamoose",
       "indices" : [ 19, 27 ],
       "id_str" : "819148",
@@ -1689,7 +1689,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shade Fairy\u2122",
+      "name" : "erotic metaphors",
       "screen_name" : "simonefiasco",
       "indices" : [ 3, 16 ],
       "id_str" : "746649829",
@@ -1776,7 +1776,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 626257985933676545,
     "created_at" : "2015-07-29 05:08:33 +0000",
     "user" : {
-      "name" : "Shade Fairy\u2122",
+      "name" : "erotic metaphors",
       "screen_name" : "simonefiasco",
       "protected" : false,
       "id_str" : "746649829",
@@ -2114,7 +2114,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "kadamwhite",
       "protected" : false,
       "id_str" : "20061604",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/573234563750612992\/EKZlF5Ft_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727685927405912064\/WRTJSg2e_normal.jpg",
       "id" : 20061604,
       "verified" : false
     }
@@ -3641,7 +3641,7 @@ Grailbird.data.tweets_2015_07 =
       "id_str" : "72639192",
       "id" : 72639192
     }, {
-      "name" : "Dr. Universe",
+      "name" : "Ask Dr. Universe",
       "screen_name" : "AskDrUniverse",
       "indices" : [ 53, 67 ],
       "id_str" : "1416593646",
@@ -3697,7 +3697,7 @@ Grailbird.data.tweets_2015_07 =
         "id_str" : "72639192",
         "id" : 72639192
       }, {
-        "name" : "Dr. Universe",
+        "name" : "Ask Dr. Universe",
         "screen_name" : "AskDrUniverse",
         "indices" : [ 37, 51 ],
         "id_str" : "1416593646",
@@ -4139,7 +4139,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "michellefelt",
       "protected" : false,
       "id_str" : "32924315",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/700529370964725762\/5heR8xyd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/719643140739571712\/SqThsnf3_normal.jpg",
       "id" : 32924315,
       "verified" : false
     }
@@ -4936,7 +4936,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "ericandrewlewis",
       "protected" : false,
       "id_str" : "218730107",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/661182740721594368\/ID1uRVeh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/732307839532847104\/G7JL0bjT_normal.jpg",
       "id" : 218730107,
       "verified" : false
     }
@@ -5459,7 +5459,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "NSAGov",
       "protected" : false,
       "id_str" : "2248872301",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/412597791915913216\/v9pvh1JU_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727527189525090304\/OHr577N-_normal.jpg",
       "id" : 2248872301,
       "verified" : true
     }
@@ -5539,7 +5539,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dr. Universe",
+      "name" : "Ask Dr. Universe",
       "screen_name" : "AskDrUniverse",
       "indices" : [ 3, 17 ],
       "id_str" : "1416593646",
@@ -5572,11 +5572,11 @@ Grailbird.data.tweets_2015_07 =
     "id" : 622168867675090944,
     "created_at" : "2015-07-17 22:19:52 +0000",
     "user" : {
-      "name" : "Dr. Universe",
+      "name" : "Ask Dr. Universe",
       "screen_name" : "AskDrUniverse",
       "protected" : false,
       "id_str" : "1416593646",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/572531616958775296\/HDIhVsMU_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/718150331901718528\/8vC1mvyq_normal.jpg",
       "id" : 1416593646,
       "verified" : false
     }
@@ -5947,7 +5947,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "johnbillion",
       "protected" : false,
       "id_str" : "79053835",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3311246574\/0f9b90f6db55dde64ff14ccb86b2ea43_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/725638248714911744\/fjMEtfQI_normal.jpg",
       "id" : 79053835,
       "verified" : false
     }
@@ -7026,7 +7026,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "cycling_podcast",
       "protected" : false,
       "id_str" : "2424103778",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/684424587745083392\/GsjoaTHr_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/728547338399141888\/NwHJ8Gl__normal.jpg",
       "id" : 2424103778,
       "verified" : false
     }
@@ -8509,7 +8509,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dr. Universe",
+      "name" : "Ask Dr. Universe",
       "screen_name" : "AskDrUniverse",
       "indices" : [ 0, 14 ],
       "id_str" : "1416593646",
@@ -8548,7 +8548,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dr. Universe",
+      "name" : "Ask Dr. Universe",
       "screen_name" : "AskDrUniverse",
       "indices" : [ 3, 17 ],
       "id_str" : "1416593646",
@@ -8597,11 +8597,11 @@ Grailbird.data.tweets_2015_07 =
     "id" : 617494057988653056,
     "created_at" : "2015-07-05 00:43:50 +0000",
     "user" : {
-      "name" : "Dr. Universe",
+      "name" : "Ask Dr. Universe",
       "screen_name" : "AskDrUniverse",
       "protected" : false,
       "id_str" : "1416593646",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/572531616958775296\/HDIhVsMU_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/718150331901718528\/8vC1mvyq_normal.jpg",
       "id" : 1416593646,
       "verified" : false
     }
@@ -9652,7 +9652,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "dreamysusan",
       "protected" : false,
       "id_str" : "94655792",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000335978378\/05c42f60b919a1aea3f6ce892dd15b93_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/725042819241488387\/2bEDv9iG_normal.jpg",
       "id" : 94655792,
       "verified" : false
     }

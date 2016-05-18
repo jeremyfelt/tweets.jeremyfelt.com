@@ -1090,79 +1090,6 @@ Grailbird.data.tweets_2013_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "David Grann",
-      "screen_name" : "DavidGrann",
-      "indices" : [ 3, 14 ],
-      "id_str" : "584198802",
-      "id" : 584198802
-    }, {
-      "name" : "cinnamon_carter",
-      "screen_name" : "cinnamon_carter",
-      "indices" : [ 121, 137 ],
-      "id_str" : "105623556",
-      "id" : 105623556
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 94, 116 ],
-      "url" : "http:\/\/t.co\/duYya54SVl",
-      "expanded_url" : "http:\/\/bbc.in\/uRCj6u",
-      "display_url" : "bbc.in\/uRCj6u"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "362055503754440704",
-  "text" : "RT @DavidGrann: A man swallowed a pea, which then sprouted into a plant and grew in his lung. http:\/\/t.co\/duYya54SVl via @cinnamon_carter",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "cinnamon_carter",
-        "screen_name" : "cinnamon_carter",
-        "indices" : [ 105, 121 ],
-        "id_str" : "105623556",
-        "id" : 105623556
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 78, 100 ],
-        "url" : "http:\/\/t.co\/duYya54SVl",
-        "expanded_url" : "http:\/\/bbc.in\/uRCj6u",
-        "display_url" : "bbc.in\/uRCj6u"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "362054323695390721",
-    "text" : "A man swallowed a pea, which then sprouted into a plant and grew in his lung. http:\/\/t.co\/duYya54SVl via @cinnamon_carter",
-    "id" : 362054323695390721,
-    "created_at" : "2013-07-30 03:37:32 +0000",
-    "user" : {
-      "name" : "David Grann",
-      "screen_name" : "DavidGrann",
-      "protected" : false,
-      "id_str" : "584198802",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2246611642\/DavidGrannCMattRichman_normal.jpg",
-      "id" : 584198802,
-      "verified" : false
-    }
-  },
-  "id" : 362055503754440704,
-  "created_at" : "2013-07-30 03:42:13 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4258,7 +4185,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/708705131009863683\/e5MYgfw9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716686126254321664\/v3citfg4_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -6384,7 +6311,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "AnilDashVEVO",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "indices" : [ 0, 9 ],
       "id_str" : "36823",
@@ -7582,7 +7509,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "danimmke",
       "protected" : false,
       "id_str" : "229286623",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/680977253233115140\/K3mvpXNj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/722368590586978305\/iWZjJEFr_normal.jpg",
       "id" : 229286623,
       "verified" : false
     }
@@ -8257,7 +8184,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kiko Doran",
+      "name" : "Kiko",
       "screen_name" : "kikodoran",
       "indices" : [ 0, 10 ],
       "id_str" : "161732413",
@@ -8296,7 +8223,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kiko Doran",
+      "name" : "Kiko",
       "screen_name" : "kikodoran",
       "indices" : [ 3, 13 ],
       "id_str" : "161732413",
@@ -8356,7 +8283,7 @@ Grailbird.data.tweets_2013_07 =
     "in_reply_to_screen_name" : "jeremyfelt",
     "in_reply_to_user_id_str" : "1741681",
     "user" : {
-      "name" : "Kiko Doran",
+      "name" : "Kiko",
       "screen_name" : "kikodoran",
       "protected" : false,
       "id_str" : "161732413",
@@ -9710,7 +9637,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "AnilDashVEVO",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -9759,11 +9686,11 @@ Grailbird.data.tweets_2013_07 =
     "id" : 354785237064089600,
     "created_at" : "2013-07-10 02:12:46 +0000",
     "user" : {
-      "name" : "AnilDashVEVO",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/678402398981775361\/xeju7Lqg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/725706637248368641\/YoilUS58_normal.jpg",
       "id" : 36823,
       "verified" : true
     }
@@ -11936,7 +11863,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "13461",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/590385501179289602\/qvTvxmCX_normal.png",
       "id" : 13461,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 352140647119069186,

@@ -407,7 +407,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/706854042849271809\/tQnPCrg5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/719364396208640000\/MUe0mUCJ_normal.jpg",
       "id" : 22872643,
       "verified" : true
     }
@@ -449,7 +449,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "AnilDashVEVO",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "indices" : [ 3, 12 ],
       "id_str" : "36823",
@@ -476,11 +476,11 @@ Grailbird.data.tweets_2011_02 =
     "id" : 42058679830183936,
     "created_at" : "2011-02-28 03:09:05 +0000",
     "user" : {
-      "name" : "AnilDashVEVO",
+      "name" : "Anil Dash",
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/678402398981775361\/xeju7Lqg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/725706637248368641\/YoilUS58_normal.jpg",
       "id" : 36823,
       "verified" : true
     }
@@ -575,7 +575,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/706854042849271809\/tQnPCrg5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/719364396208640000\/MUe0mUCJ_normal.jpg",
       "id" : 22872643,
       "verified" : true
     }
@@ -1508,7 +1508,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "monaeltahawy",
       "protected" : false,
       "id_str" : "29979814",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/628420913306955776\/8kvsTLzM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731983002192990208\/Dz2PzyOb_normal.jpg",
       "id" : 29979814,
       "verified" : true
     }
@@ -3052,12 +3052,6 @@ Grailbird.data.tweets_2011_02 =
       "indices" : [ 3, 11 ],
       "id_str" : "778057",
       "id" : 778057
-    }, {
-      "name" : "Jon Garfunkel",
-      "screen_name" : "JonGarfunkel",
-      "indices" : [ 16, 29 ],
-      "id_str" : "8772872",
-      "id" : 8772872
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3069,13 +3063,7 @@ Grailbird.data.tweets_2011_02 =
   "retweeted_status" : {
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
-      "user_mentions" : [ {
-        "name" : "Jon Garfunkel",
-        "screen_name" : "JonGarfunkel",
-        "indices" : [ 3, 16 ],
-        "id_str" : "8772872",
-        "id" : 8772872
-      } ],
+      "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
