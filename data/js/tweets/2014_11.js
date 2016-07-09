@@ -809,7 +809,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "HouseofGrays",
       "protected" : false,
       "id_str" : "356861615",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/658742073932185600\/80Tvqwsl_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/743683532405383168\/z8dpuDDI_normal.jpg",
       "id" : 356861615,
       "verified" : false
     }
@@ -1308,7 +1308,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Prodougtivity Expert",
+      "name" : "Doug Kinney",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -1927,7 +1927,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Fedor Indutny",
+      "name" : "Fedor Indutny \u2744\uFE0F",
       "screen_name" : "indutny",
       "indices" : [ 3, 11 ],
       "id_str" : "92915570",
@@ -1954,7 +1954,7 @@ Grailbird.data.tweets_2014_11 =
     "id" : 535054802003431424,
     "created_at" : "2014-11-19 12:59:40 +0000",
     "user" : {
-      "name" : "Fedor Indutny",
+      "name" : "Fedor Indutny \u2744\uFE0F",
       "screen_name" : "indutny",
       "protected" : false,
       "id_str" : "92915570",
@@ -3316,7 +3316,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Prodougtivity Expert",
+      "name" : "Doug Kinney",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -4254,7 +4254,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "mathowie",
       "protected" : false,
       "id_str" : "761975",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/723632081868185600\/xO52UWRT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/742950656164659200\/DQIFeACW_normal.jpg",
       "id" : 761975,
       "verified" : false
     }
@@ -4325,7 +4325,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John James Jacoby",
+      "name" : "John James Jacoby \u2B50\uFE0F",
       "screen_name" : "JJJ",
       "indices" : [ 5, 9 ],
       "id_str" : "15908706",

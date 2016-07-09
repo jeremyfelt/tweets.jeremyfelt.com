@@ -884,28 +884,6 @@ Grailbird.data.tweets_2009_10 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "5058206214",
-  "text" : "Can download an mp3 on my blackberry, but not an iPod touch using safari. Seems strange to me.",
-  "id" : 5058206214,
-  "created_at" : "2009-10-22 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "5058295695",
   "text" : "Now I'm listening to an mp3 on my phone and tweeting on my mp3 player. Huh?",
   "id" : 5058295695,
@@ -931,6 +909,28 @@ Grailbird.data.tweets_2009_10 =
   "id_str" : "5080467545",
   "text" : "Raindrop looks like fun. May have to play with it a bit. http:\/\/tr.im\/CHWi",
   "id" : 5080467545,
+  "created_at" : "2009-10-22 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "5058206214",
+  "text" : "Can download an mp3 on my blackberry, but not an iPod touch using safari. Seems strange to me.",
+  "id" : 5058206214,
   "created_at" : "2009-10-22 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",

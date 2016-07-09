@@ -996,7 +996,7 @@ Grailbird.data.tweets_2012_01 =
       "id_str" : "14132756",
       "id" : 14132756
     }, {
-      "name" : "ipstenu (\u5B9F\u4F73)",
+      "name" : "ipstenu (((\u5B9F\u4F73)))",
       "screen_name" : "Ipstenu",
       "indices" : [ 10, 18 ],
       "id_str" : "9412542",

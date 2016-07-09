@@ -262,7 +262,7 @@ Grailbird.data.tweets_2015_05 =
       "screen_name" : "mathowie",
       "protected" : false,
       "id_str" : "761975",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/723632081868185600\/xO52UWRT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/742950656164659200\/DQIFeACW_normal.jpg",
       "id" : 761975,
       "verified" : false
     }
@@ -323,7 +323,7 @@ Grailbird.data.tweets_2015_05 =
       "screen_name" : "mathowie",
       "protected" : false,
       "id_str" : "761975",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/723632081868185600\/xO52UWRT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/742950656164659200\/DQIFeACW_normal.jpg",
       "id" : 761975,
       "verified" : false
     }
@@ -444,7 +444,7 @@ Grailbird.data.tweets_2015_05 =
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/728593673751912448\/Zj1Z7MIY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/736897402196611073\/UztS287K_normal.jpg",
       "id" : 767,
       "verified" : true
     }
@@ -464,7 +464,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Parker Higgins \u2614",
+      "name" : "Parker Higgins",
       "screen_name" : "xor",
       "indices" : [ 3, 7 ],
       "id_str" : "24500377",
@@ -561,11 +561,11 @@ Grailbird.data.tweets_2015_05 =
     "id" : 604892835062517760,
     "created_at" : "2015-05-31 06:11:04 +0000",
     "user" : {
-      "name" : "Parker Higgins \u2614",
+      "name" : "Parker Higgins",
       "screen_name" : "xor",
       "protected" : false,
       "id_str" : "24500377",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/728713055400431616\/m5s_diYG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/737149756468658176\/_5r5bGlH_normal.jpg",
       "id" : 24500377,
       "verified" : false
     }
@@ -1694,7 +1694,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Prodougtivity Expert",
+      "name" : "Doug Kinney",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -2278,7 +2278,7 @@ Grailbird.data.tweets_2015_05 =
       "screen_name" : "AodhanORiordain",
       "protected" : false,
       "id_str" : "120117254",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/712376358542962688\/BGejoozi_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/750406913674936320\/3qyF_rlC_normal.jpg",
       "id" : 120117254,
       "verified" : true
     }
@@ -2740,7 +2740,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Aaron Jorbin",
+      "name" : "(((Aaron Jorbin)))",
       "screen_name" : "aaronjorbin",
       "indices" : [ 3, 15 ],
       "id_str" : "14886552",
@@ -2825,7 +2825,7 @@ Grailbird.data.tweets_2015_05 =
     "id" : 601142383384862720,
     "created_at" : "2015-05-20 21:48:07 +0000",
     "user" : {
-      "name" : "Aaron Jorbin",
+      "name" : "(((Aaron Jorbin)))",
       "screen_name" : "aaronjorbin",
       "protected" : false,
       "id_str" : "14886552",
@@ -2849,7 +2849,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "#StanleyCup Playoffs",
+      "name" : "NHL",
       "screen_name" : "NHL",
       "indices" : [ 3, 7 ],
       "id_str" : "50004938",
@@ -2892,7 +2892,7 @@ Grailbird.data.tweets_2015_05 =
     "id" : 600896428626419712,
     "created_at" : "2015-05-20 05:30:47 +0000",
     "user" : {
-      "name" : "#StanleyCup Playoffs",
+      "name" : "NHL",
       "screen_name" : "NHL",
       "protected" : false,
       "id_str" : "50004938",
@@ -3174,7 +3174,7 @@ Grailbird.data.tweets_2015_05 =
       "screen_name" : "FredericJacobs",
       "protected" : false,
       "id_str" : "18018877",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/724499902974308352\/OlAsZT0O_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/750009865913901057\/7Nhurj_W_normal.jpg",
       "id" : 18018877,
       "verified" : false
     }
@@ -3698,7 +3698,7 @@ Grailbird.data.tweets_2015_05 =
       "screen_name" : "jennschiffer",
       "protected" : false,
       "id_str" : "12524622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731553360231419904\/AAhMdVvN_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/751859476861444096\/UMgQsVJI_normal.jpg",
       "id" : 12524622,
       "verified" : false
     }
@@ -3984,7 +3984,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Thomas H. Ptacek",
+      "name" : "Thomas Ptacek",
       "screen_name" : "tqbf",
       "indices" : [ 3, 8 ],
       "id_str" : "9395312",
@@ -4021,7 +4021,7 @@ Grailbird.data.tweets_2015_05 =
     "id" : 600059039796465664,
     "created_at" : "2015-05-17 22:03:18 +0000",
     "user" : {
-      "name" : "Thomas H. Ptacek",
+      "name" : "Thomas Ptacek",
       "screen_name" : "tqbf",
       "protected" : false,
       "id_str" : "9395312",
@@ -4051,7 +4051,7 @@ Grailbird.data.tweets_2015_05 =
       "id_str" : "335110427",
       "id" : 335110427
     }, {
-      "name" : "Prodougtivity Expert",
+      "name" : "Doug Kinney",
       "screen_name" : "zamoose",
       "indices" : [ 10, 18 ],
       "id_str" : "819148",
@@ -4084,7 +4084,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Prodougtivity Expert",
+      "name" : "Doug Kinney",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -5225,7 +5225,7 @@ Grailbird.data.tweets_2015_05 =
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/728593673751912448\/Zj1Z7MIY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/736897402196611073\/UztS287K_normal.jpg",
       "id" : 767,
       "verified" : true
     }
@@ -5619,7 +5619,7 @@ Grailbird.data.tweets_2015_05 =
       "screen_name" : "simonwheatley",
       "protected" : false,
       "id_str" : "4371541",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/661258057373122564\/DpYOC_lV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/743514616492363776\/mUdmc3-C_normal.jpg",
       "id" : 4371541,
       "verified" : false
     }
@@ -8980,7 +8980,7 @@ Grailbird.data.tweets_2015_05 =
       "screen_name" : "ericandrewlewis",
       "protected" : false,
       "id_str" : "218730107",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/732307839532847104\/G7JL0bjT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/740677491443044352\/d26N0cfo_normal.jpg",
       "id" : 218730107,
       "verified" : false
     }

@@ -3653,7 +3653,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "trepmal",
       "protected" : false,
       "id_str" : "19574066",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/508052909007699968\/vd7WED2c_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/745673885501136897\/7HruEUVV_normal.jpg",
       "id" : 19574066,
       "verified" : false
     }
@@ -5622,7 +5622,7 @@ Grailbird.data.tweets_2011_09 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "ABC7 News",
-      "screen_name" : "abc7newsBayArea",
+      "screen_name" : "abc7newsbayarea",
       "indices" : [ 51, 67 ],
       "id_str" : "18993395",
       "id" : 18993395
@@ -5774,7 +5774,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/730433724400078849\/GtMWNreI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/747559876738457604\/lVUFryob_normal.jpg",
       "id" : 819797,
       "verified" : false
     }

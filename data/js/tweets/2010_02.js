@@ -790,7 +790,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "DrewFromTV",
       "protected" : false,
       "id_str" : "50835878",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/713609293325590528\/JaTJn73u_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/737724638139015168\/Hv8umXVF_normal.jpg",
       "id" : 50835878,
       "verified" : true
     }
@@ -913,6 +913,34 @@ Grailbird.data.tweets_2010_02 =
   "text" : "And now I know what I'm trying to find a recipe for - great images from the last search - http:\/\/bit.ly\/di7kGB",
   "id" : 9400718421,
   "created_at" : "2010-02-20 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Google",
+      "screen_name" : "google",
+      "indices" : [ 3, 10 ],
+      "id_str" : "20536157",
+      "id" : 20536157
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "9290815619",
+  "text" : "If @google wants to be aggressive with their social network, they should be even more aggressive with the communication surrounding it.",
+  "id" : 9290815619,
+  "created_at" : "2010-02-18 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1088,34 +1116,6 @@ Grailbird.data.tweets_2010_02 =
   "id_str" : "9290783996",
   "text" : "Concern = worry = lack of understanding. A preview of Buzz helped @louisgray understand, but the general public didn't get the same preview.",
   "id" : 9290783996,
-  "created_at" : "2010-02-18 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Google",
-      "screen_name" : "google",
-      "indices" : [ 3, 10 ],
-      "id_str" : "20536157",
-      "id" : 20536157
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "9290815619",
-  "text" : "If @google wants to be aggressive with their social network, they should be even more aggressive with the communication surrounding it.",
-  "id" : 9290815619,
   "created_at" : "2010-02-18 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -1641,7 +1641,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Avram Grumer",
+      "name" : "Avram Grumer \u2766",
       "screen_name" : "avram",
       "indices" : [ 3, 9 ],
       "id_str" : "6547392",
@@ -1668,7 +1668,7 @@ Grailbird.data.tweets_2010_02 =
     "id" : 8841687033,
     "created_at" : "2010-02-09 04:53:01 +0000",
     "user" : {
-      "name" : "Avram Grumer",
+      "name" : "Avram Grumer \u2766",
       "screen_name" : "avram",
       "protected" : false,
       "id_str" : "6547392",

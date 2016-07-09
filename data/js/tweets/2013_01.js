@@ -1133,7 +1133,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "DallasPD",
       "protected" : false,
       "id_str" : "28758060",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/684097157633212416\/G0Tznsn4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/751353258644475904\/kxy7U-r7_normal.jpg",
       "id" : 28758060,
       "verified" : true
     }
@@ -2059,7 +2059,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "tammyhart",
       "protected" : false,
       "id_str" : "10965852",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/624101274783354881\/ovpLj7XX_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/747795044829003781\/d8hMS39k_normal.jpg",
       "id" : 10965852,
       "verified" : false
     }
@@ -4259,12 +4259,6 @@ Grailbird.data.tweets_2013_01 =
       "indices" : [ 14, 23 ],
       "id_str" : "335110427",
       "id" : 335110427
-    }, {
-      "name" : "Robert O 'Rourke",
-      "screen_name" : "sanchothefat",
-      "indices" : [ 24, 37 ],
-      "id_str" : "15768338",
-      "id" : 15768338
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5923,7 +5917,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Christian Heilmann",
+      "name" : "(((Chris Heilmann)))",
       "screen_name" : "codepo8",
       "indices" : [ 3, 11 ],
       "id_str" : "13567",
@@ -5960,7 +5954,7 @@ Grailbird.data.tweets_2013_01 =
     "id" : 289169160611708930,
     "created_at" : "2013-01-10 00:37:55 +0000",
     "user" : {
-      "name" : "Christian Heilmann",
+      "name" : "(((Chris Heilmann)))",
       "screen_name" : "codepo8",
       "protected" : false,
       "id_str" : "13567",
@@ -6961,7 +6955,7 @@ Grailbird.data.tweets_2013_01 =
       "id_str" : "14834340",
       "id" : 14834340
     }, {
-      "name" : "Some(@steveklabnik)",
+      "name" : "Idt[@steveklabnik]",
       "screen_name" : "steveklabnik",
       "indices" : [ 123, 136 ],
       "id_str" : "22386062",
@@ -6983,7 +6977,7 @@ Grailbird.data.tweets_2013_01 =
     "source" : "\u003Ca href=\"http:\/\/bitly.com\" rel=\"nofollow\"\u003Ebitly bitlink\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Some(@steveklabnik)",
+        "name" : "Idt[@steveklabnik]",
         "screen_name" : "steveklabnik",
         "indices" : [ 105, 118 ],
         "id_str" : "22386062",

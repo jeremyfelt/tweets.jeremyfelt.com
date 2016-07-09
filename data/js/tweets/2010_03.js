@@ -228,7 +228,7 @@ Grailbird.data.tweets_2010_03 =
       "screen_name" : "rachelhaot",
       "protected" : false,
       "id_str" : "15066958",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/725444236917743616\/qtsxmMTH_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/738098412378169344\/rJ9rkt0I_normal.jpg",
       "id" : 15066958,
       "verified" : false
     }
@@ -409,6 +409,28 @@ Grailbird.data.tweets_2010_03 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "10205450131",
+  "text" : "Not sure I'm digging blueprint too much. Not bad, but I'm leaning towards 960 gridwise.",
+  "id" : 10205450131,
+  "created_at" : "2010-03-09 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -557,7 +579,7 @@ Grailbird.data.tweets_2010_03 =
       "id" : 884301
     }, {
       "name" : "Foursquare",
-      "screen_name" : "foursquare",
+      "screen_name" : "Foursquare",
       "indices" : [ 87, 98 ],
       "id_str" : "14120151",
       "id" : 14120151
@@ -574,7 +596,7 @@ Grailbird.data.tweets_2010_03 =
     "entities" : {
       "user_mentions" : [ {
         "name" : "Foursquare",
-        "screen_name" : "foursquare",
+        "screen_name" : "Foursquare",
         "indices" : [ 71, 82 ],
         "id_str" : "14120151",
         "id" : 14120151
@@ -745,28 +767,6 @@ Grailbird.data.tweets_2010_03 =
     }
   },
   "id" : 10200155621,
-  "created_at" : "2010-03-09 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "10205450131",
-  "text" : "Not sure I'm digging blueprint too much. Not bad, but I'm leaning towards 960 gridwise.",
-  "id" : 10205450131,
   "created_at" : "2010-03-09 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",

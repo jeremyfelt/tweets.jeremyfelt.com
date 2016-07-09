@@ -4039,7 +4039,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John James Jacoby",
+      "name" : "John James Jacoby \u2B50\uFE0F",
       "screen_name" : "JJJ",
       "indices" : [ 3, 7 ],
       "id_str" : "15908706",
@@ -4103,11 +4103,11 @@ Grailbird.data.tweets_2014_05 =
     "id" : 466909204591038464,
     "created_at" : "2014-05-15 11:53:23 +0000",
     "user" : {
-      "name" : "John James Jacoby",
+      "name" : "John James Jacoby \u2B50\uFE0F",
       "screen_name" : "JJJ",
       "protected" : false,
       "id_str" : "15908706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/613337702465961984\/Ds0CR9jy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/746911056421916672\/qjKMsENn_normal.jpg",
       "id" : 15908706,
       "verified" : false
     }
@@ -4227,7 +4227,7 @@ Grailbird.data.tweets_2014_05 =
       "id_str" : "17462723",
       "id" : 17462723
     }, {
-      "name" : "Cable Green, PhD",
+      "name" : "Cable Green",
       "screen_name" : "cgreen",
       "indices" : [ 71, 78 ],
       "id_str" : "821877",
@@ -4283,7 +4283,7 @@ Grailbird.data.tweets_2014_05 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Cable Green, PhD",
+        "name" : "Cable Green",
         "screen_name" : "cgreen",
         "indices" : [ 50, 57 ],
         "id_str" : "821877",
@@ -4368,7 +4368,7 @@ Grailbird.data.tweets_2014_05 =
       "id_str" : "44196397",
       "id" : 44196397
     }, {
-      "name" : "Matthew Inman",
+      "name" : "Janice Perry",
       "screen_name" : "Oatmeal",
       "indices" : [ 14, 22 ],
       "id_str" : "4519121",
@@ -4385,7 +4385,7 @@ Grailbird.data.tweets_2014_05 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Matthew Inman",
+        "name" : "Janice Perry",
         "screen_name" : "Oatmeal",
         "indices" : [ 0, 8 ],
         "id_str" : "4519121",
@@ -4792,7 +4792,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "buster",
       "protected" : false,
       "id_str" : "2185",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/718609188830621696\/IZn583I1_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744293713669545984\/UTMNdybL_normal.jpg",
       "id" : 2185,
       "verified" : false
     }
@@ -5226,7 +5226,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "wordcampseattle",
       "protected" : false,
       "id_str" : "17046363",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/642068184678338560\/W-vchmiy_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/746212092089245699\/WkNRpjS7_normal.jpg",
       "id" : 17046363,
       "verified" : false
     }
@@ -7319,7 +7319,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Aaron Jorbin",
+      "name" : "(((Aaron Jorbin)))",
       "screen_name" : "aaronjorbin",
       "indices" : [ 0, 12 ],
       "id_str" : "14886552",
@@ -7358,7 +7358,7 @@ Grailbird.data.tweets_2014_05 =
       "id_str" : "24700353",
       "id" : 24700353
     }, {
-      "name" : "Aaron Jorbin",
+      "name" : "(((Aaron Jorbin)))",
       "screen_name" : "aaronjorbin",
       "indices" : [ 12, 24 ],
       "id_str" : "14886552",
@@ -7421,7 +7421,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Aaron Jorbin",
+      "name" : "(((Aaron Jorbin)))",
       "screen_name" : "aaronjorbin",
       "indices" : [ 12, 24 ],
       "id_str" : "14886552",

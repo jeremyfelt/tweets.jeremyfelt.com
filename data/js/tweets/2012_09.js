@@ -1911,7 +1911,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@sweden \/ Andreas",
+      "name" : "@sweden \/ Fanny",
       "screen_name" : "sweden",
       "indices" : [ 3, 10 ],
       "id_str" : "19663706",
@@ -1938,11 +1938,11 @@ Grailbird.data.tweets_2012_09 =
     "id" : 247404378800140288,
     "created_at" : "2012-09-16 18:39:35 +0000",
     "user" : {
-      "name" : "@sweden \/ Andreas",
+      "name" : "@sweden \/ Fanny",
       "screen_name" : "sweden",
       "protected" : false,
       "id_str" : "19663706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/732114486228721664\/YiPd2WPA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/749868205695463424\/F4uOlg71_normal.jpg",
       "id" : 19663706,
       "verified" : true
     }
@@ -3137,7 +3137,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "kimberlypdx",
       "protected" : false,
       "id_str" : "59308637",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/723391872144568326\/2ZY6hl4X_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/745498795400519680\/QtIIgrOn_normal.jpg",
       "id" : 59308637,
       "verified" : false
     }
@@ -4542,7 +4542,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "23627833",
       "id" : 23627833
     }, {
-      "name" : "Kelly Dwan",
+      "name" : "kelly",
       "screen_name" : "ryelle",
       "indices" : [ 47, 54 ],
       "id_str" : "7336452",
@@ -4574,7 +4574,7 @@ Grailbird.data.tweets_2012_09 =
         "id_str" : "23627833",
         "id" : 23627833
       }, {
-        "name" : "Kelly Dwan",
+        "name" : "kelly",
         "screen_name" : "ryelle",
         "indices" : [ 32, 39 ],
         "id_str" : "7336452",
@@ -5037,7 +5037,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "783214",
       "id" : 783214
     }, {
-      "name" : "@sweden \/ Andreas",
+      "name" : "@sweden \/ Fanny",
       "screen_name" : "sweden",
       "indices" : [ 42, 49 ],
       "id_str" : "19663706",
@@ -5726,7 +5726,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "310342631",
       "id" : 310342631
     }, {
-      "name" : "Jessica Spiegel",
+      "name" : "(((JessicaSpiegel)))",
       "screen_name" : "andiamo",
       "indices" : [ 15, 23 ],
       "id_str" : "6580472",

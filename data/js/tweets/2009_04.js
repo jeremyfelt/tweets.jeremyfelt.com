@@ -662,6 +662,59 @@ Grailbird.data.tweets_2009_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Dinged_Corners",
+      "screen_name" : "Dinged_Corners",
+      "indices" : [ 0, 15 ],
+      "id_str" : "16306795",
+      "id" : 16306795
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1599198030",
+  "in_reply_to_user_id" : 16306795,
+  "text" : "@dinged_corners lol, nope.  Need paypal to buy an application from blackberry on the blackberry. :)",
+  "id" : 1599198030,
+  "created_at" : "2009-04-24 00:00:00 +0000",
+  "in_reply_to_screen_name" : "Dinged_Corners",
+  "in_reply_to_user_id_str" : "16306795",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1599496909",
+  "text" : "Top 40 most recent links is almost automated. Added a test account within minutes. Now DB driven. Sweet. Time to automate. http:\/\/tr.im\/jzed",
+  "id" : 1599496909,
+  "created_at" : "2009-04-24 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -715,59 +768,6 @@ Grailbird.data.tweets_2009_04 =
   "id_str" : "1599105445",
   "text" : "Disappointing that the blackberry app store only accepts paypal from their blackberry app. Maybe I'm being lazy.",
   "id" : 1599105445,
-  "created_at" : "2009-04-24 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Dinged_Corners",
-      "screen_name" : "Dinged_Corners",
-      "indices" : [ 0, 15 ],
-      "id_str" : "16306795",
-      "id" : 16306795
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1599198030",
-  "in_reply_to_user_id" : 16306795,
-  "text" : "@dinged_corners lol, nope.  Need paypal to buy an application from blackberry on the blackberry. :)",
-  "id" : 1599198030,
-  "created_at" : "2009-04-24 00:00:00 +0000",
-  "in_reply_to_screen_name" : "Dinged_Corners",
-  "in_reply_to_user_id_str" : "16306795",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1599496909",
-  "text" : "Top 40 most recent links is almost automated. Added a test account within minutes. Now DB driven. Sweet. Time to automate. http:\/\/tr.im\/jzed",
-  "id" : 1599496909,
   "created_at" : "2009-04-24 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -1669,6 +1669,62 @@ Grailbird.data.tweets_2009_04 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
+    "hashtags" : [ {
+      "text" : "technology",
+      "indices" : [ 89, 100 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1513248919",
+  "text" : "Amazon blames \"an embarrassing and ham-fisted cataloging error\" for this weekend's fail. #technology http:\/\/tr.im\/iLiH",
+  "id" : 1513248919,
+  "created_at" : "2009-04-14 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Dave Winer",
+      "screen_name" : "davewiner",
+      "indices" : [ 40, 50 ],
+      "id_str" : "3839",
+      "id" : 3839
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "toptwit",
+      "indices" : [ 95, 103 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1513307349",
+  "text" : "Categories are officially working in my @davewiner top40 link clone.  How much fun is this! :) #toptwit http:\/\/tr.im\/iH4K",
+  "id" : 1513307349,
+  "created_at" : "2009-04-14 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
@@ -2008,62 +2064,6 @@ Grailbird.data.tweets_2009_04 =
   "id_str" : "1513183029",
   "text" : "NY Times - Utility in the Jumble of Tweets #twitter http:\/\/tr.im\/iLh0",
   "id" : 1513183029,
-  "created_at" : "2009-04-14 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "technology",
-      "indices" : [ 89, 100 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1513248919",
-  "text" : "Amazon blames \"an embarrassing and ham-fisted cataloging error\" for this weekend's fail. #technology http:\/\/tr.im\/iLiH",
-  "id" : 1513248919,
-  "created_at" : "2009-04-14 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Dave Winer",
-      "screen_name" : "davewiner",
-      "indices" : [ 40, 50 ],
-      "id_str" : "3839",
-      "id" : 3839
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "toptwit",
-      "indices" : [ 95, 103 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1513307349",
-  "text" : "Categories are officially working in my @davewiner top40 link clone.  How much fun is this! :) #toptwit http:\/\/tr.im\/iH4K",
-  "id" : 1513307349,
   "created_at" : "2009-04-14 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",

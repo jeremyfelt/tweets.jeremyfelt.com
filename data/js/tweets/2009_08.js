@@ -688,6 +688,50 @@ Grailbird.data.tweets_2009_08 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "3420995013",
+  "text" : "Would appear it's time to unleash. Writeup coming.",
+  "id" : 3420995013,
+  "created_at" : "2009-08-20 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "3421423488",
+  "text" : "A Multi-User rssCloud Implementation [Educer] http:\/\/tr.im\/wJJ7",
+  "id" : 3421423488,
+  "created_at" : "2009-08-20 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "3426960575",
   "text" : "Looks like a good handful of testers signed up at mystatuscloud.com - Awesome!",
   "id" : 3426960575,
@@ -779,50 +823,6 @@ Grailbird.data.tweets_2009_08 =
   "id_str" : "3417929027",
   "text" : "Looks like I can work with 2 users. That means we're almost a go...",
   "id" : 3417929027,
-  "created_at" : "2009-08-20 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "3420995013",
-  "text" : "Would appear it's time to unleash. Writeup coming.",
-  "id" : 3420995013,
-  "created_at" : "2009-08-20 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "3421423488",
-  "text" : "A Multi-User rssCloud Implementation [Educer] http:\/\/tr.im\/wJJ7",
-  "id" : 3421423488,
   "created_at" : "2009-08-20 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -1728,6 +1728,40 @@ Grailbird.data.tweets_2009_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Brizzly",
+      "screen_name" : "brizzly",
+      "indices" : [ 7, 15 ],
+      "id_str" : "56436449",
+      "id" : 56436449
+    }, {
+      "name" : "Twitter",
+      "screen_name" : "twitter",
+      "indices" : [ 48, 56 ],
+      "id_str" : "783214",
+      "id" : 783214
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "3258111744",
+  "text" : "Giving @brizzly a shot. Slightly better UI than @twitter so far. Let's see what else it can do.",
+  "id" : 3258111744,
+  "created_at" : "2009-08-12 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1935,40 +1969,6 @@ Grailbird.data.tweets_2009_08 =
   "id_str" : "3271793569",
   "text" : "My quick implementation of a live data feed wastes a lot of bandwidth. Will fix that tonight with less sloppy code..",
   "id" : 3271793569,
-  "created_at" : "2009-08-12 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Brizzly",
-      "screen_name" : "brizzly",
-      "indices" : [ 7, 15 ],
-      "id_str" : "56436449",
-      "id" : 56436449
-    }, {
-      "name" : "Twitter",
-      "screen_name" : "twitter",
-      "indices" : [ 48, 56 ],
-      "id_str" : "783214",
-      "id" : 783214
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "3258111744",
-  "text" : "Giving @brizzly a shot. Slightly better UI than @twitter so far. Let's see what else it can do.",
-  "id" : 3258111744,
   "created_at" : "2009-08-12 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",

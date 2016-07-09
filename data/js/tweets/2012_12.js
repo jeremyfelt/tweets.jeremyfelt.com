@@ -1995,7 +1995,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "maryslosson",
       "protected" : false,
       "id_str" : "37978965",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/592082358653685760\/GDUoq2qN_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/734819201760649220\/Vf1XReJq_normal.jpg",
       "id" : 37978965,
       "verified" : false
     }
@@ -3922,11 +3922,11 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Comcast Matt",
-      "screen_name" : "ComcastMattV",
+      "name" : "comcastmattv",
+      "screen_name" : "comcastmattv",
       "indices" : [ 0, 13 ],
-      "id_str" : "545986226",
-      "id" : 545986226
+      "id_str" : "732970156435996676",
+      "id" : 732970156435996676
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3940,7 +3940,7 @@ Grailbird.data.tweets_2012_12 =
   "id" : 278290907722309632,
   "in_reply_to_status_id" : 278285638036492289,
   "created_at" : "2012-12-11 00:11:37 +0000",
-  "in_reply_to_screen_name" : "ComcastMattV",
+  "in_reply_to_screen_name" : "MattVerna1",
   "in_reply_to_user_id_str" : "545986226",
   "user" : {
     "name" : "Jeremy Felt",
@@ -6436,7 +6436,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/728593673751912448\/Zj1Z7MIY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/736897402196611073\/UztS287K_normal.jpg",
       "id" : 767,
       "verified" : true
     }

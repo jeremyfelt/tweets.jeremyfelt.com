@@ -986,7 +986,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "bcrypt",
       "protected" : false,
       "id_str" : "968881477",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/700778328119115776\/vfV6ODKO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/745893309592313860\/UEzTZg_r_normal.jpg",
       "id" : 968881477,
       "verified" : false
     }
@@ -1042,7 +1042,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Aaron Jorbin",
+      "name" : "(((Aaron Jorbin)))",
       "screen_name" : "aaronjorbin",
       "indices" : [ 0, 12 ],
       "id_str" : "14886552",
@@ -1551,7 +1551,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John James Jacoby",
+      "name" : "John James Jacoby \u2B50\uFE0F",
       "screen_name" : "JJJ",
       "indices" : [ 0, 4 ],
       "id_str" : "15908706",
@@ -1815,12 +1815,6 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gina Wilson",
-      "screen_name" : "GinaWilson9",
-      "indices" : [ 0, 12 ],
-      "id_str" : "429226715",
-      "id" : 429226715
-    }, {
       "name" : "Sheilah Schneider",
       "screen_name" : "ssheilah",
       "indices" : [ 13, 22 ],
@@ -3159,7 +3153,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Prodougtivity Expert",
+      "name" : "Doug Kinney",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -3192,7 +3186,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Prodougtivity Expert",
+      "name" : "Doug Kinney",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -3366,7 +3360,7 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "814641",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000367393751\/68d27e39c589711971390526ba8a8f1c_normal.jpeg",
       "id" : 814641,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 688202421793730560,
@@ -3835,7 +3829,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "JulieFroolie",
       "protected" : false,
       "id_str" : "319444606",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/724106128578072577\/hC9OilhX_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/747226988213985280\/exxaUVn5_normal.jpg",
       "id" : 319444606,
       "verified" : false
     }
@@ -3892,7 +3886,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/728593673751912448\/Zj1Z7MIY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/736897402196611073\/UztS287K_normal.jpg",
       "id" : 767,
       "verified" : true
     }
@@ -5377,7 +5371,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "WhiteHouse",
       "protected" : false,
       "id_str" : "30313925",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/686775860012150784\/YI4gl12-_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/747463206759698432\/c8cVVWhj_normal.jpg",
       "id" : 30313925,
       "verified" : true
     }
@@ -5998,7 +5992,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "dliebelson",
       "protected" : false,
       "id_str" : "217083195",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/658020444310667264\/DUlVUr-7_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/743817299933560832\/Y3qTm5-a_normal.jpg",
       "id" : 217083195,
       "verified" : true
     }

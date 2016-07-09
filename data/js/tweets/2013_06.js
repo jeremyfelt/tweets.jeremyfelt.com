@@ -315,7 +315,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Aaron Jorbin",
+      "name" : "(((Aaron Jorbin)))",
       "screen_name" : "aaronjorbin",
       "indices" : [ 0, 12 ],
       "id_str" : "14886552",
@@ -411,7 +411,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Aaron Jorbin",
+      "name" : "(((Aaron Jorbin)))",
       "screen_name" : "aaronjorbin",
       "indices" : [ 0, 12 ],
       "id_str" : "14886552",
@@ -593,7 +593,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Aaron Jorbin",
+      "name" : "(((Aaron Jorbin)))",
       "screen_name" : "aaronjorbin",
       "indices" : [ 3, 15 ],
       "id_str" : "14886552",
@@ -638,7 +638,7 @@ Grailbird.data.tweets_2013_06 =
     "id" : 351412819826180096,
     "created_at" : "2013-06-30 18:51:59 +0000",
     "user" : {
-      "name" : "Aaron Jorbin",
+      "name" : "(((Aaron Jorbin)))",
       "screen_name" : "aaronjorbin",
       "protected" : false,
       "id_str" : "14886552",
@@ -800,7 +800,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "cool guy mike",
+      "name" : "mike: coolest guy",
       "screen_name" : "mikerapin",
       "indices" : [ 3, 13 ],
       "id_str" : "1144581",
@@ -857,11 +857,11 @@ Grailbird.data.tweets_2013_06 =
     "id" : 351366377015214083,
     "created_at" : "2013-06-30 15:47:27 +0000",
     "user" : {
-      "name" : "cool guy mike",
+      "name" : "mike: coolest guy",
       "screen_name" : "mikerapin",
       "protected" : false,
       "id_str" : "1144581",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727067143787925504\/bJESnlE4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744910828344872961\/irvq6vFp_normal.jpg",
       "id" : 1144581,
       "verified" : false
     }
@@ -1694,13 +1694,13 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"https:\/\/untappd.com\" rel=\"nofollow\"\u003EUntappd\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Goose Island Brewpub",
+      "name" : "Goose Clybourn",
       "screen_name" : "GooseClybourn",
       "indices" : [ 43, 57 ],
       "id_str" : "21159399",
       "id" : 21159399
     }, {
-      "name" : "Goose Island Brewpub",
+      "name" : "Goose Clybourn",
       "screen_name" : "GooseClybourn",
       "indices" : [ 61, 75 ],
       "id_str" : "21159399",
@@ -2023,13 +2023,13 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"https:\/\/untappd.com\" rel=\"nofollow\"\u003EUntappd\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Goose Island Brewpub",
+      "name" : "Goose Clybourn",
       "screen_name" : "GooseClybourn",
       "indices" : [ 32, 46 ],
       "id_str" : "21159399",
       "id" : 21159399
     }, {
-      "name" : "Goose Island Brewpub",
+      "name" : "Goose Clybourn",
       "screen_name" : "GooseClybourn",
       "indices" : [ 50, 64 ],
       "id_str" : "21159399",
@@ -4526,7 +4526,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "berkun",
       "protected" : false,
       "id_str" : "30495974",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/712366637219885056\/Mq7_w1AU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/736269897479524353\/5Oi3IB8V_normal.jpg",
       "id" : 30495974,
       "verified" : false
     }
@@ -8799,7 +8799,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "22232652",
       "id" : 22232652
     }, {
-      "name" : "MortenRandHendriksen",
+      "name" : "Morten the Northman",
       "screen_name" : "mor10",
       "indices" : [ 10, 16 ],
       "id_str" : "14611891",
@@ -9334,7 +9334,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "HouseofGrays",
       "protected" : false,
       "id_str" : "356861615",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/658742073932185600\/80Tvqwsl_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/743683532405383168\/z8dpuDDI_normal.jpg",
       "id" : 356861615,
       "verified" : false
     }
@@ -9522,7 +9522,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "necolas",
       "protected" : false,
       "id_str" : "24974216",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726464213862899712\/GspoBQc2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/738807462019502081\/YaMKyNtE_normal.jpg",
       "id" : 24974216,
       "verified" : false
     }
@@ -11417,7 +11417,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "27740025",
       "id" : 27740025
     }, {
-      "name" : "John James Jacoby",
+      "name" : "John James Jacoby \u2B50\uFE0F",
       "screen_name" : "JJJ",
       "indices" : [ 8, 12 ],
       "id_str" : "15908706",
@@ -12015,7 +12015,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "HouseofGrays",
       "protected" : false,
       "id_str" : "356861615",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/658742073932185600\/80Tvqwsl_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/743683532405383168\/z8dpuDDI_normal.jpg",
       "id" : 356861615,
       "verified" : false
     }
@@ -12757,7 +12757,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "29752531",
       "id" : 29752531
     }, {
-      "name" : "John James Jacoby",
+      "name" : "John James Jacoby \u2B50\uFE0F",
       "screen_name" : "JJJ",
       "indices" : [ 22, 26 ],
       "id_str" : "15908706",

@@ -315,6 +315,56 @@ Grailbird.data.tweets_2009_06 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "2255632579",
+  "text" : "I think Twitter as a tool to get info OUT of Iran has been more likely than as a tool to organize internally. http:\/\/bit.ly\/vHnYh",
+  "id" : 2255632579,
+  "created_at" : "2009-06-20 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u270C Eric Logan \u270C",
+      "screen_name" : "ericloganvanman",
+      "indices" : [ 55, 71 ],
+      "id_str" : "19958528",
+      "id" : 19958528
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2255745658",
+  "text" : "Amazing set of 24 images from Life (Amir Sadeghi) (via @ericloganvanman on FF) http:\/\/bit.ly\/199RjM",
+  "id" : 2255745658,
+  "created_at" : "2009-06-20 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "2256171759",
   "text" : "Statement from the President on Iran http:\/\/bit.ly\/z0Tbf",
   "id" : 2256171759,
@@ -993,7 +1043,7 @@ Grailbird.data.tweets_2009_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1001,38 +1051,10 @@ Grailbird.data.tweets_2009_06 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "2255632579",
-  "text" : "I think Twitter as a tool to get info OUT of Iran has been more likely than as a tool to organize internally. http:\/\/bit.ly\/vHnYh",
-  "id" : 2255632579,
-  "created_at" : "2009-06-20 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u270C Eric Logan \u270C",
-      "screen_name" : "ericloganvanman",
-      "indices" : [ 55, 71 ],
-      "id_str" : "19958528",
-      "id" : 19958528
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2255745658",
-  "text" : "Amazing set of 24 images from Life (Amir Sadeghi) (via @ericloganvanman on FF) http:\/\/bit.ly\/199RjM",
-  "id" : 2255745658,
-  "created_at" : "2009-06-20 00:00:00 +0000",
+  "id_str" : "2231322425",
+  "text" : "Google is launching a Farsi to English translator tomorrow. Yes!",
+  "id" : 2231322425,
+  "created_at" : "2009-06-19 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1576,7 +1598,7 @@ Grailbird.data.tweets_2009_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1584,10 +1606,10 @@ Grailbird.data.tweets_2009_06 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "2231322425",
-  "text" : "Google is launching a Farsi to English translator tomorrow. Yes!",
-  "id" : 2231322425,
-  "created_at" : "2009-06-19 00:00:00 +0000",
+  "id_str" : "2226586002",
+  "text" : "Congressman Compares The Plight Of Iranians To GOP On Twitter, Sticks Foot In Mouth http:\/\/bit.ly\/5gEiA",
+  "id" : 2226586002,
+  "created_at" : "2009-06-18 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2045,28 +2067,6 @@ Grailbird.data.tweets_2009_06 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "2226586002",
-  "text" : "Congressman Compares The Plight Of Iranians To GOP On Twitter, Sticks Foot In Mouth http:\/\/bit.ly\/5gEiA",
-  "id" : 2226586002,
-  "created_at" : "2009-06-18 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "2200054620",
   "text" : "The Speed Counters of Iran \u2013 40 million votes in 12 hours (More possible than I thought) http:\/\/bit.ly\/VUSNY",
   "id" : 2200054620,
@@ -2385,6 +2385,68 @@ Grailbird.data.tweets_2009_06 =
   "text" : "Watching first episode of state of play (BBC) on the treadmill. Good stuff so far!",
   "id" : 2214274117,
   "created_at" : "2009-06-17 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Neil Gorman",
+      "screen_name" : "neilgorman",
+      "indices" : [ 0, 11 ],
+      "id_str" : "721853",
+      "id" : 721853
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2196493840",
+  "in_reply_to_user_id" : 721853,
+  "text" : "@neilgorman I'm with you on that 100%, but be aware. All candidates were chosen by the Grand Council. In the end the theocracy rules.",
+  "id" : 2196493840,
+  "created_at" : "2009-06-16 00:00:00 +0000",
+  "in_reply_to_screen_name" : "neilgorman",
+  "in_reply_to_user_id_str" : "721853",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Neil Gorman",
+      "screen_name" : "neilgorman",
+      "indices" : [ 0, 11 ],
+      "id_str" : "721853",
+      "id" : 721853
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2196498972",
+  "in_reply_to_user_id" : 721853,
+  "text" : "@neilgorman This is only the first step towards a lot of changes. Hopefully.",
+  "id" : 2196498972,
+  "created_at" : "2009-06-16 00:00:00 +0000",
+  "in_reply_to_screen_name" : "neilgorman",
+  "in_reply_to_user_id_str" : "721853",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3108,25 +3170,16 @@ Grailbird.data.tweets_2009_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Neil Gorman",
-      "screen_name" : "neilgorman",
-      "indices" : [ 0, 11 ],
-      "id_str" : "721853",
-      "id" : 721853
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "2196493840",
-  "in_reply_to_user_id" : 721853,
-  "text" : "@neilgorman I'm with you on that 100%, but be aware. All candidates were chosen by the Grand Council. In the end the theocracy rules.",
-  "id" : 2196493840,
-  "created_at" : "2009-06-16 00:00:00 +0000",
-  "in_reply_to_screen_name" : "neilgorman",
-  "in_reply_to_user_id_str" : "721853",
+  "id_str" : "2173329788",
+  "text" : "Repeating this once more. MSM is either failing or has been sufficiently shut down by Iranian gov. Twitter News Sources. http:\/\/tr.im\/osCm",
+  "id" : 2173329788,
+  "created_at" : "2009-06-15 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3139,25 +3192,16 @@ Grailbird.data.tweets_2009_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Neil Gorman",
-      "screen_name" : "neilgorman",
-      "indices" : [ 0, 11 ],
-      "id_str" : "721853",
-      "id" : 721853
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "2196498972",
-  "in_reply_to_user_id" : 721853,
-  "text" : "@neilgorman This is only the first step towards a lot of changes. Hopefully.",
-  "id" : 2196498972,
-  "created_at" : "2009-06-16 00:00:00 +0000",
-  "in_reply_to_screen_name" : "neilgorman",
-  "in_reply_to_user_id_str" : "721853",
+  "id_str" : "2173382269",
+  "text" : "Pictures from \"18 tir\", the 07\/09\/1999 protests in Iran. http:\/\/tr.im\/ouUa",
+  "id" : 2173382269,
+  "created_at" : "2009-06-15 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3237,7 +3281,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mitch Benn",
+      "name" : "mItch benN",
       "screen_name" : "MitchBenn",
       "indices" : [ 8, 18 ],
       "id_str" : "20291015",
@@ -4248,50 +4292,6 @@ Grailbird.data.tweets_2009_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2173329788",
-  "text" : "Repeating this once more. MSM is either failing or has been sufficiently shut down by Iranian gov. Twitter News Sources. http:\/\/tr.im\/osCm",
-  "id" : 2173329788,
-  "created_at" : "2009-06-15 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2173382269",
-  "text" : "Pictures from \"18 tir\", the 07\/09\/1999 protests in Iran. http:\/\/tr.im\/ouUa",
-  "id" : 2173382269,
-  "created_at" : "2009-06-15 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -5118,6 +5118,56 @@ Grailbird.data.tweets_2009_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Mashable",
+      "screen_name" : "mashable",
+      "indices" : [ 38, 47 ],
+      "id_str" : "972651",
+      "id" : 972651
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2149954665",
+  "text" : "Not sure what it was, but joining the @mashable chat was a pain in the ass with twitter sign in. Would be nice if anonymous was allowed.",
+  "id" : 2149954665,
+  "created_at" : "2009-06-13 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2149966561",
+  "text" : "Now tinychat is randomly popping up a new twitter\/oauth tab.  Highly annoying.",
+  "id" : 2149966561,
+  "created_at" : "2009-06-13 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5448,56 +5498,6 @@ Grailbird.data.tweets_2009_06 =
   "id_str" : "2149445901",
   "text" : "I wonder if Facebook would let me register facebook.com\/usernames as my username. Is it worth a shot to lose Jeremy?",
   "id" : 2149445901,
-  "created_at" : "2009-06-13 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Mashable",
-      "screen_name" : "mashable",
-      "indices" : [ 38, 47 ],
-      "id_str" : "972651",
-      "id" : 972651
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2149954665",
-  "text" : "Not sure what it was, but joining the @mashable chat was a pain in the ass with twitter sign in. Would be nice if anonymous was allowed.",
-  "id" : 2149954665,
-  "created_at" : "2009-06-13 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2149966561",
-  "text" : "Now tinychat is randomly popping up a new twitter\/oauth tab.  Highly annoying.",
-  "id" : 2149966561,
   "created_at" : "2009-06-13 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -6548,6 +6548,50 @@ Grailbird.data.tweets_2009_06 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "2071459373",
+  "text" : "Is there an obvious alternative to GoDaddy for the same price\/ease or is it pretty much a crapshoot no matter what?",
+  "id" : 2071459373,
+  "created_at" : "2009-06-08 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2077025666",
+  "text" : "60 years ago today, Orwell's 1984 was published. 70 years ago today, Orwell \"weeded & hoed the French and runner beans.\" http:\/\/tr.im\/nMZA",
+  "id" : 2077025666,
+  "created_at" : "2009-06-08 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "2079366475",
   "text" : "James Madison said \"philosophy is common sense with big words.\" What could be said about Twitter Boot Camp? http:\/\/tr.im\/nOvm",
   "id" : 2079366475,
@@ -6732,50 +6776,6 @@ Grailbird.data.tweets_2009_06 =
   "id_str" : "2071242542",
   "text" : "A downfall of the real-time web is how quickly drama can escalate. Tools abound for communication, but listening stops. http:\/\/tr.im\/nJMY",
   "id" : 2071242542,
-  "created_at" : "2009-06-08 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2071459373",
-  "text" : "Is there an obvious alternative to GoDaddy for the same price\/ease or is it pretty much a crapshoot no matter what?",
-  "id" : 2071459373,
-  "created_at" : "2009-06-08 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2077025666",
-  "text" : "60 years ago today, Orwell's 1984 was published. 70 years ago today, Orwell \"weeded & hoed the French and runner beans.\" http:\/\/tr.im\/nMZA",
-  "id" : 2077025666,
   "created_at" : "2009-06-08 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -7638,6 +7638,50 @@ Grailbird.data.tweets_2009_06 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "2024710485",
+  "text" : "I hate ads that play audio automatically after you open many new tabs and don't know where it's coming from. Thanks Wired & Microsoft.",
+  "id" : 2024710485,
+  "created_at" : "2009-06-04 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2024733774",
+  "text" : "Google Squared has completely blown my mind after just two searches. I love it! http:\/\/tr.im\/nmt7",
+  "id" : 2024733774,
+  "created_at" : "2009-06-04 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "2024911869",
   "text" : "\"Why NPR is the Future of Mainstream Media\" http:\/\/tr.im\/nmwZ",
   "id" : 2024911869,
@@ -7751,50 +7795,6 @@ Grailbird.data.tweets_2009_06 =
   "id_str" : "2034135936",
   "text" : "Argh. Goole Squared is very much a Labs product. I can't save or export a cool one that I just did.",
   "id" : 2034135936,
-  "created_at" : "2009-06-04 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2024710485",
-  "text" : "I hate ads that play audio automatically after you open many new tabs and don't know where it's coming from. Thanks Wired & Microsoft.",
-  "id" : 2024710485,
-  "created_at" : "2009-06-04 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2024733774",
-  "text" : "Google Squared has completely blown my mind after just two searches. I love it! http:\/\/tr.im\/nmt7",
-  "id" : 2024733774,
   "created_at" : "2009-06-04 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",

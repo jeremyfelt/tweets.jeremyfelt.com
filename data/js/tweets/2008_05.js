@@ -424,6 +424,28 @@ Grailbird.data.tweets_2008_05 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "819281446",
+  "text" : "Watching bourne supremacy.  Identity was better.  Next on netflix is ultimatum.",
+  "id" : 819281446,
+  "created_at" : "2008-05-25 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -542,10 +564,10 @@ Grailbird.data.tweets_2008_05 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "819281446",
-  "text" : "Watching bourne supremacy.  Identity was better.  Next on netflix is ultimatum.",
-  "id" : 819281446,
-  "created_at" : "2008-05-25 00:00:00 +0000",
+  "id_str" : "819229427",
+  "text" : "Now time for a sandwich",
+  "id" : 819229427,
+  "created_at" : "2008-05-24 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -567,28 +589,6 @@ Grailbird.data.tweets_2008_05 =
   "id_str" : "819226836",
   "text" : "Let's try this again...",
   "id" : 819226836,
-  "created_at" : "2008-05-24 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "819229427",
-  "text" : "Now time for a sandwich",
-  "id" : 819229427,
   "created_at" : "2008-05-24 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",

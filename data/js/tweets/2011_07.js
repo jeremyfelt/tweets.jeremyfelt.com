@@ -1346,7 +1346,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "RyanLizza",
       "protected" : false,
       "id_str" : "80617430",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/724378267336069120\/GhRV_01s_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/749057712286228480\/DS1DgTGn_normal.jpg",
       "id" : 80617430,
       "verified" : true
     }
@@ -3746,7 +3746,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Milo Yiannopoulos \u2718",
+      "name" : "Milo Yiannopoulos \u3072\u2718",
       "screen_name" : "Nero",
       "indices" : [ 3, 8 ],
       "id_str" : "6160792",
@@ -3795,7 +3795,7 @@ Grailbird.data.tweets_2011_07 =
     "id" : 90531770075852800,
     "created_at" : "2011-07-11 21:23:50 +0000",
     "user" : {
-      "name" : "Milo Yiannopoulos \u2718",
+      "name" : "Milo Yiannopoulos \u3072\u2718",
       "screen_name" : "Nero",
       "protected" : false,
       "id_str" : "6160792",
@@ -3819,7 +3819,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Milo Yiannopoulos \u2718",
+      "name" : "Milo Yiannopoulos \u3072\u2718",
       "screen_name" : "Nero",
       "indices" : [ 49, 54 ],
       "id_str" : "6160792",

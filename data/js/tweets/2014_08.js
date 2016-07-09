@@ -699,7 +699,7 @@ Grailbird.data.tweets_2014_08 =
       "id_str" : "22232652",
       "id" : 22232652
     }, {
-      "name" : "MortenRandHendriksen",
+      "name" : "Morten the Northman",
       "screen_name" : "mor10",
       "indices" : [ 20, 26 ],
       "id_str" : "14611891",
@@ -3538,7 +3538,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "ReignOfApril",
       "protected" : false,
       "id_str" : "119972954",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711376625477136385\/1s9297HF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/736941159415701504\/PNSpsMzX_normal.jpg",
       "id" : 119972954,
       "verified" : false
     }
@@ -4119,7 +4119,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "mathowie",
       "protected" : false,
       "id_str" : "761975",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/723632081868185600\/xO52UWRT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/742950656164659200\/DQIFeACW_normal.jpg",
       "id" : 761975,
       "verified" : false
     }
@@ -5015,7 +5015,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Aaron Jorbin",
+      "name" : "(((Aaron Jorbin)))",
       "screen_name" : "aaronjorbin",
       "indices" : [ 3, 15 ],
       "id_str" : "14886552",
@@ -5052,7 +5052,7 @@ Grailbird.data.tweets_2014_08 =
     "id" : 500026537190490114,
     "created_at" : "2014-08-14 21:09:51 +0000",
     "user" : {
-      "name" : "Aaron Jorbin",
+      "name" : "(((Aaron Jorbin)))",
       "screen_name" : "aaronjorbin",
       "protected" : false,
       "id_str" : "14886552",
@@ -5972,7 +5972,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Leonard",
+      "name" : "David J. Leonard",
       "screen_name" : "drdavidjleonard",
       "indices" : [ 3, 19 ],
       "id_str" : "352779756",
@@ -6069,11 +6069,11 @@ Grailbird.data.tweets_2014_08 =
     "id" : 498961156526985216,
     "created_at" : "2014-08-11 22:36:24 +0000",
     "user" : {
-      "name" : "David Leonard",
+      "name" : "David J. Leonard",
       "screen_name" : "drdavidjleonard",
       "protected" : false,
       "id_str" : "352779756",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/722836642088620035\/o-9Yj0xn_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/751065684365365249\/DPAWo9NI_normal.jpg",
       "id" : 352779756,
       "verified" : false
     }

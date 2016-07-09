@@ -46,7 +46,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "monaeltahawy",
       "protected" : false,
       "id_str" : "29979814",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731983002192990208\/Dz2PzyOb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744248104212434944\/LfNm-Ya3_normal.jpg",
       "id" : 29979814,
       "verified" : true
     }
@@ -599,7 +599,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "maryslosson",
       "protected" : false,
       "id_str" : "37978965",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/592082358653685760\/GDUoq2qN_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/734819201760649220\/Vf1XReJq_normal.jpg",
       "id" : 37978965,
       "verified" : false
     }
@@ -1443,7 +1443,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Clay Shirky",
+      "name" : "Clay (((Shirky)))",
       "screen_name" : "cshirky",
       "indices" : [ 3, 11 ],
       "id_str" : "6141832",
@@ -1476,7 +1476,7 @@ Grailbird.data.tweets_2011_01 =
     "id" : 31021013084938241,
     "created_at" : "2011-01-28 16:09:20 +0000",
     "user" : {
-      "name" : "Clay Shirky",
+      "name" : "Clay (((Shirky)))",
       "screen_name" : "cshirky",
       "protected" : false,
       "id_str" : "6141832",
@@ -1954,7 +1954,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "KeithOlbermann",
       "protected" : false,
       "id_str" : "130617778",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/729879531457228800\/5oZJebzB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/745123794491084800\/jJvDld0j_normal.jpg",
       "id" : 130617778,
       "verified" : true
     }
@@ -3436,7 +3436,7 @@ Grailbird.data.tweets_2011_01 =
       "id_str" : "19715003",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727996762992971776\/2YCmuN4K_normal.jpg",
       "id" : 19715003,
-      "verified" : true
+      "verified" : false
     }
   },
   "id" : 26508110117998592,
@@ -5061,7 +5061,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "Magnuson",
       "protected" : false,
       "id_str" : "14273705",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/732717655103180800\/DO9ot4re_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/739935373447421952\/eyk2NP5B_normal.jpg",
       "id" : 14273705,
       "verified" : false
     }

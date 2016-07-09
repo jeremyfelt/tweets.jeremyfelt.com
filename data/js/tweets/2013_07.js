@@ -102,7 +102,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "14231571",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1282173124\/untitled-158-2_normal.jpg",
       "id" : 14231571,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 362755976744538112,
@@ -3548,7 +3548,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "HouseofGrays",
       "protected" : false,
       "id_str" : "356861615",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/658742073932185600\/80Tvqwsl_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/743683532405383168\/z8dpuDDI_normal.jpg",
       "id" : 356861615,
       "verified" : false
     }
@@ -5252,7 +5252,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "14132756",
       "id" : 14132756
     }, {
-      "name" : "Amy Hendrix",
+      "name" : "(((Amy Hendrix)))",
       "screen_name" : "sabreuse",
       "indices" : [ 104, 113 ],
       "id_str" : "1014851",
@@ -5609,7 +5609,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "HouseofGrays",
       "protected" : false,
       "id_str" : "356861615",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/658742073932185600\/80Tvqwsl_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/743683532405383168\/z8dpuDDI_normal.jpg",
       "id" : 356861615,
       "verified" : false
     }
@@ -7570,7 +7570,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "HouseofGrays",
       "protected" : false,
       "id_str" : "356861615",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/658742073932185600\/80Tvqwsl_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/743683532405383168\/z8dpuDDI_normal.jpg",
       "id" : 356861615,
       "verified" : false
     }
@@ -8398,7 +8398,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "BarackObama",
       "protected" : false,
       "id_str" : "813286",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451007105391022080\/iu1f7brY_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/738744285101580288\/OUoCVEXG_normal.jpg",
       "id" : 813286,
       "verified" : true
     }
@@ -8637,7 +8637,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "SeattlePD",
       "protected" : false,
       "id_str" : "25101704",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/545760770642804736\/j0Vvtgju_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/747808383470755840\/67kbU42B_normal.jpg",
       "id" : 25101704,
       "verified" : true
     }
@@ -8743,7 +8743,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "wordcampyvr",
       "protected" : false,
       "id_str" : "103033795",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605829738267942913\/2-sWAMTb_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/736957252674818049\/DhhijGtC_normal.jpg",
       "id" : 103033795,
       "verified" : false
     }

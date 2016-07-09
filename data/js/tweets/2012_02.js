@@ -2313,7 +2313,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "rainnwilson",
       "protected" : false,
       "id_str" : "19637934",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/620285166255104001\/51jLBzfl_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/733665476140630016\/BiosDs6z_normal.jpg",
       "id" : 19637934,
       "verified" : true
     }

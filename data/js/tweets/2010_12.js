@@ -319,7 +319,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "boonsri",
       "protected" : false,
       "id_str" : "14538938",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/673232174657617920\/m_VDZVcy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/746189671126827008\/8mp3mJ-x_normal.jpg",
       "id" : 14538938,
       "verified" : false
     }
@@ -1374,7 +1374,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "NatGeo",
       "protected" : false,
       "id_str" : "17471979",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/705249451816853504\/y1Er7BhQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/743924912855879680\/yWJHj3fW_normal.jpg",
       "id" : 17471979,
       "verified" : true
     }
@@ -1527,7 +1527,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "frontlineclub",
       "protected" : false,
       "id_str" : "14837709",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3572545077\/a51af144be80d2c1287132e9604fc672_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/736120965541822464\/CBqNe2UF_normal.jpg",
       "id" : 14837709,
       "verified" : false
     }
@@ -1747,7 +1747,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "brunodecock",
       "protected" : false,
       "id_str" : "18240896",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/725263653830709248\/JdLGVamW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/733642629213196288\/KkfC9ewC_normal.jpg",
       "id" : 18240896,
       "verified" : false
     }
@@ -2388,7 +2388,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "Yahoo",
       "protected" : false,
       "id_str" : "19380829",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615626753373945856\/lCKj53DE_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/747326716746444800\/IRfRHRaE_normal.jpg",
       "id" : 19380829,
       "verified" : true
     }
@@ -3753,7 +3753,7 @@ Grailbird.data.tweets_2010_12 =
       "id_str" : "16589206",
       "id" : 16589206
     }, {
-      "name" : "Clay Shirky",
+      "name" : "Clay (((Shirky)))",
       "screen_name" : "cshirky",
       "indices" : [ 67, 75 ],
       "id_str" : "6141832",
