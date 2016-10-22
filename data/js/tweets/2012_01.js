@@ -996,7 +996,7 @@ Grailbird.data.tweets_2012_01 =
       "id_str" : "14132756",
       "id" : 14132756
     }, {
-      "name" : "ipstenu (((\u5B9F\u4F73)))",
+      "name" : "ipstenu ((Mika \u5B9F\u4F73))",
       "screen_name" : "Ipstenu",
       "indices" : [ 10, 18 ],
       "id_str" : "9412542",
@@ -2989,7 +2989,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "rosannecash",
       "protected" : false,
       "id_str" : "71028123",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1348072605\/photo_2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/785446520913006592\/RFPDTnLO_normal.jpg",
       "id" : 71028123,
       "verified" : true
     }
@@ -3009,7 +3009,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Cutts",
+      "name" : "MonsterMatt Cutts",
       "screen_name" : "mattcutts",
       "indices" : [ 94, 104 ],
       "id_str" : "3080761",
@@ -3059,7 +3059,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Craig Mod",
+      "name" : "A Walking Man",
       "screen_name" : "craigmod",
       "indices" : [ 3, 12 ],
       "id_str" : "1835951",
@@ -3096,13 +3096,13 @@ Grailbird.data.tweets_2012_01 =
     "id" : 155898565074497536,
     "created_at" : "2012-01-08 06:28:09 +0000",
     "user" : {
-      "name" : "Craig Mod",
+      "name" : "A Walking Man",
       "screen_name" : "craigmod",
       "protected" : false,
       "id_str" : "1835951",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/718325463865757696\/td4dv44r_normal.jpg",
       "id" : 1835951,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 155902549805903873,
@@ -3348,7 +3348,7 @@ Grailbird.data.tweets_2012_01 =
       "id_str" : "34347535",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/611193710240514048\/w5lUpuqq_normal.jpg",
       "id" : 34347535,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 155764104592760833,

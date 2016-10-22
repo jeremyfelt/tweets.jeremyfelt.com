@@ -335,12 +335,7 @@ Grailbird.data.tweets_2012_12 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/RbyDqxMV",
-      "expanded_url" : "http:\/\/www.adequatelygood.com\/2010\/7\/Writing-Testable-JavaScript",
-      "display_url" : "adequatelygood.com\/2010\/7\/Writing\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "284860172965388289",
@@ -569,24 +564,13 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 3, 18 ],
       "id_str" : "14222501",
       "id" : 14222501
-    }, {
-      "name" : "Open Culture",
-      "screen_name" : "openculture",
-      "indices" : [ 139, 140 ],
-      "id_str" : "19826509",
-      "id" : 19826509
     } ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "duckface",
       "indices" : [ 54, 63 ]
     } ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/qCDywWMy",
-      "expanded_url" : "http:\/\/cultr.me\/WFSUkV",
-      "display_url" : "cultr.me\/WFSUkV"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "282866098616016896",
@@ -643,7 +627,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lada-muahahaha!",
+      "name" : "Pumpkin Spice Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -780,7 +764,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Mastracci",
+      "name" : "Matt Mastracci \u2712",
       "screen_name" : "mmastrac",
       "indices" : [ 0, 9 ],
       "id_str" : "16873352",
@@ -1995,7 +1979,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "maryslosson",
       "protected" : false,
       "id_str" : "37978965",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/734819201760649220\/Vf1XReJq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/753069177057849346\/HrCXuDE7_normal.jpg",
       "id" : 37978965,
       "verified" : false
     }
@@ -2239,7 +2223,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "765548",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1290564266\/me_square_normal.jpg",
       "id" : 765548,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 280463830419660800,
@@ -3297,7 +3281,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Norcross \u2615\uFE0F",
+      "name" : "skin-covered coffee",
       "screen_name" : "norcross",
       "indices" : [ 0, 9 ],
       "id_str" : "14558147",
@@ -3454,7 +3438,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ka:ley lampert",
+      "name" : "kailey lampert",
       "screen_name" : "trepmal",
       "indices" : [ 6, 14 ],
       "id_str" : "19574066",
@@ -4862,7 +4846,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "markjaquith",
       "protected" : false,
       "id_str" : "821042",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/695981502132285441\/ngdJpZBM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/774670831804973056\/iiyf0nWg_normal.jpg",
       "id" : 821042,
       "verified" : false
     }
@@ -5837,7 +5821,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2600 kiersi \u270F\uFE0F",
+      "name" : "Kiersi Boo-khart",
       "screen_name" : "kiersi",
       "indices" : [ 0, 7 ],
       "id_str" : "1335391",
@@ -6436,7 +6420,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/736897402196611073\/UztS287K_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/782716187155148800\/t0rxzly3_normal.jpg",
       "id" : 767,
       "verified" : true
     }

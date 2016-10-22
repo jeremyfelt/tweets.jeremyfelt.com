@@ -293,7 +293,7 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "21067835",
       "id" : 21067835
     }, {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 107, 117 ],
       "id_str" : "3839",
@@ -316,7 +316,7 @@ Grailbird.data.tweets_2010_11 =
         "id_str" : "21067835",
         "id" : 21067835
       }, {
-        "name" : "Dave Winer",
+        "name" : "Dave The Blogger",
         "screen_name" : "davewiner",
         "indices" : [ 94, 104 ],
         "id_str" : "3839",
@@ -412,7 +412,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "nickbilton",
       "protected" : false,
       "id_str" : "1586501",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/739096744248680448\/Ox6CKAOa_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/784633039678763009\/TxerDZ_U_normal.jpg",
       "id" : 1586501,
       "verified" : true
     }
@@ -963,7 +963,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Mastracci",
+      "name" : "Matt Mastracci \u2712",
       "screen_name" : "mmastrac",
       "indices" : [ 0, 9 ],
       "id_str" : "16873352",
@@ -1140,7 +1140,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "sull",
       "protected" : false,
       "id_str" : "1202561",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731297057445646337\/k8rO2RtI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/778441868438712320\/o1x-W35a_normal.jpg",
       "id" : 1202561,
       "verified" : false
     }
@@ -1471,7 +1471,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -1498,11 +1498,11 @@ Grailbird.data.tweets_2010_11 =
     "id" : 5409014800187392,
     "created_at" : "2010-11-18 23:56:24 +0000",
     "user" : {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716686126254321664\/v3citfg4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788124124396871683\/NYpvQ6MA_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -1642,7 +1642,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -1669,11 +1669,11 @@ Grailbird.data.tweets_2010_11 =
     "id" : 4624158579228672,
     "created_at" : "2010-11-16 19:57:39 +0000",
     "user" : {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716686126254321664\/v3citfg4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788124124396871683\/NYpvQ6MA_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -1693,7 +1693,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Mastracci",
+      "name" : "Matt Mastracci \u2712",
       "screen_name" : "mmastrac",
       "indices" : [ 0, 9 ],
       "id_str" : "16873352",
@@ -1913,7 +1913,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "SteveMartinToGo",
       "protected" : false,
       "id_str" : "14824849",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/740210084014260224\/Tz8JkzUW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/778368151566295040\/8DfAAMcA_normal.jpg",
       "id" : 14824849,
       "verified" : true
     }
@@ -2184,7 +2184,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lada-muahahaha!",
+      "name" : "Pumpkin Spice Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -2217,7 +2217,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",
@@ -2434,7 +2434,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -2461,11 +2461,11 @@ Grailbird.data.tweets_2010_11 =
     "id" : 1309178463256576,
     "created_at" : "2010-11-07 16:25:07 +0000",
     "user" : {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716686126254321664\/v3citfg4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788124124396871683\/NYpvQ6MA_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -3240,7 +3240,7 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "2426",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/677921117592416256\/jHcRg-6u_normal.jpg",
       "id" : 2426,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 29432557331,

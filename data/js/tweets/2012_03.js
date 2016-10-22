@@ -1181,7 +1181,7 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "1741681",
       "id" : 1741681
     }, {
-      "name" : "ipstenu (((\u5B9F\u4F73)))",
+      "name" : "ipstenu ((Mika \u5B9F\u4F73))",
       "screen_name" : "Ipstenu",
       "indices" : [ 12, 20 ],
       "id_str" : "9412542",
@@ -1214,7 +1214,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ipstenu (((\u5B9F\u4F73)))",
+      "name" : "ipstenu ((Mika \u5B9F\u4F73))",
       "screen_name" : "Ipstenu",
       "indices" : [ 0, 8 ],
       "id_str" : "9412542",
@@ -1762,7 +1762,7 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "532923",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1255767431\/kung-fu_normal.jpg",
       "id" : 532923,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 175983704160747520,

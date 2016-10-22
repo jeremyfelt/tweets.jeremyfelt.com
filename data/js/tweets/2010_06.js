@@ -801,7 +801,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick LaForge NYT",
+      "name" : "Patrick LaForge",
       "screen_name" : "palafo",
       "indices" : [ 3, 10 ],
       "id_str" : "2020351",
@@ -840,7 +840,7 @@ Grailbird.data.tweets_2010_06 =
     "id" : 17169239818,
     "created_at" : "2010-06-27 14:42:17 +0000",
     "user" : {
-      "name" : "Patrick LaForge NYT",
+      "name" : "Patrick LaForge",
       "screen_name" : "palafo",
       "protected" : false,
       "id_str" : "2020351",
@@ -1260,7 +1260,7 @@ Grailbird.data.tweets_2010_06 =
       "id_str" : "422",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/748239685999202305\/z9hCJpM4_normal.jpg",
       "id" : 422,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 17114031407,
@@ -1544,10 +1544,7 @@ Grailbird.data.tweets_2010_06 =
       "id" : 259829550
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "true",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -1628,7 +1625,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",
@@ -1886,7 +1883,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "rossrubin",
       "protected" : false,
       "id_str" : "9324442",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000110857048\/fb72cfffd8e8c9b1df24ab1d0b111435_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/783651349812609024\/G8i5RoJ4_normal.jpg",
       "id" : 9324442,
       "verified" : false
     }
@@ -2331,7 +2328,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "DougBernards",
       "protected" : false,
       "id_str" : "37241860",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/698628164839342080\/rHOcer___normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/755245718441299969\/PwaEv7o8_normal.jpg",
       "id" : 37241860,
       "verified" : false
     }
@@ -2428,7 +2425,7 @@ Grailbird.data.tweets_2010_06 =
       "id_str" : "14564016",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549648781218557952\/fT9cETS8_normal.jpeg",
       "id" : 14564016,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 16643932333,
@@ -2707,7 +2704,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "Chanders",
       "protected" : false,
       "id_str" : "14245341",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/703687961947336704\/MGJrT4R-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/768091399023685636\/cjpGA3mt_normal.jpg",
       "id" : 14245341,
       "verified" : false
     }
@@ -2913,7 +2910,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -2940,11 +2937,11 @@ Grailbird.data.tweets_2010_06 =
     "id" : 16265575294,
     "created_at" : "2010-06-16 00:15:40 +0000",
     "user" : {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716686126254321664\/v3citfg4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788124124396871683\/NYpvQ6MA_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -2964,7 +2961,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -2991,11 +2988,11 @@ Grailbird.data.tweets_2010_06 =
     "id" : 16268314885,
     "created_at" : "2010-06-16 01:01:15 +0000",
     "user" : {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716686126254321664\/v3citfg4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788124124396871683\/NYpvQ6MA_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -3015,7 +3012,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 20, 30 ],
       "id_str" : "3839",
@@ -3162,7 +3159,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 64, 74 ],
       "id_str" : "3839",
@@ -3569,10 +3566,73 @@ Grailbird.data.tweets_2010_06 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Scott Leslie",
+      "screen_name" : "sleslie",
+      "indices" : [ 3, 11 ],
+      "id_str" : "3567831",
+      "id" : 3567831
+    }, {
+      "name" : "Mike Caulfield",
+      "screen_name" : "holden",
+      "indices" : [ 16, 23 ],
+      "id_str" : "1912681",
+      "id" : 1912681
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "15826044820",
+  "text" : "RT @sleslie: RT @holden: Wow, just did math. Current fine on BP is equal to max. fines for filesharing 454 songs.",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Mike Caulfield",
+        "screen_name" : "holden",
+        "indices" : [ 3, 10 ],
+        "id_str" : "1912681",
+        "id" : 1912681
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "15796280293",
+    "text" : "RT @holden: Wow, just did math. Current fine on BP is equal to max. fines for filesharing 454 songs.",
+    "id" : 15796280293,
+    "created_at" : "2010-06-09 19:11:26 +0000",
+    "user" : {
+      "name" : "Scott Leslie",
+      "screen_name" : "sleslie",
+      "protected" : false,
+      "id_str" : "3567831",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1178526432\/happy_mutant_normal.gif",
+      "id" : 3567831,
+      "verified" : false
+    }
+  },
+  "id" : 15826044820,
+  "created_at" : "2010-06-10 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",
@@ -3654,70 +3714,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scott Leslie",
-      "screen_name" : "sleslie",
-      "indices" : [ 3, 11 ],
-      "id_str" : "3567831",
-      "id" : 3567831
-    }, {
-      "name" : "Mike Caulfield",
-      "screen_name" : "holden",
-      "indices" : [ 16, 23 ],
-      "id_str" : "1912681",
-      "id" : 1912681
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "15826044820",
-  "text" : "RT @sleslie: RT @holden: Wow, just did math. Current fine on BP is equal to max. fines for filesharing 454 songs.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Mike Caulfield",
-        "screen_name" : "holden",
-        "indices" : [ 3, 10 ],
-        "id_str" : "1912681",
-        "id" : 1912681
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "15796280293",
-    "text" : "RT @holden: Wow, just did math. Current fine on BP is equal to max. fines for filesharing 454 songs.",
-    "id" : 15796280293,
-    "created_at" : "2010-06-09 19:11:26 +0000",
-    "user" : {
-      "name" : "Scott Leslie",
-      "screen_name" : "sleslie",
-      "protected" : false,
-      "id_str" : "3567831",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1178526432\/happy_mutant_normal.gif",
-      "id" : 3567831,
-      "verified" : false
-    }
-  },
-  "id" : 15826044820,
-  "created_at" : "2010-06-10 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Rod Begbie",
+      "name" : "Rod Begbie :skull:",
       "screen_name" : "RodBegbie",
       "indices" : [ 3, 13 ],
       "id_str" : "761",
@@ -3744,7 +3741,7 @@ Grailbird.data.tweets_2010_06 =
     "id" : 15741838678,
     "created_at" : "2010-06-08 23:59:56 +0000",
     "user" : {
-      "name" : "Rod Begbie",
+      "name" : "Rod Begbie :skull:",
       "screen_name" : "RodBegbie",
       "protected" : false,
       "id_str" : "761",
@@ -4009,7 +4006,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Craig Mod",
+      "name" : "A Walking Man",
       "screen_name" : "craigmod",
       "indices" : [ 3, 12 ],
       "id_str" : "1835951",
@@ -4036,13 +4033,13 @@ Grailbird.data.tweets_2010_06 =
     "id" : 15676574260,
     "created_at" : "2010-06-08 02:48:50 +0000",
     "user" : {
-      "name" : "Craig Mod",
+      "name" : "A Walking Man",
       "screen_name" : "craigmod",
       "protected" : false,
       "id_str" : "1835951",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/718325463865757696\/td4dv44r_normal.jpg",
       "id" : 1835951,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 15677741808,
@@ -4267,7 +4264,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "cubanalaf",
       "protected" : false,
       "id_str" : "15377897",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/749642360208953344\/snj2PJxr_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/756973219622510592\/6N6FiZLZ_normal.jpg",
       "id" : 15377897,
       "verified" : false
     }
@@ -4411,7 +4408,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -4438,11 +4435,11 @@ Grailbird.data.tweets_2010_06 =
     "id" : 15740669287,
     "created_at" : "2010-06-08 23:39:15 +0000",
     "user" : {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716686126254321664\/v3citfg4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788124124396871683\/NYpvQ6MA_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -4779,7 +4776,7 @@ Grailbird.data.tweets_2010_06 =
       "id_str" : "422",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/748239685999202305\/z9hCJpM4_normal.jpg",
       "id" : 422,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 15645635784,
@@ -4945,7 +4942,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -4972,11 +4969,11 @@ Grailbird.data.tweets_2010_06 =
     "id" : 15583769419,
     "created_at" : "2010-06-06 22:15:53 +0000",
     "user" : {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716686126254321664\/v3citfg4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788124124396871683\/NYpvQ6MA_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -5150,7 +5147,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/749120822384599040\/HeH2sMUP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/785274565047955456\/1ivTAwJO_normal.jpg",
       "id" : 22872643,
       "verified" : true
     }
@@ -5315,6 +5312,57 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Norbert Doetsch",
+      "screen_name" : "wildwasser",
+      "indices" : [ 3, 14 ],
+      "id_str" : "13253992",
+      "id" : 13253992
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "15229595817",
+  "text" : "RT @wildwasser: Unreal BP advertisement from 1999 http:\/\/bit.ly\/ca354Q I don't believe it",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "15216363321",
+    "text" : "Unreal BP advertisement from 1999 http:\/\/bit.ly\/ca354Q I don't believe it",
+    "id" : 15216363321,
+    "created_at" : "2010-06-02 01:02:22 +0000",
+    "user" : {
+      "name" : "Norbert Doetsch",
+      "screen_name" : "wildwasser",
+      "protected" : false,
+      "id_str" : "13253992",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/488925813656387584\/PfMu7Y9r_normal.jpeg",
+      "id" : 13253992,
+      "verified" : false
+    }
+  },
+  "id" : 15229595817,
+  "created_at" : "2010-06-02 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "BP Public Relations",
       "screen_name" : "BPGlobalPR",
       "indices" : [ 3, 14 ],
@@ -5334,10 +5382,7 @@ Grailbird.data.tweets_2010_06 =
       "id" : 147772188
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "gohome",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -5456,10 +5501,7 @@ Grailbird.data.tweets_2010_06 =
       "id" : 740983
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "d8",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -5486,7 +5528,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "loic",
       "protected" : false,
       "id_str" : "740983",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726864481192579073\/EM6gyZuw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/785503694787907584\/e3VSP_Qz_normal.jpg",
       "id" : 740983,
       "verified" : true
     }
@@ -5581,63 +5623,12 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "incanus77",
       "protected" : false,
       "id_str" : "4765141",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/748404373185658880\/UnSk8pm2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/761624278554906624\/V_GvVtyJ_normal.jpg",
       "id" : 4765141,
       "verified" : false
     }
   },
   "id" : 15229441359,
-  "created_at" : "2010-06-02 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Norbert Doetsch",
-      "screen_name" : "wildwasser",
-      "indices" : [ 3, 14 ],
-      "id_str" : "13253992",
-      "id" : 13253992
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "15229595817",
-  "text" : "RT @wildwasser: Unreal BP advertisement from 1999 http:\/\/bit.ly\/ca354Q I don't believe it",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "15216363321",
-    "text" : "Unreal BP advertisement from 1999 http:\/\/bit.ly\/ca354Q I don't believe it",
-    "id" : 15216363321,
-    "created_at" : "2010-06-02 01:02:22 +0000",
-    "user" : {
-      "name" : "Norbert Doetsch",
-      "screen_name" : "wildwasser",
-      "protected" : false,
-      "id_str" : "13253992",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/488925813656387584\/PfMu7Y9r_normal.jpeg",
-      "id" : 13253992,
-      "verified" : false
-    }
-  },
-  "id" : 15229595817,
   "created_at" : "2010-06-02 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",

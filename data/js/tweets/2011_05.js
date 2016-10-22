@@ -25,7 +25,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lada-muahahaha!",
+      "name" : "Pumpkin Spice Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -135,7 +135,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 58, 68 ],
       "id_str" : "3839",
@@ -402,7 +402,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "nickbilton",
       "protected" : false,
       "id_str" : "1586501",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/739096744248680448\/Ox6CKAOa_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/784633039678763009\/TxerDZ_U_normal.jpg",
       "id" : 1586501,
       "verified" : true
     }
@@ -499,12 +499,7 @@ Grailbird.data.tweets_2011_05 =
       "text" : "longreads",
       "indices" : [ 112, 122 ]
     } ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/4a3lBnT",
-      "expanded_url" : "http:\/\/www.howardweaver.com\/Writing_samples\/Non-fiction.html",
-      "display_url" : "howardweaver.com\/Writing_sample\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "73838818196865025",
@@ -704,7 +699,7 @@ Grailbird.data.tweets_2011_05 =
       "id_str" : "8839152",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/557594943858827264\/TqfCWS56_normal.jpeg",
       "id" : 8839152,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 73109603939917824,

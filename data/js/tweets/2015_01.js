@@ -71,7 +71,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "maryslosson",
       "protected" : false,
       "id_str" : "37978965",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/734819201760649220\/Vf1XReJq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/753069177057849346\/HrCXuDE7_normal.jpg",
       "id" : 37978965,
       "verified" : false
     }
@@ -330,37 +330,7 @@ Grailbird.data.tweets_2015_01 =
       "id_str" : "743301540",
       "id" : 743301540
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/WCEurope\/status\/560739345049845760\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/TTCUDNWGhs",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/B8gldmkIIAA9wfA.jpg",
-      "id_str" : "560739344106135552",
-      "id" : 560739344106135552,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B8gldmkIIAA9wfA.jpg",
-      "sizes" : [ {
-        "h" : 248,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 423,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 578,
-        "resize" : "fit",
-        "w" : 1400
-      }, {
-        "h" : 140,
-        "resize" : "fit",
-        "w" : 340
-      } ],
-      "display_url" : "pic.twitter.com\/TTCUDNWGhs"
-    } ],
+    "media" : [ ],
     "hashtags" : [ {
       "text" : "WCEU",
       "indices" : [ 53, 58 ]
@@ -437,7 +407,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "WCEurope",
       "protected" : false,
       "id_str" : "743301540",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/748425325391056896\/SPIZedx8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/785080113545248768\/0op83the_normal.jpg",
       "id" : 743301540,
       "verified" : false
     }
@@ -471,12 +441,7 @@ Grailbird.data.tweets_2015_01 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/OQEIkdjcxT",
-      "expanded_url" : "http:\/\/next.fusion.net\/work-with-us\/wordpress-engineer\/",
-      "display_url" : "next.fusion.net\/work-with-us\/w\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "560886137787408384",
@@ -1049,12 +1014,7 @@ Grailbird.data.tweets_2015_01 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "https:\/\/t.co\/FmWl4fqqLj",
-      "expanded_url" : "https:\/\/medium.com\/message\/how-paper-magazines-web-engineers-scaled-kim-kardashians-back-end-sfw-6367f8d37688",
-      "display_url" : "medium.com\/message\/how-pa\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "557966870418968576",
@@ -1557,12 +1517,7 @@ Grailbird.data.tweets_2015_01 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/mxBYetNrM7",
-      "expanded_url" : "http:\/\/www.economist.com\/news\/leaders\/21639506-just-threat-terrorism-increasing-ability-western-security-agencies-defeat",
-      "display_url" : "economist.com\/news\/leaders\/2\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "556929445282340864",
@@ -1596,7 +1551,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "segphault",
       "protected" : false,
       "id_str" : "3741671",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2393299533\/3p0q41k36r1o1jz55kxy_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/762785618879328256\/qvU6aEMG_normal.jpg",
       "id" : 3741671,
       "verified" : false
     }
@@ -1638,16 +1593,8 @@ Grailbird.data.tweets_2015_01 =
     }, {
       "text" : "WSU",
       "indices" : [ 71, 75 ]
-    }, {
-      "text" : "GoCougs",
-      "indices" : [ 139, 140 ]
     } ],
-    "urls" : [ {
-      "indices" : [ 119, 140 ],
-      "url" : "http:\/\/t.co\/lWWP12a0iN",
-      "expanded_url" : "http:\/\/youtu.be\/c2AsQOKvVgI",
-      "display_url" : "youtu.be\/c2AsQOKvVgI"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "556906678205960192",
@@ -1700,79 +1647,6 @@ Grailbird.data.tweets_2015_01 =
   },
   "id" : 556906678205960192,
   "created_at" : "2015-01-18 20:11:13 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "stribik\u24D0",
-      "screen_name" : "stribika",
-      "indices" : [ 3, 12 ],
-      "id_str" : "2379415466",
-      "id" : 2379415466
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "NSA",
-      "indices" : [ 18, 22 ]
-    }, {
-      "text" : "OpenSSH",
-      "indices" : [ 25, 33 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 95, 118 ],
-      "url" : "https:\/\/t.co\/ZaxOZM0D1Q",
-      "expanded_url" : "https:\/\/www.spiegel.de\/media\/media-35663.pdf",
-      "display_url" : "spiegel.de\/media\/media-35\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "556867235696742400",
-  "text" : "RT @stribika: The #NSA's #OpenSSH backdoor: pubkey embedded in sshd binary allows root access.\nhttps:\/\/t.co\/ZaxOZM0D1Q",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "NSA",
-        "indices" : [ 4, 8 ]
-      }, {
-        "text" : "OpenSSH",
-        "indices" : [ 11, 19 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 81, 104 ],
-        "url" : "https:\/\/t.co\/ZaxOZM0D1Q",
-        "expanded_url" : "https:\/\/www.spiegel.de\/media\/media-35663.pdf",
-        "display_url" : "spiegel.de\/media\/media-35\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "556544640800026624",
-    "text" : "The #NSA's #OpenSSH backdoor: pubkey embedded in sshd binary allows root access.\nhttps:\/\/t.co\/ZaxOZM0D1Q",
-    "id" : 556544640800026624,
-    "created_at" : "2015-01-17 20:12:37 +0000",
-    "user" : {
-      "name" : "stribik\u24D0",
-      "screen_name" : "stribika",
-      "protected" : false,
-      "id_str" : "2379415466",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/551401394746298368\/y7wHlO_8_normal.png",
-      "id" : 2379415466,
-      "verified" : false
-    }
-  },
-  "id" : 556867235696742400,
-  "created_at" : "2015-01-18 17:34:29 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2240,12 +2114,7 @@ Grailbird.data.tweets_2015_01 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 130, 144 ],
-      "url" : "http:\/\/t.co\/aljBvU7weQ",
-      "expanded_url" : "http:\/\/ow.ly\/Hk2Hi",
-      "display_url" : "ow.ly\/Hk2Hi"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "555977911342096384",
@@ -2535,7 +2404,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Doug Kinney",
+      "name" : "CityOfBrotherlyDoug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -2637,7 +2506,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Doug Kinney",
+      "name" : "Cedric Dougory",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -2670,7 +2539,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Doug Kinney",
+      "name" : "Cedric Dougory",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -2703,7 +2572,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Doug Kinney",
+      "name" : "Cedric Dougory",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -2736,7 +2605,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Doug Kinney",
+      "name" : "Cedric Dougory",
       "screen_name" : "zamoose",
       "indices" : [ 3, 11 ],
       "id_str" : "819148",
@@ -2773,7 +2642,7 @@ Grailbird.data.tweets_2015_01 =
     "id" : 555448941463232514,
     "created_at" : "2015-01-14 19:38:42 +0000",
     "user" : {
-      "name" : "Doug Kinney",
+      "name" : "Cedric Dougory",
       "screen_name" : "zamoose",
       "protected" : false,
       "id_str" : "819148",
@@ -2859,37 +2728,7 @@ Grailbird.data.tweets_2015_01 =
       "id_str" : "3662865013",
       "id" : 3662865013
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/DAVID_LYNCH\/status\/554768700536938498\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/vTphDLvR0y",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/B7LvMXYCcAEaiCO.jpg",
-      "id_str" : "554768699832299521",
-      "id" : 554768699832299521,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B7LvMXYCcAEaiCO.jpg",
-      "sizes" : [ {
-        "h" : 1800,
-        "resize" : "fit",
-        "w" : 1200
-      }, {
-        "h" : 1536,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 510,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 900,
-        "resize" : "fit",
-        "w" : 600
-      } ],
-      "display_url" : "pic.twitter.com\/vTphDLvR0y"
-    } ],
+    "media" : [ ],
     "hashtags" : [ {
       "text" : "TwinPeaks",
       "indices" : [ 33, 43 ]
@@ -3063,13 +2902,13 @@ Grailbird.data.tweets_2015_01 =
       "id_str" : "79053835",
       "id" : 79053835
     }, {
-      "name" : "ipstenu (((\u5B9F\u4F73)))",
+      "name" : "ipstenu ((Mika \u5B9F\u4F73))",
       "screen_name" : "Ipstenu",
       "indices" : [ 67, 75 ],
       "id_str" : "9412542",
       "id" : 9412542
     }, {
-      "name" : "John James Jacoby \u2B50\uFE0F",
+      "name" : "John James Jacoby \u26A1\uFE0F",
       "screen_name" : "JJJ",
       "indices" : [ 76, 80 ],
       "id_str" : "15908706",
@@ -3114,37 +2953,7 @@ Grailbird.data.tweets_2015_01 =
       "id_str" : "7076492",
       "id" : 7076492
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/Glinner\/status\/554956878175043584\/photo\/1",
-      "indices" : [ 125, 140 ],
-      "url" : "http:\/\/t.co\/dEf8KzRDAY",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/B7OaVtzIgAAknb8.jpg",
-      "id_str" : "554956876958695424",
-      "id" : 554956876958695424,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B7OaVtzIgAAknb8.jpg",
-      "sizes" : [ {
-        "h" : 697,
-        "resize" : "fit",
-        "w" : 658
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 636,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 360,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 697,
-        "resize" : "fit",
-        "w" : 658
-      } ],
-      "display_url" : "pic.twitter.com\/dEf8KzRDAY"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 102, 124 ],
@@ -3243,12 +3052,7 @@ Grailbird.data.tweets_2015_01 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/OQEIkdjcxT",
-      "expanded_url" : "http:\/\/next.fusion.net\/work-with-us\/wordpress-engineer\/",
-      "display_url" : "next.fusion.net\/work-with-us\/w\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "554878639393603584",
@@ -3637,37 +3441,7 @@ Grailbird.data.tweets_2015_01 =
       "id_str" : "1652541",
       "id" : 1652541
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/TheAPJournalist\/status\/554316614741815297\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/vngYcVbhG1",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/B7FT7XFCcAEy0eN.png",
-      "id_str" : "554316508415815681",
-      "id" : 554316508415815681,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B7FT7XFCcAEy0eN.png",
-      "sizes" : [ {
-        "h" : 226,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 399,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 631,
-        "resize" : "fit",
-        "w" : 950
-      }, {
-        "h" : 631,
-        "resize" : "fit",
-        "w" : 950
-      } ],
-      "display_url" : "pic.twitter.com\/vngYcVbhG1"
-    } ],
+    "media" : [ ],
     "hashtags" : [ {
       "text" : "MarcheRepublicaine",
       "indices" : [ 117, 136 ]
@@ -3912,43 +3686,13 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "murder eyes",
+      "name" : "aesthete",
       "screen_name" : "shokufeyesib",
       "indices" : [ 3, 16 ],
       "id_str" : "47175021",
       "id" : 47175021
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/shokufeyesib\/status\/553655029346086912\/photo\/1",
-      "indices" : [ 121, 140 ],
-      "url" : "http:\/\/t.co\/pTlfxPnouU",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/B676T04IMAAmx__.jpg",
-      "id_str" : "553655022731669504",
-      "id" : 553655022731669504,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B676T04IMAAmx__.jpg",
-      "sizes" : [ {
-        "h" : 763,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 763,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 447,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 253,
-        "resize" : "fit",
-        "w" : 340
-      } ],
-      "display_url" : "pic.twitter.com\/pTlfxPnouU"
-    } ],
+    "media" : [ ],
     "hashtags" : [ {
       "text" : "CharlieHebdo",
       "indices" : [ 107, 120 ]
@@ -4005,11 +3749,11 @@ Grailbird.data.tweets_2015_01 =
     "id" : 553655029346086912,
     "created_at" : "2015-01-09 20:50:20 +0000",
     "user" : {
-      "name" : "murder eyes",
+      "name" : "aesthete",
       "screen_name" : "shokufeyesib",
       "protected" : false,
       "id_str" : "47175021",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/748352753446051846\/GUtDxmSQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/787133728753614848\/d93edcvv_normal.jpg",
       "id" : 47175021,
       "verified" : false
     }
@@ -4360,7 +4104,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \u2368",
+      "name" : "Ryan McCue \uD83D\uDC7B",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -4676,7 +4420,7 @@ Grailbird.data.tweets_2015_01 =
       "id_str" : "4371541",
       "id" : 4371541
     }, {
-      "name" : "not getting over it",
+      "name" : "Joe Saunders",
       "screen_name" : "JoeTheDough",
       "indices" : [ 32, 44 ],
       "id_str" : "13506",
@@ -4698,7 +4442,7 @@ Grailbird.data.tweets_2015_01 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "not getting over it",
+        "name" : "Joe Saunders",
         "screen_name" : "JoeTheDough",
         "indices" : [ 13, 25 ],
         "id_str" : "13506",
@@ -4723,7 +4467,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "simonwheatley",
       "protected" : false,
       "id_str" : "4371541",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/743514616492363776\/mUdmc3-C_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/756936590501548032\/n1K7e0dh_normal.jpg",
       "id" : 4371541,
       "verified" : false
     }
@@ -4776,7 +4520,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Mastracci",
+      "name" : "Matt Mastracci \u2712",
       "screen_name" : "mmastrac",
       "indices" : [ 0, 9 ],
       "id_str" : "16873352",
@@ -5487,12 +5231,7 @@ Grailbird.data.tweets_2015_01 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 127, 140 ],
-      "url" : "http:\/\/t.co\/wn0j8ENar0",
-      "expanded_url" : "http:\/\/9to5mac.com\/2015\/01\/06\/macbook-air-12-inch-redesign\/",
-      "display_url" : "9to5mac.com\/2015\/01\/06\/mac\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "552574613012488192",
@@ -5742,7 +5481,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Doug Kinney",
+      "name" : "Cedric Dougory",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -5864,7 +5603,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "glueckpress",
       "protected" : false,
       "id_str" : "105553092",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/671555119494762496\/LBJ1xaKY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/775059844860641281\/Cw-SegFg_normal.jpg",
       "id" : 105553092,
       "verified" : false
     }
@@ -5915,7 +5654,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "bcrypt",
       "protected" : false,
       "id_str" : "968881477",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/745893309592313860\/UEzTZg_r_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/769321974791217152\/P2Un9Y8p_normal.jpg",
       "id" : 968881477,
       "verified" : false
     }
@@ -6153,7 +5892,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Doug Kinney",
+      "name" : "Cedric Dougory",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -6191,7 +5930,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Doug Kinney",
+      "name" : "Cedric Dougory",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -6265,12 +6004,7 @@ Grailbird.data.tweets_2015_01 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "https:\/\/t.co\/eIw3R3iiCM",
-      "expanded_url" : "https:\/\/www.tollmanz.com\/wordpress-https-mixed-content-detector-1-1-0-update\/",
-      "display_url" : "tollmanz.com\/wordpress-http\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "551894622079680513",
@@ -6605,7 +6339,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jennmoneydollars",
+      "name" : "software jenngineer",
       "screen_name" : "jennschiffer",
       "indices" : [ 3, 16 ],
       "id_str" : "12524622",
@@ -6642,11 +6376,11 @@ Grailbird.data.tweets_2015_01 =
     "id" : 551494731117494272,
     "created_at" : "2015-01-03 21:46:04 +0000",
     "user" : {
-      "name" : "jennmoneydollars",
+      "name" : "software jenngineer",
       "screen_name" : "jennschiffer",
       "protected" : false,
       "id_str" : "12524622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/751859476861444096\/UMgQsVJI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/789526277413830656\/5hyX_t9Z_normal.jpg",
       "id" : 12524622,
       "verified" : false
     }
@@ -6906,7 +6640,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "JS_Zao",
       "protected" : false,
       "id_str" : "27740025",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/504862660152668161\/RBfRQdyP_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/778427787472433152\/LE_1_yBW_normal.jpg",
       "id" : 27740025,
       "verified" : false
     }
@@ -7198,7 +6932,7 @@ Grailbird.data.tweets_2015_01 =
       "id_str" : "20061604",
       "id" : 20061604
     }, {
-      "name" : "Mat Marquis",
+      "name" : "Mat MarqWOLFMANS",
       "screen_name" : "wilto",
       "indices" : [ 114, 120 ],
       "id_str" : "12602932",
@@ -7221,7 +6955,7 @@ Grailbird.data.tweets_2015_01 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Mat Marquis",
+        "name" : "Mat MarqWOLFMANS",
         "screen_name" : "wilto",
         "indices" : [ 98, 104 ],
         "id_str" : "12602932",
@@ -7764,12 +7498,7 @@ Grailbird.data.tweets_2015_01 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 119, 140 ],
-      "url" : "http:\/\/t.co\/Muqzvsfogh",
-      "expanded_url" : "http:\/\/www.vox.com\/2015\/1\/1\/7472345\/new-years-resolutions",
-      "display_url" : "vox.com\/2015\/1\/1\/74723\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "550757585209393153",
@@ -7803,7 +7532,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "yurivictor",
       "protected" : false,
       "id_str" : "5511932",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/708712060675366912\/iyAW6dSu_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/757610196034318336\/Mcr_j_5v_normal.jpg",
       "id" : 5511932,
       "verified" : true
     }

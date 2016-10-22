@@ -34,7 +34,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/747559876738457604\/lVUFryob_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788238429062504450\/lOhrFea1_normal.jpg",
       "id" : 819797,
       "verified" : false
     }
@@ -837,7 +837,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/747559876738457604\/lVUFryob_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788238429062504450\/lOhrFea1_normal.jpg",
       "id" : 819797,
       "verified" : false
     }
@@ -922,7 +922,7 @@ Grailbird.data.tweets_2011_08 =
       "id_str" : "785",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/593841586573692930\/XY2_NLrT_normal.jpg",
       "id" : 785,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 107153160627421184,
@@ -1221,12 +1221,7 @@ Grailbird.data.tweets_2011_08 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/DPgZP9b",
-      "expanded_url" : "http:\/\/www.apple.com\/pr\/bios\/",
-      "display_url" : "apple.com\/pr\/bios\/"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "106790594390663168",
@@ -1317,7 +1312,7 @@ Grailbird.data.tweets_2011_08 =
       "id_str" : "18058741",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/67154029\/Jack_DSCN0256_small-x_normal.jpg",
       "id" : 18058741,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 106785266299174912,
@@ -2053,7 +2048,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lada-muahahaha!",
+      "name" : "Pumpkin Spice Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -2784,12 +2779,7 @@ Grailbird.data.tweets_2011_08 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/GjBTo8Y",
-      "expanded_url" : "http:\/\/bit.ly\/o8OQLT",
-      "display_url" : "bit.ly\/o8OQLT"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "103559385472700416",
@@ -2823,7 +2813,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "Harpers",
       "protected" : false,
       "id_str" : "14287094",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/743541874611335169\/LlIMrI9E_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/786630297626505216\/2rrZcm4X_normal.jpg",
       "id" : 14287094,
       "verified" : false
     }
@@ -3603,7 +3593,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "maryslosson",
       "protected" : false,
       "id_str" : "37978965",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/734819201760649220\/Vf1XReJq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/753069177057849346\/HrCXuDE7_normal.jpg",
       "id" : 37978965,
       "verified" : false
     }
@@ -4055,10 +4045,7 @@ Grailbird.data.tweets_2011_08 =
       "id" : 18479513
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "Colbert",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -4085,7 +4072,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "MLB",
       "protected" : false,
       "id_str" : "18479513",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/717201151125532674\/6WoOmLmM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/789329651864862720\/6GBA_zrF_normal.jpg",
       "id" : 18479513,
       "verified" : true
     }
@@ -4278,7 +4265,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/747559876738457604\/lVUFryob_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788238429062504450\/lOhrFea1_normal.jpg",
       "id" : 819797,
       "verified" : false
     }
@@ -4401,7 +4388,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "Harpers",
       "protected" : false,
       "id_str" : "14287094",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/743541874611335169\/LlIMrI9E_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/786630297626505216\/2rrZcm4X_normal.jpg",
       "id" : 14287094,
       "verified" : false
     }

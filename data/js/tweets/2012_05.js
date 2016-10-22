@@ -192,7 +192,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Clay (((Shirky)))",
+      "name" : "Clay Shirky",
       "screen_name" : "cshirky",
       "indices" : [ 3, 11 ],
       "id_str" : "6141832",
@@ -229,7 +229,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 207824076662775808,
     "created_at" : "2012-05-30 13:21:35 +0000",
     "user" : {
-      "name" : "Clay (((Shirky)))",
+      "name" : "Clay Shirky",
       "screen_name" : "cshirky",
       "protected" : false,
       "id_str" : "6141832",
@@ -783,12 +783,7 @@ Grailbird.data.tweets_2012_05 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/GGJrAndG",
-      "expanded_url" : "http:\/\/instagr.am\/p\/LHL9RclDZr\/",
-      "display_url" : "instagr.am\/p\/LHL9RclDZr\/"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "206579564946796546",
@@ -2120,7 +2115,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "1979921",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/642325773454434304\/StRyH6B6_normal.jpg",
       "id" : 1979921,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 204415330859220993,
@@ -2927,9 +2922,6 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ {
       "text" : "wcsea",
       "indices" : [ 53, 59 ]
-    }, {
-      "text" : "feelthewplove",
-      "indices" : [ 139, 140 ]
     } ],
     "urls" : [ ]
   },
@@ -3058,18 +3050,6 @@ Grailbird.data.tweets_2012_05 =
       "indices" : [ 53, 62 ],
       "id_str" : "335110427",
       "id" : 335110427
-    }, {
-      "name" : "Jeremy Felt",
-      "screen_name" : "jeremyfelt",
-      "indices" : [ 139, 140 ],
-      "id_str" : "1741681",
-      "id" : 1741681
-    }, {
-      "name" : "Taylor D Dewey",
-      "screen_name" : "tddewey",
-      "indices" : [ 139, 140 ],
-      "id_str" : "11146602",
-      "id" : 11146602
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -3253,7 +3233,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ka:ley lampert",
+      "name" : "kailey lampert",
       "screen_name" : "trepmal",
       "indices" : [ 0, 8 ],
       "id_str" : "19574066",
@@ -3721,7 +3701,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ka:ley lampert",
+      "name" : "kailey lampert",
       "screen_name" : "trepmal",
       "indices" : [ 3, 11 ],
       "id_str" : "19574066",
@@ -3754,7 +3734,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 203571638049054720,
     "created_at" : "2012-05-18 19:43:55 +0000",
     "user" : {
-      "name" : "ka:ley lampert",
+      "name" : "kailey lampert",
       "screen_name" : "trepmal",
       "protected" : false,
       "id_str" : "19574066",
@@ -4433,7 +4413,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "34347535",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/611193710240514048\/w5lUpuqq_normal.jpg",
       "id" : 34347535,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 202398102387294209,
@@ -4451,7 +4431,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "isaiah",
+      "name" : "Isaiah Carew",
       "screen_name" : "isaiah",
       "indices" : [ 3, 10 ],
       "id_str" : "3655191",
@@ -4478,7 +4458,7 @@ Grailbird.data.tweets_2012_05 =
     "id" : 201815165744848897,
     "created_at" : "2012-05-13 23:24:19 +0000",
     "user" : {
-      "name" : "isaiah",
+      "name" : "Isaiah Carew",
       "screen_name" : "isaiah",
       "protected" : false,
       "id_str" : "3655191",
@@ -4655,7 +4635,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John James Jacoby \u2B50\uFE0F",
+      "name" : "John James Jacoby \u26A1\uFE0F",
       "screen_name" : "JJJ",
       "indices" : [ 69, 73 ],
       "id_str" : "15908706",
@@ -5277,7 +5257,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ipstenu (((\u5B9F\u4F73)))",
+      "name" : "ipstenu ((Mika \u5B9F\u4F73))",
       "screen_name" : "Ipstenu",
       "indices" : [ 0, 8 ],
       "id_str" : "9412542",
@@ -5289,7 +5269,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "21204689",
       "id" : 21204689
     }, {
-      "name" : "Doug Kinney",
+      "name" : "Cedric Dougory",
       "screen_name" : "zamoose",
       "indices" : [ 24, 32 ],
       "id_str" : "819148",

@@ -85,7 +85,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lada-muahahaha!",
+      "name" : "Pumpkin Spice Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -286,12 +286,7 @@ Grailbird.data.tweets_2011_09 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/tW5kIrRF",
-      "expanded_url" : "http:\/\/cdespinosa.posterous.com\/fire",
-      "display_url" : "cdespinosa.posterous.com\/fire"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "119469198580781056",
@@ -1931,12 +1926,6 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 17, 25 ],
       "id_str" : "782325",
       "id" : 782325
-    }, {
-      "name" : "Ronan Palliser",
-      "screen_name" : "ronanpalliser",
-      "indices" : [ 139, 140 ],
-      "id_str" : "17682939",
-      "id" : 17682939
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2633,7 +2622,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 56, 66 ],
       "id_str" : "3839",
@@ -3072,7 +3061,7 @@ Grailbird.data.tweets_2011_09 =
       "id_str" : "783937",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/469894989636313088\/t8pWFZL0_normal.jpeg",
       "id" : 783937,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 116285715817562112,
@@ -3465,12 +3454,7 @@ Grailbird.data.tweets_2011_09 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/41Fm0gS9",
-      "expanded_url" : "http:\/\/waldo.jaquith.org\/blog\/2011\/09\/simpsons-subscribe-newsletter\/",
-      "display_url" : "waldo.jaquith.org\/blog\/2011\/09\/s\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "115624808175243264",
@@ -3518,7 +3502,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Craig Mod",
+      "name" : "A Walking Man",
       "screen_name" : "craigmod",
       "indices" : [ 0, 9 ],
       "id_str" : "1835951",
@@ -3594,7 +3578,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ka:ley lampert",
+      "name" : "kailey lampert",
       "screen_name" : "trepmal",
       "indices" : [ 3, 11 ],
       "id_str" : "19574066",
@@ -3649,7 +3633,7 @@ Grailbird.data.tweets_2011_09 =
     "id" : 115587937864925184,
     "created_at" : "2011-09-19 00:48:06 +0000",
     "user" : {
-      "name" : "ka:ley lampert",
+      "name" : "kailey lampert",
       "screen_name" : "trepmal",
       "protected" : false,
       "id_str" : "19574066",
@@ -4395,7 +4379,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 71, 81 ],
       "id_str" : "3839",
@@ -5315,7 +5299,7 @@ Grailbird.data.tweets_2011_09 =
       "id_str" : "26871300",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1490888736\/avatar-sm_normal.jpg",
       "id" : 26871300,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 112688597634785280,
@@ -5690,12 +5674,7 @@ Grailbird.data.tweets_2011_09 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/cVytSJV",
-      "expanded_url" : "http:\/\/vintagedeadpeople.tumblr.com",
-      "display_url" : "vintagedeadpeople.tumblr.com"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "111969415423197184",
@@ -5774,7 +5753,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/747559876738457604\/lVUFryob_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788238429062504450\/lOhrFea1_normal.jpg",
       "id" : 819797,
       "verified" : false
     }
@@ -5858,7 +5837,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/725706637248368641\/YoilUS58_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/786179830266167296\/AmZpJJLv_normal.jpg",
       "id" : 36823,
       "verified" : true
     }
@@ -6959,12 +6938,7 @@ Grailbird.data.tweets_2011_09 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/CLAGwK9",
-      "expanded_url" : "http:\/\/j.mp\/oNyyVj",
-      "display_url" : "j.mp\/oNyyVj"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "111220138249945088",
@@ -7809,7 +7783,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lada-muahahaha!",
+      "name" : "Pumpkin Spice Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -7842,7 +7816,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lada-muahahaha!",
+      "name" : "Pumpkin Spice Ladama",
       "screen_name" : "ladama",
       "indices" : [ 3, 10 ],
       "id_str" : "16390477",
@@ -7850,12 +7824,7 @@ Grailbird.data.tweets_2011_09 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/FIdU9R6",
-      "expanded_url" : "http:\/\/bit.ly\/obLCSp",
-      "display_url" : "bit.ly\/obLCSp"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "109316430427717632",
@@ -7879,7 +7848,7 @@ Grailbird.data.tweets_2011_09 =
     "id" : 109313633892315137,
     "created_at" : "2011-09-01 17:16:15 +0000",
     "user" : {
-      "name" : "Lada-muahahaha!",
+      "name" : "Pumpkin Spice Ladama",
       "screen_name" : "ladama",
       "protected" : false,
       "id_str" : "16390477",

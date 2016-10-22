@@ -64,7 +64,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lada-muahahaha!",
+      "name" : "Pumpkin Spice Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -111,12 +111,7 @@ Grailbird.data.tweets_2012_02 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/Akmh1FEq",
-      "expanded_url" : "http:\/\/core.trac.wordpress.org\/ticket\/20103#comment:9",
-      "display_url" : "core.trac.wordpress.org\/ticket\/20103#c\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "174259102980128768",
@@ -231,12 +226,7 @@ Grailbird.data.tweets_2012_02 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/QxmE4pPV",
-      "expanded_url" : "http:\/\/huff.to\/yAJUt5",
-      "display_url" : "huff.to\/yAJUt5"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "173993521156595714",
@@ -651,7 +641,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lada-muahahaha!",
+      "name" : "Pumpkin Spice Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -816,7 +806,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "12514",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459820658327683072\/I_qV0WKP_normal.png",
       "id" : 12514,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 172718265322315776,
@@ -1061,7 +1051,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",
@@ -1142,7 +1132,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "piersmorgan",
       "protected" : false,
       "id_str" : "216299334",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/634740899180904448\/V4wCni0T_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/778941595164999680\/923GrEp1_normal.jpg",
       "id" : 216299334,
       "verified" : true
     }
@@ -1609,7 +1599,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "34347535",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/611193710240514048\/w5lUpuqq_normal.jpg",
       "id" : 34347535,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 171644317406986240,
@@ -2115,12 +2105,7 @@ Grailbird.data.tweets_2012_02 =
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/VeelS5iW",
-      "expanded_url" : "http:\/\/instagr.am\/p\/HIiX8FFDXt\/",
-      "display_url" : "instagr.am\/p\/HIiX8FFDXt\/"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "170725666726215680",
@@ -2180,7 +2165,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "14132756",
       "id" : 14132756
     }, {
-      "name" : "ka:ley lampert",
+      "name" : "kailey lampert",
       "screen_name" : "trepmal",
       "indices" : [ 24, 32 ],
       "id_str" : "19574066",
@@ -2224,12 +2209,6 @@ Grailbird.data.tweets_2012_02 =
       "indices" : [ 3, 17 ],
       "id_str" : "21204689",
       "id" : 21204689
-    }, {
-      "name" : "Jeremy Felt",
-      "screen_name" : "jeremyfelt",
-      "indices" : [ 139, 140 ],
-      "id_str" : "1741681",
-      "id" : 1741681
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2449,7 +2428,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \u2368",
+      "name" : "Ryan McCue \uD83D\uDC7B",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -2622,7 +2601,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "rosannecash",
       "protected" : false,
       "id_str" : "71028123",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1348072605\/photo_2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/785446520913006592\/RFPDTnLO_normal.jpg",
       "id" : 71028123,
       "verified" : true
     }
@@ -2795,7 +2774,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Next Web",
+      "name" : "The Next Web \uD83D\uDCF1\uD83D\uDCBB\uD83C\uDF0D",
       "screen_name" : "TheNextWeb",
       "indices" : [ 32, 43 ],
       "id_str" : "10876852",
@@ -2937,7 +2916,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 68, 78 ],
       "id_str" : "3839",

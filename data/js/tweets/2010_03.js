@@ -80,7 +80,7 @@ Grailbird.data.tweets_2010_03 =
       "id_str" : "8839152",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/557594943858827264\/TqfCWS56_normal.jpeg",
       "id" : 8839152,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 10854069961,
@@ -411,6 +411,69 @@ Grailbird.data.tweets_2010_03 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Brizzly",
+      "screen_name" : "brizzly",
+      "indices" : [ 3, 11 ],
+      "id_str" : "56436449",
+      "id" : 56436449
+    }, {
+      "name" : "Jesse Spencer",
+      "screen_name" : "Jesse_Spencer",
+      "indices" : [ 52, 66 ],
+      "id_str" : "115486770",
+      "id" : 115486770
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "10200155621",
+  "text" : "RT @brizzly: We're hosting a chat for [H]ouse M.D's @Jesse_Spencer right now using some new Brizzly technology. Check it out! http:\/\/bit ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Jesse Spencer",
+        "screen_name" : "Jesse_Spencer",
+        "indices" : [ 39, 53 ],
+        "id_str" : "115486770",
+        "id" : 115486770
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "10200005083",
+    "text" : "We're hosting a chat for [H]ouse M.D's @Jesse_Spencer right now using some new Brizzly technology. Check it out! http:\/\/bit.ly\/bkP2e1",
+    "id" : 10200005083,
+    "created_at" : "2010-03-09 02:09:31 +0000",
+    "user" : {
+      "name" : "Brizzly",
+      "screen_name" : "brizzly",
+      "protected" : false,
+      "id_str" : "56436449",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/441837090\/brizzly-bear-twitter150px_normal.png",
+      "id" : 56436449,
+      "verified" : true
+    }
+  },
+  "id" : 10200155621,
+  "created_at" : "2010-03-09 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -541,7 +604,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Craig Mod",
+      "name" : "A Walking Man",
       "screen_name" : "craigmod",
       "indices" : [ 0, 9 ],
       "id_str" : "1835951",
@@ -718,69 +781,6 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brizzly",
-      "screen_name" : "brizzly",
-      "indices" : [ 3, 11 ],
-      "id_str" : "56436449",
-      "id" : 56436449
-    }, {
-      "name" : "Jesse Spencer",
-      "screen_name" : "Jesse_Spencer",
-      "indices" : [ 52, 66 ],
-      "id_str" : "115486770",
-      "id" : 115486770
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "10200155621",
-  "text" : "RT @brizzly: We're hosting a chat for [H]ouse M.D's @Jesse_Spencer right now using some new Brizzly technology. Check it out! http:\/\/bit ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Jesse Spencer",
-        "screen_name" : "Jesse_Spencer",
-        "indices" : [ 39, 53 ],
-        "id_str" : "115486770",
-        "id" : 115486770
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "10200005083",
-    "text" : "We're hosting a chat for [H]ouse M.D's @Jesse_Spencer right now using some new Brizzly technology. Check it out! http:\/\/bit.ly\/bkP2e1",
-    "id" : 10200005083,
-    "created_at" : "2010-03-09 02:09:31 +0000",
-    "user" : {
-      "name" : "Brizzly",
-      "screen_name" : "brizzly",
-      "protected" : false,
-      "id_str" : "56436449",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/441837090\/brizzly-bear-twitter150px_normal.png",
-      "id" : 56436449,
-      "verified" : true
-    }
-  },
-  "id" : 10200155621,
-  "created_at" : "2010-03-09 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Andy Carvin",
       "screen_name" : "acarvin",
       "indices" : [ 3, 11 ],
@@ -845,10 +845,7 @@ Grailbird.data.tweets_2010_03 =
       "id" : 30190902
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "oscars",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -946,7 +943,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -973,11 +970,11 @@ Grailbird.data.tweets_2010_03 =
     "id" : 10156826486,
     "created_at" : "2010-03-08 05:06:29 +0000",
     "user" : {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716686126254321664\/v3citfg4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788124124396871683\/NYpvQ6MA_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -1019,7 +1016,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -1046,11 +1043,11 @@ Grailbird.data.tweets_2010_03 =
     "id" : 10048424802,
     "created_at" : "2010-03-05 23:52:17 +0000",
     "user" : {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716686126254321664\/v3citfg4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788124124396871683\/NYpvQ6MA_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -1180,7 +1177,7 @@ Grailbird.data.tweets_2010_03 =
       "id_str" : "18713",
       "id" : 18713
     }, {
-      "name" : "Craig Mod",
+      "name" : "A Walking Man",
       "screen_name" : "craigmod",
       "indices" : [ 97, 106 ],
       "id_str" : "1835951",
@@ -1203,7 +1200,7 @@ Grailbird.data.tweets_2010_03 =
         "id_str" : "18713",
         "id" : 18713
       }, {
-        "name" : "Craig Mod",
+        "name" : "A Walking Man",
         "screen_name" : "craigmod",
         "indices" : [ 81, 90 ],
         "id_str" : "1835951",
@@ -1265,7 +1262,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 65, 75 ],
       "id_str" : "3839",

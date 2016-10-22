@@ -477,7 +477,7 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "1979921",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/642325773454434304\/StRyH6B6_normal.jpg",
       "id" : 1979921,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 86289378900578304,
@@ -731,7 +731,7 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "17281876",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/64026975\/rooster_normal.jpg",
       "id" : 17281876,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 86218211040833537,
@@ -1336,7 +1336,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Mastracci",
+      "name" : "Matt Mastracci \u2712",
       "screen_name" : "mmastrac",
       "indices" : [ 24, 33 ],
       "id_str" : "16873352",
@@ -1701,7 +1701,7 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "818340",
       "id" : 818340
     }, {
-      "name" : "Patrick LaForge NYT",
+      "name" : "Patrick LaForge",
       "screen_name" : "palafo",
       "indices" : [ 42, 49 ],
       "id_str" : "2020351",
@@ -2083,7 +2083,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/725706637248368641\/YoilUS58_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/786179830266167296\/AmZpJJLv_normal.jpg",
       "id" : 36823,
       "verified" : true
     }
@@ -2522,12 +2522,7 @@ Grailbird.data.tweets_2011_06 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/hSSAKdm",
-      "expanded_url" : "http:\/\/www.fastcompany.com\/magazine\/157\/jack-abraham-ebay-milo",
-      "display_url" : "fastcompany.com\/magazine\/157\/j\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "83959015318626304",
@@ -2555,7 +2550,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "garrytan",
       "protected" : false,
       "id_str" : "11768582",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/695862016561405952\/J3cey6Kd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/787866091884310528\/DESXuJnX_normal.jpg",
       "id" : 11768582,
       "verified" : false
     }
@@ -2924,7 +2919,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "bittman",
       "protected" : false,
       "id_str" : "20778387",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/633676198644596736\/eeZlRiEr_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/773195640306270209\/lyVn3yVZ_normal.jpg",
       "id" : 20778387,
       "verified" : true
     }
@@ -3703,7 +3698,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -3736,11 +3731,11 @@ Grailbird.data.tweets_2011_06 =
     "id" : 82227586532511744,
     "created_at" : "2011-06-18 23:25:59 +0000",
     "user" : {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716686126254321664\/v3citfg4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788124124396871683\/NYpvQ6MA_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -4527,7 +4522,7 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "2128391",
       "id" : 2128391
     }, {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 15, 25 ],
       "id_str" : "3839",
@@ -4544,7 +4539,7 @@ Grailbird.data.tweets_2011_06 =
     "source" : "\u003Ca href=\"http:\/\/reederapp.com\" rel=\"nofollow\"\u003EReeder\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Dave Winer",
+        "name" : "Dave The Blogger",
         "screen_name" : "davewiner",
         "indices" : [ 1, 11 ],
         "id_str" : "3839",
@@ -4564,7 +4559,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "ryantate",
       "protected" : false,
       "id_str" : "2128391",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/717049723044171777\/obmC5gwE_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/755405519809044480\/V7eyMgFz_normal.jpg",
       "id" : 2128391,
       "verified" : false
     }
@@ -4584,7 +4579,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -4617,11 +4612,11 @@ Grailbird.data.tweets_2011_06 =
     "id" : 81393520438550528,
     "created_at" : "2011-06-16 16:11:42 +0000",
     "user" : {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716686126254321664\/v3citfg4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788124124396871683\/NYpvQ6MA_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -4663,7 +4658,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Mastracci",
+      "name" : "Matt Mastracci \u2712",
       "screen_name" : "mmastrac",
       "indices" : [ 0, 9 ],
       "id_str" : "16873352",
@@ -5185,12 +5180,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 29, 38 ],
       "id_str" : "87818409",
       "id" : 87818409
-    }, {
-      "name" : "blprnt",
-      "screen_name" : "blprnt",
-      "indices" : [ 139, 140 ],
-      "id_str" : "17013577",
-      "id" : 17013577
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5337,7 +5326,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/725706637248368641\/YoilUS58_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/786179830266167296\/AmZpJJLv_normal.jpg",
       "id" : 36823,
       "verified" : true
     }
@@ -5514,7 +5503,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/725706637248368641\/YoilUS58_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/786179830266167296\/AmZpJJLv_normal.jpg",
       "id" : 36823,
       "verified" : true
     }
@@ -5816,12 +5805,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 104, 116 ],
       "id_str" : "22872643",
       "id" : 22872643
-    }, {
-      "name" : "Team Twaggies",
-      "screen_name" : "twaggies",
-      "indices" : [ 139, 140 ],
-      "id_str" : "87969079",
-      "id" : 87969079
     } ],
     "media" : [ ],
     "hashtags" : [ ],

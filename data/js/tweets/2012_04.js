@@ -411,7 +411,7 @@ Grailbird.data.tweets_2012_04 =
       "id_str" : "21204689",
       "id" : 21204689
     }, {
-      "name" : "ka:ley lampert",
+      "name" : "kailey lampert",
       "screen_name" : "trepmal",
       "indices" : [ 15, 23 ],
       "id_str" : "19574066",
@@ -867,7 +867,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "rosannecash",
       "protected" : false,
       "id_str" : "71028123",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1348072605\/photo_2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/785446520913006592\/RFPDTnLO_normal.jpg",
       "id" : 71028123,
       "verified" : true
     }
@@ -1300,12 +1300,7 @@ Grailbird.data.tweets_2012_04 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/krS1Soje",
-      "expanded_url" : "http:\/\/bit.ly\/IBGgX0",
-      "display_url" : "bit.ly\/IBGgX0"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "192112062426648577",
@@ -1484,7 +1479,7 @@ Grailbird.data.tweets_2012_04 =
       "id_str" : "34347535",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/611193710240514048\/w5lUpuqq_normal.jpg",
       "id" : 34347535,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 191921399240196096,
@@ -1619,7 +1614,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "EricMann",
       "protected" : false,
       "id_str" : "14132756",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000152038480\/6926fd272ae556d3c9ef948b7c7da73f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/770047905117966336\/Zfr4zUB8_normal.jpg",
       "id" : 14132756,
       "verified" : false
     }
@@ -1945,7 +1940,7 @@ Grailbird.data.tweets_2012_04 =
       "id_str" : "12514",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459820658327683072\/I_qV0WKP_normal.png",
       "id" : 12514,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 190695621546610689,

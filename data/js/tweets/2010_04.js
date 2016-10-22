@@ -30,6 +30,28 @@ Grailbird.data.tweets_2010_04 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "13141324502",
+  "text" : "And if you can find perfect copies of the books we're selling today elsewhere for $1 or 50 cents, go for it.",
+  "id" : 13141324502,
+  "created_at" : "2010-04-30 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "13141646510",
   "text" : "Just sold my Jack Bauer bag. Somewhat sad, but it wasn't that comfortable. http:\/\/bit.ly\/bdcRBo",
   "id" : 13141646510,
@@ -239,28 +261,6 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "13141324502",
-  "text" : "And if you can find perfect copies of the books we're selling today elsewhere for $1 or 50 cents, go for it.",
-  "id" : 13141324502,
-  "created_at" : "2010-04-30 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -368,7 +368,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/725706637248368641\/YoilUS58_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/786179830266167296\/AmZpJJLv_normal.jpg",
       "id" : 36823,
       "verified" : true
     }
@@ -410,7 +410,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lada-muahahaha!",
+      "name" : "Pumpkin Spice Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -597,7 +597,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",
@@ -1375,7 +1375,7 @@ Grailbird.data.tweets_2010_04 =
       "id_str" : "14564016",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549648781218557952\/fT9cETS8_normal.jpeg",
       "id" : 14564016,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 12609480440,
@@ -1459,7 +1459,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Mastracci",
+      "name" : "Matt Mastracci \u2712",
       "screen_name" : "mmastrac",
       "indices" : [ 0, 9 ],
       "id_str" : "16873352",
@@ -1477,6 +1477,37 @@ Grailbird.data.tweets_2010_04 =
   "created_at" : "2010-04-22 00:00:00 +0000",
   "in_reply_to_screen_name" : "mmastrac",
   "in_reply_to_user_id_str" : "16873352",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Brizzly",
+      "screen_name" : "brizzly",
+      "indices" : [ 44, 52 ],
+      "id_str" : "56436449",
+      "id" : 56436449
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "WebcamWednesday",
+      "indices" : [ 67, 83 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12597917196",
+  "text" : "Take a photo with the new camera control in @brizzly & tag it with #WebcamWednesday (pass it on!) http:\/\/brizzly.com\/pic\/25UG",
+  "id" : 12597917196,
+  "created_at" : "2010-04-21 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1521,7 +1552,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chris Messina",
+      "name" : "\uD83D\uDD78Chris Messina",
       "screen_name" : "chrismessina",
       "indices" : [ 3, 16 ],
       "id_str" : "1186",
@@ -1578,7 +1609,7 @@ Grailbird.data.tweets_2010_04 =
     "id" : 12598081338,
     "created_at" : "2010-04-21 21:12:24 +0000",
     "user" : {
-      "name" : "Chris Messina",
+      "name" : "\uD83D\uDD78Chris Messina",
       "screen_name" : "chrismessina",
       "protected" : false,
       "id_str" : "1186",
@@ -1865,7 +1896,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 78, 88 ],
       "id_str" : "3839",
@@ -1910,37 +1941,6 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12597896969",
   "text" : "Take a photo with the new camera control in @brizzly & tag it with #WebcamWednesday (pass it on!)",
   "id" : 12597896969,
-  "created_at" : "2010-04-21 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Brizzly",
-      "screen_name" : "brizzly",
-      "indices" : [ 44, 52 ],
-      "id_str" : "56436449",
-      "id" : 56436449
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "WebcamWednesday",
-      "indices" : [ 67, 83 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12597917196",
-  "text" : "Take a photo with the new camera control in @brizzly & tag it with #WebcamWednesday (pass it on!) http:\/\/brizzly.com\/pic\/25UG",
-  "id" : 12597917196,
   "created_at" : "2010-04-21 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -2161,7 +2161,7 @@ Grailbird.data.tweets_2010_04 =
       "id_str" : "8839152",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/557594943858827264\/TqfCWS56_normal.jpeg",
       "id" : 8839152,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 12471774186,
@@ -2607,7 +2607,7 @@ Grailbird.data.tweets_2010_04 =
       "id_str" : "422",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/748239685999202305\/z9hCJpM4_normal.jpg",
       "id" : 422,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 12100590473,
@@ -2984,6 +2984,40 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/blackberry.com\/twitter\" rel=\"nofollow\"\u003ETwitter for BlackBerry\u00AE\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Twitter",
+      "screen_name" : "twitter",
+      "indices" : [ 7, 15 ],
+      "id_str" : "783214",
+      "id" : 783214
+    }, {
+      "name" : "TwitPic",
+      "screen_name" : "TwitPic",
+      "indices" : [ 32, 40 ],
+      "id_str" : "12925072",
+      "id" : 12925072
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "11917963521",
+  "text" : "Or has @twitter already aquired @twitpic and we are all just the last to know. What next week will bring...",
+  "id" : 11917963521,
+  "created_at" : "2010-04-10 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -3342,7 +3376,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/725706637248368641\/YoilUS58_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/786179830266167296\/AmZpJJLv_normal.jpg",
       "id" : 36823,
       "verified" : true
     }
@@ -3535,40 +3569,6 @@ Grailbird.data.tweets_2010_04 =
     }
   },
   "id" : 11917903294,
-  "created_at" : "2010-04-10 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/blackberry.com\/twitter\" rel=\"nofollow\"\u003ETwitter for BlackBerry\u00AE\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Twitter",
-      "screen_name" : "twitter",
-      "indices" : [ 7, 15 ],
-      "id_str" : "783214",
-      "id" : 783214
-    }, {
-      "name" : "TwitPic",
-      "screen_name" : "TwitPic",
-      "indices" : [ 32, 40 ],
-      "id_str" : "12925072",
-      "id" : 12925072
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "11917963521",
-  "text" : "Or has @twitter already aquired @twitpic and we are all just the last to know. What next week will bring...",
-  "id" : 11917963521,
   "created_at" : "2010-04-10 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",

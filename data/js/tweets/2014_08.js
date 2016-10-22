@@ -699,7 +699,7 @@ Grailbird.data.tweets_2014_08 =
       "id_str" : "22232652",
       "id" : 22232652
     }, {
-      "name" : "Morten the Northman",
+      "name" : "MortenRandHendriksen",
       "screen_name" : "mor10",
       "indices" : [ 20, 26 ],
       "id_str" : "14611891",
@@ -837,21 +837,10 @@ Grailbird.data.tweets_2014_08 =
       "indices" : [ 32, 43 ],
       "id_str" : "403012191",
       "id" : 403012191
-    }, {
-      "name" : "HackPDX",
-      "screen_name" : "hackpdx",
-      "indices" : [ 139, 140 ],
-      "id_str" : "2619995275",
-      "id" : 2619995275
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 121, 140 ],
-      "url" : "http:\/\/t.co\/UWowx0Cb8m",
-      "expanded_url" : "http:\/\/hackpdx.com\/",
-      "display_url" : "hackpdx.com"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "504501630012645376",
@@ -1254,11 +1243,11 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "HARGOW, a punk",
+      "name" : "Wes Koop",
       "screen_name" : "weskoop",
       "indices" : [ 0, 8 ],
-      "id_str" : "12424882",
-      "id" : 12424882
+      "id_str" : "718180969300119552",
+      "id" : 718180969300119552
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1272,7 +1261,7 @@ Grailbird.data.tweets_2014_08 =
   "id" : 503399887992406016,
   "in_reply_to_status_id" : 503399313633189888,
   "created_at" : "2014-08-24 04:34:20 +0000",
-  "in_reply_to_screen_name" : "weskoop",
+  "in_reply_to_screen_name" : "HARGOW_PARTY",
   "in_reply_to_user_id_str" : "12424882",
   "user" : {
     "name" : "Jeremy Felt",
@@ -1892,12 +1881,7 @@ Grailbird.data.tweets_2014_08 =
       "text" : "GoCougs",
       "indices" : [ 98, 106 ]
     } ],
-    "urls" : [ {
-      "indices" : [ 121, 140 ],
-      "url" : "http:\/\/t.co\/SOj7TK69IA",
-      "expanded_url" : "http:\/\/instagram.com\/p\/sBagXKkevp\/",
-      "display_url" : "instagram.com\/p\/sBagXKkevp\/"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "502988875464474624",
@@ -1942,7 +1926,7 @@ Grailbird.data.tweets_2014_08 =
       "id_str" : "199536925",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/568132142161334272\/myhliAr6_normal.jpeg",
       "id" : 199536925,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 502988875464474624,
@@ -2637,12 +2621,7 @@ Grailbird.data.tweets_2014_08 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "https:\/\/t.co\/WHXLsMheiu",
-      "expanded_url" : "https:\/\/github.com\/TheUpshot\/Military-Surplus-Gear",
-      "display_url" : "github.com\/TheUpshot\/Mili\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "502083513311457281",
@@ -2713,12 +2692,7 @@ Grailbird.data.tweets_2014_08 =
       "text" : "Ferguson",
       "indices" : [ 79, 88 ]
     } ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/4qJHEk3gv7",
-      "expanded_url" : "http:\/\/www.slate.com\/articles\/news_and_politics\/politics\/2014\/08\/ferguson_protests_over_michael_brown_won_t_end_soon_the_black_community.html?wpsrc=sh_all_dt_tw_ru",
-      "display_url" : "slate.com\/articles\/news_\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "501973077257756672",
@@ -2883,7 +2857,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Runa A. Sandvik",
+      "name" : "Runa Sandvik",
       "screen_name" : "runasand",
       "indices" : [ 3, 12 ],
       "id_str" : "19959946",
@@ -2988,7 +2962,7 @@ Grailbird.data.tweets_2014_08 =
     "id" : 501880673519800320,
     "created_at" : "2014-08-19 23:57:31 +0000",
     "user" : {
-      "name" : "Runa A. Sandvik",
+      "name" : "Runa Sandvik",
       "screen_name" : "runasand",
       "protected" : false,
       "id_str" : "19959946",
@@ -3256,37 +3230,7 @@ Grailbird.data.tweets_2014_08 =
       "id_str" : "166329578",
       "id" : 166329578
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/EricWolfson\/status\/501556676739469312\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/JXPIHHl4Y1",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BvXjI4gCEAA9zDT.jpg",
-      "id_str" : "501556675266875392",
-      "id" : 501556675266875392,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BvXjI4gCEAA9zDT.jpg",
-      "sizes" : [ {
-        "h" : 201,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 355,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 416,
-        "resize" : "fit",
-        "w" : 704
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 416,
-        "resize" : "fit",
-        "w" : 704
-      } ],
-      "display_url" : "pic.twitter.com\/JXPIHHl4Y1"
-    } ],
+    "media" : [ ],
     "hashtags" : [ {
       "text" : "Ferguson",
       "indices" : [ 125, 134 ]
@@ -3445,12 +3389,7 @@ Grailbird.data.tweets_2014_08 =
       "text" : "Ferguson",
       "indices" : [ 47, 56 ]
     } ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "https:\/\/t.co\/V6lcHyqSjQ",
-      "expanded_url" : "https:\/\/twitter.com\/fieldproducer\/status\/501557844768862208",
-      "display_url" : "twitter.com\/fieldproducer\/\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "501590445701361664",
@@ -3501,7 +3440,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2614\uFE0F April \u2614\uFE0F",
+      "name" : "April",
       "screen_name" : "ReignOfApril",
       "indices" : [ 3, 16 ],
       "id_str" : "119972954",
@@ -3534,13 +3473,13 @@ Grailbird.data.tweets_2014_08 =
     "id" : 501547753793921024,
     "created_at" : "2014-08-19 01:54:37 +0000",
     "user" : {
-      "name" : "\u2614\uFE0F April \u2614\uFE0F",
+      "name" : "April",
       "screen_name" : "ReignOfApril",
       "protected" : false,
       "id_str" : "119972954",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/736941159415701504\/PNSpsMzX_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/773635578730602500\/zYIZnOVd_normal.jpg",
       "id" : 119972954,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 501590236296531968,
@@ -3796,37 +3735,7 @@ Grailbird.data.tweets_2014_08 =
       "id_str" : "20436443",
       "id" : 20436443
     } ],
-    "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/jfdulac\/status\/501508815506780161\/photo\/1",
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/qlKMbnrbOL",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BvW3nB_IMAA3Ueg.jpg",
-      "id_str" : "501508814697672704",
-      "id" : 501508814697672704,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BvW3nB_IMAA3Ueg.jpg",
-      "sizes" : [ {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 255,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 600
-      } ],
-      "display_url" : "pic.twitter.com\/qlKMbnrbOL"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 107, 129 ],
@@ -4008,7 +3917,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "ryanjreilly",
       "protected" : false,
       "id_str" : "7768402",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/593290511663964160\/KphC8MWw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/786385756495294464\/VAaGSBej_normal.jpg",
       "id" : 7768402,
       "verified" : true
     }
@@ -4119,7 +4028,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "mathowie",
       "protected" : false,
       "id_str" : "761975",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/742950656164659200\/DQIFeACW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/758052670661726208\/aQwt4Q-z_normal.jpg",
       "id" : 761975,
       "verified" : false
     }
@@ -4174,12 +4083,7 @@ Grailbird.data.tweets_2014_08 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/Uzg7sX7GSC",
-      "expanded_url" : "http:\/\/www.theguardian.com\/technology\/2014\/aug\/18\/reddit-imgur-twitch-derp-social-data?CMP=twt_gu",
-      "display_url" : "theguardian.com\/technology\/201\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "501374003047460864",
@@ -4916,7 +4820,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/725706637248368641\/YoilUS58_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/786179830266167296\/AmZpJJLv_normal.jpg",
       "id" : 36823,
       "verified" : true
     }
@@ -5015,7 +4919,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(((Aaron Jorbin)))",
+      "name" : "Aaron Jorbin",
       "screen_name" : "aaronjorbin",
       "indices" : [ 3, 15 ],
       "id_str" : "14886552",
@@ -5052,7 +4956,7 @@ Grailbird.data.tweets_2014_08 =
     "id" : 500026537190490114,
     "created_at" : "2014-08-14 21:09:51 +0000",
     "user" : {
-      "name" : "(((Aaron Jorbin)))",
+      "name" : "Aaron Jorbin",
       "screen_name" : "aaronjorbin",
       "protected" : false,
       "id_str" : "14886552",
@@ -5457,7 +5361,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "washingtonpost",
       "protected" : false,
       "id_str" : "2467791",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000252568100\/7a366ac8d0f934b5318e721ba049e9b1_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/753656134565785600\/iQ1GX-ov_normal.jpg",
       "id" : 2467791,
       "verified" : true
     }
@@ -5995,18 +5899,6 @@ Grailbird.data.tweets_2014_08 =
       "indices" : [ 124, 135 ],
       "id_str" : "23410776",
       "id" : 23410776
-    }, {
-      "name" : "Tanisha C. Ford",
-      "screen_name" : "SoulistaPhD",
-      "indices" : [ 136, 144 ],
-      "id_str" : "373566752",
-      "id" : 373566752
-    }, {
-      "name" : "Danielle Dirks",
-      "screen_name" : "danielledirks",
-      "indices" : [ 143, 144 ],
-      "id_str" : "2982148739",
-      "id" : 2982148739
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6073,7 +5965,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "drdavidjleonard",
       "protected" : false,
       "id_str" : "352779756",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/751065684365365249\/DPAWo9NI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/771773910446518272\/0MxNlPQB_normal.jpg",
       "id" : 352779756,
       "verified" : false
     }
@@ -6101,12 +5993,7 @@ Grailbird.data.tweets_2014_08 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/hbd9XjBCEj",
-      "expanded_url" : "http:\/\/www.latimes.com\/nation\/nationnow\/la-na-nn-michael-brown-ferguson-missouri-shooting-20140811-story.html",
-      "display_url" : "latimes.com\/nation\/nationn\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "499063155637510144",
@@ -6136,7 +6023,7 @@ Grailbird.data.tweets_2014_08 =
       "id_str" : "17264476",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/710636618911059969\/7mM0weD2_normal.jpg",
       "id" : 17264476,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 499063155637510144,
@@ -7101,12 +6988,7 @@ Grailbird.data.tweets_2014_08 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/51l60pwRGr",
-      "expanded_url" : "http:\/\/www.poststat.us\/wordpress-and-drupal-collaborate-for-security-release\/",
-      "display_url" : "poststat.us\/wordpress-and-\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "497183655320899586",

@@ -343,7 +343,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lada-muahahaha!",
+      "name" : "Pumpkin Spice Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -407,7 +407,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/749120822384599040\/HeH2sMUP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/785274565047955456\/1ivTAwJO_normal.jpg",
       "id" : 22872643,
       "verified" : true
     }
@@ -480,7 +480,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/725706637248368641\/YoilUS58_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/786179830266167296\/AmZpJJLv_normal.jpg",
       "id" : 36823,
       "verified" : true
     }
@@ -575,7 +575,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/749120822384599040\/HeH2sMUP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/785274565047955456\/1ivTAwJO_normal.jpg",
       "id" : 22872643,
       "verified" : true
     }
@@ -1236,13 +1236,13 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jillian C. York",
+      "name" : "Chillian J. Yikes!",
       "screen_name" : "jilliancyork",
       "indices" : [ 3, 16 ],
       "id_str" : "14048901",
       "id" : 14048901
     }, {
-      "name" : "Clay (((Shirky)))",
+      "name" : "Clay Shirky",
       "screen_name" : "cshirky",
       "indices" : [ 18, 26 ],
       "id_str" : "6141832",
@@ -1259,7 +1259,7 @@ Grailbird.data.tweets_2011_02 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Clay (((Shirky)))",
+        "name" : "Clay Shirky",
         "screen_name" : "cshirky",
         "indices" : [ 0, 8 ],
         "id_str" : "6141832",
@@ -1278,13 +1278,13 @@ Grailbird.data.tweets_2011_02 =
     "in_reply_to_screen_name" : "cshirky",
     "in_reply_to_user_id_str" : "6141832",
     "user" : {
-      "name" : "Jillian C. York",
+      "name" : "Chillian J. Yikes!",
       "screen_name" : "jilliancyork",
       "protected" : false,
       "id_str" : "14048901",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/741244239409881089\/sgeF9EBy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/777865950192435201\/qvNWDj3B_normal.jpg",
       "id" : 14048901,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 40942968529620992,
@@ -1469,9 +1469,6 @@ Grailbird.data.tweets_2011_02 =
     }, {
       "text" : "Gaddafi",
       "indices" : [ 49, 57 ]
-    }, {
-      "text" : "Libya",
-      "indices" : [ 139, 140 ]
     } ],
     "urls" : [ ]
   },
@@ -1508,7 +1505,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "monaeltahawy",
       "protected" : false,
       "id_str" : "29979814",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/744248104212434944\/LfNm-Ya3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/787178718770958336\/1aQbNaNS_normal.jpg",
       "id" : 29979814,
       "verified" : true
     }
@@ -1766,7 +1763,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "maryslosson",
       "protected" : false,
       "id_str" : "37978965",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/734819201760649220\/Vf1XReJq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/753069177057849346\/HrCXuDE7_normal.jpg",
       "id" : 37978965,
       "verified" : false
     }
@@ -1819,12 +1816,7 @@ Grailbird.data.tweets_2011_02 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 139, 140 ],
-      "url" : "http:\/\/t.co\/pksvAbr",
-      "expanded_url" : "http:\/\/community.adn.com\/?q=adn\/blog\/24417",
-      "display_url" : "community.adn.com\/?q=adn\/blog\/24\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "38788737903239168",
@@ -1936,7 +1928,7 @@ Grailbird.data.tweets_2011_02 =
       "id_str" : "783214",
       "id" : 783214
     }, {
-      "name" : "Jack",
+      "name" : "\uD83D\uDEB6\uD83C\uDFFDjack",
       "screen_name" : "jack",
       "indices" : [ 60, 65 ],
       "id_str" : "12",
@@ -2158,7 +2150,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Cutts",
+      "name" : "MonsterMatt Cutts",
       "screen_name" : "mattcutts",
       "indices" : [ 37, 47 ],
       "id_str" : "3080761",
@@ -2894,12 +2886,6 @@ Grailbird.data.tweets_2011_02 =
     "hashtags" : [ {
       "text" : "tahrir",
       "indices" : [ 127, 134 ]
-    }, {
-      "text" : "Egypt",
-      "indices" : [ 139, 140 ]
-    }, {
-      "text" : "Jan25",
-      "indices" : [ 139, 140 ]
     } ],
     "urls" : [ ]
   },
@@ -3578,13 +3564,7 @@ Grailbird.data.tweets_2011_02 =
       "id" : 5724622
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "Jan25",
-      "indices" : [ 139, 140 ]
-    }, {
-      "text" : "Egypt",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },

@@ -260,7 +260,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "422",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/748239685999202305\/z9hCJpM4_normal.jpg",
       "id" : 422,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 28839596938,
@@ -817,9 +817,9 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "Stepto",
       "protected" : false,
       "id_str" : "3443591",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/671239272029024256\/QLe69XZ4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/777996073402966016\/52Lgn7_0_normal.jpg",
       "id" : 3443591,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 28360880339,
@@ -1046,12 +1046,6 @@ Grailbird.data.tweets_2010_10 =
       "indices" : [ 44, 52 ],
       "id_str" : "807095",
       "id" : 807095
-    }, {
-      "name" : "The New York Times",
-      "screen_name" : "nytimes",
-      "indices" : [ 139, 140 ],
-      "id_str" : "807095",
-      "id" : 807095
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1090,7 +1084,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "dannysullivan",
       "protected" : false,
       "id_str" : "858051",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/728274719649107969\/UKTr16F8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/779032746635038720\/J74OL8Kt_normal.jpg",
       "id" : 858051,
       "verified" : true
     }
@@ -1486,7 +1480,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "dannysullivan",
       "protected" : false,
       "id_str" : "858051",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/728274719649107969\/UKTr16F8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/779032746635038720\/J74OL8Kt_normal.jpg",
       "id" : 858051,
       "verified" : true
     }
@@ -1571,7 +1565,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "795649",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/621199923317379072\/G_o17XvC_normal.png",
       "id" : 795649,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 27798102315,
@@ -1810,7 +1804,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "iaindodsworth",
       "protected" : false,
       "id_str" : "14148963",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/715697309829500928\/j_-x_NxI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/766221775403384833\/VLgVgTXZ_normal.jpg",
       "id" : 14148963,
       "verified" : false
     }
@@ -2044,7 +2038,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Cutts",
+      "name" : "MonsterMatt Cutts",
       "screen_name" : "mattcutts",
       "indices" : [ 3, 13 ],
       "id_str" : "3080761",
@@ -2071,7 +2065,7 @@ Grailbird.data.tweets_2010_10 =
     "id" : 27664765177,
     "created_at" : "2010-10-17 19:24:35 +0000",
     "user" : {
-      "name" : "Matt Cutts",
+      "name" : "MonsterMatt Cutts",
       "screen_name" : "mattcutts",
       "protected" : false,
       "id_str" : "3080761",
@@ -2304,7 +2298,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lada-muahahaha!",
+      "name" : "Pumpkin Spice Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -2790,7 +2784,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",
@@ -3362,7 +3356,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -3389,11 +3383,11 @@ Grailbird.data.tweets_2010_10 =
     "id" : 27173292899,
     "created_at" : "2010-10-12 21:00:06 +0000",
     "user" : {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716686126254321664\/v3citfg4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788124124396871683\/NYpvQ6MA_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -3867,7 +3861,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patrick LaForge NYT",
+      "name" : "Patrick LaForge",
       "screen_name" : "palafo",
       "indices" : [ 3, 10 ],
       "id_str" : "2020351",
@@ -3879,7 +3873,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "15736557",
       "id" : 15736557
     }, {
-      "name" : "Patrick LaForge NYT",
+      "name" : "Patrick LaForge",
       "screen_name" : "palafo",
       "indices" : [ 30, 37 ],
       "id_str" : "2020351",
@@ -3902,7 +3896,7 @@ Grailbird.data.tweets_2010_10 =
         "id_str" : "15736557",
         "id" : 15736557
       }, {
-        "name" : "Patrick LaForge NYT",
+        "name" : "Patrick LaForge",
         "screen_name" : "palafo",
         "indices" : [ 18, 25 ],
         "id_str" : "2020351",
@@ -3918,7 +3912,7 @@ Grailbird.data.tweets_2010_10 =
     "id" : 26857669853,
     "created_at" : "2010-10-09 16:33:25 +0000",
     "user" : {
-      "name" : "Patrick LaForge NYT",
+      "name" : "Patrick LaForge",
       "screen_name" : "palafo",
       "protected" : false,
       "id_str" : "2020351",
@@ -4795,7 +4789,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 35, 45 ],
       "id_str" : "3839",
@@ -4862,7 +4856,7 @@ Grailbird.data.tweets_2010_10 =
     "id" : 26489892510,
     "created_at" : "2010-10-05 21:00:04 +0000",
     "user" : {
-      "name" : "What Matters Now",
+      "name" : "The Atlantic: News",
       "screen_name" : "TheAtlNews",
       "protected" : false,
       "id_str" : "73190286",

@@ -47,7 +47,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",
@@ -297,6 +297,34 @@ Grailbird.data.tweets_2009_06 =
   "text" : "Protesters trade rocks with police, and then run them away.  http:\/\/bit.ly\/kbaSa",
   "id" : 2271591525,
   "created_at" : "2009-06-21 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "GR88",
+      "indices" : [ 96, 101 ]
+    }, {
+      "text" : "IranElection",
+      "indices" : [ 102, 115 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2255560377",
+  "text" : "RT @PD90Everyone went quiet suddenly. After those defiant shouts, the silence seems foreboding. #GR88 #IranElection",
+  "id" : 2255560377,
+  "created_at" : "2009-06-20 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1015,34 +1043,6 @@ Grailbird.data.tweets_2009_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "GR88",
-      "indices" : [ 96, 101 ]
-    }, {
-      "text" : "IranElection",
-      "indices" : [ 102, 115 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2255560377",
-  "text" : "RT @PD90Everyone went quiet suddenly. After those defiant shouts, the silence seems foreboding. #GR88 #IranElection",
-  "id" : 2255560377,
-  "created_at" : "2009-06-20 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -1606,6 +1606,28 @@ Grailbird.data.tweets_2009_06 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "2226104720",
+  "text" : "Another popular picture - Mehdi Karoobi, one of the reform candidates, stands on a car above the crowd today in Iran. http:\/\/bit.ly\/S830K",
+  "id" : 2226104720,
+  "created_at" : "2009-06-18 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "2226586002",
   "text" : "Congressman Compares The Plight Of Iranians To GOP On Twitter, Sticks Foot In Mouth http:\/\/bit.ly\/5gEiA",
   "id" : 2226586002,
@@ -1651,7 +1673,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 91, 101 ],
       "id_str" : "3839",
@@ -1723,7 +1745,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",
@@ -2026,28 +2048,6 @@ Grailbird.data.tweets_2009_06 =
   "id_str" : "2226074212",
   "text" : "One of the top pictures related to Iran today - a political cartoon starring the Twitter by John Cole. http:\/\/bit.ly\/SkNnt",
   "id" : 2226074212,
-  "created_at" : "2009-06-18 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2226104720",
-  "text" : "Another popular picture - Mehdi Karoobi, one of the reform candidates, stands on a car above the crowd today in Iran. http:\/\/bit.ly\/S830K",
-  "id" : 2226104720,
   "created_at" : "2009-06-18 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -2397,6 +2397,28 @@ Grailbird.data.tweets_2009_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2194465748",
+  "text" : "Seesmic has a new release coming! I've been waiting for something that lets me login to trim or bitly. http:\/\/tr.im\/oGwI",
+  "id" : 2194465748,
+  "created_at" : "2009-06-16 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Neil Gorman",
       "screen_name" : "neilgorman",
@@ -2691,7 +2713,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 27, 37 ],
       "id_str" : "3839",
@@ -2819,11 +2841,11 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Spam Watch",
+      "name" : "Ziter",
       "screen_name" : "spam",
       "indices" : [ 0, 5 ],
-      "id_str" : "14589771",
-      "id" : 14589771
+      "id_str" : "771675027842400256",
+      "id" : 771675027842400256
     }, {
       "name" : "Bob Donovan",
       "screen_name" : "Bob_do",
@@ -2841,7 +2863,7 @@ Grailbird.data.tweets_2009_06 =
   "text" : "@spam @bob_do looks pretty spammish to me.",
   "id" : 2186334699,
   "created_at" : "2009-06-16 00:00:00 +0000",
-  "in_reply_to_screen_name" : "spam",
+  "in_reply_to_screen_name" : "sp_14728340016",
   "in_reply_to_user_id_str" : "14589771",
   "user" : {
     "name" : "Jeremy Felt",
@@ -2903,7 +2925,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 13, 23 ],
       "id_str" : "3839",
@@ -3009,7 +3031,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "miriam yudit lopez ",
+      "name" : "miriam yudit lopez",
       "screen_name" : "mirriaam",
       "indices" : [ 3, 12 ],
       "id_str" : "323342253",
@@ -3148,16 +3170,22 @@ Grailbird.data.tweets_2009_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Iranian Student",
+      "screen_name" : "Change_for_Iran",
+      "indices" : [ 3, 19 ],
+      "id_str" : "47005158",
+      "id" : 47005158
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "2194465748",
-  "text" : "Seesmic has a new release coming! I've been waiting for something that lets me login to trim or bitly. http:\/\/tr.im\/oGwI",
-  "id" : 2194465748,
-  "created_at" : "2009-06-16 00:00:00 +0000",
+  "id_str" : "2173299940",
+  "text" : "RT @Change_for_Iran just received news about forging department students captured 2 Ansar troopers and moving them to another building!",
+  "id" : 2173299940,
+  "created_at" : "2009-06-15 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3281,7 +3309,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "mItch benN",
+      "name" : "Mitch Benn",
       "screen_name" : "MitchBenn",
       "indices" : [ 8, 18 ],
       "id_str" : "20291015",
@@ -4264,34 +4292,6 @@ Grailbird.data.tweets_2009_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Iranian Student",
-      "screen_name" : "Change_for_Iran",
-      "indices" : [ 3, 19 ],
-      "id_str" : "47005158",
-      "id" : 47005158
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2173299940",
-  "text" : "RT @Change_for_Iran just received news about forging department students captured 2 Ansar troopers and moving them to another building!",
-  "id" : 2173299940,
-  "created_at" : "2009-06-15 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -4944,7 +4944,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -5106,6 +5106,28 @@ Grailbird.data.tweets_2009_06 =
   "text" : "Ladderball own. I'm red. :) http:\/\/post.ly\/qXs",
   "id" : 2169183212,
   "created_at" : "2009-06-14 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2149445901",
+  "text" : "I wonder if Facebook would let me register facebook.com\/usernames as my username. Is it worth a shot to lose Jeremy?",
+  "id" : 2149445901,
+  "created_at" : "2009-06-13 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5476,28 +5498,6 @@ Grailbird.data.tweets_2009_06 =
   "id_str" : "2149346698",
   "text" : "One hour left and no Facebook employee and\/or journalist has stolen my name. Not that I really care, it's just the principle.",
   "id" : 2149346698,
-  "created_at" : "2009-06-13 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2149445901",
-  "text" : "I wonder if Facebook would let me register facebook.com\/usernames as my username. Is it worth a shot to lose Jeremy?",
-  "id" : 2149445901,
   "created_at" : "2009-06-13 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -6372,7 +6372,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Cutts",
+      "name" : "MonsterMatt Cutts",
       "screen_name" : "mattcutts",
       "indices" : [ 12, 22 ],
       "id_str" : "3080761",
@@ -6530,6 +6530,28 @@ Grailbird.data.tweets_2009_06 =
   "text" : "Argh, another Jeremy already has the http:\/\/jere.my domain. Why didn't I think of that 10 years ago?",
   "id" : 2094210619,
   "created_at" : "2009-06-09 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2071242542",
+  "text" : "A downfall of the real-time web is how quickly drama can escalate. Tools abound for communication, but listening stops. http:\/\/tr.im\/nJMY",
+  "id" : 2071242542,
+  "created_at" : "2009-06-08 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -6754,28 +6776,6 @@ Grailbird.data.tweets_2009_06 =
   "id_str" : "2070347626",
   "text" : "Testing oauth update. Should probably create a test twitter account for this. This will be the only test.",
   "id" : 2070347626,
-  "created_at" : "2009-06-08 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2071242542",
-  "text" : "A downfall of the real-time web is how quickly drama can escalate. Tools abound for communication, but listening stops. http:\/\/tr.im\/nJMY",
-  "id" : 2071242542,
   "created_at" : "2009-06-08 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -7179,7 +7179,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 11, 21 ],
       "id_str" : "3839",
@@ -7580,7 +7580,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",
@@ -7796,6 +7796,37 @@ Grailbird.data.tweets_2009_06 =
   "text" : "Argh. Goole Squared is very much a Labs product. I can't save or export a cool one that I just did.",
   "id" : 2034135936,
   "created_at" : "2009-06-04 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Disqus",
+      "screen_name" : "disqus",
+      "indices" : [ 0, 7 ],
+      "id_str" : "14130628",
+      "id" : 14130628
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2009052023",
+  "in_reply_to_user_id" : 14130628,
+  "text" : "@disqus Thanks for the update. Glad to know I wasn't going crazy",
+  "id" : 2009052023,
+  "created_at" : "2009-06-02 00:00:00 +0000",
+  "in_reply_to_screen_name" : "disqus",
+  "in_reply_to_user_id_str" : "14130628",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -8198,7 +8229,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",
@@ -8229,7 +8260,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer",
+      "name" : "Dave The Blogger",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",
@@ -8419,37 +8450,6 @@ Grailbird.data.tweets_2009_06 =
   "text" : "@giannii http:\/\/toptwit.com\/jeremyfelt is the main site. Try the \"0 comments\" link next to 18,19,20 - those should still be unvisited pages.",
   "id" : 2008247611,
   "created_at" : "2009-06-02 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Disqus",
-      "screen_name" : "disqus",
-      "indices" : [ 0, 7 ],
-      "id_str" : "14130628",
-      "id" : 14130628
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2009052023",
-  "in_reply_to_user_id" : 14130628,
-  "text" : "@disqus Thanks for the update. Glad to know I wasn't going crazy",
-  "id" : 2009052023,
-  "created_at" : "2009-06-02 00:00:00 +0000",
-  "in_reply_to_screen_name" : "disqus",
-  "in_reply_to_user_id_str" : "14130628",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

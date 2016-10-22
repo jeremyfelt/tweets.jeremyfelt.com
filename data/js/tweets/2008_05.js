@@ -564,9 +564,9 @@ Grailbird.data.tweets_2008_05 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "819229427",
-  "text" : "Now time for a sandwich",
-  "id" : 819229427,
+  "id_str" : "819226836",
+  "text" : "Let's try this again...",
+  "id" : 819226836,
   "created_at" : "2008-05-24 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -586,9 +586,9 @@ Grailbird.data.tweets_2008_05 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "819226836",
-  "text" : "Let's try this again...",
-  "id" : 819226836,
+  "id_str" : "819229427",
+  "text" : "Now time for a sandwich",
+  "id" : 819229427,
   "created_at" : "2008-05-24 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",

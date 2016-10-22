@@ -168,7 +168,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "joshtpm",
       "protected" : false,
       "id_str" : "21268897",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/728442601389457408\/MeN93lgV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/782764938741870597\/-eipWta-_normal.jpg",
       "id" : 21268897,
       "verified" : true
     }
@@ -903,7 +903,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "6022912",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/580381044592898048\/aERbCHwE_normal.png",
       "id" : 6022912,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 95884212539895808,
@@ -1297,7 +1297,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "80617430",
       "id" : 80617430
     }, {
-      "name" : "\u0418\u0437\u043E\u043B\u044C\u0434\u0430\r\n ",
+      "name" : "\u0418\u0437\u043E\u043B\u044C\u0434\u0430",
       "screen_name" : "emmagkeller",
       "indices" : [ 23, 35 ],
       "id_str" : "2982190547",
@@ -1320,7 +1320,7 @@ Grailbird.data.tweets_2011_07 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u0418\u0437\u043E\u043B\u044C\u0434\u0430\r\n ",
+        "name" : "\u0418\u0437\u043E\u043B\u044C\u0434\u0430",
         "screen_name" : "emmagkeller",
         "indices" : [ 8, 20 ],
         "id_str" : "2982190547",
@@ -1346,7 +1346,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "RyanLizza",
       "protected" : false,
       "id_str" : "80617430",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/749057712286228480\/DS1DgTGn_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788956685570375680\/yExEpEMR_normal.jpg",
       "id" : 80617430,
       "verified" : true
     }
@@ -1366,7 +1366,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Blank",
+      "name" : "Not WoooOOOooo!",
       "screen_name" : "JonnieMarbLes",
       "indices" : [ 35, 49 ],
       "id_str" : "17201202",
@@ -1397,7 +1397,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Blank",
+      "name" : "Not WoooOOOooo!",
       "screen_name" : "JonnieMarbLes",
       "indices" : [ 3, 17 ],
       "id_str" : "17201202",
@@ -1424,11 +1424,11 @@ Grailbird.data.tweets_2011_07 =
     "id" : 93065424387842048,
     "created_at" : "2011-07-18 21:11:40 +0000",
     "user" : {
-      "name" : "Blank",
+      "name" : "Not WoooOOOooo!",
       "screen_name" : "JonnieMarbLes",
       "protected" : false,
       "id_str" : "17201202",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/623766503079309312\/Wy8djkBc_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/766825523330838528\/8KqRxd5x_normal.jpg",
       "id" : 17201202,
       "verified" : false
     }
@@ -1935,7 +1935,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "814304",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2530407461\/xujyyx9bdf3wi65o5a60_normal.jpeg",
       "id" : 814304,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 92096490822057985,
@@ -2062,13 +2062,7 @@ Grailbird.data.tweets_2011_07 =
       "id" : 2559911402
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "pdx",
-      "indices" : [ 139, 140 ]
-    }, {
-      "text" : "banthebag",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -2574,11 +2568,11 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anthony De Rosa",
-      "screen_name" : "AntDeRosa",
+      "name" : "Now @Anthony",
+      "screen_name" : "antderosa",
       "indices" : [ 3, 13 ],
-      "id_str" : "1140451",
-      "id" : 1140451
+      "id_str" : "756132303651373060",
+      "id" : 756132303651373060
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2602,7 +2596,7 @@ Grailbird.data.tweets_2011_07 =
     "created_at" : "2011-07-14 03:40:46 +0000",
     "user" : {
       "name" : "Anthony De Rosa",
-      "screen_name" : "AntDeRosa",
+      "screen_name" : "Anthony",
       "protected" : false,
       "id_str" : "1140451",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/661645327691223040\/OfvnX9zP_normal.jpg",
@@ -2659,10 +2653,7 @@ Grailbird.data.tweets_2011_07 =
       "id" : 14701006
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "twitter",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -2689,7 +2680,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "hchamp",
       "protected" : false,
       "id_str" : "14701006",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/716262490410123265\/BuHdv5QK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788590703865688064\/m-wqTQjC_normal.jpg",
       "id" : 14701006,
       "verified" : false
     }
@@ -2740,7 +2731,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "GroovyBruce",
       "protected" : false,
       "id_str" : "282392576",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/616577333143605249\/54Ek5boL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/773613575663345664\/gmLm66dw_normal.jpg",
       "id" : 282392576,
       "verified" : true
     }
@@ -2854,10 +2845,7 @@ Grailbird.data.tweets_2011_07 =
       "id" : 2384071
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "SocialCongress",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -2922,10 +2910,7 @@ Grailbird.data.tweets_2011_07 =
       "id" : 2384071
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "SocialCongress",
-      "indices" : [ 139, 140 ]
-    } ],
+    "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -3733,79 +3718,6 @@ Grailbird.data.tweets_2011_07 =
   "text" : "I will try peanut butter on the next burger I make. http:\/\/t.co\/g1R9PMK",
   "id" : 90635380323397632,
   "created_at" : "2011-07-12 04:15:33 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Milo Yiannopoulos \u3072\u2718",
-      "screen_name" : "Nero",
-      "indices" : [ 3, 8 ],
-      "id_str" : "6160792",
-      "id" : 6160792
-    }, {
-      "name" : "Neal Mann",
-      "screen_name" : "fieldproducer",
-      "indices" : [ 27, 41 ],
-      "id_str" : "23055689",
-      "id" : 23055689
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 108, 127 ],
-      "url" : "http:\/\/t.co\/JJa88LR",
-      "expanded_url" : "http:\/\/twitpic.com\/5oqtsn",
-      "display_url" : "twitpic.com\/5oqtsn"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "90533211725242369",
-  "text" : "RT @Nero: Christ alive. RT @fieldproducer: Amazing typo on the front page of the FT, spells Murdoch MURDOCK http:\/\/t.co\/JJa88LR",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Neal Mann",
-        "screen_name" : "fieldproducer",
-        "indices" : [ 17, 31 ],
-        "id_str" : "23055689",
-        "id" : 23055689
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 98, 117 ],
-        "url" : "http:\/\/t.co\/JJa88LR",
-        "expanded_url" : "http:\/\/twitpic.com\/5oqtsn",
-        "display_url" : "twitpic.com\/5oqtsn"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "90531770075852800",
-    "text" : "Christ alive. RT @fieldproducer: Amazing typo on the front page of the FT, spells Murdoch MURDOCK http:\/\/t.co\/JJa88LR",
-    "id" : 90531770075852800,
-    "created_at" : "2011-07-11 21:23:50 +0000",
-    "user" : {
-      "name" : "Milo Yiannopoulos \u3072\u2718",
-      "screen_name" : "Nero",
-      "protected" : false,
-      "id_str" : "6160792",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/730547702421823489\/ZsLBU0Oz_normal.jpg",
-      "id" : 6160792,
-      "verified" : false
-    }
-  },
-  "id" : 90533211725242369,
-  "created_at" : "2011-07-11 21:29:34 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
