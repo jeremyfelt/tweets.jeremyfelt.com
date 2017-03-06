@@ -52,6 +52,28 @@ Grailbird.data.tweets_2009_07 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "2793267224",
+  "text" : "Amazing that DNS propagation only takes minutes now. Also amazing that I keep thinking of domains to register.",
+  "id" : 2793267224,
+  "created_at" : "2009-07-23 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "2791532232",
   "text" : "My Google Wave robot is now talking back to me.  Things are working!",
   "id" : 2791532232,
@@ -77,28 +99,6 @@ Grailbird.data.tweets_2009_07 =
   "id_str" : "2792861262",
   "text" : "Realized some python knowledge would help w\/ the next Wave API hurdle. Now finished through Ch 5 in \"Dive Into Python\". http:\/\/bit.ly\/3EiAbA",
   "id" : 2792861262,
-  "created_at" : "2009-07-23 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2793267224",
-  "text" : "Amazing that DNS propagation only takes minutes now. Also amazing that I keep thinking of domains to register.",
-  "id" : 2793267224,
   "created_at" : "2009-07-23 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -223,7 +223,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",

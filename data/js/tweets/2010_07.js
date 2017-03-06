@@ -1,5 +1,71 @@
 Grailbird.data.tweets_2010_07 = 
  [ {
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19876736091",
+  "text" : "Recovery of factory default software. Preparing. http:\/\/post.ly\/pOPd",
+  "id" : 19876736091,
+  "created_at" : "2010-07-30 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.npr.org\" rel=\"nofollow\"\u003ENPR Music for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19878281386",
+  "text" : "Whichever the context - musical, cultural, political - Gorillaz Live in Damascus is a wonderful listen. -More at http:\/\/n.pr\/128846005",
+  "id" : 19878281386,
+  "created_at" : "2010-07-30 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "19878928562",
+  "text" : "Sometimes I almost follow someone, then see they have 20000 tweets and that scares me away. River too fast.",
+  "id" : 19878928562,
+  "created_at" : "2010-07-30 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -163,72 +229,6 @@ Grailbird.data.tweets_2010_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19876736091",
-  "text" : "Recovery of factory default software. Preparing. http:\/\/post.ly\/pOPd",
-  "id" : 19876736091,
-  "created_at" : "2010-07-30 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.npr.org\" rel=\"nofollow\"\u003ENPR Music for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19878281386",
-  "text" : "Whichever the context - musical, cultural, political - Gorillaz Live in Damascus is a wonderful listen. -More at http:\/\/n.pr\/128846005",
-  "id" : 19878281386,
-  "created_at" : "2010-07-30 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "19878928562",
-  "text" : "Sometimes I almost follow someone, then see they have 20000 tweets and that scares me away. River too fast.",
-  "id" : 19878928562,
-  "created_at" : "2010-07-30 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -276,7 +276,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",
@@ -307,7 +307,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",
@@ -531,7 +531,7 @@ Grailbird.data.tweets_2010_07 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "indices" : [ 1, 9 ],
       "id_str" : "783214",
       "id" : 783214
@@ -873,11 +873,11 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "114870386",
       "id" : 114870386
     }, {
-      "name" : "Adam Lisagor",
+      "name" : "lonelysandwich",
       "screen_name" : "lonelysandwich",
       "indices" : [ 100, 115 ],
-      "id_str" : "2735631",
-      "id" : 2735631
+      "id_str" : "796790301616525312",
+      "id" : 796790301616525312
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -890,11 +890,11 @@ Grailbird.data.tweets_2010_07 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Adam Lisagor",
+        "name" : "lonelysandwich",
         "screen_name" : "lonelysandwich",
         "indices" : [ 85, 100 ],
-        "id_str" : "2735631",
-        "id" : 2735631
+        "id_str" : "796790301616525312",
+        "id" : 796790301616525312
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -1087,11 +1087,11 @@ Grailbird.data.tweets_2010_07 =
     "id" : 18930354824,
     "created_at" : "2010-07-19 17:03:34 +0000",
     "user" : {
-      "name" : "Raven Mrgan",
+      "name" : "Neven Mrgan",
       "screen_name" : "mrgan",
       "protected" : false,
       "id_str" : "35293",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/783452981417041921\/AZ9wAabJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/795695405036015616\/sawamlY2_normal.jpg",
       "id" : 35293,
       "verified" : true
     }
@@ -1114,8 +1114,8 @@ Grailbird.data.tweets_2010_07 =
       "name" : "Jake Cohen",
       "screen_name" : "jacobc",
       "indices" : [ 3, 10 ],
-      "id_str" : "804704",
-      "id" : 804704
+      "id_str" : "814571445967679491",
+      "id" : 814571445967679491
     }, {
       "name" : "ashton kutcher",
       "screen_name" : "aplusk",
@@ -1151,7 +1151,7 @@ Grailbird.data.tweets_2010_07 =
     "created_at" : "2010-07-20 00:11:51 +0000",
     "user" : {
       "name" : "Jake Cohen",
-      "screen_name" : "jacobc",
+      "screen_name" : "whiskeytown79",
       "protected" : false,
       "id_str" : "804704",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1127305465\/les_invalides_cropped_normal.jpg",
@@ -1505,6 +1505,81 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18803565195",
+  "text" : "RIM says - \"Apple's attempt to draw RIM into Apple's self-made debacle is unacceptable.\" http:\/\/bit.ly\/ak3gCL",
+  "id" : 18803565195,
+  "created_at" : "2010-07-18 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Howard Weaver",
+      "screen_name" : "howardweaver",
+      "indices" : [ 0, 13 ],
+      "id_str" : "783837",
+      "id" : 783837
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18810493984",
+  "in_reply_to_user_id" : 783837,
+  "text" : "@howardweaver True. Though RIM's main point still makes sense - \"Just because you don't know how to handle this, don't sling shit on us.\"",
+  "id" : 18810493984,
+  "created_at" : "2010-07-18 00:00:00 +0000",
+  "in_reply_to_screen_name" : "howardweaver",
+  "in_reply_to_user_id_str" : "783837",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18811052379",
+  "text" : "Hendrick's And Q - http:\/\/flic.kr\/p\/8juFx9 - The first sip of Q Tonic water destroyed all possibilities of buying Schweppes again. Wow.",
+  "id" : 18811052379,
+  "created_at" : "2010-07-18 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Jeff Kozlowski",
       "screen_name" : "JeffKozlowski",
@@ -1815,81 +1890,6 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18803565195",
-  "text" : "RIM says - \"Apple's attempt to draw RIM into Apple's self-made debacle is unacceptable.\" http:\/\/bit.ly\/ak3gCL",
-  "id" : 18803565195,
-  "created_at" : "2010-07-18 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Howard Weaver",
-      "screen_name" : "howardweaver",
-      "indices" : [ 0, 13 ],
-      "id_str" : "783837",
-      "id" : 783837
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18810493984",
-  "in_reply_to_user_id" : 783837,
-  "text" : "@howardweaver True. Though RIM's main point still makes sense - \"Just because you don't know how to handle this, don't sling shit on us.\"",
-  "id" : 18810493984,
-  "created_at" : "2010-07-18 00:00:00 +0000",
-  "in_reply_to_screen_name" : "howardweaver",
-  "in_reply_to_user_id_str" : "783837",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18811052379",
-  "text" : "Hendrick's And Q - http:\/\/flic.kr\/p\/8juFx9 - The first sip of Q Tonic water destroyed all possibilities of buying Schweppes again. Wow.",
-  "id" : 18811052379,
-  "created_at" : "2010-07-18 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ {
       "name" : "Jeff Kozlowski",
       "screen_name" : "JeffKozlowski",
@@ -2188,7 +2188,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "224",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458818845373784064\/Ugb_RTHJ_normal.png",
       "id" : 224,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 18732818471,
@@ -2289,7 +2289,7 @@ Grailbird.data.tweets_2010_07 =
     "id" : 18650476926,
     "created_at" : "2010-07-16 02:19:47 +0000",
     "user" : {
-      "name" : "Dave Schumaker",
+      "name" : "Dave",
       "screen_name" : "davely",
       "protected" : false,
       "id_str" : "11779882",
@@ -2432,7 +2432,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "mattmiklic",
       "protected" : false,
       "id_str" : "7562432",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/748779705369710594\/eG5UEuDE_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/811455502764937217\/umSE-nPd_normal.jpg",
       "id" : 7562432,
       "verified" : false
     }
@@ -2630,7 +2630,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "GlennF",
       "protected" : false,
       "id_str" : "8315692",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/704793296644648960\/RJDynN2o_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/793494468334727169\/vqQjKOGi_normal.jpg",
       "id" : 8315692,
       "verified" : true
     }
@@ -3046,7 +3046,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "885",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/763249455285964800\/gsHFs2g4_normal.jpg",
       "id" : 885,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 18350155484,
@@ -3073,6 +3073,50 @@ Grailbird.data.tweets_2010_07 =
   "text" : "Looks like Schleck just had that one more rotation left in his legs at the line. Sanchez seemed more than exhausted, stopped pedaling.",
   "id" : 18280382137,
   "created_at" : "2010-07-11 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18213596850",
+  "text" : "It's so weird having a really crappy phone again.",
+  "id" : 18213596850,
+  "created_at" : "2010-07-10 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "18214829874",
+  "text" : "LG Rumor Touch. Social uploads are emails. GPS data is text in the email instead of EXIF. Longitude on opposite side of the Prime Meridian.",
+  "id" : 18214829874,
+  "created_at" : "2010-07-10 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3179,38 +3223,45 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Adobe Typekit",
+      "screen_name" : "typekit",
+      "indices" : [ 3, 11 ],
+      "id_str" : "30065033",
+      "id" : 30065033
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "18213596850",
-  "text" : "It's so weird having a really crappy phone again.",
-  "id" : 18213596850,
-  "created_at" : "2010-07-10 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
+  "id_str" : "18140351088",
+  "text" : "RT @typekit: We would like to offer a free Typekit account to the Cleveland Cavaliers. Mr. Gilbert, we can help. http:\/\/j.mp\/aDyJM6",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "18140262029",
+    "text" : "We would like to offer a free Typekit account to the Cleveland Cavaliers. Mr. Gilbert, we can help. http:\/\/j.mp\/aDyJM6",
+    "id" : 18140262029,
+    "created_at" : "2010-07-09 18:55:43 +0000",
+    "user" : {
+      "name" : "Adobe Typekit",
+      "screen_name" : "typekit",
+      "protected" : false,
+      "id_str" : "30065033",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/643421965072625664\/yz2FenTh_normal.png",
+      "id" : 30065033,
+      "verified" : true
+    }
   },
-  "geo" : { },
-  "id_str" : "18214829874",
-  "text" : "LG Rumor Touch. Social uploads are emails. GPS data is text in the email instead of EXIF. Longitude on opposite side of the Prime Meridian.",
-  "id" : 18214829874,
-  "created_at" : "2010-07-10 00:00:00 +0000",
+  "id" : 18140351088,
+  "created_at" : "2010-07-09 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3254,57 +3305,6 @@ Grailbird.data.tweets_2010_07 =
   "id_str" : "18127003269",
   "text" : "Ha ha, anger with curses and karma is fun. Somebody get the Cavs a Billy Goat, stat. :)",
   "id" : 18127003269,
-  "created_at" : "2010-07-09 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Adobe Typekit",
-      "screen_name" : "typekit",
-      "indices" : [ 3, 11 ],
-      "id_str" : "30065033",
-      "id" : 30065033
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18140351088",
-  "text" : "RT @typekit: We would like to offer a free Typekit account to the Cleveland Cavaliers. Mr. Gilbert, we can help. http:\/\/j.mp\/aDyJM6",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "18140262029",
-    "text" : "We would like to offer a free Typekit account to the Cleveland Cavaliers. Mr. Gilbert, we can help. http:\/\/j.mp\/aDyJM6",
-    "id" : 18140262029,
-    "created_at" : "2010-07-09 18:55:43 +0000",
-    "user" : {
-      "name" : "Adobe Typekit",
-      "screen_name" : "typekit",
-      "protected" : false,
-      "id_str" : "30065033",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/643421965072625664\/yz2FenTh_normal.png",
-      "id" : 30065033,
-      "verified" : true
-    }
-  },
-  "id" : 18140351088,
   "created_at" : "2010-07-09 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -3442,7 +3442,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "NewsHour",
       "protected" : false,
       "id_str" : "14437914",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/785894485024702464\/ZIVJp8Ph_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/808697283306983424\/1mTNsB_Q_normal.jpg",
       "id" : 14437914,
       "verified" : true
     }
@@ -3526,7 +3526,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "marshallk",
       "protected" : false,
       "id_str" : "818340",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492745459421556736\/wGyWE2xf_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/822856912618127360\/kNYT-QNS_normal.jpg",
       "id" : 818340,
       "verified" : true
     }
@@ -3577,7 +3577,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "MikeTyson",
       "protected" : false,
       "id_str" : "156132825",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/483336566484393984\/dBPrk9ZX_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/810887013356314624\/E1Uu6n58_normal.jpg",
       "id" : 156132825,
       "verified" : true
     }
@@ -3603,7 +3603,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "14515799",
       "id" : 14515799
     }, {
-      "name" : "NastyMaskedScheduler",
+      "name" : "Masked Scheduler",
       "screen_name" : "maskedscheduler",
       "indices" : [ 21, 37 ],
       "id_str" : "16986563",
@@ -3620,7 +3620,7 @@ Grailbird.data.tweets_2010_07 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "NastyMaskedScheduler",
+        "name" : "Masked Scheduler",
         "screen_name" : "maskedscheduler",
         "indices" : [ 3, 19 ],
         "id_str" : "16986563",
@@ -3863,7 +3863,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sometimes Gentle",
+      "name" : "Bjorn Digital",
       "screen_name" : "monkchips",
       "indices" : [ 3, 13 ],
       "id_str" : "61233",
@@ -3890,11 +3890,11 @@ Grailbird.data.tweets_2010_07 =
     "id" : 17872127385,
     "created_at" : "2010-07-06 14:45:44 +0000",
     "user" : {
-      "name" : "Sometimes Gentle",
+      "name" : "Bjorn Digital",
       "screen_name" : "monkchips",
       "protected" : false,
       "id_str" : "61233",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/721011235848921088\/lCIEIwLy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823941560979128320\/EDnfS4Yu_normal.jpg",
       "id" : 61233,
       "verified" : false
     }
@@ -4029,7 +4029,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "brianboyer",
       "protected" : false,
       "id_str" : "14570738",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/508121738140319744\/Ff_UFtbA_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/795314693665685504\/zW_HWAip_normal.jpg",
       "id" : 14570738,
       "verified" : true
     }
@@ -4404,7 +4404,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "howardweaver",
       "protected" : false,
       "id_str" : "783837",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617870447439286273\/45I0d1Lm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/820049238360887296\/8IkWozfQ_normal.jpg",
       "id" : 783837,
       "verified" : false
     }

@@ -293,7 +293,7 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "21067835",
       "id" : 21067835
     }, {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 107, 117 ],
       "id_str" : "3839",
@@ -316,7 +316,7 @@ Grailbird.data.tweets_2010_11 =
         "id_str" : "21067835",
         "id" : 21067835
       }, {
-        "name" : "Dave The Blogger",
+        "name" : "Dave Winer",
         "screen_name" : "davewiner",
         "indices" : [ 94, 104 ],
         "id_str" : "3839",
@@ -412,7 +412,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "nickbilton",
       "protected" : false,
       "id_str" : "1586501",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/784633039678763009\/TxerDZ_U_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/822186241303023616\/j2m1I187_normal.jpg",
       "id" : 1586501,
       "verified" : true
     }
@@ -963,7 +963,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Mastracci \u2712",
+      "name" : "Matt Mastracci",
       "screen_name" : "mmastrac",
       "indices" : [ 0, 9 ],
       "id_str" : "16873352",
@@ -1140,7 +1140,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "sull",
       "protected" : false,
       "id_str" : "1202561",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/778441868438712320\/o1x-W35a_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/797868923244920832\/WnzOU0AP_normal.jpg",
       "id" : 1202561,
       "verified" : false
     }
@@ -1471,7 +1471,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -1498,11 +1498,11 @@ Grailbird.data.tweets_2010_11 =
     "id" : 5409014800187392,
     "created_at" : "2010-11-18 23:56:24 +0000",
     "user" : {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788124124396871683\/NYpvQ6MA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837523130683883520\/vWG_ymiD_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -1642,7 +1642,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -1669,11 +1669,11 @@ Grailbird.data.tweets_2010_11 =
     "id" : 4624158579228672,
     "created_at" : "2010-11-16 19:57:39 +0000",
     "user" : {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788124124396871683\/NYpvQ6MA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837523130683883520\/vWG_ymiD_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -1693,7 +1693,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Mastracci \u2712",
+      "name" : "Matt Mastracci",
       "screen_name" : "mmastrac",
       "indices" : [ 0, 9 ],
       "id_str" : "16873352",
@@ -1717,63 +1717,6 @@ Grailbird.data.tweets_2010_11 =
   "created_at" : "2010-11-16 19:59:05 +0000",
   "in_reply_to_screen_name" : "mmastrac",
   "in_reply_to_user_id_str" : "16873352",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lachlan Markay",
-      "screen_name" : "LachlanMarkay",
-      "indices" : [ 3, 17 ],
-      "id_str" : "726644606",
-      "id" : 726644606
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "TSAslogans",
-      "indices" : [ 86, 97 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "4375667667902465",
-  "text" : "RT @LachlanMarkay: Can't see London, can't see France, unless we see your underpants. #TSAslogans",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "TSAslogans",
-        "indices" : [ 67, 78 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "4238515504160768",
-    "text" : "Can't see London, can't see France, unless we see your underpants. #TSAslogans",
-    "id" : 4238515504160768,
-    "created_at" : "2010-11-15 18:25:15 +0000",
-    "user" : {
-      "name" : "Lachlan Markay",
-      "screen_name" : "lachlan",
-      "protected" : false,
-      "id_str" : "15742985",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/701158934833270784\/FVNK2PVH_normal.jpg",
-      "id" : 15742985,
-      "verified" : true
-    }
-  },
-  "id" : 4375667667902465,
-  "created_at" : "2010-11-16 03:30:15 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1840,7 +1783,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "adamjodonnell",
       "protected" : false,
       "id_str" : "14058046",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/745011824215658496\/vz7nr4ym_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/827757461247496192\/SCi7_4vN_normal.jpg",
       "id" : 14058046,
       "verified" : false
     }
@@ -2184,7 +2127,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pumpkin Spice Ladama",
+      "name" : "Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -2217,7 +2160,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",
@@ -2353,7 +2296,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "marshallk",
       "protected" : false,
       "id_str" : "818340",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492745459421556736\/wGyWE2xf_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/822856912618127360\/kNYT-QNS_normal.jpg",
       "id" : 818340,
       "verified" : true
     }
@@ -2434,7 +2377,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -2461,11 +2404,11 @@ Grailbird.data.tweets_2010_11 =
     "id" : 1309178463256576,
     "created_at" : "2010-11-07 16:25:07 +0000",
     "user" : {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788124124396871683\/NYpvQ6MA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837523130683883520\/vWG_ymiD_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -3238,7 +3181,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "monteiro",
       "protected" : false,
       "id_str" : "2426",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/677921117592416256\/jHcRg-6u_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/803718083864989696\/HmANkE-1_normal.jpg",
       "id" : 2426,
       "verified" : true
     }
@@ -3310,57 +3253,6 @@ Grailbird.data.tweets_2010_11 =
   "id_str" : "29433321496",
   "text" : "And 19 years later... 2.5 million views on YouTube. Who'd of thunk. http:\/\/bit.ly\/9NMGM0",
   "id" : 29433321496,
-  "created_at" : "2010-11-02 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jesus Christ",
-      "screen_name" : "jesus",
-      "indices" : [ 3, 9 ],
-      "id_str" : "8943",
-      "id" : 8943
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "29436298239",
-  "text" : "RT @jesus: I totally missed the World Series! Did America win again?",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "29433993793",
-    "text" : "I totally missed the World Series! Did America win again?",
-    "id" : 29433993793,
-    "created_at" : "2010-11-02 03:04:14 +0000",
-    "user" : {
-      "name" : "Jesus Christ",
-      "screen_name" : "jesus",
-      "protected" : false,
-      "id_str" : "8943",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000436609149\/959a9ed0624216336e8d253aceb89e2b_normal.jpeg",
-      "id" : 8943,
-      "verified" : false
-    }
-  },
-  "id" : 29436298239,
   "created_at" : "2010-11-02 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",

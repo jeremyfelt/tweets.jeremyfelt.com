@@ -30,6 +30,72 @@ Grailbird.data.tweets_2010_04 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "13140988643",
+  "text" : "Seems like a few people REALLY hunt the garage sales for books they can sell on Amazon. This guy has a barcode scanner.",
+  "id" : 13140988643,
+  "created_at" : "2010-04-30 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "13141201451",
+  "text" : "The lady before him gave me a flier for the she works with - www.bookzeller.com - She only pays $1 for hard cover.",
+  "id" : 13141201451,
+  "created_at" : "2010-04-30 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "13141216934",
+  "text" : "Sorry, I get more than that on Amazon, just like you...",
+  "id" : 13141216934,
+  "created_at" : "2010-04-30 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "13141324502",
   "text" : "And if you can find perfect copies of the books we're selling today elsewhere for $1 or 50 cents, go for it.",
   "id" : 13141324502,
@@ -195,72 +261,6 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "13140988643",
-  "text" : "Seems like a few people REALLY hunt the garage sales for books they can sell on Amazon. This guy has a barcode scanner.",
-  "id" : 13140988643,
-  "created_at" : "2010-04-30 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "13141201451",
-  "text" : "The lady before him gave me a flier for the she works with - www.bookzeller.com - She only pays $1 for hard cover.",
-  "id" : 13141201451,
-  "created_at" : "2010-04-30 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "13141216934",
-  "text" : "Sorry, I get more than that on Amazon, just like you...",
-  "id" : 13141216934,
-  "created_at" : "2010-04-30 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -410,7 +410,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pumpkin Spice Ladama",
+      "name" : "Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -597,7 +597,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",
@@ -1459,7 +1459,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Mastracci \u2712",
+      "name" : "Matt Mastracci",
       "screen_name" : "mmastrac",
       "indices" : [ 0, 9 ],
       "id_str" : "16873352",
@@ -1477,6 +1477,98 @@ Grailbird.data.tweets_2010_04 =
   "created_at" : "2010-04-22 00:00:00 +0000",
   "in_reply_to_screen_name" : "mmastrac",
   "in_reply_to_user_id_str" : "16873352",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Kevin Marks",
+      "screen_name" : "kevinmarks",
+      "indices" : [ 0, 11 ],
+      "id_str" : "57203",
+      "id" : 57203
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "12592398211",
+  "geo" : { },
+  "id_str" : "12592535662",
+  "in_reply_to_user_id" : 57203,
+  "text" : "@kevinmarks Hmm, was that \"fecebook\" intentional\/subliminal? ;-p",
+  "id" : 12592535662,
+  "in_reply_to_status_id" : 12592398211,
+  "created_at" : "2010-04-21 00:00:00 +0000",
+  "in_reply_to_screen_name" : "kevinmarks",
+  "in_reply_to_user_id_str" : "57203",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Dave Winer",
+      "screen_name" : "davewiner",
+      "indices" : [ 78, 88 ],
+      "id_str" : "3839",
+      "id" : 3839
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12597511582",
+  "text" : "\"Don't tell me about Starbucks that are west of here if I'm headed east.\" via @davewiner http:\/\/bit.ly\/dAA9ph - Exactly!",
+  "id" : 12597511582,
+  "created_at" : "2010-04-21 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Brizzly",
+      "screen_name" : "brizzly",
+      "indices" : [ 44, 52 ],
+      "id_str" : "56436449",
+      "id" : 56436449
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "WebcamWednesday",
+      "indices" : [ 67, 83 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12597896969",
+  "text" : "Take a photo with the new camera control in @brizzly & tag it with #WebcamWednesday (pass it on!)",
+  "id" : 12597896969,
+  "created_at" : "2010-04-21 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1552,7 +1644,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDD78Chris Messina",
+      "name" : "Chris Messina \uD83E\uDD85",
       "screen_name" : "chrismessina",
       "indices" : [ 3, 16 ],
       "id_str" : "1186",
@@ -1561,8 +1653,8 @@ Grailbird.data.tweets_2010_04 =
       "name" : "The White House",
       "screen_name" : "WhiteHouse",
       "indices" : [ 29, 40 ],
-      "id_str" : "30313925",
-      "id" : 30313925
+      "id_str" : "822215673812119553",
+      "id" : 822215673812119553
     }, {
       "name" : "Techmeme",
       "screen_name" : "Techmeme",
@@ -1587,8 +1679,8 @@ Grailbird.data.tweets_2010_04 =
         "name" : "The White House",
         "screen_name" : "WhiteHouse",
         "indices" : [ 11, 22 ],
-        "id_str" : "30313925",
-        "id" : 30313925
+        "id_str" : "822215673812119553",
+        "id" : 822215673812119553
       }, {
         "name" : "Techmeme",
         "screen_name" : "Techmeme",
@@ -1609,11 +1701,11 @@ Grailbird.data.tweets_2010_04 =
     "id" : 12598081338,
     "created_at" : "2010-04-21 21:12:24 +0000",
     "user" : {
-      "name" : "\uD83D\uDD78Chris Messina",
+      "name" : "Chris Messina \uD83E\uDD85",
       "screen_name" : "chrismessina",
       "protected" : false,
       "id_str" : "1186",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/747905891391811584\/s3CDmJtG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/825572514063540224\/9-GVCuy-_normal.jpg",
       "id" : 1186,
       "verified" : true
     }
@@ -1761,7 +1853,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "hello whirled",
+      "name" : "ok, i'll byte",
       "screen_name" : "cw",
       "indices" : [ 3, 6 ],
       "id_str" : "292",
@@ -1788,7 +1880,7 @@ Grailbird.data.tweets_2010_04 =
     "id" : 12556131983,
     "created_at" : "2010-04-21 03:45:43 +0000",
     "user" : {
-      "name" : "hello whirled",
+      "name" : "ok, i'll byte",
       "screen_name" : "cw",
       "protected" : false,
       "id_str" : "292",
@@ -1843,104 +1935,12 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "marshallk",
       "protected" : false,
       "id_str" : "818340",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492745459421556736\/wGyWE2xf_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/822856912618127360\/kNYT-QNS_normal.jpg",
       "id" : 818340,
       "verified" : true
     }
   },
   "id" : 12590383940,
-  "created_at" : "2010-04-21 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kevin Marks",
-      "screen_name" : "kevinmarks",
-      "indices" : [ 0, 11 ],
-      "id_str" : "57203",
-      "id" : 57203
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "12592398211",
-  "geo" : { },
-  "id_str" : "12592535662",
-  "in_reply_to_user_id" : 57203,
-  "text" : "@kevinmarks Hmm, was that \"fecebook\" intentional\/subliminal? ;-p",
-  "id" : 12592535662,
-  "in_reply_to_status_id" : 12592398211,
-  "created_at" : "2010-04-21 00:00:00 +0000",
-  "in_reply_to_screen_name" : "kevinmarks",
-  "in_reply_to_user_id_str" : "57203",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Dave The Blogger",
-      "screen_name" : "davewiner",
-      "indices" : [ 78, 88 ],
-      "id_str" : "3839",
-      "id" : 3839
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12597511582",
-  "text" : "\"Don't tell me about Starbucks that are west of here if I'm headed east.\" via @davewiner http:\/\/bit.ly\/dAA9ph - Exactly!",
-  "id" : 12597511582,
-  "created_at" : "2010-04-21 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Brizzly",
-      "screen_name" : "brizzly",
-      "indices" : [ 44, 52 ],
-      "id_str" : "56436449",
-      "id" : 56436449
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "WebcamWednesday",
-      "indices" : [ 67, 83 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12597896969",
-  "text" : "Take a photo with the new camera control in @brizzly & tag it with #WebcamWednesday (pass it on!)",
-  "id" : 12597896969,
   "created_at" : "2010-04-21 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -2159,7 +2159,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "mattwaite",
       "protected" : false,
       "id_str" : "8839152",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/557594943858827264\/TqfCWS56_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/812696528800411649\/lGzwQc-y_normal.jpg",
       "id" : 8839152,
       "verified" : true
     }
@@ -2383,7 +2383,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "marshallk",
       "protected" : false,
       "id_str" : "818340",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492745459421556736\/wGyWE2xf_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/822856912618127360\/kNYT-QNS_normal.jpg",
       "id" : 818340,
       "verified" : true
     }
@@ -2452,7 +2452,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "kevinmarks",
       "protected" : false,
       "id_str" : "57203",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553009683087114240\/tU5HkXEI_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/826300294136868864\/bB22s4pc_normal.jpg",
       "id" : 57203,
       "verified" : false
     }
@@ -2479,7 +2479,7 @@ Grailbird.data.tweets_2010_04 =
       "id" : 18044341
     }, {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "indices" : [ 44, 52 ],
       "id_str" : "783214",
       "id" : 783214
@@ -2487,8 +2487,8 @@ Grailbird.data.tweets_2010_04 =
       "name" : "Foursquare",
       "screen_name" : "Foursquare",
       "indices" : [ 78, 89 ],
-      "id_str" : "14120151",
-      "id" : 14120151
+      "id_str" : "804341497441255424",
+      "id" : 804341497441255424
     }, {
       "name" : "WordPress",
       "screen_name" : "WordPress",
@@ -2698,7 +2698,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Robert Scoble",
+      "name" : "Robert Scoble: VR\/AR",
       "screen_name" : "Scobleizer",
       "indices" : [ 15, 26 ],
       "id_str" : "13348",
@@ -2984,11 +2984,147 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Michael Feathers",
+      "screen_name" : "mfeathers",
+      "indices" : [ 3, 13 ],
+      "id_str" : "14253068",
+      "id" : 14253068
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "11914882009",
+  "text" : "RT @mfeathers: Pi [the universe is far more strange than we thought] http:\/\/bit.ly\/dzmSGS",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "11690014773",
+    "text" : "Pi [the universe is far more strange than we thought] http:\/\/bit.ly\/dzmSGS",
+    "id" : 11690014773,
+    "created_at" : "2010-04-06 09:31:47 +0000",
+    "user" : {
+      "name" : "Michael Feathers",
+      "screen_name" : "mfeathers",
+      "protected" : false,
+      "id_str" : "14253068",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/715287671040421888\/A3dghRgj_normal.jpg",
+      "id" : 14253068,
+      "verified" : false
+    }
+  },
+  "id" : 11914882009,
+  "created_at" : "2010-04-10 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "11915057839",
+  "text" : "Hmm. Still no good place for me to see \"things I've retweeted new style\", huh? Maybe another hole that Twitter will fill next week.",
+  "id" : 11915057839,
+  "created_at" : "2010-04-10 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/blackberry.com\/twitter\" rel=\"nofollow\"\u003ETwitter for BlackBerry\u00AE\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jesse P. Luna",
+      "screen_name" : "jesseluna",
+      "indices" : [ 3, 13 ],
+      "id_str" : "14327577",
+      "id" : 14327577
+    }, {
+      "name" : "Shashi Bellamkonda",
+      "screen_name" : "shashib",
+      "indices" : [ 112, 120 ],
+      "id_str" : "1221471",
+      "id" : 1221471
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "11917903294",
+  "text" : "RT @jesseluna: Next move, will Twitter try to buy Twitpic?  \"Twitter Acquires Tweetie\" http:\/\/bit.ly\/by8XRE h\/t @shashib",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Shashi Bellamkonda",
+        "screen_name" : "shashib",
+        "indices" : [ 97, 105 ],
+        "id_str" : "1221471",
+        "id" : 1221471
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "11917575112",
+    "text" : "Next move, will Twitter try to buy Twitpic?  \"Twitter Acquires Tweetie\" http:\/\/bit.ly\/by8XRE h\/t @shashib",
+    "id" : 11917575112,
+    "created_at" : "2010-04-10 03:18:09 +0000",
+    "user" : {
+      "name" : "Jesse P. Luna",
+      "screen_name" : "jesseluna",
+      "protected" : false,
+      "id_str" : "14327577",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472612155942903808\/hyrenjHE_normal.jpeg",
+      "id" : 14327577,
+      "verified" : false
+    }
+  },
+  "id" : 11917903294,
+  "created_at" : "2010-04-10 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/blackberry.com\/twitter\" rel=\"nofollow\"\u003ETwitter for BlackBerry\u00AE\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "indices" : [ 7, 15 ],
       "id_str" : "783214",
       "id" : 783214
@@ -3160,7 +3296,7 @@ Grailbird.data.tweets_2010_04 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Google",
-      "screen_name" : "google",
+      "screen_name" : "Google",
       "indices" : [ 41, 48 ],
       "id_str" : "20536157",
       "id" : 20536157
@@ -3444,142 +3580,6 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Michael Feathers",
-      "screen_name" : "mfeathers",
-      "indices" : [ 3, 13 ],
-      "id_str" : "14253068",
-      "id" : 14253068
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "11914882009",
-  "text" : "RT @mfeathers: Pi [the universe is far more strange than we thought] http:\/\/bit.ly\/dzmSGS",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "11690014773",
-    "text" : "Pi [the universe is far more strange than we thought] http:\/\/bit.ly\/dzmSGS",
-    "id" : 11690014773,
-    "created_at" : "2010-04-06 09:31:47 +0000",
-    "user" : {
-      "name" : "Michael Feathers",
-      "screen_name" : "mfeathers",
-      "protected" : false,
-      "id_str" : "14253068",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/715287671040421888\/A3dghRgj_normal.jpg",
-      "id" : 14253068,
-      "verified" : false
-    }
-  },
-  "id" : 11914882009,
-  "created_at" : "2010-04-10 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "11915057839",
-  "text" : "Hmm. Still no good place for me to see \"things I've retweeted new style\", huh? Maybe another hole that Twitter will fill next week.",
-  "id" : 11915057839,
-  "created_at" : "2010-04-10 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/blackberry.com\/twitter\" rel=\"nofollow\"\u003ETwitter for BlackBerry\u00AE\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jesse P. Luna",
-      "screen_name" : "jesseluna",
-      "indices" : [ 3, 13 ],
-      "id_str" : "14327577",
-      "id" : 14327577
-    }, {
-      "name" : "Shashi Bellamkonda",
-      "screen_name" : "shashib",
-      "indices" : [ 112, 120 ],
-      "id_str" : "1221471",
-      "id" : 1221471
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "11917903294",
-  "text" : "RT @jesseluna: Next move, will Twitter try to buy Twitpic?  \"Twitter Acquires Tweetie\" http:\/\/bit.ly\/by8XRE h\/t @shashib",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Shashi Bellamkonda",
-        "screen_name" : "shashib",
-        "indices" : [ 97, 105 ],
-        "id_str" : "1221471",
-        "id" : 1221471
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "11917575112",
-    "text" : "Next move, will Twitter try to buy Twitpic?  \"Twitter Acquires Tweetie\" http:\/\/bit.ly\/by8XRE h\/t @shashib",
-    "id" : 11917575112,
-    "created_at" : "2010-04-10 03:18:09 +0000",
-    "user" : {
-      "name" : "Jesse P. Luna",
-      "screen_name" : "jesseluna",
-      "protected" : false,
-      "id_str" : "14327577",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472612155942903808\/hyrenjHE_normal.jpeg",
-      "id" : 14327577,
-      "verified" : false
-    }
-  },
-  "id" : 11917903294,
-  "created_at" : "2010-04-10 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/blackberry.com\/twitter\" rel=\"nofollow\"\u003ETwitter for BlackBerry\u00AE\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -3628,7 +3628,7 @@ Grailbird.data.tweets_2010_04 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "indices" : [ 11, 19 ],
       "id_str" : "783214",
       "id" : 783214
@@ -3710,7 +3710,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "kevinmarks",
       "protected" : false,
       "id_str" : "57203",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553009683087114240\/tU5HkXEI_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/826300294136868864\/bB22s4pc_normal.jpg",
       "id" : 57203,
       "verified" : false
     }
@@ -4043,7 +4043,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "acarvin",
       "protected" : false,
       "id_str" : "778057",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/692889823846146052\/we5MYRM9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/795623889372057600\/lYoWIKW1_normal.jpg",
       "id" : 778057,
       "verified" : true
     }

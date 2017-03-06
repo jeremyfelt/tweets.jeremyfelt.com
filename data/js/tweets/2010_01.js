@@ -2,6 +2,72 @@ Grailbird.data.tweets_2010_01 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "8482478068",
+  "text" : "Received-SPF: pass (google.com: domain of ...@....com designates 0.0.0.0 as permitted sender) ... flagged as spam. Hrm?",
+  "id" : 8482478068,
+  "created_at" : "2010-02-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "8487510181",
+  "text" : "Spammers have really made life hell for those trying to use cheap servers that aren't spamming. Bleh.",
+  "id" : 8487510181,
+  "created_at" : "2010-02-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "8489729993",
+  "text" : "Never done an activation email type thing before - was pretty easy. Wonder if it's better than captcha. Or just annoying for the user?",
+  "id" : 8489729993,
+  "created_at" : "2010-02-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Withings",
       "screen_name" : "Withings",
@@ -116,76 +182,10 @@ Grailbird.data.tweets_2010_01 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "8482478068",
-  "text" : "Received-SPF: pass (google.com: domain of ...@....com designates 0.0.0.0 as permitted sender) ... flagged as spam. Hrm?",
-  "id" : 8482478068,
-  "created_at" : "2010-02-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "8487510181",
-  "text" : "Spammers have really made life hell for those trying to use cheap servers that aren't spamming. Bleh.",
-  "id" : 8487510181,
-  "created_at" : "2010-02-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "8489729993",
-  "text" : "Never done an activation email type thing before - was pretty easy. Wonder if it's better than captcha. Or just annoying for the user?",
-  "id" : 8489729993,
-  "created_at" : "2010-02-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -212,11 +212,11 @@ Grailbird.data.tweets_2010_01 =
     "id" : 8427144079,
     "created_at" : "2010-01-30 22:18:47 +0000",
     "user" : {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788124124396871683\/NYpvQ6MA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837523130683883520\/vWG_ymiD_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -586,7 +586,7 @@ Grailbird.data.tweets_2010_01 =
       "screen_name" : "lazycoder",
       "protected" : false,
       "id_str" : "697163",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731138719260889088\/NHiWHPD5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/831535571356901376\/gXMa5dE6_normal.jpg",
       "id" : 697163,
       "verified" : false
     }
@@ -984,7 +984,7 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mde in USA",
+      "name" : "Self-mde man",
       "screen_name" : "mde",
       "indices" : [ 3, 7 ],
       "id_str" : "778332",
@@ -1023,7 +1023,7 @@ Grailbird.data.tweets_2010_01 =
     "id" : 7970335419,
     "created_at" : "2010-01-20 02:26:18 +0000",
     "user" : {
-      "name" : "Mde in USA",
+      "name" : "Self-mde man",
       "screen_name" : "mde",
       "protected" : false,
       "id_str" : "778332",
@@ -1297,7 +1297,7 @@ Grailbird.data.tweets_2010_01 =
       "screen_name" : "craignewman",
       "protected" : false,
       "id_str" : "13028322",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/710254909434646528\/ecXe9noS_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/813929520558407681\/RQddGuuO_normal.jpg",
       "id" : 13028322,
       "verified" : true
     }
@@ -1383,7 +1383,7 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u26A1\uFE0F Matt Terenzio",
+      "name" : "\u2697 Matt Terenzio",
       "screen_name" : "mterenzio",
       "indices" : [ 3, 13 ],
       "id_str" : "820002",
@@ -1410,7 +1410,7 @@ Grailbird.data.tweets_2010_01 =
     "id" : 7831819815,
     "created_at" : "2010-01-16 16:55:04 +0000",
     "user" : {
-      "name" : "\u26A1\uFE0F Matt Terenzio",
+      "name" : "\u2697 Matt Terenzio",
       "screen_name" : "mterenzio",
       "protected" : false,
       "id_str" : "820002",
@@ -1453,71 +1453,10 @@ Grailbird.data.tweets_2010_01 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Blippy",
-      "screen_name" : "blippy",
-      "indices" : [ 19, 26 ],
-      "id_str" : "95802291",
-      "id" : 95802291
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "7805437287",
-  "text" : "I don't really get @blippy. I'm about to sign up just to see if I get it though, which weirds me out.",
-  "id" : 7805437287,
-  "created_at" : "2010-01-15 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Loic Le Meur",
-      "screen_name" : "loic",
-      "indices" : [ 8, 13 ],
-      "id_str" : "740983",
-      "id" : 740983
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "7805392900",
-  "geo" : { },
-  "id_str" : "7805471413",
-  "in_reply_to_user_id" : 740983,
-  "text" : "Hmmm... @loic - where's my seesmic iPhone app? :)",
-  "id" : 7805471413,
-  "in_reply_to_status_id" : 7805392900,
-  "created_at" : "2010-01-15 00:00:00 +0000",
-  "in_reply_to_screen_name" : "loic",
-  "in_reply_to_user_id_str" : "740983",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDEB6\uD83C\uDFFDjack",
+      "name" : "jack",
       "screen_name" : "jack",
       "indices" : [ 3, 8 ],
       "id_str" : "12",
@@ -1604,7 +1543,7 @@ Grailbird.data.tweets_2010_01 =
     "id" : 7768017517,
     "created_at" : "2010-01-15 00:34:53 +0000",
     "user" : {
-      "name" : "\uD83D\uDEB6\uD83C\uDFFDjack",
+      "name" : "jack",
       "screen_name" : "jack",
       "protected" : false,
       "id_str" : "12",
@@ -1671,13 +1610,96 @@ Grailbird.data.tweets_2010_01 =
       "screen_name" : "marshallk",
       "protected" : false,
       "id_str" : "818340",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492745459421556736\/wGyWE2xf_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/822856912618127360\/kNYT-QNS_normal.jpg",
       "id" : 818340,
       "verified" : true
     }
   },
   "id" : 7786229542,
   "created_at" : "2010-01-15 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Blippy",
+      "screen_name" : "blippy",
+      "indices" : [ 19, 26 ],
+      "id_str" : "95802291",
+      "id" : 95802291
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "7805437287",
+  "text" : "I don't really get @blippy. I'm about to sign up just to see if I get it though, which weirds me out.",
+  "id" : 7805437287,
+  "created_at" : "2010-01-15 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Loic Le Meur",
+      "screen_name" : "loic",
+      "indices" : [ 8, 13 ],
+      "id_str" : "740983",
+      "id" : 740983
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "7805392900",
+  "geo" : { },
+  "id_str" : "7805471413",
+  "in_reply_to_user_id" : 740983,
+  "text" : "Hmmm... @loic - where's my seesmic iPhone app? :)",
+  "id" : 7805471413,
+  "in_reply_to_status_id" : 7805392900,
+  "created_at" : "2010-01-15 00:00:00 +0000",
+  "in_reply_to_screen_name" : "loic",
+  "in_reply_to_user_id_str" : "740983",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "7763652515",
+  "text" : "Hmm. I think Amazon wants me to buy a new camera even more than I do.  http:\/\/brizzly.com\/pic\/138T",
+  "id" : 7763652515,
+  "created_at" : "2010-01-14 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1785,7 +1807,7 @@ Grailbird.data.tweets_2010_01 =
       "screen_name" : "republicofbrown",
       "protected" : false,
       "id_str" : "49775755",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1277212512\/rob_2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/809542107979317248\/fEzS2PsZ_normal.jpg",
       "id" : 49775755,
       "verified" : false
     }
@@ -1805,7 +1827,7 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -1832,11 +1854,11 @@ Grailbird.data.tweets_2010_01 =
     "id" : 7735624393,
     "created_at" : "2010-01-14 04:09:43 +0000",
     "user" : {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788124124396871683\/NYpvQ6MA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837523130683883520\/vWG_ymiD_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -1938,7 +1960,7 @@ Grailbird.data.tweets_2010_01 =
       "screen_name" : "wyclef",
       "protected" : false,
       "id_str" : "20659839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/746748067425169408\/W-sutx7__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/821260638282514432\/Yc-SJbdD_normal.jpg",
       "id" : 20659839,
       "verified" : true
     }
@@ -2077,7 +2099,7 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 16, 26 ],
       "id_str" : "3839",
@@ -2133,7 +2155,7 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -2160,11 +2182,11 @@ Grailbird.data.tweets_2010_01 =
     "id" : 7760403362,
     "created_at" : "2010-01-14 20:32:42 +0000",
     "user" : {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788124124396871683\/NYpvQ6MA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837523130683883520\/vWG_ymiD_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -2198,28 +2220,6 @@ Grailbird.data.tweets_2010_01 =
   "id_str" : "7763208396",
   "text" : "Wow! $4 mill raised in last 36 hours by @redcross SMS alone tops all charity's TOTAL mobile text donations from 2009.  http:\/\/bit.ly\/7nrqIs",
   "id" : 7763208396,
-  "created_at" : "2010-01-14 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "7763652515",
-  "text" : "Hmm. I think Amazon wants me to buy a new camera even more than I do.  http:\/\/brizzly.com\/pic\/138T",
-  "id" : 7763652515,
   "created_at" : "2010-01-14 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -2265,7 +2265,7 @@ Grailbird.data.tweets_2010_01 =
       "screen_name" : "obrien",
       "protected" : false,
       "id_str" : "10952962",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/778351675342000129\/saE7R7OI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/826468758436925444\/qpuZKVNv_normal.jpg",
       "id" : 10952962,
       "verified" : true
     }
@@ -2405,7 +2405,7 @@ Grailbird.data.tweets_2010_01 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Google",
-      "screen_name" : "google",
+      "screen_name" : "Google",
       "indices" : [ 35, 42 ],
       "id_str" : "20536157",
       "id" : 20536157
@@ -2475,7 +2475,7 @@ Grailbird.data.tweets_2010_01 =
       "screen_name" : "kevinmarks",
       "protected" : false,
       "id_str" : "57203",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/553009683087114240\/tU5HkXEI_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/826300294136868864\/bB22s4pc_normal.jpg",
       "id" : 57203,
       "verified" : false
     }
@@ -2596,7 +2596,7 @@ Grailbird.data.tweets_2010_01 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Google",
-      "screen_name" : "google",
+      "screen_name" : "Google",
       "indices" : [ 11, 18 ],
       "id_str" : "20536157",
       "id" : 20536157
@@ -2664,7 +2664,7 @@ Grailbird.data.tweets_2010_01 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Google",
-      "screen_name" : "google",
+      "screen_name" : "Google",
       "indices" : [ 6, 13 ],
       "id_str" : "20536157",
       "id" : 20536157
@@ -2741,7 +2741,7 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pumpkin Spice Ladama",
+      "name" : "Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",

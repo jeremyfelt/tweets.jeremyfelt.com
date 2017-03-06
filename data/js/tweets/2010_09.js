@@ -25,7 +25,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MonsterMatt Cutts",
+      "name" : "Matt Cutts",
       "screen_name" : "mattcutts",
       "indices" : [ 0, 10 ],
       "id_str" : "3080761",
@@ -190,7 +190,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u26A1\uFE0F Matt Terenzio",
+      "name" : "\u2697 Matt Terenzio",
       "screen_name" : "mterenzio",
       "indices" : [ 0, 10 ],
       "id_str" : "820002",
@@ -346,7 +346,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",
@@ -366,6 +366,28 @@ Grailbird.data.tweets_2010_09 =
   "created_at" : "2010-10-01 00:00:00 +0000",
   "in_reply_to_screen_name" : "davewiner",
   "in_reply_to_user_id_str" : "3839",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "25986558120",
+  "text" : "Advertised vs. actual waistline http:\/\/bit.ly\/dbGzV4",
+  "id" : 25986558120,
+  "created_at" : "2010-09-30 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -533,8 +555,8 @@ Grailbird.data.tweets_2010_09 =
       "name" : "Elizabeth Holmes",
       "screen_name" : "EHolmesWSJ",
       "indices" : [ 21, 32 ],
-      "id_str" : "18641695",
-      "id" : 18641695
+      "id_str" : "16302306",
+      "id" : 16302306
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -553,8 +575,8 @@ Grailbird.data.tweets_2010_09 =
         "name" : "Elizabeth Holmes",
         "screen_name" : "EHolmesWSJ",
         "indices" : [ 3, 14 ],
-        "id_str" : "18641695",
-        "id" : 18641695
+        "id_str" : "16302306",
+        "id" : 16302306
       } ],
       "media" : [ ],
       "hashtags" : [ {
@@ -680,28 +702,6 @@ Grailbird.data.tweets_2010_09 =
     }
   },
   "id" : 25946500019,
-  "created_at" : "2010-09-30 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "25986558120",
-  "text" : "Advertised vs. actual waistline http:\/\/bit.ly\/dbGzV4",
-  "id" : 25986558120,
   "created_at" : "2010-09-30 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -940,7 +940,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Mastracci \u2712",
+      "name" : "Matt Mastracci",
       "screen_name" : "mmastrac",
       "indices" : [ 0, 9 ],
       "id_str" : "16873352",
@@ -995,7 +995,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pumpkin Spice Ladama",
+      "name" : "Ladama",
       "screen_name" : "ladama",
       "indices" : [ 3, 10 ],
       "id_str" : "16390477",
@@ -1022,11 +1022,11 @@ Grailbird.data.tweets_2010_09 =
     "id" : 25848375149,
     "created_at" : "2010-09-29 03:11:34 +0000",
     "user" : {
-      "name" : "Pumpkin Spice Ladama",
+      "name" : "Ladama",
       "screen_name" : "ladama",
       "protected" : false,
       "id_str" : "16390477",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614700209306664960\/7cDCb_VS_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796406403095265282\/DwatkFe3_normal.jpg",
       "id" : 16390477,
       "verified" : false
     }
@@ -1276,7 +1276,7 @@ Grailbird.data.tweets_2010_09 =
       "id_str" : "422",
       "id" : 422
     }, {
-      "name" : "hello whirled",
+      "name" : "ok, i'll byte",
       "screen_name" : "cw",
       "indices" : [ 21, 24 ],
       "id_str" : "292",
@@ -1423,7 +1423,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -1467,11 +1467,11 @@ Grailbird.data.tweets_2010_09 =
     "in_reply_to_screen_name" : "ryantate",
     "in_reply_to_user_id_str" : "2128391",
     "user" : {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788124124396871683\/NYpvQ6MA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837523130683883520\/vWG_ymiD_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -1646,7 +1646,7 @@ Grailbird.data.tweets_2010_09 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "indices" : [ 48, 56 ],
       "id_str" : "783214",
       "id" : 783214
@@ -1839,7 +1839,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Mastracci \u2712",
+      "name" : "Matt Mastracci",
       "screen_name" : "mmastrac",
       "indices" : [ 0, 9 ],
       "id_str" : "16873352",
@@ -1971,6 +1971,28 @@ Grailbird.data.tweets_2010_09 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "25275241915",
+  "text" : "linoleum floor, linoleum floor",
+  "id" : 25275241915,
+  "created_at" : "2010-09-23 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "25275295188",
   "text" : "Your lyrics are dumb like a linoleum floor\/ I'll walk on it \/ I'll walk all over you \/ Walk on it, walk on it, walk on, One, Two!",
   "id" : 25275295188,
@@ -2031,7 +2053,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "marshallk",
       "protected" : false,
       "id_str" : "818340",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492745459421556736\/wGyWE2xf_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/822856912618127360\/kNYT-QNS_normal.jpg",
       "id" : 818340,
       "verified" : true
     }
@@ -2051,7 +2073,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 1, 11 ],
       "id_str" : "3839",
@@ -2269,28 +2291,6 @@ Grailbird.data.tweets_2010_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "25275241915",
-  "text" : "linoleum floor, linoleum floor",
-  "id" : 25275241915,
-  "created_at" : "2010-09-23 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -2456,7 +2456,7 @@ Grailbird.data.tweets_2010_09 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "indices" : [ 22, 30 ],
       "id_str" : "783214",
       "id" : 783214
@@ -2487,7 +2487,7 @@ Grailbird.data.tweets_2010_09 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "indices" : [ 40, 48 ],
       "id_str" : "783214",
       "id" : 783214
@@ -2609,7 +2609,7 @@ Grailbird.data.tweets_2010_09 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "indices" : [ 8, 16 ],
       "id_str" : "783214",
       "id" : 783214
@@ -2689,7 +2689,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "acarvin",
       "protected" : false,
       "id_str" : "778057",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/692889823846146052\/we5MYRM9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/795623889372057600\/lYoWIKW1_normal.jpg",
       "id" : 778057,
       "verified" : true
     }
@@ -3064,7 +3064,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "mattwaite",
       "protected" : false,
       "id_str" : "8839152",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/557594943858827264\/TqfCWS56_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/812696528800411649\/lGzwQc-y_normal.jpg",
       "id" : 8839152,
       "verified" : true
     }
@@ -3212,6 +3212,28 @@ Grailbird.data.tweets_2010_09 =
   "text" : "I wonder how many of the 250,000 apps published or billions sold are classified as \"amateur hour\".",
   "id" : 24020573030,
   "created_at" : "2010-09-09 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "23909900606",
+  "text" : "The segue from Live And Let Die (Wings, not GnR) into More Than A Feeling is not as obvious as my waking brain told me it was.",
+  "id" : 23909900606,
+  "created_at" : "2010-09-08 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3562,7 +3584,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "nickbilton",
       "protected" : false,
       "id_str" : "1586501",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/784633039678763009\/TxerDZ_U_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/822186241303023616\/j2m1I187_normal.jpg",
       "id" : 1586501,
       "verified" : true
     }
@@ -3665,28 +3687,6 @@ Grailbird.data.tweets_2010_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "23909900606",
-  "text" : "The segue from Live And Let Die (Wings, not GnR) into More Than A Feeling is not as obvious as my waking brain told me it was.",
-  "id" : 23909900606,
-  "created_at" : "2010-09-08 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -3712,7 +3712,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDEB6\uD83C\uDFFDjack",
+      "name" : "jack",
       "screen_name" : "jack",
       "indices" : [ 3, 8 ],
       "id_str" : "12",
@@ -3739,7 +3739,7 @@ Grailbird.data.tweets_2010_09 =
     "id" : 23196988460,
     "created_at" : "2010-09-07 02:00:16 +0000",
     "user" : {
-      "name" : "\uD83D\uDEB6\uD83C\uDFFDjack",
+      "name" : "jack",
       "screen_name" : "jack",
       "protected" : false,
       "id_str" : "12",
@@ -3850,7 +3850,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "DaveGorman",
       "protected" : false,
       "id_str" : "19095849",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/660159475186315265\/cThWaLGc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/820946224719269889\/SyqEwNOH_normal.jpg",
       "id" : 19095849,
       "verified" : true
     }
@@ -4171,7 +4171,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MonsterMatt Cutts",
+      "name" : "Matt Cutts",
       "screen_name" : "mattcutts",
       "indices" : [ 0, 10 ],
       "id_str" : "3080761",
@@ -4227,7 +4227,7 @@ Grailbird.data.tweets_2010_09 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "indices" : [ 82, 90 ],
       "id_str" : "783214",
       "id" : 783214
@@ -4550,7 +4550,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "fraying",
       "protected" : false,
       "id_str" : "4999",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788927666808172544\/uL9pHALV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796997035282952192\/F3jj97Ln_normal.jpg",
       "id" : 4999,
       "verified" : false
     }
@@ -4570,7 +4570,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",

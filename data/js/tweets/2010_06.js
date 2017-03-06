@@ -80,7 +80,7 @@ Grailbird.data.tweets_2010_06 =
       "id_str" : "19651183",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1812607882\/Orwell_Prize_twitter_normal.jpg",
       "id" : 19651183,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 17487428996,
@@ -312,6 +312,53 @@ Grailbird.data.tweets_2010_06 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "gameover",
+      "indices" : [ 116, 125 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17308668176",
+  "text" : "Games like FIFA are great on the iPod. Until you frantically try to get off a kick and hit the home screen instead. #gameover",
+  "id" : 17308668176,
+  "created_at" : "2010-06-29 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17336413030",
+  "text" : "\"Accused Russian Spy a \"Practiced Deceiver\" http:\/\/bit.ly\/c8qQ9R And one with an impressive Linked In profile. http:\/\/bit.ly\/aUcxLC",
+  "id" : 17336413030,
+  "created_at" : "2010-06-29 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -505,32 +552,7 @@ Grailbird.data.tweets_2010_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "gameover",
-      "indices" : [ 116, 125 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17308668176",
-  "text" : "Games like FIFA are great on the iPod. Until you frantically try to get off a kick and hit the home screen instead. #gameover",
-  "id" : 17308668176,
-  "created_at" : "2010-06-29 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -538,10 +560,10 @@ Grailbird.data.tweets_2010_06 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "17336413030",
-  "text" : "\"Accused Russian Spy a \"Practiced Deceiver\" http:\/\/bit.ly\/c8qQ9R And one with an impressive Linked In profile. http:\/\/bit.ly\/aUcxLC",
-  "id" : 17336413030,
-  "created_at" : "2010-06-29 00:00:00 +0000",
+  "id_str" : "17289651975",
+  "text" : "Dos Dos Equis",
+  "id" : 17289651975,
+  "created_at" : "2010-06-28 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -614,28 +636,6 @@ Grailbird.data.tweets_2010_06 =
     }
   },
   "id" : 17283813904,
-  "created_at" : "2010-06-28 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17289651975",
-  "text" : "Dos Dos Equis",
-  "id" : 17289651975,
   "created_at" : "2010-06-28 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -1625,7 +1625,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",
@@ -1643,6 +1643,101 @@ Grailbird.data.tweets_2010_06 =
   "created_at" : "2010-06-25 00:00:00 +0000",
   "in_reply_to_screen_name" : "davewiner",
   "in_reply_to_user_id_str" : "3839",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "The NPR Tech Team",
+      "screen_name" : "NPRTechTeam",
+      "indices" : [ 3, 15 ],
+      "id_str" : "16950711",
+      "id" : 16950711
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "16895064708",
+  "text" : "RT @NPRTechTeam: NPR Music iPhone App is now live in the iTunes Store! It is free! Here is the launch announcement for it - http:\/\/nyti. ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "16893521431",
+    "text" : "NPR Music iPhone App is now live in the iTunes Store! It is free! Here is the launch announcement for it - http:\/\/nyti.ms\/b37MaG",
+    "id" : 16893521431,
+    "created_at" : "2010-06-24 01:44:37 +0000",
+    "user" : {
+      "name" : "The NPR Tech Team",
+      "screen_name" : "NPRTechTeam",
+      "protected" : false,
+      "id_str" : "16950711",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1010537989\/twitter_techTeam_normal.jpg",
+      "id" : 16950711,
+      "verified" : false
+    }
+  },
+  "id" : 16895064708,
+  "created_at" : "2010-06-24 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "16895457972",
+  "text" : "Instant review of NPR Music App? Pretty Freakin' Awesome.",
+  "id" : 16895457972,
+  "created_at" : "2010-06-24 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.npr.org\" rel=\"nofollow\"\u003ENPR Music for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "16895659650",
+  "text" : "NPR: First Listen: Alejandro Escovedo, 'Street Songs Of Love'-More at http:\/\/n.pr\/127889769",
+  "id" : 16895659650,
+  "created_at" : "2010-06-24 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2107,101 +2202,6 @@ Grailbird.data.tweets_2010_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "The NPR Tech Team",
-      "screen_name" : "NPRTechTeam",
-      "indices" : [ 3, 15 ],
-      "id_str" : "16950711",
-      "id" : 16950711
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "16895064708",
-  "text" : "RT @NPRTechTeam: NPR Music iPhone App is now live in the iTunes Store! It is free! Here is the launch announcement for it - http:\/\/nyti. ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "16893521431",
-    "text" : "NPR Music iPhone App is now live in the iTunes Store! It is free! Here is the launch announcement for it - http:\/\/nyti.ms\/b37MaG",
-    "id" : 16893521431,
-    "created_at" : "2010-06-24 01:44:37 +0000",
-    "user" : {
-      "name" : "The NPR Tech Team",
-      "screen_name" : "NPRTechTeam",
-      "protected" : false,
-      "id_str" : "16950711",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1010537989\/twitter_techTeam_normal.jpg",
-      "id" : 16950711,
-      "verified" : false
-    }
-  },
-  "id" : 16895064708,
-  "created_at" : "2010-06-24 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "16895457972",
-  "text" : "Instant review of NPR Music App? Pretty Freakin' Awesome.",
-  "id" : 16895457972,
-  "created_at" : "2010-06-24 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.npr.org\" rel=\"nofollow\"\u003ENPR Music for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "16895659650",
-  "text" : "NPR: First Listen: Alejandro Escovedo, 'Street Songs Of Love'-More at http:\/\/n.pr\/127889769",
-  "id" : 16895659650,
-  "created_at" : "2010-06-24 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2587,7 +2587,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "acarvin",
       "protected" : false,
       "id_str" : "778057",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/692889823846146052\/we5MYRM9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/795623889372057600\/lYoWIKW1_normal.jpg",
       "id" : 778057,
       "verified" : true
     }
@@ -2704,7 +2704,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "Chanders",
       "protected" : false,
       "id_str" : "14245341",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/768091399023685636\/cjpGA3mt_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/824436067650543616\/TcdFdNHI_normal.jpg",
       "id" : 14245341,
       "verified" : false
     }
@@ -2910,7 +2910,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -2937,11 +2937,11 @@ Grailbird.data.tweets_2010_06 =
     "id" : 16265575294,
     "created_at" : "2010-06-16 00:15:40 +0000",
     "user" : {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788124124396871683\/NYpvQ6MA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837523130683883520\/vWG_ymiD_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -2961,7 +2961,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -2988,11 +2988,11 @@ Grailbird.data.tweets_2010_06 =
     "id" : 16268314885,
     "created_at" : "2010-06-16 01:01:15 +0000",
     "user" : {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788124124396871683\/NYpvQ6MA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837523130683883520\/vWG_ymiD_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -3012,7 +3012,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 20, 30 ],
       "id_str" : "3839",
@@ -3159,7 +3159,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 64, 74 ],
       "id_str" : "3839",
@@ -3632,7 +3632,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",
@@ -3711,10 +3711,146 @@ Grailbird.data.tweets_2010_06 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Abraham Williams",
+      "screen_name" : "abraham",
+      "indices" : [ 3, 11 ],
+      "id_str" : "9436992",
+      "id" : 9436992
+    }, {
+      "name" : "Twitter API",
+      "screen_name" : "twitterapi",
+      "indices" : [ 29, 40 ],
+      "id_str" : "6253282",
+      "id" : 6253282
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "15758091325",
+  "text" : "RT @abraham: One downside of @twitterapi switching to t.co is http:\/\/abrah.am which is 15 characters will always take 20 characters.",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Twitter API",
+        "screen_name" : "twitterapi",
+        "indices" : [ 16, 27 ],
+        "id_str" : "6253282",
+        "id" : 6253282
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "15757729560",
+    "text" : "One downside of @twitterapi switching to t.co is http:\/\/abrah.am which is 15 characters will always take 20 characters.",
+    "id" : 15757729560,
+    "created_at" : "2010-06-09 04:19:40 +0000",
+    "user" : {
+      "name" : "Abraham Williams",
+      "screen_name" : "abraham",
+      "protected" : false,
+      "id_str" : "9436992",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/709760191730831361\/oBGOKpMK_normal.jpg",
+      "id" : 9436992,
+      "verified" : false
+    }
+  },
+  "id" : 15758091325,
+  "created_at" : "2010-06-09 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "15758495332",
+  "text" : "Woohoo, progress! Now, bed.",
+  "id" : 15758495332,
+  "created_at" : "2010-06-09 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Alex Payne \uD83C\uDF39",
+      "screen_name" : "al3x",
+      "indices" : [ 3, 8 ],
+      "id_str" : "18713",
+      "id" : 18713
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "15802671683",
+  "text" : "RT @al3x: So, imagine Helvetireader, except prettier, more polished, and less buggy. Boom: http:\/\/ismaelsobek.com\/lucidica\/",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "15801693813",
+    "text" : "So, imagine Helvetireader, except prettier, more polished, and less buggy. Boom: http:\/\/ismaelsobek.com\/lucidica\/",
+    "id" : 15801693813,
+    "created_at" : "2010-06-09 20:53:54 +0000",
+    "user" : {
+      "name" : "Alex Payne \uD83C\uDF39",
+      "screen_name" : "al3x",
+      "protected" : false,
+      "id_str" : "18713",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/697959498711830528\/glceGyFI_normal.png",
+      "id" : 18713,
+      "verified" : false
+    }
+  },
+  "id" : 15802671683,
+  "created_at" : "2010-06-09 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rod Begbie :skull:",
+      "name" : "Rod Begbie",
       "screen_name" : "RodBegbie",
       "indices" : [ 3, 13 ],
       "id_str" : "761",
@@ -3741,11 +3877,11 @@ Grailbird.data.tweets_2010_06 =
     "id" : 15741838678,
     "created_at" : "2010-06-08 23:59:56 +0000",
     "user" : {
-      "name" : "Rod Begbie :skull:",
+      "name" : "Rod Begbie",
       "screen_name" : "RodBegbie",
       "protected" : false,
       "id_str" : "761",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/682383953135702016\/jCG-KIYs_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/817260970011566081\/O96hK58o_normal.jpg",
       "id" : 761,
       "verified" : false
     }
@@ -3847,142 +3983,6 @@ Grailbird.data.tweets_2010_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Abraham Williams",
-      "screen_name" : "abraham",
-      "indices" : [ 3, 11 ],
-      "id_str" : "9436992",
-      "id" : 9436992
-    }, {
-      "name" : "Twitter API",
-      "screen_name" : "twitterapi",
-      "indices" : [ 29, 40 ],
-      "id_str" : "6253282",
-      "id" : 6253282
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "15758091325",
-  "text" : "RT @abraham: One downside of @twitterapi switching to t.co is http:\/\/abrah.am which is 15 characters will always take 20 characters.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Twitter API",
-        "screen_name" : "twitterapi",
-        "indices" : [ 16, 27 ],
-        "id_str" : "6253282",
-        "id" : 6253282
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "15757729560",
-    "text" : "One downside of @twitterapi switching to t.co is http:\/\/abrah.am which is 15 characters will always take 20 characters.",
-    "id" : 15757729560,
-    "created_at" : "2010-06-09 04:19:40 +0000",
-    "user" : {
-      "name" : "Abraham Williams",
-      "screen_name" : "abraham",
-      "protected" : false,
-      "id_str" : "9436992",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/709760191730831361\/oBGOKpMK_normal.jpg",
-      "id" : 9436992,
-      "verified" : false
-    }
-  },
-  "id" : 15758091325,
-  "created_at" : "2010-06-09 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "15758495332",
-  "text" : "Woohoo, progress! Now, bed.",
-  "id" : 15758495332,
-  "created_at" : "2010-06-09 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Alex Payne",
-      "screen_name" : "al3x",
-      "indices" : [ 3, 8 ],
-      "id_str" : "18713",
-      "id" : 18713
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "15802671683",
-  "text" : "RT @al3x: So, imagine Helvetireader, except prettier, more polished, and less buggy. Boom: http:\/\/ismaelsobek.com\/lucidica\/",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "15801693813",
-    "text" : "So, imagine Helvetireader, except prettier, more polished, and less buggy. Boom: http:\/\/ismaelsobek.com\/lucidica\/",
-    "id" : 15801693813,
-    "created_at" : "2010-06-09 20:53:54 +0000",
-    "user" : {
-      "name" : "Alex Payne",
-      "screen_name" : "al3x",
-      "protected" : false,
-      "id_str" : "18713",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/697959498711830528\/glceGyFI_normal.png",
-      "id" : 18713,
-      "verified" : false
-    }
-  },
-  "id" : 15802671683,
-  "created_at" : "2010-06-09 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4006,7 +4006,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "A Walking Man",
+      "name" : "A Walkin' Dude",
       "screen_name" : "craigmod",
       "indices" : [ 3, 12 ],
       "id_str" : "1835951",
@@ -4033,7 +4033,7 @@ Grailbird.data.tweets_2010_06 =
     "id" : 15676574260,
     "created_at" : "2010-06-08 02:48:50 +0000",
     "user" : {
-      "name" : "A Walking Man",
+      "name" : "A Walkin' Dude",
       "screen_name" : "craigmod",
       "protected" : false,
       "id_str" : "1835951",
@@ -4264,7 +4264,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "cubanalaf",
       "protected" : false,
       "id_str" : "15377897",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/756973219622510592\/6N6FiZLZ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/818952802168881153\/rJjMRR1Q_normal.jpg",
       "id" : 15377897,
       "verified" : false
     }
@@ -4408,7 +4408,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -4435,11 +4435,11 @@ Grailbird.data.tweets_2010_06 =
     "id" : 15740669287,
     "created_at" : "2010-06-08 23:39:15 +0000",
     "user" : {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788124124396871683\/NYpvQ6MA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837523130683883520\/vWG_ymiD_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -4629,11 +4629,11 @@ Grailbird.data.tweets_2010_06 =
       "id_str" : "14515799",
       "id" : 14515799
     }, {
-      "name" : "The Caucus",
+      "name" : "Terry Power",
       "screen_name" : "thecaucus",
       "indices" : [ 66, 76 ],
-      "id_str" : "2771285805",
-      "id" : 2771285805
+      "id_str" : "835007223210389504",
+      "id" : 835007223210389504
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4646,11 +4646,11 @@ Grailbird.data.tweets_2010_06 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "The Caucus",
+        "name" : "Terry Power",
         "screen_name" : "thecaucus",
         "indices" : [ 48, 58 ],
-        "id_str" : "2771285805",
-        "id" : 2771285805
+        "id_str" : "835007223210389504",
+        "id" : 835007223210389504
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -4717,7 +4717,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "marshallk",
       "protected" : false,
       "id_str" : "818340",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492745459421556736\/wGyWE2xf_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/822856912618127360\/kNYT-QNS_normal.jpg",
       "id" : 818340,
       "verified" : true
     }
@@ -4942,7 +4942,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -4969,11 +4969,11 @@ Grailbird.data.tweets_2010_06 =
     "id" : 15583769419,
     "created_at" : "2010-06-06 22:15:53 +0000",
     "user" : {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788124124396871683\/NYpvQ6MA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837523130683883520\/vWG_ymiD_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -5147,7 +5147,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/785274565047955456\/1ivTAwJO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838609639105179648\/tfBxr1Fv_normal.jpg",
       "id" : 22872643,
       "verified" : true
     }
@@ -5299,6 +5299,101 @@ Grailbird.data.tweets_2010_06 =
   "text" : "Wishes for Monday. New iPod Touch with camera, updated CPU, and support for external keyboard. Or... mini iPad with camera.",
   "id" : 15351966987,
   "created_at" : "2010-06-03 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "15226708196",
+  "text" : "Aeroplane http:\/\/bit.ly\/dbyrqe",
+  "id" : 15226708196,
+  "created_at" : "2010-06-02 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "15226755110",
+  "text" : "Raw Carrot Cake - Yum! http:\/\/bit.ly\/cYVmzs",
+  "id" : 15226755110,
+  "created_at" : "2010-06-02 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Justin Miller \uD83C\uDDFA\uD83C\uDDF8\uD83C\uDDE8\uD83C\uDDE6\uD83C\uDDE9\uD83C\uDDEA",
+      "screen_name" : "incanus77",
+      "indices" : [ 3, 13 ],
+      "id_str" : "4765141",
+      "id" : 4765141
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "15229441359",
+  "text" : "RT @incanus77: Sarah Palin says the Gulf spill is evidence we should be drilling in safe places like ANWR. http:\/\/tinyurl.com\/38opnfm",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "15226084750",
+    "text" : "Sarah Palin says the Gulf spill is evidence we should be drilling in safe places like ANWR. http:\/\/tinyurl.com\/38opnfm",
+    "id" : 15226084750,
+    "created_at" : "2010-06-02 03:42:10 +0000",
+    "user" : {
+      "name" : "Justin Miller \uD83C\uDDFA\uD83C\uDDF8\uD83C\uDDE8\uD83C\uDDE6\uD83C\uDDE9\uD83C\uDDEA",
+      "screen_name" : "incanus77",
+      "protected" : false,
+      "id_str" : "4765141",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/761624278554906624\/V_GvVtyJ_normal.jpg",
+      "id" : 4765141,
+      "verified" : false
+    }
+  },
+  "id" : 15229441359,
+  "created_at" : "2010-06-02 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5534,101 +5629,6 @@ Grailbird.data.tweets_2010_06 =
     }
   },
   "id" : 15219636619,
-  "created_at" : "2010-06-02 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "15226708196",
-  "text" : "Aeroplane http:\/\/bit.ly\/dbyrqe",
-  "id" : 15226708196,
-  "created_at" : "2010-06-02 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "15226755110",
-  "text" : "Raw Carrot Cake - Yum! http:\/\/bit.ly\/cYVmzs",
-  "id" : 15226755110,
-  "created_at" : "2010-06-02 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Justin Miller",
-      "screen_name" : "incanus77",
-      "indices" : [ 3, 13 ],
-      "id_str" : "4765141",
-      "id" : 4765141
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "15229441359",
-  "text" : "RT @incanus77: Sarah Palin says the Gulf spill is evidence we should be drilling in safe places like ANWR. http:\/\/tinyurl.com\/38opnfm",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "15226084750",
-    "text" : "Sarah Palin says the Gulf spill is evidence we should be drilling in safe places like ANWR. http:\/\/tinyurl.com\/38opnfm",
-    "id" : 15226084750,
-    "created_at" : "2010-06-02 03:42:10 +0000",
-    "user" : {
-      "name" : "Justin Miller",
-      "screen_name" : "incanus77",
-      "protected" : false,
-      "id_str" : "4765141",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/761624278554906624\/V_GvVtyJ_normal.jpg",
-      "id" : 4765141,
-      "verified" : false
-    }
-  },
-  "id" : 15229441359,
   "created_at" : "2010-06-02 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",

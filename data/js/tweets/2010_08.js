@@ -360,6 +360,57 @@ Grailbird.data.tweets_2010_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Recipe Videos",
+      "screen_name" : "RecipeZ",
+      "indices" : [ 3, 11 ],
+      "id_str" : "116834248",
+      "id" : 116834248
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "22644979757",
+  "text" : "RT @RecipeZ: \"We are living in a world today where lemonade is made from artificial flavors and furniture polish is made from real lemon ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "22644758768",
+    "text" : "\"We are living in a world today where lemonade is made from artificial flavors and furniture polish is made from real lemons.\" ~Alfred E. Ne",
+    "id" : 22644758768,
+    "created_at" : "2010-08-31 20:00:09 +0000",
+    "user" : {
+      "name" : "Recipe Videos",
+      "screen_name" : "RecipeZ",
+      "protected" : false,
+      "id_str" : "116834248",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/714172524\/recipez_normal.gif",
+      "id" : 116834248,
+      "verified" : false
+    }
+  },
+  "id" : 22644979757,
+  "created_at" : "2010-08-31 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -550,57 +601,6 @@ Grailbird.data.tweets_2010_08 =
   "created_at" : "2010-08-31 00:00:00 +0000",
   "in_reply_to_screen_name" : "jayrosen_nyu",
   "in_reply_to_user_id_str" : "14834340",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Recipe Videos",
-      "screen_name" : "RecipeZ",
-      "indices" : [ 3, 11 ],
-      "id_str" : "116834248",
-      "id" : 116834248
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "22644979757",
-  "text" : "RT @RecipeZ: \"We are living in a world today where lemonade is made from artificial flavors and furniture polish is made from real lemon ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "22644758768",
-    "text" : "\"We are living in a world today where lemonade is made from artificial flavors and furniture polish is made from real lemons.\" ~Alfred E. Ne",
-    "id" : 22644758768,
-    "created_at" : "2010-08-31 20:00:09 +0000",
-    "user" : {
-      "name" : "Recipe Videos",
-      "screen_name" : "RecipeZ",
-      "protected" : false,
-      "id_str" : "116834248",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/714172524\/recipez_normal.gif",
-      "id" : 116834248,
-      "verified" : false
-    }
-  },
-  "id" : 22644979757,
-  "created_at" : "2010-08-31 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -828,7 +828,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/785274565047955456\/1ivTAwJO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838609639105179648\/tfBxr1Fv_normal.jpg",
       "id" : 22872643,
       "verified" : true
     }
@@ -914,7 +914,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDD78Chris Messina",
+      "name" : "Chris Messina \uD83E\uDD85",
       "screen_name" : "chrismessina",
       "indices" : [ 3, 16 ],
       "id_str" : "1186",
@@ -953,11 +953,11 @@ Grailbird.data.tweets_2010_08 =
     "id" : 22471537663,
     "created_at" : "2010-08-29 22:13:10 +0000",
     "user" : {
-      "name" : "\uD83D\uDD78Chris Messina",
+      "name" : "Chris Messina \uD83E\uDD85",
       "screen_name" : "chrismessina",
       "protected" : false,
       "id_str" : "1186",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/747905891391811584\/s3CDmJtG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/825572514063540224\/9-GVCuy-_normal.jpg",
       "id" : 1186,
       "verified" : true
     }
@@ -1008,7 +1008,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "tputh",
       "protected" : false,
       "id_str" : "112185074",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/496120773568770048\/FiRmHqUP_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/827583226529140741\/lf6wX0-j_normal.jpg",
       "id" : 112185074,
       "verified" : false
     }
@@ -1071,7 +1071,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "howardweaver",
       "protected" : false,
       "id_str" : "783837",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617870447439286273\/45I0d1Lm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/820049238360887296\/8IkWozfQ_normal.jpg",
       "id" : 783837,
       "verified" : false
     }
@@ -1625,7 +1625,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "howardweaver",
       "protected" : false,
       "id_str" : "783837",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617870447439286273\/45I0d1Lm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/820049238360887296\/8IkWozfQ_normal.jpg",
       "id" : 783837,
       "verified" : false
     }
@@ -1745,7 +1745,7 @@ Grailbird.data.tweets_2010_08 =
       "id_str" : "183749519",
       "id" : 183749519
     }, {
-      "name" : "JOANNE",
+      "name" : "xoxo, Joanne",
       "screen_name" : "ladygaga",
       "indices" : [ 85, 94 ],
       "id_str" : "14230524",
@@ -1880,6 +1880,28 @@ Grailbird.data.tweets_2010_08 =
   "text" : "Gmail served up a million phone calls in 24 hours. Wonder if the roll out is almost done. Can't wait to try it out.",
   "id" : 22203465869,
   "created_at" : "2010-08-26 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "22109361298",
+  "text" : "Wow. Only took a 5 minute phone call to cancel my Sprint service. I'm impressed.",
+  "id" : 22109361298,
+  "created_at" : "2010-08-25 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2132,28 +2154,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "22109361298",
-  "text" : "Wow. Only took a 5 minute phone call to cancel my Sprint service. I'm impressed.",
-  "id" : 22109361298,
-  "created_at" : "2010-08-25 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "21956255596",
   "text" : "Green Pepper http:\/\/flic.kr\/p\/8uTqNT",
   "id" : 21956255596,
@@ -2318,7 +2318,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Mastracci \u2712",
+      "name" : "Matt Mastracci",
       "screen_name" : "mmastrac",
       "indices" : [ 3, 12 ],
       "id_str" : "16873352",
@@ -2345,7 +2345,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 22007601012,
     "created_at" : "2010-08-24 15:06:54 +0000",
     "user" : {
-      "name" : "Matt Mastracci \u2712",
+      "name" : "Matt Mastracci",
       "screen_name" : "mmastrac",
       "protected" : false,
       "id_str" : "16873352",
@@ -2772,7 +2772,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -2799,11 +2799,11 @@ Grailbird.data.tweets_2010_08 =
     "id" : 21700754465,
     "created_at" : "2010-08-20 22:40:48 +0000",
     "user" : {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788124124396871683\/NYpvQ6MA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837523130683883520\/vWG_ymiD_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -3063,7 +3063,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne \uD83C\uDF39",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -3090,7 +3090,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 21513655179,
     "created_at" : "2010-08-18 19:18:59 +0000",
     "user" : {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne \uD83C\uDF39",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
@@ -3114,7 +3114,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne \uD83C\uDF39",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -3141,7 +3141,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 21513655179,
     "created_at" : "2010-08-18 19:18:59 +0000",
     "user" : {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne \uD83C\uDF39",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
@@ -3165,7 +3165,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne \uD83C\uDF39",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -3192,7 +3192,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 21513655179,
     "created_at" : "2010-08-18 19:18:59 +0000",
     "user" : {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne \uD83C\uDF39",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
@@ -3216,7 +3216,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne \uD83C\uDF39",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -3243,7 +3243,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 21513655179,
     "created_at" : "2010-08-18 19:18:59 +0000",
     "user" : {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne \uD83C\uDF39",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
@@ -3267,7 +3267,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne \uD83C\uDF39",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -3294,7 +3294,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 21513655179,
     "created_at" : "2010-08-18 19:18:59 +0000",
     "user" : {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne \uD83C\uDF39",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
@@ -3318,7 +3318,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne \uD83C\uDF39",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -3345,7 +3345,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 21513655179,
     "created_at" : "2010-08-18 19:18:59 +0000",
     "user" : {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne \uD83C\uDF39",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
@@ -3507,87 +3507,6 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gabriel Weinberg",
-      "screen_name" : "yegg",
-      "indices" : [ 3, 8 ],
-      "id_str" : "14492722",
-      "id" : 14492722
-    }, {
-      "name" : "Gmail team",
-      "screen_name" : "Gmail_team",
-      "indices" : [ 83, 94 ],
-      "id_str" : "15027070",
-      "id" : 15027070
-    }, {
-      "name" : "Blog Tecnologia",
-      "screen_name" : "GmailBlog",
-      "indices" : [ 95, 105 ],
-      "id_str" : "2177018479",
-      "id" : 2177018479
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "fb",
-      "indices" : [ 75, 78 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "21233883768",
-  "text" : "RT @yegg: The new Gmail UI is irritating me bc compose mail is not on top! #fb \/cc @Gmail_team @GmailBlog",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/proxlet.com\" rel=\"nofollow\"\u003EProxlet\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Gmail team",
-        "screen_name" : "Gmail_team",
-        "indices" : [ 73, 84 ],
-        "id_str" : "15027070",
-        "id" : 15027070
-      }, {
-        "name" : "Blog Tecnologia",
-        "screen_name" : "GmailBlog",
-        "indices" : [ 85, 95 ],
-        "id_str" : "2177018479",
-        "id" : 2177018479
-      } ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "fb",
-        "indices" : [ 65, 68 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "21233692595",
-    "text" : "The new Gmail UI is irritating me bc compose mail is not on top! #fb \/cc @Gmail_team @GmailBlog",
-    "id" : 21233692595,
-    "created_at" : "2010-08-15 14:17:45 +0000",
-    "user" : {
-      "name" : "Gabriel Weinberg",
-      "screen_name" : "yegg",
-      "protected" : false,
-      "id_str" : "14492722",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3375649973\/82c8b3dba07cebb44751ebcaaf3ecd5f_normal.jpeg",
-      "id" : 14492722,
-      "verified" : false
-    }
-  },
-  "id" : 21233883768,
-  "created_at" : "2010-08-15 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "KANYE WEST",
       "screen_name" : "kanyewest",
       "indices" : [ 7, 17 ],
@@ -3609,6 +3528,79 @@ Grailbird.data.tweets_2010_08 =
   "text" : "Uh oh. @kanyewest and @justinbieber are retweeting each other. The Internet may soon explode.",
   "id" : 21238134949,
   "created_at" : "2010-08-15 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Taylor Singletary",
+      "screen_name" : "episod",
+      "indices" : [ 3, 10 ],
+      "id_str" : "819797",
+      "id" : 819797
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "21096928386",
+  "text" : "RT @episod: Procrastinators cry the loudest.",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "21096799107",
+    "text" : "Procrastinators cry the loudest.",
+    "id" : 21096799107,
+    "created_at" : "2010-08-13 21:28:44 +0000",
+    "user" : {
+      "name" : "Taylor Singletary",
+      "screen_name" : "episod",
+      "protected" : false,
+      "id_str" : "819797",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/832625507057311747\/_rCr5OLD_normal.jpg",
+      "id" : 819797,
+      "verified" : false
+    }
+  },
+  "id" : 21096928386,
+  "created_at" : "2010-08-13 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "21097169488",
+  "text" : "Would like to down vote the new Gmail layout.",
+  "id" : 21097169488,
+  "created_at" : "2010-08-13 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3873,7 +3865,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne \uD83C\uDF39",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -3900,7 +3892,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 21078377055,
     "created_at" : "2010-08-13 16:39:30 +0000",
     "user" : {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne \uD83C\uDF39",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
@@ -3924,7 +3916,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "A Walking Man",
+      "name" : "A Walkin' Dude",
       "screen_name" : "craigmod",
       "indices" : [ 3, 12 ],
       "id_str" : "1835951",
@@ -3951,7 +3943,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 21083726454,
     "created_at" : "2010-08-13 17:55:11 +0000",
     "user" : {
-      "name" : "A Walking Man",
+      "name" : "A Walkin' Dude",
       "screen_name" : "craigmod",
       "protected" : false,
       "id_str" : "1835951",
@@ -3961,79 +3953,6 @@ Grailbird.data.tweets_2010_08 =
     }
   },
   "id" : 21084361649,
-  "created_at" : "2010-08-13 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Taylor Singletary",
-      "screen_name" : "episod",
-      "indices" : [ 3, 10 ],
-      "id_str" : "819797",
-      "id" : 819797
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "21096928386",
-  "text" : "RT @episod: Procrastinators cry the loudest.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "21096799107",
-    "text" : "Procrastinators cry the loudest.",
-    "id" : 21096799107,
-    "created_at" : "2010-08-13 21:28:44 +0000",
-    "user" : {
-      "name" : "Taylor Singletary",
-      "screen_name" : "episod",
-      "protected" : false,
-      "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788238429062504450\/lOhrFea1_normal.jpg",
-      "id" : 819797,
-      "verified" : false
-    }
-  },
-  "id" : 21096928386,
-  "created_at" : "2010-08-13 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "21097169488",
-  "text" : "Would like to down vote the new Gmail layout.",
-  "id" : 21097169488,
   "created_at" : "2010-08-13 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -4138,7 +4057,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",
@@ -4202,7 +4121,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788238429062504450\/lOhrFea1_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/832625507057311747\/_rCr5OLD_normal.jpg",
       "id" : 819797,
       "verified" : false
     }
@@ -4450,57 +4369,6 @@ Grailbird.data.tweets_2010_08 =
   "id_str" : "20892315098",
   "text" : "From the EFF: \"A Review of Verizon and Google's Net Neutrality Proposal\" http:\/\/bit.ly\/a3Kzn0",
   "id" : 20892315098,
-  "created_at" : "2010-08-11 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Gabriel Weinberg",
-      "screen_name" : "yegg",
-      "indices" : [ 3, 8 ],
-      "id_str" : "14492722",
-      "id" : 14492722
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "20908813086",
-  "text" : "RT @yegg: Every command line interface should implement 'exit' and 'quit'.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "20908752068",
-    "text" : "Every command line interface should implement 'exit' and 'quit'.",
-    "id" : 20908752068,
-    "created_at" : "2010-08-11 19:01:34 +0000",
-    "user" : {
-      "name" : "Gabriel Weinberg",
-      "screen_name" : "yegg",
-      "protected" : false,
-      "id_str" : "14492722",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3375649973\/82c8b3dba07cebb44751ebcaaf3ecd5f_normal.jpeg",
-      "id" : 14492722,
-      "verified" : false
-    }
-  },
-  "id" : 20908813086,
   "created_at" : "2010-08-11 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -4853,13 +4721,108 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "howardweaver",
       "protected" : false,
       "id_str" : "783837",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617870447439286273\/45I0d1Lm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/820049238360887296\/8IkWozfQ_normal.jpg",
       "id" : 783837,
       "verified" : false
     }
   },
   "id" : 20828110122,
   "created_at" : "2010-08-10 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Matt Gattis",
+      "screen_name" : "mattgattis",
+      "indices" : [ 3, 14 ],
+      "id_str" : "23087231",
+      "id" : 23087231
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "20674796650",
+  "text" : "RT @mattgattis: Hope this proof is wrong because I've been rooting for the underdog, P=NP, this whole time.  http:\/\/bit.ly\/bZkmSs",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "20673016408",
+    "text" : "Hope this proof is wrong because I've been rooting for the underdog, P=NP, this whole time.  http:\/\/bit.ly\/bZkmSs",
+    "id" : 20673016408,
+    "created_at" : "2010-08-09 02:14:11 +0000",
+    "user" : {
+      "name" : "Matt Gattis",
+      "screen_name" : "mattgattis",
+      "protected" : false,
+      "id_str" : "23087231",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/89232914\/headshot_normal.png",
+      "id" : 23087231,
+      "verified" : false
+    }
+  },
+  "id" : 20674796650,
+  "created_at" : "2010-08-09 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "20675575037",
+  "text" : "It's a good thing other programs don't recognize \"ctrl-c :wq\" as anything valid. Who knows what could happen.",
+  "id" : 20675575037,
+  "created_at" : "2010-08-09 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "20681267319",
+  "text" : "Just woke up while typing. What a weird feeling.",
+  "id" : 20681267319,
+  "created_at" : "2010-08-09 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4978,7 +4941,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne \uD83C\uDF39",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -5005,7 +4968,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 20730568597,
     "created_at" : "2010-08-09 19:15:29 +0000",
     "user" : {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne \uD83C\uDF39",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
@@ -5186,101 +5149,6 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Gattis",
-      "screen_name" : "mattgattis",
-      "indices" : [ 3, 14 ],
-      "id_str" : "23087231",
-      "id" : 23087231
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "20674796650",
-  "text" : "RT @mattgattis: Hope this proof is wrong because I've been rooting for the underdog, P=NP, this whole time.  http:\/\/bit.ly\/bZkmSs",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "20673016408",
-    "text" : "Hope this proof is wrong because I've been rooting for the underdog, P=NP, this whole time.  http:\/\/bit.ly\/bZkmSs",
-    "id" : 20673016408,
-    "created_at" : "2010-08-09 02:14:11 +0000",
-    "user" : {
-      "name" : "Matt Gattis",
-      "screen_name" : "mattgattis",
-      "protected" : false,
-      "id_str" : "23087231",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/89232914\/headshot_normal.png",
-      "id" : 23087231,
-      "verified" : false
-    }
-  },
-  "id" : 20674796650,
-  "created_at" : "2010-08-09 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "20675575037",
-  "text" : "It's a good thing other programs don't recognize \"ctrl-c :wq\" as anything valid. Who knows what could happen.",
-  "id" : 20675575037,
-  "created_at" : "2010-08-09 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "20681267319",
-  "text" : "Just woke up while typing. What a weird feeling.",
-  "id" : 20681267319,
-  "created_at" : "2010-08-09 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Word of the Day",
       "screen_name" : "thewordoftheday",
       "indices" : [ 24, 40 ],
@@ -5382,7 +5250,7 @@ Grailbird.data.tweets_2010_08 =
       "id" : 169686021
     }, {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "indices" : [ 22, 30 ],
       "id_str" : "783214",
       "id" : 783214
@@ -5547,7 +5415,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "nickbilton",
       "protected" : false,
       "id_str" : "1586501",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/784633039678763009\/TxerDZ_U_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/822186241303023616\/j2m1I187_normal.jpg",
       "id" : 1586501,
       "verified" : true
     }
@@ -5590,7 +5458,7 @@ Grailbird.data.tweets_2010_08 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "indices" : [ 51, 59 ],
       "id_str" : "783214",
       "id" : 783214
@@ -5853,7 +5721,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "lazycoder",
       "protected" : false,
       "id_str" : "697163",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731138719260889088\/NHiWHPD5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/831535571356901376\/gXMa5dE6_normal.jpg",
       "id" : 697163,
       "verified" : false
     }
@@ -5904,7 +5772,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "howardweaver",
       "protected" : false,
       "id_str" : "783837",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617870447439286273\/45I0d1Lm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/820049238360887296\/8IkWozfQ_normal.jpg",
       "id" : 783837,
       "verified" : false
     }
@@ -6029,7 +5897,7 @@ Grailbird.data.tweets_2010_08 =
       "id_str" : "648523",
       "id" : 648523
     }, {
-      "name" : "Gina Trapani",
+      "name" : "Gina Trapani \u270A\uD83C\uDFFB",
       "screen_name" : "ginatrapani",
       "indices" : [ 96, 108 ],
       "id_str" : "930061",
@@ -6046,7 +5914,7 @@ Grailbird.data.tweets_2010_08 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Gina Trapani",
+        "name" : "Gina Trapani \u270A\uD83C\uDFFB",
         "screen_name" : "ginatrapani",
         "indices" : [ 82, 94 ],
         "id_str" : "930061",
@@ -6413,12 +6281,12 @@ Grailbird.data.tweets_2010_08 =
       "id" : 36823
     }, {
       "name" : "Google",
-      "screen_name" : "google",
+      "screen_name" : "Google",
       "indices" : [ 18, 25 ],
       "id_str" : "20536157",
       "id" : 20536157
     }, {
-      "name" : "Gina Trapani",
+      "name" : "Gina Trapani \u270A\uD83C\uDFFB",
       "screen_name" : "ginatrapani",
       "indices" : [ 55, 67 ],
       "id_str" : "930061",
@@ -6436,12 +6304,12 @@ Grailbird.data.tweets_2010_08 =
     "entities" : {
       "user_mentions" : [ {
         "name" : "Google",
-        "screen_name" : "google",
+        "screen_name" : "Google",
         "indices" : [ 4, 11 ],
         "id_str" : "20536157",
         "id" : 20536157
       }, {
-        "name" : "Gina Trapani",
+        "name" : "Gina Trapani \u270A\uD83C\uDFFB",
         "screen_name" : "ginatrapani",
         "indices" : [ 41, 53 ],
         "id_str" : "930061",

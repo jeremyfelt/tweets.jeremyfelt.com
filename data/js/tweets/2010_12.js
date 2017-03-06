@@ -191,7 +191,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "jeffjarvis",
       "protected" : false,
       "id_str" : "11435642",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2670242870\/0acfd255ace1cf2cefd2dde037f8af3b_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/825769501371277313\/x4V8VgKF_normal.jpg",
       "id" : 11435642,
       "verified" : true
     }
@@ -255,7 +255,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",
@@ -315,11 +315,11 @@ Grailbird.data.tweets_2010_12 =
     "id" : 19531086358913024,
     "created_at" : "2010-12-27 23:12:28 +0000",
     "user" : {
-      "name" : "Boonsri D Srinivasan",
+      "name" : "Boonsri",
       "screen_name" : "boonsri",
       "protected" : false,
       "id_str" : "14538938",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/753366534781665280\/5LN4xDcF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837828633515339776\/-hLLr84V_normal.jpg",
       "id" : 14538938,
       "verified" : false
     }
@@ -464,57 +464,6 @@ Grailbird.data.tweets_2010_12 =
   "text" : "Just rediscovered this paper clip trick. Then proved that everything is already on Youtube. http:\/\/bit.ly\/fL3GZ3",
   "id" : 18079083590057984,
   "created_at" : "2010-12-23 23:02:44 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Copyblogger",
-      "screen_name" : "copyblogger",
-      "indices" : [ 3, 15 ],
-      "id_str" : "15029970",
-      "id" : 15029970
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "18039097490677760",
-  "text" : "RT @copyblogger: Trends come and go, but thinking before reacting never goes out of style.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "18025788674674688",
-    "text" : "Trends come and go, but thinking before reacting never goes out of style.",
-    "id" : 18025788674674688,
-    "created_at" : "2010-12-23 19:30:57 +0000",
-    "user" : {
-      "name" : "Brian Clark",
-      "screen_name" : "brianclark",
-      "protected" : false,
-      "id_str" : "10367",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/766711028134453248\/RdIKRWmE_normal.jpg",
-      "id" : 10367,
-      "verified" : true
-    }
-  },
-  "id" : 18039097490677760,
-  "created_at" : "2010-12-23 20:23:50 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -762,7 +711,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "howardweaver",
       "protected" : false,
       "id_str" : "783837",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617870447439286273\/45I0d1Lm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/820049238360887296\/8IkWozfQ_normal.jpg",
       "id" : 783837,
       "verified" : false
     }
@@ -1044,7 +993,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",
@@ -1374,7 +1323,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "NatGeo",
       "protected" : false,
       "id_str" : "17471979",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/743924912855879680\/yWJHj3fW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/798181194202566656\/U8QbCBdH_normal.jpg",
       "id" : 17471979,
       "verified" : true
     }
@@ -1445,7 +1394,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -1472,11 +1421,11 @@ Grailbird.data.tweets_2010_12 =
     "id" : 15532421290131456,
     "created_at" : "2010-12-16 22:23:12 +0000",
     "user" : {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788124124396871683\/NYpvQ6MA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837523130683883520\/vWG_ymiD_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -1657,7 +1606,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "acarvin",
       "protected" : false,
       "id_str" : "778057",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/692889823846146052\/we5MYRM9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/795623889372057600\/lYoWIKW1_normal.jpg",
       "id" : 778057,
       "verified" : true
     }
@@ -1795,7 +1744,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 39, 49 ],
       "id_str" : "3839",
@@ -2166,7 +2115,7 @@ Grailbird.data.tweets_2010_12 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "indices" : [ 14, 22 ],
       "id_str" : "783214",
       "id" : 783214
@@ -2259,7 +2208,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gina Trapani",
+      "name" : "Gina Trapani \u270A\uD83C\uDFFB",
       "screen_name" : "ginatrapani",
       "indices" : [ 3, 15 ],
       "id_str" : "930061",
@@ -2286,7 +2235,7 @@ Grailbird.data.tweets_2010_12 =
     "id" : 14363594829336577,
     "created_at" : "2010-12-13 16:58:42 +0000",
     "user" : {
-      "name" : "Gina Trapani",
+      "name" : "Gina Trapani \u270A\uD83C\uDFFB",
       "screen_name" : "ginatrapani",
       "protected" : false,
       "id_str" : "930061",
@@ -2542,7 +2491,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "pourmecoffee",
       "protected" : false,
       "id_str" : "16906137",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/682738304354140160\/OpbXjxXU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/815913005619810305\/g7lH5MQ7_normal.jpg",
       "id" : 16906137,
       "verified" : true
     }
@@ -3113,7 +3062,7 @@ Grailbird.data.tweets_2010_12 =
       "id" : 1175221
     }, {
       "name" : "Google",
-      "screen_name" : "google",
+      "screen_name" : "Google",
       "indices" : [ 22, 29 ],
       "id_str" : "20536157",
       "id" : 20536157
@@ -3136,7 +3085,7 @@ Grailbird.data.tweets_2010_12 =
     "entities" : {
       "user_mentions" : [ {
         "name" : "Google",
-        "screen_name" : "google",
+        "screen_name" : "Google",
         "indices" : [ 7, 14 ],
         "id_str" : "20536157",
         "id" : 20536157
@@ -4218,7 +4167,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "brianboyer",
       "protected" : false,
       "id_str" : "14570738",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/508121738140319744\/Ff_UFtbA_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/795314693665685504\/zW_HWAip_normal.jpg",
       "id" : 14570738,
       "verified" : true
     }

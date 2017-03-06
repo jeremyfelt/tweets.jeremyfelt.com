@@ -267,7 +267,7 @@ Grailbird.data.tweets_2012_03 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/jeremyfelt\/status\/183972720738959360\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/jeremyfelt\/status\/183972720738959360\/photo\/1",
       "indices" : [ 28, 48 ],
       "url" : "http:\/\/t.co\/MdCDr64m",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/Ao2aNvxCAAAk1mM.jpg",
@@ -639,7 +639,7 @@ Grailbird.data.tweets_2012_03 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/jeremyfelt\/status\/181478075517763586\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/jeremyfelt\/status\/181478075517763586\/photo\/1",
       "indices" : [ 29, 49 ],
       "url" : "http:\/\/t.co\/pZeOlnmn",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/AoS9WSICAAExYwA.jpg",
@@ -721,7 +721,7 @@ Grailbird.data.tweets_2012_03 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/jeremyfelt\/status\/181099988342943744\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/jeremyfelt\/status\/181099988342943744\/photo\/1",
       "indices" : [ 20, 40 ],
       "url" : "http:\/\/t.co\/Tpsw9BF9",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/AoNletpCMAEV3ZF.jpg",
@@ -1121,7 +1121,7 @@ Grailbird.data.tweets_2012_03 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/jeremyfelt\/status\/178343724638679040\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/jeremyfelt\/status\/178343724638679040\/photo\/1",
       "indices" : [ 45, 65 ],
       "url" : "http:\/\/t.co\/oem8R6hf",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/AnmarDNCMAAJjKH.jpg",
@@ -1181,7 +1181,7 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "1741681",
       "id" : 1741681
     }, {
-      "name" : "ipstenu ((Mika \u5B9F\u4F73))",
+      "name" : "ipstenu (((Mika E)))",
       "screen_name" : "Ipstenu",
       "indices" : [ 12, 20 ],
       "id_str" : "9412542",
@@ -1214,7 +1214,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ipstenu ((Mika \u5B9F\u4F73))",
+      "name" : "ipstenu (((Mika E)))",
       "screen_name" : "Ipstenu",
       "indices" : [ 0, 8 ],
       "id_str" : "9412542",
@@ -1635,7 +1635,7 @@ Grailbird.data.tweets_2012_03 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http:\/\/twitter.com\/jeremyfelt\/status\/176179313610194946\/photo\/1",
+      "expanded_url" : "https:\/\/twitter.com\/jeremyfelt\/status\/176179313610194946\/photo\/1",
       "indices" : [ 12, 32 ],
       "url" : "http:\/\/t.co\/UBx2iDXv",
       "media_url" : "http:\/\/pbs.twimg.com\/media\/AnHqJvzCAAE_MHE.jpg",
@@ -1930,7 +1930,7 @@ Grailbird.data.tweets_2012_03 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "indices" : [ 34, 42 ],
       "id_str" : "783214",
       "id" : 783214
@@ -1946,7 +1946,7 @@ Grailbird.data.tweets_2012_03 =
     "urls" : [ {
       "indices" : [ 105, 125 ],
       "url" : "http:\/\/t.co\/WEH9Mc3L",
-      "expanded_url" : "http:\/\/twitter.com\/1b2c3ab",
+      "expanded_url" : "https:\/\/twitter.com\/1b2c3ab",
       "display_url" : "twitter.com\/1b2c3ab"
     } ]
   },

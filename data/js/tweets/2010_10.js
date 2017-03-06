@@ -207,7 +207,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "brianboyer",
       "protected" : false,
       "id_str" : "14570738",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/508121738140319744\/Ff_UFtbA_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/795314693665685504\/zW_HWAip_normal.jpg",
       "id" : 14570738,
       "verified" : true
     }
@@ -309,7 +309,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "tbogg",
       "protected" : false,
       "id_str" : "23365626",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/680604264113111040\/3RpjSG7S_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/804396290155036672\/kwVmr7_h_normal.jpg",
       "id" : 23365626,
       "verified" : false
     }
@@ -944,6 +944,57 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Mari Sheibley",
+      "screen_name" : "mari18",
+      "indices" : [ 3, 10 ],
+      "id_str" : "9270952",
+      "id" : 9270952
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "27975317638",
+  "text" : "RT @Mari18: OH: isn't the sky pretty? It's like an instagram photo",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "27969837025",
+    "text" : "OH: isn't the sky pretty? It's like an instagram photo",
+    "id" : 27969837025,
+    "created_at" : "2010-10-20 22:24:36 +0000",
+    "user" : {
+      "name" : "Mari Sheibley",
+      "screen_name" : "mari18",
+      "protected" : false,
+      "id_str" : "9270952",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1668412512\/photo_normal.jpeg",
+      "id" : 9270952,
+      "verified" : false
+    }
+  },
+  "id" : 27975317638,
+  "created_at" : "2010-10-20 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -1084,7 +1135,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "dannysullivan",
       "protected" : false,
       "id_str" : "858051",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/779032746635038720\/J74OL8Kt_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/822661552960577538\/fxR-w73p_normal.jpg",
       "id" : 858051,
       "verified" : true
     }
@@ -1381,57 +1432,6 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mari Sheibley",
-      "screen_name" : "mari18",
-      "indices" : [ 3, 10 ],
-      "id_str" : "9270952",
-      "id" : 9270952
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "27975317638",
-  "text" : "RT @Mari18: OH: isn't the sky pretty? It's like an instagram photo",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "27969837025",
-    "text" : "OH: isn't the sky pretty? It's like an instagram photo",
-    "id" : 27969837025,
-    "created_at" : "2010-10-20 22:24:36 +0000",
-    "user" : {
-      "name" : "Mari Sheibley",
-      "screen_name" : "mari18",
-      "protected" : false,
-      "id_str" : "9270952",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1668412512\/photo_normal.jpeg",
-      "id" : 9270952,
-      "verified" : false
-    }
-  },
-  "id" : 27975317638,
-  "created_at" : "2010-10-20 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Danny Sullivan",
       "screen_name" : "dannysullivan",
       "indices" : [ 3, 17 ],
@@ -1480,7 +1480,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "dannysullivan",
       "protected" : false,
       "id_str" : "858051",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/779032746635038720\/J74OL8Kt_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/822661552960577538\/fxR-w73p_normal.jpg",
       "id" : 858051,
       "verified" : true
     }
@@ -1619,7 +1619,7 @@ Grailbird.data.tweets_2010_10 =
   "id_str" : "27802258176",
   "text" : "RT @garrettgillas: Twitter\u2019s Snowflake Project To Update Tweet IDs Really Is More Like A Blizzard Now http:\/\/dlvr.it\/7CdyL",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/dlvr.it\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/dlvrit.com\/\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1804,7 +1804,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "iaindodsworth",
       "protected" : false,
       "id_str" : "14148963",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/766221775403384833\/VLgVgTXZ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/824724245649457157\/XLLuPoCc_normal.jpg",
       "id" : 14148963,
       "verified" : false
     }
@@ -2018,7 +2018,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "brianboyer",
       "protected" : false,
       "id_str" : "14570738",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/508121738140319744\/Ff_UFtbA_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/795314693665685504\/zW_HWAip_normal.jpg",
       "id" : 14570738,
       "verified" : true
     }
@@ -2038,7 +2038,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MonsterMatt Cutts",
+      "name" : "Matt Cutts",
       "screen_name" : "mattcutts",
       "indices" : [ 3, 13 ],
       "id_str" : "3080761",
@@ -2065,7 +2065,7 @@ Grailbird.data.tweets_2010_10 =
     "id" : 27664765177,
     "created_at" : "2010-10-17 19:24:35 +0000",
     "user" : {
-      "name" : "MonsterMatt Cutts",
+      "name" : "Matt Cutts",
       "screen_name" : "mattcutts",
       "protected" : false,
       "id_str" : "3080761",
@@ -2298,7 +2298,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pumpkin Spice Ladama",
+      "name" : "Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -2666,6 +2666,69 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Anthony DeBarros",
+      "screen_name" : "anthonydb",
+      "indices" : [ 3, 13 ],
+      "id_str" : "18682941",
+      "id" : 18682941
+    }, {
+      "name" : "USA TODAY",
+      "screen_name" : "USATODAY",
+      "indices" : [ 16, 25 ],
+      "id_str" : "15754281",
+      "id" : 15754281
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "27351215862",
+  "text" : "RT @AnthonyDB: .@usatoday launches its first public APIs! Site: http:\/\/bit.ly\/9A13HE Post: http:\/\/bit.ly\/d42v8d PR: http:\/\/usat.ly\/9aXCt7",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "USA TODAY",
+        "screen_name" : "USATODAY",
+        "indices" : [ 1, 10 ],
+        "id_str" : "15754281",
+        "id" : 15754281
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "27348929518",
+    "text" : ".@usatoday launches its first public APIs! Site: http:\/\/bit.ly\/9A13HE Post: http:\/\/bit.ly\/d42v8d PR: http:\/\/usat.ly\/9aXCt7",
+    "id" : 27348929518,
+    "created_at" : "2010-10-14 15:03:23 +0000",
+    "user" : {
+      "name" : "Anthony DeBarros",
+      "screen_name" : "anthonydb",
+      "protected" : false,
+      "id_str" : "18682941",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/679868238637981697\/tweZ-7M8_normal.jpg",
+      "id" : 18682941,
+      "verified" : false
+    }
+  },
+  "id" : 27351215862,
+  "created_at" : "2010-10-14 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2784,7 +2847,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",
@@ -2802,69 +2865,6 @@ Grailbird.data.tweets_2010_10 =
   "created_at" : "2010-10-14 00:00:00 +0000",
   "in_reply_to_screen_name" : "davewiner",
   "in_reply_to_user_id_str" : "3839",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Anthony DeBarros",
-      "screen_name" : "anthonydb",
-      "indices" : [ 3, 13 ],
-      "id_str" : "18682941",
-      "id" : 18682941
-    }, {
-      "name" : "USA TODAY",
-      "screen_name" : "USATODAY",
-      "indices" : [ 16, 25 ],
-      "id_str" : "15754281",
-      "id" : 15754281
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "27351215862",
-  "text" : "RT @AnthonyDB: .@usatoday launches its first public APIs! Site: http:\/\/bit.ly\/9A13HE Post: http:\/\/bit.ly\/d42v8d PR: http:\/\/usat.ly\/9aXCt7",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "USA TODAY",
-        "screen_name" : "USATODAY",
-        "indices" : [ 1, 10 ],
-        "id_str" : "15754281",
-        "id" : 15754281
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "27348929518",
-    "text" : ".@usatoday launches its first public APIs! Site: http:\/\/bit.ly\/9A13HE Post: http:\/\/bit.ly\/d42v8d PR: http:\/\/usat.ly\/9aXCt7",
-    "id" : 27348929518,
-    "created_at" : "2010-10-14 15:03:23 +0000",
-    "user" : {
-      "name" : "Anthony DeBarros",
-      "screen_name" : "anthonydb",
-      "protected" : false,
-      "id_str" : "18682941",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/679868238637981697\/tweZ-7M8_normal.jpg",
-      "id" : 18682941,
-      "verified" : false
-    }
-  },
-  "id" : 27351215862,
-  "created_at" : "2010-10-14 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3089,7 +3089,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "14178674",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1730374276\/Colonel_Tribune_001_normal.PNG",
       "id" : 14178674,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 27204637687,
@@ -3356,7 +3356,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -3383,11 +3383,11 @@ Grailbird.data.tweets_2010_10 =
     "id" : 27173292899,
     "created_at" : "2010-10-12 21:00:06 +0000",
     "user" : {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788124124396871683\/NYpvQ6MA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837523130683883520\/vWG_ymiD_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -3959,6 +3959,28 @@ Grailbird.data.tweets_2010_10 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "26698765174",
+  "text" : "Youtube with PuSH. Hmm. Off to see how it responds. http:\/\/bit.ly\/cex94h",
+  "id" : 26698765174,
+  "created_at" : "2010-10-08 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
     "hashtags" : [ {
       "text" : "deepbreath",
       "indices" : [ 44, 55 ]
@@ -4151,28 +4173,6 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "26698765174",
-  "text" : "Youtube with PuSH. Hmm. Off to see how it responds. http:\/\/bit.ly\/cex94h",
-  "id" : 26698765174,
-  "created_at" : "2010-10-08 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -4311,7 +4311,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u26A1\uFE0F Matt Terenzio",
+      "name" : "\u2697 Matt Terenzio",
       "screen_name" : "mterenzio",
       "indices" : [ 0, 10 ],
       "id_str" : "820002",
@@ -4789,7 +4789,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 35, 45 ],
       "id_str" : "3839",
@@ -4987,7 +4987,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "dickc",
       "protected" : false,
       "id_str" : "6385432",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/694413957868625920\/PZNI3yPX_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/792220014233264128\/kpunIYN5_normal.jpg",
       "id" : 6385432,
       "verified" : true
     }

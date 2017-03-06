@@ -3,7 +3,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDEB6\uD83C\uDFFDjack",
+      "name" : "jack",
       "screen_name" : "jack",
       "indices" : [ 3, 8 ],
       "id_str" : "12",
@@ -30,7 +30,7 @@ Grailbird.data.tweets_2010_02 =
     "id" : 9798451747,
     "created_at" : "2010-02-28 23:41:13 +0000",
     "user" : {
-      "name" : "\uD83D\uDEB6\uD83C\uDFFDjack",
+      "name" : "jack",
       "screen_name" : "jack",
       "protected" : false,
       "id_str" : "12",
@@ -120,7 +120,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Mastracci \u2712",
+      "name" : "Matt Mastracci",
       "screen_name" : "mmastrac",
       "indices" : [ 3, 12 ],
       "id_str" : "16873352",
@@ -147,7 +147,7 @@ Grailbird.data.tweets_2010_02 =
     "id" : 9807380939,
     "created_at" : "2010-03-01 03:23:45 +0000",
     "user" : {
-      "name" : "Matt Mastracci \u2712",
+      "name" : "Matt Mastracci",
       "screen_name" : "mmastrac",
       "protected" : false,
       "id_str" : "16873352",
@@ -306,7 +306,7 @@ Grailbird.data.tweets_2010_02 =
       "id_str" : "778057",
       "id" : 778057
     }, {
-      "name" : "Rachel Sklar",
+      "name" : "((( Rachel Sklar )))",
       "screen_name" : "rachelsklar",
       "indices" : [ 16, 28 ],
       "id_str" : "12193342",
@@ -323,7 +323,7 @@ Grailbird.data.tweets_2010_02 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Rachel Sklar",
+        "name" : "((( Rachel Sklar )))",
         "screen_name" : "rachelsklar",
         "indices" : [ 3, 15 ],
         "id_str" : "12193342",
@@ -343,7 +343,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "acarvin",
       "protected" : false,
       "id_str" : "778057",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/692889823846146052\/we5MYRM9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/795623889372057600\/lYoWIKW1_normal.jpg",
       "id" : 778057,
       "verified" : true
     }
@@ -596,7 +596,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u26A1\uFE0F Matt Terenzio",
+      "name" : "\u2697 Matt Terenzio",
       "screen_name" : "mterenzio",
       "indices" : [ 0, 10 ],
       "id_str" : "820002",
@@ -680,7 +680,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -707,11 +707,11 @@ Grailbird.data.tweets_2010_02 =
     "id" : 9662841090,
     "created_at" : "2010-02-26 04:46:39 +0000",
     "user" : {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788124124396871683\/NYpvQ6MA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837523130683883520\/vWG_ymiD_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -790,7 +790,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "DrewFromTV",
       "protected" : false,
       "id_str" : "50835878",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/737724638139015168\/Hv8umXVF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/825477862794727424\/zf06Uao5_normal.jpg",
       "id" : 50835878,
       "verified" : true
     }
@@ -925,6 +925,81 @@ Grailbird.data.tweets_2010_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "cynicismbackstory",
+      "indices" : [ 111, 129 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "9269809637",
+  "text" : "The joke that was CCNA, CNA, MCSE, A+, Network+, etc in the early 00's - turned me against certs forever. Ugh. #cynicismbackstory",
+  "id" : 9269809637,
+  "created_at" : "2010-02-18 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Google",
+      "screen_name" : "Google",
+      "indices" : [ 6, 13 ],
+      "id_str" : "20536157",
+      "id" : 20536157
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "9269925109",
+  "text" : "Maybe @google will qualify developers without multiple choice. That'd be a start. Appears they aren't charging - that's a good idea.",
+  "id" : 9269925109,
+  "created_at" : "2010-02-18 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "9290595850",
+  "text" : "Completely disagree with http:\/\/bit.ly\/doEcW1 and completely agree with http:\/\/bit.ly\/cPjXgh - AND I'm not a Fearmonger or Unbeliever.",
+  "id" : 9290595850,
+  "created_at" : "2010-02-18 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Louis Gray",
       "screen_name" : "louisgray",
@@ -955,7 +1030,7 @@ Grailbird.data.tweets_2010_02 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Google",
-      "screen_name" : "google",
+      "screen_name" : "Google",
       "indices" : [ 3, 10 ],
       "id_str" : "20536157",
       "id" : 20536157
@@ -1013,7 +1088,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "Gartenberg",
       "protected" : false,
       "id_str" : "174853",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/717393284667219969\/P4VQ60m7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/803713644253028354\/7OYVFxJr_normal.jpg",
       "id" : 174853,
       "verified" : false
     }
@@ -1041,81 +1116,6 @@ Grailbird.data.tweets_2010_02 =
   "id_str" : "9269717892",
   "text" : "Google Qualified Developer program, huh? Trying really hard not to be cynical... um, some people like certs, yeah? http:\/\/bit.ly\/aDjIpc",
   "id" : 9269717892,
-  "created_at" : "2010-02-18 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "cynicismbackstory",
-      "indices" : [ 111, 129 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "9269809637",
-  "text" : "The joke that was CCNA, CNA, MCSE, A+, Network+, etc in the early 00's - turned me against certs forever. Ugh. #cynicismbackstory",
-  "id" : 9269809637,
-  "created_at" : "2010-02-18 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Google",
-      "screen_name" : "google",
-      "indices" : [ 6, 13 ],
-      "id_str" : "20536157",
-      "id" : 20536157
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "9269925109",
-  "text" : "Maybe @google will qualify developers without multiple choice. That'd be a start. Appears they aren't charging - that's a good idea.",
-  "id" : 9269925109,
-  "created_at" : "2010-02-18 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "9290595850",
-  "text" : "Completely disagree with http:\/\/bit.ly\/doEcW1 and completely agree with http:\/\/bit.ly\/cPjXgh - AND I'm not a Fearmonger or Unbeliever.",
-  "id" : 9290595850,
   "created_at" : "2010-02-18 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -1181,7 +1181,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Mastracci \u2712",
+      "name" : "Matt Mastracci",
       "screen_name" : "mmastrac",
       "indices" : [ 0, 9 ],
       "id_str" : "16873352",
@@ -1330,7 +1330,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne \uD83C\uDF39",
       "screen_name" : "al3x",
       "indices" : [ 0, 5 ],
       "id_str" : "18713",
@@ -1438,7 +1438,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "marshallk",
       "protected" : false,
       "id_str" : "818340",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492745459421556736\/wGyWE2xf_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/822856912618127360\/kNYT-QNS_normal.jpg",
       "id" : 818340,
       "verified" : true
     }
@@ -1714,7 +1714,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pumpkin Spice Ladama",
+      "name" : "Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -1924,7 +1924,7 @@ Grailbird.data.tweets_2010_02 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "indices" : [ 3, 11 ],
       "id_str" : "783214",
       "id" : 783214
@@ -1951,10 +1951,10 @@ Grailbird.data.tweets_2010_02 =
     "created_at" : "2010-02-02 23:49:00 +0000",
     "user" : {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "protected" : false,
       "id_str" : "783214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/767879603977191425\/29zfZY6I_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/829750285618683905\/tSS3tIit_normal.jpg",
       "id" : 783214,
       "verified" : true
     }
@@ -2063,7 +2063,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "brianboyer",
       "protected" : false,
       "id_str" : "14570738",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/508121738140319744\/Ff_UFtbA_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/795314693665685504\/zW_HWAip_normal.jpg",
       "id" : 14570738,
       "verified" : true
     }
@@ -2105,7 +2105,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Mastracci \u2712",
+      "name" : "Matt Mastracci",
       "screen_name" : "mmastrac",
       "indices" : [ 3, 12 ],
       "id_str" : "16873352",
@@ -2132,7 +2132,7 @@ Grailbird.data.tweets_2010_02 =
     "id" : 8570775615,
     "created_at" : "2010-02-03 02:49:32 +0000",
     "user" : {
-      "name" : "Matt Mastracci \u2712",
+      "name" : "Matt Mastracci",
       "screen_name" : "mmastrac",
       "protected" : false,
       "id_str" : "16873352",
@@ -2201,7 +2201,7 @@ Grailbird.data.tweets_2010_02 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Google",
-      "screen_name" : "google",
+      "screen_name" : "Google",
       "indices" : [ 88, 95 ],
       "id_str" : "20536157",
       "id" : 20536157

@@ -47,7 +47,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",
@@ -297,6 +297,78 @@ Grailbird.data.tweets_2009_06 =
   "text" : "Protesters trade rocks with police, and then run them away.  http:\/\/bit.ly\/kbaSa",
   "id" : 2271591525,
   "created_at" : "2009-06-21 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Golnoush Niknejad",
+      "screen_name" : "TehranBureau",
+      "indices" : [ 3, 16 ],
+      "id_str" : "19248117",
+      "id" : 19248117
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2255181007",
+  "text" : "RT @TehranBureau From a source in Tehran: allah akbar just started and it's the most intense yet. so surreal.",
+  "id" : 2255181007,
+  "created_at" : "2009-06-20 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2255212087",
+  "text" : "The \"suicide bombing\" this morning in all the news reports has not yet been confirmed by sources other than the Iran state news.",
+  "id" : 2255212087,
+  "created_at" : "2009-06-20 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2255222913",
+  "text" : "If it happened, it was to the North East (I think) of all the serious action in revolution square, probably an area light on protesters.",
+  "id" : 2255222913,
+  "created_at" : "2009-06-20 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -971,78 +1043,6 @@ Grailbird.data.tweets_2009_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Golnoush Niknejad",
-      "screen_name" : "TehranBureau",
-      "indices" : [ 3, 16 ],
-      "id_str" : "19248117",
-      "id" : 19248117
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2255181007",
-  "text" : "RT @TehranBureau From a source in Tehran: allah akbar just started and it's the most intense yet. so surreal.",
-  "id" : 2255181007,
-  "created_at" : "2009-06-20 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2255212087",
-  "text" : "The \"suicide bombing\" this morning in all the news reports has not yet been confirmed by sources other than the Iran state news.",
-  "id" : 2255212087,
-  "created_at" : "2009-06-20 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2255222913",
-  "text" : "If it happened, it was to the North East (I think) of all the serious action in revolution square, probably an area light on protesters.",
-  "id" : 2255222913,
-  "created_at" : "2009-06-20 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -1598,6 +1598,72 @@ Grailbird.data.tweets_2009_06 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2218167497",
+  "text" : "Baby Racoon - The Scared One http:\/\/post.ly\/sWS",
+  "id" : 2218167497,
+  "created_at" : "2009-06-18 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2221960957",
+  "text" : "\"Iran 101: Understanding the unrest\" - Good rundown by CNN. http:\/\/bit.ly\/JSA8h",
+  "id" : 2221960957,
+  "created_at" : "2009-06-18 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2226074212",
+  "text" : "One of the top pictures related to Iran today - a political cartoon starring the Twitter by John Cole. http:\/\/bit.ly\/SkNnt",
+  "id" : 2226074212,
+  "created_at" : "2009-06-18 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -1673,7 +1739,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 91, 101 ],
       "id_str" : "3839",
@@ -1745,7 +1811,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",
@@ -1982,72 +2048,6 @@ Grailbird.data.tweets_2009_06 =
   "id_str" : "2218151886",
   "text" : "Baby Racoon - The Brave One http:\/\/post.ly\/sWR",
   "id" : 2218151886,
-  "created_at" : "2009-06-18 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2218167497",
-  "text" : "Baby Racoon - The Scared One http:\/\/post.ly\/sWS",
-  "id" : 2218167497,
-  "created_at" : "2009-06-18 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2221960957",
-  "text" : "\"Iran 101: Understanding the unrest\" - Good rundown by CNN. http:\/\/bit.ly\/JSA8h",
-  "id" : 2221960957,
-  "created_at" : "2009-06-18 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2226074212",
-  "text" : "One of the top pictures related to Iran today - a political cartoon starring the Twitter by John Cole. http:\/\/bit.ly\/SkNnt",
-  "id" : 2226074212,
   "created_at" : "2009-06-18 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -2397,6 +2397,93 @@ Grailbird.data.tweets_2009_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Neil Gaiman",
+      "screen_name" : "neilhimself",
+      "indices" : [ 58, 70 ],
+      "id_str" : "18393773",
+      "id" : 18393773
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2194070138",
+  "text" : "Useful Info From BoingBoing for those following Iran (via @neilhimself) http:\/\/tr.im\/oGj0",
+  "id" : 2194070138,
+  "created_at" : "2009-06-16 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Brian Stelter",
+      "screen_name" : "brianstelter",
+      "indices" : [ 3, 16 ],
+      "id_str" : "14515799",
+      "id" : 14515799
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2194321498",
+  "text" : "RT @brianstelter A BBCer in Iran says journos face the \"most sweeping restrictions he has ever encountered reporting anywhere.\"",
+  "id" : 2194321498,
+  "created_at" : "2009-06-16 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Dinged_Corners",
+      "screen_name" : "Dinged_Corners",
+      "indices" : [ 0, 15 ],
+      "id_str" : "16306795",
+      "id" : 16306795
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2194433868",
+  "in_reply_to_user_id" : 16306795,
+  "text" : "@dinged_corners Me too! Even with the similarities between the candidates, it'd be nice to be sure that voices have been heard.",
+  "id" : 2194433868,
+  "created_at" : "2009-06-16 00:00:00 +0000",
+  "in_reply_to_screen_name" : "Dinged_Corners",
+  "in_reply_to_user_id_str" : "16306795",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2713,7 +2800,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 27, 37 ],
       "id_str" : "3839",
@@ -2925,7 +3012,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 13, 23 ],
       "id_str" : "3839",
@@ -3084,21 +3171,24 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Neil Gaiman",
-      "screen_name" : "neilhimself",
-      "indices" : [ 58, 70 ],
-      "id_str" : "18393773",
-      "id" : 18393773
+      "name" : "parinaz",
+      "screen_name" : "parinaz",
+      "indices" : [ 3, 11 ],
+      "id_str" : "48335194",
+      "id" : 48335194
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "IranElection",
+      "indices" : [ 126, 139 ]
+    } ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "2194070138",
-  "text" : "Useful Info From BoingBoing for those following Iran (via @neilhimself) http:\/\/tr.im\/oGj0",
-  "id" : 2194070138,
-  "created_at" : "2009-06-16 00:00:00 +0000",
+  "id_str" : "2173259698",
+  "text" : "RT @parinaz AhmadiN has revoked all permits of foreign media and has told them to stop reporting or they will face jail time. #IranElection",
+  "id" : 2173259698,
+  "created_at" : "2009-06-15 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3111,22 +3201,16 @@ Grailbird.data.tweets_2009_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Brian Stelter",
-      "screen_name" : "brianstelter",
-      "indices" : [ 3, 16 ],
-      "id_str" : "14515799",
-      "id" : 14515799
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "2194321498",
-  "text" : "RT @brianstelter A BBCer in Iran says journos face the \"most sweeping restrictions he has ever encountered reporting anywhere.\"",
-  "id" : 2194321498,
-  "created_at" : "2009-06-16 00:00:00 +0000",
+  "id_str" : "2173270402",
+  "text" : "Mousavi's people have setup a page on Google Sites to get around filtering in Iran. http:\/\/tr.im\/ouSm",
+  "id" : 2173270402,
+  "created_at" : "2009-06-15 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3139,25 +3223,16 @@ Grailbird.data.tweets_2009_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Dinged_Corners",
-      "screen_name" : "Dinged_Corners",
-      "indices" : [ 0, 15 ],
-      "id_str" : "16306795",
-      "id" : 16306795
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "2194433868",
-  "in_reply_to_user_id" : 16306795,
-  "text" : "@dinged_corners Me too! Even with the similarities between the candidates, it'd be nice to be sure that voices have been heard.",
-  "id" : 2194433868,
-  "created_at" : "2009-06-16 00:00:00 +0000",
-  "in_reply_to_screen_name" : "Dinged_Corners",
-  "in_reply_to_user_id_str" : "16306795",
+  "id_str" : "2173296805",
+  "text" : "It appears that Ansar (http:\/\/tr.im\/ouSC) and Hezbollah may be working on behalf of the Iranian government against protesters.",
+  "id" : 2173296805,
+  "created_at" : "2009-06-15 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3876,7 +3951,7 @@ Grailbird.data.tweets_2009_06 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "indices" : [ 6, 14 ],
       "id_str" : "783214",
       "id" : 783214
@@ -3943,7 +4018,7 @@ Grailbird.data.tweets_2009_06 =
       "id_str" : "13",
       "id" : 13
     }, {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne \uD83C\uDF39",
       "screen_name" : "al3x",
       "indices" : [ 9, 14 ],
       "id_str" : "18713",
@@ -4036,7 +4111,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne \uD83C\uDF39",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -4117,7 +4192,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne",
+      "name" : "Alex Payne \uD83C\uDF39",
       "screen_name" : "al3x",
       "indices" : [ 9, 14 ],
       "id_str" : "18713",
@@ -4206,81 +4281,6 @@ Grailbird.data.tweets_2009_06 =
   "id_str" : "2173218667",
   "text" : "RT @IranNewsNow FB post: citizens in Tehran leaving front doors unlocked so demonstrators have place to hide when police come! #iranelection",
   "id" : 2173218667,
-  "created_at" : "2009-06-15 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "parinaz",
-      "screen_name" : "parinaz",
-      "indices" : [ 3, 11 ],
-      "id_str" : "48335194",
-      "id" : 48335194
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "IranElection",
-      "indices" : [ 126, 139 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2173259698",
-  "text" : "RT @parinaz AhmadiN has revoked all permits of foreign media and has told them to stop reporting or they will face jail time. #IranElection",
-  "id" : 2173259698,
-  "created_at" : "2009-06-15 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2173270402",
-  "text" : "Mousavi's people have setup a page on Google Sites to get around filtering in Iran. http:\/\/tr.im\/ouSm",
-  "id" : 2173270402,
-  "created_at" : "2009-06-15 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2173296805",
-  "text" : "It appears that Ansar (http:\/\/tr.im\/ouSC) and Hezbollah may be working on behalf of the Iranian government against protesters.",
-  "id" : 2173296805,
   "created_at" : "2009-06-15 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -4944,7 +4944,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -5106,6 +5106,89 @@ Grailbird.data.tweets_2009_06 =
   "text" : "Ladderball own. I'm red. :) http:\/\/post.ly\/qXs",
   "id" : 2169183212,
   "created_at" : "2009-06-14 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "roschana",
+      "screen_name" : "tayaya",
+      "indices" : [ 0, 7 ],
+      "id_str" : "2452795015",
+      "id" : 2452795015
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2148898675",
+  "text" : "@Tayaya Of course. Gin on ice just isn't the same when there's snow on the ground. Just like a nice room temperature Guiness isn't July.",
+  "id" : 2148898675,
+  "created_at" : "2009-06-13 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Neil Gorman",
+      "screen_name" : "neilgorman",
+      "indices" : [ 0, 11 ],
+      "id_str" : "721853",
+      "id" : 721853
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "2148174017",
+  "geo" : { },
+  "id_str" : "2148912847",
+  "in_reply_to_user_id" : 721853,
+  "text" : "@neilgorman Have you ever tried making your own iced coffee? Very condensed french press = coffee concentrate. Mix ice, water and go.",
+  "id" : 2148912847,
+  "in_reply_to_status_id" : 2148174017,
+  "created_at" : "2009-06-13 00:00:00 +0000",
+  "in_reply_to_screen_name" : "neilgorman",
+  "in_reply_to_user_id_str" : "721853",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2149346698",
+  "text" : "One hour left and no Facebook employee and\/or journalist has stolen my name. Not that I really care, it's just the principle.",
+  "id" : 2149346698,
+  "created_at" : "2009-06-13 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5329,11 +5412,11 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Open Government",
-      "screen_name" : "OpenGov",
+      "name" : "opengov",
+      "screen_name" : "opengov",
       "indices" : [ 106, 114 ],
-      "id_str" : "24752484",
-      "id" : 24752484
+      "id_str" : "822540133404737536",
+      "id" : 822540133404737536
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5429,90 +5512,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "roschana",
-      "screen_name" : "tayaya",
-      "indices" : [ 0, 7 ],
-      "id_str" : "2452795015",
-      "id" : 2452795015
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2148898675",
-  "text" : "@Tayaya Of course. Gin on ice just isn't the same when there's snow on the ground. Just like a nice room temperature Guiness isn't July.",
-  "id" : 2148898675,
-  "created_at" : "2009-06-13 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Neil Gorman",
-      "screen_name" : "neilgorman",
-      "indices" : [ 0, 11 ],
-      "id_str" : "721853",
-      "id" : 721853
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "2148174017",
-  "geo" : { },
-  "id_str" : "2148912847",
-  "in_reply_to_user_id" : 721853,
-  "text" : "@neilgorman Have you ever tried making your own iced coffee? Very condensed french press = coffee concentrate. Mix ice, water and go.",
-  "id" : 2148912847,
-  "in_reply_to_status_id" : 2148174017,
-  "created_at" : "2009-06-13 00:00:00 +0000",
-  "in_reply_to_screen_name" : "neilgorman",
-  "in_reply_to_user_id_str" : "721853",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2149346698",
-  "text" : "One hour left and no Facebook employee and\/or journalist has stolen my name. Not that I really care, it's just the principle.",
-  "id" : 2149346698,
-  "created_at" : "2009-06-13 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Robert Scoble",
+      "name" : "Robert Scoble: VR\/AR",
       "screen_name" : "Scobleizer",
       "indices" : [ 32, 43 ],
       "id_str" : "13348",
@@ -5754,7 +5754,7 @@ Grailbird.data.tweets_2009_06 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "indices" : [ 4, 12 ],
       "id_str" : "783214",
       "id" : 783214
@@ -6372,7 +6372,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MonsterMatt Cutts",
+      "name" : "Matt Cutts",
       "screen_name" : "mattcutts",
       "indices" : [ 12, 22 ],
       "id_str" : "3080761",
@@ -6542,6 +6542,90 @@ Grailbird.data.tweets_2009_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Neil Gorman",
+      "screen_name" : "neilgorman",
+      "indices" : [ 0, 11 ],
+      "id_str" : "721853",
+      "id" : 721853
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2070203875",
+  "in_reply_to_user_id" : 721853,
+  "text" : "@neilgorman Short version = easy way to authorize an app to use your twitter (or other) credentials without typing them in.",
+  "id" : 2070203875,
+  "created_at" : "2009-06-08 00:00:00 +0000",
+  "in_reply_to_screen_name" : "neilgorman",
+  "in_reply_to_user_id_str" : "721853",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Neil Gorman",
+      "screen_name" : "neilgorman",
+      "indices" : [ 0, 11 ],
+      "id_str" : "721853",
+      "id" : 721853
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2070220729",
+  "in_reply_to_user_id" : 721853,
+  "text" : "@neilgorman This probably makes more instant sense. http:\/\/oauth.net\/",
+  "id" : 2070220729,
+  "created_at" : "2009-06-08 00:00:00 +0000",
+  "in_reply_to_screen_name" : "neilgorman",
+  "in_reply_to_user_id_str" : "721853",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/toptwit.com\" rel=\"nofollow\"\u003ETopTwit\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2070347626",
+  "text" : "Testing oauth update. Should probably create a test twitter account for this. This will be the only test.",
+  "id" : 2070347626,
+  "created_at" : "2009-06-08 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6693,90 +6777,6 @@ Grailbird.data.tweets_2009_06 =
   "created_at" : "2009-06-08 00:00:00 +0000",
   "in_reply_to_screen_name" : "neilgorman",
   "in_reply_to_user_id_str" : "721853",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Neil Gorman",
-      "screen_name" : "neilgorman",
-      "indices" : [ 0, 11 ],
-      "id_str" : "721853",
-      "id" : 721853
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2070203875",
-  "in_reply_to_user_id" : 721853,
-  "text" : "@neilgorman Short version = easy way to authorize an app to use your twitter (or other) credentials without typing them in.",
-  "id" : 2070203875,
-  "created_at" : "2009-06-08 00:00:00 +0000",
-  "in_reply_to_screen_name" : "neilgorman",
-  "in_reply_to_user_id_str" : "721853",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Neil Gorman",
-      "screen_name" : "neilgorman",
-      "indices" : [ 0, 11 ],
-      "id_str" : "721853",
-      "id" : 721853
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2070220729",
-  "in_reply_to_user_id" : 721853,
-  "text" : "@neilgorman This probably makes more instant sense. http:\/\/oauth.net\/",
-  "id" : 2070220729,
-  "created_at" : "2009-06-08 00:00:00 +0000",
-  "in_reply_to_screen_name" : "neilgorman",
-  "in_reply_to_user_id_str" : "721853",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/toptwit.com\" rel=\"nofollow\"\u003ETopTwit\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2070347626",
-  "text" : "Testing oauth update. Should probably create a test twitter account for this. This will be the only test.",
-  "id" : 2070347626,
-  "created_at" : "2009-06-08 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -7179,7 +7179,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 11, 21 ],
       "id_str" : "3839",
@@ -7580,7 +7580,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",
@@ -7796,6 +7796,78 @@ Grailbird.data.tweets_2009_06 =
   "text" : "Argh. Goole Squared is very much a Labs product. I can't save or export a cool one that I just did.",
   "id" : 2034135936,
   "created_at" : "2009-06-04 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2007659485",
+  "text" : "Not to say that flight search interface isn't smart, because it really is. http:\/\/tr.im\/ncMz",
+  "id" : 2007659485,
+  "created_at" : "2009-06-02 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2008075695",
+  "text" : "Disqus is showing a 404 error when I load a toptwit page that has never been seen before. I think I'm missing a step.",
+  "id" : 2008075695,
+  "created_at" : "2009-06-02 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Gianni Iodice",
+      "screen_name" : "GianniI",
+      "indices" : [ 0, 8 ],
+      "id_str" : "2364882773",
+      "id" : 2364882773
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2008247611",
+  "text" : "@giannii http:\/\/toptwit.com\/jeremyfelt is the main site. Try the \"0 comments\" link next to 18,19,20 - those should still be unvisited pages.",
+  "id" : 2008247611,
+  "created_at" : "2009-06-02 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -8229,7 +8301,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",
@@ -8260,7 +8332,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",
@@ -8377,78 +8449,6 @@ Grailbird.data.tweets_2009_06 =
   "id_str" : "2007648736",
   "text" : "I know they aren't the same because Kayak works in the latest dev release of Chrome, bing doesn't. But they look awfully close.",
   "id" : 2007648736,
-  "created_at" : "2009-06-02 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2007659485",
-  "text" : "Not to say that flight search interface isn't smart, because it really is. http:\/\/tr.im\/ncMz",
-  "id" : 2007659485,
-  "created_at" : "2009-06-02 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2008075695",
-  "text" : "Disqus is showing a 404 error when I load a toptwit page that has never been seen before. I think I'm missing a step.",
-  "id" : 2008075695,
-  "created_at" : "2009-06-02 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Gianni Iodice",
-      "screen_name" : "GianniI",
-      "indices" : [ 0, 8 ],
-      "id_str" : "2364882773",
-      "id" : 2364882773
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2008247611",
-  "text" : "@giannii http:\/\/toptwit.com\/jeremyfelt is the main site. Try the \"0 comments\" link next to 18,19,20 - those should still be unvisited pages.",
-  "id" : 2008247611,
   "created_at" : "2009-06-02 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",

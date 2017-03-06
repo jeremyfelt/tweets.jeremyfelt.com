@@ -25,12 +25,6 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike Pompeo",
-      "screen_name" : "RepMikePompeo",
-      "indices" : [ 56, 70 ],
-      "id_str" : "244268646",
-      "id" : 244268646
-    }, {
       "name" : "Barack Obama",
       "screen_name" : "BarackObama",
       "indices" : [ 85, 97 ],
@@ -168,7 +162,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "joshtpm",
       "protected" : false,
       "id_str" : "21268897",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/782764938741870597\/-eipWta-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837148237383393280\/TjjlwL6v_normal.jpg",
       "id" : 21268897,
       "verified" : true
     }
@@ -354,7 +348,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "howardweaver",
       "protected" : false,
       "id_str" : "783837",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617870447439286273\/45I0d1Lm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/820049238360887296\/8IkWozfQ_normal.jpg",
       "id" : 783837,
       "verified" : false
     }
@@ -1346,7 +1340,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "RyanLizza",
       "protected" : false,
       "id_str" : "80617430",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788956685570375680\/yExEpEMR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/797240355792056320\/ptqZOOgj_normal.jpg",
       "id" : 80617430,
       "verified" : true
     }
@@ -1366,7 +1360,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Not WoooOOOooo!",
+      "name" : "This Is Not Normal",
       "screen_name" : "JonnieMarbLes",
       "indices" : [ 35, 49 ],
       "id_str" : "17201202",
@@ -1397,7 +1391,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Not WoooOOOooo!",
+      "name" : "This Is Not Normal",
       "screen_name" : "JonnieMarbLes",
       "indices" : [ 3, 17 ],
       "id_str" : "17201202",
@@ -1424,11 +1418,11 @@ Grailbird.data.tweets_2011_07 =
     "id" : 93065424387842048,
     "created_at" : "2011-07-18 21:11:40 +0000",
     "user" : {
-      "name" : "Not WoooOOOooo!",
+      "name" : "This Is Not Normal",
       "screen_name" : "JonnieMarbLes",
       "protected" : false,
       "id_str" : "17201202",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/766825523330838528\/8KqRxd5x_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796907735925354496\/3CdR9G9k_normal.jpg",
       "id" : 17201202,
       "verified" : false
     }
@@ -1552,7 +1546,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "emilybell",
       "protected" : false,
       "id_str" : "1489691",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/476863749601898496\/wqOOvffd_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/827244694056878081\/z23Yhg97_normal.jpg",
       "id" : 1489691,
       "verified" : true
     }
@@ -2094,7 +2088,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "18731529",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3588600467\/4c53a257f93f8abb5d20cef534e6edad_normal.jpeg",
       "id" : 18731529,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 91749420298801152,
@@ -2295,7 +2289,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "marshallk",
       "protected" : false,
       "id_str" : "818340",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/492745459421556736\/wGyWE2xf_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/822856912618127360\/kNYT-QNS_normal.jpg",
       "id" : 818340,
       "verified" : true
     }
@@ -2599,7 +2593,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "Anthony",
       "protected" : false,
       "id_str" : "1140451",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/661645327691223040\/OfvnX9zP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/809949809272647680\/HSfTO4sb_normal.jpg",
       "id" : 1140451,
       "verified" : true
     }
@@ -2633,60 +2627,6 @@ Grailbird.data.tweets_2011_07 =
   "text" : "\"Panic Attack! Robots Invade Montevideo\" by Fede Alvarez, director\/writer of the new Evil Dead. http:\/\/t.co\/UCVXfhs",
   "id" : 91352525143412736,
   "created_at" : "2011-07-14 03:45:13 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Heather Champ",
-      "screen_name" : "hchamp",
-      "indices" : [ 3, 10 ],
-      "id_str" : "14701006",
-      "id" : 14701006
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "91352252815654913",
-  "text" : "RT @hchamp: If you change your Trends to \"Japan\" and don't read Japanese, trends look pretty and won't bum you out by their stupidity. # ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "twitter",
-        "indices" : [ 123, 131 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "90941960201846784",
-    "text" : "If you change your Trends to \"Japan\" and don't read Japanese, trends look pretty and won't bum you out by their stupidity. #twitter",
-    "id" : 90941960201846784,
-    "created_at" : "2011-07-13 00:33:47 +0000",
-    "user" : {
-      "name" : "Heather Champ",
-      "screen_name" : "hchamp",
-      "protected" : false,
-      "id_str" : "14701006",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788590703865688064\/m-wqTQjC_normal.jpg",
-      "id" : 14701006,
-      "verified" : false
-    }
-  },
-  "id" : 91352252815654913,
-  "created_at" : "2011-07-14 03:44:08 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3792,7 +3732,7 @@ Grailbird.data.tweets_2011_07 =
     "urls" : [ {
       "indices" : [ 44, 63 ],
       "url" : "http:\/\/t.co\/LLGriXi",
-      "expanded_url" : "http:\/\/blog.twitter.com\/2006\/09\/introducing-twitter-api.html",
+      "expanded_url" : "https:\/\/blog.twitter.com\/2006\/09\/introducing-twitter-api.html",
       "display_url" : "blog.twitter.com\/2006\/09\/introd\u2026"
     } ]
   },
@@ -3846,7 +3786,7 @@ Grailbird.data.tweets_2011_07 =
     "urls" : [ {
       "indices" : [ 36, 55 ],
       "url" : "http:\/\/t.co\/VAAN7nL",
-      "expanded_url" : "http:\/\/blog.twitter.com\/2011\/07\/one-million-registered-twitter-apps.html",
+      "expanded_url" : "https:\/\/blog.twitter.com\/2011\/07\/one-million-registered-twitter-apps.html",
       "display_url" : "blog.twitter.com\/2011\/07\/one-mi\u2026"
     } ]
   },
@@ -3903,7 +3843,7 @@ Grailbird.data.tweets_2011_07 =
     "urls" : [ {
       "indices" : [ 71, 90 ],
       "url" : "http:\/\/t.co\/SJjnd3h",
-      "expanded_url" : "http:\/\/twitter.com\/#!\/search\/vince%20vaughn",
+      "expanded_url" : "https:\/\/twitter.com\/#!\/search\/vince%20vaughn",
       "display_url" : "twitter.com\/#!\/search\/vinc\u2026"
     } ]
   },
@@ -4553,7 +4493,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "k8iedid",
       "protected" : false,
       "id_str" : "15148132",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/661926165876051968\/IFn8cWyt_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823173920438226944\/5pd7IRqM_normal.jpg",
       "id" : 15148132,
       "verified" : false
     }

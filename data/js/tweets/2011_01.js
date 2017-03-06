@@ -128,7 +128,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "acarvin",
       "protected" : false,
       "id_str" : "778057",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/692889823846146052\/we5MYRM9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/795623889372057600\/lYoWIKW1_normal.jpg",
       "id" : 778057,
       "verified" : true
     }
@@ -148,7 +148,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arne R\uD83D\uDC7Bmann-Kurrik",
+      "name" : "Arn-e-Lago",
       "screen_name" : "kurrik",
       "indices" : [ 45, 52 ],
       "id_str" : "7588892",
@@ -527,76 +527,13 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "acarvin",
       "protected" : false,
       "id_str" : "778057",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/692889823846146052\/we5MYRM9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/795623889372057600\/lYoWIKW1_normal.jpg",
       "id" : 778057,
       "verified" : true
     }
   },
   "id" : 31471797211766784,
   "created_at" : "2011-01-29 22:00:35 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Mary Slosson",
-      "screen_name" : "maryslosson",
-      "indices" : [ 3, 15 ],
-      "id_str" : "37978965",
-      "id" : 37978965
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "jan25",
-      "indices" : [ 111, 117 ]
-    }, {
-      "text" : "egypt",
-      "indices" : [ 118, 124 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "31466086490710016",
-  "text" : "RT @maryslosson: Egypt Vice President Omar Suleiman: Extraordinary Rendition Coordinator? http:\/\/bit.ly\/fcf5UB #jan25 #egypt",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "jan25",
-        "indices" : [ 94, 100 ]
-      }, {
-        "text" : "egypt",
-        "indices" : [ 101, 107 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "31464239113703424",
-    "text" : "Egypt Vice President Omar Suleiman: Extraordinary Rendition Coordinator? http:\/\/bit.ly\/fcf5UB #jan25 #egypt",
-    "id" : 31464239113703424,
-    "created_at" : "2011-01-29 21:30:33 +0000",
-    "user" : {
-      "name" : "Mary Slosson",
-      "screen_name" : "maryslosson",
-      "protected" : false,
-      "id_str" : "37978965",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/753069177057849346\/HrCXuDE7_normal.jpg",
-      "id" : 37978965,
-      "verified" : false
-    }
-  },
-  "id" : 31466086490710016,
-  "created_at" : "2011-01-29 21:37:54 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1383,7 +1320,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "TimKarr",
       "protected" : false,
       "id_str" : "15902877",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/554756774880768000\/KjpuHPhj_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/798491480348233728\/VfCYzNWA_normal.jpg",
       "id" : 15902877,
       "verified" : false
     }
@@ -1936,7 +1873,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "KeithOlbermann",
       "protected" : false,
       "id_str" : "130617778",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/784967598073151488\/Y9-ldVqm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/831400004271144960\/wsC4JV8G_normal.jpg",
       "id" : 130617778,
       "verified" : true
     }
@@ -2509,7 +2446,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MonsterMatt Cutts",
+      "name" : "Matt Cutts",
       "screen_name" : "mattcutts",
       "indices" : [ 0, 10 ],
       "id_str" : "3080761",
@@ -2542,7 +2479,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 3, 13 ],
       "id_str" : "3839",
@@ -2569,11 +2506,11 @@ Grailbird.data.tweets_2011_01 =
     "id" : 28835065026842625,
     "created_at" : "2011-01-22 15:23:09 +0000",
     "user" : {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788124124396871683\/NYpvQ6MA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837523130683883520\/vWG_ymiD_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -3409,7 +3346,7 @@ Grailbird.data.tweets_2011_01 =
       "id_str" : "19715003",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/764926434364096512\/FWuqDhF5_normal.jpg",
       "id" : 19715003,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 26508110117998592,
@@ -4141,7 +4078,7 @@ Grailbird.data.tweets_2011_01 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter",
-      "screen_name" : "twitter",
+      "screen_name" : "Twitter",
       "indices" : [ 21, 29 ],
       "id_str" : "783214",
       "id" : 783214
@@ -4256,9 +4193,9 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "KMoyer",
       "protected" : false,
       "id_str" : "16201669",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/782217417208557572\/1WqR1VH5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/823675782279008256\/I9wo5AND_normal.jpg",
       "id" : 16201669,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 25410709953183744,
@@ -4307,6 +4244,57 @@ Grailbird.data.tweets_2011_01 =
   "text" : "Brain is now like an Asteroids game. Except the asteroids are new cynical comments on Palin and Obama's speech is shooting them all down.",
   "id" : 25402703521783808,
   "created_at" : "2011-01-13 04:04:11 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "NewsCut",
+      "screen_name" : "newscut",
+      "indices" : [ 3, 11 ],
+      "id_str" : "1472840792",
+      "id" : 1472840792
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "25386806522413056",
+  "text" : "RT @NewsCut: Nothing ever sounds so shallow as TV analysts trying to analyze a great speech that's so great it needs no analysis",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/seesmic.com\/app\" rel=\"nofollow\"\u003ESeesmic Web\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "25379821215285249",
+    "text" : "Nothing ever sounds so shallow as TV analysts trying to analyze a great speech that's so great it needs no analysis",
+    "id" : 25379821215285249,
+    "created_at" : "2011-01-13 02:33:15 +0000",
+    "user" : {
+      "name" : "MyLittleBloggie",
+      "screen_name" : "MyLittleBloggie",
+      "protected" : false,
+      "id_str" : "17737025",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/791628692959006720\/42OAZJIm_normal.jpg",
+      "id" : 17737025,
+      "verified" : false
+    }
+  },
+  "id" : 25386806522413056,
+  "created_at" : "2011-01-13 03:01:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4978,7 +4966,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "Magnuson",
       "protected" : false,
       "id_str" : "14273705",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/787045789486821376\/8QZ7i824_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/813201746080055296\/ysXXK7Qr_normal.jpg",
       "id" : 14273705,
       "verified" : false
     }
@@ -5656,7 +5644,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "NewsHour",
       "protected" : false,
       "id_str" : "14437914",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/785894485024702464\/ZIVJp8Ph_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/808697283306983424\/1mTNsB_Q_normal.jpg",
       "id" : 14437914,
       "verified" : true
     }
@@ -5751,7 +5739,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "howardweaver",
       "protected" : false,
       "id_str" : "783837",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617870447439286273\/45I0d1Lm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/820049238360887296\/8IkWozfQ_normal.jpg",
       "id" : 783837,
       "verified" : false
     }
@@ -6093,7 +6081,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "brianboyer",
       "protected" : false,
       "id_str" : "14570738",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/508121738140319744\/Ff_UFtbA_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/795314693665685504\/zW_HWAip_normal.jpg",
       "id" : 14570738,
       "verified" : true
     }
@@ -6113,7 +6101,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Mastracci \u2712",
+      "name" : "Matt Mastracci",
       "screen_name" : "mmastrac",
       "indices" : [ 3, 12 ],
       "id_str" : "16873352",
@@ -6140,7 +6128,7 @@ Grailbird.data.tweets_2011_01 =
     "id" : 22696252563005440,
     "created_at" : "2011-01-05 16:49:42 +0000",
     "user" : {
-      "name" : "Matt Mastracci \u2712",
+      "name" : "Matt Mastracci",
       "screen_name" : "mmastrac",
       "protected" : false,
       "id_str" : "16873352",
@@ -6396,7 +6384,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "howardweaver",
       "protected" : false,
       "id_str" : "783837",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/617870447439286273\/45I0d1Lm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/820049238360887296\/8IkWozfQ_normal.jpg",
       "id" : 783837,
       "verified" : false
     }
@@ -6422,7 +6410,7 @@ Grailbird.data.tweets_2011_01 =
       "id_str" : "14834340",
       "id" : 14834340
     }, {
-      "name" : "Dave The Blogger",
+      "name" : "Dave Winer",
       "screen_name" : "davewiner",
       "indices" : [ 14, 24 ],
       "id_str" : "3839",
@@ -6492,7 +6480,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "BadAstronomer",
       "protected" : false,
       "id_str" : "4620451",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/680871217516052480\/aZf1lCDR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/826524406746714113\/Q4pP_stg_normal.jpg",
       "id" : 4620451,
       "verified" : true
     }
@@ -6512,7 +6500,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u26A1\uFE0F Matt Terenzio",
+      "name" : "\u2697 Matt Terenzio",
       "screen_name" : "mterenzio",
       "indices" : [ 0, 10 ],
       "id_str" : "820002",
