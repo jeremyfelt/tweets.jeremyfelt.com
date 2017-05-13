@@ -1382,7 +1382,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "RollingStone",
       "protected" : false,
       "id_str" : "14780915",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458998630175617024\/MIwtW6L0_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/854429445301706752\/m2G7YLYb_normal.jpg",
       "id" : 14780915,
       "verified" : true
     }
@@ -1805,21 +1805,10 @@ Grailbird.data.tweets_2013_10 =
       "indices" : [ 19, 29 ],
       "id_str" : "13479",
       "id" : 13479
-    }, {
-      "name" : "KANYE WEST",
-      "screen_name" : "kanyewest",
-      "indices" : [ 34, 44 ],
-      "id_str" : "169686021",
-      "id" : 169686021
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 47, 69 ],
-      "url" : "http:\/\/t.co\/roj8ZqqC9f",
-      "expanded_url" : "http:\/\/matt.wordpress.com\/2013\/10\/26\/with-kanyewest-great-guy-to-meet\/",
-      "display_url" : "matt.wordpress.com\/2013\/10\/26\/wit\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "393957567895842817",
@@ -1833,12 +1822,6 @@ Grailbird.data.tweets_2013_10 =
         "indices" : [ 7, 17 ],
         "id_str" : "13479",
         "id" : 13479
-      }, {
-        "name" : "KANYE WEST",
-        "screen_name" : "kanyewest",
-        "indices" : [ 22, 32 ],
-        "id_str" : "169686021",
-        "id" : 169686021
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -2044,7 +2027,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Weston Ruter \u26A1",
+      "name" : "Weston Ruter",
       "screen_name" : "westonruter",
       "indices" : [ 3, 15 ],
       "id_str" : "12887432",
@@ -2095,7 +2078,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 393537133874388992,
     "created_at" : "2013-10-25 00:38:58 +0000",
     "user" : {
-      "name" : "Weston Ruter \u26A1",
+      "name" : "Weston Ruter",
       "screen_name" : "westonruter",
       "protected" : false,
       "id_str" : "12887432",
@@ -2554,7 +2537,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Blackbourn",
+      "name" : "John Blackbourn \uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "johnbillion",
       "indices" : [ 3, 15 ],
       "id_str" : "79053835",
@@ -2587,7 +2570,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 393471020956282880,
     "created_at" : "2013-10-24 20:16:16 +0000",
     "user" : {
-      "name" : "John Blackbourn",
+      "name" : "John Blackbourn \uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "johnbillion",
       "protected" : false,
       "id_str" : "79053835",
@@ -3191,8 +3174,8 @@ Grailbird.data.tweets_2013_10 =
       "name" : "Wes Koop",
       "screen_name" : "weskoop",
       "indices" : [ 0, 8 ],
-      "id_str" : "718180969300119552",
-      "id" : 718180969300119552
+      "id_str" : "12424882",
+      "id" : 12424882
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3211,7 +3194,7 @@ Grailbird.data.tweets_2013_10 =
   "id" : 393057307644264448,
   "in_reply_to_status_id" : 393056671208964096,
   "created_at" : "2013-10-23 16:52:19 +0000",
-  "in_reply_to_screen_name" : "HARGOW_PARTY",
+  "in_reply_to_screen_name" : "weskoop",
   "in_reply_to_user_id_str" : "12424882",
   "user" : {
     "name" : "Jeremy Felt",
@@ -3232,7 +3215,7 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "6306542",
       "id" : 6306542
     }, {
-      "name" : "Scott Taylor",
+      "name" : "Scott Taylor \u26F5\uFE0F",
       "screen_name" : "wonderboymusic",
       "indices" : [ 8, 23 ],
       "id_str" : "15473031",
@@ -3990,7 +3973,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "hopefulcyborg",
       "protected" : false,
       "id_str" : "58708498",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/821775677296955393\/rJnlBhhO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847187490997796865\/W1YQWwWi_normal.jpg",
       "id" : 58708498,
       "verified" : false
     }
@@ -4421,7 +4404,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837523130683883520\/vWG_ymiD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847921823429914627\/gTnLvjkw_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -5108,7 +5091,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "so-called snipe \uD83E\uDD19\uD83C\uDFFB",
+      "name" : "schwifty schnipe",
       "screen_name" : "snipeyhead",
       "indices" : [ 3, 14 ],
       "id_str" : "14246782",
@@ -5140,7 +5123,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 390755527149772801,
     "created_at" : "2013-10-17 08:25:52 +0000",
     "user" : {
-      "name" : "so-called snipe \uD83E\uDD19\uD83C\uDFFB",
+      "name" : "schwifty schnipe",
       "screen_name" : "snipeyhead",
       "protected" : false,
       "id_str" : "14246782",
@@ -5344,7 +5327,7 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "4371541",
       "id" : 4371541
     }, {
-      "name" : "Weston Ruter \u26A1",
+      "name" : "Weston Ruter",
       "screen_name" : "westonruter",
       "indices" : [ 15, 27 ],
       "id_str" : "12887432",
@@ -5383,7 +5366,7 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "4371541",
       "id" : 4371541
     }, {
-      "name" : "Weston Ruter \u26A1",
+      "name" : "Weston Ruter",
       "screen_name" : "westonruter",
       "indices" : [ 15, 27 ],
       "id_str" : "12887432",
@@ -5416,7 +5399,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Grant Mangham",
+      "name" : "Curmudgeon Grant",
       "screen_name" : "CurmudgeonGrant",
       "indices" : [ 0, 16 ],
       "id_str" : "176672734",
@@ -5449,7 +5432,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Weston Ruter \u26A1",
+      "name" : "Weston Ruter",
       "screen_name" : "westonruter",
       "indices" : [ 3, 15 ],
       "id_str" : "12887432",
@@ -5522,7 +5505,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 390344311016939520,
     "created_at" : "2013-10-16 05:11:50 +0000",
     "user" : {
-      "name" : "Weston Ruter \u26A1",
+      "name" : "Weston Ruter",
       "screen_name" : "westonruter",
       "protected" : false,
       "id_str" : "12887432",
@@ -5881,7 +5864,7 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "4371541",
       "id" : 4371541
     }, {
-      "name" : "Weston Ruter \u26A1",
+      "name" : "Weston Ruter",
       "screen_name" : "westonruter",
       "indices" : [ 15, 27 ],
       "id_str" : "12887432",
@@ -5914,7 +5897,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Weston Ruter \u26A1",
+      "name" : "Weston Ruter",
       "screen_name" : "westonruter",
       "indices" : [ 0, 12 ],
       "id_str" : "12887432",
@@ -6032,7 +6015,7 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "4371541",
       "id" : 4371541
     }, {
-      "name" : "Weston Ruter \u26A1",
+      "name" : "Weston Ruter",
       "screen_name" : "westonruter",
       "indices" : [ 33, 45 ],
       "id_str" : "12887432",
@@ -10706,7 +10689,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "GaryJ",
       "protected" : false,
       "id_str" : "14137938",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/799614232320999430\/Sa2_jiVS_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/849436392606375936\/Uv5lA3GB_normal.jpg",
       "id" : 14137938,
       "verified" : false
     }
@@ -10989,7 +10972,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Weston Ruter \u26A1",
+      "name" : "Weston Ruter",
       "screen_name" : "westonruter",
       "indices" : [ 3, 15 ],
       "id_str" : "12887432",
@@ -11026,7 +11009,7 @@ Grailbird.data.tweets_2013_10 =
     "id" : 386587001647931392,
     "created_at" : "2013-10-05 20:21:38 +0000",
     "user" : {
-      "name" : "Weston Ruter \u26A1",
+      "name" : "Weston Ruter",
       "screen_name" : "westonruter",
       "protected" : false,
       "id_str" : "12887432",
@@ -12038,7 +12021,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Mastracci",
+      "name" : "Matt Mastracci \uD83E\uDD14",
       "screen_name" : "mmastrac",
       "indices" : [ 0, 9 ],
       "id_str" : "16873352",
@@ -12828,7 +12811,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "danielCK",
       "protected" : false,
       "id_str" : "7557952",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/988551266\/Head_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/859114773539160064\/tpLWCxHI_normal.jpg",
       "id" : 7557952,
       "verified" : false
     }
@@ -13557,7 +13540,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "nealpollack",
       "protected" : false,
       "id_str" : "15828077",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/824298292573900800\/7l7Hkeu-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/845791951601319938\/pVMOWjrQ_normal.jpg",
       "id" : 15828077,
       "verified" : false
     }
@@ -13614,7 +13597,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "WCEurope",
       "protected" : false,
       "id_str" : "743301540",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/814890419888803840\/7FK3luXF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/839158758538424320\/7KQO4i3W_normal.jpg",
       "id" : 743301540,
       "verified" : false
     }

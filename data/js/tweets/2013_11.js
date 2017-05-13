@@ -471,10 +471,10 @@ Grailbird.data.tweets_2013_11 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "The National",
-      "screen_name" : "The_National",
+      "screen_name" : "the_national",
       "indices" : [ 13, 26 ],
-      "id_str" : "5827292",
-      "id" : 5827292
+      "id_str" : "858036007333244929",
+      "id" : 858036007333244929
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1877,7 +1877,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "LetSleepingDougsLie",
+      "name" : "Temple of the Doug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -2062,7 +2062,7 @@ Grailbird.data.tweets_2013_11 =
       "id_str" : "4371541",
       "id" : 4371541
     }, {
-      "name" : "John Blackbourn",
+      "name" : "John Blackbourn \uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "johnbillion",
       "indices" : [ 15, 27 ],
       "id_str" : "79053835",
@@ -2957,7 +2957,7 @@ Grailbird.data.tweets_2013_11 =
       "id_str" : "9980812",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458689841186611200\/SMmZLt2Y_normal.jpeg",
       "id" : 9980812,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 403278076722692096,
@@ -3319,7 +3319,7 @@ Grailbird.data.tweets_2013_11 =
       "id_str" : "24203273",
       "id" : 24203273
     }, {
-      "name" : "LetSleepingDougsLie",
+      "name" : "Temple of the Doug",
       "screen_name" : "zamoose",
       "indices" : [ 94, 102 ],
       "id_str" : "819148",
@@ -3358,7 +3358,7 @@ Grailbird.data.tweets_2013_11 =
       "id_str" : "24203273",
       "id" : 24203273
     }, {
-      "name" : "LetSleepingDougsLie",
+      "name" : "Temple of the Doug",
       "screen_name" : "zamoose",
       "indices" : [ 13, 21 ],
       "id_str" : "819148",
@@ -3452,7 +3452,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Blackbourn",
+      "name" : "John Blackbourn \uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "johnbillion",
       "indices" : [ 0, 12 ],
       "id_str" : "79053835",
@@ -3537,7 +3537,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "LetSleepingDougsLie",
+      "name" : "Temple of the Doug",
       "screen_name" : "zamoose",
       "indices" : [ 8, 16 ],
       "id_str" : "819148",
@@ -3780,7 +3780,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Blackbourn",
+      "name" : "John Blackbourn \uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "johnbillion",
       "indices" : [ 3, 15 ],
       "id_str" : "79053835",
@@ -3818,7 +3818,7 @@ Grailbird.data.tweets_2013_11 =
     "id" : 402467557937917953,
     "created_at" : "2013-11-18 16:05:17 +0000",
     "user" : {
-      "name" : "John Blackbourn",
+      "name" : "John Blackbourn \uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "johnbillion",
       "protected" : false,
       "id_str" : "79053835",
@@ -4264,7 +4264,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "jayrosen_nyu",
       "protected" : false,
       "id_str" : "14834340",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472914265737658368\/6o7dqE39_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/846771016147898372\/4njbzXG5_normal.jpg",
       "id" : 14834340,
       "verified" : true
     }
@@ -5017,7 +5017,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837523130683883520\/vWG_ymiD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847921823429914627\/gTnLvjkw_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -5090,7 +5090,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "hopefulcyborg",
       "protected" : false,
       "id_str" : "58708498",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/821775677296955393\/rJnlBhhO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847187490997796865\/W1YQWwWi_normal.jpg",
       "id" : 58708498,
       "verified" : false
     }
@@ -5480,7 +5480,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "daljo628",
       "protected" : false,
       "id_str" : "15982239",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807059535529644032\/Fzui-Fz4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/841803033411489792\/mGIHxr_s_normal.jpg",
       "id" : 15982239,
       "verified" : false
     }
@@ -7094,7 +7094,7 @@ Grailbird.data.tweets_2013_11 =
       "screen_name" : "jayrosen_nyu",
       "protected" : false,
       "id_str" : "14834340",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472914265737658368\/6o7dqE39_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/846771016147898372\/4njbzXG5_normal.jpg",
       "id" : 14834340,
       "verified" : true
     }
@@ -7147,7 +7147,7 @@ Grailbird.data.tweets_2013_11 =
       "id_str" : "21204689",
       "id" : 21204689
     }, {
-      "name" : "John Blackbourn",
+      "name" : "John Blackbourn \uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "johnbillion",
       "indices" : [ 78, 90 ],
       "id_str" : "79053835",
@@ -10582,7 +10582,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Weston Ruter \u26A1",
+      "name" : "Weston Ruter",
       "screen_name" : "westonruter",
       "indices" : [ 40, 52 ],
       "id_str" : "12887432",

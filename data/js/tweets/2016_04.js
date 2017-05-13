@@ -327,7 +327,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "eric \uD83C\uDF34",
+      "name" : "el glerfo",
       "screen_name" : "ericandrewlewis",
       "indices" : [ 3, 19 ],
       "id_str" : "218730107",
@@ -394,11 +394,11 @@ Grailbird.data.tweets_2016_04 =
     "id" : 726191713950273536,
     "created_at" : "2016-04-29 23:29:31 +0000",
     "user" : {
-      "name" : "eric \uD83C\uDF34",
+      "name" : "el glerfo",
       "screen_name" : "ericandrewlewis",
       "protected" : false,
       "id_str" : "218730107",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788426587238764544\/MC1BE1tY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/841134672172220416\/sW_t3dMy_normal.jpg",
       "id" : 218730107,
       "verified" : false
     }
@@ -995,7 +995,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "petyeah",
       "protected" : false,
       "id_str" : "17139604",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/798107314842640385\/5MMBjFUY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847876071563329536\/YB-CMRcK_normal.jpg",
       "id" : 17139604,
       "verified" : false
     }
@@ -1133,7 +1133,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "SwiftOnSecurity",
       "protected" : false,
       "id_str" : "2436389418",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838438035586957314\/Sg88tiB8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/855853739747545090\/TQA5rVCn_normal.jpg",
       "id" : 2436389418,
       "verified" : false
     }
@@ -1206,7 +1206,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837030712096116737\/_0wWAftL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/860701134733758465\/BdstzBvT_normal.jpg",
       "id" : 767,
       "verified" : true
     }
@@ -1420,7 +1420,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "DavidBHayter",
       "protected" : false,
       "id_str" : "237890582",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/822582384168210432\/thtH322O_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/846798716077932544\/xD9WKHjq_normal.jpg",
       "id" : 237890582,
       "verified" : true
     }
@@ -2003,7 +2003,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "ryandonsullivan",
       "protected" : false,
       "id_str" : "87823613",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788199424820285440\/VP_50WT0_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/845936099662835712\/81ruI-fz_normal.jpg",
       "id" : 87823613,
       "verified" : false
     }
@@ -2124,7 +2124,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837030712096116737\/_0wWAftL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/860701134733758465\/BdstzBvT_normal.jpg",
       "id" : 767,
       "verified" : true
     }
@@ -2915,7 +2915,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "computers as shirts",
+      "name" : "computer sweater",
       "screen_name" : "streetlamp",
       "indices" : [ 0, 11 ],
       "id_str" : "15808208",
@@ -3214,7 +3214,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "mattepp",
       "protected" : false,
       "id_str" : "14871770",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/683184178649632768\/m7cwV27G_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/852619168180445189\/TLRFzfQA_normal.jpg",
       "id" : 14871770,
       "verified" : false
     }
@@ -3906,7 +3906,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Grant Mangham",
+      "name" : "Curmudgeon Grant",
       "screen_name" : "CurmudgeonGrant",
       "indices" : [ 3, 19 ],
       "id_str" : "176672734",
@@ -3933,7 +3933,7 @@ Grailbird.data.tweets_2016_04 =
     "id" : 717910132621901824,
     "created_at" : "2016-04-07 03:01:28 +0000",
     "user" : {
-      "name" : "Grant Mangham",
+      "name" : "Curmudgeon Grant",
       "screen_name" : "CurmudgeonGrant",
       "protected" : false,
       "id_str" : "176672734",
@@ -4340,7 +4340,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "eric",
+      "name" : "el glerfo",
       "screen_name" : "ericandrewlewis",
       "indices" : [ 3, 19 ],
       "id_str" : "218730107",
@@ -4377,11 +4377,11 @@ Grailbird.data.tweets_2016_04 =
     "id" : 717424807944536065,
     "created_at" : "2016-04-05 18:52:57 +0000",
     "user" : {
-      "name" : "eric \uD83C\uDF34",
+      "name" : "el glerfo",
       "screen_name" : "ericandrewlewis",
       "protected" : false,
       "id_str" : "218730107",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788426587238764544\/MC1BE1tY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/841134672172220416\/sW_t3dMy_normal.jpg",
       "id" : 218730107,
       "verified" : false
     }

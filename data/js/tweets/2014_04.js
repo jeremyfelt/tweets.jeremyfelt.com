@@ -85,13 +85,13 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Blackbourn",
+      "name" : "John Blackbourn \uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "johnbillion",
       "indices" : [ 0, 12 ],
       "id_str" : "79053835",
       "id" : 79053835
     }, {
-      "name" : "Scott Taylor",
+      "name" : "Scott Taylor \u26F5\uFE0F",
       "screen_name" : "wonderboymusic",
       "indices" : [ 13, 28 ],
       "id_str" : "15473031",
@@ -583,7 +583,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "SnoopDogg",
       "protected" : false,
       "id_str" : "3004231",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796033778648911872\/lijK5oA6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/857358077879656448\/W3_DzY1__normal.jpg",
       "id" : 3004231,
       "verified" : true
     }
@@ -1124,7 +1124,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "PortlandPolice",
       "protected" : false,
       "id_str" : "14604442",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/816300368288043008\/yi6ZffZO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/861980148291092480\/lvz0FGQ9_normal.jpg",
       "id" : 14604442,
       "verified" : true
     }
@@ -1724,7 +1724,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "mor10",
       "protected" : false,
       "id_str" : "14611891",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/804375905585897472\/dyAyPIWG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/855110255839027200\/Vo02IagX_normal.jpg",
       "id" : 14611891,
       "verified" : true
     }
@@ -2046,7 +2046,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Grant Mangham",
+      "name" : "Curmudgeon Grant",
       "screen_name" : "CurmudgeonGrant",
       "indices" : [ 0, 16 ],
       "id_str" : "176672734",
@@ -2357,7 +2357,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scott Taylor",
+      "name" : "Scott Taylor \u26F5\uFE0F",
       "screen_name" : "wonderboymusic",
       "indices" : [ 3, 18 ],
       "id_str" : "15473031",
@@ -2425,7 +2425,7 @@ Grailbird.data.tweets_2014_04 =
     "in_reply_to_screen_name" : "nacin",
     "in_reply_to_user_id_str" : "16213079",
     "user" : {
-      "name" : "Scott Taylor",
+      "name" : "Scott Taylor \u26F5\uFE0F",
       "screen_name" : "wonderboymusic",
       "protected" : false,
       "id_str" : "15473031",
@@ -2830,7 +2830,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Weston Ruter \u26A1",
+      "name" : "Weston Ruter",
       "screen_name" : "westonruter",
       "indices" : [ 0, 12 ],
       "id_str" : "12887432",
@@ -2908,7 +2908,7 @@ Grailbird.data.tweets_2014_04 =
       "id_str" : "797805",
       "id" : 797805
     }, {
-      "name" : "Weston Ruter \u26A1",
+      "name" : "Weston Ruter",
       "screen_name" : "westonruter",
       "indices" : [ 67, 79 ],
       "id_str" : "12887432",
@@ -2925,7 +2925,7 @@ Grailbird.data.tweets_2014_04 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Weston Ruter \u26A1",
+        "name" : "Weston Ruter",
         "screen_name" : "westonruter",
         "indices" : [ 55, 67 ],
         "id_str" : "12887432",
@@ -3106,7 +3106,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "LetSleepingDougsLie",
+      "name" : "Temple of the Doug",
       "screen_name" : "zamoose",
       "indices" : [ 3, 11 ],
       "id_str" : "819148",
@@ -3165,7 +3165,7 @@ Grailbird.data.tweets_2014_04 =
     "id" : 456044153311592448,
     "created_at" : "2014-04-15 12:19:33 +0000",
     "user" : {
-      "name" : "LetSleepingDougsLie",
+      "name" : "Temple of the Doug",
       "screen_name" : "zamoose",
       "protected" : false,
       "id_str" : "819148",
@@ -4302,7 +4302,7 @@ Grailbird.data.tweets_2014_04 =
       "id_str" : "272166936",
       "id" : 272166936
     }, {
-      "name" : "Weston Ruter \u26A1",
+      "name" : "Weston Ruter",
       "screen_name" : "westonruter",
       "indices" : [ 17, 29 ],
       "id_str" : "12887432",
@@ -4861,7 +4861,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "FredericJacobs",
       "protected" : false,
       "id_str" : "18018877",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/804985907837337600\/z_esNSb6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/859258212599517184\/Jxu9PicI_normal.jpg",
       "id" : 18018877,
       "verified" : true
     }
@@ -4924,7 +4924,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "neelmehta",
       "protected" : false,
       "id_str" : "50144698",
-      "profile_image_url_https" : "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_2_normal.png",
+      "profile_image_url_https" : "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
       "id" : 50144698,
       "verified" : false
     }
@@ -6559,7 +6559,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "LetSleepingDougsLie",
+      "name" : "Temple of the Doug",
       "screen_name" : "zamoose",
       "indices" : [ 97, 105 ],
       "id_str" : "819148",
@@ -6879,7 +6879,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "michellefelt",
       "protected" : false,
       "id_str" : "32924315",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/719643140739571712\/SqThsnf3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/843540213460688896\/6tSWkrmt_normal.jpg",
       "id" : 32924315,
       "verified" : false
     }

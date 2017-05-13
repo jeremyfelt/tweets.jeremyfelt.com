@@ -2583,117 +2583,6 @@ Grailbird.data.tweets_2016_05 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Mike Caulfield",
-      "screen_name" : "holden",
-      "indices" : [ 3, 10 ],
-      "id_str" : "1912681",
-      "id" : 1912681
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/holden\/status\/731300765919289344\/photo\/1",
-      "indices" : [ 67, 90 ],
-      "url" : "https:\/\/t.co\/oyNYFF1zLC",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CiYaK53WUAAdkn6.jpg",
-      "id_str" : "731300764128268288",
-      "id" : 731300764128268288,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CiYaK53WUAAdkn6.jpg",
-      "sizes" : [ {
-        "h" : 247,
-        "resize" : "fit",
-        "w" : 380
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 247,
-        "resize" : "fit",
-        "w" : 380
-      }, {
-        "h" : 221,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 247,
-        "resize" : "fit",
-        "w" : 380
-      } ],
-      "display_url" : "pic.twitter.com\/oyNYFF1zLC"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "731315182706647044",
-  "text" : "RT @holden: Clint Eastwood talks to John Miller at the convention. https:\/\/t.co\/oyNYFF1zLC",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/holden\/status\/731300765919289344\/photo\/1",
-        "indices" : [ 55, 78 ],
-        "url" : "https:\/\/t.co\/oyNYFF1zLC",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CiYaK53WUAAdkn6.jpg",
-        "id_str" : "731300764128268288",
-        "id" : 731300764128268288,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CiYaK53WUAAdkn6.jpg",
-        "sizes" : [ {
-          "h" : 247,
-          "resize" : "fit",
-          "w" : 380
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 247,
-          "resize" : "fit",
-          "w" : 380
-        }, {
-          "h" : 221,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 247,
-          "resize" : "fit",
-          "w" : 380
-        } ],
-        "display_url" : "pic.twitter.com\/oyNYFF1zLC"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "731300765919289344",
-    "text" : "Clint Eastwood talks to John Miller at the convention. https:\/\/t.co\/oyNYFF1zLC",
-    "id" : 731300765919289344,
-    "created_at" : "2016-05-14 01:51:04 +0000",
-    "user" : {
-      "name" : "Mike Caulfield",
-      "screen_name" : "holden",
-      "protected" : false,
-      "id_str" : "1912681",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788966242556063744\/fTS9itff_normal.jpg",
-      "id" : 1912681,
-      "verified" : false
-    }
-  },
-  "id" : 731315182706647044,
-  "created_at" : "2016-05-14 02:48:21 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -3964,7 +3853,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "michellefelt",
       "protected" : false,
       "id_str" : "32924315",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/719643140739571712\/SqThsnf3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/843540213460688896\/6tSWkrmt_normal.jpg",
       "id" : 32924315,
       "verified" : false
     }
@@ -4061,7 +3950,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "MeredithMetsker",
       "protected" : false,
       "id_str" : "381846246",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/756144216510599168\/9ooWEBDs_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856563441829531649\/bw6Ztxp7_normal.jpg",
       "id" : 381846246,
       "verified" : false
     }
@@ -4492,7 +4381,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "WCEurope",
       "protected" : false,
       "id_str" : "743301540",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/814890419888803840\/7FK3luXF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/839158758538424320\/7KQO4i3W_normal.jpg",
       "id" : 743301540,
       "verified" : false
     }
@@ -4579,7 +4468,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "juliamacfarlane",
       "protected" : false,
       "id_str" : "20159596",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/814041863405637632\/RDtexn4F_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/862809157413601280\/mdhUjRga_normal.jpg",
       "id" : 20159596,
       "verified" : true
     }
@@ -5130,7 +5019,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "joemcgill",
       "protected" : false,
       "id_str" : "2688911",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/798755211909005313\/W66ruxvJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/848668420426027008\/v4xzR9Sz_normal.jpg",
       "id" : 2688911,
       "verified" : false
     }
@@ -5274,7 +5163,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Grant Mangham",
+      "name" : "Curmudgeon Grant",
       "screen_name" : "CurmudgeonGrant",
       "indices" : [ 0, 16 ],
       "id_str" : "176672734",
@@ -5610,7 +5499,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837054669016948736\/yCi36dAb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/843519123711803393\/pyYe9LFq_normal.jpg",
       "id" : 61133,
       "verified" : true
     }
@@ -5754,7 +5643,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "scottkclark",
       "protected" : false,
       "id_str" : "52075828",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/790957161438294016\/wnuI-Wpb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/855227453169643521\/c1l-D-ct_normal.jpg",
       "id" : 52075828,
       "verified" : false
     }
@@ -5985,7 +5874,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "michellefelt",
       "protected" : false,
       "id_str" : "32924315",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/719643140739571712\/SqThsnf3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/843540213460688896\/6tSWkrmt_normal.jpg",
       "id" : 32924315,
       "verified" : false
     }

@@ -2148,7 +2148,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "wcpdx",
       "protected" : false,
       "id_str" : "15926367",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/641394218791927808\/Q_7FIdRj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/857667238303744000\/y9KJLURZ_normal.jpg",
       "id" : 15926367,
       "verified" : false
     }

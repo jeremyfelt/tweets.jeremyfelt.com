@@ -418,7 +418,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "nytimes",
       "protected" : false,
       "id_str" : "807095",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/758384037589348352\/KB3RFwFm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856562742563663872\/cl1sRx2G_normal.jpg",
       "id" : 807095,
       "verified" : true
     }
@@ -535,7 +535,7 @@ Grailbird.data.tweets_2015_08 =
       "id_str" : "19277037",
       "id" : 19277037
     }, {
-      "name" : "MinYaletown",
+      "name" : "MinYaletown \uD83C\uDDE8\uD83C\uDDE6",
       "screen_name" : "mitchinyaletown",
       "indices" : [ 61, 77 ],
       "id_str" : "774741829",
@@ -561,7 +561,7 @@ Grailbird.data.tweets_2015_08 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "MinYaletown",
+        "name" : "MinYaletown \uD83C\uDDE8\uD83C\uDDE6",
         "screen_name" : "mitchinyaletown",
         "indices" : [ 42, 58 ],
         "id_str" : "774741829",
@@ -823,7 +823,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "karmatosed",
       "protected" : false,
       "id_str" : "49233",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/712671784252911621\/fL7PM-A0_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/839853607214264320\/59pOoJLE_normal.jpg",
       "id" : 49233,
       "verified" : false
     }
@@ -1064,7 +1064,7 @@ Grailbird.data.tweets_2015_08 =
       "id_str" : "33521560",
       "id" : 33521560
     }, {
-      "name" : "Weston Ruter \u26A1",
+      "name" : "Weston Ruter",
       "screen_name" : "westonruter",
       "indices" : [ 125, 137 ],
       "id_str" : "12887432",
@@ -1105,7 +1105,7 @@ Grailbird.data.tweets_2015_08 =
         "id_str" : "33521560",
         "id" : 33521560
       }, {
-        "name" : "Weston Ruter \u26A1",
+        "name" : "Weston Ruter",
         "screen_name" : "westonruter",
         "indices" : [ 106, 118 ],
         "id_str" : "12887432",
@@ -1802,7 +1802,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "jonfavs",
       "protected" : false,
       "id_str" : "130496027",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/733786686526619649\/H2hfL9Dj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/863423396217892864\/k154vGzm_normal.jpg",
       "id" : 130496027,
       "verified" : true
     }
@@ -1883,7 +1883,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "drhingram",
       "protected" : false,
       "id_str" : "20304663",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/825059557890220032\/Qq4tSN1j_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856106301167980545\/WioFZWiH_normal.jpg",
       "id" : 20304663,
       "verified" : false
     }
@@ -3335,7 +3335,7 @@ Grailbird.data.tweets_2015_08 =
       "id_str" : "15982239",
       "id" : 15982239
     }, {
-      "name" : "Scott Taylor",
+      "name" : "Scott Taylor \u26F5\uFE0F",
       "screen_name" : "wonderboymusic",
       "indices" : [ 59, 74 ],
       "id_str" : "15473031",
@@ -4771,7 +4771,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Grant Mangham",
+      "name" : "Curmudgeon Grant",
       "screen_name" : "CurmudgeonGrant",
       "indices" : [ 0, 16 ],
       "id_str" : "176672734",
@@ -5399,7 +5399,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Grant Mangham",
+      "name" : "Curmudgeon Grant",
       "screen_name" : "CurmudgeonGrant",
       "indices" : [ 0, 16 ],
       "id_str" : "176672734",
@@ -5794,7 +5794,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837030712096116737\/_0wWAftL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/860701134733758465\/BdstzBvT_normal.jpg",
       "id" : 767,
       "verified" : true
     }
@@ -6125,7 +6125,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "leftist ajennda",
+      "name" : "jennjamin button",
       "screen_name" : "jennschiffer",
       "indices" : [ 3, 16 ],
       "id_str" : "12524622",
@@ -6157,7 +6157,7 @@ Grailbird.data.tweets_2015_08 =
     "in_reply_to_screen_name" : "jennschiffer",
     "in_reply_to_user_id_str" : "12524622",
     "user" : {
-      "name" : "friends w\/ jennefits",
+      "name" : "jennjamin button",
       "screen_name" : "jennschiffer",
       "protected" : false,
       "id_str" : "12524622",
@@ -6245,8 +6245,8 @@ Grailbird.data.tweets_2015_08 =
       "name" : "Wes Koop",
       "screen_name" : "weskoop",
       "indices" : [ 0, 8 ],
-      "id_str" : "718180969300119552",
-      "id" : 718180969300119552
+      "id_str" : "12424882",
+      "id" : 12424882
     }, {
       "name" : "Flynn O'Connor",
       "screen_name" : "thoronas",
@@ -6264,7 +6264,7 @@ Grailbird.data.tweets_2015_08 =
   "text" : "@weskoop I bought and then unbought Howard's beer for you \/cc @thoronas",
   "id" : 632085542667075584,
   "created_at" : "2015-08-14 07:05:11 +0000",
-  "in_reply_to_screen_name" : "HARGOW_PARTY",
+  "in_reply_to_screen_name" : "weskoop",
   "in_reply_to_user_id_str" : "12424882",
   "user" : {
     "name" : "Jeremy Felt",
@@ -7055,7 +7055,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "eric",
+      "name" : "el glerfo",
       "screen_name" : "ericandrewlewis",
       "indices" : [ 3, 19 ],
       "id_str" : "218730107",
@@ -7152,11 +7152,11 @@ Grailbird.data.tweets_2015_08 =
     "id" : 630872114967519232,
     "created_at" : "2015-08-10 22:43:27 +0000",
     "user" : {
-      "name" : "eric \uD83C\uDF34",
+      "name" : "el glerfo",
       "screen_name" : "ericandrewlewis",
       "protected" : false,
       "id_str" : "218730107",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788426587238764544\/MC1BE1tY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/841134672172220416\/sW_t3dMy_normal.jpg",
       "id" : 218730107,
       "verified" : false
     }
@@ -7209,7 +7209,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Grant Mangham",
+      "name" : "Curmudgeon Grant",
       "screen_name" : "CurmudgeonGrant",
       "indices" : [ 0, 16 ],
       "id_str" : "176672734",
@@ -8578,7 +8578,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "LetSleepingDougsLie",
+      "name" : "Temple of the Doug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -8693,7 +8693,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "tommcfarlin",
       "protected" : false,
       "id_str" : "85808180",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/836935799467749377\/o104ZLjX_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/839571625599066112\/DEYftcls_normal.jpg",
       "id" : 85808180,
       "verified" : true
     }
@@ -9627,7 +9627,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rachel Carden",
+      "name" : "Rachel Cherry",
       "screen_name" : "bamadesigner",
       "indices" : [ 0, 13 ],
       "id_str" : "236673464",
@@ -9765,12 +9765,6 @@ Grailbird.data.tweets_2015_08 =
       "indices" : [ 0, 10 ],
       "id_str" : "26559701",
       "id" : 26559701
-    }, {
-      "name" : "Tim Owens",
-      "screen_name" : "timmmmyboy",
-      "indices" : [ 11, 22 ],
-      "id_str" : "185375498",
-      "id" : 185375498
     }, {
       "name" : "Jim Groom",
       "screen_name" : "jimgroom",

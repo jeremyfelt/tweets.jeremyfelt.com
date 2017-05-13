@@ -530,7 +530,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "howardweaver",
       "protected" : false,
       "id_str" : "783837",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/820049238360887296\/8IkWozfQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844591415476740096\/SVFeCqcB_normal.jpg",
       "id" : 783837,
       "verified" : false
     }

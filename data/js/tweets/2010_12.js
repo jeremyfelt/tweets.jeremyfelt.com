@@ -711,7 +711,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "howardweaver",
       "protected" : false,
       "id_str" : "783837",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/820049238360887296\/8IkWozfQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844591415476740096\/SVFeCqcB_normal.jpg",
       "id" : 783837,
       "verified" : false
     }
@@ -1280,11 +1280,11 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "National Geographic",
+      "name" : "NatGeo Society",
       "screen_name" : "NatGeoSociety",
       "indices" : [ 3, 17 ],
-      "id_str" : "300974581",
-      "id" : 300974581
+      "id_str" : "836692559531552769",
+      "id" : 836692559531552769
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -1425,7 +1425,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837523130683883520\/vWG_ymiD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847921823429914627\/gTnLvjkw_normal.jpg",
       "id" : 3839,
       "verified" : true
     }

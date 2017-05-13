@@ -162,7 +162,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "joshtpm",
       "protected" : false,
       "id_str" : "21268897",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837148237383393280\/TjjlwL6v_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/861299248603832320\/sfSC_cL4_normal.jpg",
       "id" : 21268897,
       "verified" : true
     }
@@ -348,7 +348,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "howardweaver",
       "protected" : false,
       "id_str" : "783837",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/820049238360887296\/8IkWozfQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844591415476740096\/SVFeCqcB_normal.jpg",
       "id" : 783837,
       "verified" : false
     }
@@ -2589,7 +2589,7 @@ Grailbird.data.tweets_2011_07 =
     "id" : 91351403964022786,
     "created_at" : "2011-07-14 03:40:46 +0000",
     "user" : {
-      "name" : "Anthony De Rosa",
+      "name" : "Anthony De Rosa \uD83D\uDDFD",
       "screen_name" : "Anthony",
       "protected" : false,
       "id_str" : "1140451",
@@ -2671,7 +2671,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "GroovyBruce",
       "protected" : false,
       "id_str" : "282392576",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/773613575663345664\/gmLm66dw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/845184476074291200\/fkC2rYuT_normal.jpg",
       "id" : 282392576,
       "verified" : true
     }
@@ -2984,7 +2984,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Carol Hassler",
+      "name" : "Carol",
       "screen_name" : "dreamysusan",
       "indices" : [ 63, 75 ],
       "id_str" : "94655792",

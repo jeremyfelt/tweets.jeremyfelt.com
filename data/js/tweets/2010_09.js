@@ -190,7 +190,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2697 Matt Terenzio",
+      "name" : "\uD83C\uDF31 Matt Terenzio",
       "screen_name" : "mterenzio",
       "indices" : [ 0, 10 ],
       "id_str" : "820002",
@@ -366,6 +366,57 @@ Grailbird.data.tweets_2010_09 =
   "created_at" : "2010-10-01 00:00:00 +0000",
   "in_reply_to_screen_name" : "davewiner",
   "in_reply_to_user_id_str" : "3839",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Roger Ebert",
+      "screen_name" : "ebertchicago",
+      "indices" : [ 3, 16 ],
+      "id_str" : "79797834",
+      "id" : 79797834
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "25946500019",
+  "text" : "RT @ebertchicago: After 3D re-re-re-release, George Lucas plans to bring \"Star Wars\" to radio, vaudeville, puppet shows and medieval pag ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "25946102054",
+    "text" : "After 3D re-re-re-release, George Lucas plans to bring \"Star Wars\" to radio, vaudeville, puppet shows and medieval pageant.",
+    "id" : 25946102054,
+    "created_at" : "2010-09-30 03:26:46 +0000",
+    "user" : {
+      "name" : "Roger Ebert",
+      "screen_name" : "ebertchicago",
+      "protected" : false,
+      "id_str" : "79797834",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451835991897026560\/6QBIyJx6_normal.jpeg",
+      "id" : 79797834,
+      "verified" : true
+    }
+  },
+  "id" : 25946500019,
+  "created_at" : "2010-09-30 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -664,57 +715,6 @@ Grailbird.data.tweets_2010_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Roger Ebert",
-      "screen_name" : "ebertchicago",
-      "indices" : [ 3, 16 ],
-      "id_str" : "79797834",
-      "id" : 79797834
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "25946500019",
-  "text" : "RT @ebertchicago: After 3D re-re-re-release, George Lucas plans to bring \"Star Wars\" to radio, vaudeville, puppet shows and medieval pag ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "25946102054",
-    "text" : "After 3D re-re-re-release, George Lucas plans to bring \"Star Wars\" to radio, vaudeville, puppet shows and medieval pageant.",
-    "id" : 25946102054,
-    "created_at" : "2010-09-30 03:26:46 +0000",
-    "user" : {
-      "name" : "Roger Ebert",
-      "screen_name" : "ebertchicago",
-      "protected" : false,
-      "id_str" : "79797834",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/451835991897026560\/6QBIyJx6_normal.jpeg",
-      "id" : 79797834,
-      "verified" : true
-    }
-  },
-  "id" : 25946500019,
-  "created_at" : "2010-09-30 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -940,7 +940,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Mastracci",
+      "name" : "Matt Mastracci \uD83E\uDD14",
       "screen_name" : "mmastrac",
       "indices" : [ 0, 9 ],
       "id_str" : "16873352",
@@ -1471,7 +1471,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837523130683883520\/vWG_ymiD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847921823429914627\/gTnLvjkw_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -1839,7 +1839,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Mastracci",
+      "name" : "Matt Mastracci \uD83E\uDD14",
       "screen_name" : "mmastrac",
       "indices" : [ 0, 9 ],
       "id_str" : "16873352",
@@ -1946,13 +1946,35 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "michellefelt",
       "protected" : false,
       "id_str" : "32924315",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/719643140739571712\/SqThsnf3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/843540213460688896\/6tSWkrmt_normal.jpg",
       "id" : 32924315,
       "verified" : false
     }
   },
   "id" : 25436673200,
   "created_at" : "2010-09-24 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "25275070812",
+  "text" : "Le Tigre, Deceptacon = Some of my favorite lyrics ever. http:\/\/post.ly\/zGMC",
+  "id" : 25275070812,
+  "created_at" : "2010-09-23 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2016,7 +2038,7 @@ Grailbird.data.tweets_2010_09 =
       "id_str" : "818340",
       "id" : 818340
     }, {
-      "name" : "upserve",
+      "name" : "Swipely",
       "screen_name" : "swipely",
       "indices" : [ 71, 79 ],
       "id_str" : "706883857543516160",
@@ -2033,7 +2055,7 @@ Grailbird.data.tweets_2010_09 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "upserve",
+        "name" : "Swipely",
         "screen_name" : "swipely",
         "indices" : [ 56, 64 ],
         "id_str" : "706883857543516160",
@@ -2258,28 +2280,6 @@ Grailbird.data.tweets_2010_09 =
   "id_str" : "25273857753",
   "text" : "Interesting to me because I usually ignore the WSJ if NYT has a decent story on something.",
   "id" : 25273857753,
-  "created_at" : "2010-09-23 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "25275070812",
-  "text" : "Le Tigre, Deceptacon = Some of my favorite lyrics ever. http:\/\/post.ly\/zGMC",
-  "id" : 25275070812,
   "created_at" : "2010-09-23 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -2970,7 +2970,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Loic Le Meur",
+      "name" : "Loic Le Meur \uD83D\uDC13",
       "screen_name" : "loic",
       "indices" : [ 3, 8 ],
       "id_str" : "740983",
@@ -2997,7 +2997,7 @@ Grailbird.data.tweets_2010_09 =
     "id" : 24880979525,
     "created_at" : "2010-09-18 21:28:55 +0000",
     "user" : {
-      "name" : "Loic Le Meur",
+      "name" : "Loic Le Meur \uD83D\uDC13",
       "screen_name" : "loic",
       "protected" : false,
       "id_str" : "740983",
@@ -3212,6 +3212,31 @@ Grailbird.data.tweets_2010_09 =
   "text" : "I wonder how many of the 250,000 apps published or billions sold are classified as \"amateur hour\".",
   "id" : 24020573030,
   "created_at" : "2010-09-09 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "somethingswrong",
+      "indices" : [ 64, 80 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "23909530094",
+  "text" : "Wow. More Than A Feeling. High volume. 7:30am. .... on purpose. #somethingswrong",
+  "id" : 23909530094,
+  "created_at" : "2010-09-08 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3662,31 +3687,6 @@ Grailbird.data.tweets_2010_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "somethingswrong",
-      "indices" : [ 64, 80 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "23909530094",
-  "text" : "Wow. More Than A Feeling. High volume. 7:30am. .... on purpose. #somethingswrong",
-  "id" : 23909530094,
-  "created_at" : "2010-09-08 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -3743,7 +3743,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "jack",
       "protected" : false,
       "id_str" : "12",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/768529565966667776\/WScYY_cq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/839863609345794048\/mkpdB9Tf_normal.jpg",
       "id" : 12,
       "verified" : true
     }

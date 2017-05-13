@@ -1273,7 +1273,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "wcpdx",
       "protected" : false,
       "id_str" : "15926367",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/641394218791927808\/Q_7FIdRj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/857667238303744000\/y9KJLURZ_normal.jpg",
       "id" : 15926367,
       "verified" : false
     }
@@ -1580,7 +1580,7 @@ Grailbird.data.tweets_2013_05 =
       "id_str" : "22426104",
       "id" : 22426104
     }, {
-      "name" : "Matt Stiles (\uB9F7 \uC2A4\uD0C0\uC77C\uC2A4)",
+      "name" : "Matt Stiles",
       "screen_name" : "stiles",
       "indices" : [ 73, 80 ],
       "id_str" : "14790314",
@@ -3123,7 +3123,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Buster \uD83D\uDE40",
+      "name" : "Buster",
       "screen_name" : "buster",
       "indices" : [ 3, 10 ],
       "id_str" : "2185",
@@ -3172,11 +3172,11 @@ Grailbird.data.tweets_2013_05 =
     "id" : 336598972992995328,
     "created_at" : "2013-05-20 21:47:03 +0000",
     "user" : {
-      "name" : "Buster \uD83D\uDE40",
+      "name" : "Buster",
       "screen_name" : "buster",
       "protected" : false,
       "id_str" : "2185",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/819964221441994752\/qXAPW-M2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/863050963954810880\/LOCVdVoN_normal.jpg",
       "id" : 2185,
       "verified" : false
     }
@@ -3428,13 +3428,7 @@ Grailbird.data.tweets_2013_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "KANYE WEST",
-      "screen_name" : "kanyewest",
-      "indices" : [ 22, 32 ],
-      "id_str" : "169686021",
-      "id" : 169686021
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4753,7 +4747,7 @@ Grailbird.data.tweets_2013_05 =
       "id_str" : "21204689",
       "id" : 21204689
     }, {
-      "name" : "JIMprobablity",
+      "name" : "JIM & TONIC",
       "screen_name" : "JimDoran",
       "indices" : [ 27, 36 ],
       "id_str" : "10167712",
@@ -4770,7 +4764,7 @@ Grailbird.data.tweets_2013_05 =
     "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/pinterest\/id429047995?mt=8&uo=4\" rel=\"nofollow\"\u003EPinterest on iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "JIMprobablity",
+        "name" : "JIM & TONIC",
         "screen_name" : "JimDoran",
         "indices" : [ 8, 17 ],
         "id_str" : "10167712",
@@ -6433,7 +6427,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2665\uFE0E",
+      "name" : "Yuri Victor \u2665\uFE0E",
       "screen_name" : "yurivictor",
       "indices" : [ 3, 14 ],
       "id_str" : "5511932",
@@ -6460,11 +6454,11 @@ Grailbird.data.tweets_2013_05 =
     "id" : 331513333557653507,
     "created_at" : "2013-05-06 20:58:32 +0000",
     "user" : {
-      "name" : "\u2665\uFE0E",
+      "name" : "Yuri Victor \u2665\uFE0E",
       "screen_name" : "yurivictor",
       "protected" : false,
       "id_str" : "5511932",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838801525933752320\/qiO9kNXD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856522373146738688\/52vsWd6S_normal.jpg",
       "id" : 5511932,
       "verified" : true
     }
@@ -6728,7 +6722,7 @@ Grailbird.data.tweets_2013_05 =
       "screen_name" : "profsivek",
       "protected" : false,
       "id_str" : "34100766",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/822881905343275009\/NAiMj3F__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/851497050952744961\/y8bbB8b2_normal.jpg",
       "id" : 34100766,
       "verified" : false
     }

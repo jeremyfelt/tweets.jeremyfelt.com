@@ -4485,7 +4485,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scott Taylor",
+      "name" : "Scott Taylor \u26F5\uFE0F",
       "screen_name" : "wonderboymusic",
       "indices" : [ 3, 18 ],
       "id_str" : "15473031",
@@ -4512,7 +4512,7 @@ Grailbird.data.tweets_2012_11 =
     "id" : 266063711188426752,
     "created_at" : "2012-11-07 06:25:06 +0000",
     "user" : {
-      "name" : "Scott Taylor",
+      "name" : "Scott Taylor \u26F5\uFE0F",
       "screen_name" : "wonderboymusic",
       "protected" : false,
       "id_str" : "15473031",
@@ -4757,6 +4757,91 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Greg",
+      "screen_name" : "sarcasymptote",
+      "indices" : [ 3, 17 ],
+      "id_str" : "137008259",
+      "id" : 137008259
+    }, {
+      "name" : "Frank Noschese",
+      "screen_name" : "fnoschese",
+      "indices" : [ 94, 104 ],
+      "id_str" : "10357202",
+      "id" : 10357202
+    }, {
+      "name" : "Patrick Honner",
+      "screen_name" : "MrHonner",
+      "indices" : [ 105, 114 ],
+      "id_str" : "179308706",
+      "id" : 179308706
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 73, 93 ],
+      "url" : "http:\/\/t.co\/h18t6WKy",
+      "expanded_url" : "http:\/\/isnatesilverawitch.com\/",
+      "display_url" : "isnatesilverawitch.com"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "266041333125373952",
+  "text" : "RT @sarcasymptote: Uh-oh. Nate Silver witch predictor changed to \"maybe\" http:\/\/t.co\/h18t6WKy @fnoschese @MrHonner",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Frank Noschese",
+        "screen_name" : "fnoschese",
+        "indices" : [ 75, 85 ],
+        "id_str" : "10357202",
+        "id" : 10357202
+      }, {
+        "name" : "Patrick Honner",
+        "screen_name" : "MrHonner",
+        "indices" : [ 86, 95 ],
+        "id_str" : "179308706",
+        "id" : 179308706
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 54, 74 ],
+        "url" : "http:\/\/t.co\/h18t6WKy",
+        "expanded_url" : "http:\/\/isnatesilverawitch.com\/",
+        "display_url" : "isnatesilverawitch.com"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "266036635647496192",
+    "text" : "Uh-oh. Nate Silver witch predictor changed to \"maybe\" http:\/\/t.co\/h18t6WKy @fnoschese @MrHonner",
+    "id" : 266036635647496192,
+    "created_at" : "2012-11-07 04:37:31 +0000",
+    "user" : {
+      "name" : "Greg",
+      "screen_name" : "sarcasymptote",
+      "protected" : false,
+      "id_str" : "137008259",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/424583585488977920\/g5Dp1G2l_normal.jpeg",
+      "id" : 137008259,
+      "verified" : false
+    }
+  },
+  "id" : 266041333125373952,
+  "created_at" : "2012-11-07 04:56:11 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "Happy Andy Boyle",
       "screen_name" : "andymboyle",
       "indices" : [ 3, 14 ],
@@ -4805,6 +4890,792 @@ Grailbird.data.tweets_2012_11 =
   },
   "id" : 266039102749700096,
   "created_at" : "2012-11-07 04:47:19 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "John James Jacoby",
+      "screen_name" : "JJJ",
+      "indices" : [ 0, 4 ],
+      "id_str" : "15908706",
+      "id" : 15908706
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/jeremyfelt\/status\/266032731476082688\/photo\/1",
+      "indices" : [ 5, 25 ],
+      "url" : "http:\/\/t.co\/QsgA8yHC",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/A7EjXBpCQAMClyy.jpg",
+      "id_str" : "266032731476082691",
+      "id" : 266032731476082691,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A7EjXBpCQAMClyy.jpg",
+      "sizes" : [ {
+        "h" : 453,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 1280,
+        "resize" : "fit",
+        "w" : 960
+      }, {
+        "h" : 800,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1280,
+        "resize" : "fit",
+        "w" : 960
+      } ],
+      "display_url" : "pic.twitter.com\/QsgA8yHC"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "266031500187811842",
+  "geo" : { },
+  "id_str" : "266032731476082688",
+  "in_reply_to_user_id" : 15908706,
+  "text" : "@JJJ http:\/\/t.co\/QsgA8yHC",
+  "id" : 266032731476082688,
+  "in_reply_to_status_id" : 266031500187811842,
+  "created_at" : "2012-11-07 04:22:01 +0000",
+  "in_reply_to_screen_name" : "JJJ",
+  "in_reply_to_user_id_str" : "15908706",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Barack Obama",
+      "screen_name" : "BarackObama",
+      "indices" : [ 3, 15 ],
+      "id_str" : "813286",
+      "id" : 813286
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/BarackObama\/status\/266031293945503744\/photo\/1",
+      "indices" : [ 34, 54 ],
+      "url" : "http:\/\/t.co\/bAJE6Vom",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/A7EiDWcCYAAZT1D.jpg",
+      "id_str" : "266031293949698048",
+      "id" : 266031293949698048,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A7EiDWcCYAAZT1D.jpg",
+      "sizes" : [ {
+        "h" : 399,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 532,
+        "resize" : "fit",
+        "w" : 800
+      }, {
+        "h" : 226,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 532,
+        "resize" : "fit",
+        "w" : 800
+      } ],
+      "display_url" : "pic.twitter.com\/bAJE6Vom"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "266031655007969284",
+  "text" : "RT @BarackObama: Four more years. http:\/\/t.co\/bAJE6Vom",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/BarackObama\/status\/266031293945503744\/photo\/1",
+        "indices" : [ 17, 37 ],
+        "url" : "http:\/\/t.co\/bAJE6Vom",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/A7EiDWcCYAAZT1D.jpg",
+        "id_str" : "266031293949698048",
+        "id" : 266031293949698048,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A7EiDWcCYAAZT1D.jpg",
+        "sizes" : [ {
+          "h" : 399,
+          "resize" : "fit",
+          "w" : 600
+        }, {
+          "h" : 532,
+          "resize" : "fit",
+          "w" : 800
+        }, {
+          "h" : 226,
+          "resize" : "fit",
+          "w" : 340
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 532,
+          "resize" : "fit",
+          "w" : 800
+        } ],
+        "display_url" : "pic.twitter.com\/bAJE6Vom"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "266031293945503744",
+    "text" : "Four more years. http:\/\/t.co\/bAJE6Vom",
+    "id" : 266031293945503744,
+    "created_at" : "2012-11-07 04:16:18 +0000",
+    "user" : {
+      "name" : "Barack Obama",
+      "screen_name" : "BarackObama",
+      "protected" : false,
+      "id_str" : "813286",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/822547732376207360\/5g0FC8XX_normal.jpg",
+      "id" : 813286,
+      "verified" : true
+    }
+  },
+  "id" : 266031655007969284,
+  "created_at" : "2012-11-07 04:17:43 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Brian Boyer",
+      "screen_name" : "brianboyer",
+      "indices" : [ 3, 14 ],
+      "id_str" : "14570738",
+      "id" : 14570738
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 53, 73 ],
+      "url" : "http:\/\/t.co\/WjzuOGe1",
+      "expanded_url" : "http:\/\/election2012.npr.org\/",
+      "display_url" : "election2012.npr.org"
+    }, {
+      "indices" : [ 74, 94 ],
+      "url" : "http:\/\/t.co\/gqQB9VNy",
+      "expanded_url" : "http:\/\/yfrog.com\/obcumgp",
+      "display_url" : "yfrog.com\/obcumgp"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "266028345790181376",
+  "text" : "RT @brianboyer: PREDICTION MODE UNLOCKED. Play here: http:\/\/t.co\/WjzuOGe1 http:\/\/t.co\/gqQB9VNy",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/janetter.net\/\" rel=\"nofollow\"\u003EJanetter for Mac\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 37, 57 ],
+        "url" : "http:\/\/t.co\/WjzuOGe1",
+        "expanded_url" : "http:\/\/election2012.npr.org\/",
+        "display_url" : "election2012.npr.org"
+      }, {
+        "indices" : [ 58, 78 ],
+        "url" : "http:\/\/t.co\/gqQB9VNy",
+        "expanded_url" : "http:\/\/yfrog.com\/obcumgp",
+        "display_url" : "yfrog.com\/obcumgp"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "266028192400277505",
+    "text" : "PREDICTION MODE UNLOCKED. Play here: http:\/\/t.co\/WjzuOGe1 http:\/\/t.co\/gqQB9VNy",
+    "id" : 266028192400277505,
+    "created_at" : "2012-11-07 04:03:58 +0000",
+    "user" : {
+      "name" : "Brian Boyer",
+      "screen_name" : "brianboyer",
+      "protected" : false,
+      "id_str" : "14570738",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/795314693665685504\/zW_HWAip_normal.jpg",
+      "id" : 14570738,
+      "verified" : true
+    }
+  },
+  "id" : 266028345790181376,
+  "created_at" : "2012-11-07 04:04:34 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Helen \u4FAF-Sand\u00ED",
+      "screen_name" : "helenhousandi",
+      "indices" : [ 0, 14 ],
+      "id_str" : "21204689",
+      "id" : 21204689
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "266020687301459968",
+  "geo" : { },
+  "id_str" : "266021098326462464",
+  "in_reply_to_user_id" : 21204689,
+  "text" : "@helenhousandi Monoleftalignspaced?",
+  "id" : 266021098326462464,
+  "in_reply_to_status_id" : 266020687301459968,
+  "created_at" : "2012-11-07 03:35:46 +0000",
+  "in_reply_to_screen_name" : "helenhousandi",
+  "in_reply_to_user_id_str" : "21204689",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 101, 121 ],
+      "url" : "http:\/\/t.co\/1rlxQDWY",
+      "expanded_url" : "http:\/\/live.foxnews.com\/",
+      "display_url" : "live.foxnews.com"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "266015099758714880",
+  "text" : "Everybody should chip in and get Fox News some better laptop stickers to comfort them post election. http:\/\/t.co\/1rlxQDWY",
+  "id" : 266015099758714880,
+  "created_at" : "2012-11-07 03:11:56 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "266014468499202049",
+  "text" : "Awkward interactions between news personalities that obviously can't stand each other are amazing.",
+  "id" : 266014468499202049,
+  "created_at" : "2012-11-07 03:09:26 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "The New York Times",
+      "screen_name" : "nytimes",
+      "indices" : [ 4, 12 ],
+      "id_str" : "807095",
+      "id" : 807095
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "266008313446166528",
+  "text" : "And @nytimes 500s... and they're back!",
+  "id" : 266008313446166528,
+  "created_at" : "2012-11-07 02:44:58 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Christopher Groskopf",
+      "screen_name" : "onyxfish",
+      "indices" : [ 3, 12 ],
+      "id_str" : "32633517",
+      "id" : 32633517
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/onyxfish\/status\/266005523730685952\/photo\/1",
+      "indices" : [ 52, 72 ],
+      "url" : "http:\/\/t.co\/VfpuiXdI",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/A7EKnU6CYAAAFpn.jpg",
+      "id_str" : "266005523734880256",
+      "id" : 266005523734880256,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A7EKnU6CYAAAFpn.jpg",
+      "sizes" : [ {
+        "h" : 255,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 450,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 612,
+        "resize" : "fit",
+        "w" : 816
+      }, {
+        "h" : 612,
+        "resize" : "fit",
+        "w" : 816
+      } ],
+      "display_url" : "pic.twitter.com\/VfpuiXdI"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "266005831278014464",
+  "text" : "RT @onyxfish: NPR running an election. Mesmerizing. http:\/\/t.co\/VfpuiXdI",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/www.apple.com\" rel=\"nofollow\"\u003EPhotos on iOS\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/onyxfish\/status\/266005523730685952\/photo\/1",
+        "indices" : [ 38, 58 ],
+        "url" : "http:\/\/t.co\/VfpuiXdI",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/A7EKnU6CYAAAFpn.jpg",
+        "id_str" : "266005523734880256",
+        "id" : 266005523734880256,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A7EKnU6CYAAAFpn.jpg",
+        "sizes" : [ {
+          "h" : 255,
+          "resize" : "fit",
+          "w" : 340
+        }, {
+          "h" : 450,
+          "resize" : "fit",
+          "w" : 600
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 612,
+          "resize" : "fit",
+          "w" : 816
+        }, {
+          "h" : 612,
+          "resize" : "fit",
+          "w" : 816
+        } ],
+        "display_url" : "pic.twitter.com\/VfpuiXdI"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "266005523730685952",
+    "text" : "NPR running an election. Mesmerizing. http:\/\/t.co\/VfpuiXdI",
+    "id" : 266005523730685952,
+    "created_at" : "2012-11-07 02:33:54 +0000",
+    "user" : {
+      "name" : "Christopher Groskopf",
+      "screen_name" : "onyxfish",
+      "protected" : false,
+      "id_str" : "32633517",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2778403638\/4f499e3b117a65e0eb35e14069a29dfc_normal.png",
+      "id" : 32633517,
+      "verified" : false
+    }
+  },
+  "id" : 266005831278014464,
+  "created_at" : "2012-11-07 02:35:06 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "266000128580653057",
+  "text" : "Bill Nighy should be the hologram guy on BBC's stream.",
+  "id" : 266000128580653057,
+  "created_at" : "2012-11-07 02:12:27 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "265999075940368384",
+  "text" : "So much information, I can't keep up!",
+  "id" : 265999075940368384,
+  "created_at" : "2012-11-07 02:08:16 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 64, 84 ],
+      "url" : "http:\/\/t.co\/TKSY6R2X",
+      "expanded_url" : "http:\/\/www.economist.com\/conversation-cloud?days=1&section=electionism",
+      "display_url" : "economist.com\/conversation-c\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "265997813979152385",
+  "text" : "Weird, but strangely cool, tweet bubble cloud at The Economist. http:\/\/t.co\/TKSY6R2X",
+  "id" : 265997813979152385,
+  "created_at" : "2012-11-07 02:03:15 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Waldo Jaquith",
+      "screen_name" : "waldojaquith",
+      "indices" : [ 0, 13 ],
+      "id_str" : "206283535",
+      "id" : 206283535
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "265997330195558401",
+  "geo" : { },
+  "id_str" : "265997517135679488",
+  "in_reply_to_user_id" : 206283535,
+  "text" : "@waldojaquith BBC's live stream is calming.",
+  "id" : 265997517135679488,
+  "in_reply_to_status_id" : 265997330195558401,
+  "created_at" : "2012-11-07 02:02:04 +0000",
+  "in_reply_to_screen_name" : "waldojaquith",
+  "in_reply_to_user_id_str" : "206283535",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Eric Mann",
+      "screen_name" : "EricMann",
+      "indices" : [ 0, 9 ],
+      "id_str" : "14132756",
+      "id" : 14132756
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "265996372124254208",
+  "geo" : { },
+  "id_str" : "265997310859816960",
+  "in_reply_to_user_id" : 14132756,
+  "text" : "@EricMann NPR is using S3 \/ Cloudfront, NY Times is using nginx. Would love to see more code \/ DB structure behind it as well.",
+  "id" : 265997310859816960,
+  "in_reply_to_status_id" : 265996372124254208,
+  "created_at" : "2012-11-07 02:01:15 +0000",
+  "in_reply_to_screen_name" : "EricMann",
+  "in_reply_to_user_id_str" : "14132756",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Eric Mann",
+      "screen_name" : "EricMann",
+      "indices" : [ 0, 9 ],
+      "id_str" : "14132756",
+      "id" : 14132756
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 23, 43 ],
+      "url" : "http:\/\/t.co\/mZ8a6CzN",
+      "expanded_url" : "http:\/\/election2012.npr.org\/",
+      "display_url" : "election2012.npr.org"
+    }, {
+      "indices" : [ 48, 68 ],
+      "url" : "http:\/\/t.co\/T76hfT9Q",
+      "expanded_url" : "http:\/\/elections.nytimes.com\/2012\/results\/president",
+      "display_url" : "elections.nytimes.com\/2012\/results\/p\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "265996372124254208",
+  "geo" : { },
+  "id_str" : "265996921016053760",
+  "in_reply_to_user_id" : 14132756,
+  "text" : "@EricMann I'm watching http:\/\/t.co\/mZ8a6CzN and http:\/\/t.co\/T76hfT9Q primarily, but I'd be interested in any data for that level of traffic.",
+  "id" : 265996921016053760,
+  "in_reply_to_status_id" : 265996372124254208,
+  "created_at" : "2012-11-07 01:59:42 +0000",
+  "in_reply_to_screen_name" : "EricMann",
+  "in_reply_to_user_id_str" : "14132756",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "265995729896628224",
+  "text" : "I wonder how much I could figure out through headers.",
+  "id" : 265995729896628224,
+  "created_at" : "2012-11-07 01:54:58 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "265995430914048001",
+  "text" : "I would like to see blog posts detailing server architecture and dev platforms from each of the big election app sites.",
+  "id" : 265995430914048001,
+  "created_at" : "2012-11-07 01:53:47 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "265993881936613377",
+  "text" : "Somebody has the best live video feed and it's not ABC.",
+  "id" : 265993881936613377,
+  "created_at" : "2012-11-07 01:47:38 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Christopher Groskopf",
+      "screen_name" : "onyxfish",
+      "indices" : [ 30, 39 ],
+      "id_str" : "32633517",
+      "id" : 32633517
+    }, {
+      "name" : "Brian Boyer",
+      "screen_name" : "brianboyer",
+      "indices" : [ 40, 51 ],
+      "id_str" : "14570738",
+      "id" : 14570738
+    }, {
+      "name" : "Alyson Hurt",
+      "screen_name" : "alykat",
+      "indices" : [ 52, 59 ],
+      "id_str" : "6627892",
+      "id" : 6627892
+    }, {
+      "name" : "Jeremy Bowers",
+      "screen_name" : "jeremybowers",
+      "indices" : [ 73, 86 ],
+      "id_str" : "8083262",
+      "id" : 8083262
+    }, {
+      "name" : "hsunelson",
+      "screen_name" : "hsunelson",
+      "indices" : [ 87, 97 ],
+      "id_str" : "14603564",
+      "id" : 14603564
+    }, {
+      "name" : "Matt Stiles",
+      "screen_name" : "stiles",
+      "indices" : [ 98, 105 ],
+      "id_str" : "14790314",
+      "id" : 14790314
+    }, {
+      "name" : "NPR",
+      "screen_name" : "NPR",
+      "indices" : [ 106, 110 ],
+      "id_str" : "5392522",
+      "id" : 5392522
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 111, 131 ],
+      "url" : "http:\/\/t.co\/mZ8a6CzN",
+      "expanded_url" : "http:\/\/election2012.npr.org\/",
+      "display_url" : "election2012.npr.org"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "265986522912800768",
+  "geo" : { },
+  "id_str" : "265986973553020928",
+  "in_reply_to_user_id" : 32633517,
+  "text" : "Rephrase, bad ass builders == @onyxfish @brianboyer @alykat @petitchoudc @jeremybowers @hsunelson @stiles @NPR http:\/\/t.co\/mZ8a6CzN",
+  "id" : 265986973553020928,
+  "in_reply_to_status_id" : 265986522912800768,
+  "created_at" : "2012-11-07 01:20:10 +0000",
+  "in_reply_to_screen_name" : "onyxfish",
+  "in_reply_to_user_id_str" : "32633517",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5088,7 +5959,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "15808765",
       "id" : 15808765
     }, {
-      "name" : "Lee Daly",
+      "name" : "Death Cab 4 Cute Lee",
       "screen_name" : "leedalyire",
       "indices" : [ 115, 126 ],
       "id_str" : "186015269",
@@ -5105,7 +5976,7 @@ Grailbird.data.tweets_2012_11 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Lee Daly",
+        "name" : "Death Cab 4 Cute Lee",
         "screen_name" : "leedalyire",
         "indices" : [ 99, 110 ],
         "id_str" : "186015269",

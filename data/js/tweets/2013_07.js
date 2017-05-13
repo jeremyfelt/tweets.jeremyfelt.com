@@ -2143,7 +2143,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "272166936",
       "id" : 272166936
     }, {
-      "name" : "\u2665\uFE0E",
+      "name" : "Yuri Victor \u2665\uFE0E",
       "screen_name" : "yurivictor",
       "indices" : [ 17, 28 ],
       "id_str" : "5511932",
@@ -2253,7 +2253,7 @@ Grailbird.data.tweets_2013_07 =
     "source" : "\u003Ca href=\"http:\/\/www.apple.com\" rel=\"nofollow\"\u003EiOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u2665\uFE0E",
+        "name" : "Yuri Victor \u2665\uFE0E",
         "screen_name" : "yurivictor",
         "indices" : [ 122, 133 ],
         "id_str" : "5511932",
@@ -4020,21 +4020,10 @@ Grailbird.data.tweets_2013_07 =
       "indices" : [ 3, 16 ],
       "id_str" : "1614000547",
       "id" : 1614000547
-    }, {
-      "name" : "KANYE WEST",
-      "screen_name" : "kanyewest",
-      "indices" : [ 18, 28 ],
-      "id_str" : "169686021",
-      "id" : 169686021
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 45, 68 ],
-      "url" : "https:\/\/t.co\/rhEXbSlYhM",
-      "expanded_url" : "https:\/\/github.com\/blog\/kanye-west-joins-team",
-      "display_url" : "github.com\/blog\/kanye-wes\u2026"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "359481609247932417",
@@ -4042,13 +4031,7 @@ Grailbird.data.tweets_2013_07 =
   "retweeted_status" : {
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
-      "user_mentions" : [ {
-        "name" : "KANYE WEST",
-        "screen_name" : "kanyewest",
-        "indices" : [ 0, 10 ],
-        "id_str" : "169686021",
-        "id" : 169686021
-      } ],
+      "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ {
@@ -4060,12 +4043,9 @@ Grailbird.data.tweets_2013_07 =
     },
     "geo" : { },
     "id_str" : "359472606891618304",
-    "in_reply_to_user_id" : 169686021,
     "text" : "@kanyewest is a githubber! https:\/\/t.co\/rhEXbSlYhM",
     "id" : 359472606891618304,
     "created_at" : "2013-07-23 00:38:42 +0000",
-    "in_reply_to_screen_name" : "kanyewest",
-    "in_reply_to_user_id_str" : "169686021",
     "user" : {
       "name" : "Isa Githubber",
       "screen_name" : "isagithubber",
@@ -4154,7 +4134,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837523130683883520\/vWG_ymiD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847921823429914627\/gTnLvjkw_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -4428,7 +4408,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "ChipotleTweets",
       "protected" : false,
       "id_str" : "141341662",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/616043541815386112\/i7FxHNpE_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/851564006162571265\/eO8JmT1n_normal.jpg",
       "id" : 141341662,
       "verified" : true
     }
@@ -5463,7 +5443,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "335110427",
       "id" : 335110427
     }, {
-      "name" : "Weston Ruter \u26A1",
+      "name" : "Weston Ruter",
       "screen_name" : "westonruter",
       "indices" : [ 42, 54 ],
       "id_str" : "12887432",
@@ -5514,7 +5494,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "335110427",
       "id" : 335110427
     }, {
-      "name" : "Weston Ruter \u26A1",
+      "name" : "Weston Ruter",
       "screen_name" : "westonruter",
       "indices" : [ 93, 105 ],
       "id_str" : "12887432",
@@ -5739,7 +5719,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TWC Help",
+      "name" : "NEW: @Ask_Spectrum",
       "screen_name" : "TWC_Help",
       "indices" : [ 0, 9 ],
       "id_str" : "110782268",
@@ -5772,7 +5752,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TWC Help",
+      "name" : "NEW: @Ask_Spectrum",
       "screen_name" : "TWC_Help",
       "indices" : [ 10, 19 ],
       "id_str" : "110782268",
@@ -6038,7 +6018,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "10834752",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/575322862917001217\/QsEvFqX3_normal.jpeg",
       "id" : 10834752,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 356999475400675329,
@@ -8876,7 +8856,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Grant Mangham",
+      "name" : "Curmudgeon Grant",
       "screen_name" : "CurmudgeonGrant",
       "indices" : [ 0, 16 ],
       "id_str" : "176672734",
@@ -9294,7 +9274,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "22232652",
       "id" : 22232652
     }, {
-      "name" : "Ryan Frederick",
+      "name" : "Ryan",
       "screen_name" : "ry5n",
       "indices" : [ 44, 49 ],
       "id_str" : "156414348",
@@ -9316,7 +9296,7 @@ Grailbird.data.tweets_2013_07 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Ryan Frederick",
+        "name" : "Ryan",
         "screen_name" : "ry5n",
         "indices" : [ 30, 35 ],
         "id_str" : "156414348",
@@ -9408,7 +9388,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "wcpdx",
       "protected" : false,
       "id_str" : "15926367",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/641394218791927808\/Q_7FIdRj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/857667238303744000\/y9KJLURZ_normal.jpg",
       "id" : 15926367,
       "verified" : false
     }
@@ -10373,7 +10353,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "howardweaver",
       "protected" : false,
       "id_str" : "783837",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/820049238360887296\/8IkWozfQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844591415476740096\/SVFeCqcB_normal.jpg",
       "id" : 783837,
       "verified" : false
     }
@@ -10733,7 +10713,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "openculture",
       "protected" : false,
       "id_str" : "19826509",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/74425623\/open_culture_white_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/851645340830715904\/jrs1gcNM_normal.jpg",
       "id" : 19826509,
       "verified" : false
     }

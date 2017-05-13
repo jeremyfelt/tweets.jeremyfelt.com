@@ -346,7 +346,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "WCEurope",
       "protected" : false,
       "id_str" : "743301540",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/814890419888803840\/7FK3luXF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/839158758538424320\/7KQO4i3W_normal.jpg",
       "id" : 743301540,
       "verified" : false
     }
@@ -1598,79 +1598,6 @@ Grailbird.data.tweets_2015_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "L\u24D0rge SHA1 Collider",
-      "screen_name" : "stribika",
-      "indices" : [ 3, 12 ],
-      "id_str" : "2379415466",
-      "id" : 2379415466
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "NSA",
-      "indices" : [ 18, 22 ]
-    }, {
-      "text" : "OpenSSH",
-      "indices" : [ 25, 33 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 95, 118 ],
-      "url" : "https:\/\/t.co\/ZaxOZM0D1Q",
-      "expanded_url" : "https:\/\/www.spiegel.de\/media\/media-35663.pdf",
-      "display_url" : "spiegel.de\/media\/media-35\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "556867235696742400",
-  "text" : "RT @stribika: The #NSA's #OpenSSH backdoor: pubkey embedded in sshd binary allows root access.\nhttps:\/\/t.co\/ZaxOZM0D1Q",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "NSA",
-        "indices" : [ 4, 8 ]
-      }, {
-        "text" : "OpenSSH",
-        "indices" : [ 11, 19 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 81, 104 ],
-        "url" : "https:\/\/t.co\/ZaxOZM0D1Q",
-        "expanded_url" : "https:\/\/www.spiegel.de\/media\/media-35663.pdf",
-        "display_url" : "spiegel.de\/media\/media-35\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "556544640800026624",
-    "text" : "The #NSA's #OpenSSH backdoor: pubkey embedded in sshd binary allows root access.\nhttps:\/\/t.co\/ZaxOZM0D1Q",
-    "id" : 556544640800026624,
-    "created_at" : "2015-01-17 20:12:37 +0000",
-    "user" : {
-      "name" : "L\u24D0rge SHA1 Collider",
-      "screen_name" : "stribika",
-      "protected" : false,
-      "id_str" : "2379415466",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/551401394746298368\/y7wHlO_8_normal.png",
-      "id" : 2379415466,
-      "verified" : false
-    }
-  },
-  "id" : 556867235696742400,
-  "created_at" : "2015-01-18 17:34:29 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1721,7 +1648,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Weston Ruter \u26A1",
+      "name" : "Weston Ruter",
       "screen_name" : "westonruter",
       "indices" : [ 3, 15 ],
       "id_str" : "12887432",
@@ -1760,7 +1687,7 @@ Grailbird.data.tweets_2015_01 =
     "id" : 556330636345356288,
     "created_at" : "2015-01-17 06:02:14 +0000",
     "user" : {
-      "name" : "Weston Ruter \u26A1",
+      "name" : "Weston Ruter",
       "screen_name" : "westonruter",
       "protected" : false,
       "id_str" : "12887432",
@@ -2416,7 +2343,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "LetSleepingDougsLie",
+      "name" : "Temple of the Doug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -2518,7 +2445,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "LetSleepingDougsLie",
+      "name" : "Temple of the Doug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -2551,7 +2478,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "LetSleepingDougsLie",
+      "name" : "Temple of the Doug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -2584,7 +2511,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "LetSleepingDougsLie",
+      "name" : "Temple of the Doug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -2617,7 +2544,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "LetSleepingDougsLie",
+      "name" : "Temple of the Doug",
       "screen_name" : "zamoose",
       "indices" : [ 3, 11 ],
       "id_str" : "819148",
@@ -2654,7 +2581,7 @@ Grailbird.data.tweets_2015_01 =
     "id" : 555448941463232514,
     "created_at" : "2015-01-14 19:38:42 +0000",
     "user" : {
-      "name" : "LetSleepingDougsLie",
+      "name" : "Temple of the Doug",
       "screen_name" : "zamoose",
       "protected" : false,
       "id_str" : "819148",
@@ -2908,7 +2835,7 @@ Grailbird.data.tweets_2015_01 =
       "id_str" : "15149639",
       "id" : 15149639
     }, {
-      "name" : "John Blackbourn",
+      "name" : "John Blackbourn \uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "johnbillion",
       "indices" : [ 54, 66 ],
       "id_str" : "79053835",
@@ -3765,7 +3692,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "shokufeyesib",
       "protected" : false,
       "id_str" : "47175021",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/835021437702455296\/AZbdJ7NI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/850580407821193216\/rnb2lplZ_normal.jpg",
       "id" : 47175021,
       "verified" : false
     }
@@ -4432,7 +4359,7 @@ Grailbird.data.tweets_2015_01 =
       "id_str" : "4371541",
       "id" : 4371541
     }, {
-      "name" : "Joe Saunders",
+      "name" : "Mimsy Starr",
       "screen_name" : "JoeTheDough",
       "indices" : [ 32, 44 ],
       "id_str" : "13506",
@@ -4454,7 +4381,7 @@ Grailbird.data.tweets_2015_01 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Joe Saunders",
+        "name" : "Mimsy Starr",
         "screen_name" : "JoeTheDough",
         "indices" : [ 13, 25 ],
         "id_str" : "13506",
@@ -4532,7 +4459,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Mastracci",
+      "name" : "Matt Mastracci \uD83E\uDD14",
       "screen_name" : "mmastrac",
       "indices" : [ 0, 9 ],
       "id_str" : "16873352",
@@ -4917,7 +4844,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "tnash",
       "protected" : false,
       "id_str" : "14408283",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/580438545841655808\/CHpkcB5a_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842622422343913472\/XwIXPn23_normal.jpg",
       "id" : 14408283,
       "verified" : false
     }
@@ -5493,7 +5420,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "LetSleepingDougsLie",
+      "name" : "Temple of the Doug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -5556,7 +5483,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Caspar H\u00FCbinger",
+      "name" : "Caspar\u2615\uFE0FH\u00FCbinger",
       "screen_name" : "glueckpress",
       "indices" : [ 3, 15 ],
       "id_str" : "105553092",
@@ -5611,7 +5538,7 @@ Grailbird.data.tweets_2015_01 =
     "id" : 552084527955587072,
     "created_at" : "2015-01-05 12:49:43 +0000",
     "user" : {
-      "name" : "Caspar H\u00FCbinger",
+      "name" : "Caspar\u2615\uFE0FH\u00FCbinger",
       "screen_name" : "glueckpress",
       "protected" : false,
       "id_str" : "105553092",
@@ -5904,7 +5831,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "LetSleepingDougsLie",
+      "name" : "Temple of the Doug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -5942,7 +5869,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "LetSleepingDougsLie",
+      "name" : "Temple of the Doug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -6351,7 +6278,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "friends w\/ jennefits",
+      "name" : "jennjamin button",
       "screen_name" : "jennschiffer",
       "indices" : [ 3, 16 ],
       "id_str" : "12524622",
@@ -6388,7 +6315,7 @@ Grailbird.data.tweets_2015_01 =
     "id" : 551494731117494272,
     "created_at" : "2015-01-03 21:46:04 +0000",
     "user" : {
-      "name" : "friends w\/ jennefits",
+      "name" : "jennjamin button",
       "screen_name" : "jennschiffer",
       "protected" : false,
       "id_str" : "12524622",
@@ -7496,7 +7423,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2665\uFE0E",
+      "name" : "Yuri Victor \u2665\uFE0E",
       "screen_name" : "yurivictor",
       "indices" : [ 3, 14 ],
       "id_str" : "5511932",
@@ -7540,11 +7467,11 @@ Grailbird.data.tweets_2015_01 =
     "id" : 550756666523017216,
     "created_at" : "2015-01-01 20:53:16 +0000",
     "user" : {
-      "name" : "\u2665\uFE0E",
+      "name" : "Yuri Victor \u2665\uFE0E",
       "screen_name" : "yurivictor",
       "protected" : false,
       "id_str" : "5511932",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838801525933752320\/qiO9kNXD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856522373146738688\/52vsWd6S_normal.jpg",
       "id" : 5511932,
       "verified" : true
     }

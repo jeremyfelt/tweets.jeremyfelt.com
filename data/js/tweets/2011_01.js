@@ -148,7 +148,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arn-e-Lago",
+      "name" : "Arne Roomann-Kurrik",
       "screen_name" : "kurrik",
       "indices" : [ 45, 52 ],
       "id_str" : "7588892",
@@ -1627,7 +1627,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "jayrosen_nyu",
       "protected" : false,
       "id_str" : "14834340",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472914265737658368\/6o7dqE39_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/846771016147898372\/4njbzXG5_normal.jpg",
       "id" : 14834340,
       "verified" : true
     }
@@ -1873,7 +1873,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "KeithOlbermann",
       "protected" : false,
       "id_str" : "130617778",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/831400004271144960\/wsC4JV8G_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/862162489848602624\/qARllDim_normal.jpg",
       "id" : 130617778,
       "verified" : true
     }
@@ -2282,13 +2282,7 @@ Grailbird.data.tweets_2011_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "KANYE WEST",
-      "screen_name" : "kanyewest",
-      "indices" : [ 28, 38 ],
-      "id_str" : "169686021",
-      "id" : 169686021
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2510,7 +2504,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837523130683883520\/vWG_ymiD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847921823429914627\/gTnLvjkw_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -3344,7 +3338,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "JoseCanseco",
       "protected" : false,
       "id_str" : "19715003",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/764926434364096512\/FWuqDhF5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/846560213515710464\/1N5mRGWD_normal.jpg",
       "id" : 19715003,
       "verified" : true
     }
@@ -3915,7 +3909,7 @@ Grailbird.data.tweets_2011_01 =
       "id_str" : "858051",
       "id" : 858051
     }, {
-      "name" : "Chris Hogg",
+      "name" : "Chris Hogg \uD83D\uDDEF",
       "screen_name" : "chrishogg",
       "indices" : [ 49, 59 ],
       "id_str" : "15133427",
@@ -4966,7 +4960,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "Magnuson",
       "protected" : false,
       "id_str" : "14273705",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/813201746080055296\/ysXXK7Qr_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/852558716553613313\/XedG9xU6_normal.jpg",
       "id" : 14273705,
       "verified" : false
     }
@@ -5156,7 +5150,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "keachhagey",
       "protected" : false,
       "id_str" : "18080708",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1604893738\/WuerkerDrawing_normal.JPG",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/846835005674315776\/VMsA0POO_normal.jpg",
       "id" : 18080708,
       "verified" : true
     }
@@ -5739,7 +5733,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "howardweaver",
       "protected" : false,
       "id_str" : "783837",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/820049238360887296\/8IkWozfQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844591415476740096\/SVFeCqcB_normal.jpg",
       "id" : 783837,
       "verified" : false
     }
@@ -6101,7 +6095,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Mastracci",
+      "name" : "Matt Mastracci \uD83E\uDD14",
       "screen_name" : "mmastrac",
       "indices" : [ 3, 12 ],
       "id_str" : "16873352",
@@ -6128,7 +6122,7 @@ Grailbird.data.tweets_2011_01 =
     "id" : 22696252563005440,
     "created_at" : "2011-01-05 16:49:42 +0000",
     "user" : {
-      "name" : "Matt Mastracci",
+      "name" : "Matt Mastracci \uD83E\uDD14",
       "screen_name" : "mmastrac",
       "protected" : false,
       "id_str" : "16873352",
@@ -6384,7 +6378,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "howardweaver",
       "protected" : false,
       "id_str" : "783837",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/820049238360887296\/8IkWozfQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844591415476740096\/SVFeCqcB_normal.jpg",
       "id" : 783837,
       "verified" : false
     }
@@ -6500,7 +6494,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2697 Matt Terenzio",
+      "name" : "\uD83C\uDF31 Matt Terenzio",
       "screen_name" : "mterenzio",
       "indices" : [ 0, 10 ],
       "id_str" : "820002",
@@ -6659,7 +6653,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "neilgorman",
       "protected" : false,
       "id_str" : "721853",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000426766190\/a50c1703b24bc17a4ef8c3eeff3047d8_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856502618306359296\/fd1s18c4_normal.jpg",
       "id" : 721853,
       "verified" : false
     }

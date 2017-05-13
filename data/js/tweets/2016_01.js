@@ -675,7 +675,7 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "1218451",
       "id" : 1218451
     }, {
-      "name" : "Martin Goldie \uD83C\uDDEC\uD83C\uDDE7\uD83C\uDDE8\uD83C\uDDE6",
+      "name" : "Martin Goldie \uD83C\uDDEC\uD83C\uDDE7\uD83C\uDDE8\uD83C\uDDE6\uD83C\uDDEB\uD83C\uDDF7",
       "screen_name" : "MartinGoldie",
       "indices" : [ 91, 104 ],
       "id_str" : "14448632",
@@ -734,7 +734,7 @@ Grailbird.data.tweets_2016_01 =
         "id_str" : "1218451",
         "id" : 1218451
       }, {
-        "name" : "Martin Goldie \uD83C\uDDEC\uD83C\uDDE7\uD83C\uDDE8\uD83C\uDDE6",
+        "name" : "Martin Goldie \uD83C\uDDEC\uD83C\uDDE7\uD83C\uDDE8\uD83C\uDDE6\uD83C\uDDEB\uD83C\uDDF7",
         "screen_name" : "MartinGoldie",
         "indices" : [ 72, 85 ],
         "id_str" : "14448632",
@@ -816,7 +816,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Weston Ruter \u26A1",
+      "name" : "Weston Ruter",
       "screen_name" : "westonruter",
       "indices" : [ 0, 12 ],
       "id_str" : "12887432",
@@ -1105,7 +1105,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Blackbourn",
+      "name" : "John Blackbourn \uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "johnbillion",
       "indices" : [ 0, 12 ],
       "id_str" : "79053835",
@@ -2491,7 +2491,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "A Walkin' Dude",
+      "name" : "A Saunterin' Fella",
       "screen_name" : "craigmod",
       "indices" : [ 3, 12 ],
       "id_str" : "1835951",
@@ -2528,7 +2528,7 @@ Grailbird.data.tweets_2016_01 =
     "id" : 689685507228336128,
     "created_at" : "2016-01-20 05:46:53 +0000",
     "user" : {
-      "name" : "A Walkin' Dude",
+      "name" : "A Saunterin' Fella",
       "screen_name" : "craigmod",
       "protected" : false,
       "id_str" : "1835951",
@@ -2803,7 +2803,7 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "14707266",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/706982492855664640\/Ly2iiCAh_normal.jpg",
       "id" : 14707266,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 689181754133889025,
@@ -3079,7 +3079,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "LetSleepingDougsLie",
+      "name" : "Temple of the Doug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -3112,7 +3112,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "LetSleepingDougsLie",
+      "name" : "Temple of the Doug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -3750,7 +3750,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "JulieFroolie",
       "protected" : false,
       "id_str" : "319444606",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837784834516770820\/NTFmbgKp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/857248246560825345\/ptj6M6iL_normal.jpg",
       "id" : 319444606,
       "verified" : false
     }
@@ -3807,7 +3807,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837030712096116737\/_0wWAftL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/860701134733758465\/BdstzBvT_normal.jpg",
       "id" : 767,
       "verified" : true
     }
@@ -4201,57 +4201,6 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KANYE WEST",
-      "screen_name" : "kanyewest",
-      "indices" : [ 3, 13 ],
-      "id_str" : "169686021",
-      "id" : 169686021
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "686262725668818944",
-  "text" : "RT @kanyewest: I hope you have a nice weekend.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "685541699775414272",
-    "text" : "I hope you have a nice weekend.",
-    "id" : 685541699775414272,
-    "created_at" : "2016-01-08 19:20:52 +0000",
-    "user" : {
-      "name" : "KANYE WEST",
-      "screen_name" : "kanyewest",
-      "protected" : false,
-      "id_str" : "169686021",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/585565077207678977\/N_eNSBXi_normal.jpg",
-      "id" : 169686021,
-      "verified" : true
-    }
-  },
-  "id" : 686262725668818944,
-  "created_at" : "2016-01-10 19:05:58 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Norm Kelly",
       "screen_name" : "norm",
       "indices" : [ 3, 8 ],
@@ -4383,7 +4332,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "michellefelt",
       "protected" : false,
       "id_str" : "32924315",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/719643140739571712\/SqThsnf3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/843540213460688896\/6tSWkrmt_normal.jpg",
       "id" : 32924315,
       "verified" : false
     }
@@ -6721,7 +6670,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sharon Shalno",
+      "name" : "undefined NaN null",
       "screen_name" : "sharondio",
       "indices" : [ 3, 13 ],
       "id_str" : "5810742",
@@ -6808,11 +6757,11 @@ Grailbird.data.tweets_2016_01 =
     "id" : 676855973290577922,
     "created_at" : "2015-12-15 20:06:54 +0000",
     "user" : {
-      "name" : "Sharon Shalno",
+      "name" : "undefined NaN null",
       "screen_name" : "sharondio",
       "protected" : false,
       "id_str" : "5810742",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/725135351895842817\/q1mIhkyC_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/851526902917541888\/a38B3YFI_normal.jpg",
       "id" : 5810742,
       "verified" : false
     }

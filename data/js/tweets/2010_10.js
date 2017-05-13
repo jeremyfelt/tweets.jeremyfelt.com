@@ -258,7 +258,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "shellen",
       "protected" : false,
       "id_str" : "422",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/748239685999202305\/z9hCJpM4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/839855147815575552\/SpT8Vhuc_normal.jpg",
       "id" : 422,
       "verified" : true
     }
@@ -309,7 +309,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "tbogg",
       "protected" : false,
       "id_str" : "23365626",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/804396290155036672\/kwVmr7_h_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/857110326910889984\/NCR2mk-2_normal.jpg",
       "id" : 23365626,
       "verified" : false
     }
@@ -2926,7 +2926,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "tryphoon",
       "protected" : false,
       "id_str" : "2358511",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/480689088610045953\/g5SMM7cs_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/841433094372626432\/0yQR7fs2_normal.jpg",
       "id" : 2358511,
       "verified" : false
     }
@@ -3387,7 +3387,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837523130683883520\/vWG_ymiD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847921823429914627\/gTnLvjkw_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -4311,7 +4311,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2697 Matt Terenzio",
+      "name" : "\uD83C\uDF31 Matt Terenzio",
       "screen_name" : "mterenzio",
       "indices" : [ 0, 10 ],
       "id_str" : "820002",
@@ -4877,57 +4877,6 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Audrey Watters",
-      "screen_name" : "audreywatters",
-      "indices" : [ 3, 17 ],
-      "id_str" : "25388528",
-      "id" : 25388528
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "26376334819",
-  "text" : "RT @audreywatters: So for this whole Google TV thing, do I need, like, a TV?  Because meh.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "26376135966",
-    "text" : "So for this whole Google TV thing, do I need, like, a TV?  Because meh.",
-    "id" : 26376135966,
-    "created_at" : "2010-10-04 16:11:23 +0000",
-    "user" : {
-      "name" : "Audrey Watters",
-      "screen_name" : "audreywatters",
-      "protected" : false,
-      "id_str" : "25388528",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711668009723498496\/pauFZsdv_normal.jpg",
-      "id" : 25388528,
-      "verified" : false
-    }
-  },
-  "id" : 26376334819,
-  "created_at" : "2010-10-04 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -5006,13 +4955,7 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "KANYE WEST",
-      "screen_name" : "kanyewest",
-      "indices" : [ 5, 15 ],
-      "id_str" : "169686021",
-      "id" : 169686021
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

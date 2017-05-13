@@ -449,6 +449,37 @@ Grailbird.data.tweets_2009_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Dave Winer",
+      "screen_name" : "davewiner",
+      "indices" : [ 0, 10 ],
+      "id_str" : "3839",
+      "id" : 3839
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1963708003",
+  "in_reply_to_user_id" : 3839,
+  "text" : "@davewiner I keep on seeing twdsc.us as a Wave and it fits in my head. :)",
+  "id" : 1963708003,
+  "created_at" : "2009-05-29 00:00:00 +0000",
+  "in_reply_to_screen_name" : "davewiner",
+  "in_reply_to_user_id_str" : "3839",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "Neil Gorman",
       "screen_name" : "neilgorman",
       "indices" : [ 0, 11 ],
@@ -883,37 +914,6 @@ Grailbird.data.tweets_2009_05 =
   "text" : "For example, I just saw that our local High School was closing because of a gas leak. This from two local sources, fairly quickly.",
   "id" : 1962281711,
   "created_at" : "2009-05-29 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Dave Winer",
-      "screen_name" : "davewiner",
-      "indices" : [ 0, 10 ],
-      "id_str" : "3839",
-      "id" : 3839
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1963708003",
-  "in_reply_to_user_id" : 3839,
-  "text" : "@davewiner I keep on seeing twdsc.us as a Wave and it fits in my head. :)",
-  "id" : 1963708003,
-  "created_at" : "2009-05-29 00:00:00 +0000",
-  "in_reply_to_screen_name" : "davewiner",
-  "in_reply_to_user_id_str" : "3839",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1698,6 +1698,28 @@ Grailbird.data.tweets_2009_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1919058578",
+  "text" : "Twitter responds to the Hollywood rumors. http:\/\/bit.ly\/ZgFEE",
+  "id" : 1919058578,
+  "created_at" : "2009-05-26 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer",
       "screen_name" : "davewiner",
@@ -1878,28 +1900,6 @@ Grailbird.data.tweets_2009_05 =
   "id_str" : "1918707108",
   "text" : "Amazing Stuff - Nathan \"Flutebox\" Lee and Beardyman performing @Google, London http:\/\/bit.ly\/yf77f",
   "id" : 1918707108,
-  "created_at" : "2009-05-26 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1919058578",
-  "text" : "Twitter responds to the Hollywood rumors. http:\/\/bit.ly\/ZgFEE",
-  "id" : 1919058578,
   "created_at" : "2009-05-26 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -2831,6 +2831,28 @@ Grailbird.data.tweets_2009_05 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1821827817",
+  "text" : "TiltShiftGenerator (http:\/\/tr.im\/lypf) makes my photos look minature \tapparently. http:\/\/post.ly\/ZJ1",
+  "id" : 1821827817,
+  "created_at" : "2009-05-17 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -3029,28 +3051,6 @@ Grailbird.data.tweets_2009_05 =
   "id_str" : "1829932753",
   "text" : "Very cool nut cracker. http:\/\/post.ly\/ZoA",
   "id" : 1829932753,
-  "created_at" : "2009-05-17 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1821827817",
-  "text" : "TiltShiftGenerator (http:\/\/tr.im\/lypf) makes my photos look minature \tapparently. http:\/\/post.ly\/ZJ1",
-  "id" : 1821827817,
   "created_at" : "2009-05-17 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",

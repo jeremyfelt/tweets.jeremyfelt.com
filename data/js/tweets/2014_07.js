@@ -1404,7 +1404,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scott Taylor",
+      "name" : "Scott Taylor \u26F5\uFE0F",
       "screen_name" : "wonderboymusic",
       "indices" : [ 0, 15 ],
       "id_str" : "15473031",
@@ -2864,7 +2864,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Blackbourn",
+      "name" : "John Blackbourn \uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "johnbillion",
       "indices" : [ 0, 12 ],
       "id_str" : "79053835",
@@ -3766,7 +3766,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "LetSleepingDougsLie",
+      "name" : "Temple of the Doug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -3799,7 +3799,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "LetSleepingDougsLie",
+      "name" : "Temple of the Doug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -4350,7 +4350,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "Podolski10",
       "protected" : false,
       "id_str" : "19596687",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/780455396540616704\/h70j4Cfg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844595771458699264\/6KqglHKP_normal.jpg",
       "id" : 19596687,
       "verified" : true
     }
@@ -5505,7 +5505,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "richard mitchelson",
+      "name" : "Rich Mitch",
       "screen_name" : "rich_mitch",
       "indices" : [ 3, 14 ],
       "id_str" : "87984329",
@@ -5547,7 +5547,7 @@ Grailbird.data.tweets_2014_07 =
     "id" : 487254135696543744,
     "created_at" : "2014-07-10 15:16:53 +0000",
     "user" : {
-      "name" : "richard mitchelson",
+      "name" : "Rich Mitch",
       "screen_name" : "rich_mitch",
       "protected" : false,
       "id_str" : "87984329",
@@ -6676,7 +6676,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "LetSleepingDougsLie",
+      "name" : "Temple of the Doug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -7939,7 +7939,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "GoldenApples",
       "protected" : false,
       "id_str" : "15944998",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/540037761693016064\/qk7nBb09_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/854143384222449665\/cu7fnYqU_normal.jpg",
       "id" : 15944998,
       "verified" : false
     }
@@ -8071,7 +8071,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Weston Ruter \u26A1",
+      "name" : "Weston Ruter",
       "screen_name" : "westonruter",
       "indices" : [ 80, 92 ],
       "id_str" : "12887432",
@@ -8105,7 +8105,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scott Taylor",
+      "name" : "Scott Taylor \u26F5\uFE0F",
       "screen_name" : "wonderboymusic",
       "indices" : [ 78, 93 ],
       "id_str" : "15473031",
@@ -8355,7 +8355,7 @@ Grailbird.data.tweets_2014_07 =
       "id_str" : "16132641",
       "id" : 16132641
     }, {
-      "name" : "John Blackbourn",
+      "name" : "John Blackbourn \uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "johnbillion",
       "indices" : [ 58, 70 ],
       "id_str" : "79053835",
@@ -8397,7 +8397,7 @@ Grailbird.data.tweets_2014_07 =
       "id_str" : "16132641",
       "id" : 16132641
     }, {
-      "name" : "John Blackbourn",
+      "name" : "John Blackbourn \uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "johnbillion",
       "indices" : [ 127, 139 ],
       "id_str" : "79053835",
@@ -8530,7 +8530,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "michellefelt",
       "protected" : false,
       "id_str" : "32924315",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/719643140739571712\/SqThsnf3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/843540213460688896\/6tSWkrmt_normal.jpg",
       "id" : 32924315,
       "verified" : false
     }
@@ -8753,7 +8753,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "sportsmatters",
       "protected" : false,
       "id_str" : "22652339",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/711322497359200257\/6YkyYDaV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844063350187327488\/cD_66_wD_normal.jpg",
       "id" : 22652339,
       "verified" : false
     }

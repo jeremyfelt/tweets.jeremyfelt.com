@@ -1921,7 +1921,7 @@ Grailbird.data.tweets_2016_06 =
       "screen_name" : "fascinated",
       "protected" : false,
       "id_str" : "5803082",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/727498424086609920\/ZQQ0Ki8l_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/843345682144538626\/mZ3T2beb_normal.jpg",
       "id" : 5803082,
       "verified" : false
     }
@@ -2050,7 +2050,7 @@ Grailbird.data.tweets_2016_06 =
       "screen_name" : "WCEurope",
       "protected" : false,
       "id_str" : "743301540",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/814890419888803840\/7FK3luXF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/839158758538424320\/7KQO4i3W_normal.jpg",
       "id" : 743301540,
       "verified" : false
     }
@@ -3607,7 +3607,7 @@ Grailbird.data.tweets_2016_06 =
   "id_str" : "743662945444323328",
   "text" : "RT @JYSexton: Also, would Americans be more surprised or relieved if it turned out Trump was an Andy Kaufman long-con? Would the Internet d\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003EMobile Web (M5)\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3753,7 +3753,7 @@ Grailbird.data.tweets_2016_06 =
       "screen_name" : "michellefelt",
       "protected" : false,
       "id_str" : "32924315",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/719643140739571712\/SqThsnf3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/843540213460688896\/6tSWkrmt_normal.jpg",
       "id" : 32924315,
       "verified" : false
     }
@@ -4941,7 +4941,7 @@ Grailbird.data.tweets_2016_06 =
       "screen_name" : "miss_jwo",
       "protected" : false,
       "id_str" : "200519952",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/822371678520913921\/WV5iT0-p_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/839845252412358656\/PLSY74LG_normal.jpg",
       "id" : 200519952,
       "verified" : false
     }
@@ -5016,7 +5016,7 @@ Grailbird.data.tweets_2016_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steven Millward",
+      "name" : "Steven \/\\\\illward",
       "screen_name" : "SirSteven",
       "indices" : [ 3, 13 ],
       "id_str" : "23272457",
@@ -5043,11 +5043,11 @@ Grailbird.data.tweets_2016_06 =
     "id" : 742354404385431552,
     "created_at" : "2016-06-13 13:54:16 +0000",
     "user" : {
-      "name" : "Steven Millward",
+      "name" : "Steven \/\\\\illward",
       "screen_name" : "SirSteven",
       "protected" : false,
       "id_str" : "23272457",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/829320788398526465\/Bo4cpngq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/840231505959964672\/FhtTkwrz_normal.jpg",
       "id" : 23272457,
       "verified" : false
     }
@@ -5535,7 +5535,7 @@ Grailbird.data.tweets_2016_06 =
       "screen_name" : "nytimes",
       "protected" : false,
       "id_str" : "807095",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/758384037589348352\/KB3RFwFm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856562742563663872\/cl1sRx2G_normal.jpg",
       "id" : 807095,
       "verified" : true
     }
@@ -5597,7 +5597,7 @@ Grailbird.data.tweets_2016_06 =
       "screen_name" : "Patrick4ONT",
       "protected" : false,
       "id_str" : "1324619060",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/810148194185342976\/pimnlKml_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/841055823119896576\/27Q1vvzc_normal.jpg",
       "id" : 1324619060,
       "verified" : false
     }
@@ -6999,7 +6999,7 @@ Grailbird.data.tweets_2016_06 =
       "screen_name" : "Balvinsanity",
       "protected" : false,
       "id_str" : "792614610",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837926329978757120\/eE4sM3vZ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/861030771062001664\/pPFRceMQ_normal.jpg",
       "id" : 792614610,
       "verified" : false
     }
@@ -7225,7 +7225,7 @@ Grailbird.data.tweets_2016_06 =
       "screen_name" : "hopefulcyborg",
       "protected" : false,
       "id_str" : "58708498",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/821775677296955393\/rJnlBhhO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847187490997796865\/W1YQWwWi_normal.jpg",
       "id" : 58708498,
       "verified" : false
     }

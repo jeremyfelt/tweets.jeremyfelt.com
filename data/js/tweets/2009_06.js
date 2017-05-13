@@ -309,6 +309,28 @@ Grailbird.data.tweets_2009_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2255165680",
+  "text" : "Torrents to Iran election (protest\/revolution) videos. http:\/\/bit.ly\/6rm9K",
+  "id" : 2255165680,
+  "created_at" : "2009-06-20 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Golnoush Niknejad",
       "screen_name" : "TehranBureau",
@@ -1021,28 +1043,6 @@ Grailbird.data.tweets_2009_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2255165680",
-  "text" : "Torrents to Iran election (protest\/revolution) videos. http:\/\/bit.ly\/6rm9K",
-  "id" : 2255165680,
-  "created_at" : "2009-06-20 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -1606,6 +1606,28 @@ Grailbird.data.tweets_2009_06 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "2218151886",
+  "text" : "Baby Racoon - The Brave One http:\/\/post.ly\/sWR",
+  "id" : 2218151886,
+  "created_at" : "2009-06-18 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "2218167497",
   "text" : "Baby Racoon - The Scared One http:\/\/post.ly\/sWS",
   "id" : 2218167497,
@@ -2037,28 +2059,6 @@ Grailbird.data.tweets_2009_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2218151886",
-  "text" : "Baby Racoon - The Brave One http:\/\/post.ly\/sWR",
-  "id" : 2218151886,
-  "created_at" : "2009-06-18 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -2397,6 +2397,28 @@ Grailbird.data.tweets_2009_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2194060305",
+  "text" : "RT From Iran Government has even filtered URL shortening services like is.gd!! Shame on you dictators!",
+  "id" : 2194060305,
+  "created_at" : "2009-06-16 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Neil Gaiman",
       "screen_name" : "neilhimself",
@@ -2628,7 +2650,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Loic Le Meur",
+      "name" : "Loic Le Meur \uD83D\uDC13",
       "screen_name" : "loic",
       "indices" : [ 63, 68 ],
       "id_str" : "740983",
@@ -3148,16 +3170,25 @@ Grailbird.data.tweets_2009_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Iran News Now",
+      "screen_name" : "IranNewsNow",
+      "indices" : [ 3, 15 ],
+      "id_str" : "30825667",
+      "id" : 30825667
+    } ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "iranelection",
+      "indices" : [ 127, 140 ]
+    } ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "2194060305",
-  "text" : "RT From Iran Government has even filtered URL shortening services like is.gd!! Shame on you dictators!",
-  "id" : 2194060305,
-  "created_at" : "2009-06-16 00:00:00 +0000",
+  "id_str" : "2173218667",
+  "text" : "RT @IranNewsNow FB post: citizens in Tehran leaving front doors unlocked so demonstrators have place to hide when police come! #iranelection",
+  "id" : 2173218667,
+  "created_at" : "2009-06-15 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4250,37 +4281,6 @@ Grailbird.data.tweets_2009_06 =
   "id_str" : "2184881327",
   "text" : "Twitter and their hosting company are amazing! They rescheduled the maintenance for tomorrow afternoon.",
   "id" : 2184881327,
-  "created_at" : "2009-06-15 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Iran News Now",
-      "screen_name" : "IranNewsNow",
-      "indices" : [ 3, 15 ],
-      "id_str" : "30825667",
-      "id" : 30825667
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "iranelection",
-      "indices" : [ 127, 140 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2173218667",
-  "text" : "RT @IranNewsNow FB post: citizens in Tehran leaving front doors unlocked so demonstrators have place to hide when police come! #iranelection",
-  "id" : 2173218667,
   "created_at" : "2009-06-15 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -5509,6 +5509,28 @@ Grailbird.data.tweets_2009_06 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2138440528",
+  "text" : "Going to tusk for dinner. Second best thai place in town. Best peanut sauce though.",
+  "id" : 2138440528,
+  "created_at" : "2009-06-12 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -5811,28 +5833,6 @@ Grailbird.data.tweets_2009_06 =
   "id_str" : "2138414496",
   "text" : "Gin season is a good time of the year.",
   "id" : 2138414496,
-  "created_at" : "2009-06-12 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2138440528",
-  "text" : "Going to tusk for dinner. Second best thai place in town. Best peanut sauce though.",
-  "id" : 2138440528,
   "created_at" : "2009-06-12 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -6554,6 +6554,37 @@ Grailbird.data.tweets_2009_06 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "2070199431",
+  "in_reply_to_user_id" : 721853,
+  "text" : "@neilgorman Here's the beginner's guide. I haven't bothered to learn about it yet, but will have to soon. http:\/\/tr.im\/nJve",
+  "id" : 2070199431,
+  "created_at" : "2009-06-08 00:00:00 +0000",
+  "in_reply_to_screen_name" : "neilgorman",
+  "in_reply_to_user_id_str" : "721853",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Neil Gorman",
+      "screen_name" : "neilgorman",
+      "indices" : [ 0, 11 ],
+      "id_str" : "721853",
+      "id" : 721853
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "2070203875",
   "in_reply_to_user_id" : 721853,
   "text" : "@neilgorman Short version = easy way to authorize an app to use your twitter (or other) credentials without typing them in.",
@@ -6746,37 +6777,6 @@ Grailbird.data.tweets_2009_06 =
   "text" : "Testing oauth update. Should probably create a test twitter account for this. This will be the only test.",
   "id" : 2070172114,
   "created_at" : "2009-06-08 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Neil Gorman",
-      "screen_name" : "neilgorman",
-      "indices" : [ 0, 11 ],
-      "id_str" : "721853",
-      "id" : 721853
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2070199431",
-  "in_reply_to_user_id" : 721853,
-  "text" : "@neilgorman Here's the beginner's guide. I haven't bothered to learn about it yet, but will have to soon. http:\/\/tr.im\/nJve",
-  "id" : 2070199431,
-  "created_at" : "2009-06-08 00:00:00 +0000",
-  "in_reply_to_screen_name" : "neilgorman",
-  "in_reply_to_user_id_str" : "721853",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -7814,6 +7814,28 @@ Grailbird.data.tweets_2009_06 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "2007648736",
+  "text" : "I know they aren't the same because Kayak works in the latest dev release of Chrome, bing doesn't. But they look awfully close.",
+  "id" : 2007648736,
+  "created_at" : "2009-06-02 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "2007659485",
   "text" : "Not to say that flight search interface isn't smart, because it really is. http:\/\/tr.im\/ncMz",
   "id" : 2007659485,
@@ -8427,28 +8449,6 @@ Grailbird.data.tweets_2009_06 =
   "id_str" : "2007642487",
   "text" : "Does @bing have a deal with Kayak or are the interfaces just similar for the heck of it?",
   "id" : 2007642487,
-  "created_at" : "2009-06-02 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2007648736",
-  "text" : "I know they aren't the same because Kayak works in the latest dev release of Chrome, bing doesn't. But they look awfully close.",
-  "id" : 2007648736,
   "created_at" : "2009-06-02 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",

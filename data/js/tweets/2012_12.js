@@ -764,7 +764,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Mastracci",
+      "name" : "Matt Mastracci \uD83E\uDD14",
       "screen_name" : "mmastrac",
       "indices" : [ 0, 9 ],
       "id_str" : "16873352",
@@ -4433,13 +4433,7 @@ Grailbird.data.tweets_2012_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "David",
-      "screen_name" : "sadaton",
-      "indices" : [ 3, 11 ],
-      "id_str" : "16355757",
-      "id" : 16355757
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4462,10 +4456,10 @@ Grailbird.data.tweets_2012_12 =
     "created_at" : "2010-12-18 11:17:51 +0000",
     "user" : {
       "name" : "David",
-      "screen_name" : "sadaton",
+      "screen_name" : "its_dvd",
       "protected" : false,
       "id_str" : "16355757",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605938386033991681\/9QQq9QuX_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/843363995365007361\/CLJs2S9X_normal.jpg",
       "id" : 16355757,
       "verified" : false
     }
@@ -6353,7 +6347,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837030712096116737\/_0wWAftL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/860701134733758465\/BdstzBvT_normal.jpg",
       "id" : 767,
       "verified" : true
     }

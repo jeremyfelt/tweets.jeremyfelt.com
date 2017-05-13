@@ -3059,7 +3059,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "A Walkin' Dude",
+      "name" : "A Saunterin' Fella",
       "screen_name" : "craigmod",
       "indices" : [ 3, 12 ],
       "id_str" : "1835951",
@@ -3096,7 +3096,7 @@ Grailbird.data.tweets_2012_01 =
     "id" : 155898565074497536,
     "created_at" : "2012-01-08 06:28:09 +0000",
     "user" : {
-      "name" : "A Walkin' Dude",
+      "name" : "A Saunterin' Fella",
       "screen_name" : "craigmod",
       "protected" : false,
       "id_str" : "1835951",

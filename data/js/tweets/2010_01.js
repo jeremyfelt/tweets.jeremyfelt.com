@@ -8,6 +8,28 @@ Grailbird.data.tweets_2010_01 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "8482393515",
+  "text" : "Reverse DNS and SPF records good to go, but gmail still flags as spam. WTF. Is this a downside of Rackspace IPs?",
+  "id" : 8482393515,
+  "created_at" : "2010-02-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "8482478068",
   "text" : "Received-SPF: pass (google.com: domain of ...@....com designates 0.0.0.0 as permitted sender) ... flagged as spam. Hrm?",
   "id" : 8482478068,
@@ -160,28 +182,6 @@ Grailbird.data.tweets_2010_01 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "8482393515",
-  "text" : "Reverse DNS and SPF records good to go, but gmail still flags as spam. WTF. Is this a downside of Rackspace IPs?",
-  "id" : 8482393515,
-  "created_at" : "2010-02-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -216,7 +216,7 @@ Grailbird.data.tweets_2010_01 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837523130683883520\/vWG_ymiD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847921823429914627\/gTnLvjkw_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -586,7 +586,7 @@ Grailbird.data.tweets_2010_01 =
       "screen_name" : "lazycoder",
       "protected" : false,
       "id_str" : "697163",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/831535571356901376\/gXMa5dE6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/857668293817098240\/gq2sa32__normal.jpg",
       "id" : 697163,
       "verified" : false
     }
@@ -984,7 +984,7 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Self-mde man",
+      "name" : "Matthew Eernisse",
       "screen_name" : "mde",
       "indices" : [ 3, 7 ],
       "id_str" : "778332",
@@ -1023,13 +1023,13 @@ Grailbird.data.tweets_2010_01 =
     "id" : 7970335419,
     "created_at" : "2010-01-20 02:26:18 +0000",
     "user" : {
-      "name" : "Self-mde man",
+      "name" : "Matthew Eernisse",
       "screen_name" : "mde",
       "protected" : false,
       "id_str" : "778332",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/523642830401445889\/bYdpUSaW_normal.jpeg",
       "id" : 778332,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 7976182506,
@@ -1116,7 +1116,7 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Loic Le Meur",
+      "name" : "Loic Le Meur \uD83D\uDC13",
       "screen_name" : "loic",
       "indices" : [ 0, 5 ],
       "id_str" : "740983",
@@ -1383,7 +1383,7 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2697 Matt Terenzio",
+      "name" : "\uD83C\uDF31 Matt Terenzio",
       "screen_name" : "mterenzio",
       "indices" : [ 3, 13 ],
       "id_str" : "820002",
@@ -1410,7 +1410,7 @@ Grailbird.data.tweets_2010_01 =
     "id" : 7831819815,
     "created_at" : "2010-01-16 16:55:04 +0000",
     "user" : {
-      "name" : "\u2697 Matt Terenzio",
+      "name" : "\uD83C\uDF31 Matt Terenzio",
       "screen_name" : "mterenzio",
       "protected" : false,
       "id_str" : "820002",
@@ -1547,7 +1547,7 @@ Grailbird.data.tweets_2010_01 =
       "screen_name" : "jack",
       "protected" : false,
       "id_str" : "12",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/768529565966667776\/WScYY_cq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/839863609345794048\/mkpdB9Tf_normal.jpg",
       "id" : 12,
       "verified" : true
     }
@@ -1658,7 +1658,7 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Loic Le Meur",
+      "name" : "Loic Le Meur \uD83D\uDC13",
       "screen_name" : "loic",
       "indices" : [ 8, 13 ],
       "id_str" : "740983",
@@ -1678,6 +1678,34 @@ Grailbird.data.tweets_2010_01 =
   "created_at" : "2010-01-15 00:00:00 +0000",
   "in_reply_to_screen_name" : "loic",
   "in_reply_to_user_id_str" : "740983",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "American Red Cross",
+      "screen_name" : "RedCross",
+      "indices" : [ 40, 49 ],
+      "id_str" : "6519522",
+      "id" : 6519522
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "7763208396",
+  "text" : "Wow! $4 mill raised in last 36 hours by @redcross SMS alone tops all charity's TOTAL mobile text donations from 2009.  http:\/\/bit.ly\/7nrqIs",
+  "id" : 7763208396,
+  "created_at" : "2010-01-14 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1858,7 +1886,7 @@ Grailbird.data.tweets_2010_01 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837523130683883520\/vWG_ymiD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847921823429914627\/gTnLvjkw_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -1960,7 +1988,7 @@ Grailbird.data.tweets_2010_01 =
       "screen_name" : "wyclef",
       "protected" : false,
       "id_str" : "20659839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/821260638282514432\/Yc-SJbdD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/855443926563663877\/7fJPzNr3_normal.jpg",
       "id" : 20659839,
       "verified" : true
     }
@@ -2186,40 +2214,12 @@ Grailbird.data.tweets_2010_01 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837523130683883520\/vWG_ymiD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847921823429914627\/gTnLvjkw_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
   },
   "id" : 7760464141,
-  "created_at" : "2010-01-14 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "American Red Cross",
-      "screen_name" : "RedCross",
-      "indices" : [ 40, 49 ],
-      "id_str" : "6519522",
-      "id" : 6519522
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "7763208396",
-  "text" : "Wow! $4 mill raised in last 36 hours by @redcross SMS alone tops all charity's TOTAL mobile text donations from 2009.  http:\/\/bit.ly\/7nrqIs",
-  "id" : 7763208396,
   "created_at" : "2010-01-14 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -2265,7 +2265,7 @@ Grailbird.data.tweets_2010_01 =
       "screen_name" : "obrien",
       "protected" : false,
       "id_str" : "10952962",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/826468758436925444\/qpuZKVNv_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842322516710445061\/JkP7BPdN_normal.jpg",
       "id" : 10952962,
       "verified" : true
     }
@@ -3148,7 +3148,7 @@ Grailbird.data.tweets_2010_01 =
       "id_str" : "2678027538",
       "id" : 2678027538
     }, {
-      "name" : "Loic Le Meur",
+      "name" : "Loic Le Meur \uD83D\uDC13",
       "screen_name" : "loic",
       "indices" : [ 57, 62 ],
       "id_str" : "740983",

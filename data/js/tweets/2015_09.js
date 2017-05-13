@@ -1037,7 +1037,7 @@ Grailbird.data.tweets_2015_09 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "John Blackbourn",
+        "name" : "John Blackbourn \uD83C\uDDEA\uD83C\uDDFA",
         "screen_name" : "johnbillion",
         "indices" : [ 121, 133 ],
         "id_str" : "79053835",
@@ -1842,7 +1842,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "free computer shirts",
+      "name" : "computer sweater",
       "screen_name" : "streetlamp",
       "indices" : [ 0, 11 ],
       "id_str" : "15808208",
@@ -1875,7 +1875,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "free computer shirts",
+      "name" : "computer sweater",
       "screen_name" : "streetlamp",
       "indices" : [ 0, 11 ],
       "id_str" : "15808208",
@@ -1908,7 +1908,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "computers as shirts",
+      "name" : "computer sweater",
       "screen_name" : "streetlamp",
       "indices" : [ 0, 11 ],
       "id_str" : "15808208",
@@ -1941,7 +1941,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "free computer shirts",
+      "name" : "computer sweater",
       "screen_name" : "streetlamp",
       "indices" : [ 0, 11 ],
       "id_str" : "15808208",
@@ -2496,8 +2496,8 @@ Grailbird.data.tweets_2015_09 =
       "name" : "Wes Koop",
       "screen_name" : "weskoop",
       "indices" : [ 0, 8 ],
-      "id_str" : "718180969300119552",
-      "id" : 718180969300119552
+      "id_str" : "12424882",
+      "id" : 12424882
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2511,7 +2511,7 @@ Grailbird.data.tweets_2015_09 =
   "id" : 643605367880978432,
   "in_reply_to_status_id" : 643598110674026497,
   "created_at" : "2015-09-15 02:00:51 +0000",
-  "in_reply_to_screen_name" : "HARGOW_PARTY",
+  "in_reply_to_screen_name" : "weskoop",
   "in_reply_to_user_id_str" : "12424882",
   "user" : {
     "name" : "Jeremy Felt",
@@ -2930,7 +2930,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "SamGrittner",
       "protected" : false,
       "id_str" : "24272129",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/824865257692688385\/9DU8Z7HA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/859098740350758912\/3HVYY3kz_normal.jpg",
       "id" : 24272129,
       "verified" : false
     }
@@ -3233,67 +3233,6 @@ Grailbird.data.tweets_2015_09 =
   },
   "id" : 642503943596052480,
   "created_at" : "2015-09-12 01:04:11 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Barry Kooij",
-      "screen_name" : "cageNL",
-      "indices" : [ 3, 10 ],
-      "id_str" : "96591347",
-      "id" : 96591347
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 56, 78 ],
-      "url" : "http:\/\/t.co\/gCoUCx5Kzz",
-      "expanded_url" : "http:\/\/www.barrykooij.com\/wordpress-notification-manager\/",
-      "display_url" : "barrykooij.com\/wordpress-noti\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "642338590161137665",
-  "text" : "RT @cageNL: New Plugin: WordPress Notification Center!\n\nhttp:\/\/t.co\/gCoUCx5Kzz",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 44, 66 ],
-        "url" : "http:\/\/t.co\/gCoUCx5Kzz",
-        "expanded_url" : "http:\/\/www.barrykooij.com\/wordpress-notification-manager\/",
-        "display_url" : "barrykooij.com\/wordpress-noti\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "642315207432400896",
-    "text" : "New Plugin: WordPress Notification Center!\n\nhttp:\/\/t.co\/gCoUCx5Kzz",
-    "id" : 642315207432400896,
-    "created_at" : "2015-09-11 12:34:13 +0000",
-    "user" : {
-      "name" : "Barry Kooij",
-      "screen_name" : "cageNL",
-      "protected" : false,
-      "id_str" : "96591347",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/789478909083586561\/QB61B_A0_normal.jpg",
-      "id" : 96591347,
-      "verified" : false
-    }
-  },
-  "id" : 642338590161137665,
-  "created_at" : "2015-09-11 14:07:08 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4977,7 +4916,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Grant Mangham",
+      "name" : "Curmudgeon Grant",
       "screen_name" : "CurmudgeonGrant",
       "indices" : [ 0, 16 ],
       "id_str" : "176672734",
@@ -6028,7 +5967,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Blackbourn",
+      "name" : "John Blackbourn \uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "johnbillion",
       "indices" : [ 3, 15 ],
       "id_str" : "79053835",
@@ -6115,7 +6054,7 @@ Grailbird.data.tweets_2015_09 =
     "id" : 639010543836205056,
     "created_at" : "2015-09-02 09:42:40 +0000",
     "user" : {
-      "name" : "John Blackbourn",
+      "name" : "John Blackbourn \uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "johnbillion",
       "protected" : false,
       "id_str" : "79053835",

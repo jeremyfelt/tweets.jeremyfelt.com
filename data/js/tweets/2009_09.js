@@ -168,6 +168,37 @@ Grailbird.data.tweets_2009_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "\uD83C\uDF31 Matt Terenzio",
+      "screen_name" : "mterenzio",
+      "indices" : [ 0, 10 ],
+      "id_str" : "820002",
+      "id" : 820002
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "4485758006",
+  "in_reply_to_user_id" : 820002,
+  "text" : "@mterenzio Of course! He continues to amaze me and I think always will.",
+  "id" : 4485758006,
+  "created_at" : "2009-09-30 00:00:00 +0000",
+  "in_reply_to_screen_name" : "mterenzio",
+  "in_reply_to_user_id_str" : "820002",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -329,7 +360,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Mastracci",
+      "name" : "Matt Mastracci \uD83E\uDD14",
       "screen_name" : "mmastrac",
       "indices" : [ 0, 9 ],
       "id_str" : "16873352",
@@ -384,7 +415,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Loic Le Meur",
+      "name" : "Loic Le Meur \uD83D\uDC13",
       "screen_name" : "loic",
       "indices" : [ 0, 5 ],
       "id_str" : "740983",
@@ -521,37 +552,6 @@ Grailbird.data.tweets_2009_09 =
   "text" : "Hmm, looks like my Wave App is still up and running. It is useless. SHOUTS back what you speak. :) jeremy-wave@appspot.com",
   "id" : 4506562844,
   "created_at" : "2009-09-30 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u2697 Matt Terenzio",
-      "screen_name" : "mterenzio",
-      "indices" : [ 0, 10 ],
-      "id_str" : "820002",
-      "id" : 820002
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "4485758006",
-  "in_reply_to_user_id" : 820002,
-  "text" : "@mterenzio Of course! He continues to amaze me and I think always will.",
-  "id" : 4485758006,
-  "created_at" : "2009-09-30 00:00:00 +0000",
-  "in_reply_to_screen_name" : "mterenzio",
-  "in_reply_to_user_id_str" : "820002",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -818,7 +818,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2697 Matt Terenzio",
+      "name" : "\uD83C\uDF31 Matt Terenzio",
       "screen_name" : "mterenzio",
       "indices" : [ 0, 10 ],
       "id_str" : "820002",
@@ -855,7 +855,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2697 Matt Terenzio",
+      "name" : "\uD83C\uDF31 Matt Terenzio",
       "screen_name" : "mterenzio",
       "indices" : [ 0, 10 ],
       "id_str" : "820002",
@@ -908,7 +908,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2697 Matt Terenzio",
+      "name" : "\uD83C\uDF31 Matt Terenzio",
       "screen_name" : "mterenzio",
       "indices" : [ 0, 10 ],
       "id_str" : "820002",
@@ -1064,7 +1064,7 @@ Grailbird.data.tweets_2009_09 =
       "id_str" : "5485192",
       "id" : 5485192
     }, {
-      "name" : "Matt Mastracci",
+      "name" : "Matt Mastracci \uD83E\uDD14",
       "screen_name" : "mmastrac",
       "indices" : [ 14, 23 ],
       "id_str" : "16873352",
@@ -1496,7 +1496,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Mastracci",
+      "name" : "Matt Mastracci \uD83E\uDD14",
       "screen_name" : "mmastrac",
       "indices" : [ 0, 9 ],
       "id_str" : "16873352",
@@ -1586,6 +1586,37 @@ Grailbird.data.tweets_2009_09 =
   "text" : "Its all right. Not as good as standard guiness though.",
   "id" : 4354736152,
   "created_at" : "2009-09-24 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Google Reader",
+      "screen_name" : "googlereader",
+      "indices" : [ 0, 13 ],
+      "id_str" : "19002481",
+      "id" : 19002481
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "4304730196",
+  "in_reply_to_user_id" : 19002481,
+  "text" : "@googlereader has an idea site up. Somewhere else to ask about sending the title parameter with shared notes and \"send to\" http:\/\/tr.im\/zsr9",
+  "id" : 4304730196,
+  "created_at" : "2009-09-23 00:00:00 +0000",
+  "in_reply_to_screen_name" : "googlereader",
+  "in_reply_to_user_id_str" : "19002481",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1834,37 +1865,6 @@ Grailbird.data.tweets_2009_09 =
   "text" : "Someday the trends will come from places outside Twitter, and their API will already be there.",
   "id" : 4302373785,
   "created_at" : "2009-09-23 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Google Reader",
-      "screen_name" : "googlereader",
-      "indices" : [ 0, 13 ],
-      "id_str" : "19002481",
-      "id" : 19002481
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "4304730196",
-  "in_reply_to_user_id" : 19002481,
-  "text" : "@googlereader has an idea site up. Somewhere else to ask about sending the title parameter with shared notes and \"send to\" http:\/\/tr.im\/zsr9",
-  "id" : 4304730196,
-  "created_at" : "2009-09-23 00:00:00 +0000",
-  "in_reply_to_screen_name" : "googlereader",
-  "in_reply_to_user_id_str" : "19002481",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2636,6 +2636,28 @@ Grailbird.data.tweets_2009_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "4096344666",
+  "text" : "The beauty of it all is that I don't even draw enough to have a closed beta. Which means one less thing to worry about.",
+  "id" : 4096344666,
+  "created_at" : "2009-09-19 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Jesse Stay",
       "screen_name" : "Jesse",
@@ -3172,28 +3194,6 @@ Grailbird.data.tweets_2009_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "4096344666",
-  "text" : "The beauty of it all is that I don't even draw enough to have a closed beta. Which means one less thing to worry about.",
-  "id" : 4096344666,
-  "created_at" : "2009-09-19 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ {
       "name" : "Atul Arora",
       "screen_name" : "atul",
@@ -3460,7 +3460,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Mastracci",
+      "name" : "Matt Mastracci \uD83E\uDD14",
       "screen_name" : "mmastrac",
       "indices" : [ 30, 39 ],
       "id_str" : "16873352",
@@ -4044,6 +4044,28 @@ Grailbird.data.tweets_2009_09 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "3830830282",
+  "text" : "I know I'm small fish, so no hard feelings, but I was live 2 wks before the \"1st Independent RSS Aggregator\" supported RSSCloud. http:\/\/ ...",
+  "id" : 3830830282,
+  "created_at" : "2009-09-08 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "3830868658",
   "text" : "08\/19 was multi-user day. :) And I've learned something every day since. http:\/\/tr.im\/wJJ7",
   "id" : 3830868658,
@@ -4472,28 +4494,6 @@ Grailbird.data.tweets_2009_09 =
   "id_str" : "3830211567",
   "text" : "It's All Happening [Educer] http:\/\/tr.im\/y7K6",
   "id" : 3830211567,
-  "created_at" : "2009-09-08 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "3830830282",
-  "text" : "I know I'm small fish, so no hard feelings, but I was live 2 wks before the \"1st Independent RSS Aggregator\" supported RSSCloud. http:\/\/ ...",
-  "id" : 3830830282,
   "created_at" : "2009-09-08 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -5105,7 +5105,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2697 Matt Terenzio",
+      "name" : "\uD83C\uDF31 Matt Terenzio",
       "screen_name" : "mterenzio",
       "indices" : [ 16, 26 ],
       "id_str" : "820002",
@@ -5296,6 +5296,28 @@ Grailbird.data.tweets_2009_09 =
   "text" : "Cool, my wordpress plugin was just \"approved\", should have access to the SVN to upload in an hour or so.",
   "id" : 3787649661,
   "created_at" : "2009-09-05 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "3750104171",
+  "text" : "Sometimes I don't know if the problem is me (tired) or GoDaddy (what php.ini?). Time to move so I at least have complete (tired) control.",
+  "id" : 3750104171,
+  "created_at" : "2009-09-04 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5514,28 +5536,6 @@ Grailbird.data.tweets_2009_09 =
   "id_str" : "3766330689",
   "text" : "RT @davewiner If the loosely-coupled 140-char network bootstrap works, this development will be a major turning point. http:\/\/c.oy.ly\/tpeg",
   "id" : 3766330689,
-  "created_at" : "2009-09-04 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "3750104171",
-  "text" : "Sometimes I don't know if the problem is me (tired) or GoDaddy (what php.ini?). Time to move so I at least have complete (tired) control.",
-  "id" : 3750104171,
   "created_at" : "2009-09-04 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",

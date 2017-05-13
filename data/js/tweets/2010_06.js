@@ -552,50 +552,6 @@ Grailbird.data.tweets_2010_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17289651975",
-  "text" : "Dos Dos Equis",
-  "id" : 17289651975,
-  "created_at" : "2010-06-28 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17275860164",
-  "text" : "Amazing how many words can be written in one day around a 101 character rumor.",
-  "id" : 17275860164,
-  "created_at" : "2010-06-28 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -636,6 +592,50 @@ Grailbird.data.tweets_2010_06 =
     }
   },
   "id" : 17283813904,
+  "created_at" : "2010-06-28 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17289651975",
+  "text" : "Dos Dos Equis",
+  "id" : 17289651975,
+  "created_at" : "2010-06-28 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "17275860164",
+  "text" : "Amazing how many words can be written in one day around a 101 character rumor.",
+  "id" : 17275860164,
   "created_at" : "2010-06-28 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -1258,7 +1258,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "shellen",
       "protected" : false,
       "id_str" : "422",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/748239685999202305\/z9hCJpM4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/839855147815575552\/SpT8Vhuc_normal.jpg",
       "id" : 422,
       "verified" : true
     }
@@ -2208,6 +2208,28 @@ Grailbird.data.tweets_2010_06 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "16869926593",
+  "text" : "The Isner vs Mahut match is the type of thing you imagine as a kid when you first learn the rules to tennis. It could go on forever? Sweet.",
+  "id" : 16869926593,
+  "created_at" : "2010-06-23 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "16821957176",
   "text" : "Spain to reopen access to prehistoric cave paintings http:\/\/bit.ly\/avgsnv",
   "id" : 16821957176,
@@ -2233,28 +2255,6 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "16869576349",
   "text" : "Longest match ever, still in progress - \"Wimbledon Live: Isner and Mahut in Epic Marathon\" http:\/\/nyti.ms\/bP3Nwe",
   "id" : 16869576349,
-  "created_at" : "2010-06-23 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "16869926593",
-  "text" : "The Isner vs Mahut match is the type of thing you imagine as a kid when you first learn the rules to tennis. It could go on forever? Sweet.",
-  "id" : 16869926593,
   "created_at" : "2010-06-23 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -2704,7 +2704,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "Chanders",
       "protected" : false,
       "id_str" : "14245341",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/824436067650543616\/TcdFdNHI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847200293313945601\/yIVyzL68_normal.jpg",
       "id" : 14245341,
       "verified" : false
     }
@@ -2941,7 +2941,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837523130683883520\/vWG_ymiD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847921823429914627\/gTnLvjkw_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -2992,7 +2992,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837523130683883520\/vWG_ymiD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847921823429914627\/gTnLvjkw_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -3527,7 +3527,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "neilgorman",
       "protected" : false,
       "id_str" : "721853",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000426766190\/a50c1703b24bc17a4ef8c3eeff3047d8_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856502618306359296\/fd1s18c4_normal.jpg",
       "id" : 721853,
       "verified" : false
     }
@@ -3701,6 +3701,31 @@ Grailbird.data.tweets_2010_06 =
   },
   "id" : 15887967431,
   "created_at" : "2010-06-10 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "geekhumor",
+      "indices" : [ 125, 135 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "15755664341",
+  "text" : "Pending reality, I can push 14342 chars via 7 URLs of 2048 chars in 1 tweet and get a 139 char 7 \"t.co\" URL tweet in return. #geekhumor",
+  "id" : 15755664341,
+  "created_at" : "2010-06-09 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3960,31 +3985,6 @@ Grailbird.data.tweets_2010_06 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "geekhumor",
-      "indices" : [ 125, 135 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "15755664341",
-  "text" : "Pending reality, I can push 14342 chars via 7 URLs of 2048 chars in 1 tweet and get a 139 char 7 \"t.co\" URL tweet in return. #geekhumor",
-  "id" : 15755664341,
-  "created_at" : "2010-06-09 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
@@ -4006,7 +4006,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "A Walkin' Dude",
+      "name" : "A Saunterin' Fella",
       "screen_name" : "craigmod",
       "indices" : [ 3, 12 ],
       "id_str" : "1835951",
@@ -4033,7 +4033,7 @@ Grailbird.data.tweets_2010_06 =
     "id" : 15676574260,
     "created_at" : "2010-06-08 02:48:50 +0000",
     "user" : {
-      "name" : "A Walkin' Dude",
+      "name" : "A Saunterin' Fella",
       "screen_name" : "craigmod",
       "protected" : false,
       "id_str" : "1835951",
@@ -4264,7 +4264,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "cubanalaf",
       "protected" : false,
       "id_str" : "15377897",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/818952802168881153\/rJjMRR1Q_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856246267373961216\/UtR6YIhD_normal.jpg",
       "id" : 15377897,
       "verified" : false
     }
@@ -4439,7 +4439,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837523130683883520\/vWG_ymiD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847921823429914627\/gTnLvjkw_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -4774,7 +4774,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "shellen",
       "protected" : false,
       "id_str" : "422",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/748239685999202305\/z9hCJpM4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/839855147815575552\/SpT8Vhuc_normal.jpg",
       "id" : 422,
       "verified" : true
     }
@@ -4973,7 +4973,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837523130683883520\/vWG_ymiD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847921823429914627\/gTnLvjkw_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -5147,7 +5147,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838609639105179648\/tfBxr1Fv_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856665797346775040\/H4iW672u_normal.jpg",
       "id" : 22872643,
       "verified" : true
     }
@@ -5299,6 +5299,60 @@ Grailbird.data.tweets_2010_06 =
   "text" : "Wishes for Monday. New iPod Touch with camera, updated CPU, and support for external keyboard. Or... mini iPad with camera.",
   "id" : 15351966987,
   "created_at" : "2010-06-03 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Loic Le Meur \uD83D\uDC13",
+      "screen_name" : "loic",
+      "indices" : [ 3, 8 ],
+      "id_str" : "740983",
+      "id" : 740983
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "15219636619",
+  "text" : "RT @loic: \"people seem to be liking ipads, we sold one every 3 seconds since we launched. If we make good products people buy them\" Stev ...",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/ping.fm\/\" rel=\"nofollow\"\u003EPing.fm\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "d8",
+        "indices" : [ 133, 136 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "15218594884",
+    "text" : "\"people seem to be liking ipads, we sold one every 3 seconds since we launched. If we make good products people buy them\" Steve Jobs #d8",
+    "id" : 15218594884,
+    "created_at" : "2010-06-02 01:37:16 +0000",
+    "user" : {
+      "name" : "Loic Le Meur \uD83D\uDC13",
+      "screen_name" : "loic",
+      "protected" : false,
+      "id_str" : "740983",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/785503694787907584\/e3VSP_Qz_normal.jpg",
+      "id" : 740983,
+      "verified" : true
+    }
+  },
+  "id" : 15219636619,
+  "created_at" : "2010-06-02 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5575,60 +5629,6 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "15219010250",
   "text" : "Rockin good stuff - funk, klezmer, hip hop, and all - Abraham Inc's \"Tweet Tweet\" http:\/\/amzn.to\/dbJXDE",
   "id" : 15219010250,
-  "created_at" : "2010-06-02 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Loic Le Meur",
-      "screen_name" : "loic",
-      "indices" : [ 3, 8 ],
-      "id_str" : "740983",
-      "id" : 740983
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "15219636619",
-  "text" : "RT @loic: \"people seem to be liking ipads, we sold one every 3 seconds since we launched. If we make good products people buy them\" Stev ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/ping.fm\/\" rel=\"nofollow\"\u003EPing.fm\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "d8",
-        "indices" : [ 133, 136 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "15218594884",
-    "text" : "\"people seem to be liking ipads, we sold one every 3 seconds since we launched. If we make good products people buy them\" Steve Jobs #d8",
-    "id" : 15218594884,
-    "created_at" : "2010-06-02 01:37:16 +0000",
-    "user" : {
-      "name" : "Loic Le Meur",
-      "screen_name" : "loic",
-      "protected" : false,
-      "id_str" : "740983",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/785503694787907584\/e3VSP_Qz_normal.jpg",
-      "id" : 740983,
-      "verified" : true
-    }
-  },
-  "id" : 15219636619,
   "created_at" : "2010-06-02 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",

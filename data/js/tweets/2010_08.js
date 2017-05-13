@@ -282,7 +282,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Loic Le Meur",
+      "name" : "Loic Le Meur \uD83D\uDC13",
       "screen_name" : "loic",
       "indices" : [ 12, 17 ],
       "id_str" : "740983",
@@ -310,7 +310,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Loic Le Meur",
+      "name" : "Loic Le Meur \uD83D\uDC13",
       "screen_name" : "loic",
       "indices" : [ 3, 8 ],
       "id_str" : "740983",
@@ -337,7 +337,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 22729407750,
     "created_at" : "2010-09-01 18:11:20 +0000",
     "user" : {
-      "name" : "Loic Le Meur",
+      "name" : "Loic Le Meur \uD83D\uDC13",
       "screen_name" : "loic",
       "protected" : false,
       "id_str" : "740983",
@@ -348,6 +348,42 @@ Grailbird.data.tweets_2010_08 =
   },
   "id" : 22729858257,
   "created_at" : "2010-09-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jay Rosen",
+      "screen_name" : "jayrosen_nyu",
+      "indices" : [ 0, 13 ],
+      "id_str" : "14834340",
+      "id" : 14834340
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "stabindark",
+      "indices" : [ 115, 126 ]
+    } ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "22641426997",
+  "geo" : { },
+  "id_str" : "22641639225",
+  "in_reply_to_user_id" : 14834340,
+  "text" : "@jayrosen_nyu Have you tried another gmail account? If it worked, it may eliminate any question of browser issues. #stabindark :)",
+  "id" : 22641639225,
+  "in_reply_to_status_id" : 22641426997,
+  "created_at" : "2010-08-31 00:00:00 +0000",
+  "in_reply_to_screen_name" : "jayrosen_nyu",
+  "in_reply_to_user_id_str" : "14834340",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -575,42 +611,6 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jay Rosen",
-      "screen_name" : "jayrosen_nyu",
-      "indices" : [ 0, 13 ],
-      "id_str" : "14834340",
-      "id" : 14834340
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "stabindark",
-      "indices" : [ 115, 126 ]
-    } ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "22641426997",
-  "geo" : { },
-  "id_str" : "22641639225",
-  "in_reply_to_user_id" : 14834340,
-  "text" : "@jayrosen_nyu Have you tried another gmail account? If it worked, it may eliminate any question of browser issues. #stabindark :)",
-  "id" : 22641639225,
-  "in_reply_to_status_id" : 22641426997,
-  "created_at" : "2010-08-31 00:00:00 +0000",
-  "in_reply_to_screen_name" : "jayrosen_nyu",
-  "in_reply_to_user_id_str" : "14834340",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -828,7 +828,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838609639105179648\/tfBxr1Fv_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856665797346775040\/H4iW672u_normal.jpg",
       "id" : 22872643,
       "verified" : true
     }
@@ -1034,7 +1034,7 @@ Grailbird.data.tweets_2010_08 =
       "id_str" : "783837",
       "id" : 783837
     }, {
-      "name" : "The Impossible Cool",
+      "name" : "Impossible Cool.",
       "screen_name" : "impossiblecool",
       "indices" : [ 44, 59 ],
       "id_str" : "17950109",
@@ -1051,7 +1051,7 @@ Grailbird.data.tweets_2010_08 =
     "source" : "\u003Ca href=\"http:\/\/www.osfoora.com\" rel=\"nofollow\"\u003EOsfoora HD\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "The Impossible Cool",
+        "name" : "Impossible Cool.",
         "screen_name" : "impossiblecool",
         "indices" : [ 26, 41 ],
         "id_str" : "17950109",
@@ -1071,7 +1071,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "howardweaver",
       "protected" : false,
       "id_str" : "783837",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/820049238360887296\/8IkWozfQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844591415476740096\/SVFeCqcB_normal.jpg",
       "id" : 783837,
       "verified" : false
     }
@@ -1625,7 +1625,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "howardweaver",
       "protected" : false,
       "id_str" : "783837",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/820049238360887296\/8IkWozfQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844591415476740096\/SVFeCqcB_normal.jpg",
       "id" : 783837,
       "verified" : false
     }
@@ -1745,7 +1745,7 @@ Grailbird.data.tweets_2010_08 =
       "id_str" : "183749519",
       "id" : 183749519
     }, {
-      "name" : "xoxo, Joanne",
+      "name" : "xoxo, Gaga",
       "screen_name" : "ladygaga",
       "indices" : [ 85, 94 ],
       "id_str" : "14230524",
@@ -1880,6 +1880,69 @@ Grailbird.data.tweets_2010_08 =
   "text" : "Gmail served up a million phone calls in 24 hours. Wonder if the roll out is almost done. Can't wait to try it out.",
   "id" : 22203465869,
   "created_at" : "2010-08-26 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u2620Keys Treasures\u2620",
+      "screen_name" : "KeysTreasures",
+      "indices" : [ 3, 17 ],
+      "id_str" : "28926842",
+      "id" : 28926842
+    }, {
+      "name" : "Mike Tyson",
+      "screen_name" : "MikeTyson",
+      "indices" : [ 51, 61 ],
+      "id_str" : "156132825",
+      "id" : 156132825
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "22064322827",
+  "text" : "RT @KeysTreasures: Twitter is the only place where @MikeTyson following you isn't reason to Run For Your Life!",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Mike Tyson",
+        "screen_name" : "MikeTyson",
+        "indices" : [ 32, 42 ],
+        "id_str" : "156132825",
+        "id" : 156132825
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "22040017172",
+    "text" : "Twitter is the only place where @MikeTyson following you isn't reason to Run For Your Life!",
+    "id" : 22040017172,
+    "created_at" : "2010-08-24 23:20:44 +0000",
+    "user" : {
+      "name" : "\u2620Keys Treasures\u2620",
+      "screen_name" : "KeysTreasures",
+      "protected" : false,
+      "id_str" : "28926842",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2262116633\/babypiratenew250_normal.jpg",
+      "id" : 28926842,
+      "verified" : false
+    }
+  },
+  "id" : 22064322827,
+  "created_at" : "2010-08-25 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2083,69 +2146,6 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u2620Keys Treasures\u2620",
-      "screen_name" : "KeysTreasures",
-      "indices" : [ 3, 17 ],
-      "id_str" : "28926842",
-      "id" : 28926842
-    }, {
-      "name" : "Mike Tyson",
-      "screen_name" : "MikeTyson",
-      "indices" : [ 51, 61 ],
-      "id_str" : "156132825",
-      "id" : 156132825
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "22064322827",
-  "text" : "RT @KeysTreasures: Twitter is the only place where @MikeTyson following you isn't reason to Run For Your Life!",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Mike Tyson",
-        "screen_name" : "MikeTyson",
-        "indices" : [ 32, 42 ],
-        "id_str" : "156132825",
-        "id" : 156132825
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "22040017172",
-    "text" : "Twitter is the only place where @MikeTyson following you isn't reason to Run For Your Life!",
-    "id" : 22040017172,
-    "created_at" : "2010-08-24 23:20:44 +0000",
-    "user" : {
-      "name" : "\u2620Keys Treasures\u2620",
-      "screen_name" : "KeysTreasures",
-      "protected" : false,
-      "id_str" : "28926842",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2262116633\/babypiratenew250_normal.jpg",
-      "id" : 28926842,
-      "verified" : false
-    }
-  },
-  "id" : 22064322827,
-  "created_at" : "2010-08-25 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -2318,7 +2318,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Mastracci",
+      "name" : "Matt Mastracci \uD83E\uDD14",
       "screen_name" : "mmastrac",
       "indices" : [ 3, 12 ],
       "id_str" : "16873352",
@@ -2345,7 +2345,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 22007601012,
     "created_at" : "2010-08-24 15:06:54 +0000",
     "user" : {
-      "name" : "Matt Mastracci",
+      "name" : "Matt Mastracci \uD83E\uDD14",
       "screen_name" : "mmastrac",
       "protected" : false,
       "id_str" : "16873352",
@@ -2803,7 +2803,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837523130683883520\/vWG_ymiD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847921823429914627\/gTnLvjkw_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -2898,7 +2898,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "shellen",
       "protected" : false,
       "id_str" : "422",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/748239685999202305\/z9hCJpM4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/839855147815575552\/SpT8Vhuc_normal.jpg",
       "id" : 422,
       "verified" : true
     }
@@ -3507,12 +3507,6 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KANYE WEST",
-      "screen_name" : "kanyewest",
-      "indices" : [ 7, 17 ],
-      "id_str" : "169686021",
-      "id" : 169686021
-    }, {
       "name" : "Justin Bieber",
       "screen_name" : "justinbieber",
       "indices" : [ 22, 35 ],
@@ -3528,6 +3522,57 @@ Grailbird.data.tweets_2010_08 =
   "text" : "Uh oh. @kanyewest and @justinbieber are retweeting each other. The Internet may soon explode.",
   "id" : 21238134949,
   "created_at" : "2010-08-15 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "A Saunterin' Fella",
+      "screen_name" : "craigmod",
+      "indices" : [ 3, 12 ],
+      "id_str" : "1835951",
+      "id" : 1835951
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "21084361649",
+  "text" : "RT @craigmod: Am I the only one who thinks the Mail\/Contacts\/Tasks items are totally out of place (too prominent) in the new gmail?",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "21083726454",
+    "text" : "Am I the only one who thinks the Mail\/Contacts\/Tasks items are totally out of place (too prominent) in the new gmail?",
+    "id" : 21083726454,
+    "created_at" : "2010-08-13 17:55:11 +0000",
+    "user" : {
+      "name" : "A Saunterin' Fella",
+      "screen_name" : "craigmod",
+      "protected" : false,
+      "id_str" : "1835951",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/718325463865757696\/td4dv44r_normal.jpg",
+      "id" : 1835951,
+      "verified" : true
+    }
+  },
+  "id" : 21084361649,
+  "created_at" : "2010-08-13 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3572,7 +3617,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/832625507057311747\/_rCr5OLD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/851130048023207936\/bS8Yr-gg_normal.jpg",
       "id" : 819797,
       "verified" : false
     }
@@ -3915,57 +3960,6 @@ Grailbird.data.tweets_2010_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "A Walkin' Dude",
-      "screen_name" : "craigmod",
-      "indices" : [ 3, 12 ],
-      "id_str" : "1835951",
-      "id" : 1835951
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "21084361649",
-  "text" : "RT @craigmod: Am I the only one who thinks the Mail\/Contacts\/Tasks items are totally out of place (too prominent) in the new gmail?",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETweetie for Mac\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "21083726454",
-    "text" : "Am I the only one who thinks the Mail\/Contacts\/Tasks items are totally out of place (too prominent) in the new gmail?",
-    "id" : 21083726454,
-    "created_at" : "2010-08-13 17:55:11 +0000",
-    "user" : {
-      "name" : "A Walkin' Dude",
-      "screen_name" : "craigmod",
-      "protected" : false,
-      "id_str" : "1835951",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/718325463865757696\/td4dv44r_normal.jpg",
-      "id" : 1835951,
-      "verified" : true
-    }
-  },
-  "id" : 21084361649,
-  "created_at" : "2010-08-13 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4121,7 +4115,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/832625507057311747\/_rCr5OLD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/851130048023207936\/bS8Yr-gg_normal.jpg",
       "id" : 819797,
       "verified" : false
     }
@@ -4721,7 +4715,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "howardweaver",
       "protected" : false,
       "id_str" : "783837",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/820049238360887296\/8IkWozfQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844591415476740096\/SVFeCqcB_normal.jpg",
       "id" : 783837,
       "verified" : false
     }
@@ -5243,12 +5237,6 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KANYE WEST",
-      "screen_name" : "kanyewest",
-      "indices" : [ 4, 14 ],
-      "id_str" : "169686021",
-      "id" : 169686021
-    }, {
       "name" : "Twitter",
       "screen_name" : "Twitter",
       "indices" : [ 22, 30 ],
@@ -5721,7 +5709,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "lazycoder",
       "protected" : false,
       "id_str" : "697163",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/831535571356901376\/gXMa5dE6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/857668293817098240\/gq2sa32__normal.jpg",
       "id" : 697163,
       "verified" : false
     }
@@ -5772,7 +5760,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "howardweaver",
       "protected" : false,
       "id_str" : "783837",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/820049238360887296\/8IkWozfQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844591415476740096\/SVFeCqcB_normal.jpg",
       "id" : 783837,
       "verified" : false
     }
@@ -6123,13 +6111,7 @@ Grailbird.data.tweets_2010_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "KANYE WEST",
-      "screen_name" : "kanyewest",
-      "indices" : [ 46, 56 ],
-      "id_str" : "169686021",
-      "id" : 169686021
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

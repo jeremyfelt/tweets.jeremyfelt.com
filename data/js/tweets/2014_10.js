@@ -616,7 +616,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Blackbourn",
+      "name" : "John Blackbourn \uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "johnbillion",
       "indices" : [ 3, 15 ],
       "id_str" : "79053835",
@@ -653,7 +653,7 @@ Grailbird.data.tweets_2014_10 =
     "id" : 527254616476356609,
     "created_at" : "2014-10-29 00:24:31 +0000",
     "user" : {
-      "name" : "John Blackbourn",
+      "name" : "John Blackbourn \uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "johnbillion",
       "protected" : false,
       "id_str" : "79053835",
@@ -677,7 +677,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Weston Ruter \u26A1",
+      "name" : "Weston Ruter",
       "screen_name" : "westonruter",
       "indices" : [ 3, 15 ],
       "id_str" : "12887432",
@@ -716,7 +716,7 @@ Grailbird.data.tweets_2014_10 =
     "id" : 527132046942953473,
     "created_at" : "2014-10-28 16:17:28 +0000",
     "user" : {
-      "name" : "Weston Ruter \u26A1",
+      "name" : "Weston Ruter",
       "screen_name" : "westonruter",
       "protected" : false,
       "id_str" : "12887432",
@@ -1098,7 +1098,7 @@ Grailbird.data.tweets_2014_10 =
       "id_str" : "14886552",
       "id" : 14886552
     }, {
-      "name" : "John Blackbourn",
+      "name" : "John Blackbourn \uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "johnbillion",
       "indices" : [ 44, 56 ],
       "id_str" : "79053835",
@@ -1151,7 +1151,7 @@ Grailbird.data.tweets_2014_10 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "John Blackbourn",
+        "name" : "John Blackbourn \uD83C\uDDEA\uD83C\uDDFA",
         "screen_name" : "johnbillion",
         "indices" : [ 27, 39 ],
         "id_str" : "79053835",
@@ -1294,7 +1294,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "friends w\/ jennefits",
+      "name" : "jennjamin button",
       "screen_name" : "jennschiffer",
       "indices" : [ 3, 16 ],
       "id_str" : "12524622",
@@ -1306,7 +1306,7 @@ Grailbird.data.tweets_2014_10 =
       "id_str" : "21204689",
       "id" : 21204689
     }, {
-      "name" : "Suebata",
+      "name" : "Sue-shinThunderLiger",
       "screen_name" : "deathbearbrown",
       "indices" : [ 66, 81 ],
       "id_str" : "21491212",
@@ -1362,7 +1362,7 @@ Grailbird.data.tweets_2014_10 =
         "id_str" : "21204689",
         "id" : 21204689
       }, {
-        "name" : "Suebata",
+        "name" : "Sue-shinThunderLiger",
         "screen_name" : "deathbearbrown",
         "indices" : [ 48, 63 ],
         "id_str" : "21491212",
@@ -1411,7 +1411,7 @@ Grailbird.data.tweets_2014_10 =
     "id" : 526129539588833280,
     "created_at" : "2014-10-25 21:53:51 +0000",
     "user" : {
-      "name" : "friends w\/ jennefits",
+      "name" : "jennjamin button",
       "screen_name" : "jennschiffer",
       "protected" : false,
       "id_str" : "12524622",
@@ -1592,7 +1592,7 @@ Grailbird.data.tweets_2014_10 =
       "id_str" : "771712",
       "id" : 771712
     }, {
-      "name" : "Weston Ruter \u26A1",
+      "name" : "Weston Ruter",
       "screen_name" : "westonruter",
       "indices" : [ 83, 95 ],
       "id_str" : "12887432",
@@ -5098,7 +5098,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "mattepp",
       "protected" : false,
       "id_str" : "14871770",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/683184178649632768\/m7cwV27G_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/852619168180445189\/TLRFzfQA_normal.jpg",
       "id" : 14871770,
       "verified" : false
     }
@@ -5999,7 +5999,7 @@ Grailbird.data.tweets_2014_10 =
       "id_str" : "27740025",
       "id" : 27740025
     }, {
-      "name" : "John O'Nolan @ \uD83C\uDDF5\uD83C\uDDED",
+      "name" : "John O'Nolan @ \uD83C\uDDEC\uD83C\uDDE7",
       "screen_name" : "JohnONolan",
       "indices" : [ 13, 24 ],
       "id_str" : "14214338",
@@ -6021,7 +6021,7 @@ Grailbird.data.tweets_2014_10 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "John O'Nolan @ \uD83C\uDDF5\uD83C\uDDED",
+        "name" : "John O'Nolan @ \uD83C\uDDEC\uD83C\uDDE7",
         "screen_name" : "JohnONolan",
         "indices" : [ 1, 12 ],
         "id_str" : "14214338",

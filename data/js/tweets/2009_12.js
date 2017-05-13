@@ -1043,6 +1043,40 @@ Grailbird.data.tweets_2009_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Marshall Kirkpatrick",
+      "screen_name" : "marshallk",
+      "indices" : [ 1, 11 ],
+      "id_str" : "818340",
+      "id" : 818340
+    }, {
+      "name" : "Brizzly",
+      "screen_name" : "brizzly",
+      "indices" : [ 33, 41 ],
+      "id_str" : "56436449",
+      "id" : 56436449
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "6325464733",
+  "text" : ".@marshallk Thanks to sites like @brizzly, your efforts to Rick Roll are futile. :)",
+  "id" : 6325464733,
+  "created_at" : "2009-12-04 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1290,40 +1324,6 @@ Grailbird.data.tweets_2009_12 =
   "id_str" : "6325375435",
   "text" : "Ha. Related search for \"Why did bing go down?\" @bing is \"Why Go To Church\" - the devil did it. Bing!",
   "id" : 6325375435,
-  "created_at" : "2009-12-04 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Marshall Kirkpatrick",
-      "screen_name" : "marshallk",
-      "indices" : [ 1, 11 ],
-      "id_str" : "818340",
-      "id" : 818340
-    }, {
-      "name" : "Brizzly",
-      "screen_name" : "brizzly",
-      "indices" : [ 33, 41 ],
-      "id_str" : "56436449",
-      "id" : 56436449
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "6325464733",
-  "text" : ".@marshallk Thanks to sites like @brizzly, your efforts to Rick Roll are futile. :)",
-  "id" : 6325464733,
   "created_at" : "2009-12-04 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",

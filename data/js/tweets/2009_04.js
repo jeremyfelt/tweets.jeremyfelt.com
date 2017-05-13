@@ -787,6 +787,28 @@ Grailbird.data.tweets_2009_04 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "1595169679",
+  "text" : "Kottke In defense of Twitter (somewhat of a response to Dowd's article) http:\/\/tr.im\/jwqb",
+  "id" : 1595169679,
+  "created_at" : "2009-04-23 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "1598220470",
   "text" : "Finally cleaned up the code on my top 40 links page to work past 40 links.  This will be link number 41 as a test. http:\/\/tr.im\/jyw9",
   "id" : 1598220470,
@@ -862,28 +884,6 @@ Grailbird.data.tweets_2009_04 =
   "id_str" : "1590045749",
   "text" : "No Lost!?!?  Arghh",
   "id" : 1590045749,
-  "created_at" : "2009-04-23 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1595169679",
-  "text" : "Kottke In defense of Twitter (somewhat of a response to Dowd's article) http:\/\/tr.im\/jwqb",
-  "id" : 1595169679,
   "created_at" : "2009-04-23 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -1669,6 +1669,28 @@ Grailbird.data.tweets_2009_04 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1513083808",
+  "text" : "A minor link storm may hit so I can test out the new top40 features.  I'll try to make them all interesting. :)",
+  "id" : 1513083808,
+  "created_at" : "2009-04-14 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
     "hashtags" : [ {
       "text" : "celebrity",
       "indices" : [ 95, 105 ]
@@ -2042,28 +2064,6 @@ Grailbird.data.tweets_2009_04 =
   "id_str" : "1520943561",
   "text" : "Jonas Brothers: 6 days on twitter,following 0,19 tweets,1st pic retweeted over 1000 times today, the kids are all tweet http:\/\/tr.im\/iEmD",
   "id" : 1520943561,
-  "created_at" : "2009-04-14 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1513083808",
-  "text" : "A minor link storm may hit so I can test out the new top40 features.  I'll try to make them all interesting. :)",
-  "id" : 1513083808,
   "created_at" : "2009-04-14 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
