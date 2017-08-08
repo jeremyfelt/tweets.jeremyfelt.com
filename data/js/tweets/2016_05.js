@@ -34,7 +34,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807755435889590272\/rPZoXAOc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/880115655164518400\/8tnsA7XI_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }
@@ -1205,7 +1205,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \u2602\uFE0F",
+      "name" : "Ryan McCue \u2744\uFE0F",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -1417,7 +1417,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan D. Sullivan",
+      "name" : "Ryan Sullivan",
       "screen_name" : "ryandonsullivan",
       "indices" : [ 0, 16 ],
       "id_str" : "87823613",
@@ -1776,7 +1776,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807755435889590272\/rPZoXAOc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/880115655164518400\/8tnsA7XI_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }
@@ -2279,7 +2279,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "wpcli",
       "protected" : false,
       "id_str" : "994698943",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2942896539\/91f00f86505b18e130e3499ee61db36e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/869993391844503553\/7HbihNpF_normal.jpg",
       "id" : 994698943,
       "verified" : false
     }
@@ -3100,7 +3100,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "selenalarson",
       "protected" : false,
       "id_str" : "90992943",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/777589073632296960\/iCYaKx86_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/877291028402720769\/jQr_4pj8_normal.jpg",
       "id" : 90992943,
       "verified" : true
     }
@@ -3853,7 +3853,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "michellefelt",
       "protected" : false,
       "id_str" : "32924315",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/843540213460688896\/6tSWkrmt_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/883733733404164096\/kpm4hFsl_normal.jpg",
       "id" : 32924315,
       "verified" : false
     }
@@ -4381,7 +4381,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "WCEurope",
       "protected" : false,
       "id_str" : "743301540",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/839158758538424320\/7KQO4i3W_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/877458448744632320\/twBUQ9N3_normal.jpg",
       "id" : 743301540,
       "verified" : false
     }
@@ -4401,7 +4401,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Julia Macfarlane",
+      "name" : "Julia Macfarlane\uD83C\uDDEC\uD83C\uDDE7",
       "screen_name" : "juliamacfarlane",
       "indices" : [ 3, 19 ],
       "id_str" : "20159596",
@@ -4464,11 +4464,11 @@ Grailbird.data.tweets_2016_05 =
     "id" : 728888300291895296,
     "created_at" : "2016-05-07 10:04:47 +0000",
     "user" : {
-      "name" : "Julia Macfarlane",
+      "name" : "Julia Macfarlane\uD83C\uDDEC\uD83C\uDDE7",
       "screen_name" : "juliamacfarlane",
       "protected" : false,
       "id_str" : "20159596",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/862809157413601280\/mdhUjRga_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/880165788774281216\/lrsRJkwk_normal.jpg",
       "id" : 20159596,
       "verified" : true
     }
@@ -4797,7 +4797,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807755435889590272\/rPZoXAOc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/880115655164518400\/8tnsA7XI_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }
@@ -5196,7 +5196,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan D. Sullivan",
+      "name" : "Ryan Sullivan",
       "screen_name" : "ryandonsullivan",
       "indices" : [ 0, 16 ],
       "id_str" : "87823613",
@@ -5874,7 +5874,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "michellefelt",
       "protected" : false,
       "id_str" : "32924315",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/843540213460688896\/6tSWkrmt_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/883733733404164096\/kpm4hFsl_normal.jpg",
       "id" : 32924315,
       "verified" : false
     }

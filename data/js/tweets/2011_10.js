@@ -1773,7 +1773,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "markjaquith",
       "protected" : false,
       "id_str" : "821042",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/774670831804973056\/iiyf0nWg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/885235145401413633\/baH5K70H_normal.jpg",
       "id" : 821042,
       "verified" : false
     }
@@ -3697,7 +3697,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "kdrum",
       "protected" : false,
       "id_str" : "18276341",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/679495033414787073\/-bffD0-T_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/889309974349959168\/fMgnDN8Q_normal.jpg",
       "id" : 18276341,
       "verified" : true
     }
@@ -4530,123 +4530,6 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u24E5",
-      "screen_name" : "Vanadia",
-      "indices" : [ 3, 11 ],
-      "id_str" : "15406144",
-      "id" : 15406144
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/Vanadia\/status\/122077452104237056\/photo\/1",
-      "indices" : [ 79, 99 ],
-      "url" : "http:\/\/t.co\/ZRyHWz8s",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/AbG0y8ACAAEZvRr.jpg",
-      "id_str" : "122077452108431361",
-      "id" : 122077452108431361,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AbG0y8ACAAEZvRr.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 400,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 227,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 533,
-        "resize" : "fit",
-        "w" : 800
-      }, {
-        "h" : 533,
-        "resize" : "fit",
-        "w" : 800
-      } ],
-      "display_url" : "pic.twitter.com\/ZRyHWz8s"
-    } ],
-    "hashtags" : [ {
-      "text" : "occupyportland",
-      "indices" : [ 63, 78 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "122158822126125056",
-  "text" : "RT @Vanadia: Photo: Portland Police surround and hold child at #occupyportland http:\/\/t.co\/ZRyHWz8s",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/Vanadia\/status\/122077452104237056\/photo\/1",
-        "indices" : [ 66, 86 ],
-        "url" : "http:\/\/t.co\/ZRyHWz8s",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/AbG0y8ACAAEZvRr.jpg",
-        "id_str" : "122077452108431361",
-        "id" : 122077452108431361,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AbG0y8ACAAEZvRr.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 400,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 227,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 533,
-          "resize" : "fit",
-          "w" : 800
-        }, {
-          "h" : 533,
-          "resize" : "fit",
-          "w" : 800
-        } ],
-        "display_url" : "pic.twitter.com\/ZRyHWz8s"
-      } ],
-      "hashtags" : [ {
-        "text" : "occupyportland",
-        "indices" : [ 50, 65 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "122077452104237056",
-    "text" : "Photo: Portland Police surround and hold child at #occupyportland http:\/\/t.co\/ZRyHWz8s",
-    "id" : 122077452104237056,
-    "created_at" : "2011-10-06 22:35:08 +0000",
-    "user" : {
-      "name" : "\u24E5",
-      "screen_name" : "Vanadia",
-      "protected" : false,
-      "id_str" : "15406144",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528669188810752001\/X8ICMtfA_normal.jpeg",
-      "id" : 15406144,
-      "verified" : false
-    }
-  },
-  "id" : 122158822126125056,
-  "created_at" : "2011-10-07 03:58:27 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "charlie (cblaze)",
       "screen_name" : "scan_boy",
       "indices" : [ 0, 9 ],
@@ -4927,7 +4810,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847921823429914627\/gTnLvjkw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/888857400886906881\/TfGkETi-_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -5077,7 +4960,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Haughey",
+      "name" : "Matt Haughey \u2764\uFE0F\u2764\uFE0F\uD83D\uDC9B",
       "screen_name" : "mathowie",
       "indices" : [ 3, 12 ],
       "id_str" : "761975",
@@ -5114,11 +4997,11 @@ Grailbird.data.tweets_2011_10 =
     "id" : 121736107103764480,
     "created_at" : "2011-10-05 23:58:44 +0000",
     "user" : {
-      "name" : "Matt Haughey",
+      "name" : "Matt Haughey \u2764\uFE0F\u2764\uFE0F\uD83D\uDC9B",
       "screen_name" : "mathowie",
       "protected" : false,
       "id_str" : "761975",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796255913904508928\/Z5hvacVZ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/876424596290805760\/LZge5tmV_normal.jpg",
       "id" : 761975,
       "verified" : false
     }
@@ -5138,7 +5021,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gina Trapani \u270A\uD83C\uDFFB",
+      "name" : "Gina Trapani \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "ginatrapani",
       "indices" : [ 3, 15 ],
       "id_str" : "930061",
@@ -5165,7 +5048,7 @@ Grailbird.data.tweets_2011_10 =
     "id" : 121736157192142848,
     "created_at" : "2011-10-05 23:58:56 +0000",
     "user" : {
-      "name" : "Gina Trapani \u270A\uD83C\uDFFB",
+      "name" : "Gina Trapani \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "ginatrapani",
       "protected" : false,
       "id_str" : "930061",
@@ -5462,7 +5345,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex",
+      "name" : "happy\/tired alex",
       "screen_name" : "alex",
       "indices" : [ 3, 8 ],
       "id_str" : "7380362",
@@ -5499,11 +5382,11 @@ Grailbird.data.tweets_2011_10 =
     "id" : 121459943814606848,
     "created_at" : "2011-10-05 05:41:21 +0000",
     "user" : {
-      "name" : "Alex",
+      "name" : "happy\/tired alex",
       "screen_name" : "alex",
       "protected" : false,
       "id_str" : "7380362",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838547489057714176\/M29PEHDp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/882656657737568256\/NhkvqvxR_normal.jpg",
       "id" : 7380362,
       "verified" : true
     }
@@ -5886,7 +5769,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847921823429914627\/gTnLvjkw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/888857400886906881\/TfGkETi-_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -6780,7 +6663,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "michellefelt",
       "protected" : false,
       "id_str" : "32924315",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/843540213460688896\/6tSWkrmt_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/883733733404164096\/kpm4hFsl_normal.jpg",
       "id" : 32924315,
       "verified" : false
     }

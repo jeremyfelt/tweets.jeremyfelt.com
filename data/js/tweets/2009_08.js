@@ -908,6 +908,28 @@ Grailbird.data.tweets_2009_08 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "3385470704",
+  "text" : "Really liking brizzly for reading Tweets. Not sure why yet.",
+  "id" : 3385470704,
+  "created_at" : "2009-08-18 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "3391954400",
   "text" : "Chrome's bookmark syncing is awesome so far.",
   "id" : 3391954400,
@@ -933,28 +955,6 @@ Grailbird.data.tweets_2009_08 =
   "id_str" : "3383685817",
   "text" : "http:\/\/bit.ly\/10fidb",
   "id" : 3383685817,
-  "created_at" : "2009-08-18 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "3385470704",
-  "text" : "Really liking brizzly for reading Tweets. Not sure why yet.",
-  "id" : 3385470704,
   "created_at" : "2009-08-18 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -1348,7 +1348,7 @@ Grailbird.data.tweets_2009_08 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter API",
-      "screen_name" : "twitterapi",
+      "screen_name" : "TwitterAPI",
       "indices" : [ 17, 28 ],
       "id_str" : "6253282",
       "id" : 6253282

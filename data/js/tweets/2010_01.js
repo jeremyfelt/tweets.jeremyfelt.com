@@ -8,6 +8,28 @@ Grailbird.data.tweets_2010_01 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "8477545112",
+  "text" : "My tweet grammar sucks sometimes. Without = while.",
+  "id" : 8477545112,
+  "created_at" : "2010-02-01 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "8482393515",
   "text" : "Reverse DNS and SPF records good to go, but gmail still flags as spam. WTF. Is this a downside of Rackspace IPs?",
   "id" : 8482393515,
@@ -90,13 +112,7 @@ Grailbird.data.tweets_2010_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Withings",
-      "screen_name" : "Withings",
-      "indices" : [ 10, 19 ],
-      "id_str" : "35432131",
-      "id" : 35432131
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -160,28 +176,6 @@ Grailbird.data.tweets_2010_01 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "8477545112",
-  "text" : "My tweet grammar sucks sometimes. Without = while.",
-  "id" : 8477545112,
-  "created_at" : "2010-02-01 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -216,7 +210,7 @@ Grailbird.data.tweets_2010_01 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847921823429914627\/gTnLvjkw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/888857400886906881\/TfGkETi-_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -1383,7 +1377,7 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF31 Matt Terenzio",
+      "name" : "\uD83D\uDE80Terenzio",
       "screen_name" : "mterenzio",
       "indices" : [ 3, 13 ],
       "id_str" : "820002",
@@ -1410,7 +1404,7 @@ Grailbird.data.tweets_2010_01 =
     "id" : 7831819815,
     "created_at" : "2010-01-16 16:55:04 +0000",
     "user" : {
-      "name" : "\uD83C\uDF31 Matt Terenzio",
+      "name" : "\uD83D\uDE80Terenzio",
       "screen_name" : "mterenzio",
       "protected" : false,
       "id_str" : "820002",
@@ -1610,7 +1604,7 @@ Grailbird.data.tweets_2010_01 =
       "screen_name" : "marshallk",
       "protected" : false,
       "id_str" : "818340",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/822856912618127360\/kNYT-QNS_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/893593849997570048\/tCZepD7L_normal.jpg",
       "id" : 818340,
       "verified" : true
     }
@@ -1678,6 +1672,57 @@ Grailbird.data.tweets_2010_01 =
   "created_at" : "2010-01-15 00:00:00 +0000",
   "in_reply_to_screen_name" : "loic",
   "in_reply_to_user_id_str" : "740983",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Dave Winer",
+      "screen_name" : "davewiner",
+      "indices" : [ 3, 13 ],
+      "id_str" : "3839",
+      "id" : 3839
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "7760464141",
+  "text" : "RT @davewiner: Why I'm going to NYU. http:\/\/r2.ly\/riht",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "7760403362",
+    "text" : "Why I'm going to NYU. http:\/\/r2.ly\/riht",
+    "id" : 7760403362,
+    "created_at" : "2010-01-14 20:32:42 +0000",
+    "user" : {
+      "name" : "Dave Winer",
+      "screen_name" : "davewiner",
+      "protected" : false,
+      "id_str" : "3839",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/888857400886906881\/TfGkETi-_normal.jpg",
+      "id" : 3839,
+      "verified" : true
+    }
+  },
+  "id" : 7760464141,
+  "created_at" : "2010-01-14 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -1886,7 +1931,7 @@ Grailbird.data.tweets_2010_01 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847921823429914627\/gTnLvjkw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/888857400886906881\/TfGkETi-_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -1988,7 +2033,7 @@ Grailbird.data.tweets_2010_01 =
       "screen_name" : "wyclef",
       "protected" : false,
       "id_str" : "20659839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/855443926563663877\/7fJPzNr3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/877913955477446656\/0Q160um2_normal.jpg",
       "id" : 20659839,
       "verified" : true
     }
@@ -2170,108 +2215,6 @@ Grailbird.data.tweets_2010_01 =
   "text" : "It also *will* be good, not swill.... it definitely won't be swill.",
   "id" : 7759992597,
   "created_at" : "2010-01-14 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Dave Winer",
-      "screen_name" : "davewiner",
-      "indices" : [ 3, 13 ],
-      "id_str" : "3839",
-      "id" : 3839
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "7760464141",
-  "text" : "RT @davewiner: Why I'm going to NYU. http:\/\/r2.ly\/riht",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "7760403362",
-    "text" : "Why I'm going to NYU. http:\/\/r2.ly\/riht",
-    "id" : 7760403362,
-    "created_at" : "2010-01-14 20:32:42 +0000",
-    "user" : {
-      "name" : "Dave Winer",
-      "screen_name" : "davewiner",
-      "protected" : false,
-      "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847921823429914627\/gTnLvjkw_normal.jpg",
-      "id" : 3839,
-      "verified" : true
-    }
-  },
-  "id" : 7760464141,
-  "created_at" : "2010-01-14 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Sandra O'Brien",
-      "screen_name" : "sjcobrien",
-      "indices" : [ 3, 13 ],
-      "id_str" : "493287958",
-      "id" : 493287958
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "7690992414",
-  "text" : "RT @sjcobrien: Thanks to folks who jumped on the Wave to discuss China and Google: http:\/\/bit.ly\/6I2QYL",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "7690352543",
-    "text" : "Thanks to folks who jumped on the Wave to discuss China and Google: http:\/\/bit.ly\/6I2QYL",
-    "id" : 7690352543,
-    "created_at" : "2010-01-13 00:55:13 +0000",
-    "user" : {
-      "name" : "Chris O'Brien",
-      "screen_name" : "obrien",
-      "protected" : false,
-      "id_str" : "10952962",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842322516710445061\/JkP7BPdN_normal.jpg",
-      "id" : 10952962,
-      "verified" : true
-    }
-  },
-  "id" : 7690992414,
-  "created_at" : "2010-01-13 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

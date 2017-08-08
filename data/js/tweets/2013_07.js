@@ -402,7 +402,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807755435889590272\/rPZoXAOc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/880115655164518400\/8tnsA7XI_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }
@@ -1011,7 +1011,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "sonniesedge",
       "protected" : false,
       "id_str" : "160687830",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/813830669591805952\/OL10Yvud_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/894641577557192704\/ghN7wHa-_normal.jpg",
       "id" : 160687830,
       "verified" : false
     }
@@ -1984,7 +1984,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \u2602\uFE0F",
+      "name" : "Ryan McCue \u2744\uFE0F",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -2017,7 +2017,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \u2602\uFE0F",
+      "name" : "Ryan McCue \u2744\uFE0F",
       "screen_name" : "rmccue",
       "indices" : [ 3, 10 ],
       "id_str" : "6306542",
@@ -2061,7 +2061,7 @@ Grailbird.data.tweets_2013_07 =
     "in_reply_to_screen_name" : "jeremyfelt",
     "in_reply_to_user_id_str" : "1741681",
     "user" : {
-      "name" : "Ryan McCue \u2602\uFE0F",
+      "name" : "Ryan McCue \u2744\uFE0F",
       "screen_name" : "rmccue",
       "protected" : false,
       "id_str" : "6306542",
@@ -2193,7 +2193,7 @@ Grailbird.data.tweets_2013_07 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\u2665\uFE0E",
+        "name" : "Yuri Victor \u2665\uFE0E",
         "screen_name" : "yurivictor",
         "indices" : [ 123, 134 ],
         "id_str" : "5511932",
@@ -2478,7 +2478,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \u2602\uFE0F",
+      "name" : "Ryan McCue \u2744\uFE0F",
       "screen_name" : "rmccue",
       "indices" : [ 3, 10 ],
       "id_str" : "6306542",
@@ -2523,7 +2523,7 @@ Grailbird.data.tweets_2013_07 =
     "id" : 360814323871920128,
     "created_at" : "2013-07-26 17:30:13 +0000",
     "user" : {
-      "name" : "Ryan McCue \u2602\uFE0F",
+      "name" : "Ryan McCue \u2744\uFE0F",
       "screen_name" : "rmccue",
       "protected" : false,
       "id_str" : "6306542",
@@ -3537,7 +3537,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \u2602\uFE0F",
+      "name" : "Ryan McCue \u2744\uFE0F",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -3570,7 +3570,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \u2602\uFE0F",
+      "name" : "Ryan McCue \u2744\uFE0F",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -3655,7 +3655,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \u2602\uFE0F",
+      "name" : "Ryan McCue \u2744\uFE0F",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -4134,7 +4134,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847921823429914627\/gTnLvjkw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/888857400886906881\/TfGkETi-_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -4408,7 +4408,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "ChipotleTweets",
       "protected" : false,
       "id_str" : "141341662",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/851564006162571265\/eO8JmT1n_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/887662055288848385\/Op7q2w27_normal.jpg",
       "id" : 141341662,
       "verified" : true
     }
@@ -5189,7 +5189,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \u2602\uFE0F",
+      "name" : "Ryan McCue \u2744\uFE0F",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -5955,7 +5955,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807755435889590272\/rPZoXAOc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/880115655164518400\/8tnsA7XI_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }
@@ -8179,7 +8179,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "kikodoran",
       "protected" : false,
       "id_str" : "161732413",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/535528193638539265\/4fi1ie3f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/865327882188595200\/sgxmyI5N_normal.jpg",
       "id" : 161732413,
       "verified" : false
     }
@@ -8529,7 +8529,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "SeattlePD",
       "protected" : false,
       "id_str" : "25101704",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/747808383470755840\/67kbU42B_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879377179997388800\/3JMjfih2_normal.jpg",
       "id" : 25101704,
       "verified" : true
     }
@@ -9248,7 +9248,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807755435889590272\/rPZoXAOc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/880115655164518400\/8tnsA7XI_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }
@@ -9388,7 +9388,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "wcpdx",
       "protected" : false,
       "id_str" : "15926367",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/857667238303744000\/y9KJLURZ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/878662843310014465\/D-R9w6tR_normal.jpg",
       "id" : 15926367,
       "verified" : false
     }
@@ -9572,7 +9572,7 @@ Grailbird.data.tweets_2013_07 =
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/786179830266167296\/AmZpJJLv_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/873754786885234688\/HaMZ0qjM_normal.jpg",
       "id" : 36823,
       "verified" : true
     }

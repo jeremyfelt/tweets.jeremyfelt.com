@@ -105,7 +105,7 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "markjaquith",
       "protected" : false,
       "id_str" : "821042",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/774670831804973056\/iiyf0nWg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/885235145401413633\/baH5K70H_normal.jpg",
       "id" : 821042,
       "verified" : false
     }
@@ -1027,7 +1027,7 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807755435889590272\/rPZoXAOc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/880115655164518400\/8tnsA7XI_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }
@@ -1074,7 +1074,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Temple of the Doug",
+      "name" : "You'reTheManNowDoug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -4247,7 +4247,7 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "JJJ",
       "protected" : false,
       "id_str" : "15908706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/774351653759705088\/u1EJQqQq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/884045367678992384\/cA9Tqbct_normal.jpg",
       "id" : 15908706,
       "verified" : false
     }
@@ -7207,7 +7207,7 @@ Grailbird.data.tweets_2014_01 =
       "id_str" : "132978921",
       "id" : 132978921
     }, {
-      "name" : "Ryan McCue \u2602\uFE0F",
+      "name" : "Ryan McCue \u2744\uFE0F",
       "screen_name" : "rmccue",
       "indices" : [ 20, 27 ],
       "id_str" : "6306542",
@@ -7240,7 +7240,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \u2602\uFE0F",
+      "name" : "Ryan McCue \u2744\uFE0F",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -7273,7 +7273,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \u2602\uFE0F",
+      "name" : "Ryan McCue \u2744\uFE0F",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -7768,7 +7768,7 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "JJJ",
       "protected" : false,
       "id_str" : "15908706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/774351653759705088\/u1EJQqQq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/884045367678992384\/cA9Tqbct_normal.jpg",
       "id" : 15908706,
       "verified" : false
     }
@@ -8749,13 +8749,7 @@ Grailbird.data.tweets_2014_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Twitter Support",
-      "screen_name" : "Support",
-      "indices" : [ 0, 8 ],
-      "id_str" : "17874544",
-      "id" : 17874544
-    } ],
+    "user_mentions" : [ ],
     "media" : [ {
       "expanded_url" : "https:\/\/twitter.com\/jeremyfelt\/status\/420302295666946048\/photo\/1",
       "indices" : [ 117, 139 ],
@@ -8796,7 +8790,7 @@ Grailbird.data.tweets_2014_01 =
   "text" : "@support My `Request your archive` button has been greyed out for about a week now. Usually quick. Any known issues? http:\/\/t.co\/kAOr3gqLWo",
   "id" : 420302295666946048,
   "created_at" : "2014-01-06 21:14:10 +0000",
-  "in_reply_to_screen_name" : "Support",
+  "in_reply_to_screen_name" : "TwitterSupport",
   "in_reply_to_user_id_str" : "17874544",
   "user" : {
     "name" : "Jeremy Felt",
@@ -11573,7 +11567,7 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "johnregan3",
       "protected" : false,
       "id_str" : "12517352",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/809422426341683200\/Zl6o3jIQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/874422184667627520\/X_toLgfm_normal.jpg",
       "id" : 12517352,
       "verified" : false
     }

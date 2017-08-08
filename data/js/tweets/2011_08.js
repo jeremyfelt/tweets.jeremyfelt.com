@@ -34,7 +34,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/851130048023207936\/bS8Yr-gg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/882625894480625664\/HWeQTimh_normal.jpg",
       "id" : 819797,
       "verified" : false
     }
@@ -837,7 +837,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/851130048023207936\/bS8Yr-gg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/882625894480625664\/HWeQTimh_normal.jpg",
       "id" : 819797,
       "verified" : false
     }
@@ -2337,12 +2337,6 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 8, 18 ],
       "id_str" : "15445811",
       "id" : 15445811
-    }, {
-      "name" : "Withings",
-      "screen_name" : "Withings",
-      "indices" : [ 42, 51 ],
-      "id_str" : "35432131",
-      "id" : 35432131
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2813,7 +2807,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "Harpers",
       "protected" : false,
       "id_str" : "14287094",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/863129402498052096\/7g7_I3T2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/887401680106598403\/IrwP0Hhy_normal.jpg",
       "id" : 14287094,
       "verified" : true
     }
@@ -2934,7 +2928,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne \uD83C\uDF39",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 54, 59 ],
       "id_str" : "18713",
@@ -3488,7 +3482,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "rainnwilson",
       "protected" : false,
       "id_str" : "19637934",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/733665476140630016\/BiosDs6z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/888805929709207554\/ccHbozEt_normal.jpg",
       "id" : 19637934,
       "verified" : true
     }
@@ -4011,7 +4005,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "MLB",
       "protected" : false,
       "id_str" : "18479513",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/794073402747326465\/pdiU1XpF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875509307906936833\/wBwvQ66U_normal.jpg",
       "id" : 18479513,
       "verified" : true
     }
@@ -4204,7 +4198,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/851130048023207936\/bS8Yr-gg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/882625894480625664\/HWeQTimh_normal.jpg",
       "id" : 819797,
       "verified" : false
     }
@@ -4327,7 +4321,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "Harpers",
       "protected" : false,
       "id_str" : "14287094",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/863129402498052096\/7g7_I3T2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/887401680106598403\/IrwP0Hhy_normal.jpg",
       "id" : 14287094,
       "verified" : true
     }

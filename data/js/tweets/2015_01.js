@@ -346,7 +346,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "WCEurope",
       "protected" : false,
       "id_str" : "743301540",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/839158758538424320\/7KQO4i3W_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/877458448744632320\/twBUQ9N3_normal.jpg",
       "id" : 743301540,
       "verified" : false
     }
@@ -563,7 +563,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807755435889590272\/rPZoXAOc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/880115655164518400\/8tnsA7XI_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }
@@ -1105,7 +1105,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "FiveThirtyEight",
       "protected" : false,
       "id_str" : "2303751216",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/809418729725579264\/my9XzK-k_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875426588061573121\/lpQG3W6i_normal.jpg",
       "id" : 2303751216,
       "verified" : true
     }
@@ -1691,7 +1691,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "westonruter",
       "protected" : false,
       "id_str" : "12887432",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/825927598723129346\/dv4DOZCf_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/888533424138473473\/cLowhLjb_normal.jpg",
       "id" : 12887432,
       "verified" : false
     }
@@ -2247,7 +2247,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan D. Sullivan",
+      "name" : "Ryan Sullivan",
       "screen_name" : "ryandonsullivan",
       "indices" : [ 0, 16 ],
       "id_str" : "87823613",
@@ -2343,7 +2343,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Temple of the Doug",
+      "name" : "You'reTheManNowDoug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -2445,7 +2445,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Temple of the Doug",
+      "name" : "You'reTheManNowDoug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -2478,7 +2478,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Temple of the Doug",
+      "name" : "You'reTheManNowDoug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -2511,7 +2511,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Temple of the Doug",
+      "name" : "You'reTheManNowDoug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -2544,7 +2544,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Temple of the Doug",
+      "name" : "You'reTheManNowDoug",
       "screen_name" : "zamoose",
       "indices" : [ 3, 11 ],
       "id_str" : "819148",
@@ -2581,7 +2581,7 @@ Grailbird.data.tweets_2015_01 =
     "id" : 555448941463232514,
     "created_at" : "2015-01-14 19:38:42 +0000",
     "user" : {
-      "name" : "Temple of the Doug",
+      "name" : "You'reTheManNowDoug",
       "screen_name" : "zamoose",
       "protected" : false,
       "id_str" : "819148",
@@ -3625,7 +3625,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "moose-lamb",
+      "name" : "angry \uD83E\uDD84",
       "screen_name" : "shokufeyesib",
       "indices" : [ 3, 16 ],
       "id_str" : "47175021",
@@ -3688,11 +3688,11 @@ Grailbird.data.tweets_2015_01 =
     "id" : 553655029346086912,
     "created_at" : "2015-01-09 20:50:20 +0000",
     "user" : {
-      "name" : "moose-lamb",
+      "name" : "angry \uD83E\uDD84",
       "screen_name" : "shokufeyesib",
       "protected" : false,
       "id_str" : "47175021",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/850580407821193216\/rnb2lplZ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/886742258086760448\/OdKEVdJV_normal.jpg",
       "id" : 47175021,
       "verified" : false
     }
@@ -4043,7 +4043,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \u2602\uFE0F",
+      "name" : "Ryan McCue \u2744\uFE0F",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -4221,7 +4221,7 @@ Grailbird.data.tweets_2015_01 =
       "id_str" : "3982048115",
       "id" : 3982048115
     }, {
-      "name" : "Ryan D. Sullivan",
+      "name" : "Ryan Sullivan",
       "screen_name" : "ryandonsullivan",
       "indices" : [ 19, 35 ],
       "id_str" : "87823613",
@@ -4359,7 +4359,7 @@ Grailbird.data.tweets_2015_01 =
       "id_str" : "4371541",
       "id" : 4371541
     }, {
-      "name" : "Mimsy Starr",
+      "name" : "Joe Saunders \uD83D\uDC1D",
       "screen_name" : "JoeTheDough",
       "indices" : [ 32, 44 ],
       "id_str" : "13506",
@@ -4381,7 +4381,7 @@ Grailbird.data.tweets_2015_01 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Mimsy Starr",
+        "name" : "Joe Saunders \uD83D\uDC1D",
         "screen_name" : "JoeTheDough",
         "indices" : [ 13, 25 ],
         "id_str" : "13506",
@@ -4406,7 +4406,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "simonwheatley",
       "protected" : false,
       "id_str" : "4371541",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/756936590501548032\/n1K7e0dh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/881871213240487937\/KTMObCY5_normal.jpg",
       "id" : 4371541,
       "verified" : false
     }
@@ -4503,7 +4503,7 @@ Grailbird.data.tweets_2015_01 =
       "id_str" : "3982048115",
       "id" : 3982048115
     }, {
-      "name" : "Ryan D. Sullivan",
+      "name" : "Ryan Sullivan",
       "screen_name" : "ryandonsullivan",
       "indices" : [ 9, 25 ],
       "id_str" : "87823613",
@@ -4936,7 +4936,7 @@ Grailbird.data.tweets_2015_01 =
       "id_str" : "22232652",
       "id" : 22232652
     }, {
-      "name" : "Ryan D. Sullivan",
+      "name" : "Ryan Sullivan",
       "screen_name" : "ryandonsullivan",
       "indices" : [ 10, 26 ],
       "id_str" : "87823613",
@@ -5420,7 +5420,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Temple of the Doug",
+      "name" : "You'reTheManNowDoug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -5483,7 +5483,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Caspar\u2615\uFE0FH\u00FCbinger",
+      "name" : "Caspar H\u00FCbinger",
       "screen_name" : "glueckpress",
       "indices" : [ 3, 15 ],
       "id_str" : "105553092",
@@ -5538,7 +5538,7 @@ Grailbird.data.tweets_2015_01 =
     "id" : 552084527955587072,
     "created_at" : "2015-01-05 12:49:43 +0000",
     "user" : {
-      "name" : "Caspar\u2615\uFE0FH\u00FCbinger",
+      "name" : "Caspar H\u00FCbinger",
       "screen_name" : "glueckpress",
       "protected" : false,
       "id_str" : "105553092",
@@ -5831,7 +5831,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Temple of the Doug",
+      "name" : "You'reTheManNowDoug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -5869,7 +5869,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Temple of the Doug",
+      "name" : "You'reTheManNowDoug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -6278,7 +6278,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jennjamin button",
+      "name" : "jennmoneydollars",
       "screen_name" : "jennschiffer",
       "indices" : [ 3, 16 ],
       "id_str" : "12524622",
@@ -6315,11 +6315,11 @@ Grailbird.data.tweets_2015_01 =
     "id" : 551494731117494272,
     "created_at" : "2015-01-03 21:46:04 +0000",
     "user" : {
-      "name" : "jennjamin button",
+      "name" : "jennmoneydollars",
       "screen_name" : "jennschiffer",
       "protected" : false,
       "id_str" : "12524622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/825733260709883905\/sg_2LsY3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/892565535682174977\/TJJF6NN1_normal.jpg",
       "id" : 12524622,
       "verified" : false
     }

@@ -63,6 +63,28 @@ Grailbird.data.tweets_2008_06 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "834771781",
+  "text" : "just loved Beck - Debra http:\/\/hypem.com\/track\/564198",
+  "id" : 834771781,
+  "created_at" : "2008-06-14 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "834377818",
   "text" : "just loved The Apples in stereo - Same Old Drag http:\/\/hypem.com\/track\/568991",
   "id" : 834377818,
@@ -154,28 +176,6 @@ Grailbird.data.tweets_2008_06 =
   "id_str" : "834421627",
   "text" : "just loved Editors - An End Has A Start http:\/\/hypem.com\/track\/561360",
   "id" : 834421627,
-  "created_at" : "2008-06-14 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "834771781",
-  "text" : "just loved Beck - Debra http:\/\/hypem.com\/track\/564198",
-  "id" : 834771781,
   "created_at" : "2008-06-14 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",

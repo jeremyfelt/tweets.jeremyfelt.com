@@ -446,7 +446,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "wpcli",
       "protected" : false,
       "id_str" : "994698943",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2942896539\/91f00f86505b18e130e3499ee61db36e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/869993391844503553\/7HbihNpF_normal.jpg",
       "id" : 994698943,
       "verified" : false
     }
@@ -1124,7 +1124,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "PortlandPolice",
       "protected" : false,
       "id_str" : "14604442",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/861980148291092480\/lvz0FGQ9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/876808354533748736\/uSOczaan_normal.jpg",
       "id" : 14604442,
       "verified" : true
     }
@@ -1339,7 +1339,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ted Han",
+      "name" : "Ted Han \u2605",
       "screen_name" : "knowtheory",
       "indices" : [ 10, 21 ],
       "id_str" : "14227842",
@@ -1724,7 +1724,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "mor10",
       "protected" : false,
       "id_str" : "14611891",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/855110255839027200\/Vo02IagX_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/876835802784845824\/eFDYjj4X_normal.jpg",
       "id" : 14611891,
       "verified" : true
     }
@@ -1785,7 +1785,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "wpcli",
       "protected" : false,
       "id_str" : "994698943",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2942896539\/91f00f86505b18e130e3499ee61db36e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/869993391844503553\/7HbihNpF_normal.jpg",
       "id" : 994698943,
       "verified" : false
     }
@@ -2560,7 +2560,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807755435889590272\/rPZoXAOc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/880115655164518400\/8tnsA7XI_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }
@@ -3106,7 +3106,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Temple of the Doug",
+      "name" : "You'reTheManNowDoug",
       "screen_name" : "zamoose",
       "indices" : [ 3, 11 ],
       "id_str" : "819148",
@@ -3165,7 +3165,7 @@ Grailbird.data.tweets_2014_04 =
     "id" : 456044153311592448,
     "created_at" : "2014-04-15 12:19:33 +0000",
     "user" : {
-      "name" : "Temple of the Doug",
+      "name" : "You'reTheManNowDoug",
       "screen_name" : "zamoose",
       "protected" : false,
       "id_str" : "819148",
@@ -4023,7 +4023,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "EFF",
       "protected" : false,
       "id_str" : "4816",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/817785861144096768\/ySDGAT0S_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/877299816228835328\/BzlF5IzF_normal.jpg",
       "id" : 4816,
       "verified" : true
     }
@@ -6559,7 +6559,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Temple of the Doug",
+      "name" : "You'reTheManNowDoug",
       "screen_name" : "zamoose",
       "indices" : [ 97, 105 ],
       "id_str" : "819148",
@@ -6879,7 +6879,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "michellefelt",
       "protected" : false,
       "id_str" : "32924315",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/843540213460688896\/6tSWkrmt_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/883733733404164096\/kpm4hFsl_normal.jpg",
       "id" : 32924315,
       "verified" : false
     }

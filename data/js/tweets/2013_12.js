@@ -2320,6 +2320,12 @@ Grailbird.data.tweets_2013_12 =
       "indices" : [ 14, 22 ],
       "id_str" : "552844848",
       "id" : 552844848
+    }, {
+      "name" : "Sarah Pressler",
+      "screen_name" : "SarahPressler",
+      "indices" : [ 23, 37 ],
+      "id_str" : "867584134457196544",
+      "id" : 867584134457196544
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2348,6 +2354,12 @@ Grailbird.data.tweets_2013_12 =
       "indices" : [ 0, 8 ],
       "id_str" : "552844848",
       "id" : 552844848
+    }, {
+      "name" : "Sarah Pressler",
+      "screen_name" : "SarahPressler",
+      "indices" : [ 9, 23 ],
+      "id_str" : "867584134457196544",
+      "id" : 867584134457196544
     }, {
       "name" : "Robert Neu",
       "screen_name" : "realFATmedia",
@@ -3417,7 +3429,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "washingtonpost",
       "protected" : false,
       "id_str" : "2467791",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/753656134565785600\/iQ1GX-ov_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875440182501277696\/n-Ic9nBO_normal.jpg",
       "id" : 2467791,
       "verified" : true
     }
@@ -4063,7 +4075,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Temple of the Doug",
+      "name" : "You'reTheManNowDoug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -5456,7 +5468,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "helenhousandi",
       "protected" : false,
       "id_str" : "21204689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807755435889590272\/rPZoXAOc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/880115655164518400\/8tnsA7XI_normal.jpg",
       "id" : 21204689,
       "verified" : false
     }
@@ -5532,7 +5544,7 @@ Grailbird.data.tweets_2013_12 =
       "screen_name" : "westonruter",
       "protected" : false,
       "id_str" : "12887432",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/825927598723129346\/dv4DOZCf_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/888533424138473473\/cLowhLjb_normal.jpg",
       "id" : 12887432,
       "verified" : false
     }
@@ -5847,7 +5859,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \u2602\uFE0F",
+      "name" : "Ryan McCue \u2744\uFE0F",
       "screen_name" : "rmccue",
       "indices" : [ 3, 10 ],
       "id_str" : "6306542",
@@ -5884,7 +5896,7 @@ Grailbird.data.tweets_2013_12 =
     "id" : 412181766619660288,
     "created_at" : "2013-12-15 11:26:05 +0000",
     "user" : {
-      "name" : "Ryan McCue \u2602\uFE0F",
+      "name" : "Ryan McCue \u2744\uFE0F",
       "screen_name" : "rmccue",
       "protected" : false,
       "id_str" : "6306542",
@@ -5933,118 +5945,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jer",
-      "screen_name" : "JerMeansWell",
-      "indices" : [ 3, 16 ],
-      "id_str" : "15011877",
-      "id" : 15011877
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/JerMeansWell\/status\/411971794040418304\/photo\/1",
-      "indices" : [ 41, 63 ],
-      "url" : "http:\/\/t.co\/24ApzTVD5c",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BbeeKfmCcAAP-Wr.jpg",
-      "id_str" : "411971794044612608",
-      "id" : 411971794044612608,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BbeeKfmCcAAP-Wr.jpg",
-      "sizes" : [ {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 720,
-        "resize" : "fit",
-        "w" : 960
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 255,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 720,
-        "resize" : "fit",
-        "w" : 960
-      } ],
-      "display_url" : "pic.twitter.com\/24ApzTVD5c"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "412260740657987584",
-  "text" : "RT @JerMeansWell: OH SHIT IT'S HAPPENING http:\/\/t.co\/24ApzTVD5c",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/JerMeansWell\/status\/411971794040418304\/photo\/1",
-        "indices" : [ 23, 45 ],
-        "url" : "http:\/\/t.co\/24ApzTVD5c",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BbeeKfmCcAAP-Wr.jpg",
-        "id_str" : "411971794044612608",
-        "id" : 411971794044612608,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BbeeKfmCcAAP-Wr.jpg",
-        "sizes" : [ {
-          "h" : 450,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 720,
-          "resize" : "fit",
-          "w" : 960
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 255,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 720,
-          "resize" : "fit",
-          "w" : 960
-        } ],
-        "display_url" : "pic.twitter.com\/24ApzTVD5c"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "411971794040418304",
-    "text" : "OH SHIT IT'S HAPPENING http:\/\/t.co\/24ApzTVD5c",
-    "id" : 411971794040418304,
-    "created_at" : "2013-12-14 21:31:44 +0000",
-    "user" : {
-      "name" : "jer",
-      "screen_name" : "JerMeansWell",
-      "protected" : false,
-      "id_str" : "15011877",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/834952163415580672\/WxoNiRzJ_normal.jpg",
-      "id" : 15011877,
-      "verified" : false
-    }
-  },
-  "id" : 412260740657987584,
-  "created_at" : "2013-12-15 16:39:54 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Matt Haughey",
+      "name" : "Matt Haughey \u2764\uFE0F\u2764\uFE0F\uD83D\uDC9B",
       "screen_name" : "mathowie",
       "indices" : [ 3, 12 ],
       "id_str" : "761975",
@@ -6071,11 +5972,11 @@ Grailbird.data.tweets_2013_12 =
     "id" : 412119715855626241,
     "created_at" : "2013-12-15 07:19:31 +0000",
     "user" : {
-      "name" : "Matt Haughey",
+      "name" : "Matt Haughey \u2764\uFE0F\u2764\uFE0F\uD83D\uDC9B",
       "screen_name" : "mathowie",
       "protected" : false,
       "id_str" : "761975",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796255913904508928\/Z5hvacVZ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/876424596290805760\/LZge5tmV_normal.jpg",
       "id" : 761975,
       "verified" : false
     }
@@ -7571,7 +7472,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \u2602\uFE0F",
+      "name" : "Ryan McCue \u2744\uFE0F",
       "screen_name" : "rmccue",
       "indices" : [ 3, 10 ],
       "id_str" : "6306542",
@@ -7615,7 +7516,7 @@ Grailbird.data.tweets_2013_12 =
     "id" : 410668982719377408,
     "created_at" : "2013-12-11 07:14:50 +0000",
     "user" : {
-      "name" : "Ryan McCue \u2602\uFE0F",
+      "name" : "Ryan McCue \u2744\uFE0F",
       "screen_name" : "rmccue",
       "protected" : false,
       "id_str" : "6306542",
@@ -7694,7 +7595,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Haughey",
+      "name" : "Matt Haughey \u2764\uFE0F\u2764\uFE0F\uD83D\uDC9B",
       "screen_name" : "mathowie",
       "indices" : [ 95, 104 ],
       "id_str" : "761975",
@@ -10174,7 +10075,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \u2602\uFE0F",
+      "name" : "Ryan McCue \u2744\uFE0F",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",

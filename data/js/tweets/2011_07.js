@@ -162,7 +162,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "joshtpm",
       "protected" : false,
       "id_str" : "21268897",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/861299248603832320\/sfSC_cL4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/889202402745876480\/kNFtuSME_normal.jpg",
       "id" : 21268897,
       "verified" : true
     }
@@ -426,7 +426,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "TheOnion",
       "protected" : false,
       "id_str" : "14075928",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/594130975992328193\/I0qqRlzA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875392068125769732\/yrN-1k0Y_normal.jpg",
       "id" : 14075928,
       "verified" : true
     }
@@ -1360,7 +1360,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "This Is Not Normal",
+      "name" : "Unfortunate Son",
       "screen_name" : "JonnieMarbLes",
       "indices" : [ 35, 49 ],
       "id_str" : "17201202",
@@ -1391,7 +1391,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "This Is Not Normal",
+      "name" : "Unfortunate Son",
       "screen_name" : "JonnieMarbLes",
       "indices" : [ 3, 17 ],
       "id_str" : "17201202",
@@ -1418,11 +1418,11 @@ Grailbird.data.tweets_2011_07 =
     "id" : 93065424387842048,
     "created_at" : "2011-07-18 21:11:40 +0000",
     "user" : {
-      "name" : "This Is Not Normal",
+      "name" : "Unfortunate Son",
       "screen_name" : "JonnieMarbLes",
       "protected" : false,
       "id_str" : "17201202",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796907735925354496\/3CdR9G9k_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875692458079866880\/u0j6KTlR_normal.jpg",
       "id" : 17201202,
       "verified" : false
     }
@@ -2289,7 +2289,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "marshallk",
       "protected" : false,
       "id_str" : "818340",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/822856912618127360\/kNYT-QNS_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/893593849997570048\/tCZepD7L_normal.jpg",
       "id" : 818340,
       "verified" : true
     }
@@ -2671,7 +2671,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "GroovyBruce",
       "protected" : false,
       "id_str" : "282392576",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/845184476074291200\/fkC2rYuT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/891109253859000320\/0V0K_9Mp_normal.jpg",
       "id" : 282392576,
       "verified" : true
     }
@@ -3417,7 +3417,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ted Han",
+      "name" : "Ted Han \u2605",
       "screen_name" : "knowtheory",
       "indices" : [ 0, 11 ],
       "id_str" : "14227842",
@@ -3474,7 +3474,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "1741681",
       "id" : 1741681
     }, {
-      "name" : "Ted Han",
+      "name" : "Ted Han \u2605",
       "screen_name" : "knowtheory",
       "indices" : [ 28, 39 ],
       "id_str" : "14227842",
@@ -3503,7 +3503,7 @@ Grailbird.data.tweets_2011_07 =
         "id_str" : "1741681",
         "id" : 1741681
       }, {
-        "name" : "Ted Han",
+        "name" : "Ted Han \u2605",
         "screen_name" : "knowtheory",
         "indices" : [ 12, 23 ],
         "id_str" : "14227842",
@@ -3554,7 +3554,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ted Han",
+      "name" : "Ted Han \u2605",
       "screen_name" : "knowtheory",
       "indices" : [ 0, 11 ],
       "id_str" : "14227842",
@@ -3611,7 +3611,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "17687524",
       "id" : 17687524
     }, {
-      "name" : "Ted Han",
+      "name" : "Ted Han \u2605",
       "screen_name" : "knowtheory",
       "indices" : [ 24, 35 ],
       "id_str" : "14227842",

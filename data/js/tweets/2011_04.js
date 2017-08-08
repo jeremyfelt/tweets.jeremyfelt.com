@@ -1115,7 +1115,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "stuef",
       "protected" : false,
       "id_str" : "25745651",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/857356242074959872\/2W3CJj0r_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875469805465292802\/FYQfqCdt_normal.jpg",
       "id" : 25745651,
       "verified" : false
     }
@@ -1947,7 +1947,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856665797346775040\/H4iW672u_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/885633791762366465\/ExQZdJxY_normal.jpg",
       "id" : 22872643,
       "verified" : true
     }
@@ -1967,7 +1967,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Color Genomics",
+      "name" : "Color",
       "screen_name" : "Color",
       "indices" : [ 22, 28 ],
       "id_str" : "2590811666",

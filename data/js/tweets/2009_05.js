@@ -448,6 +448,28 @@ Grailbird.data.tweets_2009_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1962281711",
+  "text" : "For example, I just saw that our local High School was closing because of a gas leak. This from two local sources, fairly quickly.",
+  "id" : 1962281711,
+  "created_at" : "2009-05-29 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Dave Winer",
       "screen_name" : "davewiner",
@@ -891,28 +913,6 @@ Grailbird.data.tweets_2009_05 =
   "id_str" : "1962258933",
   "text" : "I think local newspapers (in some areas) are probably using Twitter better than the larger ones. They don't HAVE to focus on the nation.",
   "id" : 1962258933,
-  "created_at" : "2009-05-29 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1962281711",
-  "text" : "For example, I just saw that our local High School was closing because of a gas leak. This from two local sources, fairly quickly.",
-  "id" : 1962281711,
   "created_at" : "2009-05-29 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -1698,6 +1698,34 @@ Grailbird.data.tweets_2009_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Google",
+      "screen_name" : "Google",
+      "indices" : [ 63, 70 ],
+      "id_str" : "20536157",
+      "id" : 20536157
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1918707108",
+  "text" : "Amazing Stuff - Nathan \"Flutebox\" Lee and Beardyman performing @Google, London http:\/\/bit.ly\/yf77f",
+  "id" : 1918707108,
+  "created_at" : "2009-05-26 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1872,34 +1900,6 @@ Grailbird.data.tweets_2009_05 =
   "id_str" : "1929671286",
   "text" : "ha ha, nevermind, I knew that would cause it to come up - check out topsy.com it's working. http:\/\/bit.ly\/Bgbp9",
   "id" : 1929671286,
-  "created_at" : "2009-05-26 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Google",
-      "screen_name" : "Google",
-      "indices" : [ 63, 70 ],
-      "id_str" : "20536157",
-      "id" : 20536157
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1918707108",
-  "text" : "Amazing Stuff - Nathan \"Flutebox\" Lee and Beardyman performing @Google, London http:\/\/bit.ly\/yf77f",
-  "id" : 1918707108,
   "created_at" : "2009-05-26 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -3070,6 +3070,28 @@ Grailbird.data.tweets_2009_05 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "1812925113",
+  "text" : "Playing with Wolfram Alpha. It's early, but it seems like they aren't playing with enough data yet. Somewhat boring. http:\/\/tr.im\/luK8",
+  "id" : 1812925113,
+  "created_at" : "2009-05-16 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "1812720256",
   "text" : "Cat yodeling will soon take over the universe and you don't want to be left behind. http:\/\/tr.im\/luG0",
   "id" : 1812720256,
@@ -3095,28 +3117,6 @@ Grailbird.data.tweets_2009_05 =
   "id_str" : "1812780591",
   "text" : "\"I assume Obama's doing a good job since the biggest douchebags in the country think he's doing a bad job.\" http:\/\/tr.im\/luH8",
   "id" : 1812780591,
-  "created_at" : "2009-05-16 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1812925113",
-  "text" : "Playing with Wolfram Alpha. It's early, but it seems like they aren't playing with enough data yet. Somewhat boring. http:\/\/tr.im\/luK8",
-  "id" : 1812925113,
   "created_at" : "2009-05-16 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",

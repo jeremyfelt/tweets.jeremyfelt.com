@@ -456,7 +456,7 @@ Grailbird.data.tweets_2015_02 =
       "screen_name" : "Sci_Phile",
       "protected" : false,
       "id_str" : "60709500",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842018411790049281\/-pQYtv6z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/865410023827976193\/jI8DRKCM_normal.jpg",
       "id" : 60709500,
       "verified" : true
     }
@@ -732,7 +732,7 @@ Grailbird.data.tweets_2015_02 =
       "id_str" : "14558147",
       "id" : 14558147
     }, {
-      "name" : "Temple of the Doug",
+      "name" : "You'reTheManNowDoug",
       "screen_name" : "zamoose",
       "indices" : [ 10, 18 ],
       "id_str" : "819148",
@@ -1009,7 +1009,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan D. Sullivan",
+      "name" : "Ryan Sullivan",
       "screen_name" : "ryandonsullivan",
       "indices" : [ 0, 16 ],
       "id_str" : "87823613",
@@ -1042,7 +1042,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan D. Sullivan",
+      "name" : "Ryan Sullivan",
       "screen_name" : "ryandonsullivan",
       "indices" : [ 0, 16 ],
       "id_str" : "87823613",
@@ -1657,7 +1657,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Temple of the Doug",
+      "name" : "You'reTheManNowDoug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -2536,7 +2536,7 @@ Grailbird.data.tweets_2015_02 =
       "id_str" : "335110427",
       "id" : 335110427
     }, {
-      "name" : "Ryan D. Sullivan",
+      "name" : "Ryan Sullivan",
       "screen_name" : "ryandonsullivan",
       "indices" : [ 10, 26 ],
       "id_str" : "87823613",
@@ -2671,7 +2671,7 @@ Grailbird.data.tweets_2015_02 =
       "screen_name" : "lenovoUS",
       "protected" : false,
       "id_str" : "1933340930",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838763818511712256\/kA6XcYyd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/889853698939256832\/blmJKRjY_normal.jpg",
       "id" : 1933340930,
       "verified" : true
     }
@@ -3281,7 +3281,7 @@ Grailbird.data.tweets_2015_02 =
       "screen_name" : "xor",
       "protected" : false,
       "id_str" : "24500377",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/755094751397883904\/3MVx1w6S_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/869631001336598528\/Tl-HgRgP_normal.jpg",
       "id" : 24500377,
       "verified" : true
     }
@@ -4542,7 +4542,7 @@ Grailbird.data.tweets_2015_02 =
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/786179830266167296\/AmZpJJLv_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/873754786885234688\/HaMZ0qjM_normal.jpg",
       "id" : 36823,
       "verified" : true
     }
@@ -5665,7 +5665,7 @@ Grailbird.data.tweets_2015_02 =
       "screen_name" : "xor",
       "protected" : false,
       "id_str" : "24500377",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/755094751397883904\/3MVx1w6S_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/869631001336598528\/Tl-HgRgP_normal.jpg",
       "id" : 24500377,
       "verified" : true
     }
@@ -6072,7 +6072,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \u2602\uFE0F",
+      "name" : "Ryan McCue \u2744\uFE0F",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -6105,7 +6105,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \u2602\uFE0F",
+      "name" : "Ryan McCue \u2744\uFE0F",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -6138,7 +6138,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \u2602\uFE0F",
+      "name" : "Ryan McCue \u2744\uFE0F",
       "screen_name" : "rmccue",
       "indices" : [ 41, 48 ],
       "id_str" : "6306542",
@@ -6171,7 +6171,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \u2602\uFE0F",
+      "name" : "Ryan McCue \u2744\uFE0F",
       "screen_name" : "rmccue",
       "indices" : [ 3, 10 ],
       "id_str" : "6306542",
@@ -6208,7 +6208,7 @@ Grailbird.data.tweets_2015_02 =
     "id" : 564668228924755970,
     "created_at" : "2015-02-09 06:12:51 +0000",
     "user" : {
-      "name" : "Ryan McCue \u2602\uFE0F",
+      "name" : "Ryan McCue \u2744\uFE0F",
       "screen_name" : "rmccue",
       "protected" : false,
       "id_str" : "6306542",
@@ -6389,7 +6389,7 @@ Grailbird.data.tweets_2015_02 =
       "screen_name" : "HarvardBiz",
       "protected" : false,
       "id_str" : "14800270",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/600303920125214721\/uy-506Vm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/890310669739991040\/wXqj8htb_normal.jpg",
       "id" : 14800270,
       "verified" : true
     }
@@ -7101,7 +7101,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Temple of the Doug",
+      "name" : "You'reTheManNowDoug",
       "screen_name" : "zamoose",
       "indices" : [ 3, 11 ],
       "id_str" : "819148",
@@ -7150,7 +7150,7 @@ Grailbird.data.tweets_2015_02 =
     "id" : 564157318632583168,
     "created_at" : "2015-02-07 20:22:40 +0000",
     "user" : {
-      "name" : "Temple of the Doug",
+      "name" : "You'reTheManNowDoug",
       "screen_name" : "zamoose",
       "protected" : false,
       "id_str" : "819148",
@@ -7345,7 +7345,7 @@ Grailbird.data.tweets_2015_02 =
       "screen_name" : "michellefelt",
       "protected" : false,
       "id_str" : "32924315",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/843540213460688896\/6tSWkrmt_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/883733733404164096\/kpm4hFsl_normal.jpg",
       "id" : 32924315,
       "verified" : false
     }
@@ -7442,7 +7442,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "A Saunterin' Fella",
+      "name" : "(craig mod)",
       "screen_name" : "craigmod",
       "indices" : [ 3, 12 ],
       "id_str" : "1835951",
@@ -7469,7 +7469,7 @@ Grailbird.data.tweets_2015_02 =
     "id" : 563919653949300736,
     "created_at" : "2015-02-07 04:38:17 +0000",
     "user" : {
-      "name" : "A Saunterin' Fella",
+      "name" : "(craig mod)",
       "screen_name" : "craigmod",
       "protected" : false,
       "id_str" : "1835951",
@@ -7493,7 +7493,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "A Saunterin' Fella",
+      "name" : "(craig mod)",
       "screen_name" : "craigmod",
       "indices" : [ 3, 12 ],
       "id_str" : "1835951",
@@ -7520,7 +7520,7 @@ Grailbird.data.tweets_2015_02 =
     "id" : 563917833331945472,
     "created_at" : "2015-02-07 04:31:03 +0000",
     "user" : {
-      "name" : "A Saunterin' Fella",
+      "name" : "(craig mod)",
       "screen_name" : "craigmod",
       "protected" : false,
       "id_str" : "1835951",
@@ -7747,7 +7747,7 @@ Grailbird.data.tweets_2015_02 =
       "screen_name" : "michellefelt",
       "protected" : false,
       "id_str" : "32924315",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/843540213460688896\/6tSWkrmt_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/883733733404164096\/kpm4hFsl_normal.jpg",
       "id" : 32924315,
       "verified" : false
     }
@@ -9134,7 +9134,7 @@ Grailbird.data.tweets_2015_02 =
       "screen_name" : "mor10",
       "protected" : false,
       "id_str" : "14611891",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/855110255839027200\/Vo02IagX_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/876835802784845824\/eFDYjj4X_normal.jpg",
       "id" : 14611891,
       "verified" : true
     }
@@ -9550,7 +9550,7 @@ Grailbird.data.tweets_2015_02 =
       "screen_name" : "earnjam",
       "protected" : false,
       "id_str" : "15149639",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/854316040020480001\/qWQWbJ-N_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/877212746105970688\/mv5eCCQQ_normal.jpg",
       "id" : 15149639,
       "verified" : false
     }
@@ -9623,7 +9623,7 @@ Grailbird.data.tweets_2015_02 =
       "screen_name" : "SethDavisHoops",
       "protected" : false,
       "id_str" : "38002432",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/836927978546192385\/XTjDewCK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/891080244299300864\/AWPnRAyo_normal.jpg",
       "id" : 38002432,
       "verified" : true
     }
@@ -9800,7 +9800,7 @@ Grailbird.data.tweets_2015_02 =
       "screen_name" : "BaileyLAKings",
       "protected" : false,
       "id_str" : "205938397",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/859896746134167552\/sWihXfOv_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/864195494586720256\/BV2XVBuQ_normal.jpg",
       "id" : 205938397,
       "verified" : true
     }
@@ -9918,6 +9918,67 @@ Grailbird.data.tweets_2015_02 =
   },
   "id" : 562061429268697089,
   "created_at" : "2015-02-02 01:34:21 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "HalfTimeShow",
+      "indices" : [ 48, 61 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 62, 85 ],
+      "url" : "https:\/\/t.co\/dSoNuVgBnF",
+      "expanded_url" : "https:\/\/vine.co\/v\/Ot0jViMbWxE",
+      "display_url" : "vine.co\/v\/Ot0jViMbWxE"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "562061290869256195",
+  "text" : "RT @Coach_Marra: Katy Perry dancing with sharks #HalfTimeShow https:\/\/t.co\/dSoNuVgBnF",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003EMobile Web\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "HalfTimeShow",
+        "indices" : [ 31, 44 ]
+      } ],
+      "urls" : [ {
+        "indices" : [ 45, 68 ],
+        "url" : "https:\/\/t.co\/dSoNuVgBnF",
+        "expanded_url" : "https:\/\/vine.co\/v\/Ot0jViMbWxE",
+        "display_url" : "vine.co\/v\/Ot0jViMbWxE"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "562060516651458560",
+    "text" : "Katy Perry dancing with sharks #HalfTimeShow https:\/\/t.co\/dSoNuVgBnF",
+    "id" : 562060516651458560,
+    "created_at" : "2015-02-02 01:30:44 +0000",
+    "user" : {
+      "name" : "Patrick Joseph",
+      "screen_name" : "MarraPat",
+      "protected" : false,
+      "id_str" : "274598037",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/877251359170580481\/8TGecREr_normal.jpg",
+      "id" : 274598037,
+      "verified" : false
+    }
+  },
+  "id" : 562061290869256195,
+  "created_at" : "2015-02-02 01:33:48 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

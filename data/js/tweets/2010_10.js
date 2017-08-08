@@ -227,7 +227,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jason Shellen",
+      "name" : "\u26A1\uFE0FJason Shellen",
       "screen_name" : "shellen",
       "indices" : [ 3, 11 ],
       "id_str" : "422",
@@ -254,7 +254,7 @@ Grailbird.data.tweets_2010_10 =
     "id" : 28839064564,
     "created_at" : "2010-10-27 00:00:07 +0000",
     "user" : {
-      "name" : "Jason Shellen",
+      "name" : "\u26A1\uFE0FJason Shellen",
       "screen_name" : "shellen",
       "protected" : false,
       "id_str" : "422",
@@ -1804,7 +1804,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "iaindodsworth",
       "protected" : false,
       "id_str" : "14148963",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/824724245649457157\/XLLuPoCc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/877486013119176704\/n_puyf6D_normal.jpg",
       "id" : 14148963,
       "verified" : false
     }
@@ -2827,7 +2827,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "lgolborne",
       "protected" : false,
       "id_str" : "114837438",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000361235454\/d7d57233186022be0585a3da91523158_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/876108048313536512\/zwAGhsTR_normal.jpg",
       "id" : 114837438,
       "verified" : true
     }
@@ -3387,7 +3387,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847921823429914627\/gTnLvjkw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/888857400886906881\/TfGkETi-_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -3916,7 +3916,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "palafo",
       "protected" : false,
       "id_str" : "2020351",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/681245272077414400\/jiQ_xOJ__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/876543332809408512\/BrgFI22K_normal.jpg",
       "id" : 2020351,
       "verified" : true
     }
@@ -4177,7 +4177,7 @@ Grailbird.data.tweets_2010_10 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter API",
-      "screen_name" : "twitterapi",
+      "screen_name" : "TwitterAPI",
       "indices" : [ 0, 11 ],
       "id_str" : "6253282",
       "id" : 6253282
@@ -4194,7 +4194,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26599834773,
   "in_reply_to_status_id" : 26597477580,
   "created_at" : "2010-10-07 00:00:00 +0000",
-  "in_reply_to_screen_name" : "twitterapi",
+  "in_reply_to_screen_name" : "TwitterAPI",
   "in_reply_to_user_id_str" : "6253282",
   "user" : {
     "name" : "Jeremy Felt",
@@ -4311,7 +4311,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF31 Matt Terenzio",
+      "name" : "\uD83D\uDE80Terenzio",
       "screen_name" : "mterenzio",
       "indices" : [ 0, 10 ],
       "id_str" : "820002",
@@ -4655,7 +4655,7 @@ Grailbird.data.tweets_2010_10 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter API",
-      "screen_name" : "twitterapi",
+      "screen_name" : "TwitterAPI",
       "indices" : [ 38, 49 ],
       "id_str" : "6253282",
       "id" : 6253282
@@ -4860,7 +4860,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "TheAtlNews",
       "protected" : false,
       "id_str" : "73190286",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/646059241581711360\/1l3AZQAR_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/880189029953789952\/5B12qxpG_normal.jpg",
       "id" : 73190286,
       "verified" : true
     }

@@ -315,6 +315,28 @@ Grailbird.data.tweets_2009_06 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "2255137882",
+  "text" : "Very thorough writeup - \"Situation in Iran\", including the possibility of a group (NIR) fighting Besiji http:\/\/bit.ly\/FRhKP",
+  "id" : 2255137882,
+  "created_at" : "2009-06-20 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "2255165680",
   "text" : "Torrents to Iran election (protest\/revolution) videos. http:\/\/bit.ly\/6rm9K",
   "id" : 2255165680,
@@ -1021,28 +1043,6 @@ Grailbird.data.tweets_2009_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2255137882",
-  "text" : "Very thorough writeup - \"Situation in Iran\", including the possibility of a group (NIR) fighting Besiji http:\/\/bit.ly\/FRhKP",
-  "id" : 2255137882,
-  "created_at" : "2009-06-20 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -1067,13 +1067,7 @@ Grailbird.data.tweets_2009_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Steph",
-      "screen_name" : "Steph_Travels",
-      "indices" : [ 0, 14 ],
-      "id_str" : "24651876",
-      "id" : 24651876
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1598,6 +1592,28 @@ Grailbird.data.tweets_2009_06 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2218035126",
+  "text" : "RT myself b\/c this song has been on repeat - \u201CMy elementary school mate\u201D - A theme song for revolution. Good one too.  http:\/\/bit.ly\/NJ2Zn",
+  "id" : 2218035126,
+  "created_at" : "2009-06-18 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -2045,28 +2061,6 @@ Grailbird.data.tweets_2009_06 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "2218035126",
-  "text" : "RT myself b\/c this song has been on repeat - \u201CMy elementary school mate\u201D - A theme song for revolution. Good one too.  http:\/\/bit.ly\/NJ2Zn",
-  "id" : 2218035126,
-  "created_at" : "2009-06-18 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "2200054620",
   "text" : "The Speed Counters of Iran \u2013 40 million votes in 12 hours (More possible than I thought) http:\/\/bit.ly\/VUSNY",
   "id" : 2200054620,
@@ -2385,6 +2379,37 @@ Grailbird.data.tweets_2009_06 =
   "text" : "Watching first episode of state of play (BBC) on the treadmill. Good stuff so far!",
   "id" : 2214274117,
   "created_at" : "2009-06-17 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "miriam yudit lopez",
+      "screen_name" : "mirriaam",
+      "indices" : [ 3, 12 ],
+      "id_str" : "323342253",
+      "id" : 323342253
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "iranelection",
+      "indices" : [ 99, 112 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2192460876",
+  "text" : "RT @Mirriaam nearly 4000 of mosavi's supporters are sitting silently in Azadi st. 18.30 pm. Tehran #iranelection",
+  "id" : 2192460876,
+  "created_at" : "2009-06-16 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3126,37 +3151,6 @@ Grailbird.data.tweets_2009_06 =
   "id_str" : "2192233346",
   "text" : "Iran bars foreign media from reporting on streets. http:\/\/tr.im\/oF6b",
   "id" : 2192233346,
-  "created_at" : "2009-06-16 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "miriam yudit lopez",
-      "screen_name" : "mirriaam",
-      "indices" : [ 3, 12 ],
-      "id_str" : "323342253",
-      "id" : 323342253
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "iranelection",
-      "indices" : [ 99, 112 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2192460876",
-  "text" : "RT @Mirriaam nearly 4000 of mosavi's supporters are sitting silently in Azadi st. 18.30 pm. Tehran #iranelection",
-  "id" : 2192460876,
   "created_at" : "2009-06-16 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -4010,7 +4004,7 @@ Grailbird.data.tweets_2009_06 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter API",
-      "screen_name" : "twitterapi",
+      "screen_name" : "TwitterAPI",
       "indices" : [ 3, 14 ],
       "id_str" : "6253282",
       "id" : 6253282
@@ -4049,7 +4043,7 @@ Grailbird.data.tweets_2009_06 =
       "id_str" : "13",
       "id" : 13
     }, {
-      "name" : "Alex Payne \uD83C\uDF39",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 9, 14 ],
       "id_str" : "18713",
@@ -4142,7 +4136,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne \uD83C\uDF39",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -4223,7 +4217,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne \uD83C\uDF39",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 9, 14 ],
       "id_str" : "18713",
@@ -4282,6 +4276,28 @@ Grailbird.data.tweets_2009_06 =
   "text" : "Twitter and their hosting company are amazing! They rescheduled the maintenance for tomorrow afternoon.",
   "id" : 2184881327,
   "created_at" : "2009-06-15 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2169183212",
+  "text" : "Ladderball own. I'm red. :) http:\/\/post.ly\/qXs",
+  "id" : 2169183212,
+  "created_at" : "2009-06-14 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5094,28 +5110,6 @@ Grailbird.data.tweets_2009_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2169183212",
-  "text" : "Ladderball own. I'm red. :) http:\/\/post.ly\/qXs",
-  "id" : 2169183212,
-  "created_at" : "2009-06-14 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -5517,6 +5511,28 @@ Grailbird.data.tweets_2009_06 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "2138414496",
+  "text" : "Gin season is a good time of the year.",
+  "id" : 2138414496,
+  "created_at" : "2009-06-12 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "2138440528",
   "text" : "Going to tusk for dinner. Second best thai place in town. Best peanut sauce though.",
   "id" : 2138440528,
@@ -5811,28 +5827,6 @@ Grailbird.data.tweets_2009_06 =
   "id_str" : "2138238358",
   "text" : "Thinking hard.",
   "id" : 2138238358,
-  "created_at" : "2009-06-12 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2138414496",
-  "text" : "Gin season is a good time of the year.",
-  "id" : 2138414496,
   "created_at" : "2009-06-12 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -6540,6 +6534,28 @@ Grailbird.data.tweets_2009_06 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/toptwit.com\" rel=\"nofollow\"\u003ETopTwit\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2070172114",
+  "text" : "Testing oauth update. Should probably create a test twitter account for this. This will be the only test.",
+  "id" : 2070172114,
+  "created_at" : "2009-06-08 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -6754,28 +6770,6 @@ Grailbird.data.tweets_2009_06 =
   "id_str" : "2080926637",
   "text" : "Yeesh, geek APIs are so much easier to play with than CC processing APIs. Seem to be better documented too, funny enough.",
   "id" : 2080926637,
-  "created_at" : "2009-06-08 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/toptwit.com\" rel=\"nofollow\"\u003ETopTwit\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2070172114",
-  "text" : "Testing oauth update. Should probably create a test twitter account for this. This will be the only test.",
-  "id" : 2070172114,
   "created_at" : "2009-06-08 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -7434,7 +7428,7 @@ Grailbird.data.tweets_2009_06 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Twitter API",
-      "screen_name" : "twitterapi",
+      "screen_name" : "TwitterAPI",
       "indices" : [ 53, 64 ],
       "id_str" : "6253282",
       "id" : 6253282
@@ -7796,6 +7790,34 @@ Grailbird.data.tweets_2009_06 =
   "text" : "Argh. Goole Squared is very much a Labs product. I can't save or export a cool one that I just did.",
   "id" : 2034135936,
   "created_at" : "2009-06-04 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Bing",
+      "screen_name" : "bing",
+      "indices" : [ 5, 10 ],
+      "id_str" : "14874480",
+      "id" : 14874480
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "2007642487",
+  "text" : "Does @bing have a deal with Kayak or are the interfaces just similar for the heck of it?",
+  "id" : 2007642487,
+  "created_at" : "2009-06-02 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -8421,34 +8443,6 @@ Grailbird.data.tweets_2009_06 =
   "id_str" : "2007494672",
   "text" : "I may visit bing every day just for the random trivia bubbles on their main image.",
   "id" : 2007494672,
-  "created_at" : "2009-06-02 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Bing",
-      "screen_name" : "bing",
-      "indices" : [ 5, 10 ],
-      "id_str" : "14874480",
-      "id" : 14874480
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "2007642487",
-  "text" : "Does @bing have a deal with Kayak or are the interfaces just similar for the heck of it?",
-  "id" : 2007642487,
   "created_at" : "2009-06-02 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",

@@ -341,7 +341,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "loic",
       "protected" : false,
       "id_str" : "740983",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/785503694787907584\/e3VSP_Qz_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/893499988142993409\/1VE2IMQY_normal.jpg",
       "id" : 740983,
       "verified" : true
     }
@@ -828,7 +828,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "kellyoxford",
       "protected" : false,
       "id_str" : "22872643",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856665797346775040\/H4iW672u_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/885633791762366465\/ExQZdJxY_normal.jpg",
       "id" : 22872643,
       "verified" : true
     }
@@ -914,7 +914,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chris Messina \uD83E\uDD85",
+      "name" : "\u2317ChrisMessina",
       "screen_name" : "chrismessina",
       "indices" : [ 3, 16 ],
       "id_str" : "1186",
@@ -953,11 +953,11 @@ Grailbird.data.tweets_2010_08 =
     "id" : 22471537663,
     "created_at" : "2010-08-29 22:13:10 +0000",
     "user" : {
-      "name" : "Chris Messina \uD83E\uDD85",
+      "name" : "\u2317ChrisMessina",
       "screen_name" : "chrismessina",
       "protected" : false,
       "id_str" : "1186",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/825572514063540224\/9-GVCuy-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/887770946702000129\/RSecocBi_normal.jpg",
       "id" : 1186,
       "verified" : true
     }
@@ -2025,7 +2025,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Cody Brown",
+      "name" : "CodyB",
       "screen_name" : "CodyBrown",
       "indices" : [ 3, 13 ],
       "id_str" : "10950722",
@@ -2064,7 +2064,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 22123857843,
     "created_at" : "2010-08-25 22:13:25 +0000",
     "user" : {
-      "name" : "Cody Brown",
+      "name" : "CodyB",
       "screen_name" : "CodyBrown",
       "protected" : false,
       "id_str" : "10950722",
@@ -2803,7 +2803,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "davewiner",
       "protected" : false,
       "id_str" : "3839",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847921823429914627\/gTnLvjkw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/888857400886906881\/TfGkETi-_normal.jpg",
       "id" : 3839,
       "verified" : true
     }
@@ -2867,7 +2867,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jason Shellen",
+      "name" : "\u26A1\uFE0FJason Shellen",
       "screen_name" : "shellen",
       "indices" : [ 3, 11 ],
       "id_str" : "422",
@@ -2894,7 +2894,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 21447178258,
     "created_at" : "2010-08-18 00:39:31 +0000",
     "user" : {
-      "name" : "Jason Shellen",
+      "name" : "\u26A1\uFE0FJason Shellen",
       "screen_name" : "shellen",
       "protected" : false,
       "id_str" : "422",
@@ -3021,7 +3021,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "ApocalypseHow",
       "protected" : false,
       "id_str" : "14773506",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/733121404510437380\/AyvWi66P_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/887728876582981632\/7Flc07Rv_normal.jpg",
       "id" : 14773506,
       "verified" : false
     }
@@ -3063,7 +3063,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne \uD83C\uDF39",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -3090,7 +3090,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 21513655179,
     "created_at" : "2010-08-18 19:18:59 +0000",
     "user" : {
-      "name" : "Alex Payne \uD83C\uDF39",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
@@ -3114,7 +3114,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne \uD83C\uDF39",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -3141,7 +3141,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 21513655179,
     "created_at" : "2010-08-18 19:18:59 +0000",
     "user" : {
-      "name" : "Alex Payne \uD83C\uDF39",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
@@ -3165,7 +3165,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne \uD83C\uDF39",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -3192,7 +3192,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 21513655179,
     "created_at" : "2010-08-18 19:18:59 +0000",
     "user" : {
-      "name" : "Alex Payne \uD83C\uDF39",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
@@ -3216,7 +3216,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne \uD83C\uDF39",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -3243,7 +3243,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 21513655179,
     "created_at" : "2010-08-18 19:18:59 +0000",
     "user" : {
-      "name" : "Alex Payne \uD83C\uDF39",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
@@ -3267,7 +3267,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne \uD83C\uDF39",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -3294,7 +3294,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 21513655179,
     "created_at" : "2010-08-18 19:18:59 +0000",
     "user" : {
-      "name" : "Alex Payne \uD83C\uDF39",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
@@ -3318,7 +3318,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne \uD83C\uDF39",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -3345,7 +3345,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 21513655179,
     "created_at" : "2010-08-18 19:18:59 +0000",
     "user" : {
-      "name" : "Alex Payne \uD83C\uDF39",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
@@ -3535,7 +3535,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "A Saunterin' Fella",
+      "name" : "(craig mod)",
       "screen_name" : "craigmod",
       "indices" : [ 3, 12 ],
       "id_str" : "1835951",
@@ -3562,7 +3562,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 21083726454,
     "created_at" : "2010-08-13 17:55:11 +0000",
     "user" : {
-      "name" : "A Saunterin' Fella",
+      "name" : "(craig mod)",
       "screen_name" : "craigmod",
       "protected" : false,
       "id_str" : "1835951",
@@ -3617,7 +3617,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/851130048023207936\/bS8Yr-gg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/882625894480625664\/HWeQTimh_normal.jpg",
       "id" : 819797,
       "verified" : false
     }
@@ -3803,12 +3803,6 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan Briggs",
-      "screen_name" : "ryanbriggs",
-      "indices" : [ 3, 14 ],
-      "id_str" : "912311",
-      "id" : 912311
-    }, {
       "name" : "Chris Blattman",
       "screen_name" : "cblatts",
       "indices" : [ 19, 27 ],
@@ -3843,7 +3837,7 @@ Grailbird.data.tweets_2010_08 =
     "created_at" : "2010-08-13 03:07:00 +0000",
     "user" : {
       "name" : "Ryan Briggs",
-      "screen_name" : "ryanbriggs",
+      "screen_name" : "ryancbriggs",
       "protected" : false,
       "id_str" : "912311",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/731877785086595072\/5uCNmg5H_normal.jpg",
@@ -3910,7 +3904,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne \uD83C\uDF39",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -3937,7 +3931,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 21078377055,
     "created_at" : "2010-08-13 16:39:30 +0000",
     "user" : {
-      "name" : "Alex Payne \uD83C\uDF39",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
@@ -4115,7 +4109,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "episod",
       "protected" : false,
       "id_str" : "819797",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/851130048023207936\/bS8Yr-gg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/882625894480625664\/HWeQTimh_normal.jpg",
       "id" : 819797,
       "verified" : false
     }
@@ -4935,7 +4929,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne \uD83C\uDF39",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 3, 8 ],
       "id_str" : "18713",
@@ -4962,7 +4956,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 20730568597,
     "created_at" : "2010-08-09 19:15:29 +0000",
     "user" : {
-      "name" : "Alex Payne \uD83C\uDF39",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "protected" : false,
       "id_str" : "18713",
@@ -5885,7 +5879,7 @@ Grailbird.data.tweets_2010_08 =
       "id_str" : "648523",
       "id" : 648523
     }, {
-      "name" : "Gina Trapani \u270A\uD83C\uDFFB",
+      "name" : "Gina Trapani \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "ginatrapani",
       "indices" : [ 96, 108 ],
       "id_str" : "930061",
@@ -5902,7 +5896,7 @@ Grailbird.data.tweets_2010_08 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Gina Trapani \u270A\uD83C\uDFFB",
+        "name" : "Gina Trapani \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
         "screen_name" : "ginatrapani",
         "indices" : [ 82, 94 ],
         "id_str" : "930061",
@@ -6268,7 +6262,7 @@ Grailbird.data.tweets_2010_08 =
       "id_str" : "20536157",
       "id" : 20536157
     }, {
-      "name" : "Gina Trapani \u270A\uD83C\uDFFB",
+      "name" : "Gina Trapani \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "ginatrapani",
       "indices" : [ 55, 67 ],
       "id_str" : "930061",
@@ -6291,7 +6285,7 @@ Grailbird.data.tweets_2010_08 =
         "id_str" : "20536157",
         "id" : 20536157
       }, {
-        "name" : "Gina Trapani \u270A\uD83C\uDFFB",
+        "name" : "Gina Trapani \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
         "screen_name" : "ginatrapani",
         "indices" : [ 41, 53 ],
         "id_str" : "930061",
@@ -6311,7 +6305,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "anildash",
       "protected" : false,
       "id_str" : "36823",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/786179830266167296\/AmZpJJLv_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/873754786885234688\/HaMZ0qjM_normal.jpg",
       "id" : 36823,
       "verified" : true
     }

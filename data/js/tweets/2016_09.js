@@ -68,7 +68,7 @@ Grailbird.data.tweets_2016_09 =
       "screen_name" : "RichAsInRichard",
       "protected" : false,
       "id_str" : "768856519660097536",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/831663812327596032\/BN5Y4F-m_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/884801024069820416\/INgf22wF_normal.jpg",
       "id" : 768856519660097536,
       "verified" : false
     }
@@ -239,7 +239,7 @@ Grailbird.data.tweets_2016_09 =
       "screen_name" : "michaellbutlerr",
       "protected" : false,
       "id_str" : "395406902",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/791417294907842561\/31lnwCSc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/889193611291701248\/UDgARge9_normal.jpg",
       "id" : 395406902,
       "verified" : false
     }
@@ -545,7 +545,7 @@ Grailbird.data.tweets_2016_09 =
       "screen_name" : "rashadalaiyan",
       "protected" : false,
       "id_str" : "735382638278672384",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856376534696734720\/V4_pq0vk_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/892606912587485184\/0KFICwpL_normal.jpg",
       "id" : 735382638278672384,
       "verified" : false
     }
@@ -614,7 +614,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BigFolks",
+      "name" : "Big Folks from 79th",
       "screen_name" : "FlowsAndolini",
       "indices" : [ 3, 17 ],
       "id_str" : "29925696",
@@ -701,11 +701,11 @@ Grailbird.data.tweets_2016_09 =
     "id" : 780588205963812868,
     "created_at" : "2016-09-27 02:01:45 +0000",
     "user" : {
-      "name" : "BigFolks",
+      "name" : "Big Folks from 79th",
       "screen_name" : "FlowsAndolini",
       "protected" : false,
       "id_str" : "29925696",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/857805999280975873\/ldz7Nj_4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/887366321687736321\/94LyZS8P_normal.jpg",
       "id" : 29925696,
       "verified" : false
     }
@@ -758,7 +758,7 @@ Grailbird.data.tweets_2016_09 =
       "id_str" : "15524875",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/821097322444681216\/PxQxs3dq_normal.jpg",
       "id" : 15524875,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 780590733912788993,
@@ -807,7 +807,7 @@ Grailbird.data.tweets_2016_09 =
       "screen_name" : "mollycrabapple",
       "protected" : false,
       "id_str" : "15644999",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844044691985305604\/vlfG3HDz_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/881569689318694912\/6NVz9HVv_normal.jpg",
       "id" : 15644999,
       "verified" : true
     }
@@ -1146,7 +1146,7 @@ Grailbird.data.tweets_2016_09 =
       "screen_name" : "JJJ",
       "protected" : false,
       "id_str" : "15908706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/774351653759705088\/u1EJQqQq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/884045367678992384\/cA9Tqbct_normal.jpg",
       "id" : 15908706,
       "verified" : false
     }
@@ -1433,7 +1433,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "el glerfo",
+      "name" : "eric",
       "screen_name" : "ericandrewlewis",
       "indices" : [ 0, 16 ],
       "id_str" : "218730107",
@@ -1704,7 +1704,7 @@ Grailbird.data.tweets_2016_09 =
       "id_str" : "245456303",
       "id" : 245456303
     }, {
-      "name" : "Temple of the Doug",
+      "name" : "You'reTheManNowDoug",
       "screen_name" : "zamoose",
       "indices" : [ 13, 21 ],
       "id_str" : "819148",
@@ -1737,7 +1737,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Temple of the Doug",
+      "name" : "You'reTheManNowDoug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -2157,7 +2157,7 @@ Grailbird.data.tweets_2016_09 =
       "screen_name" : "ubcprez",
       "protected" : false,
       "id_str" : "742166854752342016",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/862753457270345728\/tuM1fZBY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/876506412196614144\/sfXFxD-0_normal.jpg",
       "id" : 742166854752342016,
       "verified" : false
     }
@@ -2774,7 +2774,7 @@ Grailbird.data.tweets_2016_09 =
       "screen_name" : "BillionBus",
       "protected" : false,
       "id_str" : "29145255",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/859514334627713025\/lsiV5T49_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/883394083724513282\/y6pJS4mE_normal.jpg",
       "id" : 29145255,
       "verified" : false
     }
@@ -3099,7 +3099,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Temple of the Doug",
+      "name" : "You'reTheManNowDoug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",
@@ -4160,7 +4160,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Temple of the Doug",
+      "name" : "You'reTheManNowDoug",
       "screen_name" : "zamoose",
       "indices" : [ 0, 8 ],
       "id_str" : "819148",

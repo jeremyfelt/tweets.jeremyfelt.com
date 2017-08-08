@@ -179,7 +179,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jason Shellen",
+      "name" : "\u26A1\uFE0FJason Shellen",
       "screen_name" : "shellen",
       "indices" : [ 3, 11 ],
       "id_str" : "422",
@@ -740,7 +740,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF31 Matt Terenzio",
+      "name" : "\uD83D\uDE80Terenzio",
       "screen_name" : "mterenzio",
       "indices" : [ 0, 10 ],
       "id_str" : "820002",
@@ -884,6 +884,28 @@ Grailbird.data.tweets_2009_11 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "5521222764",
+  "text" : "Unless I'm missing something obvious, there are no good twitter clients for the blackberry.",
+  "id" : 5521222764,
+  "created_at" : "2009-11-08 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -901,28 +923,6 @@ Grailbird.data.tweets_2009_11 =
   "id_str" : "5521091363",
   "text" : "RT @cw: Congress adopts debate-style from kindergarten, makes country proud.  Video: http:\/\/bit.ly\/4hnY5g Explanation: http:\/\/bit.ly\/1lEJoJ",
   "id" : 5521091363,
-  "created_at" : "2009-11-08 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "5521222764",
-  "text" : "Unless I'm missing something obvious, there are no good twitter clients for the blackberry.",
-  "id" : 5521222764,
   "created_at" : "2009-11-08 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
@@ -1902,6 +1902,28 @@ Grailbird.data.tweets_2009_11 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "5378274683",
+  "text" : "Well that's cool. I can add a bunch of Twitter's List widgets to an HTML file on my desktop and I have a live updating List page.",
+  "id" : 5378274683,
+  "created_at" : "2009-11-03 00:00:00 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "5382256521",
   "text" : "Honestly, I like tech news that involves \"X now supporting Y\" instead of \"X will support Y\". So not fulfilling.",
   "id" : 5382256521,
@@ -2247,28 +2269,6 @@ Grailbird.data.tweets_2009_11 =
   "id_str" : "5378183091",
   "text" : "Wow, this is a smart move by Twitter. RT @atul: Twitter Reveals More Lists Power With A Widget  http:\/\/j.mp\/3AM67g tip @techmeme",
   "id" : 5378183091,
-  "created_at" : "2009-11-03 00:00:00 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605593990470107136\/msj7z-y5_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "5378274683",
-  "text" : "Well that's cool. I can add a bunch of Twitter's List widgets to an HTML file on my desktop and I have a live updating List page.",
-  "id" : 5378274683,
   "created_at" : "2009-11-03 00:00:00 +0000",
   "user" : {
     "name" : "Jeremy Felt",
