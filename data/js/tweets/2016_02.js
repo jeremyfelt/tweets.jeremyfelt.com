@@ -1281,7 +1281,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -1813,7 +1813,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -1846,7 +1846,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -2325,7 +2325,7 @@ Grailbird.data.tweets_2016_02 =
       "id_str" : "943958422772502528",
       "id" : 943958422772502528
     }, {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 22, 29 ],
       "id_str" : "6306542",
@@ -2590,7 +2590,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -2629,7 +2629,7 @@ Grailbird.data.tweets_2016_02 =
       "id_str" : "15908706",
       "id" : 15908706
     }, {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 5, 12 ],
       "id_str" : "6306542",
@@ -2668,7 +2668,7 @@ Grailbird.data.tweets_2016_02 =
       "id_str" : "15908706",
       "id" : 15908706
     }, {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 5, 12 ],
       "id_str" : "6306542",
@@ -2706,7 +2706,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -2739,7 +2739,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -3227,7 +3227,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 3, 10 ],
       "id_str" : "6306542",
@@ -3264,7 +3264,7 @@ Grailbird.data.tweets_2016_02 =
     "id" : 699443847298875393,
     "created_at" : "2016-02-16 04:03:02 +0000",
     "user" : {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "protected" : false,
       "id_str" : "6306542",
@@ -3861,7 +3861,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "daljo628",
       "protected" : false,
       "id_str" : "15982239",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1064573969557270528\/WlIgS7LF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1113876976497037314\/MHbnn3Dw_normal.png",
       "id" : 15982239,
       "verified" : false
     }
@@ -4729,7 +4729,7 @@ Grailbird.data.tweets_2016_02 =
       "id_str" : "335110427",
       "id" : 335110427
     }, {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 32, 39 ],
       "id_str" : "6306542",
@@ -5023,7 +5023,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "daljo628",
       "protected" : false,
       "id_str" : "15982239",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1064573969557270528\/WlIgS7LF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1113876976497037314\/MHbnn3Dw_normal.png",
       "id" : 15982239,
       "verified" : false
     }
@@ -5756,7 +5756,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "jenstatsky",
       "protected" : false,
       "id_str" : "45607170",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/990724343154921473\/LSu7SGKf_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1111134071587930112\/kzd0pkFj_normal.jpg",
       "id" : 45607170,
       "verified" : true
     }
@@ -5996,7 +5996,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ryelle \u2744\uFE0F",
+      "name" : "ryelle \uD83D\uDEAB\uD83E\uDDE9",
       "screen_name" : "ryelle",
       "indices" : [ 3, 10 ],
       "id_str" : "7336452",
@@ -6028,7 +6028,7 @@ Grailbird.data.tweets_2016_02 =
     "id" : 696520419373932545,
     "created_at" : "2016-02-08 02:26:23 +0000",
     "user" : {
-      "name" : "ryelle \u2744\uFE0F",
+      "name" : "ryelle \uD83D\uDEAB\uD83E\uDDE9",
       "screen_name" : "ryelle",
       "protected" : false,
       "id_str" : "7336452",
@@ -6673,7 +6673,7 @@ Grailbird.data.tweets_2016_02 =
       "id_str" : "15982239",
       "id" : 15982239
     }, {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 10, 17 ],
       "id_str" : "6306542",
@@ -6718,7 +6718,7 @@ Grailbird.data.tweets_2016_02 =
       "id_str" : "15982239",
       "id" : 15982239
     }, {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 121, 128 ],
       "id_str" : "6306542",
@@ -6795,7 +6795,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 3, 10 ],
       "id_str" : "6306542",
@@ -6832,7 +6832,7 @@ Grailbird.data.tweets_2016_02 =
     "id" : 695746889598173184,
     "created_at" : "2016-02-05 23:12:39 +0000",
     "user" : {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "protected" : false,
       "id_str" : "6306542",
@@ -7152,7 +7152,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",

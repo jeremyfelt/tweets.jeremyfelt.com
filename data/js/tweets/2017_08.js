@@ -308,7 +308,13 @@ Grailbird.data.tweets_2017_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Dhiraj singh",
+      "screen_name" : "lisa4congress",
+      "indices" : [ 15, 29 ],
+      "id_str" : "1110437704230207488",
+      "id" : 1110437704230207488
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -936,40 +942,14 @@ Grailbird.data.tweets_2017_08 =
       "id_str" : "19002345",
       "id" : 19002345
     } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/BESTVlDS\/status\/900338867513028608\/video\/1",
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
       "indices" : [ 58, 81 ],
       "url" : "https:\/\/t.co\/mAnwSqgA5n",
-      "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/900338683630452742\/pu\/img\/4beI8TW-ym6tPhsa.jpg",
-      "id_str" : "900338683630452742",
-      "id" : 900338683630452742,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/900338683630452742\/pu\/img\/4beI8TW-ym6tPhsa.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 720,
-        "resize" : "fit",
-        "w" : 720
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 680
-      }, {
-        "h" : 720,
-        "resize" : "fit",
-        "w" : 720
-      }, {
-        "h" : 720,
-        "resize" : "fit",
-        "w" : 720
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/mAnwSqgA5n"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
+      "expanded_url" : "https:\/\/twitter.com\/BESTVlDS\/status\/900338867513028608\/video\/1",
+      "display_url" : "twitter.com\/BESTVlDS\/statu\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "901308669668634624",
@@ -978,40 +958,14 @@ Grailbird.data.tweets_2017_08 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/BESTVlDS\/status\/900338867513028608\/video\/1",
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
         "indices" : [ 41, 64 ],
         "url" : "https:\/\/t.co\/mAnwSqgA5n",
-        "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/900338683630452742\/pu\/img\/4beI8TW-ym6tPhsa.jpg",
-        "id_str" : "900338683630452742",
-        "id" : 900338683630452742,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/900338683630452742\/pu\/img\/4beI8TW-ym6tPhsa.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 720,
-          "resize" : "fit",
-          "w" : 720
-        }, {
-          "h" : 680,
-          "resize" : "fit",
-          "w" : 680
-        }, {
-          "h" : 720,
-          "resize" : "fit",
-          "w" : 720
-        }, {
-          "h" : 720,
-          "resize" : "fit",
-          "w" : 720
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/mAnwSqgA5n"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
+        "expanded_url" : "https:\/\/twitter.com\/BESTVlDS\/status\/900338867513028608\/video\/1",
+        "display_url" : "twitter.com\/BESTVlDS\/statu\u2026"
+      } ]
     },
     "geo" : { },
     "id_str" : "900814145141997570",
@@ -1312,7 +1266,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 3, 10 ],
       "id_str" : "6306542",
@@ -1349,7 +1303,7 @@ Grailbird.data.tweets_2017_08 =
     "id" : 900681371105939456,
     "created_at" : "2017-08-24 11:29:07 +0000",
     "user" : {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "protected" : false,
       "id_str" : "6306542",
@@ -2313,7 +2267,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ipstenu (((Mika E)))",
+      "name" : "ipstenu (Mika E.)",
       "screen_name" : "Ipstenu",
       "indices" : [ 3, 11 ],
       "id_str" : "9412542",
@@ -2346,7 +2300,7 @@ Grailbird.data.tweets_2017_08 =
     "id" : 896115688913240064,
     "created_at" : "2017-08-11 21:06:43 +0000",
     "user" : {
-      "name" : "ipstenu (((Mika E)))",
+      "name" : "ipstenu (Mika E.)",
       "screen_name" : "Ipstenu",
       "protected" : false,
       "id_str" : "9412542",
@@ -3257,7 +3211,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "YouTooCanBeGuru",
       "protected" : false,
       "id_str" : "300859438",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1105175048233541632\/D3bKkAJw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1114641797509144576\/NRtO9otu_normal.png",
       "id" : 300859438,
       "verified" : false
     }
@@ -3900,7 +3854,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 0, 6 ],
       "id_str" : "14611891",
@@ -4404,7 +4358,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "alexqgb",
       "protected" : false,
       "id_str" : "17886409",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1079474831081361408\/V241mWEr_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1108949960739840001\/yIBdyOMV_normal.jpg",
       "id" : 17886409,
       "verified" : false
     }
@@ -4807,7 +4761,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "WordCampUS",
       "protected" : false,
       "id_str" : "223718653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1073952221962809344\/4dZumpKI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1108885908592443392\/-guTLDAI_normal.png",
       "id" : 223718653,
       "verified" : false
     }
@@ -4999,7 +4953,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",

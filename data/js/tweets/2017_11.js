@@ -174,7 +174,7 @@ Grailbird.data.tweets_2017_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -213,7 +213,7 @@ Grailbird.data.tweets_2017_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -258,7 +258,7 @@ Grailbird.data.tweets_2017_11 =
       "id_str" : "27740025",
       "id" : 27740025
     }, {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 8, 15 ],
       "id_str" : "6306542",
@@ -414,7 +414,7 @@ Grailbird.data.tweets_2017_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 14, 21 ],
       "id_str" : "6306542",
@@ -609,7 +609,7 @@ Grailbird.data.tweets_2017_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Laura Rabell @ #WCUS",
+      "name" : "\uD835\uDD77\uD835\uDD86\uD835\uDD9A\uD835\uDD97\uD835\uDD86 \uD835\uDD7D\uD835\uDD86\uD835\uDD87\uD835\uDD8A\uD835\uDD91\uD835\uDD91",
       "screen_name" : "LauraRabell",
       "indices" : [ 0, 12 ],
       "id_str" : "308118886",
@@ -1157,7 +1157,7 @@ Grailbird.data.tweets_2017_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Curm\u00FCdgeon Grant",
+      "name" : "Granthrax",
       "screen_name" : "CurmudgeonGrant",
       "indices" : [ 0, 16 ],
       "id_str" : "176672734",
@@ -1875,7 +1875,7 @@ Grailbird.data.tweets_2017_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Survivor Fan Account",
+      "name" : "Jenn",
       "screen_name" : "jenndangerous",
       "indices" : [ 3, 17 ],
       "id_str" : "43773961",
@@ -1902,7 +1902,7 @@ Grailbird.data.tweets_2017_11 =
     "id" : 933752246088749062,
     "created_at" : "2017-11-23 17:40:58 +0000",
     "user" : {
-      "name" : "Survivor Fan Account",
+      "name" : "Jenn",
       "screen_name" : "jenndangerous",
       "protected" : false,
       "id_str" : "43773961",
@@ -5129,7 +5129,7 @@ Grailbird.data.tweets_2017_11 =
       "screen_name" : "WordCampUS",
       "protected" : false,
       "id_str" : "223718653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1073952221962809344\/4dZumpKI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1108885908592443392\/-guTLDAI_normal.png",
       "id" : 223718653,
       "verified" : false
     }

@@ -884,7 +884,7 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "7652262",
       "id" : 7652262
     }, {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 99, 106 ],
       "id_str" : "6306542",
@@ -5342,7 +5342,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -5375,7 +5375,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -5408,7 +5408,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",

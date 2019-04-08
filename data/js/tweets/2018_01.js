@@ -355,7 +355,7 @@ Grailbird.data.tweets_2018_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "computer related t-shirts",
+      "name" : "computer baseball",
       "screen_name" : "streetlamp",
       "indices" : [ 0, 11 ],
       "id_str" : "15808208",
@@ -1545,7 +1545,7 @@ Grailbird.data.tweets_2018_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hannah Hart @ SXSW",
+      "name" : "Hannah Hart",
       "screen_name" : "harto",
       "indices" : [ 3, 9 ],
       "id_str" : "14166096",
@@ -1572,7 +1572,7 @@ Grailbird.data.tweets_2018_01 =
     "id" : 953712891470819328,
     "created_at" : "2018-01-17 19:37:27 +0000",
     "user" : {
-      "name" : "Hannah Hart @ SXSW",
+      "name" : "Hannah Hart (wrote a new cookbook!)",
       "screen_name" : "harto",
       "protected" : false,
       "id_str" : "14166096",
@@ -1667,11 +1667,11 @@ Grailbird.data.tweets_2018_01 =
       "id_str" : "713556035928244225",
       "id" : 713556035928244225
     }, {
-      "name" : "WSU Cougar Football",
-      "screen_name" : "WSUCougFB",
+      "name" : "Sally James",
+      "screen_name" : "wsucougfb",
       "indices" : [ 61, 71 ],
-      "id_str" : "1250265324",
-      "id" : 1250265324
+      "id_str" : "837635683229409280",
+      "id" : 837635683229409280
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -1690,11 +1690,11 @@ Grailbird.data.tweets_2018_01 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "WSU Cougar Football",
-        "screen_name" : "WSUCougFB",
+        "name" : "Sally James",
+        "screen_name" : "wsucougfb",
         "indices" : [ 40, 50 ],
-        "id_str" : "1250265324",
-        "id" : 1250265324
+        "id_str" : "837635683229409280",
+        "id" : 837635683229409280
       } ],
       "media" : [ ],
       "hashtags" : [ {
@@ -3936,7 +3936,7 @@ Grailbird.data.tweets_2018_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 0, 6 ],
       "id_str" : "14611891",

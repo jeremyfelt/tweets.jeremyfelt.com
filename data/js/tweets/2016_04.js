@@ -331,7 +331,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "rric",
+      "name" : "eric",
       "screen_name" : "ericandrewlewis",
       "indices" : [ 3, 19 ],
       "id_str" : "218730107",
@@ -399,7 +399,7 @@ Grailbird.data.tweets_2016_04 =
     "id" : 726191713950273536,
     "created_at" : "2016-04-29 23:29:31 +0000",
     "user" : {
-      "name" : "rric",
+      "name" : "eric",
       "screen_name" : "ericandrewlewis",
       "protected" : false,
       "id_str" : "218730107",
@@ -522,7 +522,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "WSUvetmed",
       "protected" : false,
       "id_str" : "18817285",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/763117039074488320\/-1ne2SSH_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1114303705375858689\/wi0ny0KL_normal.png",
       "id" : 18817285,
       "verified" : true
     }
@@ -925,7 +925,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "SwiftOnSecurity",
+      "name" : "FishOnSecurity",
       "screen_name" : "SwiftOnSecurity",
       "indices" : [ 3, 19 ],
       "id_str" : "2436389418",
@@ -1014,11 +1014,11 @@ Grailbird.data.tweets_2016_04 =
     "id" : 724099105740333056,
     "created_at" : "2016-04-24 04:54:14 +0000",
     "user" : {
-      "name" : "SwiftOnSecurity",
+      "name" : "FishOnSecurity",
       "screen_name" : "SwiftOnSecurity",
       "protected" : false,
       "id_str" : "2436389418",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1102370814832377856\/3Dq_1yGr_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1113793849065971713\/fgfypgsQ_normal.jpg",
       "id" : 2436389418,
       "verified" : false
     }
@@ -1305,7 +1305,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "DavidBHayter",
       "protected" : false,
       "id_str" : "237890582",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1093956261098381312\/IgMUQLky_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1107354831407054848\/vhFTx_Sb_normal.png",
       "id" : 237890582,
       "verified" : true
     }
@@ -1386,7 +1386,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -1430,7 +1430,7 @@ Grailbird.data.tweets_2016_04 =
       "id_str" : "87823613",
       "id" : 87823613
     }, {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 17, 24 ],
       "id_str" : "6306542",
@@ -2031,7 +2031,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 3, 10 ],
       "id_str" : "6306542",
@@ -2058,7 +2058,7 @@ Grailbird.data.tweets_2016_04 =
     "id" : 721144957726105600,
     "created_at" : "2016-04-16 01:15:30 +0000",
     "user" : {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "protected" : false,
       "id_str" : "6306542",
@@ -2805,7 +2805,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "computer related t-shirts",
+      "name" : "computer baseball",
       "screen_name" : "streetlamp",
       "indices" : [ 0, 11 ],
       "id_str" : "15808208",
@@ -4105,7 +4105,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "rric",
+      "name" : "eric",
       "screen_name" : "ericandrewlewis",
       "indices" : [ 3, 19 ],
       "id_str" : "218730107",
@@ -4142,7 +4142,7 @@ Grailbird.data.tweets_2016_04 =
     "id" : 717424807944536065,
     "created_at" : "2016-04-05 18:52:57 +0000",
     "user" : {
-      "name" : "rric",
+      "name" : "eric",
       "screen_name" : "ericandrewlewis",
       "protected" : false,
       "id_str" : "218730107",
@@ -4487,7 +4487,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 3, 10 ],
       "id_str" : "6306542",
@@ -4524,7 +4524,7 @@ Grailbird.data.tweets_2016_04 =
     "id" : 716921939013414913,
     "created_at" : "2016-04-04 09:34:44 +0000",
     "user" : {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "protected" : false,
       "id_str" : "6306542",

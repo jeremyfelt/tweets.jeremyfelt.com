@@ -4255,7 +4255,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "23627833",
       "id" : 23627833
     }, {
-      "name" : "ryelle \u2744\uFE0F",
+      "name" : "ryelle \uD83D\uDEAB\uD83E\uDDE9",
       "screen_name" : "ryelle",
       "indices" : [ 47, 54 ],
       "id_str" : "7336452",
@@ -4287,7 +4287,7 @@ Grailbird.data.tweets_2012_09 =
         "id_str" : "23627833",
         "id" : 23627833
       }, {
-        "name" : "ryelle \u2744\uFE0F",
+        "name" : "ryelle \uD83D\uDEAB\uD83E\uDDE9",
         "screen_name" : "ryelle",
         "indices" : [ 32, 39 ],
         "id_str" : "7336452",

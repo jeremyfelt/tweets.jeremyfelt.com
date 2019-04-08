@@ -693,7 +693,7 @@ Grailbird.data.tweets_2017_10 =
       "id_str" : "646533",
       "id" : 646533
     }, {
-      "name" : "Mina @ Pixel Up! \uD83C\uDDFF\uD83C\uDDE6",
+      "name" : "Mina Markham \uD83D\uDC69\uD83C\uDFFE\u200D\uD83D\uDCBB",
       "screen_name" : "MinaMarkham",
       "indices" : [ 47, 59 ],
       "id_str" : "15442853",
@@ -715,7 +715,7 @@ Grailbird.data.tweets_2017_10 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Mina @ Pixel Up! \uD83C\uDDFF\uD83C\uDDE6",
+        "name" : "Mina Markham \uD83D\uDC69\uD83C\uDFFE\u200D\uD83D\uDCBB",
         "screen_name" : "MinaMarkham",
         "indices" : [ 33, 45 ],
         "id_str" : "15442853",
@@ -1127,6 +1127,12 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Dhiraj singh",
+      "screen_name" : "lisa4congress",
+      "indices" : [ 3, 17 ],
+      "id_str" : "1110437704230207488",
+      "id" : 1110437704230207488
+    }, {
       "name" : "CathyMcMorrisRodgers",
       "screen_name" : "cathymcmorris",
       "indices" : [ 57, 71 ],

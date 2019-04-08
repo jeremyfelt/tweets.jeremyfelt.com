@@ -61,67 +61,6 @@ Grailbird.data.tweets_2016_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "John James Jacoby",
-      "screen_name" : "JJJ",
-      "indices" : [ 3, 7 ],
-      "id_str" : "15908706",
-      "id" : 15908706
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 107, 130 ],
-      "url" : "https:\/\/t.co\/wxSZsJ3U80",
-      "expanded_url" : "https:\/\/flox.io\/jobs\/",
-      "display_url" : "flox.io\/jobs\/"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "770341908736413696",
-  "text" : "RT @JJJ: Flox is looking for 1 full-time, remote, junior WordPress developer. Pay-range $40k'ish to start. https:\/\/t.co\/wxSZsJ3U80 \u2764\uFE0F",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 98, 121 ],
-        "url" : "https:\/\/t.co\/wxSZsJ3U80",
-        "expanded_url" : "https:\/\/flox.io\/jobs\/",
-        "display_url" : "flox.io\/jobs\/"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "770311526020370434",
-    "text" : "Flox is looking for 1 full-time, remote, junior WordPress developer. Pay-range $40k'ish to start. https:\/\/t.co\/wxSZsJ3U80 \u2764\uFE0F",
-    "id" : 770311526020370434,
-    "created_at" : "2016-08-29 17:25:54 +0000",
-    "user" : {
-      "name" : "John James Jacoby",
-      "screen_name" : "JJJ",
-      "protected" : false,
-      "id_str" : "15908706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1019085457802526720\/1jgoZNeY_normal.jpg",
-      "id" : 15908706,
-      "verified" : false
-    }
-  },
-  "id" : 770341908736413696,
-  "created_at" : "2016-08-29 19:26:37 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -350,7 +289,7 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "SwiftOnSecurity",
+      "name" : "FishOnSecurity",
       "screen_name" : "SwiftOnSecurity",
       "indices" : [ 3, 19 ],
       "id_str" : "2436389418",
@@ -377,11 +316,11 @@ Grailbird.data.tweets_2016_08 =
     "id" : 769658925096382464,
     "created_at" : "2016-08-27 22:12:41 +0000",
     "user" : {
-      "name" : "SwiftOnSecurity",
+      "name" : "FishOnSecurity",
       "screen_name" : "SwiftOnSecurity",
       "protected" : false,
       "id_str" : "2436389418",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1102370814832377856\/3Dq_1yGr_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1113793849065971713\/fgfypgsQ_normal.jpg",
       "id" : 2436389418,
       "verified" : false
     }
@@ -688,7 +627,7 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 0, 6 ],
       "id_str" : "14611891",
@@ -889,7 +828,7 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -3802,7 +3741,7 @@ Grailbird.data.tweets_2016_08 =
       "id_str" : "15908706",
       "id" : 15908706
     }, {
-      "name" : "Curm\u00FCdgeon Grant",
+      "name" : "Granthrax",
       "screen_name" : "CurmudgeonGrant",
       "indices" : [ 37, 53 ],
       "id_str" : "176672734",
@@ -5897,7 +5836,7 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 0, 6 ],
       "id_str" : "14611891",
@@ -7043,7 +6982,7 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "rric",
+      "name" : "eric",
       "screen_name" : "ericandrewlewis",
       "indices" : [ 0, 16 ],
       "id_str" : "218730107",

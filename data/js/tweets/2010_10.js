@@ -227,7 +227,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jason \uD83D\uDC3B",
+      "name" : "Jason Shellen",
       "screen_name" : "shellen",
       "indices" : [ 3, 11 ],
       "id_str" : "422",
@@ -254,7 +254,7 @@ Grailbird.data.tweets_2010_10 =
     "id" : 28839064564,
     "created_at" : "2010-10-27 00:00:07 +0000",
     "user" : {
-      "name" : "Jason \uD83D\uDC3B",
+      "name" : "Jason Shellen",
       "screen_name" : "shellen",
       "protected" : false,
       "id_str" : "422",
@@ -4696,7 +4696,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "ev",
       "protected" : false,
       "id_str" : "20",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/637828066664837121\/1SC7FXli_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1112521685045923840\/PNTlqJOF_normal.jpg",
       "id" : 20,
       "verified" : true
     }

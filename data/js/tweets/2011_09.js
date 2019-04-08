@@ -2034,13 +2034,7 @@ Grailbird.data.tweets_2011_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Valynne Bernetich",
-      "screen_name" : "ValynneB",
-      "indices" : [ 0, 9 ],
-      "id_str" : "207181824",
-      "id" : 207181824
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3758,27 +3752,16 @@ Grailbird.data.tweets_2011_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Valynne Bernetich",
-      "screen_name" : "ValynneB",
-      "indices" : [ 0, 9 ],
-      "id_str" : "207181824",
-      "id" : 207181824
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "115256971556438017",
   "geo" : { },
   "id_str" : "115258188814761985",
-  "in_reply_to_user_id" : 207181824,
   "text" : "@ValynneB Thanks! We ended up connecting and discussing recipes for a few minutes.",
   "id" : 115258188814761985,
-  "in_reply_to_status_id" : 115256971556438017,
   "created_at" : "2011-09-18 02:57:48 +0000",
-  "in_reply_to_screen_name" : "ValynneB",
-  "in_reply_to_user_id_str" : "207181824",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

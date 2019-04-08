@@ -4184,7 +4184,7 @@ Grailbird.data.tweets_2014_12 =
       "screen_name" : "elonmusk",
       "protected" : false,
       "id_str" : "44196397",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1101936308933591040\/7pKFkuxc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1111915116579086336\/HKxtnLsO_normal.jpg",
       "id" : 44196397,
       "verified" : true
     }
@@ -4606,7 +4606,7 @@ Grailbird.data.tweets_2014_12 =
       "id_str" : "335110427",
       "id" : 335110427
     }, {
-      "name" : "Aaron D. Campbell",
+      "name" : "Aaron D. Campbell - #CloudFest",
       "screen_name" : "aaroncampbell",
       "indices" : [ 56, 70 ],
       "id_str" : "16367815",
@@ -5476,7 +5476,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "rric",
+      "name" : "eric",
       "screen_name" : "ericandrewlewis",
       "indices" : [ 3, 19 ],
       "id_str" : "218730107",
@@ -5525,7 +5525,7 @@ Grailbird.data.tweets_2014_12 =
     "id" : 543832729398566913,
     "created_at" : "2014-12-13 18:20:01 +0000",
     "user" : {
-      "name" : "rric",
+      "name" : "eric",
       "screen_name" : "ericandrewlewis",
       "protected" : false,
       "id_str" : "218730107",
@@ -5656,7 +5656,7 @@ Grailbird.data.tweets_2014_12 =
         "id_str" : "15390783",
         "id" : 15390783
       }, {
-        "name" : "Joel Weinberger \u2721\uFE0F",
+        "name" : "Joel Weinberger",
         "screen_name" : "metromoxie",
         "indices" : [ 128, 139 ],
         "id_str" : "42462490",
@@ -6990,7 +6990,7 @@ Grailbird.data.tweets_2014_12 =
       "id_str" : "14606628",
       "id" : 14606628
     }, {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 60, 67 ],
       "id_str" : "6306542",
@@ -7013,7 +7013,7 @@ Grailbird.data.tweets_2014_12 =
     "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+        "name" : "Ryan McCue \uD83C\uDF27",
         "screen_name" : "rmccue",
         "indices" : [ 40, 47 ],
         "id_str" : "6306542",

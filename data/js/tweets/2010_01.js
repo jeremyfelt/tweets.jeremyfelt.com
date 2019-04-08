@@ -1468,7 +1468,7 @@ Grailbird.data.tweets_2010_01 =
       "id_str" : "6519522",
       "id" : 6519522
     }, {
-      "name" : "Americares: Health for All",
+      "name" : "Americares: Cyclone Idai Relief",
       "screen_name" : "Americares",
       "indices" : [ 103, 114 ],
       "id_str" : "14705116",
@@ -1503,7 +1503,7 @@ Grailbird.data.tweets_2010_01 =
         "id_str" : "6519522",
         "id" : 6519522
       }, {
-        "name" : "Americares: Health for All",
+        "name" : "Americares: Cyclone Idai Relief",
         "screen_name" : "Americares",
         "indices" : [ 93, 104 ],
         "id_str" : "14705116",

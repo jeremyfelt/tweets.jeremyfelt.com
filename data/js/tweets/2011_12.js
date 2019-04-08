@@ -1666,7 +1666,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ipstenu (((Mika E)))",
+      "name" : "ipstenu (Mika E.)",
       "screen_name" : "Ipstenu",
       "indices" : [ 0, 8 ],
       "id_str" : "9412542",
@@ -2953,12 +2953,6 @@ Grailbird.data.tweets_2011_12 =
       "indices" : [ 15, 28 ],
       "id_str" : "201799898",
       "id" : 201799898
-    }, {
-      "name" : "Valynne Bernetich",
-      "screen_name" : "ValynneB",
-      "indices" : [ 40, 49 ],
-      "id_str" : "207181824",
-      "id" : 207181824
     } ],
     "media" : [ ],
     "hashtags" : [ ],

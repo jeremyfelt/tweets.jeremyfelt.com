@@ -314,7 +314,7 @@ Grailbird.data.tweets_2019_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 0, 6 ],
       "id_str" : "14611891",
@@ -836,7 +836,7 @@ Grailbird.data.tweets_2019_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 3, 9 ],
       "id_str" : "14611891",
@@ -863,7 +863,7 @@ Grailbird.data.tweets_2019_01 =
     "id" : 1088128230232453120,
     "created_at" : "2019-01-23 17:36:01 +0000",
     "user" : {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "protected" : false,
       "id_str" : "14611891",
@@ -887,7 +887,7 @@ Grailbird.data.tweets_2019_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 0, 6 ],
       "id_str" : "14611891",
@@ -1203,7 +1203,7 @@ Grailbird.data.tweets_2019_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 3, 9 ],
       "id_str" : "14611891",
@@ -1252,7 +1252,7 @@ Grailbird.data.tweets_2019_01 =
     "id" : 1085990402685980672,
     "created_at" : "2019-01-17 20:01:03 +0000",
     "user" : {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "protected" : false,
       "id_str" : "14611891",
@@ -1649,7 +1649,7 @@ Grailbird.data.tweets_2019_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 0, 6 ],
       "id_str" : "14611891",
@@ -1682,7 +1682,7 @@ Grailbird.data.tweets_2019_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "React Hooks is OUT \uD83C\uDDEE\uD83C\uDDF3",
+      "name" : "#WCLDN \uD83C\uDDEE\uD83C\uDDF3",
       "screen_name" : "NaveenS16",
       "indices" : [ 0, 10 ],
       "id_str" : "749455278",
@@ -1964,7 +1964,7 @@ Grailbird.data.tweets_2019_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 0, 6 ],
       "id_str" : "14611891",
@@ -2381,7 +2381,7 @@ Grailbird.data.tweets_2019_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Curm\u00FCdgeon Grant",
+      "name" : "Granthrax",
       "screen_name" : "CurmudgeonGrant",
       "indices" : [ 0, 16 ],
       "id_str" : "176672734",
@@ -2888,7 +2888,7 @@ Grailbird.data.tweets_2019_01 =
       "id_str" : "25401322",
       "id" : 25401322
     }, {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 9, 15 ],
       "id_str" : "14611891",
@@ -2939,7 +2939,7 @@ Grailbird.data.tweets_2019_01 =
       "id_str" : "25401322",
       "id" : 25401322
     }, {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 9, 15 ],
       "id_str" : "14611891",
@@ -2984,7 +2984,7 @@ Grailbird.data.tweets_2019_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 0, 6 ],
       "id_str" : "14611891",

@@ -236,7 +236,7 @@ Grailbird.data.tweets_2017_01 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "ProPublica",
-      "screen_name" : "ProPublica",
+      "screen_name" : "propublica",
       "indices" : [ 3, 14 ],
       "id_str" : "14606079",
       "id" : 14606079
@@ -263,7 +263,7 @@ Grailbird.data.tweets_2017_01 =
     "created_at" : "2017-02-01 01:04:35 +0000",
     "user" : {
       "name" : "ProPublica",
-      "screen_name" : "ProPublica",
+      "screen_name" : "propublica",
       "protected" : false,
       "id_str" : "14606079",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/902174720040292354\/rLSBbM4r_normal.jpg",
@@ -2858,7 +2858,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -4635,7 +4635,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "shxrlocked",
       "protected" : false,
       "id_str" : "118883607",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1104943279550935040\/s1AURHCe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1108208896261451784\/WCvvvGzM_normal.jpg",
       "id" : 118883607,
       "verified" : false
     }
@@ -5717,7 +5717,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ilhan Omar stan",
+      "name" : "Alison Macrina",
       "screen_name" : "flexlibris",
       "indices" : [ 3, 14 ],
       "id_str" : "108146685",
@@ -5754,7 +5754,7 @@ Grailbird.data.tweets_2017_01 =
     "id" : 820120667001602048,
     "created_at" : "2017-01-14 04:09:38 +0000",
     "user" : {
-      "name" : "Ilhan Omar stan",
+      "name" : "Alison Macrina",
       "screen_name" : "flexlibris",
       "protected" : false,
       "id_str" : "108146685",
@@ -6361,7 +6361,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "rric",
+      "name" : "eric",
       "screen_name" : "ericandrewlewis",
       "indices" : [ 0, 16 ],
       "id_str" : "218730107",
@@ -6416,7 +6416,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sarah Jones",
+      "name" : "elim garak appreciator",
       "screen_name" : "onesarahjones",
       "indices" : [ 3, 17 ],
       "id_str" : "113250460",
@@ -6443,7 +6443,7 @@ Grailbird.data.tweets_2017_01 =
     "id" : 818995275729661952,
     "created_at" : "2017-01-11 01:37:44 +0000",
     "user" : {
-      "name" : "Sarah Jones",
+      "name" : "elim garak appreciator",
       "screen_name" : "onesarahjones",
       "protected" : false,
       "id_str" : "113250460",
@@ -6822,7 +6822,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "Gilluis_Perez",
       "protected" : false,
       "id_str" : "45917268",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1105330565698539521\/ZEiCzAi5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1114013313476722693\/SvJh1dBQ_normal.jpg",
       "id" : 45917268,
       "verified" : false
     }
@@ -7496,7 +7496,7 @@ Grailbird.data.tweets_2017_01 =
       "id_str" : "3631301",
       "id" : 3631301
     }, {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 20, 27 ],
       "id_str" : "6306542",
@@ -7546,7 +7546,7 @@ Grailbird.data.tweets_2017_01 =
     "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+        "name" : "Ryan McCue \uD83C\uDF27",
         "screen_name" : "rmccue",
         "indices" : [ 6, 13 ],
         "id_str" : "6306542",
@@ -8159,7 +8159,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ron",
+      "name" : "ron, innovation expert and impressive programmer",
       "screen_name" : "edenthecat",
       "indices" : [ 3, 14 ],
       "id_str" : "15239226",
@@ -8186,7 +8186,7 @@ Grailbird.data.tweets_2017_01 =
     "id" : 816000252977221632,
     "created_at" : "2017-01-02 19:16:35 +0000",
     "user" : {
-      "name" : "ron",
+      "name" : "ron, innovation expert and impressive programmer",
       "screen_name" : "edenthecat",
       "protected" : false,
       "id_str" : "15239226",

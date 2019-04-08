@@ -2676,7 +2676,7 @@ Grailbird.data.tweets_2015_01 =
       "id_str" : "79053835",
       "id" : 79053835
     }, {
-      "name" : "ipstenu (((Mika E)))",
+      "name" : "ipstenu (Mika E.)",
       "screen_name" : "Ipstenu",
       "indices" : [ 67, 75 ],
       "id_str" : "9412542",
@@ -3816,7 +3816,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -7237,7 +7237,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "yurivictor",
       "protected" : false,
       "id_str" : "5511932",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1050248373662408707\/PscPKP1U_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1111298267738890240\/eW8QAbrB_normal.png",
       "id" : 5511932,
       "verified" : true
     }

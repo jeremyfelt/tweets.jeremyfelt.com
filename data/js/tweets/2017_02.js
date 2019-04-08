@@ -553,7 +553,7 @@ Grailbird.data.tweets_2017_02 =
       "screen_name" : "elonmusk",
       "protected" : false,
       "id_str" : "44196397",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1101936308933591040\/7pKFkuxc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1111915116579086336\/HKxtnLsO_normal.jpg",
       "id" : 44196397,
       "verified" : true
     }
@@ -1101,7 +1101,7 @@ Grailbird.data.tweets_2017_02 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "ProPublica",
-      "screen_name" : "ProPublica",
+      "screen_name" : "propublica",
       "indices" : [ 3, 14 ],
       "id_str" : "14606079",
       "id" : 14606079
@@ -1159,7 +1159,7 @@ Grailbird.data.tweets_2017_02 =
     "created_at" : "2017-02-26 03:44:54 +0000",
     "user" : {
       "name" : "ProPublica",
-      "screen_name" : "ProPublica",
+      "screen_name" : "propublica",
       "protected" : false,
       "id_str" : "14606079",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/902174720040292354\/rLSBbM4r_normal.jpg",
@@ -4328,7 +4328,7 @@ Grailbird.data.tweets_2017_02 =
       "screen_name" : "jdawsey1",
       "protected" : false,
       "id_str" : "38936142",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1103330004304363528\/au00ZZth_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1107747609849012224\/x8StdWvs_normal.jpg",
       "id" : 38936142,
       "verified" : true
     }
@@ -4819,7 +4819,7 @@ Grailbird.data.tweets_2017_02 =
       "screen_name" : "SamGrittner",
       "protected" : false,
       "id_str" : "24272129",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1103893563379638272\/_8B0GiY6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1114775544162410496\/386Z7VOR_normal.jpg",
       "id" : 24272129,
       "verified" : false
     }
@@ -5727,7 +5727,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 3, 9 ],
       "id_str" : "14611891",
@@ -5770,7 +5770,7 @@ Grailbird.data.tweets_2017_02 =
     "id" : 829889573643628545,
     "created_at" : "2017-02-10 03:07:47 +0000",
     "user" : {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "protected" : false,
       "id_str" : "14611891",
@@ -6167,7 +6167,7 @@ Grailbird.data.tweets_2017_02 =
       "screen_name" : "Grindr",
       "protected" : false,
       "id_str" : "28549816",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1105166250563461121\/Bc917_3h_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1110708637930917888\/PhWZPdEI_normal.png",
       "id" : 28549816,
       "verified" : true
     }
@@ -6687,7 +6687,7 @@ Grailbird.data.tweets_2017_02 =
       "screen_name" : "SenatorCantwell",
       "protected" : false,
       "id_str" : "117501995",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/994567338065387520\/aYXNoUjK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1112707249032626176\/j7drmGgX_normal.png",
       "id" : 117501995,
       "verified" : true
     }
@@ -7241,7 +7241,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "computer related t-shirts",
+      "name" : "computer baseball",
       "screen_name" : "streetlamp",
       "indices" : [ 0, 11 ],
       "id_str" : "15808208",
@@ -8791,7 +8791,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -9937,7 +9937,7 @@ Grailbird.data.tweets_2017_02 =
       "screen_name" : "Zach_Anders",
       "protected" : false,
       "id_str" : "393867267",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1007466747438305280\/QJlIwvWk_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1112547844777361408\/Qrox4Cwc_normal.jpg",
       "id" : 393867267,
       "verified" : false
     }

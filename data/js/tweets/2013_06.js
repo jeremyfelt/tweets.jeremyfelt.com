@@ -798,7 +798,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "mike, a trash boy",
+      "name" : "mike [+Ultra]",
       "screen_name" : "mikerapin",
       "indices" : [ 3, 13 ],
       "id_str" : "1144581",
@@ -855,11 +855,11 @@ Grailbird.data.tweets_2013_06 =
     "id" : 351366377015214083,
     "created_at" : "2013-06-30 15:47:27 +0000",
     "user" : {
-      "name" : "mike, a trash boy",
+      "name" : "mike [+Ultra]",
       "screen_name" : "mikerapin",
       "protected" : false,
       "id_str" : "1144581",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1034540431260954626\/gDQuxB6q_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1113561355129372673\/UhSyLZpq_normal.jpg",
       "id" : 1144581,
       "verified" : false
     }
@@ -4932,7 +4932,7 @@ Grailbird.data.tweets_2013_06 =
       "screen_name" : "andrewchen",
       "protected" : false,
       "id_str" : "3283901",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/763077787489935360\/Ff2jqr7z_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1113663736793849856\/RuBkDAnW_normal.jpg",
       "id" : 3283901,
       "verified" : false
     }
@@ -8397,7 +8397,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 3, 10 ],
       "id_str" : "6306542",
@@ -8453,7 +8453,7 @@ Grailbird.data.tweets_2013_06 =
     "in_reply_to_screen_name" : "jeremyfelt",
     "in_reply_to_user_id_str" : "1741681",
     "user" : {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "protected" : false,
       "id_str" : "6306542",
@@ -8477,7 +8477,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 9, 16 ],
       "id_str" : "6306542",
@@ -8649,7 +8649,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "22232652",
       "id" : 22232652
     }, {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 10, 16 ],
       "id_str" : "14611891",
@@ -9504,7 +9504,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 3, 10 ],
       "id_str" : "6306542",
@@ -9541,7 +9541,7 @@ Grailbird.data.tweets_2013_06 =
     "id" : 343616338989817856,
     "created_at" : "2013-06-09 06:31:33 +0000",
     "user" : {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "protected" : false,
       "id_str" : "6306542",

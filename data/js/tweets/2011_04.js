@@ -1458,7 +1458,7 @@ Grailbird.data.tweets_2011_04 =
     "id" : 56528118114025473,
     "created_at" : "2011-04-09 01:25:28 +0000",
     "user" : {
-      "name" : "fred benenson",
+      "name" : "\uD83E\uDDAA",
       "screen_name" : "fredbenenson",
       "protected" : false,
       "id_str" : "2254561",

@@ -382,7 +382,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ryelle \u2744\uFE0F",
+      "name" : "ryelle \uD83D\uDEAB\uD83E\uDDE9",
       "screen_name" : "ryelle",
       "indices" : [ 3, 10 ],
       "id_str" : "7336452",
@@ -436,7 +436,7 @@ Grailbird.data.tweets_2015_06 =
     "in_reply_to_screen_name" : "jeremyfelt",
     "in_reply_to_user_id_str" : "1741681",
     "user" : {
-      "name" : "ryelle \u2744\uFE0F",
+      "name" : "ryelle \uD83D\uDEAB\uD83E\uDDE9",
       "screen_name" : "ryelle",
       "protected" : false,
       "id_str" : "7336452",
@@ -690,7 +690,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "87823613",
       "id" : 87823613
     }, {
-      "name" : "Utah Jazz",
+      "name" : "x - Utah Jazz",
       "screen_name" : "utahjazz",
       "indices" : [ 17, 26 ],
       "id_str" : "18360370",
@@ -1588,7 +1588,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arthur Charpentier \u2744",
+      "name" : "Arthur Charpentier \uD83C\uDF26",
       "screen_name" : "freakonometrics",
       "indices" : [ 3, 19 ],
       "id_str" : "105530526",
@@ -1668,7 +1668,7 @@ Grailbird.data.tweets_2015_06 =
     "id" : 605039229954064385,
     "created_at" : "2015-05-31 15:52:48 +0000",
     "user" : {
-      "name" : "Arthur Charpentier \u2744",
+      "name" : "Arthur Charpentier \uD83C\uDF26",
       "screen_name" : "freakonometrics",
       "protected" : false,
       "id_str" : "105530526",
@@ -3367,7 +3367,7 @@ Grailbird.data.tweets_2015_06 =
       "screen_name" : "darth",
       "protected" : false,
       "id_str" : "1337271",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1101704292405174272\/qn_8UgBF_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1108177213034160128\/fk7aj_s2_normal.png",
       "id" : 1337271,
       "verified" : false
     }
@@ -3564,7 +3564,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CougCenter",
+      "name" : "#NERDBALL",
       "screen_name" : "CougCenter",
       "indices" : [ 3, 14 ],
       "id_str" : "21836108",
@@ -3632,7 +3632,7 @@ Grailbird.data.tweets_2015_06 =
     "id" : 612383200552349696,
     "created_at" : "2015-06-20 22:15:07 +0000",
     "user" : {
-      "name" : "CougCenter",
+      "name" : "#NERDBALL",
       "screen_name" : "CougCenter",
       "protected" : false,
       "id_str" : "21836108",
@@ -5263,7 +5263,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "rric",
+      "name" : "eric",
       "screen_name" : "ericandrewlewis",
       "indices" : [ 3, 19 ],
       "id_str" : "218730107",
@@ -5300,7 +5300,7 @@ Grailbird.data.tweets_2015_06 =
     "id" : 611204290347184129,
     "created_at" : "2015-06-17 16:10:33 +0000",
     "user" : {
-      "name" : "rric",
+      "name" : "eric",
       "screen_name" : "ericandrewlewis",
       "protected" : false,
       "id_str" : "218730107",
@@ -9538,7 +9538,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 20, 26 ],
       "id_str" : "14611891",

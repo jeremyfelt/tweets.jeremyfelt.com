@@ -3536,13 +3536,13 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jason \uD83D\uDC3B",
+      "name" : "Jason Shellen",
       "screen_name" : "shellen",
       "indices" : [ 26, 34 ],
       "id_str" : "422",
       "id" : 422
     }, {
-      "name" : "Jason \uD83D\uDC3B",
+      "name" : "Jason Shellen",
       "screen_name" : "shellen",
       "indices" : [ 120, 128 ],
       "id_str" : "422",

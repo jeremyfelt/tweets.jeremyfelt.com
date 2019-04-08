@@ -659,7 +659,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "jamieoliver",
       "protected" : false,
       "id_str" : "18676177",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1068854631890075649\/CWz9uymJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1108293125683011585\/xDjAqWQW_normal.jpg",
       "id" : 18676177,
       "verified" : true
     }
@@ -2527,7 +2527,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/blackberry.com\/twitter\" rel=\"nofollow\"\u003ETwitter for BlackBerry\u00AE\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jason \uD83D\uDC3B",
+      "name" : "Jason Shellen",
       "screen_name" : "shellen",
       "indices" : [ 3, 11 ],
       "id_str" : "422",
@@ -2566,7 +2566,7 @@ Grailbird.data.tweets_2010_04 =
     "id" : 12089928664,
     "created_at" : "2010-04-13 06:12:09 +0000",
     "user" : {
-      "name" : "Jason \uD83D\uDC3B",
+      "name" : "Jason Shellen",
       "screen_name" : "shellen",
       "protected" : false,
       "id_str" : "422",
@@ -2641,7 +2641,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Robert Scoble #SpatialComputing",
+      "name" : "Robert Scoble",
       "screen_name" : "Scobleizer",
       "indices" : [ 15, 26 ],
       "id_str" : "13348",
@@ -3802,7 +3802,7 @@ Grailbird.data.tweets_2010_04 =
       "id_str" : "862681",
       "id" : 862681
     }, {
-      "name" : "Bijan \u26A1\uFE0F",
+      "name" : "Bijan Sabet",
       "screen_name" : "bijan",
       "indices" : [ 10, 16 ],
       "id_str" : "3713811",
@@ -3819,7 +3819,7 @@ Grailbird.data.tweets_2010_04 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Bijan \u26A1\uFE0F",
+        "name" : "Bijan Sabet",
         "screen_name" : "bijan",
         "indices" : [ 0, 6 ],
         "id_str" : "3713811",

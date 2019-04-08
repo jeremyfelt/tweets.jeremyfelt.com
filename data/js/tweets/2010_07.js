@@ -2457,12 +2457,6 @@ Grailbird.data.tweets_2010_07 =
       "indices" : [ 3, 15 ],
       "id_str" : "27029537",
       "id" : 27029537
-    }, {
-      "name" : "Tom",
-      "screen_name" : "Bikezilla1",
-      "indices" : [ 115, 126 ],
-      "id_str" : "25603292",
-      "id" : 25603292
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -2477,13 +2471,7 @@ Grailbird.data.tweets_2010_07 =
   "retweeted_status" : {
     "source" : "\u003Ca href=\"http:\/\/www.exacttarget.com\/social\" rel=\"nofollow\"\u003ESocialEngage\u003C\/a\u003E",
     "entities" : {
-      "user_mentions" : [ {
-        "name" : "Tom",
-        "screen_name" : "Bikezilla1",
-        "indices" : [ 98, 109 ],
-        "id_str" : "25603292",
-        "id" : 25603292
-      } ],
+      "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ {
         "text" : "apstyle",
@@ -3609,7 +3597,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pot Unicorn",
+      "name" : "Nomnominally Serious",
       "screen_name" : "monkchips",
       "indices" : [ 3, 13 ],
       "id_str" : "61233",
@@ -3636,7 +3624,7 @@ Grailbird.data.tweets_2010_07 =
     "id" : 17872127385,
     "created_at" : "2010-07-06 14:45:44 +0000",
     "user" : {
-      "name" : "Pot Unicorn",
+      "name" : "Nomnominally Serious",
       "screen_name" : "monkchips",
       "protected" : false,
       "id_str" : "61233",
@@ -4095,7 +4083,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jason \uD83D\uDC3B",
+      "name" : "Jason Shellen",
       "screen_name" : "shellen",
       "indices" : [ 3, 11 ],
       "id_str" : "422",
@@ -4122,7 +4110,7 @@ Grailbird.data.tweets_2010_07 =
     "id" : 17798377827,
     "created_at" : "2010-07-05 15:36:51 +0000",
     "user" : {
-      "name" : "Jason \uD83D\uDC3B",
+      "name" : "Jason Shellen",
       "screen_name" : "shellen",
       "protected" : false,
       "id_str" : "422",

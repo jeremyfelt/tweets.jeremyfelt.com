@@ -1484,7 +1484,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "kiersi BUTTkart",
+      "name" : "kiersi burkhart",
       "screen_name" : "kiersi",
       "indices" : [ 0, 7 ],
       "id_str" : "1335391",
@@ -1517,7 +1517,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "kiersi BUTTkart",
+      "name" : "kiersi burkhart",
       "screen_name" : "kiersi",
       "indices" : [ 0, 7 ],
       "id_str" : "1335391",
@@ -2169,7 +2169,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "tw2113",
       "protected" : false,
       "id_str" : "14354274",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/970470068856307712\/Ds3pn8JV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1110027279680311296\/i9Kzcmgb_normal.png",
       "id" : 14354274,
       "verified" : false
     }
@@ -4455,7 +4455,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hannah Hart @ SXSW",
+      "name" : "Hannah Hart (wrote a new cookbook!)",
       "screen_name" : "harto",
       "indices" : [ 3, 9 ],
       "id_str" : "14166096",
@@ -4482,7 +4482,7 @@ Grailbird.data.tweets_2012_11 =
     "id" : 266047870262718465,
     "created_at" : "2012-11-07 05:22:09 +0000",
     "user" : {
-      "name" : "Hannah Hart @ SXSW",
+      "name" : "Hannah Hart (wrote a new cookbook!)",
       "screen_name" : "harto",
       "protected" : false,
       "id_str" : "14166096",

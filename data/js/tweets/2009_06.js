@@ -5512,7 +5512,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Robert Scoble #SpatialComputing",
+      "name" : "Robert Scoble",
       "screen_name" : "Scobleizer",
       "indices" : [ 32, 43 ],
       "id_str" : "13348",
@@ -6878,7 +6878,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "inessential.com",
+      "name" : "Brent Simmons",
       "screen_name" : "brentsimmons",
       "indices" : [ 79, 92 ],
       "id_str" : "652293",

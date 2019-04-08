@@ -904,7 +904,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zee M Kane",
+      "name" : "Zee",
       "screen_name" : "Zee",
       "indices" : [ 30, 34 ],
       "id_str" : "7161172",
@@ -4693,13 +4693,7 @@ Grailbird.data.tweets_2011_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Rex on the Radio",
-      "screen_name" : "Anihillatti",
-      "indices" : [ 3, 15 ],
-      "id_str" : "60702336",
-      "id" : 60702336
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "occupyportland",
@@ -4728,7 +4722,7 @@ Grailbird.data.tweets_2011_10 =
     "created_at" : "2011-10-06 23:04:50 +0000",
     "user" : {
       "name" : "Rex on the Radio",
-      "screen_name" : "Anihillatti",
+      "screen_name" : "Rex_OnTheRadio",
       "protected" : false,
       "id_str" : "60702336",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/985761103777951744\/RKJhmPQI_normal.jpg",

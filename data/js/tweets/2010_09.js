@@ -1270,7 +1270,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jason \uD83D\uDC3B",
+      "name" : "Jason Shellen",
       "screen_name" : "shellen",
       "indices" : [ 8, 16 ],
       "id_str" : "422",
@@ -4468,7 +4468,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Derek Powazek",
+      "name" : "Derek Powazek \uD83C\uDF31",
       "screen_name" : "fraying",
       "indices" : [ 3, 11 ],
       "id_str" : "4999",
@@ -4495,7 +4495,7 @@ Grailbird.data.tweets_2010_09 =
     "id" : 22784582351,
     "created_at" : "2010-09-02 09:31:12 +0000",
     "user" : {
-      "name" : "Derek Powazek",
+      "name" : "Derek Powazek \uD83C\uDF31",
       "screen_name" : "fraying",
       "protected" : false,
       "id_str" : "4999",

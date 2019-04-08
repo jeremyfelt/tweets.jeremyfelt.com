@@ -198,7 +198,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Curm\u00FCdgeon Grant",
+      "name" : "Granthrax",
       "screen_name" : "CurmudgeonGrant",
       "indices" : [ 0, 16 ],
       "id_str" : "176672734",
@@ -1294,7 +1294,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "yurivictor",
       "protected" : false,
       "id_str" : "5511932",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1050248373662408707\/PscPKP1U_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1111298267738890240\/eW8QAbrB_normal.png",
       "id" : 5511932,
       "verified" : true
     }
@@ -1387,7 +1387,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "computer related t-shirts",
+      "name" : "computer baseball",
       "screen_name" : "streetlamp",
       "indices" : [ 0, 11 ],
       "id_str" : "15808208",
@@ -1420,7 +1420,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "computer related t-shirts",
+      "name" : "computer baseball",
       "screen_name" : "streetlamp",
       "indices" : [ 0, 11 ],
       "id_str" : "15808208",
@@ -1453,7 +1453,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "computer related t-shirts",
+      "name" : "computer baseball",
       "screen_name" : "streetlamp",
       "indices" : [ 0, 11 ],
       "id_str" : "15808208",
@@ -2761,7 +2761,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "ThePracticalDev",
       "protected" : false,
       "id_str" : "2735246778",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1105113270661365760\/WgzD7U_-_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1113079777848713216\/dfw2H0Il_normal.png",
       "id" : 2735246778,
       "verified" : false
     }
@@ -2848,7 +2848,7 @@ Grailbird.data.tweets_2016_11 =
       "id_str" : "33186269",
       "id" : 33186269
     }, {
-      "name" : "Rian Rietveld",
+      "name" : "Rian Rietveld @ WCLDN",
       "screen_name" : "RianRietveld",
       "indices" : [ 95, 108 ],
       "id_str" : "97227793",
@@ -2860,7 +2860,7 @@ Grailbird.data.tweets_2016_11 =
       "id_str" : "14080098",
       "id" : 14080098
     }, {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 120, 126 ],
       "id_str" : "14611891",
@@ -3247,7 +3247,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "mikepence",
       "protected" : false,
       "id_str" : "4567901",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796389428759511040\/3CUd4mnj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1111481735915687937\/xW2EOQZ__normal.png",
       "id" : 4567901,
       "verified" : false
     }
@@ -4008,7 +4008,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan \u201CBan Winter\u201D Sholin",
+      "name" : "Ryan \u201CI don't get seasons\u201D Sholin",
       "screen_name" : "ryansholin",
       "indices" : [ 3, 14 ],
       "id_str" : "884301",
@@ -4045,7 +4045,7 @@ Grailbird.data.tweets_2016_11 =
     "id" : 797187950815641600,
     "created_at" : "2016-11-11 21:23:13 +0000",
     "user" : {
-      "name" : "Ryan \u201CBan Winter\u201D Sholin",
+      "name" : "Ryan \u201CI don't get seasons\u201D Sholin",
       "screen_name" : "ryansholin",
       "protected" : false,
       "id_str" : "884301",
@@ -4096,7 +4096,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chappy\u00AE",
+      "name" : "Chappy\u00AE \u26BE",
       "screen_name" : "cbrandonchapman",
       "indices" : [ 0, 16 ],
       "id_str" : "27381920",
@@ -4262,68 +4262,6 @@ Grailbird.data.tweets_2016_11 =
   "text" : "Freedom of assembly may be *the* most important civil liberty we have. https:\/\/t.co\/L0ut2EkUcq",
   "id" : 796906847718424576,
   "created_at" : "2016-11-11 02:46:12 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "John James Jacoby",
-      "screen_name" : "JJJ",
-      "indices" : [ 3, 7 ],
-      "id_str" : "15908706",
-      "id" : 15908706
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "796806757867606016",
-  "text" : "RT @JJJ: If anyone out there is looking to hire a full-time WordPress core contributor, I'd love to chat with you. (Also considering using\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Give",
-        "screen_name" : "GiveWP",
-        "indices" : [ 130, 137 ],
-        "id_str" : "3028734149",
-        "id" : 3028734149
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "796806072233295872",
-    "geo" : { },
-    "id_str" : "796806523401932800",
-    "in_reply_to_user_id" : 15908706,
-    "text" : "If anyone out there is looking to hire a full-time WordPress core contributor, I'd love to chat with you. (Also considering using @GiveWP.)",
-    "id" : 796806523401932800,
-    "in_reply_to_status_id" : 796806072233295872,
-    "created_at" : "2016-11-10 20:07:33 +0000",
-    "in_reply_to_screen_name" : "JJJ",
-    "in_reply_to_user_id_str" : "15908706",
-    "user" : {
-      "name" : "John James Jacoby",
-      "screen_name" : "JJJ",
-      "protected" : false,
-      "id_str" : "15908706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1019085457802526720\/1jgoZNeY_normal.jpg",
-      "id" : 15908706,
-      "verified" : false
-    }
-  },
-  "id" : 796806757867606016,
-  "created_at" : "2016-11-10 20:08:29 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -6529,7 +6467,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "computer related t-shirts",
+      "name" : "computer baseball",
       "screen_name" : "streetlamp",
       "indices" : [ 0, 11 ],
       "id_str" : "15808208",

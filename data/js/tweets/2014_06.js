@@ -147,7 +147,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "335110427",
       "id" : 335110427
     }, {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 44, 50 ],
       "id_str" : "14611891",
@@ -1306,7 +1306,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "11134232",
       "id" : 11134232
     }, {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 117, 123 ],
       "id_str" : "14611891",
@@ -1341,7 +1341,7 @@ Grailbird.data.tweets_2014_06 =
         "id_str" : "11134232",
         "id" : 11134232
       }, {
-        "name" : "Morten the Northman",
+        "name" : "Morten Rand-Hendriksen",
         "screen_name" : "mor10",
         "indices" : [ 96, 102 ],
         "id_str" : "14611891",
@@ -2143,7 +2143,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 3, 9 ],
       "id_str" : "14611891",
@@ -2193,7 +2193,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 481906080516042753,
     "created_at" : "2014-06-25 21:05:37 +0000",
     "user" : {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "protected" : false,
       "id_str" : "14611891",
@@ -2576,7 +2576,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 3, 9 ],
       "id_str" : "14611891",
@@ -2668,7 +2668,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 481187958297333763,
     "created_at" : "2014-06-23 21:32:03 +0000",
     "user" : {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "protected" : false,
       "id_str" : "14611891",
@@ -3414,7 +3414,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "21204689",
       "id" : 21204689
     }, {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 15, 22 ],
       "id_str" : "6306542",
@@ -4364,7 +4364,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "79053835",
       "id" : 79053835
     }, {
-      "name" : "ipstenu (((Mika E)))",
+      "name" : "ipstenu (Mika E.)",
       "screen_name" : "Ipstenu",
       "indices" : [ 28, 36 ],
       "id_str" : "9412542",
@@ -5387,7 +5387,7 @@ Grailbird.data.tweets_2014_06 =
       "id" : 12916912
     }, {
       "name" : "\uD83C\uDD7C\uD83C\uDD78\uD83C\uDD72\uD83C\uDD77\uD83C\uDD70\uD83C\uDD74\uD83C\uDD7B \uD83C\uDD7C\uD83C\uDD84\uD83C\uDD82\uD83C\uDD76\uD83C\uDD81\uD83C\uDD7E\uD83C\uDD85\uD83C\uDD74",
-      "screen_name" : "MbMusgrove",
+      "screen_name" : "mbmusgrove",
       "indices" : [ 105, 116 ],
       "id_str" : "41897889",
       "id" : 41897889
@@ -5437,7 +5437,7 @@ Grailbird.data.tweets_2014_06 =
       "id" : 12916912
     }, {
       "name" : "\uD83C\uDD7C\uD83C\uDD78\uD83C\uDD72\uD83C\uDD77\uD83C\uDD70\uD83C\uDD74\uD83C\uDD7B \uD83C\uDD7C\uD83C\uDD84\uD83C\uDD82\uD83C\uDD76\uD83C\uDD81\uD83C\uDD7E\uD83C\uDD85\uD83C\uDD74",
-      "screen_name" : "MbMusgrove",
+      "screen_name" : "mbmusgrove",
       "indices" : [ 102, 113 ],
       "id_str" : "41897889",
       "id" : 41897889
@@ -6525,7 +6525,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "kiersi BUTTkart",
+      "name" : "kiersi burkhart",
       "screen_name" : "kiersi",
       "indices" : [ 3, 10 ],
       "id_str" : "1335391",
@@ -6558,7 +6558,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 478410717737926656,
     "created_at" : "2014-06-16 05:36:18 +0000",
     "user" : {
-      "name" : "kiersi BUTTkart",
+      "name" : "kiersi burkhart",
       "screen_name" : "kiersi",
       "protected" : false,
       "id_str" : "1335391",
@@ -10092,7 +10092,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "20376998",
       "id" : 20376998
     }, {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 82, 89 ],
       "id_str" : "6306542",
@@ -10120,7 +10120,7 @@ Grailbird.data.tweets_2014_06 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+        "name" : "Ryan McCue \uD83C\uDF27",
         "screen_name" : "rmccue",
         "indices" : [ 67, 74 ],
         "id_str" : "6306542",

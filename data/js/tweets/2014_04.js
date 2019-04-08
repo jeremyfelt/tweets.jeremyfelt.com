@@ -1672,7 +1672,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 3, 9 ],
       "id_str" : "14611891",
@@ -1727,7 +1727,7 @@ Grailbird.data.tweets_2014_04 =
     "id" : 456968221921247232,
     "created_at" : "2014-04-18 01:31:28 +0000",
     "user" : {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "protected" : false,
       "id_str" : "14611891",
@@ -4035,7 +4035,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "EFF",
       "protected" : false,
       "id_str" : "4816",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1022932965892939776\/aJgE2T5l_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1109145060929490945\/H1RmsjEu_normal.png",
       "id" : 4816,
       "verified" : true
     }

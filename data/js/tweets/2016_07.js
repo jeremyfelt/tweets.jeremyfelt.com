@@ -506,122 +506,6 @@ Grailbird.data.tweets_2016_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "John James Jacoby",
-      "screen_name" : "JJJ",
-      "indices" : [ 3, 7 ],
-      "id_str" : "15908706",
-      "id" : 15908706
-    }, {
-      "name" : "Post Status",
-      "screen_name" : "post_status",
-      "indices" : [ 72, 84 ],
-      "id_str" : "1094276815",
-      "id" : 1094276815
-    }, {
-      "name" : "Aaron Jorbin",
-      "screen_name" : "aaronjorbin",
-      "indices" : [ 86, 98 ],
-      "id_str" : "14886552",
-      "id" : 14886552
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 100, 123 ],
-      "url" : "https:\/\/t.co\/irKxM5SPiX",
-      "expanded_url" : "https:\/\/daily.jorb.in\/2016\/07\/27\/wordpress-contributor-continuity-and-other-stats\/?mc_cid=71a95470c5&mc_eid=117f1c39b6",
-      "display_url" : "daily.jorb.in\/2016\/07\/27\/wor\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "759256862483156992",
-  "text" : "RT @JJJ: Neat seeing WordPress contributors per release like this (from @post_status, @aaronjorbin) https:\/\/t.co\/irKxM5SPiX https:\/\/t.co\/NJ\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Post Status",
-        "screen_name" : "post_status",
-        "indices" : [ 63, 75 ],
-        "id_str" : "1094276815",
-        "id" : 1094276815
-      }, {
-        "name" : "Aaron Jorbin",
-        "screen_name" : "aaronjorbin",
-        "indices" : [ 77, 89 ],
-        "id_str" : "14886552",
-        "id" : 14886552
-      } ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/JJJ\/status\/759232622585323525\/photo\/1",
-        "indices" : [ 115, 138 ],
-        "url" : "https:\/\/t.co\/NJAVNDB5n8",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/ColWBWYXgAAT6t6.jpg",
-        "id_str" : "759232593376280576",
-        "id" : 759232593376280576,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/ColWBWYXgAAT6t6.jpg",
-        "sizes" : [ {
-          "h" : 1366,
-          "resize" : "fit",
-          "w" : 1241
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 680,
-          "resize" : "fit",
-          "w" : 618
-        }, {
-          "h" : 1366,
-          "resize" : "fit",
-          "w" : 1241
-        }, {
-          "h" : 1200,
-          "resize" : "fit",
-          "w" : 1090
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/NJAVNDB5n8"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 91, 114 ],
-        "url" : "https:\/\/t.co\/irKxM5SPiX",
-        "expanded_url" : "https:\/\/daily.jorb.in\/2016\/07\/27\/wordpress-contributor-continuity-and-other-stats\/?mc_cid=71a95470c5&mc_eid=117f1c39b6",
-        "display_url" : "daily.jorb.in\/2016\/07\/27\/wor\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "759232622585323525",
-    "text" : "Neat seeing WordPress contributors per release like this (from @post_status, @aaronjorbin) https:\/\/t.co\/irKxM5SPiX https:\/\/t.co\/NJAVNDB5n8",
-    "id" : 759232622585323525,
-    "created_at" : "2016-07-30 03:42:17 +0000",
-    "user" : {
-      "name" : "John James Jacoby",
-      "screen_name" : "JJJ",
-      "protected" : false,
-      "id_str" : "15908706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1019085457802526720\/1jgoZNeY_normal.jpg",
-      "id" : 15908706,
-      "verified" : false
-    }
-  },
-  "id" : 759256862483156992,
-  "created_at" : "2016-07-30 05:18:36 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
       "expanded_url" : "https:\/\/twitter.com\/jeremyfelt\/status\/759209937302065152\/photo\/1",
@@ -737,7 +621,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDC7E.ashley.\uD83C\uDF99",
+      "name" : "\uD83C\uDF99ashley \u2728",
       "screen_name" : "AshleyEsqueda",
       "indices" : [ 3, 17 ],
       "id_str" : "129911948",
@@ -764,7 +648,7 @@ Grailbird.data.tweets_2016_07 =
     "id" : 758849635137966080,
     "created_at" : "2016-07-29 02:20:26 +0000",
     "user" : {
-      "name" : "\uD83D\uDC7E.ashley.\uD83C\uDF99",
+      "name" : "\uD83C\uDF99ashley \u2728",
       "screen_name" : "AshleyEsqueda",
       "protected" : false,
       "id_str" : "129911948",
@@ -2190,7 +2074,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -4042,67 +3926,6 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John James Jacoby",
-      "screen_name" : "JJJ",
-      "indices" : [ 3, 7 ],
-      "id_str" : "15908706",
-      "id" : 15908706
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "753768860105396224",
-  "text" : "RT @JJJ: This Ted Talk from Rodney Mullen is a must-watch for all WordPress contributors. The correlations are insane: https:\/\/t.co\/KBsYQP7\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 110, 133 ],
-        "url" : "https:\/\/t.co\/KBsYQP78BD",
-        "expanded_url" : "http:\/\/youtu.be\/3GVO-MfIl1Q",
-        "display_url" : "youtu.be\/3GVO-MfIl1Q"
-      } ]
-    },
-    "in_reply_to_status_id_str" : "753586484117172224",
-    "geo" : { },
-    "id_str" : "753588145292251136",
-    "in_reply_to_user_id" : 15908706,
-    "text" : "This Ted Talk from Rodney Mullen is a must-watch for all WordPress contributors. The correlations are insane: https:\/\/t.co\/KBsYQP78BD",
-    "id" : 753588145292251136,
-    "in_reply_to_status_id" : 753586484117172224,
-    "created_at" : "2016-07-14 13:53:09 +0000",
-    "in_reply_to_screen_name" : "JJJ",
-    "in_reply_to_user_id_str" : "15908706",
-    "user" : {
-      "name" : "John James Jacoby",
-      "screen_name" : "JJJ",
-      "protected" : false,
-      "id_str" : "15908706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1019085457802526720\/1jgoZNeY_normal.jpg",
-      "id" : 15908706,
-      "verified" : false
-    }
-  },
-  "id" : 753768860105396224,
-  "created_at" : "2016-07-15 01:51:15 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "NU Knight Lab",
       "screen_name" : "knightlab",
       "indices" : [ 3, 13 ],
@@ -4557,7 +4380,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marc.wav \u27A1\uFE0F San Francisco",
+      "name" : "Marc.wav",
       "screen_name" : "MarcStraight",
       "indices" : [ 3, 16 ],
       "id_str" : "321176522",
@@ -4584,7 +4407,7 @@ Grailbird.data.tweets_2016_07 =
     "id" : 753035653240217600,
     "created_at" : "2016-07-13 01:17:45 +0000",
     "user" : {
-      "name" : "Marc.wav \u27A1\uFE0F San Francisco",
+      "name" : "Marc.wav",
       "screen_name" : "MarcStraight",
       "protected" : false,
       "id_str" : "321176522",
@@ -4944,7 +4767,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "cnqmdi",
       "protected" : false,
       "id_str" : "88382659",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1023297234929176577\/QEmx-K1a_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1109967192509026306\/0XJmrGrg_normal.png",
       "id" : 88382659,
       "verified" : false
     }
@@ -5101,7 +4924,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 0, 6 ],
       "id_str" : "14611891",
@@ -6417,7 +6240,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ipstenu (((Mika E)))",
+      "name" : "ipstenu (Mika E.)",
       "screen_name" : "Ipstenu",
       "indices" : [ 3, 11 ],
       "id_str" : "9412542",
@@ -6518,7 +6341,7 @@ Grailbird.data.tweets_2016_07 =
     "id" : 750157234177339393,
     "created_at" : "2016-07-05 02:39:56 +0000",
     "user" : {
-      "name" : "ipstenu (((Mika E)))",
+      "name" : "ipstenu (Mika E.)",
       "screen_name" : "Ipstenu",
       "protected" : false,
       "id_str" : "9412542",

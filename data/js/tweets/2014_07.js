@@ -191,7 +191,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "inessential.com",
+      "name" : "Brent Simmons",
       "screen_name" : "brentsimmons",
       "indices" : [ 60, 73 ],
       "id_str" : "652293",
@@ -5494,7 +5494,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "Japh",
       "protected" : false,
       "id_str" : "771712",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1087530612334837760\/Eo4PAm9-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1107587401600233472\/Dok49Q4E_normal.jpg",
       "id" : 771712,
       "verified" : false
     }
@@ -7257,7 +7257,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "fred benenson",
+      "name" : "\uD83E\uDDAA",
       "screen_name" : "fredbenenson",
       "indices" : [ 3, 16 ],
       "id_str" : "2254561",
@@ -7294,7 +7294,7 @@ Grailbird.data.tweets_2014_07 =
     "id" : 485107787723472896,
     "created_at" : "2014-07-04 17:08:04 +0000",
     "user" : {
-      "name" : "fred benenson",
+      "name" : "\uD83E\uDDAA",
       "screen_name" : "fredbenenson",
       "protected" : false,
       "id_str" : "2254561",
@@ -8047,7 +8047,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "jaketapper",
       "protected" : false,
       "id_str" : "14529929",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/960856914132430848\/p-G-U1jz_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1113396509209444352\/OWlKjLjw_normal.jpg",
       "id" : 14529929,
       "verified" : true
     }

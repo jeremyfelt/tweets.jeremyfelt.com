@@ -56,7 +56,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "50cent",
       "protected" : false,
       "id_str" : "18222378",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/672924174822805505\/vN6tunM9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1108022306805370882\/JMt8Ftgy_normal.jpg",
       "id" : 18222378,
       "verified" : true
     }
@@ -617,7 +617,7 @@ Grailbird.data.tweets_2010_12 =
       "id_str" : "11107172",
       "id" : 11107172
     }, {
-      "name" : "#SXSW 2019",
+      "name" : "\u4EE4\u548C Reiwa",
       "screen_name" : "bruces",
       "indices" : [ 40, 47 ],
       "id_str" : "1113541",
@@ -640,7 +640,7 @@ Grailbird.data.tweets_2010_12 =
         "id_str" : "11107172",
         "id" : 11107172
       }, {
-        "name" : "#SXSW 2019",
+        "name" : "\u4EE4\u548C Reiwa",
         "screen_name" : "bruces",
         "indices" : [ 25, 32 ],
         "id_str" : "1113541",

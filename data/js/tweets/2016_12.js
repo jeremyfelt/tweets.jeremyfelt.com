@@ -705,7 +705,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 3, 9 ],
       "id_str" : "14611891",
@@ -748,7 +748,7 @@ Grailbird.data.tweets_2016_12 =
     "id" : 814269569669812224,
     "created_at" : "2016-12-29 00:39:28 +0000",
     "user" : {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "protected" : false,
       "id_str" : "14611891",
@@ -1088,7 +1088,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -1495,7 +1495,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "computer related t-shirts",
+      "name" : "computer baseball",
       "screen_name" : "streetlamp",
       "indices" : [ 0, 11 ],
       "id_str" : "15808208",
@@ -1654,67 +1654,6 @@ Grailbird.data.tweets_2016_12 =
   "created_at" : "2016-12-23 23:03:39 +0000",
   "in_reply_to_screen_name" : "JJJ",
   "in_reply_to_user_id_str" : "15908706",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "John James Jacoby",
-      "screen_name" : "JJJ",
-      "indices" : [ 3, 7 ],
-      "id_str" : "15908706",
-      "id" : 15908706
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 114, 137 ],
-      "url" : "https:\/\/t.co\/eRH2CoCs2e",
-      "expanded_url" : "https:\/\/twitter.com\/buddypressdev\/status\/812132501728743425",
-      "display_url" : "twitter.com\/buddypressdev\/\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "812433300883001344",
-  "text" : "RT @JJJ: If you use BuddyPress 2.0 or higher (and you probably do) it's really important that you update ASAP. \u2764\uFE0F https:\/\/t.co\/eRH2CoCs2e",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 105, 128 ],
-        "url" : "https:\/\/t.co\/eRH2CoCs2e",
-        "expanded_url" : "https:\/\/twitter.com\/buddypressdev\/status\/812132501728743425",
-        "display_url" : "twitter.com\/buddypressdev\/\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "812358971109634048",
-    "text" : "If you use BuddyPress 2.0 or higher (and you probably do) it's really important that you update ASAP. \u2764\uFE0F https:\/\/t.co\/eRH2CoCs2e",
-    "id" : 812358971109634048,
-    "created_at" : "2016-12-23 18:07:26 +0000",
-    "user" : {
-      "name" : "John James Jacoby",
-      "screen_name" : "JJJ",
-      "protected" : false,
-      "id_str" : "15908706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1019085457802526720\/1jgoZNeY_normal.jpg",
-      "id" : 15908706,
-      "verified" : false
-    }
-  },
-  "id" : 812433300883001344,
-  "created_at" : "2016-12-23 23:02:47 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2453,7 +2392,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "son of an asylum seeker, father of an immigrant",
+      "name" : "Masque of the Red Death",
       "screen_name" : "doctorow",
       "indices" : [ 3, 12 ],
       "id_str" : "2729061",
@@ -2552,11 +2491,11 @@ Grailbird.data.tweets_2016_12 =
     "id" : 811069316946759680,
     "created_at" : "2016-12-20 04:42:48 +0000",
     "user" : {
-      "name" : "son of an asylum seeker, father of an immigrant",
+      "name" : "Masque of the Red Death",
       "screen_name" : "doctorow",
       "protected" : false,
       "id_str" : "2729061",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/675023052812378112\/Ly7VsGa6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1111026520548691971\/Thyp3AyA_normal.png",
       "id" : 2729061,
       "verified" : true
     }
@@ -2712,74 +2651,6 @@ Grailbird.data.tweets_2016_12 =
   "created_at" : "2016-12-18 23:56:20 +0000",
   "in_reply_to_screen_name" : "JJJ",
   "in_reply_to_user_id_str" : "15908706",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "John James Jacoby",
-      "screen_name" : "JJJ",
-      "indices" : [ 3, 7 ],
-      "id_str" : "15908706",
-      "id" : 15908706
-    }, {
-      "name" : "Felix Arntz",
-      "screen_name" : "felixarntz",
-      "indices" : [ 52, 63 ],
-      "id_str" : "456674343",
-      "id" : 456674343
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "810569713805725696",
-  "text" : "RT @JJJ: If you haven't given my fireside chat with @felixarntz a listen, this is the last time I'm gonna ask you to. \uD83D\uDC9C https:\/\/t.co\/wH8Xxr\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Felix Arntz",
-        "screen_name" : "felixarntz",
-        "indices" : [ 43, 54 ],
-        "id_str" : "456674343",
-        "id" : 456674343
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 111, 134 ],
-        "url" : "https:\/\/t.co\/wH8XxrVudj",
-        "expanded_url" : "https:\/\/commitaccess.com\/2016\/12\/14\/episode-0-felix-arntz\/",
-        "display_url" : "commitaccess.com\/2016\/12\/14\/epi\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "810524023302090752",
-    "text" : "If you haven't given my fireside chat with @felixarntz a listen, this is the last time I'm gonna ask you to. \uD83D\uDC9C https:\/\/t.co\/wH8XxrVudj",
-    "id" : 810524023302090752,
-    "created_at" : "2016-12-18 16:36:00 +0000",
-    "user" : {
-      "name" : "John James Jacoby",
-      "screen_name" : "JJJ",
-      "protected" : false,
-      "id_str" : "15908706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1019085457802526720\/1jgoZNeY_normal.jpg",
-      "id" : 15908706,
-      "verified" : false
-    }
-  },
-  "id" : 810569713805725696,
-  "created_at" : "2016-12-18 19:37:34 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3182,72 +3053,6 @@ Grailbird.data.tweets_2016_12 =
   "text" : "I like how the baseline on the temperature chart doesn't change when it drops below 0 so that you know it's really awesome out. https:\/\/t.co\/TdVcLgmmzX",
   "id" : 809831122129461248,
   "created_at" : "2016-12-16 18:42:40 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "John James Jacoby",
-      "screen_name" : "JJJ",
-      "indices" : [ 3, 7 ],
-      "id_str" : "15908706",
-      "id" : 15908706
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 34, 57 ],
-      "url" : "https:\/\/t.co\/dDBOg3O4Cw",
-      "expanded_url" : "https:\/\/github.com\/JJJ\/publishiza",
-      "display_url" : "github.com\/JJJ\/publishiza"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "809812250047328256",
-  "text" : "RT @JJJ: Publishiza is on GitHub: https:\/\/t.co\/dDBOg3O4Cw",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 25, 48 ],
-        "url" : "https:\/\/t.co\/dDBOg3O4Cw",
-        "expanded_url" : "https:\/\/github.com\/JJJ\/publishiza",
-        "display_url" : "github.com\/JJJ\/publishiza"
-      } ]
-    },
-    "in_reply_to_status_id_str" : "809693860578422784",
-    "geo" : { },
-    "id_str" : "809695666972790784",
-    "in_reply_to_user_id" : 15908706,
-    "text" : "Publishiza is on GitHub: https:\/\/t.co\/dDBOg3O4Cw",
-    "id" : 809695666972790784,
-    "in_reply_to_status_id" : 809693860578422784,
-    "created_at" : "2016-12-16 09:44:25 +0000",
-    "in_reply_to_screen_name" : "JJJ",
-    "in_reply_to_user_id_str" : "15908706",
-    "user" : {
-      "name" : "John James Jacoby",
-      "screen_name" : "JJJ",
-      "protected" : false,
-      "id_str" : "15908706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1019085457802526720\/1jgoZNeY_normal.jpg",
-      "id" : 15908706,
-      "verified" : false
-    }
-  },
-  "id" : 809812250047328256,
-  "created_at" : "2016-12-16 17:27:40 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4978,7 +4783,7 @@ Grailbird.data.tweets_2016_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 0, 6 ],
       "id_str" : "14611891",
@@ -5873,7 +5678,7 @@ Grailbird.data.tweets_2016_12 =
     "id" : 806609933886246920,
     "created_at" : "2016-12-07 21:22:48 +0000",
     "user" : {
-      "name" : "35 Savage",
+      "name" : "Scratching Post Malone",
       "screen_name" : "sendcats",
       "protected" : false,
       "id_str" : "31179339",
@@ -6512,67 +6317,6 @@ Grailbird.data.tweets_2016_12 =
   "text" : "I had a great @WordCampUS. So many wonderful, productive, and fun conversations with old and new friends. Thanks everyone! #wcus",
   "id" : 805850999806193665,
   "created_at" : "2016-12-05 19:07:04 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "John James Jacoby",
-      "screen_name" : "JJJ",
-      "indices" : [ 3, 7 ],
-      "id_str" : "15908706",
-      "id" : 15908706
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 31, 54 ],
-      "url" : "https:\/\/t.co\/jiD4sMnfnB",
-      "expanded_url" : "https:\/\/jjj.blog\/2016\/12\/05\/",
-      "display_url" : "jjj.blog\/2016\/12\/05\/"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "805847330637410305",
-  "text" : "RT @JJJ: One-Hundred, Forever\n\nhttps:\/\/t.co\/jiD4sMnfnB\uD83D\uDCAF\u221E\/",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 22, 45 ],
-        "url" : "https:\/\/t.co\/jiD4sMnfnB",
-        "expanded_url" : "https:\/\/jjj.blog\/2016\/12\/05\/",
-        "display_url" : "jjj.blog\/2016\/12\/05\/"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "805778984835358720",
-    "text" : "One-Hundred, Forever\n\nhttps:\/\/t.co\/jiD4sMnfnB\uD83D\uDCAF\u221E\/",
-    "id" : 805778984835358720,
-    "created_at" : "2016-12-05 14:20:55 +0000",
-    "user" : {
-      "name" : "John James Jacoby",
-      "screen_name" : "JJJ",
-      "protected" : false,
-      "id_str" : "15908706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1019085457802526720\/1jgoZNeY_normal.jpg",
-      "id" : 15908706,
-      "verified" : false
-    }
-  },
-  "id" : 805847330637410305,
-  "created_at" : "2016-12-05 18:52:30 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

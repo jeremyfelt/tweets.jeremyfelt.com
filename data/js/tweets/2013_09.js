@@ -747,7 +747,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "1707321486",
       "id" : 1707321486
     }, {
-      "name" : "Tim \uF8FF",
+      "name" : "Tim Cook",
       "screen_name" : "tim_cook",
       "indices" : [ 25, 34 ],
       "id_str" : "1636590253",
@@ -1199,7 +1199,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "ev",
       "protected" : false,
       "id_str" : "20",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/637828066664837121\/1SC7FXli_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1112521685045923840\/PNTlqJOF_normal.jpg",
       "id" : 20,
       "verified" : true
     }
@@ -5747,7 +5747,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zee M Kane",
+      "name" : "Zee",
       "screen_name" : "Zee",
       "indices" : [ 3, 7 ],
       "id_str" : "7161172",
@@ -5784,7 +5784,7 @@ Grailbird.data.tweets_2013_09 =
     "id" : 378974660966498304,
     "created_at" : "2013-09-14 20:12:54 +0000",
     "user" : {
-      "name" : "Zee M Kane",
+      "name" : "Zee",
       "screen_name" : "Zee",
       "protected" : false,
       "id_str" : "7161172",
@@ -7850,7 +7850,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hannah Hart @ SXSW",
+      "name" : "Hannah Hart (wrote a new cookbook!)",
       "screen_name" : "harto",
       "indices" : [ 0, 6 ],
       "id_str" : "14166096",
@@ -8508,7 +8508,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -8859,7 +8859,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "daljo628",
       "protected" : false,
       "id_str" : "15982239",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1064573969557270528\/WlIgS7LF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1113876976497037314\/MHbnn3Dw_normal.png",
       "id" : 15982239,
       "verified" : false
     }

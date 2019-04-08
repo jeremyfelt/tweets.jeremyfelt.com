@@ -259,7 +259,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "computer related t-shirts",
+      "name" : "computer baseball",
       "screen_name" : "streetlamp",
       "indices" : [ 0, 11 ],
       "id_str" : "15808208",
@@ -390,7 +390,7 @@ Grailbird.data.tweets_2018_02 =
       "screen_name" : "brenaclifton",
       "protected" : false,
       "id_str" : "172376212",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1072693184118038529\/Eis7E-ex_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1108215245561085953\/wEpl2ozU_normal.jpg",
       "id" : 172376212,
       "verified" : false
     }
@@ -1345,7 +1345,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Curm\u00FCdgeon Grant",
+      "name" : "Granthrax",
       "screen_name" : "CurmudgeonGrant",
       "indices" : [ 0, 16 ],
       "id_str" : "176672734",
@@ -1612,79 +1612,6 @@ Grailbird.data.tweets_2018_02 =
   "text" : "Lol at the Post calling 19 year old Shaun White \u201Craggedy\u201D \uD83C\uDFC5\nhttps:\/\/t.co\/P6XlTwShrv",
   "id" : 963613094562992128,
   "created_at" : "2018-02-14 03:17:19 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jackson Palmer",
-      "screen_name" : "ummjackson",
-      "indices" : [ 3, 14 ],
-      "id_str" : "25456180",
-      "id" : 25456180
-    }, {
-      "name" : "Salon",
-      "screen_name" : "Salon",
-      "indices" : [ 82, 88 ],
-      "id_str" : "16955991",
-      "id" : 16955991
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "963496064690020352",
-  "text" : "RT @ummjackson: Import this \"nocoin\" list into your ad blocker to stop sites like @Salon hijacking your CPU for crypto mining: https:\/\/t.co\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Salon",
-        "screen_name" : "Salon",
-        "indices" : [ 66, 72 ],
-        "id_str" : "16955991",
-        "id" : 16955991
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 111, 134 ],
-        "url" : "https:\/\/t.co\/h3YWgjRwDd",
-        "expanded_url" : "https:\/\/github.com\/hoshsadiq\/adblock-nocoin-list\/",
-        "display_url" : "github.com\/hoshsadiq\/adbl\u2026"
-      }, {
-        "indices" : [ 186, 209 ],
-        "url" : "https:\/\/t.co\/fPl6hFUpNq",
-        "expanded_url" : "https:\/\/twitter.com\/ericnakagawa\/status\/963445486546960389",
-        "display_url" : "twitter.com\/ericnakagawa\/s\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "963446360514052097",
-    "text" : "Import this \"nocoin\" list into your ad blocker to stop sites like @Salon hijacking your CPU for crypto mining: https:\/\/t.co\/h3YWgjRwDd\n\nI use uBlock Origin in Chrome and it works great. https:\/\/t.co\/fPl6hFUpNq",
-    "id" : 963446360514052097,
-    "created_at" : "2018-02-13 16:14:46 +0000",
-    "user" : {
-      "name" : "Jackson Palmer",
-      "screen_name" : "ummjackson",
-      "protected" : false,
-      "id_str" : "25456180",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1091910045191663617\/6IzYGFPu_normal.jpg",
-      "id" : 25456180,
-      "verified" : true
-    }
-  },
-  "id" : 963496064690020352,
-  "created_at" : "2018-02-13 19:32:17 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2206,7 +2133,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rian Rietveld",
+      "name" : "Rian Rietveld @ WCLDN",
       "screen_name" : "RianRietveld",
       "indices" : [ 3, 16 ],
       "id_str" : "97227793",
@@ -2238,7 +2165,7 @@ Grailbird.data.tweets_2018_02 =
     "id" : 960815875396956161,
     "created_at" : "2018-02-06 10:02:10 +0000",
     "user" : {
-      "name" : "Rian Rietveld",
+      "name" : "Rian Rietveld @ WCLDN",
       "screen_name" : "RianRietveld",
       "protected" : false,
       "id_str" : "97227793",

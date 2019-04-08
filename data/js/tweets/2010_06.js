@@ -1300,7 +1300,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jason \uD83D\uDC3B",
+      "name" : "Jason Shellen",
       "screen_name" : "shellen",
       "indices" : [ 3, 11 ],
       "id_str" : "422",
@@ -1339,7 +1339,7 @@ Grailbird.data.tweets_2010_06 =
     "id" : 17113977693,
     "created_at" : "2010-06-26 19:52:04 +0000",
     "user" : {
-      "name" : "Jason \uD83D\uDC3B",
+      "name" : "Jason Shellen",
       "screen_name" : "shellen",
       "protected" : false,
       "id_str" : "422",
@@ -3162,7 +3162,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "ryanmark",
       "protected" : false,
       "id_str" : "14550756",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1491555364\/me_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1108753570957017088\/FRfqzf0G_normal.png",
       "id" : 14550756,
       "verified" : false
     }
@@ -3952,7 +3952,7 @@ Grailbird.data.tweets_2010_06 =
       "screen_name" : "cubanalaf",
       "protected" : false,
       "id_str" : "15377897",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1085718047183327232\/ls87VZt6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1111949592654942209\/1G9MX44F_normal.jpg",
       "id" : 15377897,
       "verified" : false
     }
@@ -4425,7 +4425,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/www.statusii.com\" rel=\"nofollow\"\u003EStatusii\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jason \uD83D\uDC3B",
+      "name" : "Jason Shellen",
       "screen_name" : "shellen",
       "indices" : [ 3, 11 ],
       "id_str" : "422",
@@ -4458,7 +4458,7 @@ Grailbird.data.tweets_2010_06 =
     "id" : 15645354902,
     "created_at" : "2010-06-07 17:47:33 +0000",
     "user" : {
-      "name" : "Jason \uD83D\uDC3B",
+      "name" : "Jason Shellen",
       "screen_name" : "shellen",
       "protected" : false,
       "id_str" : "422",

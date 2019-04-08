@@ -524,7 +524,7 @@ Grailbird.data.tweets_2018_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 0, 6 ],
       "id_str" : "14611891",
@@ -696,7 +696,7 @@ Grailbird.data.tweets_2018_08 =
       "id_str" : "771712",
       "id" : 771712
     }, {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 6, 13 ],
       "id_str" : "6306542",
@@ -940,7 +940,7 @@ Grailbird.data.tweets_2018_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "computer related t-shirts",
+      "name" : "computer baseball",
       "screen_name" : "streetlamp",
       "indices" : [ 0, 11 ],
       "id_str" : "15808208",
@@ -1257,7 +1257,7 @@ Grailbird.data.tweets_2018_08 =
       "id_str" : "20571802",
       "id" : 20571802
     }, {
-      "name" : "Ellen K. Pao",
+      "name" : "Ellen K. Pao \uD83D\uDCA5",
       "screen_name" : "ekp",
       "indices" : [ 130, 134 ],
       "id_str" : "6655612",
@@ -1274,7 +1274,7 @@ Grailbird.data.tweets_2018_08 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Ellen K. Pao",
+        "name" : "Ellen K. Pao \uD83D\uDCA5",
         "screen_name" : "ekp",
         "indices" : [ 121, 125 ],
         "id_str" : "6655612",
@@ -1295,7 +1295,7 @@ Grailbird.data.tweets_2018_08 =
     "id" : 1026998426301431808,
     "created_at" : "2018-08-08 01:08:00 +0000",
     "user" : {
-      "name" : "Marina",
+      "name" : "Marina Z",
       "screen_name" : "m7z",
       "protected" : false,
       "id_str" : "20571802",
@@ -2017,7 +2017,7 @@ Grailbird.data.tweets_2018_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kathy Zant #wcmia",
+      "name" : "Kathy Zant",
       "screen_name" : "kathyzant",
       "indices" : [ 0, 10 ],
       "id_str" : "16733",
@@ -2083,7 +2083,7 @@ Grailbird.data.tweets_2018_08 =
       "id_str" : "28018168",
       "id" : 28018168
     }, {
-      "name" : "jenn",
+      "name" : "jennder constructs",
       "screen_name" : "jennschiffer",
       "indices" : [ 88, 101 ],
       "id_str" : "12524622",
@@ -2103,7 +2103,7 @@ Grailbird.data.tweets_2018_08 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "jenn",
+        "name" : "jennder constructs",
         "screen_name" : "jennschiffer",
         "indices" : [ 76, 89 ],
         "id_str" : "12524622",

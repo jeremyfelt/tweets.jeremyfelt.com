@@ -178,7 +178,7 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "yurivictor",
       "protected" : false,
       "id_str" : "5511932",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1050248373662408707\/PscPKP1U_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1111298267738890240\/eW8QAbrB_normal.png",
       "id" : 5511932,
       "verified" : true
     }
@@ -316,69 +316,6 @@ Grailbird.data.tweets_2014_01 =
   },
   "id" : 429429385376985088,
   "created_at" : "2014-02-01 01:41:58 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Dave Konopka",
-      "screen_name" : "davekonopka",
-      "indices" : [ 3, 15 ],
-      "id_str" : "710133",
-      "id" : 710133
-    }, {
-      "name" : "Bob Ross\u2019 Ghost",
-      "screen_name" : "BobRoss",
-      "indices" : [ 48, 56 ],
-      "id_str" : "736575861810286592",
-      "id" : 736575861810286592
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "429101619112722432",
-  "text" : "RT @davekonopka: My cloud provider of choice is @BobRoss.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Bob Ross\u2019 Ghost",
-        "screen_name" : "BobRoss",
-        "indices" : [ 31, 39 ],
-        "id_str" : "736575861810286592",
-        "id" : 736575861810286592
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "428681081676902400",
-    "text" : "My cloud provider of choice is @BobRoss.",
-    "id" : 428681081676902400,
-    "created_at" : "2014-01-30 00:08:29 +0000",
-    "user" : {
-      "name" : "Dave Konopka",
-      "screen_name" : "davekonopka",
-      "protected" : false,
-      "id_str" : "710133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983329475436908544\/EuyK1jGZ_normal.jpg",
-      "id" : 710133,
-      "verified" : false
-    }
-  },
-  "id" : 429101619112722432,
-  "created_at" : "2014-01-31 03:59:32 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -5361,7 +5298,7 @@ Grailbird.data.tweets_2014_01 =
       "screen_name" : "yurivictor",
       "protected" : false,
       "id_str" : "5511932",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1050248373662408707\/PscPKP1U_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1111298267738890240\/eW8QAbrB_normal.png",
       "id" : 5511932,
       "verified" : true
     }
@@ -7093,7 +7030,7 @@ Grailbird.data.tweets_2014_01 =
       "id_str" : "132978921",
       "id" : 132978921
     }, {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 20, 27 ],
       "id_str" : "6306542",
@@ -7126,7 +7063,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -7159,7 +7096,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -9600,7 +9537,7 @@ Grailbird.data.tweets_2014_01 =
       "id_str" : "132978921",
       "id" : 132978921
     }, {
-      "name" : "ipstenu (((Mika E)))",
+      "name" : "ipstenu (Mika E.)",
       "screen_name" : "Ipstenu",
       "indices" : [ 104, 112 ],
       "id_str" : "9412542",
@@ -9651,7 +9588,7 @@ Grailbird.data.tweets_2014_01 =
       "id_str" : "132978921",
       "id" : 132978921
     }, {
-      "name" : "ipstenu (((Mika E)))",
+      "name" : "ipstenu (Mika E.)",
       "screen_name" : "Ipstenu",
       "indices" : [ 10, 18 ],
       "id_str" : "9412542",

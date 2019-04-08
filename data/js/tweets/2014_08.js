@@ -651,7 +651,7 @@ Grailbird.data.tweets_2014_08 =
       "id_str" : "22232652",
       "id" : 22232652
     }, {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 20, 26 ],
       "id_str" : "14611891",
@@ -3125,7 +3125,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "ReignOfApril",
       "protected" : false,
       "id_str" : "119972954",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1049083148351561728\/ZO0_ucAA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1112470477442711555\/odiFYlQy_normal.jpg",
       "id" : 119972954,
       "verified" : true
     }

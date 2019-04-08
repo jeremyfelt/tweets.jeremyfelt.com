@@ -1105,7 +1105,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "elonmusk",
       "protected" : false,
       "id_str" : "44196397",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1101936308933591040\/7pKFkuxc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1111915116579086336\/HKxtnLsO_normal.jpg",
       "id" : 44196397,
       "verified" : true
     }
@@ -2548,7 +2548,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Adam",
+      "name" : "\uD83E\uDD37\uD83C\uDFFB\u200D\u2642\uFE0F",
       "screen_name" : "Khanoisseur",
       "indices" : [ 3, 15 ],
       "id_str" : "373564351",
@@ -2642,7 +2642,7 @@ Grailbird.data.tweets_2015_12 =
     "in_reply_to_screen_name" : "Khanoisseur",
     "in_reply_to_user_id_str" : "373564351",
     "user" : {
-      "name" : "Adam",
+      "name" : "\uD83E\uDD37\uD83C\uDFFB\u200D\u2642\uFE0F",
       "screen_name" : "Khanoisseur",
       "protected" : false,
       "id_str" : "373564351",
@@ -3249,7 +3249,7 @@ Grailbird.data.tweets_2015_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tim Evko \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Tim Evko \u271E \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "Tevko",
       "indices" : [ 3, 9 ],
       "id_str" : "64310286",
@@ -3281,7 +3281,7 @@ Grailbird.data.tweets_2015_12 =
     "id" : 674384742154944512,
     "created_at" : "2015-12-09 00:27:06 +0000",
     "user" : {
-      "name" : "Tim Evko \uD83C\uDDFA\uD83C\uDDF8",
+      "name" : "Tim Evko \u271E \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "Tevko",
       "protected" : false,
       "id_str" : "64310286",
@@ -4233,7 +4233,7 @@ Grailbird.data.tweets_2015_12 =
       "id_str" : "9689612",
       "id" : 9689612
     }, {
-      "name" : "rric",
+      "name" : "eric",
       "screen_name" : "ericandrewlewis",
       "indices" : [ 78, 94 ],
       "id_str" : "218730107",
@@ -4289,7 +4289,7 @@ Grailbird.data.tweets_2015_12 =
         "id_str" : "9689612",
         "id" : 9689612
       }, {
-        "name" : "rric",
+        "name" : "eric",
         "screen_name" : "ericandrewlewis",
         "indices" : [ 67, 83 ],
         "id_str" : "218730107",
@@ -4536,7 +4536,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "WordCampUS",
       "protected" : false,
       "id_str" : "223718653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1073952221962809344\/4dZumpKI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1108885908592443392\/-guTLDAI_normal.png",
       "id" : 223718653,
       "verified" : false
     }
@@ -6041,7 +6041,7 @@ Grailbird.data.tweets_2015_12 =
       "id_str" : "17411278",
       "id" : 17411278
     }, {
-      "name" : "Aaron D. Campbell",
+      "name" : "Aaron D. Campbell - #CloudFest",
       "screen_name" : "aaroncampbell",
       "indices" : [ 79, 93 ],
       "id_str" : "16367815",
@@ -6397,7 +6397,7 @@ Grailbird.data.tweets_2015_12 =
       "id_str" : "335110427",
       "id" : 335110427
     }, {
-      "name" : "rric",
+      "name" : "eric",
       "screen_name" : "ericandrewlewis",
       "indices" : [ 45, 61 ],
       "id_str" : "218730107",

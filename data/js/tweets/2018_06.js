@@ -987,7 +987,7 @@ Grailbird.data.tweets_2018_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 0, 6 ],
       "id_str" : "14611891",
@@ -2160,7 +2160,7 @@ Grailbird.data.tweets_2018_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Milan Ivanovi\u0107 #WCNordic",
+      "name" : "Milan Ivanovi\u0107",
       "screen_name" : "lanche86",
       "indices" : [ 79, 88 ],
       "id_str" : "45379776",
@@ -2989,7 +2989,7 @@ Grailbird.data.tweets_2018_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -3263,7 +3263,7 @@ Grailbird.data.tweets_2018_06 =
       "screen_name" : "anjuan",
       "protected" : false,
       "id_str" : "8062692",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013083902351585281\/-DRZJqwd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1111571124503097344\/B1v_e40E_normal.jpg",
       "id" : 8062692,
       "verified" : true
     }
@@ -3331,7 +3331,7 @@ Grailbird.data.tweets_2018_06 =
     "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Web App\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Morten the Northman",
+        "name" : "Morten Rand-Hendriksen",
         "screen_name" : "mor10",
         "indices" : [ 137, 143 ],
         "id_str" : "14611891",
@@ -3425,7 +3425,7 @@ Grailbird.data.tweets_2018_06 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Morten the Northman",
+        "name" : "Morten Rand-Hendriksen",
         "screen_name" : "mor10",
         "indices" : [ 265, 271 ],
         "id_str" : "14611891",
@@ -3499,7 +3499,7 @@ Grailbird.data.tweets_2018_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 20, 27 ],
       "id_str" : "6306542",
@@ -4782,7 +4782,7 @@ Grailbird.data.tweets_2018_06 =
       "screen_name" : "wcpublishers",
       "protected" : false,
       "id_str" : "849697579206135812",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/986298218249154567\/yywIJa_M_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1111649976369721344\/5kTT3SR0_normal.png",
       "id" : 849697579206135812,
       "verified" : false
     }

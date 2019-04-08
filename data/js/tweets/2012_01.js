@@ -997,7 +997,7 @@ Grailbird.data.tweets_2012_01 =
       "id_str" : "14132756",
       "id" : 14132756
     }, {
-      "name" : "ipstenu (((Mika E)))",
+      "name" : "ipstenu (Mika E.)",
       "screen_name" : "Ipstenu",
       "indices" : [ 10, 18 ],
       "id_str" : "9412542",
@@ -3526,7 +3526,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan \u201CBan Winter\u201D Sholin",
+      "name" : "Ryan \u201CI don't get seasons\u201D Sholin",
       "screen_name" : "ryansholin",
       "indices" : [ 71, 82 ],
       "id_str" : "884301",

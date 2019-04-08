@@ -1262,7 +1262,7 @@ Grailbird.data.tweets_2015_10 =
       "id_str" : "14886552",
       "id" : 14886552
     }, {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 13, 20 ],
       "id_str" : "6306542",
@@ -2522,7 +2522,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -3455,11 +3455,11 @@ Grailbird.data.tweets_2015_10 =
       "id_str" : "24984517",
       "id" : 24984517
     }, {
-      "name" : "WSU Cougar Football",
-      "screen_name" : "WSUCougFB",
+      "name" : "Sally James",
+      "screen_name" : "wsucougfb",
       "indices" : [ 50, 60 ],
-      "id_str" : "1250265324",
-      "id" : 1250265324
+      "id_str" : "837635683229409280",
+      "id" : 837635683229409280
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -3475,11 +3475,11 @@ Grailbird.data.tweets_2015_10 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "WSU Cougar Football",
-        "screen_name" : "WSUCougFB",
+        "name" : "Sally James",
+        "screen_name" : "wsucougfb",
         "indices" : [ 34, 44 ],
-        "id_str" : "1250265324",
-        "id" : 1250265324
+        "id_str" : "837635683229409280",
+        "id" : 837635683229409280
       } ],
       "media" : [ ],
       "hashtags" : [ {
@@ -4825,7 +4825,13 @@ Grailbird.data.tweets_2015_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Sally James",
+      "screen_name" : "wsucougfb",
+      "indices" : [ 3, 13 ],
+      "id_str" : "837635683229409280",
+      "id" : 837635683229409280
+    } ],
     "media" : [ {
       "expanded_url" : "https:\/\/twitter.com\/wsucougfb\/status\/653019466314289152\/photo\/1",
       "indices" : [ 49, 71 ],
@@ -6363,7 +6369,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -6396,7 +6402,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 3, 10 ],
       "id_str" : "6306542",
@@ -6433,7 +6439,7 @@ Grailbird.data.tweets_2015_10 =
     "id" : 651948847963353088,
     "created_at" : "2015-10-08 02:34:52 +0000",
     "user" : {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "protected" : false,
       "id_str" : "6306542",
@@ -7390,7 +7396,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "_sagesharp_",
       "protected" : false,
       "id_str" : "14804579",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1076539229939785728\/FT9JA_B__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1113307044566560768\/PlhqM7zO_normal.jpg",
       "id" : 14804579,
       "verified" : false
     }

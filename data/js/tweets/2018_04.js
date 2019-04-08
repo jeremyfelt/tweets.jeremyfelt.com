@@ -434,7 +434,7 @@ Grailbird.data.tweets_2018_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -887,7 +887,7 @@ Grailbird.data.tweets_2018_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "wikipedia brown, chiberian tiger",
+      "name" : "wikipedia brown, but a weird tethered version \u2702\uFE0F",
       "screen_name" : "eveewing",
       "indices" : [ 3, 12 ],
       "id_str" : "19166519",
@@ -924,7 +924,7 @@ Grailbird.data.tweets_2018_04 =
     "id" : 987110957527785472,
     "created_at" : "2018-04-19 23:29:26 +0000",
     "user" : {
-      "name" : "wikipedia brown, chiberian tiger",
+      "name" : "wikipedia brown, but a weird tethered version \u2702\uFE0F",
       "screen_name" : "eveewing",
       "protected" : false,
       "id_str" : "19166519",

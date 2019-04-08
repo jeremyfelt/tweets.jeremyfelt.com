@@ -1185,7 +1185,7 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "1741681",
       "id" : 1741681
     }, {
-      "name" : "ipstenu (((Mika E)))",
+      "name" : "ipstenu (Mika E.)",
       "screen_name" : "Ipstenu",
       "indices" : [ 12, 20 ],
       "id_str" : "9412542",
@@ -1218,7 +1218,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ipstenu (((Mika E)))",
+      "name" : "ipstenu (Mika E.)",
       "screen_name" : "Ipstenu",
       "indices" : [ 0, 8 ],
       "id_str" : "9412542",

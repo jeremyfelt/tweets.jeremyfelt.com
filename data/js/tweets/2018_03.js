@@ -409,7 +409,7 @@ Grailbird.data.tweets_2018_03 =
       "screen_name" : "rachelwalexande",
       "protected" : false,
       "id_str" : "22231438",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/864553269267374081\/Rs-WrYrG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1108099114540032000\/MJUby-xt_normal.png",
       "id" : 22231438,
       "verified" : true
     }
@@ -551,7 +551,7 @@ Grailbird.data.tweets_2018_03 =
       "screen_name" : "NBCNews",
       "protected" : false,
       "id_str" : "14173315",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875411730679173121\/l9PSFLJb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1108426393287868423\/CyLn5GVQ_normal.png",
       "id" : 14173315,
       "verified" : true
     }
@@ -2230,7 +2230,7 @@ Grailbird.data.tweets_2018_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -2566,7 +2566,7 @@ Grailbird.data.tweets_2018_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -4319,7 +4319,7 @@ Grailbird.data.tweets_2018_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "computer related t-shirts",
+      "name" : "computer hoodies",
       "screen_name" : "streetlamp",
       "indices" : [ 0, 11 ],
       "id_str" : "15808208",
@@ -4357,7 +4357,7 @@ Grailbird.data.tweets_2018_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "rhodes.yml",
+      "name" : "leader of a rival conga",
       "screen_name" : "rhodesjason",
       "indices" : [ 3, 15 ],
       "id_str" : "14282793",
@@ -4389,7 +4389,7 @@ Grailbird.data.tweets_2018_03 =
     "id" : 969738839282651136,
     "created_at" : "2018-03-03 00:58:50 +0000",
     "user" : {
-      "name" : "rhodes.yml",
+      "name" : "leader of a rival conga",
       "screen_name" : "rhodesjason",
       "protected" : false,
       "id_str" : "14282793",

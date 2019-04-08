@@ -570,7 +570,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Curm\u00FCdgeon Grant",
+      "name" : "Granthrax",
       "screen_name" : "CurmudgeonGrant",
       "indices" : [ 0, 16 ],
       "id_str" : "176672734",
@@ -865,7 +865,7 @@ Grailbird.data.tweets_2017_05 =
       "screen_name" : "jeremybowers",
       "protected" : false,
       "id_str" : "8083262",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1098614486813102080\/VK57xrS6_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1111640752705155072\/LeF2cZ6r_normal.png",
       "id" : 8083262,
       "verified" : true
     }
@@ -1047,7 +1047,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -1192,7 +1192,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -1540,7 +1540,7 @@ Grailbird.data.tweets_2017_05 =
       "screen_name" : "Breznican",
       "protected" : false,
       "id_str" : "21132877",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1103085875716534274\/ETNQJlEJ_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1109824679554891781\/d3C9sjf3_normal.jpg",
       "id" : 21132877,
       "verified" : true
     }
@@ -2661,7 +2661,7 @@ Grailbird.data.tweets_2017_05 =
       "screen_name" : "ericgeller",
       "protected" : false,
       "id_str" : "3817401",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/976528037683630082\/8oH-oJIf_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1113929490185510912\/jivth1oi_normal.png",
       "id" : 3817401,
       "verified" : true
     }
@@ -3063,67 +3063,6 @@ Grailbird.data.tweets_2017_05 =
   "text" : "He must have \"asked\", not asked. https:\/\/t.co\/aWSm7R7s0J",
   "id" : 864602696329736192,
   "created_at" : "2017-05-16 22:05:21 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "John James Jacoby",
-      "screen_name" : "JJJ",
-      "indices" : [ 3, 7 ],
-      "id_str" : "15908706",
-      "id" : 15908706
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 73, 96 ],
-      "url" : "https:\/\/t.co\/765iU6tnh7",
-      "expanded_url" : "https:\/\/sponsorwp.com",
-      "display_url" : "sponsorwp.com"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "864602133374447616",
-  "text" : "RT @JJJ: It's not done-done, but ship early and iterate quickly, right?\n\nhttps:\/\/t.co\/765iU6tnh7 via @SponsorWp",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 64, 87 ],
-        "url" : "https:\/\/t.co\/765iU6tnh7",
-        "expanded_url" : "https:\/\/sponsorwp.com",
-        "display_url" : "sponsorwp.com"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "864583198810005504",
-    "text" : "It's not done-done, but ship early and iterate quickly, right?\n\nhttps:\/\/t.co\/765iU6tnh7 via @SponsorWp",
-    "id" : 864583198810005504,
-    "created_at" : "2017-05-16 20:47:52 +0000",
-    "user" : {
-      "name" : "John James Jacoby",
-      "screen_name" : "JJJ",
-      "protected" : false,
-      "id_str" : "15908706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1019085457802526720\/1jgoZNeY_normal.jpg",
-      "id" : 15908706,
-      "verified" : false
-    }
-  },
-  "id" : 864602133374447616,
-  "created_at" : "2017-05-16 22:03:06 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -4154,7 +4093,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 3, 9 ],
       "id_str" : "14611891",
@@ -4203,7 +4142,7 @@ Grailbird.data.tweets_2017_05 =
     "id" : 862321431941480448,
     "created_at" : "2017-05-10 15:00:25 +0000",
     "user" : {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "protected" : false,
       "id_str" : "14611891",
@@ -4268,7 +4207,7 @@ Grailbird.data.tweets_2017_05 =
       "screen_name" : "dangoodin001",
       "protected" : false,
       "id_str" : "14150736",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1049328661034233857\/oylGHVeX_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1111653284014510080\/QGp04DUG_normal.png",
       "id" : 14150736,
       "verified" : false
     }
@@ -4859,7 +4798,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "computer related t-shirts",
+      "name" : "computer baseball",
       "screen_name" : "streetlamp",
       "indices" : [ 0, 11 ],
       "id_str" : "15808208",

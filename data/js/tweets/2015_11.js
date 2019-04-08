@@ -570,7 +570,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "rric",
+      "name" : "eric",
       "screen_name" : "ericandrewlewis",
       "indices" : [ 3, 19 ],
       "id_str" : "218730107",
@@ -602,7 +602,7 @@ Grailbird.data.tweets_2015_11 =
     "in_reply_to_screen_name" : "ericandrewlewis",
     "in_reply_to_user_id_str" : "218730107",
     "user" : {
-      "name" : "rric",
+      "name" : "eric",
       "screen_name" : "ericandrewlewis",
       "protected" : false,
       "id_str" : "218730107",
@@ -626,7 +626,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "rric",
+      "name" : "eric",
       "screen_name" : "ericandrewlewis",
       "indices" : [ 3, 19 ],
       "id_str" : "218730107",
@@ -658,7 +658,7 @@ Grailbird.data.tweets_2015_11 =
     "in_reply_to_screen_name" : "ericandrewlewis",
     "in_reply_to_user_id_str" : "218730107",
     "user" : {
-      "name" : "rric",
+      "name" : "eric",
       "screen_name" : "ericandrewlewis",
       "protected" : false,
       "id_str" : "218730107",
@@ -682,7 +682,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "rric",
+      "name" : "eric",
       "screen_name" : "ericandrewlewis",
       "indices" : [ 3, 19 ],
       "id_str" : "218730107",
@@ -714,7 +714,7 @@ Grailbird.data.tweets_2015_11 =
     "id" : 669673871285596161,
     "created_at" : "2015-11-26 00:27:47 +0000",
     "user" : {
-      "name" : "rric",
+      "name" : "eric",
       "screen_name" : "ericandrewlewis",
       "protected" : false,
       "id_str" : "218730107",
@@ -2815,7 +2815,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thaddeus t. grugq",
+      "name" : "thaddeus e. grugq",
       "screen_name" : "thegrugq",
       "indices" : [ 3, 12 ],
       "id_str" : "18983429",
@@ -2895,7 +2895,7 @@ Grailbird.data.tweets_2015_11 =
     "id" : 666506213350215680,
     "created_at" : "2015-11-17 06:40:39 +0000",
     "user" : {
-      "name" : "thaddeus t. grugq",
+      "name" : "thaddeus e. grugq",
       "screen_name" : "thegrugq",
       "protected" : false,
       "id_str" : "18983429",
@@ -3122,7 +3122,7 @@ Grailbird.data.tweets_2015_11 =
       "id_str" : "16275037",
       "id" : 16275037
     }, {
-      "name" : "Kathleen Vignos",
+      "name" : "Kathleen Vignos @SRECon",
       "screen_name" : "kathleencodes",
       "indices" : [ 45, 59 ],
       "id_str" : "18689607",
@@ -3139,7 +3139,7 @@ Grailbird.data.tweets_2015_11 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Kathleen Vignos",
+        "name" : "Kathleen Vignos @SRECon",
         "screen_name" : "kathleencodes",
         "indices" : [ 29, 43 ],
         "id_str" : "18689607",
@@ -3287,9 +3287,27 @@ Grailbird.data.tweets_2015_11 =
       "indices" : [ 57, 73 ],
       "id_str" : "78969768",
       "id" : 78969768
+    }, {
+      "name" : "Sally James",
+      "screen_name" : "wsucougfb",
+      "indices" : [ 75, 85 ],
+      "id_str" : "837635683229409280",
+      "id" : 837635683229409280
+    }, {
+      "name" : "UCLA Football",
+      "screen_name" : "UCLAFootball",
+      "indices" : [ 91, 104 ],
+      "id_str" : "512418287",
+      "id" : 512418287
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "WSU",
+      "indices" : [ 108, 112 ]
+    }, {
+      "text" : "GoCougs",
+      "indices" : [ 113, 121 ]
+    } ],
     "urls" : [ ]
   },
   "geo" : { },
@@ -3304,6 +3322,12 @@ Grailbird.data.tweets_2015_11 =
         "indices" : [ 41, 57 ],
         "id_str" : "78969768",
         "id" : 78969768
+      }, {
+        "name" : "Sally James",
+        "screen_name" : "wsucougfb",
+        "indices" : [ 59, 69 ],
+        "id_str" : "837635683229409280",
+        "id" : 837635683229409280
       }, {
         "name" : "UCLA Football",
         "screen_name" : "UCLAFootball",
@@ -3834,7 +3858,7 @@ Grailbird.data.tweets_2015_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "son of an asylum seeker, father of an immigrant",
+      "name" : "Masque of the Red Death",
       "screen_name" : "doctorow",
       "indices" : [ 3, 12 ],
       "id_str" : "2729061",
@@ -4057,11 +4081,11 @@ Grailbird.data.tweets_2015_11 =
     "id" : 663707477205106690,
     "created_at" : "2015-11-09 13:19:28 +0000",
     "user" : {
-      "name" : "son of an asylum seeker, father of an immigrant",
+      "name" : "Masque of the Red Death",
       "screen_name" : "doctorow",
       "protected" : false,
       "id_str" : "2729061",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/675023052812378112\/Ly7VsGa6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1111026520548691971\/Thyp3AyA_normal.png",
       "id" : 2729061,
       "verified" : true
     }

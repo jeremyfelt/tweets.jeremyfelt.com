@@ -1156,7 +1156,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -1673,6 +1673,119 @@ Grailbird.data.tweets_2016_05 =
   },
   "id" : 733900476714881024,
   "created_at" : "2016-05-21 06:01:23 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "b",
+      "screen_name" : "riarklerise",
+      "indices" : [ 3, 15 ],
+      "id_str" : "736072463830814721",
+      "id" : 736072463830814721
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/riarklerise\/status\/733389885038428161\/photo\/1",
+      "indices" : [ 87, 110 ],
+      "url" : "https:\/\/t.co\/fkpP9HTWnk",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/Ci2GNQCUkAAViZJ.jpg",
+      "id_str" : "733389876532383744",
+      "id" : 733389876532383744,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Ci2GNQCUkAAViZJ.jpg",
+      "sizes" : [ {
+        "h" : 986,
+        "resize" : "fit",
+        "w" : 750
+      }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 517
+      }, {
+        "h" : 986,
+        "resize" : "fit",
+        "w" : 750
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 986,
+        "resize" : "fit",
+        "w" : 750
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/fkpP9HTWnk"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "733870361415032832",
+  "text" : "RT @riarklerise: how the fuck are they already on the textbook if theyre posing for it https:\/\/t.co\/fkpP9HTWnk",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/riarklerise\/status\/733389885038428161\/photo\/1",
+        "indices" : [ 70, 93 ],
+        "url" : "https:\/\/t.co\/fkpP9HTWnk",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/Ci2GNQCUkAAViZJ.jpg",
+        "id_str" : "733389876532383744",
+        "id" : 733389876532383744,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Ci2GNQCUkAAViZJ.jpg",
+        "sizes" : [ {
+          "h" : 986,
+          "resize" : "fit",
+          "w" : 750
+        }, {
+          "h" : 680,
+          "resize" : "fit",
+          "w" : 517
+        }, {
+          "h" : 986,
+          "resize" : "fit",
+          "w" : 750
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 986,
+          "resize" : "fit",
+          "w" : 750
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/fkpP9HTWnk"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "733389885038428161",
+    "text" : "how the fuck are they already on the textbook if theyre posing for it https:\/\/t.co\/fkpP9HTWnk",
+    "id" : 733389885038428161,
+    "created_at" : "2016-05-19 20:12:28 +0000",
+    "user" : {
+      "name" : "iz \/\/ pinned tweet",
+      "screen_name" : "kingofthe99",
+      "protected" : false,
+      "id_str" : "2344127544",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1103909389742694401\/rtg8bCjD_normal.jpg",
+      "id" : 2344127544,
+      "verified" : false
+    }
+  },
+  "id" : 733870361415032832,
+  "created_at" : "2016-05-21 04:01:43 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -3199,7 +3312,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "elonmusk",
       "protected" : false,
       "id_str" : "44196397",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1101936308933591040\/7pKFkuxc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1111915116579086336\/HKxtnLsO_normal.jpg",
       "id" : 44196397,
       "verified" : true
     }
@@ -4939,7 +5052,7 @@ Grailbird.data.tweets_2016_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Curm\u00FCdgeon Grant",
+      "name" : "Granthrax",
       "screen_name" : "CurmudgeonGrant",
       "indices" : [ 0, 16 ],
       "id_str" : "176672734",
@@ -5271,7 +5384,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "zeldman",
       "protected" : false,
       "id_str" : "61133",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1098758035344891905\/C3ryRuSn_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1113115593497079808\/nfUl19mN_normal.png",
       "id" : 61133,
       "verified" : true
     }
@@ -5415,7 +5528,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "scottkclark",
       "protected" : false,
       "id_str" : "52075828",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/962370873113051141\/_4Fs535i_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1109450027468906496\/jnDQODPQ_normal.jpg",
       "id" : 52075828,
       "verified" : false
     }

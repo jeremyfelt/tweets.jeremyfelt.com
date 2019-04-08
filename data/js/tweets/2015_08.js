@@ -1834,7 +1834,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dr Helen Ingram",
+      "name" : "Helen Ingram",
       "screen_name" : "drhingram",
       "indices" : [ 3, 13 ],
       "id_str" : "20304663",
@@ -1892,7 +1892,7 @@ Grailbird.data.tweets_2015_08 =
     "id" : 634798319504617472,
     "created_at" : "2015-08-21 18:44:48 +0000",
     "user" : {
-      "name" : "Dr Helen Ingram",
+      "name" : "Helen Ingram",
       "screen_name" : "drhingram",
       "protected" : false,
       "id_str" : "20304663",
@@ -2885,7 +2885,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -5942,7 +5942,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 3, 10 ],
       "id_str" : "6306542",
@@ -5979,7 +5979,7 @@ Grailbird.data.tweets_2015_08 =
     "id" : 632091917417709568,
     "created_at" : "2015-08-14 07:30:31 +0000",
     "user" : {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "protected" : false,
       "id_str" : "6306542",
@@ -6976,7 +6976,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "rric",
+      "name" : "eric",
       "screen_name" : "ericandrewlewis",
       "indices" : [ 3, 19 ],
       "id_str" : "218730107",
@@ -7075,7 +7075,7 @@ Grailbird.data.tweets_2015_08 =
     "id" : 630872114967519232,
     "created_at" : "2015-08-10 22:43:27 +0000",
     "user" : {
-      "name" : "rric",
+      "name" : "eric",
       "screen_name" : "ericandrewlewis",
       "protected" : false,
       "id_str" : "218730107",
@@ -10158,6 +10158,67 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Al Jazeera America",
+      "screen_name" : "ajam",
+      "indices" : [ 3, 8 ],
+      "id_str" : "1178700896",
+      "id" : 1178700896
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 58, 80 ],
+      "url" : "http:\/\/t.co\/XLRKnORRoD",
+      "expanded_url" : "http:\/\/alj.am\/e2l7",
+      "display_url" : "alj.am\/e2l7"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "628398445900922880",
+  "text" : "RT @ajam: Judge: Idaho's 'ag-gag' law is unconstitutional http:\/\/t.co\/XLRKnORRoD",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/www.socialflow.com\" rel=\"nofollow\"\u003ESocialFlow\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 48, 70 ],
+        "url" : "http:\/\/t.co\/XLRKnORRoD",
+        "expanded_url" : "http:\/\/alj.am\/e2l7",
+        "display_url" : "alj.am\/e2l7"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "628346608237834240",
+    "text" : "Judge: Idaho's 'ag-gag' law is unconstitutional http:\/\/t.co\/XLRKnORRoD",
+    "id" : 628346608237834240,
+    "created_at" : "2015-08-03 23:28:00 +0000",
+    "user" : {
+      "name" : "Al Jazeera America",
+      "screen_name" : "ajam",
+      "protected" : false,
+      "id_str" : "1178700896",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/463358340286779393\/4Kv4e12V_normal.jpeg",
+      "id" : 1178700896,
+      "verified" : true
+    }
+  },
+  "id" : 628398445900922880,
+  "created_at" : "2015-08-04 02:53:59 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "WordCamp US",
       "screen_name" : "WordCampUS",
       "indices" : [ 3, 14 ],
@@ -10199,7 +10260,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "WordCampUS",
       "protected" : false,
       "id_str" : "223718653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1073952221962809344\/4dZumpKI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1108885908592443392\/-guTLDAI_normal.png",
       "id" : 223718653,
       "verified" : false
     }
@@ -10764,7 +10825,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "son of an asylum seeker, father of an immigrant",
+      "name" : "Masque of the Red Death",
       "screen_name" : "doctorow",
       "indices" : [ 3, 12 ],
       "id_str" : "2729061",
@@ -10803,11 +10864,11 @@ Grailbird.data.tweets_2015_08 =
     "id" : 627616186251915264,
     "created_at" : "2015-08-01 23:05:34 +0000",
     "user" : {
-      "name" : "son of an asylum seeker, father of an immigrant",
+      "name" : "Masque of the Red Death",
       "screen_name" : "doctorow",
       "protected" : false,
       "id_str" : "2729061",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/675023052812378112\/Ly7VsGa6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1111026520548691971\/Thyp3AyA_normal.png",
       "id" : 2729061,
       "verified" : true
     }
@@ -10827,7 +10888,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "son of an asylum seeker, father of an immigrant",
+      "name" : "Masque of the Red Death",
       "screen_name" : "doctorow",
       "indices" : [ 3, 12 ],
       "id_str" : "2729061",
@@ -10860,11 +10921,11 @@ Grailbird.data.tweets_2015_08 =
     "id" : 627615766016163840,
     "created_at" : "2015-08-01 23:03:53 +0000",
     "user" : {
-      "name" : "son of an asylum seeker, father of an immigrant",
+      "name" : "Masque of the Red Death",
       "screen_name" : "doctorow",
       "protected" : false,
       "id_str" : "2729061",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/675023052812378112\/Ly7VsGa6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1111026520548691971\/Thyp3AyA_normal.png",
       "id" : 2729061,
       "verified" : true
     }
@@ -10884,7 +10945,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "son of an asylum seeker, father of an immigrant",
+      "name" : "Masque of the Red Death",
       "screen_name" : "doctorow",
       "indices" : [ 3, 12 ],
       "id_str" : "2729061",
@@ -10914,11 +10975,11 @@ Grailbird.data.tweets_2015_08 =
     "id" : 627615662882467840,
     "created_at" : "2015-08-01 23:03:29 +0000",
     "user" : {
-      "name" : "son of an asylum seeker, father of an immigrant",
+      "name" : "Masque of the Red Death",
       "screen_name" : "doctorow",
       "protected" : false,
       "id_str" : "2729061",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/675023052812378112\/Ly7VsGa6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1111026520548691971\/Thyp3AyA_normal.png",
       "id" : 2729061,
       "verified" : true
     }

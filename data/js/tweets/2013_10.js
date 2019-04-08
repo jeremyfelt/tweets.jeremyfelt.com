@@ -1403,7 +1403,7 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "15908706",
       "id" : 15908706
     }, {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 5, 12 ],
       "id_str" : "6306542",
@@ -3172,7 +3172,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -5030,7 +5030,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "snipeyhead",
       "protected" : false,
       "id_str" : "14246782",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1074233061754077184\/kEXhjG6K_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1110250171365875712\/NybmG-sz_normal.jpg",
       "id" : 14246782,
       "verified" : true
     }
@@ -7292,7 +7292,7 @@ Grailbird.data.tweets_2013_10 =
       "id_str" : "29752531",
       "id" : 29752531
     }, {
-      "name" : "Old Guard Rupert",
+      "name" : "Dave Rupert",
       "screen_name" : "davatron5000",
       "indices" : [ 31, 44 ],
       "id_str" : "14839862",
@@ -7314,7 +7314,7 @@ Grailbird.data.tweets_2013_10 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Old Guard Rupert",
+        "name" : "Dave Rupert",
         "screen_name" : "davatron5000",
         "indices" : [ 16, 29 ],
         "id_str" : "14839862",
@@ -9868,7 +9868,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "Japh",
       "protected" : false,
       "id_str" : "771712",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1087530612334837760\/Eo4PAm9-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1107587401600233472\/Dok49Q4E_normal.jpg",
       "id" : 771712,
       "verified" : false
     }
@@ -10052,7 +10052,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bram Duvigneau at CSUNATC19",
+      "name" : "Bram Duvigneau",
       "screen_name" : "bramduvigneau",
       "indices" : [ 65, 79 ],
       "id_str" : "15452504",

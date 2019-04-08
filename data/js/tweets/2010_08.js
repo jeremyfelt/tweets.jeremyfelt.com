@@ -262,7 +262,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "ryanmark",
       "protected" : false,
       "id_str" : "14550756",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1491555364\/me_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1108753570957017088\/FRfqzf0G_normal.png",
       "id" : 14550756,
       "verified" : false
     }
@@ -2816,7 +2816,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jason \uD83D\uDC3B",
+      "name" : "Jason Shellen",
       "screen_name" : "shellen",
       "indices" : [ 3, 11 ],
       "id_str" : "422",
@@ -2843,7 +2843,7 @@ Grailbird.data.tweets_2010_08 =
     "id" : 21447178258,
     "created_at" : "2010-08-18 00:39:31 +0000",
     "user" : {
-      "name" : "Jason \uD83D\uDC3B",
+      "name" : "Jason Shellen",
       "screen_name" : "shellen",
       "protected" : false,
       "id_str" : "422",

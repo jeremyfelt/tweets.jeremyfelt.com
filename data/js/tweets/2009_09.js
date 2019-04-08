@@ -1274,7 +1274,7 @@ Grailbird.data.tweets_2009_09 =
       "id_str" : "2206131",
       "id" : 2206131
     }, {
-      "name" : "Robert Scoble #SpatialComputing",
+      "name" : "Robert Scoble",
       "screen_name" : "Scobleizer",
       "indices" : [ 86, 97 ],
       "id_str" : "13348",
@@ -3398,7 +3398,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Robert Scoble #SpatialComputing",
+      "name" : "Robert Scoble",
       "screen_name" : "Scobleizer",
       "indices" : [ 64, 75 ],
       "id_str" : "13348",
@@ -3733,7 +3733,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/www.mystatuscloud.com\" rel=\"nofollow\"\u003EMy Status Cloud\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Robert Scoble #SpatialComputing",
+      "name" : "Robert Scoble",
       "screen_name" : "Scobleizer",
       "indices" : [ 0, 11 ],
       "id_str" : "13348",

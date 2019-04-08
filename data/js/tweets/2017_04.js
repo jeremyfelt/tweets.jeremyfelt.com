@@ -28,7 +28,7 @@ Grailbird.data.tweets_2017_04 =
       "screen_name" : "heartsneedy",
       "protected" : false,
       "id_str" : "227706183",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1103588161123504128\/nGIPgOUB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1107596507828678656\/_zZI9hEp_normal.jpg",
       "id" : 227706183,
       "verified" : false
     }
@@ -209,7 +209,7 @@ Grailbird.data.tweets_2017_04 =
       "id_str" : "14886552",
       "id" : 14886552
     }, {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 20, 27 ],
       "id_str" : "6306542",
@@ -248,7 +248,7 @@ Grailbird.data.tweets_2017_04 =
       "id_str" : "14886552",
       "id" : 14886552
     }, {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 13, 20 ],
       "id_str" : "6306542",
@@ -287,7 +287,7 @@ Grailbird.data.tweets_2017_04 =
       "id_str" : "14886552",
       "id" : 14886552
     }, {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 13, 20 ],
       "id_str" : "6306542",
@@ -594,7 +594,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "JBD",
+      "name" : "Jaana B. Dogan",
       "screen_name" : "rakyll",
       "indices" : [ 3, 10 ],
       "id_str" : "10809412",
@@ -621,11 +621,11 @@ Grailbird.data.tweets_2017_04 =
     "id" : 857008098250182656,
     "created_at" : "2017-04-25 23:07:07 +0000",
     "user" : {
-      "name" : "JBD",
+      "name" : "Jaana B. Dogan",
       "screen_name" : "rakyll",
       "protected" : false,
       "id_str" : "10809412",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1104913900019937280\/MKGdnk6B_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1114641473541042176\/Ef8nf6sx_normal.png",
       "id" : 10809412,
       "verified" : false
     }
@@ -1756,7 +1756,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Curm\u00FCdgeon Grant",
+      "name" : "Granthrax",
       "screen_name" : "CurmudgeonGrant",
       "indices" : [ 0, 16 ],
       "id_str" : "176672734",
@@ -1966,7 +1966,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ellen K. Pao",
+      "name" : "Ellen K. Pao \uD83D\uDCA5",
       "screen_name" : "ekp",
       "indices" : [ 3, 7 ],
       "id_str" : "6655612",
@@ -2003,7 +2003,7 @@ Grailbird.data.tweets_2017_04 =
     "id" : 853345665723715585,
     "created_at" : "2017-04-15 20:33:55 +0000",
     "user" : {
-      "name" : "Ellen K. Pao",
+      "name" : "Ellen K. Pao \uD83D\uDCA5",
       "screen_name" : "ekp",
       "protected" : false,
       "id_str" : "6655612",
@@ -3205,7 +3205,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -3244,7 +3244,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -3825,7 +3825,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 3, 10 ],
       "id_str" : "6306542",
@@ -3862,7 +3862,7 @@ Grailbird.data.tweets_2017_04 =
     "id" : 851332554753949696,
     "created_at" : "2017-04-10 07:14:32 +0000",
     "user" : {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "protected" : false,
       "id_str" : "6306542",
@@ -4314,7 +4314,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 3, 10 ],
       "id_str" : "6306542",
@@ -4353,7 +4353,7 @@ Grailbird.data.tweets_2017_04 =
     "id" : 850900232279703552,
     "created_at" : "2017-04-09 02:36:38 +0000",
     "user" : {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "protected" : false,
       "id_str" : "6306542",
@@ -5122,7 +5122,7 @@ Grailbird.data.tweets_2017_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "computer related t-shirts",
+      "name" : "computer baseball",
       "screen_name" : "streetlamp",
       "indices" : [ 0, 11 ],
       "id_str" : "15808208",

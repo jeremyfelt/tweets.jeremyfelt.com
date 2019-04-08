@@ -283,7 +283,7 @@ Grailbird.data.tweets_2018_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 0, 6 ],
       "id_str" : "14611891",
@@ -316,7 +316,7 @@ Grailbird.data.tweets_2018_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 0, 6 ],
       "id_str" : "14611891",
@@ -865,13 +865,13 @@ Grailbird.data.tweets_2018_12 =
       "id_str" : "49233",
       "id" : 49233
     }, {
-      "name" : "Matt (not Rainn Wilson) Cromwell",
+      "name" : "Matt (not Ax) Cromwell",
       "screen_name" : "learnwithmattc",
       "indices" : [ 16, 31 ],
       "id_str" : "401763464",
       "id" : 401763464
     }, {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 32, 38 ],
       "id_str" : "14611891",
@@ -930,13 +930,13 @@ Grailbird.data.tweets_2018_12 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Matt (not Rainn Wilson) Cromwell",
+        "name" : "Matt (not Ax) Cromwell",
         "screen_name" : "learnwithmattc",
         "indices" : [ 0, 15 ],
         "id_str" : "401763464",
         "id" : 401763464
       }, {
-        "name" : "Morten the Northman",
+        "name" : "Morten Rand-Hendriksen",
         "screen_name" : "mor10",
         "indices" : [ 16, 22 ],
         "id_str" : "14611891",
@@ -1087,13 +1087,13 @@ Grailbird.data.tweets_2018_12 =
       "id_str" : "15908706",
       "id" : 15908706
     }, {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 5, 11 ],
       "id_str" : "14611891",
       "id" : 14611891
     }, {
-      "name" : "Matt (not Rainn Wilson) Cromwell",
+      "name" : "Matt (not Ax) Cromwell",
       "screen_name" : "learnwithmattc",
       "indices" : [ 12, 27 ],
       "id_str" : "401763464",
@@ -1413,7 +1413,7 @@ Grailbird.data.tweets_2018_12 =
       "id_str" : "3631301",
       "id" : 3631301
     }, {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 10, 16 ],
       "id_str" : "14611891",
@@ -1562,7 +1562,7 @@ Grailbird.data.tweets_2018_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 0, 6 ],
       "id_str" : "14611891",
@@ -1631,7 +1631,7 @@ Grailbird.data.tweets_2018_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 21, 27 ],
       "id_str" : "14611891",
@@ -2117,7 +2117,7 @@ Grailbird.data.tweets_2018_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "computer related t-shirts",
+      "name" : "computer hoodies",
       "screen_name" : "streetlamp",
       "indices" : [ 0, 11 ],
       "id_str" : "15808208",

@@ -933,7 +933,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "jaketapper",
       "protected" : false,
       "id_str" : "14529929",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/960856914132430848\/p-G-U1jz_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1113396509209444352\/OWlKjLjw_normal.jpg",
       "id" : 14529929,
       "verified" : true
     }

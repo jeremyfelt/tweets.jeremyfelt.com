@@ -609,7 +609,7 @@ Grailbird.data.tweets_2012_12 =
       "screen_name" : "bethanyrydmark",
       "protected" : false,
       "id_str" : "14222501",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004883683524763651\/EbL6T2kE_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1105634091594964994\/wvxdH_xR_normal.jpg",
       "id" : 14222501,
       "verified" : false
     }
@@ -5711,7 +5711,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "kiersi BUTTkart",
+      "name" : "kiersi burkhart",
       "screen_name" : "kiersi",
       "indices" : [ 0, 7 ],
       "id_str" : "1335391",

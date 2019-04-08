@@ -1692,7 +1692,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "jimaek",
       "protected" : false,
       "id_str" : "141747302",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1044293204969967622\/RTqwEujw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1114105395499413506\/En3QKZL3_normal.jpg",
       "id" : 141747302,
       "verified" : false
     }
@@ -5329,7 +5329,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jason \uD83D\uDC3B",
+      "name" : "Jason Shellen",
       "screen_name" : "shellen",
       "indices" : [ 3, 11 ],
       "id_str" : "422",
@@ -5356,7 +5356,7 @@ Grailbird.data.tweets_2014_09 =
     "id" : 509400183495749632,
     "created_at" : "2014-09-09 17:57:22 +0000",
     "user" : {
-      "name" : "Jason \uD83D\uDC3B",
+      "name" : "Jason Shellen",
       "screen_name" : "shellen",
       "protected" : false,
       "id_str" : "422",
@@ -5576,7 +5576,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "son of an asylum seeker, father of an immigrant",
+      "name" : "Masque of the Red Death",
       "screen_name" : "doctorow",
       "indices" : [ 3, 12 ],
       "id_str" : "2729061",
@@ -5675,11 +5675,11 @@ Grailbird.data.tweets_2014_09 =
     "id" : 509378586180993024,
     "created_at" : "2014-09-09 16:31:33 +0000",
     "user" : {
-      "name" : "son of an asylum seeker, father of an immigrant",
+      "name" : "Masque of the Red Death",
       "screen_name" : "doctorow",
       "protected" : false,
       "id_str" : "2729061",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/675023052812378112\/Ly7VsGa6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1111026520548691971\/Thyp3AyA_normal.png",
       "id" : 2729061,
       "verified" : true
     }

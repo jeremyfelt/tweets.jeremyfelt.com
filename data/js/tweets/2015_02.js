@@ -2788,7 +2788,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rob\u1D49\u02B3\u1D57 Graham",
+      "name" : "Rob\u1D47\u1D49\u1D57\u1D52 Graham",
       "screen_name" : "ErrataRob",
       "indices" : [ 3, 13 ],
       "id_str" : "15300995",
@@ -2893,7 +2893,7 @@ Grailbird.data.tweets_2015_02 =
     "id" : 568414082820399104,
     "created_at" : "2015-02-19 14:17:32 +0000",
     "user" : {
-      "name" : "Rob\u1D49\u02B3\u1D57 Graham",
+      "name" : "Rob\u1D47\u1D49\u1D57\u1D52 Graham",
       "screen_name" : "ErrataRob",
       "protected" : false,
       "id_str" : "15300995",
@@ -5915,7 +5915,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -5948,7 +5948,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -5981,7 +5981,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 41, 48 ],
       "id_str" : "6306542",
@@ -6014,7 +6014,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 3, 10 ],
       "id_str" : "6306542",
@@ -6051,7 +6051,7 @@ Grailbird.data.tweets_2015_02 =
     "id" : 564668228924755970,
     "created_at" : "2015-02-09 06:12:51 +0000",
     "user" : {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "protected" : false,
       "id_str" : "6306542",
@@ -7726,7 +7726,7 @@ Grailbird.data.tweets_2015_02 =
       "id" : 14335332
     }, {
       "name" : "ProPublica",
-      "screen_name" : "ProPublica",
+      "screen_name" : "propublica",
       "indices" : [ 13, 24 ],
       "id_str" : "14606079",
       "id" : 14606079
@@ -7748,7 +7748,7 @@ Grailbird.data.tweets_2015_02 =
     "entities" : {
       "user_mentions" : [ {
         "name" : "ProPublica",
-        "screen_name" : "ProPublica",
+        "screen_name" : "propublica",
         "indices" : [ 1, 12 ],
         "id_str" : "14606079",
         "id" : 14606079
@@ -8744,7 +8744,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "indices" : [ 3, 9 ],
       "id_str" : "14611891",
@@ -8781,7 +8781,7 @@ Grailbird.data.tweets_2015_02 =
     "id" : 562479571644067840,
     "created_at" : "2015-02-03 05:15:54 +0000",
     "user" : {
-      "name" : "Morten the Northman",
+      "name" : "Morten Rand-Hendriksen",
       "screen_name" : "mor10",
       "protected" : false,
       "id_str" : "14611891",
@@ -9342,7 +9342,7 @@ Grailbird.data.tweets_2015_02 =
       "screen_name" : "BaileyLAKings",
       "protected" : false,
       "id_str" : "205938397",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1082020865418551296\/3UC4ZdVX_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1112544819044208640\/XzUXi-GC_normal.jpg",
       "id" : 205938397,
       "verified" : true
     }
@@ -9745,7 +9745,7 @@ Grailbird.data.tweets_2015_02 =
       "screen_name" : "yurivictor",
       "protected" : false,
       "id_str" : "5511932",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1050248373662408707\/PscPKP1U_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1111298267738890240\/eW8QAbrB_normal.png",
       "id" : 5511932,
       "verified" : true
     }

@@ -718,7 +718,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan \u201CBan Winter\u201D Sholin",
+      "name" : "Ryan \u201CI don't get seasons\u201D Sholin",
       "screen_name" : "ryansholin",
       "indices" : [ 3, 14 ],
       "id_str" : "884301",
@@ -757,7 +757,7 @@ Grailbird.data.tweets_2010_03 =
     "id" : 10228872275,
     "created_at" : "2010-03-09 17:04:21 +0000",
     "user" : {
-      "name" : "Ryan \u201CBan Winter\u201D Sholin",
+      "name" : "Ryan \u201CI don't get seasons\u201D Sholin",
       "screen_name" : "ryansholin",
       "protected" : false,
       "id_str" : "884301",

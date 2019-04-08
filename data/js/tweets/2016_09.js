@@ -457,119 +457,6 @@ Grailbird.data.tweets_2016_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Shad",
-      "screen_name" : "rashadalaiyan",
-      "indices" : [ 3, 17 ],
-      "id_str" : "735382638278672384",
-      "id" : 735382638278672384
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/rashadalaiyan\/status\/780587520547368960\/photo\/1",
-      "indices" : [ 46, 69 ],
-      "url" : "https:\/\/t.co\/RiawpJbtnq",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CtU0NZ0VUAADUhe.jpg",
-      "id_str" : "780587515291979776",
-      "id" : 780587515291979776,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CtU0NZ0VUAADUhe.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 445,
-        "resize" : "fit",
-        "w" : 680
-      }, {
-        "h" : 628,
-        "resize" : "fit",
-        "w" : 960
-      }, {
-        "h" : 628,
-        "resize" : "fit",
-        "w" : 960
-      }, {
-        "h" : 628,
-        "resize" : "fit",
-        "w" : 960
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/RiawpJbtnq"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "780597362808922112",
-  "text" : "RT @rashadalaiyan: Recap of tonight's debate. https:\/\/t.co\/RiawpJbtnq",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/rashadalaiyan\/status\/780587520547368960\/photo\/1",
-        "indices" : [ 27, 50 ],
-        "url" : "https:\/\/t.co\/RiawpJbtnq",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CtU0NZ0VUAADUhe.jpg",
-        "id_str" : "780587515291979776",
-        "id" : 780587515291979776,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CtU0NZ0VUAADUhe.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 445,
-          "resize" : "fit",
-          "w" : 680
-        }, {
-          "h" : 628,
-          "resize" : "fit",
-          "w" : 960
-        }, {
-          "h" : 628,
-          "resize" : "fit",
-          "w" : 960
-        }, {
-          "h" : 628,
-          "resize" : "fit",
-          "w" : 960
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/RiawpJbtnq"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "780587520547368960",
-    "text" : "Recap of tonight's debate. https:\/\/t.co\/RiawpJbtnq",
-    "id" : 780587520547368960,
-    "created_at" : "2016-09-27 01:59:02 +0000",
-    "user" : {
-      "name" : "Shad",
-      "screen_name" : "rashadalaiyan",
-      "protected" : false,
-      "id_str" : "735382638278672384",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1102640670009778177\/0Ia6AwAi_normal.jpg",
-      "id" : 735382638278672384,
-      "verified" : false
-    }
-  },
-  "id" : 780597362808922112,
-  "created_at" : "2016-09-27 02:38:08 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -620,7 +507,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "help",
+      "name" : "TMC",
       "screen_name" : "FlowsAndolini",
       "indices" : [ 3, 17 ],
       "id_str" : "29925696",
@@ -657,7 +544,7 @@ Grailbird.data.tweets_2016_09 =
     "id" : 780588205963812868,
     "created_at" : "2016-09-27 02:01:45 +0000",
     "user" : {
-      "name" : "help",
+      "name" : "TMC",
       "screen_name" : "FlowsAndolini",
       "protected" : false,
       "id_str" : "29925696",
@@ -1061,67 +948,6 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John James Jacoby",
-      "screen_name" : "JJJ",
-      "indices" : [ 3, 7 ],
-      "id_str" : "15908706",
-      "id" : 15908706
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 78, 101 ],
-      "url" : "https:\/\/t.co\/15zYXpf5sV",
-      "expanded_url" : "https:\/\/github.com\/swisnl\/vagrant-remove-old-box-versions",
-      "display_url" : "github.com\/swisnl\/vagrant\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "779927585337675776",
-  "text" : "RT @JJJ: For you VVV users, use this Vagrant plugin to delete outdated boxes: https:\/\/t.co\/15zYXpf5sV",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 69, 92 ],
-        "url" : "https:\/\/t.co\/15zYXpf5sV",
-        "expanded_url" : "https:\/\/github.com\/swisnl\/vagrant-remove-old-box-versions",
-        "display_url" : "github.com\/swisnl\/vagrant\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "779877505092161536",
-    "text" : "For you VVV users, use this Vagrant plugin to delete outdated boxes: https:\/\/t.co\/15zYXpf5sV",
-    "id" : 779877505092161536,
-    "created_at" : "2016-09-25 02:57:41 +0000",
-    "user" : {
-      "name" : "John James Jacoby",
-      "screen_name" : "JJJ",
-      "protected" : false,
-      "id_str" : "15908706",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1019085457802526720\/1jgoZNeY_normal.jpg",
-      "id" : 15908706,
-      "verified" : false
-    }
-  },
-  "id" : 779927585337675776,
-  "created_at" : "2016-09-25 06:16:41 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Norm Kelly",
       "screen_name" : "norm",
       "indices" : [ 3, 8 ],
@@ -1390,7 +1216,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "rric",
+      "name" : "eric",
       "screen_name" : "ericandrewlewis",
       "indices" : [ 0, 16 ],
       "id_str" : "218730107",
@@ -2695,7 +2521,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bus, the Art Guy\uD83C\uDFA8",
+      "name" : "Bus, the Art Guy\uD83C\uDF4A",
       "screen_name" : "BillionBus",
       "indices" : [ 3, 14 ],
       "id_str" : "29145255",
@@ -2732,11 +2558,11 @@ Grailbird.data.tweets_2016_09 =
     "id" : 775109224393236480,
     "created_at" : "2016-09-11 23:10:14 +0000",
     "user" : {
-      "name" : "Bus, the Art Guy\uD83C\uDFA8",
+      "name" : "Bus, the Art Guy\uD83C\uDF4A",
       "screen_name" : "BillionBus",
       "protected" : false,
       "id_str" : "29145255",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1104462419651366915\/2MpbEN1X_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1110620862334545920\/4CKbjCo2_normal.jpg",
       "id" : 29145255,
       "verified" : false
     }
@@ -3516,7 +3342,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ipstenu (((Mika E)))",
+      "name" : "ipstenu (Mika E.)",
       "screen_name" : "Ipstenu",
       "indices" : [ 3, 11 ],
       "id_str" : "9412542",
@@ -3615,7 +3441,7 @@ Grailbird.data.tweets_2016_09 =
     "id" : 774223080705040388,
     "created_at" : "2016-09-09 12:29:01 +0000",
     "user" : {
-      "name" : "ipstenu (((Mika E)))",
+      "name" : "ipstenu (Mika E.)",
       "screen_name" : "Ipstenu",
       "protected" : false,
       "id_str" : "9412542",

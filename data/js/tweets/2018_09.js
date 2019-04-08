@@ -122,8 +122,8 @@ Grailbird.data.tweets_2018_09 =
       "name" : "VisiData",
       "screen_name" : "VisiData_",
       "indices" : [ 32, 42 ],
-      "id_str" : "130393908",
-      "id" : 130393908
+      "id_str" : "1109171727442030593",
+      "id" : 1109171727442030593
     }, {
       "name" : "Saulville",
       "screen_name" : "saulfp",
@@ -782,7 +782,7 @@ Grailbird.data.tweets_2018_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDF1\uD83C\uDDF0",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",

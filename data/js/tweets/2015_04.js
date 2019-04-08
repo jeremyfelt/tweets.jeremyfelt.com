@@ -202,7 +202,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "rhodes.yml",
+      "name" : "leader of a rival conga",
       "screen_name" : "rhodesjason",
       "indices" : [ 3, 15 ],
       "id_str" : "14282793",
@@ -234,7 +234,7 @@ Grailbird.data.tweets_2015_04 =
     "id" : 593457953128259584,
     "created_at" : "2015-04-29 16:52:56 +0000",
     "user" : {
-      "name" : "rhodes.yml",
+      "name" : "leader of a rival conga",
       "screen_name" : "rhodesjason",
       "protected" : false,
       "id_str" : "14282793",
@@ -3589,7 +3589,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "rric",
+      "name" : "eric",
       "screen_name" : "ericandrewlewis",
       "indices" : [ 0, 16 ],
       "id_str" : "218730107",
@@ -5257,7 +5257,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "elonmusk",
       "protected" : false,
       "id_str" : "44196397",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1101936308933591040\/7pKFkuxc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1111915116579086336\/HKxtnLsO_normal.jpg",
       "id" : 44196397,
       "verified" : true
     }
