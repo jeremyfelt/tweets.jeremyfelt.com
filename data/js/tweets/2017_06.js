@@ -5869,7 +5869,7 @@ Grailbird.data.tweets_2017_06 =
     "id" : 870249956736675845,
     "created_at" : "2017-06-01 12:05:32 +0000",
     "user" : {
-      "name" : "Morten Rand-Hendriksen",
+      "name" : "Morten is on a prolonged break from all this",
       "screen_name" : "mor10",
       "protected" : false,
       "id_str" : "14611891",

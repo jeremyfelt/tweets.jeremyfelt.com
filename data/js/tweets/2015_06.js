@@ -1668,7 +1668,7 @@ Grailbird.data.tweets_2015_06 =
     "id" : 605039229954064385,
     "created_at" : "2015-05-31 15:52:48 +0000",
     "user" : {
-      "name" : "Arthur Charpentier \uD83C\uDF26",
+      "name" : "Arthur Charpentier \uD83D\uDCA5",
       "screen_name" : "freakonometrics",
       "protected" : false,
       "id_str" : "105530526",

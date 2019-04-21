@@ -524,7 +524,7 @@ Grailbird.data.tweets_2018_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten Rand-Hendriksen",
+      "name" : "Morten is on a prolonged break from all this",
       "screen_name" : "mor10",
       "indices" : [ 0, 6 ],
       "id_str" : "14611891",
@@ -1299,7 +1299,7 @@ Grailbird.data.tweets_2018_08 =
       "screen_name" : "m7z",
       "protected" : false,
       "id_str" : "20571802",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1095166711542640640\/tCuuxoaD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1115681259726839809\/fSGuwN2-_normal.jpg",
       "id" : 20571802,
       "verified" : false
     }
@@ -2083,7 +2083,7 @@ Grailbird.data.tweets_2018_08 =
       "id_str" : "28018168",
       "id" : 28018168
     }, {
-      "name" : "jennder constructs",
+      "name" : "jenn",
       "screen_name" : "jennschiffer",
       "indices" : [ 88, 101 ],
       "id_str" : "12524622",
@@ -2103,7 +2103,7 @@ Grailbird.data.tweets_2018_08 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "jennder constructs",
+        "name" : "jenn",
         "screen_name" : "jennschiffer",
         "indices" : [ 76, 89 ],
         "id_str" : "12524622",

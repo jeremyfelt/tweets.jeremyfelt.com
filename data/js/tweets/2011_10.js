@@ -5352,7 +5352,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bethany Rydmark",
+      "name" : "Bethany Rydmark \uD83C\uDF31",
       "screen_name" : "bethanyrydmark",
       "indices" : [ 0, 15 ],
       "id_str" : "14222501",

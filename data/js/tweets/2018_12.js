@@ -283,7 +283,7 @@ Grailbird.data.tweets_2018_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten Rand-Hendriksen",
+      "name" : "Morten is on a prolonged break from all this",
       "screen_name" : "mor10",
       "indices" : [ 0, 6 ],
       "id_str" : "14611891",
@@ -316,7 +316,7 @@ Grailbird.data.tweets_2018_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten Rand-Hendriksen",
+      "name" : "Morten is on a prolonged break from all this",
       "screen_name" : "mor10",
       "indices" : [ 0, 6 ],
       "id_str" : "14611891",
@@ -865,7 +865,7 @@ Grailbird.data.tweets_2018_12 =
       "id_str" : "49233",
       "id" : 49233
     }, {
-      "name" : "Matt (not Ax) Cromwell",
+      "name" : "Matt Cromwell",
       "screen_name" : "learnwithmattc",
       "indices" : [ 16, 31 ],
       "id_str" : "401763464",
@@ -930,7 +930,7 @@ Grailbird.data.tweets_2018_12 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Matt (not Ax) Cromwell",
+        "name" : "Matt Cromwell",
         "screen_name" : "learnwithmattc",
         "indices" : [ 0, 15 ],
         "id_str" : "401763464",
@@ -1093,7 +1093,7 @@ Grailbird.data.tweets_2018_12 =
       "id_str" : "14611891",
       "id" : 14611891
     }, {
-      "name" : "Matt (not Ax) Cromwell",
+      "name" : "Matt Cromwell",
       "screen_name" : "learnwithmattc",
       "indices" : [ 12, 27 ],
       "id_str" : "401763464",
@@ -2117,7 +2117,7 @@ Grailbird.data.tweets_2018_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "computer hoodies",
+      "name" : "computer baseball",
       "screen_name" : "streetlamp",
       "indices" : [ 0, 11 ],
       "id_str" : "15808208",

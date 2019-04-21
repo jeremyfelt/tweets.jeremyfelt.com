@@ -1541,7 +1541,7 @@ Grailbird.data.tweets_2010_01 =
       "screen_name" : "jack",
       "protected" : false,
       "id_str" : "12",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1096168564959121409\/_-RibLtR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1115644092329758721\/AFjOr-K8_normal.jpg",
       "id" : 12,
       "verified" : true
     }
@@ -2735,7 +2735,7 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/www.brizzly.com\" rel=\"nofollow\"\u003EBrizzly\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pumpkin Spice Ladama",
+      "name" : "Lotta Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",

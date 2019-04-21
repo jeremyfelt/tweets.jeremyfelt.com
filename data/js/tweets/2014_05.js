@@ -4292,7 +4292,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "elonmusk",
       "protected" : false,
       "id_str" : "44196397",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1111915116579086336\/HKxtnLsO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1119305550548725760\/wHVHjd4h_normal.jpg",
       "id" : 44196397,
       "verified" : true
     }
@@ -6932,7 +6932,7 @@ Grailbird.data.tweets_2014_05 =
       "id_str" : "43847317",
       "id" : 43847317
     }, {
-      "name" : "Aaron D. Campbell - #CloudFest",
+      "name" : "Aaron D. Campbell",
       "screen_name" : "aaroncampbell",
       "indices" : [ 81, 95 ],
       "id_str" : "16367815",

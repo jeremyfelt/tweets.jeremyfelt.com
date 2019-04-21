@@ -10188,7 +10188,7 @@ Grailbird.data.tweets_2012_08 =
     "id" : 232352466316955649,
     "created_at" : "2012-08-06 05:48:39 +0000",
     "user" : {
-      "name" : "Xeni Jardin",
+      "name" : "Xeni",
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",

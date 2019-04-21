@@ -701,7 +701,7 @@ Grailbird.data.tweets_2017_05 =
     "id" : 868229585137225730,
     "created_at" : "2017-05-26 22:17:18 +0000",
     "user" : {
-      "name" : "Pumpkin Spice Ladama",
+      "name" : "Lotta Ladama",
       "screen_name" : "ladama",
       "protected" : false,
       "id_str" : "16390477",
@@ -1378,7 +1378,7 @@ Grailbird.data.tweets_2017_05 =
       "id" : 249348169
     }, {
       "name" : "ProPublica",
-      "screen_name" : "ProPublica",
+      "screen_name" : "propublica",
       "indices" : [ 84, 95 ],
       "id_str" : "14606079",
       "id" : 14606079
@@ -1400,7 +1400,7 @@ Grailbird.data.tweets_2017_05 =
     "entities" : {
       "user_mentions" : [ {
         "name" : "ProPublica",
-        "screen_name" : "ProPublica",
+        "screen_name" : "propublica",
         "indices" : [ 67, 78 ],
         "id_str" : "14606079",
         "id" : 14606079
@@ -4093,7 +4093,7 @@ Grailbird.data.tweets_2017_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten Rand-Hendriksen",
+      "name" : "Morten is on a prolonged break from all this",
       "screen_name" : "mor10",
       "indices" : [ 3, 9 ],
       "id_str" : "14611891",
@@ -4142,7 +4142,7 @@ Grailbird.data.tweets_2017_05 =
     "id" : 862321431941480448,
     "created_at" : "2017-05-10 15:00:25 +0000",
     "user" : {
-      "name" : "Morten Rand-Hendriksen",
+      "name" : "Morten is on a prolonged break from all this",
       "screen_name" : "mor10",
       "protected" : false,
       "id_str" : "14611891",
@@ -4462,7 +4462,7 @@ Grailbird.data.tweets_2017_05 =
       "screen_name" : "jennschiffer",
       "protected" : false,
       "id_str" : "12524622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1102381208540012545\/uAefDKXp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1118604991973949442\/ZKs-ssUE_normal.jpg",
       "id" : 12524622,
       "verified" : false
     }

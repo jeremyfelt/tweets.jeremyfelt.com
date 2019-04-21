@@ -1832,11 +1832,11 @@ Grailbird.data.tweets_2010_05 =
     "id" : 14202235366,
     "created_at" : "2010-05-18 02:57:52 +0000",
     "user" : {
-      "name" : "The only true path is the path of love",
+      "name" : "\u2665 Only love can make the future we want",
       "screen_name" : "BR3NDA",
       "protected" : false,
       "id_str" : "778337",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1113163933735575554\/9sIRRos2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1115529881083715585\/Z_puSrHs_normal.jpg",
       "id" : 778337,
       "verified" : false
     }

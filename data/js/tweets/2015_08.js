@@ -3818,7 +3818,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "joshcanhelp",
       "protected" : false,
       "id_str" : "14179496",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1095052014180958208\/9vrCRNYR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1119447192765210624\/feQiDdAz_normal.jpg",
       "id" : 14179496,
       "verified" : false
     }
@@ -5679,7 +5679,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Xeni Jardin",
+      "name" : "Xeni",
       "screen_name" : "xeni",
       "indices" : [ 3, 8 ],
       "id_str" : "767",
@@ -5706,7 +5706,7 @@ Grailbird.data.tweets_2015_08 =
     "id" : 632423950589362177,
     "created_at" : "2015-08-15 05:29:54 +0000",
     "user" : {
-      "name" : "Xeni Jardin",
+      "name" : "Xeni",
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",
@@ -6077,7 +6077,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "jennschiffer",
       "protected" : false,
       "id_str" : "12524622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1102381208540012545\/uAefDKXp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1118604991973949442\/ZKs-ssUE_normal.jpg",
       "id" : 12524622,
       "verified" : false
     }
@@ -9083,17 +9083,11 @@ Grailbird.data.tweets_2015_08 =
       "id_str" : "318531174",
       "id" : 318531174
     }, {
-      "name" : "\uD83E\uDD20 Randall Collins \uD83E\uDD20",
+      "name" : "Antiques Todshow",
       "screen_name" : "totally_tod",
       "indices" : [ 89, 101 ],
       "id_str" : "67421775",
       "id" : 67421775
-    }, {
-      "name" : "internet trash",
-      "screen_name" : "NateLotz",
-      "indices" : [ 111, 120 ],
-      "id_str" : "37927262",
-      "id" : 37927262
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -9106,17 +9100,11 @@ Grailbird.data.tweets_2015_08 =
     "source" : "\u003Ca href=\"http:\/\/instagram.com\" rel=\"nofollow\"\u003EInstagram\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\uD83E\uDD20 Randall Collins \uD83E\uDD20",
+        "name" : "Antiques Todshow",
         "screen_name" : "totally_tod",
         "indices" : [ 71, 83 ],
         "id_str" : "67421775",
         "id" : 67421775
-      }, {
-        "name" : "internet trash",
-        "screen_name" : "NateLotz",
-        "indices" : [ 93, 102 ],
-        "id_str" : "37927262",
-        "id" : 37927262
       } ],
       "media" : [ ],
       "hashtags" : [ ],

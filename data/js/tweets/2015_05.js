@@ -176,7 +176,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Xeni Jardin",
+      "name" : "Xeni",
       "screen_name" : "xeni",
       "indices" : [ 3, 8 ],
       "id_str" : "767",
@@ -275,7 +275,7 @@ Grailbird.data.tweets_2015_05 =
     "id" : 605022720158527488,
     "created_at" : "2015-05-31 14:47:11 +0000",
     "user" : {
-      "name" : "Xeni Jardin",
+      "name" : "Xeni",
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",
@@ -3151,7 +3151,7 @@ Grailbird.data.tweets_2015_05 =
       "screen_name" : "jennschiffer",
       "protected" : false,
       "id_str" : "12524622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1102381208540012545\/uAefDKXp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1118604991973949442\/ZKs-ssUE_normal.jpg",
       "id" : 12524622,
       "verified" : false
     }
@@ -4489,7 +4489,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Xeni Jardin",
+      "name" : "Xeni",
       "screen_name" : "xeni",
       "indices" : [ 3, 8 ],
       "id_str" : "767",
@@ -4588,7 +4588,7 @@ Grailbird.data.tweets_2015_05 =
     "id" : 599641086106148864,
     "created_at" : "2015-05-16 18:22:30 +0000",
     "user" : {
-      "name" : "Xeni Jardin",
+      "name" : "Xeni",
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",

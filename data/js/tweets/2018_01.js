@@ -1545,7 +1545,7 @@ Grailbird.data.tweets_2018_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hannah Hart",
+      "name" : "Hannah Hart (wrote a new cookbook!)",
       "screen_name" : "harto",
       "indices" : [ 3, 9 ],
       "id_str" : "14166096",
@@ -1576,7 +1576,7 @@ Grailbird.data.tweets_2018_01 =
       "screen_name" : "harto",
       "protected" : false,
       "id_str" : "14166096",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1011634163621851136\/neTgas6G_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1118538466520813568\/QVCAJZTT_normal.jpg",
       "id" : 14166096,
       "verified" : true
     }

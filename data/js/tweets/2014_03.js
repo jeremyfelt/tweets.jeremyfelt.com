@@ -6618,7 +6618,7 @@ Grailbird.data.tweets_2014_03 =
     "id" : 440341479190310912,
     "created_at" : "2014-03-03 04:22:44 +0000",
     "user" : {
-      "name" : "Grant Davis \uD83C\uDF7A\uD83D\uDCFA\uD83C\uDFA4",
+      "name" : "Grant Davis",
       "screen_name" : "BaronVonGrant",
       "protected" : false,
       "id_str" : "17622141",
@@ -7097,7 +7097,7 @@ Grailbird.data.tweets_2014_03 =
       "id_str" : "15485441",
       "id" : 15485441
     }, {
-      "name" : "Dri \u2665 SPNFamily",
+      "name" : "Dri \u2665 #SPNCHI",
       "screen_name" : "TwilightilDawn",
       "indices" : [ 18, 33 ],
       "id_str" : "18259708",
@@ -7114,7 +7114,7 @@ Grailbird.data.tweets_2014_03 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Dri \u2665 SPNFamily",
+        "name" : "Dri \u2665 #SPNCHI",
         "screen_name" : "TwilightilDawn",
         "indices" : [ 1, 16 ],
         "id_str" : "18259708",

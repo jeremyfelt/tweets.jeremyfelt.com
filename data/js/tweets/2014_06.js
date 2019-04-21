@@ -147,7 +147,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "335110427",
       "id" : 335110427
     }, {
-      "name" : "Morten Rand-Hendriksen",
+      "name" : "Morten is on a prolonged break from all this",
       "screen_name" : "mor10",
       "indices" : [ 44, 50 ],
       "id_str" : "14611891",
@@ -2143,7 +2143,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten Rand-Hendriksen",
+      "name" : "Morten is on a prolonged break from all this",
       "screen_name" : "mor10",
       "indices" : [ 3, 9 ],
       "id_str" : "14611891",
@@ -2193,7 +2193,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 481906080516042753,
     "created_at" : "2014-06-25 21:05:37 +0000",
     "user" : {
-      "name" : "Morten Rand-Hendriksen",
+      "name" : "Morten is on a prolonged break from all this",
       "screen_name" : "mor10",
       "protected" : false,
       "id_str" : "14611891",
@@ -2576,7 +2576,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten Rand-Hendriksen",
+      "name" : "Morten is on a prolonged break from all this",
       "screen_name" : "mor10",
       "indices" : [ 3, 9 ],
       "id_str" : "14611891",
@@ -2668,7 +2668,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 481187958297333763,
     "created_at" : "2014-06-23 21:32:03 +0000",
     "user" : {
-      "name" : "Morten Rand-Hendriksen",
+      "name" : "Morten is on a prolonged break from all this",
       "screen_name" : "mor10",
       "protected" : false,
       "id_str" : "14611891",

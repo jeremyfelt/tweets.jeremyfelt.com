@@ -1065,62 +1065,6 @@ Grailbird.data.tweets_2015_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Tom Willmot",
-      "screen_name" : "tomwillmot",
-      "indices" : [ 3, 14 ],
-      "id_str" : "19333756",
-      "id" : 19333756
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "659946223521042432",
-  "text" : "RT @tomwillmot: Proud at the speaker linup we've been able to put together for A Day of Rest; Wired, New York Times &amp; Fusion, etc https:\/\/t\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 118, 141 ],
-        "url" : "https:\/\/t.co\/7qhbmN9phz",
-        "expanded_url" : "https:\/\/twitter.com\/feelingrestful\/status\/659645121881747456",
-        "display_url" : "twitter.com\/feelingrestful\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "659708318601117696",
-    "text" : "Proud at the speaker linup we've been able to put together for A Day of Rest; Wired, New York Times &amp; Fusion, etc https:\/\/t.co\/7qhbmN9phz",
-    "id" : 659708318601117696,
-    "created_at" : "2015-10-29 12:28:14 +0000",
-    "user" : {
-      "name" : "Tom Willmot",
-      "screen_name" : "tomwillmot",
-      "protected" : false,
-      "id_str" : "19333756",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/566298059600977920\/zvt6t-cj_normal.jpeg",
-      "id" : 19333756,
-      "verified" : false
-    }
-  },
-  "id" : 659946223521042432,
-  "created_at" : "2015-10-30 04:13:35 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -9206,7 +9150,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Xeni Jardin",
+      "name" : "Xeni",
       "screen_name" : "xeni",
       "indices" : [ 3, 8 ],
       "id_str" : "767",
@@ -9238,7 +9182,7 @@ Grailbird.data.tweets_2015_10 =
     "id" : 649664865834016768,
     "created_at" : "2015-10-01 19:19:08 +0000",
     "user" : {
-      "name" : "Xeni Jardin",
+      "name" : "Xeni",
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",

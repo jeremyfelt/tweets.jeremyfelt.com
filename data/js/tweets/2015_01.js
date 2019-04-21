@@ -2789,11 +2789,11 @@ Grailbird.data.tweets_2015_01 =
     "id" : 554956878175043584,
     "created_at" : "2015-01-13 11:03:25 +0000",
     "user" : {
-      "name" : "Graham Linehan",
+      "name" : "not tweeting but faving",
       "screen_name" : "Glinner",
       "protected" : false,
       "id_str" : "7076492",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/433543395974205440\/e1vZ6x9u_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1115725965659971587\/t0iEEvVz_normal.png",
       "id" : 7076492,
       "verified" : true
     }
@@ -5251,7 +5251,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Caspar\uD83C\uDF37H\u00FCbinger",
+      "name" : "Caspar\uD83C\uDF38H\u00FCbinger",
       "screen_name" : "glueckpress",
       "indices" : [ 3, 15 ],
       "id_str" : "105553092",
@@ -5306,7 +5306,7 @@ Grailbird.data.tweets_2015_01 =
     "id" : 552084527955587072,
     "created_at" : "2015-01-05 12:49:43 +0000",
     "user" : {
-      "name" : "Caspar\uD83C\uDF37H\u00FCbinger",
+      "name" : "Caspar\uD83C\uDF38H\u00FCbinger",
       "screen_name" : "glueckpress",
       "protected" : false,
       "id_str" : "105553092",
@@ -6090,7 +6090,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "jennschiffer",
       "protected" : false,
       "id_str" : "12524622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1102381208540012545\/uAefDKXp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1118604991973949442\/ZKs-ssUE_normal.jpg",
       "id" : 12524622,
       "verified" : false
     }

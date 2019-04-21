@@ -168,7 +168,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "joshtpm",
       "protected" : false,
       "id_str" : "21268897",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1109227803013234689\/FHWFH4PB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1115707029321080833\/hmFZeqb__normal.jpg",
       "id" : 21268897,
       "verified" : true
     }

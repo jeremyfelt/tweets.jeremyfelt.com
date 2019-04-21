@@ -921,7 +921,7 @@ Grailbird.data.tweets_2018_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten Rand-Hendriksen",
+      "name" : "Morten is on a prolonged break from all this",
       "screen_name" : "mor10",
       "indices" : [ 0, 6 ],
       "id_str" : "14611891",
@@ -2069,7 +2069,7 @@ Grailbird.data.tweets_2018_10 =
       "screen_name" : "jennschiffer",
       "protected" : false,
       "id_str" : "12524622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1102381208540012545\/uAefDKXp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1118604991973949442\/ZKs-ssUE_normal.jpg",
       "id" : 12524622,
       "verified" : false
     }

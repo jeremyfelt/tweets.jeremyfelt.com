@@ -3588,7 +3588,7 @@ Grailbird.data.tweets_2016_11 =
     "id" : 797677299760005120,
     "created_at" : "2016-11-13 05:47:43 +0000",
     "user" : {
-      "name" : "Pumpkin Spice Ladama",
+      "name" : "Lotta Ladama",
       "screen_name" : "ladama",
       "protected" : false,
       "id_str" : "16390477",
@@ -4045,7 +4045,7 @@ Grailbird.data.tweets_2016_11 =
     "id" : 797187950815641600,
     "created_at" : "2016-11-11 21:23:13 +0000",
     "user" : {
-      "name" : "Ryan \u201CI don't get seasons\u201D Sholin",
+      "name" : "Ryan \u201CAre we still doing nicknames?\u201D Sholin",
       "screen_name" : "ryansholin",
       "protected" : false,
       "id_str" : "884301",

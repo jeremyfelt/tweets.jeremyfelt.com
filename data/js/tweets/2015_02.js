@@ -5837,7 +5837,7 @@ Grailbird.data.tweets_2015_02 =
     "user" : {
       "name" : "Juliya Ziskina",
       "screen_name" : "jziskina",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "2973388380",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1052429779620810752\/mfFHFnpz_normal.jpg",
       "id" : 2973388380,
@@ -7773,7 +7773,7 @@ Grailbird.data.tweets_2015_02 =
     "id" : 563516784179822592,
     "created_at" : "2015-02-06 01:57:25 +0000",
     "user" : {
-      "name" : "Dan Nguyen",
+      "name" : "harm to ongoing matter",
       "screen_name" : "dancow",
       "protected" : false,
       "id_str" : "14335332",
@@ -8781,7 +8781,7 @@ Grailbird.data.tweets_2015_02 =
     "id" : 562479571644067840,
     "created_at" : "2015-02-03 05:15:54 +0000",
     "user" : {
-      "name" : "Morten Rand-Hendriksen",
+      "name" : "Morten is on a prolonged break from all this",
       "screen_name" : "mor10",
       "protected" : false,
       "id_str" : "14611891",

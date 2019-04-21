@@ -1105,7 +1105,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "elonmusk",
       "protected" : false,
       "id_str" : "44196397",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1111915116579086336\/HKxtnLsO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1119305550548725760\/wHVHjd4h_normal.jpg",
       "id" : 44196397,
       "verified" : true
     }
@@ -6041,7 +6041,7 @@ Grailbird.data.tweets_2015_12 =
       "id_str" : "17411278",
       "id" : 17411278
     }, {
-      "name" : "Aaron D. Campbell - #CloudFest",
+      "name" : "Aaron D. Campbell",
       "screen_name" : "aaroncampbell",
       "indices" : [ 79, 93 ],
       "id_str" : "16367815",
@@ -6522,7 +6522,7 @@ Grailbird.data.tweets_2015_12 =
       "screen_name" : "jennschiffer",
       "protected" : false,
       "id_str" : "12524622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1102381208540012545\/uAefDKXp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1118604991973949442\/ZKs-ssUE_normal.jpg",
       "id" : 12524622,
       "verified" : false
     }

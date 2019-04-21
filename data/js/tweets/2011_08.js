@@ -1913,7 +1913,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pumpkin Spice Ladama",
+      "name" : "Lotta Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -2666,7 +2666,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "Harpers",
       "protected" : false,
       "id_str" : "14287094",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1106520102021881858\/v1jINOpj_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1116396294178856961\/D2eHZRE1_normal.png",
       "id" : 14287094,
       "verified" : true
     }
@@ -3868,7 +3868,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "MLB",
       "protected" : false,
       "id_str" : "18479513",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1097892906914979840\/k4JrM__f_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1118207546874114050\/obcix-sP_normal.png",
       "id" : 18479513,
       "verified" : true
     }
@@ -4184,7 +4184,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "Harpers",
       "protected" : false,
       "id_str" : "14287094",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1106520102021881858\/v1jINOpj_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1116396294178856961\/D2eHZRE1_normal.png",
       "id" : 14287094,
       "verified" : true
     }

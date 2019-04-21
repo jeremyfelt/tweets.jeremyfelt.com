@@ -7202,7 +7202,7 @@ Grailbird.data.tweets_2013_11 =
       "id_str" : "602317143",
       "id" : 602317143
     }, {
-      "name" : "Questlove (In E flat)",
+      "name" : "Questlove De La Rose",
       "screen_name" : "questlove",
       "indices" : [ 23, 33 ],
       "id_str" : "14939981",
@@ -7250,7 +7250,7 @@ Grailbird.data.tweets_2013_11 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Questlove (In E flat)",
+        "name" : "Questlove De La Rose",
         "screen_name" : "questlove",
         "indices" : [ 7, 17 ],
         "id_str" : "14939981",

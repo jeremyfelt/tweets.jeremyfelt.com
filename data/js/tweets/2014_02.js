@@ -3491,7 +3491,7 @@ Grailbird.data.tweets_2014_02 =
     "id" : 434575085538512897,
     "created_at" : "2014-02-15 06:29:09 +0000",
     "user" : {
-      "name" : "Morten Rand-Hendriksen",
+      "name" : "Morten is on a prolonged break from all this",
       "screen_name" : "mor10",
       "protected" : false,
       "id_str" : "14611891",
@@ -4552,7 +4552,7 @@ Grailbird.data.tweets_2014_02 =
     "id" : 432734136902504448,
     "created_at" : "2014-02-10 04:33:52 +0000",
     "user" : {
-      "name" : "Xeni Jardin",
+      "name" : "Xeni",
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",

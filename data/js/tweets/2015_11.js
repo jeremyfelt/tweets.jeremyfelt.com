@@ -1003,7 +1003,7 @@ Grailbird.data.tweets_2015_11 =
       "screen_name" : "hippy_jon",
       "protected" : false,
       "id_str" : "303239937",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1101730008773611520\/nOd01Rsv_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1117715021776158721\/3HhYtga1_normal.jpg",
       "id" : 303239937,
       "verified" : false
     }
@@ -3122,7 +3122,7 @@ Grailbird.data.tweets_2015_11 =
       "id_str" : "16275037",
       "id" : 16275037
     }, {
-      "name" : "Kathleen Vignos @SRECon",
+      "name" : "Kathleen Vignos",
       "screen_name" : "kathleencodes",
       "indices" : [ 45, 59 ],
       "id_str" : "18689607",
@@ -3139,7 +3139,7 @@ Grailbird.data.tweets_2015_11 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Kathleen Vignos @SRECon",
+        "name" : "Kathleen Vignos",
         "screen_name" : "kathleencodes",
         "indices" : [ 29, 43 ],
         "id_str" : "18689607",
@@ -5841,7 +5841,7 @@ Grailbird.data.tweets_2015_11 =
       "screen_name" : "SergeyBiryukov",
       "protected" : false,
       "id_str" : "12054982",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459255886192472064\/vfNt_uru_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1115264903198248967\/jf-TkxFG_normal.png",
       "id" : 12054982,
       "verified" : false
     }

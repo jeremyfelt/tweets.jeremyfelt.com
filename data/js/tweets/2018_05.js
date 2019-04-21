@@ -2645,7 +2645,7 @@ Grailbird.data.tweets_2018_05 =
       "screen_name" : "iamscicomm",
       "protected" : false,
       "id_str" : "3186124933",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1112621227728953344\/58KKT7oN_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1115213277808726018\/sm9GfavI_normal.jpg",
       "id" : 3186124933,
       "verified" : false
     }
@@ -4529,7 +4529,7 @@ Grailbird.data.tweets_2018_05 =
       "id_str" : "6306542",
       "id" : 6306542
     }, {
-      "name" : "ipstenu (((Mika E)))",
+      "name" : "ipstenu (Mika E.)",
       "screen_name" : "Ipstenu",
       "indices" : [ 8, 16 ],
       "id_str" : "9412542",

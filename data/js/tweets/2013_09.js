@@ -1870,7 +1870,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "Jeff_Daniels",
       "protected" : false,
       "id_str" : "506652594",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080999705872613379\/sW2mdoF7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1115338611887628289\/S-dgSp9V_normal.jpg",
       "id" : 506652594,
       "verified" : true
     }
@@ -4549,7 +4549,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bethany Rydmark",
+      "name" : "Bethany Rydmark \uD83C\uDF31",
       "screen_name" : "bethanyrydmark",
       "indices" : [ 0, 15 ],
       "id_str" : "14222501",

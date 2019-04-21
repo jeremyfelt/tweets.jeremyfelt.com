@@ -3657,7 +3657,7 @@ Grailbird.data.tweets_2016_10 =
       "screen_name" : "WSUMedicine",
       "protected" : false,
       "id_str" : "3108486734",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/768941666468139009\/OFQjGc47_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1116358103052668928\/KiZ4PQPd_normal.png",
       "id" : 3108486734,
       "verified" : false
     }
@@ -4896,7 +4896,7 @@ Grailbird.data.tweets_2016_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Xeni Jardin",
+      "name" : "Xeni",
       "screen_name" : "xeni",
       "indices" : [ 3, 8 ],
       "id_str" : "767",
@@ -4933,7 +4933,7 @@ Grailbird.data.tweets_2016_10 =
     "id" : 785330016271888384,
     "created_at" : "2016-10-10 04:04:01 +0000",
     "user" : {
-      "name" : "Xeni Jardin",
+      "name" : "Xeni",
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",
@@ -5140,7 +5140,7 @@ Grailbird.data.tweets_2016_10 =
     "id" : 785293683881107456,
     "created_at" : "2016-10-10 01:39:38 +0000",
     "user" : {
-      "name" : "Chance Owbum \uD83D\uDCC5",
+      "name" : "Chance The Rapper Owbum \uD83D\uDCC5",
       "screen_name" : "chancetherapper",
       "protected" : false,
       "id_str" : "181572333",
@@ -5391,7 +5391,7 @@ Grailbird.data.tweets_2016_10 =
     "id" : 784961605029146624,
     "created_at" : "2016-10-09 03:40:05 +0000",
     "user" : {
-      "name" : "Xeni Jardin",
+      "name" : "Xeni",
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",
@@ -6196,7 +6196,7 @@ Grailbird.data.tweets_2016_10 =
     "id" : 783499874356436992,
     "created_at" : "2016-10-05 02:51:41 +0000",
     "user" : {
-      "name" : "Gina \uD83E\uDD4E Wilson",
+      "name" : "a girl is no one",
       "screen_name" : "photuris5",
       "protected" : false,
       "id_str" : "429226715",

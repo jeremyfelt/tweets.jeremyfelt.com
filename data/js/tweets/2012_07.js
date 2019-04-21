@@ -1155,7 +1155,7 @@ Grailbird.data.tweets_2012_07 =
     "id" : 227513869420068864,
     "created_at" : "2012-07-23 21:21:48 +0000",
     "user" : {
-      "name" : "Xeni Jardin",
+      "name" : "Xeni",
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",
@@ -3731,7 +3731,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bethany Rydmark",
+      "name" : "Bethany Rydmark \uD83C\uDF31",
       "screen_name" : "bethanyrydmark",
       "indices" : [ 0, 15 ],
       "id_str" : "14222501",

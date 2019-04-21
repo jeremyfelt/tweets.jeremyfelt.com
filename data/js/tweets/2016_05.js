@@ -1775,7 +1775,7 @@ Grailbird.data.tweets_2016_05 =
     "id" : 733389885038428161,
     "created_at" : "2016-05-19 20:12:28 +0000",
     "user" : {
-      "name" : "iz \/\/ pinned tweet",
+      "name" : "iz \/\/ read bio",
       "screen_name" : "kingofthe99",
       "protected" : false,
       "id_str" : "2344127544",
@@ -3312,7 +3312,7 @@ Grailbird.data.tweets_2016_05 =
       "screen_name" : "elonmusk",
       "protected" : false,
       "id_str" : "44196397",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1111915116579086336\/HKxtnLsO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1119305550548725760\/wHVHjd4h_normal.jpg",
       "id" : 44196397,
       "verified" : true
     }

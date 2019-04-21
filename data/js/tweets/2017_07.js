@@ -219,7 +219,7 @@ Grailbird.data.tweets_2017_07 =
       "screen_name" : "jennschiffer",
       "protected" : false,
       "id_str" : "12524622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1102381208540012545\/uAefDKXp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1118604991973949442\/ZKs-ssUE_normal.jpg",
       "id" : 12524622,
       "verified" : false
     }
@@ -541,7 +541,7 @@ Grailbird.data.tweets_2017_07 =
       "screen_name" : "jennschiffer",
       "protected" : false,
       "id_str" : "12524622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1102381208540012545\/uAefDKXp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1118604991973949442\/ZKs-ssUE_normal.jpg",
       "id" : 12524622,
       "verified" : false
     }
@@ -1281,7 +1281,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gina \uD83E\uDD4E Wilson",
+      "name" : "a girl is no one",
       "screen_name" : "photuris5",
       "indices" : [ 0, 10 ],
       "id_str" : "429226715",
@@ -1967,57 +1967,6 @@ Grailbird.data.tweets_2017_07 =
   "text" : "Automated HTTPS with @letsencrypt at @getpantheon. Well done! https:\/\/t.co\/EU8GtS8Y5R",
   "id" : 889901135888134144,
   "created_at" : "2017-07-25 17:32:19 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "B",
-      "screen_name" : "iamb",
-      "indices" : [ 3, 8 ],
-      "id_str" : "53970619",
-      "id" : 53970619
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "889716604895756288",
-  "text" : "RT @iamb: Interesting news for two-factor auth (2FA) today! GitHub open sourced a software-based U2F token. Here's what that means and why\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "889649238216454145",
-    "text" : "Interesting news for two-factor auth (2FA) today! GitHub open sourced a software-based U2F token. Here's what that means and why it matters:",
-    "id" : 889649238216454145,
-    "created_at" : "2017-07-25 00:51:21 +0000",
-    "user" : {
-      "name" : "B",
-      "screen_name" : "iamb",
-      "protected" : false,
-      "id_str" : "53970619",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/783732727933566976\/8_L7a6mL_normal.jpg",
-      "id" : 53970619,
-      "verified" : false
-    }
-  },
-  "id" : 889716604895756288,
-  "created_at" : "2017-07-25 05:19:03 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",
@@ -2980,7 +2929,7 @@ Grailbird.data.tweets_2017_07 =
       "screen_name" : "jennschiffer",
       "protected" : false,
       "id_str" : "12524622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1102381208540012545\/uAefDKXp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1118604991973949442\/ZKs-ssUE_normal.jpg",
       "id" : 12524622,
       "verified" : false
     }
@@ -3043,7 +2992,7 @@ Grailbird.data.tweets_2017_07 =
     "id" : 887751288502366208,
     "created_at" : "2017-07-19 19:09:35 +0000",
     "user" : {
-      "name" : "Morten Rand-Hendriksen",
+      "name" : "Morten is on a prolonged break from all this",
       "screen_name" : "mor10",
       "protected" : false,
       "id_str" : "14611891",
@@ -4535,7 +4484,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDFB\uD83C\uDDF3",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 0, 7 ],
       "id_str" : "6306542",
@@ -4599,7 +4548,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ryan McCue \uD83C\uDDFB\uD83C\uDDF3",
+      "name" : "Ryan McCue \uD83C\uDF27",
       "screen_name" : "rmccue",
       "indices" : [ 57, 64 ],
       "id_str" : "6306542",
@@ -7719,7 +7668,7 @@ Grailbird.data.tweets_2017_07 =
       "screen_name" : "jennschiffer",
       "protected" : false,
       "id_str" : "12524622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1102381208540012545\/uAefDKXp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1118604991973949442\/ZKs-ssUE_normal.jpg",
       "id" : 12524622,
       "verified" : false
     }

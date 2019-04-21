@@ -263,7 +263,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gina \uD83E\uDD4E Wilson",
+      "name" : "a girl is no one",
       "screen_name" : "photuris5",
       "indices" : [ 0, 10 ],
       "id_str" : "429226715",
@@ -457,6 +457,119 @@ Grailbird.data.tweets_2016_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Shad",
+      "screen_name" : "rashadalaiyan",
+      "indices" : [ 3, 17 ],
+      "id_str" : "735382638278672384",
+      "id" : 735382638278672384
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/rashadalaiyan\/status\/780587520547368960\/photo\/1",
+      "indices" : [ 46, 69 ],
+      "url" : "https:\/\/t.co\/RiawpJbtnq",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/CtU0NZ0VUAADUhe.jpg",
+      "id_str" : "780587515291979776",
+      "id" : 780587515291979776,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CtU0NZ0VUAADUhe.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 445,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 628,
+        "resize" : "fit",
+        "w" : 960
+      }, {
+        "h" : 628,
+        "resize" : "fit",
+        "w" : 960
+      }, {
+        "h" : 628,
+        "resize" : "fit",
+        "w" : 960
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/RiawpJbtnq"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "780597362808922112",
+  "text" : "RT @rashadalaiyan: Recap of tonight's debate. https:\/\/t.co\/RiawpJbtnq",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/rashadalaiyan\/status\/780587520547368960\/photo\/1",
+        "indices" : [ 27, 50 ],
+        "url" : "https:\/\/t.co\/RiawpJbtnq",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CtU0NZ0VUAADUhe.jpg",
+        "id_str" : "780587515291979776",
+        "id" : 780587515291979776,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CtU0NZ0VUAADUhe.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 445,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 628,
+          "resize" : "fit",
+          "w" : 960
+        }, {
+          "h" : 628,
+          "resize" : "fit",
+          "w" : 960
+        }, {
+          "h" : 628,
+          "resize" : "fit",
+          "w" : 960
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/RiawpJbtnq"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "780587520547368960",
+    "text" : "Recap of tonight's debate. https:\/\/t.co\/RiawpJbtnq",
+    "id" : 780587520547368960,
+    "created_at" : "2016-09-27 01:59:02 +0000",
+    "user" : {
+      "name" : "Shad",
+      "screen_name" : "rashadalaiyan",
+      "protected" : false,
+      "id_str" : "735382638278672384",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1111700589895770112\/Rv_QvZv3_normal.jpg",
+      "id" : 735382638278672384,
+      "verified" : false
+    }
+  },
+  "id" : 780597362808922112,
+  "created_at" : "2016-09-27 02:38:08 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -544,7 +657,7 @@ Grailbird.data.tweets_2016_09 =
     "id" : 780588205963812868,
     "created_at" : "2016-09-27 02:01:45 +0000",
     "user" : {
-      "name" : "TMC",
+      "name" : "Flowzor Ahai",
       "screen_name" : "FlowsAndolini",
       "protected" : false,
       "id_str" : "29925696",

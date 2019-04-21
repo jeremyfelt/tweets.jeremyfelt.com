@@ -601,73 +601,6 @@ Grailbird.data.tweets_2014_04 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Nike Soccer",
-      "screen_name" : "nikesoccer",
-      "indices" : [ 3, 14 ],
-      "id_str" : "10678292",
-      "id" : 10678292
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "riskeverything",
-      "indices" : [ 82, 97 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 98, 121 ],
-      "url" : "https:\/\/t.co\/WZMpf3DxlP",
-      "expanded_url" : "https:\/\/amp.twimg.com\/v\/6fb700e1-b005-45b5-afb0-d8669128201f",
-      "display_url" : "amp.twimg.com\/v\/6fb700e1-b00\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "460139214533693440",
-  "text" : "RT @nikesoccer: Every four years, the world expects phenomenal soccer. It's time. #riskeverything\nhttps:\/\/t.co\/WZMpf3DxlP",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "riskeverything",
-        "indices" : [ 66, 81 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 82, 105 ],
-        "url" : "https:\/\/t.co\/WZMpf3DxlP",
-        "expanded_url" : "https:\/\/amp.twimg.com\/v\/6fb700e1-b005-45b5-afb0-d8669128201f",
-        "display_url" : "amp.twimg.com\/v\/6fb700e1-b00\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "459865086543138816",
-    "text" : "Every four years, the world expects phenomenal soccer. It's time. #riskeverything\nhttps:\/\/t.co\/WZMpf3DxlP",
-    "id" : 459865086543138816,
-    "created_at" : "2014-04-26 01:22:35 +0000",
-    "user" : {
-      "name" : "Nike Soccer",
-      "screen_name" : "nikesoccer",
-      "protected" : false,
-      "id_str" : "10678292",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/977272424998694912\/H7KrUpOt_normal.jpg",
-      "id" : 10678292,
-      "verified" : true
-    }
-  },
-  "id" : 460139214533693440,
-  "created_at" : "2014-04-26 19:31:52 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -1727,7 +1660,7 @@ Grailbird.data.tweets_2014_04 =
     "id" : 456968221921247232,
     "created_at" : "2014-04-18 01:31:28 +0000",
     "user" : {
-      "name" : "Morten Rand-Hendriksen",
+      "name" : "Morten is on a prolonged break from all this",
       "screen_name" : "mor10",
       "protected" : false,
       "id_str" : "14611891",
@@ -2772,7 +2705,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pumpkin Spice Ladama",
+      "name" : "Lotta Ladama",
       "screen_name" : "ladama",
       "indices" : [ 3, 10 ],
       "id_str" : "16390477",
@@ -2816,7 +2749,7 @@ Grailbird.data.tweets_2014_04 =
     "in_reply_to_screen_name" : "jeremyfelt",
     "in_reply_to_user_id_str" : "1741681",
     "user" : {
-      "name" : "Pumpkin Spice Ladama",
+      "name" : "Lotta Ladama",
       "screen_name" : "ladama",
       "protected" : false,
       "id_str" : "16390477",
@@ -6331,7 +6264,7 @@ Grailbird.data.tweets_2014_04 =
       "screen_name" : "SergeyBiryukov",
       "protected" : false,
       "id_str" : "12054982",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/459255886192472064\/vfNt_uru_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1115264903198248967\/jf-TkxFG_normal.png",
       "id" : 12054982,
       "verified" : false
     }

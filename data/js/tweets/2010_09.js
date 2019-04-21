@@ -1022,7 +1022,7 @@ Grailbird.data.tweets_2010_09 =
     "id" : 25848375149,
     "created_at" : "2010-09-29 03:11:34 +0000",
     "user" : {
-      "name" : "Pumpkin Spice Ladama",
+      "name" : "Lotta Ladama",
       "screen_name" : "ladama",
       "protected" : false,
       "id_str" : "16390477",
@@ -3692,7 +3692,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "jack",
       "protected" : false,
       "id_str" : "12",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1096168564959121409\/_-RibLtR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1115644092329758721\/AFjOr-K8_normal.jpg",
       "id" : 12,
       "verified" : true
     }
@@ -3819,7 +3819,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Graham Linehan",
+      "name" : "not tweeting but faving",
       "screen_name" : "Glinner",
       "indices" : [ 3, 11 ],
       "id_str" : "7076492",
@@ -3870,11 +3870,11 @@ Grailbird.data.tweets_2010_09 =
     "id" : 23100216324,
     "created_at" : "2010-09-06 00:24:50 +0000",
     "user" : {
-      "name" : "Graham Linehan",
+      "name" : "not tweeting but faving",
       "screen_name" : "Glinner",
       "protected" : false,
       "id_str" : "7076492",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/433543395974205440\/e1vZ6x9u_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1115725965659971587\/t0iEEvVz_normal.png",
       "id" : 7076492,
       "verified" : true
     }

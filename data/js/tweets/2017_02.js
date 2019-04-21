@@ -553,7 +553,7 @@ Grailbird.data.tweets_2017_02 =
       "screen_name" : "elonmusk",
       "protected" : false,
       "id_str" : "44196397",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1111915116579086336\/HKxtnLsO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1119305550548725760\/wHVHjd4h_normal.jpg",
       "id" : 44196397,
       "verified" : true
     }
@@ -5707,7 +5707,7 @@ Grailbird.data.tweets_2017_02 =
       "screen_name" : "MarkWrightKING5",
       "protected" : false,
       "id_str" : "24737373",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1089256472741998592\/sQZFO0w3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1119065494097580033\/pSZ1TcAG_normal.jpg",
       "id" : 24737373,
       "verified" : true
     }
@@ -5770,7 +5770,7 @@ Grailbird.data.tweets_2017_02 =
     "id" : 829889573643628545,
     "created_at" : "2017-02-10 03:07:47 +0000",
     "user" : {
-      "name" : "Morten Rand-Hendriksen",
+      "name" : "Morten is on a prolonged break from all this",
       "screen_name" : "mor10",
       "protected" : false,
       "id_str" : "14611891",
@@ -6167,7 +6167,7 @@ Grailbird.data.tweets_2017_02 =
       "screen_name" : "Grindr",
       "protected" : false,
       "id_str" : "28549816",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1110708637930917888\/PhWZPdEI_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1118944058632630272\/5tbIwzXE_normal.png",
       "id" : 28549816,
       "verified" : true
     }

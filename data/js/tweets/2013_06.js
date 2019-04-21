@@ -798,7 +798,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "mike [+Ultra]",
+      "name" : "mike r",
       "screen_name" : "mikerapin",
       "indices" : [ 3, 13 ],
       "id_str" : "1144581",
@@ -855,7 +855,7 @@ Grailbird.data.tweets_2013_06 =
     "id" : 351366377015214083,
     "created_at" : "2013-06-30 15:47:27 +0000",
     "user" : {
-      "name" : "mike [+Ultra]",
+      "name" : "mike r",
       "screen_name" : "mikerapin",
       "protected" : false,
       "id_str" : "1144581",

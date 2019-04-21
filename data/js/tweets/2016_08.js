@@ -316,11 +316,11 @@ Grailbird.data.tweets_2016_08 =
     "id" : 769658925096382464,
     "created_at" : "2016-08-27 22:12:41 +0000",
     "user" : {
-      "name" : "FishOnSecurity",
+      "name" : "SwiftOnSecurity",
       "screen_name" : "SwiftOnSecurity",
       "protected" : false,
       "id_str" : "2436389418",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1113793849065971713\/fgfypgsQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1117563415990501381\/x66LyNqg_normal.jpg",
       "id" : 2436389418,
       "verified" : false
     }
@@ -627,7 +627,7 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten Rand-Hendriksen",
+      "name" : "Morten is on a prolonged break from all this",
       "screen_name" : "mor10",
       "indices" : [ 0, 6 ],
       "id_str" : "14611891",
@@ -2151,7 +2151,7 @@ Grailbird.data.tweets_2016_08 =
     "id" : 766295022534660097,
     "created_at" : "2016-08-18 15:25:45 +0000",
     "user" : {
-      "name" : "Matthew Miklic",
+      "name" : "Matt Miklic",
       "screen_name" : "mattmiklic",
       "protected" : false,
       "id_str" : "7562432",
@@ -3100,7 +3100,7 @@ Grailbird.data.tweets_2016_08 =
     "id" : 765628318276124673,
     "created_at" : "2016-08-16 19:16:30 +0000",
     "user" : {
-      "name" : "Taylor Otwell \u2697\uFE0F",
+      "name" : "Taylor Otwell \uD83E\uDD9C",
       "screen_name" : "taylorotwell",
       "protected" : false,
       "id_str" : "28870687",

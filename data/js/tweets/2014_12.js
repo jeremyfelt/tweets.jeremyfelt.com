@@ -3771,7 +3771,7 @@ Grailbird.data.tweets_2014_12 =
       "screen_name" : "jennschiffer",
       "protected" : false,
       "id_str" : "12524622",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1102381208540012545\/uAefDKXp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1118604991973949442\/ZKs-ssUE_normal.jpg",
       "id" : 12524622,
       "verified" : false
     }
@@ -4184,7 +4184,7 @@ Grailbird.data.tweets_2014_12 =
       "screen_name" : "elonmusk",
       "protected" : false,
       "id_str" : "44196397",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1111915116579086336\/HKxtnLsO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1119305550548725760\/wHVHjd4h_normal.jpg",
       "id" : 44196397,
       "verified" : true
     }
@@ -6900,7 +6900,7 @@ Grailbird.data.tweets_2014_12 =
     "id" : 540896691072016384,
     "created_at" : "2014-12-05 15:53:15 +0000",
     "user" : {
-      "name" : "kade",
+      "name" : "black hole: devour us",
       "screen_name" : "onekade",
       "protected" : false,
       "id_str" : "15982292",

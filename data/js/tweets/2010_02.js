@@ -34,7 +34,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "jack",
       "protected" : false,
       "id_str" : "12",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1096168564959121409\/_-RibLtR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1115644092329758721\/AFjOr-K8_normal.jpg",
       "id" : 12,
       "verified" : true
     }

@@ -982,7 +982,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "UKinUSA",
       "protected" : false,
       "id_str" : "22120359",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1062372413357387783\/C9qafHro_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1115664670109704193\/Ez7iJ3WI_normal.png",
       "id" : 22120359,
       "verified" : true
     }

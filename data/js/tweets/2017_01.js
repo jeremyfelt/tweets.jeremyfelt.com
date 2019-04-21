@@ -1500,7 +1500,7 @@ Grailbird.data.tweets_2017_01 =
     "id" : 825529253827588097,
     "created_at" : "2017-01-29 02:21:26 +0000",
     "user" : {
-      "name" : "Jill J Biden",
+      "name" : "Jill Biden",
       "screen_name" : "JillBidenVeep",
       "protected" : false,
       "id_str" : "362194251",
@@ -1693,7 +1693,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "Rosie",
       "protected" : false,
       "id_str" : "25203361",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1099397146892226563\/QF4T-FKX_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1118267128698765312\/cpHzF-lw_normal.jpg",
       "id" : 25203361,
       "verified" : true
     }
@@ -4186,63 +4186,6 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "hokte",
-      "screen_name" : "sydnerain",
-      "indices" : [ 3, 13 ],
-      "id_str" : "110890615",
-      "id" : 110890615
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "WomensMarch",
-      "indices" : [ 67, 79 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "823400988421672961",
-  "text" : "RT @sydnerain: Alright. Here is one indigenous woman's take on the #WomensMarch on Washington, in a sea full of white women (WW). This will\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "WomensMarch",
-        "indices" : [ 52, 64 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "823378710833270786",
-    "text" : "Alright. Here is one indigenous woman's take on the #WomensMarch on Washington, in a sea full of white women (WW). This will be a thread.",
-    "id" : 823378710833270786,
-    "created_at" : "2017-01-23 03:55:56 +0000",
-    "user" : {
-      "name" : "hokte",
-      "screen_name" : "sydnerain",
-      "protected" : false,
-      "id_str" : "110890615",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1093423359545749504\/Hb0Pp-hI_normal.jpg",
-      "id" : 110890615,
-      "verified" : false
-    }
-  },
-  "id" : 823400988421672961,
-  "created_at" : "2017-01-23 05:24:28 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Hillary Clinton",
       "screen_name" : "HillaryClinton",
       "indices" : [ 3, 18 ],
@@ -4631,11 +4574,11 @@ Grailbird.data.tweets_2017_01 =
     "id" : 822887186345459712,
     "created_at" : "2017-01-21 19:22:48 +0000",
     "user" : {
-      "name" : "ezra miller",
+      "name" : "jon snow",
       "screen_name" : "shxrlocked",
       "protected" : false,
       "id_str" : "118883607",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1108208896261451784\/WCvvvGzM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1117789549172805632\/vwiEcaCp_normal.jpg",
       "id" : 118883607,
       "verified" : false
     }
@@ -6822,7 +6765,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "Gilluis_Perez",
       "protected" : false,
       "id_str" : "45917268",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1114013313476722693\/SvJh1dBQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1117000691506192384\/Ad8q_wxs_normal.jpg",
       "id" : 45917268,
       "verified" : false
     }
@@ -8186,7 +8129,7 @@ Grailbird.data.tweets_2017_01 =
     "id" : 816000252977221632,
     "created_at" : "2017-01-02 19:16:35 +0000",
     "user" : {
-      "name" : "ron, innovation expert and impressive programmer",
+      "name" : "eden rohatensky",
       "screen_name" : "edenthecat",
       "protected" : false,
       "id_str" : "15239226",

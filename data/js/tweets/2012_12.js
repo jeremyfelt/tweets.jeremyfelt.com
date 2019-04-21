@@ -561,7 +561,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bethany Rydmark",
+      "name" : "Bethany Rydmark \uD83C\uDF31",
       "screen_name" : "bethanyrydmark",
       "indices" : [ 3, 18 ],
       "id_str" : "14222501",
@@ -605,7 +605,7 @@ Grailbird.data.tweets_2012_12 =
     "id" : 282858100741009408,
     "created_at" : "2012-12-23 14:40:01 +0000",
     "user" : {
-      "name" : "Bethany Rydmark",
+      "name" : "Bethany Rydmark \uD83C\uDF31",
       "screen_name" : "bethanyrydmark",
       "protected" : false,
       "id_str" : "14222501",
@@ -629,7 +629,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pumpkin Spice Ladama",
+      "name" : "Lotta Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -6274,7 +6274,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Xeni Jardin",
+      "name" : "Xeni",
       "screen_name" : "xeni",
       "indices" : [ 3, 8 ],
       "id_str" : "767",
@@ -6301,7 +6301,7 @@ Grailbird.data.tweets_2012_12 =
     "id" : 275010810064027648,
     "created_at" : "2012-12-01 22:57:41 +0000",
     "user" : {
-      "name" : "Xeni Jardin",
+      "name" : "Xeni",
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",

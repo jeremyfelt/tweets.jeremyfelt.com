@@ -256,7 +256,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "KdotCdot",
       "protected" : false,
       "id_str" : "17887037",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1073635694503817216\/yjF8rjtL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1116840911583899648\/j8JjJY_W_normal.png",
       "id" : 17887037,
       "verified" : false
     }
@@ -1641,7 +1641,7 @@ Grailbird.data.tweets_2016_07 =
     "id" : 757801146538795008,
     "created_at" : "2016-07-26 04:54:07 +0000",
     "user" : {
-      "name" : "Xeni Jardin",
+      "name" : "Xeni",
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",
@@ -7575,7 +7575,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "biblioracle",
       "protected" : false,
       "id_str" : "136277952",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/993869746536841216\/EZZKey6P_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1117558674761945088\/79R3gLaC_normal.png",
       "id" : 136277952,
       "verified" : true
     }

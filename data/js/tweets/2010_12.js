@@ -1343,7 +1343,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "dj lincoln bio",
+      "name" : "RIP CITIZEN",
       "screen_name" : "djevilone",
       "indices" : [ 3, 13 ],
       "id_str" : "18212072",
@@ -1370,7 +1370,7 @@ Grailbird.data.tweets_2010_12 =
     "id" : 15592402777538561,
     "created_at" : "2010-12-17 02:21:33 +0000",
     "user" : {
-      "name" : "dj lincoln bio",
+      "name" : "RIP CITIZEN",
       "screen_name" : "djevilone",
       "protected" : false,
       "id_str" : "18212072",

@@ -3623,7 +3623,7 @@ Grailbird.data.tweets_2016_01 =
     "id" : 687099891286290436,
     "created_at" : "2016-01-13 02:32:34 +0000",
     "user" : {
-      "name" : "Xeni Jardin",
+      "name" : "Xeni",
       "screen_name" : "xeni",
       "protected" : false,
       "id_str" : "767",
@@ -6437,7 +6437,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sharon@home",
+      "name" : "Sharon@LondonUK",
       "screen_name" : "sharondio",
       "indices" : [ 3, 13 ],
       "id_str" : "5810742",
@@ -6526,7 +6526,7 @@ Grailbird.data.tweets_2016_01 =
     "id" : 676855973290577922,
     "created_at" : "2015-12-15 20:06:54 +0000",
     "user" : {
-      "name" : "Sharon@home",
+      "name" : "Sharon@LondonUK",
       "screen_name" : "sharondio",
       "protected" : false,
       "id_str" : "5810742",

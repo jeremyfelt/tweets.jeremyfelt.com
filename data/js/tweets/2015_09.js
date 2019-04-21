@@ -4228,7 +4228,7 @@ Grailbird.data.tweets_2015_09 =
       "id_str" : "21204689",
       "id" : 21204689
     }, {
-      "name" : "Rian Rietveld @ WCLDN",
+      "name" : "Rian Rietveld",
       "screen_name" : "RianRietveld",
       "indices" : [ 28, 41 ],
       "id_str" : "97227793",
@@ -4245,7 +4245,7 @@ Grailbird.data.tweets_2015_09 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Rian Rietveld @ WCLDN",
+        "name" : "Rian Rietveld",
         "screen_name" : "RianRietveld",
         "indices" : [ 9, 22 ],
         "id_str" : "97227793",

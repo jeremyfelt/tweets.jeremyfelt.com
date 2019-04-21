@@ -2428,7 +2428,7 @@ Grailbird.data.tweets_2010_07 =
     "id" : 18702256766,
     "created_at" : "2010-07-16 17:18:28 +0000",
     "user" : {
-      "name" : "Matthew Miklic",
+      "name" : "Matt Miklic",
       "screen_name" : "mattmiklic",
       "protected" : false,
       "id_str" : "7562432",
@@ -2981,7 +2981,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "Ross",
       "protected" : false,
       "id_str" : "885",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1086440582728171520\/N0KNRkVs_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1116009932439019521\/ihC_X4qr_normal.jpg",
       "id" : 885,
       "verified" : true
     }
@@ -3624,7 +3624,7 @@ Grailbird.data.tweets_2010_07 =
     "id" : 17872127385,
     "created_at" : "2010-07-06 14:45:44 +0000",
     "user" : {
-      "name" : "Nomnominally Serious",
+      "name" : "Milquetoast Oatlord",
       "screen_name" : "monkchips",
       "protected" : false,
       "id_str" : "61233",

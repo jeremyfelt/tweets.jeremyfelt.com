@@ -924,7 +924,7 @@ Grailbird.data.tweets_2018_04 =
     "id" : 987110957527785472,
     "created_at" : "2018-04-19 23:29:26 +0000",
     "user" : {
-      "name" : "wikipedia brown, but a weird tethered version \u2702\uFE0F",
+      "name" : "dr. wikipedia eve louise calrissian-brown the 9th",
       "screen_name" : "eveewing",
       "protected" : false,
       "id_str" : "19166519",
@@ -1086,7 +1086,7 @@ Grailbird.data.tweets_2018_04 =
       "id_str" : "866953267",
       "id" : 866953267
     }, {
-      "name" : "Chance Owbum \uD83D\uDCC5",
+      "name" : "Chance The Rapper Owbum \uD83D\uDCC5",
       "screen_name" : "chancetherapper",
       "indices" : [ 49, 65 ],
       "id_str" : "181572333",

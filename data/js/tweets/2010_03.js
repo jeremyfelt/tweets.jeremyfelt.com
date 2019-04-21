@@ -757,7 +757,7 @@ Grailbird.data.tweets_2010_03 =
     "id" : 10228872275,
     "created_at" : "2010-03-09 17:04:21 +0000",
     "user" : {
-      "name" : "Ryan \u201CI don't get seasons\u201D Sholin",
+      "name" : "Ryan \u201CAre we still doing nicknames?\u201D Sholin",
       "screen_name" : "ryansholin",
       "protected" : false,
       "id_str" : "884301",
@@ -1177,7 +1177,7 @@ Grailbird.data.tweets_2010_03 =
       "id_str" : "18713",
       "id" : 18713
     }, {
-      "name" : "Craig \"subscribe to my newsletters\" Mod",
+      "name" : "A Walking Man",
       "screen_name" : "craigmod",
       "indices" : [ 97, 106 ],
       "id_str" : "1835951",
@@ -1200,7 +1200,7 @@ Grailbird.data.tweets_2010_03 =
         "id_str" : "18713",
         "id" : 18713
       }, {
-        "name" : "Craig \"subscribe to my newsletters\" Mod",
+        "name" : "A Walking Man",
         "screen_name" : "craigmod",
         "indices" : [ 81, 90 ],
         "id_str" : "1835951",

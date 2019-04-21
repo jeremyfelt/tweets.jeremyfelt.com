@@ -7620,7 +7620,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pumpkin Spice Ladama",
+      "name" : "Lotta Ladama",
       "screen_name" : "ladama",
       "indices" : [ 3, 10 ],
       "id_str" : "16390477",
@@ -7652,7 +7652,7 @@ Grailbird.data.tweets_2011_09 =
     "id" : 109313633892315137,
     "created_at" : "2011-09-01 17:16:15 +0000",
     "user" : {
-      "name" : "Pumpkin Spice Ladama",
+      "name" : "Lotta Ladama",
       "screen_name" : "ladama",
       "protected" : false,
       "id_str" : "16390477",

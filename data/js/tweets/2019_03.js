@@ -1147,7 +1147,7 @@ Grailbird.data.tweets_2019_03 =
       "id_str" : "200519952",
       "id" : 200519952
     }, {
-      "name" : "Omar Reiss",
+      "name" : "Oamar",
       "screen_name" : "OmarReiss",
       "indices" : [ 27, 37 ],
       "id_str" : "1230096818",
@@ -2660,7 +2660,7 @@ Grailbird.data.tweets_2019_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten Rand-Hendriksen",
+      "name" : "Morten is on a prolonged break from all this",
       "screen_name" : "mor10",
       "indices" : [ 0, 6 ],
       "id_str" : "14611891",

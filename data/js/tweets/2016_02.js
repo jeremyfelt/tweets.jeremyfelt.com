@@ -4447,7 +4447,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "zackkatz",
       "protected" : false,
       "id_str" : "647683",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/989577392925556736\/Nluwmuok_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1119454639961690112\/KyceI5TW_normal.jpg",
       "id" : 647683,
       "verified" : false
     }
@@ -5030,110 +5030,6 @@ Grailbird.data.tweets_2016_02 =
   },
   "id" : 697653185079447552,
   "created_at" : "2016-02-11 05:27:35 +0000",
-  "user" : {
-    "name" : "Jeremy Felt",
-    "screen_name" : "jeremyfelt",
-    "protected" : false,
-    "id_str" : "1741681",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
-    "id" : 1741681,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Pat O'Brien",
-      "screen_name" : "PatOBrienChi",
-      "indices" : [ 3, 16 ],
-      "id_str" : "251895220",
-      "id" : 251895220
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "Chicago",
-      "indices" : [ 104, 112 ]
-    }, {
-      "text" : "startups",
-      "indices" : [ 113, 122 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 80, 103 ],
-      "url" : "https:\/\/t.co\/ANNUjerMFo",
-      "expanded_url" : "http:\/\/chicagoinno.streetwise.co\/2016\/02\/10\/laptop-battery-life-could-grow-thanks-to-a-new-uchicago-center\/",
-      "display_url" : "chicagoinno.streetwise.co\/2016\/02\/10\/lap\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "697645954871140352",
-  "text" : "RT @PatOBrienChi: How University of Chicago Is Making Your Computer Unstoppable https:\/\/t.co\/ANNUjerMFo #Chicago #startups https:\/\/t.co\/u0H\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twibble.io\" rel=\"nofollow\"\u003ETwibble.io\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/PatOBrienChi\/status\/697575575137841152\/photo\/1",
-        "indices" : [ 105, 128 ],
-        "url" : "https:\/\/t.co\/u0HkKc1mvi",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/Ca5JSeaVAAAzNbH.jpg",
-        "id_str" : "697575574038970368",
-        "id" : 697575574038970368,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Ca5JSeaVAAAzNbH.jpg",
-        "sizes" : [ {
-          "h" : 429,
-          "resize" : "fit",
-          "w" : 630
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 429,
-          "resize" : "fit",
-          "w" : 630
-        }, {
-          "h" : 429,
-          "resize" : "fit",
-          "w" : 630
-        }, {
-          "h" : 429,
-          "resize" : "fit",
-          "w" : 630
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/u0HkKc1mvi"
-      } ],
-      "hashtags" : [ {
-        "text" : "Chicago",
-        "indices" : [ 86, 94 ]
-      }, {
-        "text" : "startups",
-        "indices" : [ 95, 104 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 62, 85 ],
-        "url" : "https:\/\/t.co\/ANNUjerMFo",
-        "expanded_url" : "http:\/\/chicagoinno.streetwise.co\/2016\/02\/10\/laptop-battery-life-could-grow-thanks-to-a-new-uchicago-center\/",
-        "display_url" : "chicagoinno.streetwise.co\/2016\/02\/10\/lap\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "697575575137841152",
-    "text" : "How University of Chicago Is Making Your Computer Unstoppable https:\/\/t.co\/ANNUjerMFo #Chicago #startups https:\/\/t.co\/u0HkKc1mvi",
-    "id" : 697575575137841152,
-    "created_at" : "2016-02-11 00:19:12 +0000",
-    "user" : {
-      "name" : "Pat O'Brien",
-      "screen_name" : "PatOBrienChi",
-      "protected" : false,
-      "id_str" : "251895220",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/606144118885097473\/gpggEqMN_normal.jpg",
-      "id" : 251895220,
-      "verified" : false
-    }
-  },
-  "id" : 697645954871140352,
-  "created_at" : "2016-02-11 04:58:51 +0000",
   "user" : {
     "name" : "Jeremy Felt",
     "screen_name" : "jeremyfelt",

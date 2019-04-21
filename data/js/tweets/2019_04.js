@@ -2,6 +2,996 @@ Grailbird.data.tweets_2019_04 =
 [ {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/jeremyfelt\/status\/1119613560898764800\/photo\/1",
+      "indices" : [ 53, 76 ],
+      "url" : "https:\/\/t.co\/PJyvBLKRSR",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/D4mqmHOVUAAphhh.jpg",
+      "id_str" : "1119613554129195008",
+      "id" : 1119613554129195008,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/D4mqmHOVUAAphhh.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1200,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 2048,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
+        "h" : 2160,
+        "resize" : "fit",
+        "w" : 1080
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/PJyvBLKRSR"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1119613560898764800",
+  "text" : "The next year and a half is going to be just great \uD83D\uDE44 https:\/\/t.co\/PJyvBLKRSR",
+  "id" : 1119613560898764800,
+  "created_at" : "2019-04-20 14:47:28 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Johanna Brown",
+      "screen_name" : "johannabrown",
+      "indices" : [ 0, 13 ],
+      "id_str" : "14449947",
+      "id" : 14449947
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "1119069597045362688",
+  "geo" : { },
+  "id_str" : "1119074799010009088",
+  "in_reply_to_user_id" : 14449947,
+  "text" : "@johannabrown Which LMS?",
+  "id" : 1119074799010009088,
+  "in_reply_to_status_id" : 1119069597045362688,
+  "created_at" : "2019-04-19 03:06:38 +0000",
+  "in_reply_to_screen_name" : "johannabrown",
+  "in_reply_to_user_id_str" : "14449947",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Johanna Brown",
+      "screen_name" : "johannabrown",
+      "indices" : [ 3, 16 ],
+      "id_str" : "14449947",
+      "id" : 14449947
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1119074698074054657",
+  "text" : "RT @johannabrown: Working with our principal to collect preferred names, how to pronounce them, &amp; preferred pronouns at the beginning of ev\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "edchat",
+        "indices" : [ 242, 249 ]
+      }, {
+        "text" : "namesmatter",
+        "indices" : [ 250, 262 ]
+      }, {
+        "text" : "transvisibilityday",
+        "indices" : [ 263, 282 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "1119069597045362688",
+    "text" : "Working with our principal to collect preferred names, how to pronounce them, &amp; preferred pronouns at the beginning of every year. Our current LMS doesn\u2019t support this. Have a plan but looking for advice and anything I\u2019m not think about. #edchat #namesmatter #transvisibilityday",
+    "id" : 1119069597045362688,
+    "created_at" : "2019-04-19 02:45:57 +0000",
+    "user" : {
+      "name" : "Johanna Brown",
+      "screen_name" : "johannabrown",
+      "protected" : false,
+      "id_str" : "14449947",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/686367401538007042\/ZPoA_-xY_normal.png",
+      "id" : 14449947,
+      "verified" : false
+    }
+  },
+  "id" : 1119074698074054657,
+  "created_at" : "2019-04-19 03:06:14 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 71, 94 ],
+      "url" : "https:\/\/t.co\/dsnt5eAHCE",
+      "expanded_url" : "https:\/\/twitter.com\/DavidVidecette\/status\/1118887850173501441",
+      "display_url" : "twitter.com\/DavidVidecette\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1118968801356238854",
+  "text" : "Probably ~25, when renting cars started to become a more regular thing https:\/\/t.co\/dsnt5eAHCE",
+  "id" : 1118968801356238854,
+  "created_at" : "2019-04-18 20:05:26 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "WCEU",
+      "indices" : [ 76, 81 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 82, 105 ],
+      "url" : "https:\/\/t.co\/MHxbAlq6ZU",
+      "expanded_url" : "https:\/\/twitter.com\/jeffpaul\/status\/1118903076545597441",
+      "display_url" : "twitter.com\/jeffpaul\/statu\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1118906169215447040",
+  "text" : "Great idea! Forcing myself to get there early on Friday with the 8am slot \uD83D\uDE48 #WCEU https:\/\/t.co\/MHxbAlq6ZU",
+  "id" : 1118906169215447040,
+  "created_at" : "2019-04-18 15:56:33 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\uD83D\uDC80 damned sinker \uD83D\uDC80",
+      "screen_name" : "dansinker",
+      "indices" : [ 0, 10 ],
+      "id_str" : "8119452",
+      "id" : 8119452
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "1118898695158865922",
+  "geo" : { },
+  "id_str" : "1118899635576197122",
+  "in_reply_to_user_id" : 8119452,
+  "text" : "@dansinker Violating the ADA",
+  "id" : 1118899635576197122,
+  "in_reply_to_status_id" : 1118898695158865922,
+  "created_at" : "2019-04-18 15:30:35 +0000",
+  "in_reply_to_screen_name" : "dansinker",
+  "in_reply_to_user_id_str" : "8119452",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1118895435521728515",
+  "text" : "\/storage\/report.pdf\n\nFuture reports will be published at \/storage\/report2.pdf, \/storage\/report2.PDF, and \/storage\/newreport.pdf",
+  "id" : 1118895435521728515,
+  "created_at" : "2019-04-18 15:13:54 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jeffrey B. Paul",
+      "screen_name" : "jeffpaul",
+      "indices" : [ 0, 9 ],
+      "id_str" : "3631301",
+      "id" : 3631301
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "1118623452284329984",
+  "geo" : { },
+  "id_str" : "1118623546224173056",
+  "in_reply_to_user_id" : 1741681,
+  "text" : "@jeffpaul Categorizing dates with things like \"conflicts with bank holiday\", \"conflicts with religious observance\", etc... would also be cool to help filter by severity of shipping on a particular day.",
+  "id" : 1118623546224173056,
+  "in_reply_to_status_id" : 1118623452284329984,
+  "created_at" : "2019-04-17 21:13:31 +0000",
+  "in_reply_to_screen_name" : "jeremyfelt",
+  "in_reply_to_user_id_str" : "1741681",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jeffrey B. Paul",
+      "screen_name" : "jeffpaul",
+      "indices" : [ 0, 9 ],
+      "id_str" : "3631301",
+      "id" : 3631301
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "1118621769638846464",
+  "geo" : { },
+  "id_str" : "1118623452284329984",
+  "in_reply_to_user_id" : 3631301,
+  "text" : "@jeffpaul I think any kind of DB (WP, CSV, etc...) would do the trick. It'd be nice to say \"what days in April can I release with a 2 day padding\". The more simple the better.",
+  "id" : 1118623452284329984,
+  "in_reply_to_status_id" : 1118621769638846464,
+  "created_at" : "2019-04-17 21:13:08 +0000",
+  "in_reply_to_screen_name" : "jeffpaul",
+  "in_reply_to_user_id_str" : "3631301",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jeffrey B. Paul",
+      "screen_name" : "jeffpaul",
+      "indices" : [ 0, 9 ],
+      "id_str" : "3631301",
+      "id" : 3631301
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 141, 164 ],
+      "url" : "https:\/\/t.co\/lgcWTzn7r6",
+      "expanded_url" : "https:\/\/www.scouting.org\/resources\/info-center\/relationships\/religious-observances\/2019-2\/",
+      "display_url" : "scouting.org\/resources\/info\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "1118612304181043229",
+  "geo" : { },
+  "id_str" : "1118618700376973312",
+  "in_reply_to_user_id" : 3631301,
+  "text" : "@jeffpaul I haven't found a good free source of data yet, but that'd be an interesting tool to have. It looks like the scouts do a nice job. https:\/\/t.co\/lgcWTzn7r6",
+  "id" : 1118618700376973312,
+  "in_reply_to_status_id" : 1118612304181043229,
+  "created_at" : "2019-04-17 20:54:15 +0000",
+  "in_reply_to_screen_name" : "jeffpaul",
+  "in_reply_to_user_id_str" : "3631301",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Granthrax",
+      "screen_name" : "CurmudgeonGrant",
+      "indices" : [ 0, 16 ],
+      "id_str" : "176672734",
+      "id" : 176672734
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "1117614338989121536",
+  "geo" : { },
+  "id_str" : "1117634232623321089",
+  "in_reply_to_user_id" : 176672734,
+  "text" : "@CurmudgeonGrant Was the first episode predictive of the season or does it find its feet as it goes?",
+  "id" : 1117634232623321089,
+  "in_reply_to_status_id" : 1117614338989121536,
+  "created_at" : "2019-04-15 03:42:20 +0000",
+  "in_reply_to_screen_name" : "CurmudgeonGrant",
+  "in_reply_to_user_id_str" : "176672734",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Aaron Jorbin",
+      "screen_name" : "aaronjorbin",
+      "indices" : [ 0, 12 ],
+      "id_str" : "14886552",
+      "id" : 14886552
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 99, 122 ],
+      "url" : "https:\/\/t.co\/dtz5tgkXj6",
+      "expanded_url" : "https:\/\/open.spotify.com\/user\/jeremyfelt\/playlist\/5v8vTCmSw7MKsKBAhRxVMe?si=fLpuf4iuQe6zXKCAL63AcQ",
+      "display_url" : "open.spotify.com\/user\/jeremyfel\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "1117527999270678528",
+  "geo" : { },
+  "id_str" : "1117539386692816896",
+  "in_reply_to_user_id" : 14886552,
+  "text" : "@aaronjorbin Ooh, this is missing from the Best first bars of first songs of first albums playlist https:\/\/t.co\/dtz5tgkXj6",
+  "id" : 1117539386692816896,
+  "in_reply_to_status_id" : 1117527999270678528,
+  "created_at" : "2019-04-14 21:25:27 +0000",
+  "in_reply_to_screen_name" : "aaronjorbin",
+  "in_reply_to_user_id_str" : "14886552",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Ryan Sullivan",
+      "screen_name" : "ryandonsullivan",
+      "indices" : [ 0, 16 ],
+      "id_str" : "87823613",
+      "id" : 87823613
+    }, {
+      "name" : "Rich",
+      "screen_name" : "RichAsInRichard",
+      "indices" : [ 17, 33 ],
+      "id_str" : "768856519660097536",
+      "id" : 768856519660097536
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "1117221191335337984",
+  "geo" : { },
+  "id_str" : "1117221632756420610",
+  "in_reply_to_user_id" : 87823613,
+  "text" : "@ryandonsullivan @RichAsInRichard There are so many better roads than interstates between SLC and Vancouver, that drives should take at least 6 hours longer \uD83D\uDE0E",
+  "id" : 1117221632756420610,
+  "in_reply_to_status_id" : 1117221191335337984,
+  "created_at" : "2019-04-14 00:22:48 +0000",
+  "in_reply_to_screen_name" : "ryandonsullivan",
+  "in_reply_to_user_id_str" : "87823613",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Rich",
+      "screen_name" : "RichAsInRichard",
+      "indices" : [ 0, 16 ],
+      "id_str" : "768856519660097536",
+      "id" : 768856519660097536
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "1116804099138183168",
+  "geo" : { },
+  "id_str" : "1116808776286257152",
+  "in_reply_to_user_id" : 768856519660097536,
+  "text" : "@RichAsInRichard You're expecting a \"hold my beer\" joke here, aren't you?",
+  "id" : 1116808776286257152,
+  "in_reply_to_status_id" : 1116804099138183168,
+  "created_at" : "2019-04-12 21:02:16 +0000",
+  "in_reply_to_screen_name" : "RichAsInRichard",
+  "in_reply_to_user_id_str" : "768856519660097536",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 212, 235 ],
+      "url" : "https:\/\/t.co\/yHedxH28tG",
+      "expanded_url" : "https:\/\/nyti.ms\/2VA30ok",
+      "display_url" : "nyti.ms\/2VA30ok"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1116365717815693317",
+  "text" : "\"Yet all of this journalism was paid for, in part, by The Times\u2019s engaging in the type of collecting, using and sharing of reader data that we sometimes report on.\"\n\nGood acknowledgement as part of this series.\n\nhttps:\/\/t.co\/yHedxH28tG",
+  "id" : 1116365717815693317,
+  "created_at" : "2019-04-11 15:41:42 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/jeremyfelt\/status\/1116054001974272000\/photo\/1",
+      "indices" : [ 68, 91 ],
+      "url" : "https:\/\/t.co\/7YXlyH1yT9",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/D30FCkyU0AEe9WZ.jpg",
+      "id_str" : "1116053824450383873",
+      "id" : 1116053824450383873,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/D30FCkyU0AEe9WZ.jpg",
+      "sizes" : [ {
+        "h" : 354,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 640,
+        "resize" : "fit",
+        "w" : 1228
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 625,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 640,
+        "resize" : "fit",
+        "w" : 1228
+      } ],
+      "media_alt" : "A screenshot of the \"Deactivate membership\" screen from YouTube TV.",
+      "display_url" : "pic.twitter.com\/7YXlyH1yT9"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1116054001974272000",
+  "text" : "I'm impressed by how easy it is to pause a YouTube TV subscription. https:\/\/t.co\/7YXlyH1yT9",
+  "id" : 1116054001974272000,
+  "created_at" : "2019-04-10 19:03:04 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 2, 25 ],
+      "url" : "https:\/\/t.co\/4xvOXjICGS",
+      "expanded_url" : "https:\/\/twitter.com\/sparklingrobots\/status\/1116010496744873984",
+      "display_url" : "twitter.com\/sparklingrobot\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1116014808850030592",
+  "text" : "\uD83D\uDC47 https:\/\/t.co\/4xvOXjICGS",
+  "id" : 1116014808850030592,
+  "created_at" : "2019-04-10 16:27:19 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Rachel Cherry",
+      "screen_name" : "bamadesigner",
+      "indices" : [ 0, 13 ],
+      "id_str" : "236673464",
+      "id" : 236673464
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "1115828934833311750",
+  "geo" : { },
+  "id_str" : "1115830295763259392",
+  "in_reply_to_user_id" : 236673464,
+  "text" : "@bamadesigner It seems to be. We're close to the max crest forecast and tomorrow should be rain free. Limited residential impact (I think), but a whole lot of people out looking at water! :)",
+  "id" : 1115830295763259392,
+  "in_reply_to_status_id" : 1115828934833311750,
+  "created_at" : "2019-04-10 04:14:08 +0000",
+  "in_reply_to_screen_name" : "bamadesigner",
+  "in_reply_to_user_id_str" : "236673464",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Whitman County Watch",
+      "screen_name" : "WhitmanCoWatch",
+      "indices" : [ 0, 15 ],
+      "id_str" : "1049797189583552512",
+      "id" : 1049797189583552512
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 117, 140 ],
+      "url" : "https:\/\/t.co\/TUbWUaVcgi",
+      "expanded_url" : "https:\/\/water.weather.gov\/ahps2\/crests.php?wfo=otx&gage=pulw1&crest_type=historic",
+      "display_url" : "water.weather.gov\/ahps2\/crests.p\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "1115825257804443653",
+  "geo" : { },
+  "id_str" : "1115827498397458436",
+  "in_reply_to_user_id" : 1049797189583552512,
+  "text" : "@WhitmanCoWatch This led me to the historic crests list, which I've been casually wondering about all night. Thanks! https:\/\/t.co\/TUbWUaVcgi",
+  "id" : 1115827498397458436,
+  "in_reply_to_status_id" : 1115825257804443653,
+  "created_at" : "2019-04-10 04:03:01 +0000",
+  "in_reply_to_screen_name" : "WhitmanCoWatch",
+  "in_reply_to_user_id_str" : "1049797189583552512",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/jeremyfelt\/status\/1115814494125453312\/photo\/1",
+      "indices" : [ 43, 66 ],
+      "url" : "https:\/\/t.co\/e4JiEw8uNT",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/D3wrXNsV4AA1i0b.jpg",
+      "id_str" : "1115814485493669888",
+      "id" : 1115814485493669888,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/D3wrXNsV4AA1i0b.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 2048,
+        "resize" : "fit",
+        "w" : 1536
+      }, {
+        "h" : 1200,
+        "resize" : "fit",
+        "w" : 900
+      }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 510
+      }, {
+        "h" : 2048,
+        "resize" : "fit",
+        "w" : 1536
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/e4JiEw8uNT"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1115814494125453312",
+  "text" : "A new river on Grand in downtown Pullman \uD83D\uDE33 https:\/\/t.co\/e4JiEw8uNT",
+  "id" : 1115814494125453312,
+  "created_at" : "2019-04-10 03:11:20 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Meredith Metsker",
+      "screen_name" : "MeredithMetsker",
+      "indices" : [ 0, 16 ],
+      "id_str" : "381846246",
+      "id" : 381846246
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "1115796770359889920",
+  "geo" : { },
+  "id_str" : "1115797142570852352",
+  "in_reply_to_user_id" : 381846246,
+  "text" : "@MeredithMetsker We turned around and came back to Pullman \uD83D\uDE02",
+  "id" : 1115797142570852352,
+  "in_reply_to_status_id" : 1115796770359889920,
+  "created_at" : "2019-04-10 02:02:23 +0000",
+  "in_reply_to_screen_name" : "MeredithMetsker",
+  "in_reply_to_user_id_str" : "381846246",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Gary",
+      "screen_name" : "GaryPendergast",
+      "indices" : [ 0, 15 ],
+      "id_str" : "14606628",
+      "id" : 14606628
+    }, {
+      "name" : "Andrew Nacin",
+      "screen_name" : "nacin",
+      "indices" : [ 16, 22 ],
+      "id_str" : "16213079",
+      "id" : 16213079
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "1115690922103136256",
+  "geo" : { },
+  "id_str" : "1115691146263453697",
+  "in_reply_to_user_id" : 14606628,
+  "text" : "@GaryPendergast @nacin I laughed out loud",
+  "id" : 1115691146263453697,
+  "in_reply_to_status_id" : 1115690922103136256,
+  "created_at" : "2019-04-09 19:01:12 +0000",
+  "in_reply_to_screen_name" : "GaryPendergast",
+  "in_reply_to_user_id_str" : "14606628",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Helen \u4FAF-Sand\u00ED",
+      "screen_name" : "helenhousandi",
+      "indices" : [ 0, 14 ],
+      "id_str" : "21204689",
+      "id" : 21204689
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "1115435029402988550",
+  "geo" : { },
+  "id_str" : "1115480669201752064",
+  "in_reply_to_user_id" : 21204689,
+  "text" : "@helenhousandi Yeah, my quick look at things to see in Guatemala makes me think you did not make a bad decision :)",
+  "id" : 1115480669201752064,
+  "in_reply_to_status_id" : 1115435029402988550,
+  "created_at" : "2019-04-09 05:04:50 +0000",
+  "in_reply_to_screen_name" : "helenhousandi",
+  "in_reply_to_user_id_str" : "21204689",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1115475103137980416",
+  "text" : "Sandra Oh and Jodie Comer should just get every Emmy",
+  "id" : 1115475103137980416,
+  "created_at" : "2019-04-09 04:42:43 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1115415558281879552",
+  "text" : "This is apparently my uncoordinated, but regular travel booking week for WCEU:\n\n* Vienna, April 6\n* Belgrade, April 5\n* Berlin, April 8\n\nIt's like an internal clock that finally decides I've almost waited too long. \uD83D\uDE02",
+  "id" : 1115415558281879552,
+  "created_at" : "2019-04-09 00:46:07 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 114, 137 ],
+      "url" : "https:\/\/t.co\/kaU5WPmAGM",
+      "expanded_url" : "https:\/\/twitter.com\/CNBC\/status\/1115080069221949440",
+      "display_url" : "twitter.com\/CNBC\/status\/11\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "1115400574617313280",
+  "text" : "The \u201Csimple trick\u201D to saving $400 is to tip 16.3% instead of 20% when spending $11,000 on eating out in a year. \uD83E\uDD14 https:\/\/t.co\/kaU5WPmAGM",
+  "id" : 1115400574617313280,
+  "created_at" : "2019-04-08 23:46:34 +0000",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Ned Zed",
+      "screen_name" : "greatislander",
+      "indices" : [ 0, 14 ],
+      "id_str" : "640013",
+      "id" : 640013
+    }, {
+      "name" : "IDRC",
+      "screen_name" : "idrc_ocadu",
+      "indices" : [ 15, 26 ],
+      "id_str" : "1615621538",
+      "id" : 1615621538
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "1115258514677612544",
+  "geo" : { },
+  "id_str" : "1115293172337242112",
+  "in_reply_to_user_id" : 640013,
+  "text" : "@greatislander @idrc_ocadu Looks like a great project, congrats!",
+  "id" : 1115293172337242112,
+  "in_reply_to_status_id" : 1115258514677612544,
+  "created_at" : "2019-04-08 16:39:48 +0000",
+  "in_reply_to_screen_name" : "greatislander",
+  "in_reply_to_user_id_str" : "640013",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Arthur Attwell",
+      "screen_name" : "arthurattwell",
+      "indices" : [ 0, 14 ],
+      "id_str" : "18113460",
+      "id" : 18113460
+    }, {
+      "name" : "Andrey Savchenko",
+      "screen_name" : "Rarst",
+      "indices" : [ 15, 21 ],
+      "id_str" : "17101544",
+      "id" : 17101544
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "1114799698198573056",
+  "geo" : { },
+  "id_str" : "1115079540789862400",
+  "in_reply_to_user_id" : 18113460,
+  "text" : "@arthurattwell @Rarst Thanks y'all - searching that term brings up a bunch of good reading. \uD83D\uDC4D",
+  "id" : 1115079540789862400,
+  "in_reply_to_status_id" : 1114799698198573056,
+  "created_at" : "2019-04-08 02:30:54 +0000",
+  "in_reply_to_screen_name" : "arthurattwell",
+  "in_reply_to_user_id_str" : "18113460",
+  "user" : {
+    "name" : "Jeremy Felt",
+    "screen_name" : "jeremyfelt",
+    "protected" : false,
+    "id_str" : "1741681",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016550189920743426\/sgagHsY4_normal.jpg",
+    "id" : 1741681,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "eric",
       "screen_name" : "ericandrewlewis",
@@ -699,7 +1689,7 @@ Grailbird.data.tweets_2019_04 =
       "id_str" : "16441420",
       "id" : 16441420
     }, {
-      "name" : "Morten Rand-Hendriksen",
+      "name" : "Morten is on a prolonged break from all this",
       "screen_name" : "mor10",
       "indices" : [ 9, 15 ],
       "id_str" : "14611891",
@@ -810,7 +1800,7 @@ Grailbird.data.tweets_2019_04 =
       "id_str" : "16441420",
       "id" : 16441420
     }, {
-      "name" : "Morten Rand-Hendriksen",
+      "name" : "Morten is on a prolonged break from all this",
       "screen_name" : "mor10",
       "indices" : [ 9, 15 ],
       "id_str" : "14611891",
@@ -843,7 +1833,7 @@ Grailbird.data.tweets_2019_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ryelle \u2744\uFE0F",
+      "name" : "ryelle \uD83D\uDEAB\uD83E\uDDE9",
       "screen_name" : "ryelle",
       "indices" : [ 0, 7 ],
       "id_str" : "7336452",
@@ -887,7 +1877,7 @@ Grailbird.data.tweets_2019_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ryelle \u2744\uFE0F",
+      "name" : "ryelle \uD83D\uDEAB\uD83E\uDDE9",
       "screen_name" : "ryelle",
       "indices" : [ 0, 7 ],
       "id_str" : "7336452",
@@ -1024,7 +2014,7 @@ Grailbird.data.tweets_2019_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten Rand-Hendriksen",
+      "name" : "Morten is on a prolonged break from all this",
       "screen_name" : "mor10",
       "indices" : [ 0, 6 ],
       "id_str" : "14611891",
@@ -1318,7 +2308,7 @@ Grailbird.data.tweets_2019_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten Rand-Hendriksen",
+      "name" : "Morten is on a prolonged break from all this",
       "screen_name" : "mor10",
       "indices" : [ 0, 6 ],
       "id_str" : "14611891",

@@ -2,7 +2,7 @@ var tweet_index =  [ {
   "file_name" : "data\/js\/tweets\/2019_04.js",
   "year" : 2019,
   "var_name" : "tweets_2019_04",
-  "tweet_count" : 45,
+  "tweet_count" : 73,
   "month" : 4
 }, {
   "file_name" : "data\/js\/tweets\/2019_03.js",
@@ -128,7 +128,7 @@ var tweet_index =  [ {
   "file_name" : "data\/js\/tweets\/2017_07.js",
   "year" : 2017,
   "var_name" : "tweets_2017_07",
-  "tweet_count" : 184,
+  "tweet_count" : 183,
   "month" : 7
 }, {
   "file_name" : "data\/js\/tweets\/2017_06.js",
@@ -164,7 +164,7 @@ var tweet_index =  [ {
   "file_name" : "data\/js\/tweets\/2017_01.js",
   "year" : 2017,
   "var_name" : "tweets_2017_01",
-  "tweet_count" : 177,
+  "tweet_count" : 176,
   "month" : 1
 }, {
   "file_name" : "data\/js\/tweets\/2016_12.js",
@@ -188,7 +188,7 @@ var tweet_index =  [ {
   "file_name" : "data\/js\/tweets\/2016_09.js",
   "year" : 2016,
   "var_name" : "tweets_2016_09",
-  "tweet_count" : 104,
+  "tweet_count" : 105,
   "month" : 9
 }, {
   "file_name" : "data\/js\/tweets\/2016_08.js",
@@ -230,7 +230,7 @@ var tweet_index =  [ {
   "file_name" : "data\/js\/tweets\/2016_02.js",
   "year" : 2016,
   "var_name" : "tweets_2016_02",
-  "tweet_count" : 203,
+  "tweet_count" : 202,
   "month" : 2
 }, {
   "file_name" : "data\/js\/tweets\/2016_01.js",
@@ -254,7 +254,7 @@ var tweet_index =  [ {
   "file_name" : "data\/js\/tweets\/2015_10.js",
   "year" : 2015,
   "var_name" : "tweets_2015_10",
-  "tweet_count" : 199,
+  "tweet_count" : 198,
   "month" : 10
 }, {
   "file_name" : "data\/js\/tweets\/2015_09.js",
@@ -362,7 +362,7 @@ var tweet_index =  [ {
   "file_name" : "data\/js\/tweets\/2014_04.js",
   "year" : 2014,
   "var_name" : "tweets_2014_04",
-  "tweet_count" : 165,
+  "tweet_count" : 164,
   "month" : 4
 }, {
   "file_name" : "data\/js\/tweets\/2014_03.js",
@@ -386,7 +386,7 @@ var tweet_index =  [ {
   "file_name" : "data\/js\/tweets\/2013_12.js",
   "year" : 2013,
   "var_name" : "tweets_2013_12",
-  "tweet_count" : 251,
+  "tweet_count" : 250,
   "month" : 12
 }, {
   "file_name" : "data\/js\/tweets\/2013_11.js",

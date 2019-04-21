@@ -410,7 +410,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pumpkin Spice Ladama",
+      "name" : "Lotta Ladama",
       "screen_name" : "ladama",
       "indices" : [ 0, 7 ],
       "id_str" : "16390477",
@@ -659,7 +659,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "jamieoliver",
       "protected" : false,
       "id_str" : "18676177",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1108293125683011585\/xDjAqWQW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1117706025296171009\/zQs5FXot_normal.png",
       "id" : 18676177,
       "verified" : true
     }

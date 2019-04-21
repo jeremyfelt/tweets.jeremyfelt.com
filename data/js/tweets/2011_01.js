@@ -43,7 +43,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "monaeltahawy",
       "protected" : false,
       "id_str" : "29979814",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1024869858171912192\/1i_hvFkm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1117426110554411013\/XqqMNAYh_normal.jpg",
       "id" : 29979814,
       "verified" : true
     }
